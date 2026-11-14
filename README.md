@@ -19,3 +19,11 @@ python3 scripts/validate_kb.py
 ```
 
 Both scripts use the Python standard library only. Pull requests run the validator and a rebuild check.
+
+Election-law RSA sections are generated from the private `nh-rsa-data` scrape. The HTML is not stored in this repository. Origins are in [`sources/provenance.json`](sources/provenance.json) and [`rsa/GC_AUGMENTATION.md`](rsa/GC_AUGMENTATION.md).
+
+```sh
+python3 scripts/build_rsa.py --source /path/to/nh-rsa-data/rsa_html
+python3 scripts/build_rsa.py --self-test
+python3 scripts/validate_rsa.py
+```

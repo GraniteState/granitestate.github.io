@@ -1,0 +1,11 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rsa/scheme",
+  "@type": "ConceptScheme",
+  "definition": "RSA sections built from the General Court HTML. This scheme lists the titles. Chapters and sections are narrower concepts. The inventory is rsa/index.json.",
+  "hasTopConcept": [
+    "https://granitestate.github.io/rsa/title/IV",
+    "https://granitestate.github.io/rsa/title/LXIII"
+  ],
+  "prefLabel": "New Hampshire Revised Statutes"
+}

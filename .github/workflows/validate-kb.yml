@@ -15,3 +15,7 @@ jobs:
         run: python3 scripts/validate_kb.py
       - name: Rebuild matches committed files
         run: python3 scripts/build_kb.py --check
+      - name: RSA citation parser
+        run: python3 scripts/build_rsa.py --self-test
+      - name: Validate RSA pages
+        run: python3 scripts/validate_rsa.py

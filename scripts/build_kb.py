@@ -994,8 +994,25 @@ def vocab_document() -> dict:
             "Project terms for this knowledge base. "
             "A term identifier is https://granitestate.github.io/kb/vocab# plus the local name, "
             "for example https://granitestate.github.io/kb/vocab#geoid. "
-            "The JSON-LD context that maps short keys to these terms is kb/context.jsonld."
+            "The JSON-LD context that maps short keys to these terms is kb/context.jsonld. "
+            "RSA statute terms are listed in note."
         ),
+        "note": [
+            "catchline: the section heading, including the RSA number and without the trailing dash.",
+            "statuteText: the section body. Line breaks follow the source br tags and table rows. HTML whitespace inside a line is collapsed.",
+            "historyNote: the source note, verbatim aside from collapsed HTML whitespace.",
+            "sessionLaw: one object per session-law citation parsed from the source note or a repeal catchline.",
+            "sessionYear: the year of a session law.",
+            "sessionChapter: the session-law chapter number, as printed.",
+            "sessionSection: the session-law section numbers, as printed.",
+            "sessionRemainder: words in the session-law citation that were not a section number or an effective date.",
+            "effectiveText: the effective-date phrase as printed, including a time of day when the note gives one.",
+            "partHeading: the bold part heading inside a chapter, such as Voting Procedure.",
+            "repealed: true when the catchline says the section is repealed.",
+            "officialHtml: the General Court HTML page this text was copied from.",
+            "combinedWith: another section identifier that shares this source heading.",
+            "rsaTitle: the title's Roman numeral, such as LXIII.",
+        ],
     }
 
 
@@ -1066,6 +1083,20 @@ def context_document() -> dict:
             "countyName": "gs:countyName",
             "wardNumber": "gs:wardNumber",
             "printedMembers": "gs:printedMembers",
+            "catchline": "gs:catchline",
+            "statuteText": "gs:statuteText",
+            "historyNote": "gs:historyNote",
+            "sessionLaw": "gs:sessionLaw",
+            "sessionYear": "gs:sessionYear",
+            "sessionChapter": "gs:sessionChapter",
+            "sessionSection": "gs:sessionSection",
+            "sessionRemainder": "gs:sessionRemainder",
+            "effectiveText": "gs:effectiveText",
+            "partHeading": "gs:partHeading",
+            "repealed": "gs:repealed",
+            "officialHtml": {"@id": "gs:officialHtml", "@type": "@id"},
+            "combinedWith": {"@id": "gs:combinedWith", "@type": "@id"},
+            "rsaTitle": "gs:rsaTitle",
         }
     }
 
