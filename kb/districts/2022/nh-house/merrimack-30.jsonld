@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-30",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-19",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-20",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-21",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-22"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Merrimack",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301314200/ward-5",
+    "https://granitestate.github.io/kb/places/3301314200/ward-6",
+    "https://granitestate.github.io/kb/places/3301314200/ward-7",
+    "https://granitestate.github.io/kb/places/3301314200/ward-8"
+  ],
+  "notation": "Merrimack 30",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Merrimack 30",
+  "printedMembers": "Concord Ward 5; Concord Ward 6; Concord Ward 7; Concord Ward 8",
+  "recordType": "district",
+  "seats": 1,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

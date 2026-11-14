@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301145140/ward-3",
+  "@type": "Concept",
+  "altLabel": [
+    "MANCHESTER WARD 3"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301145140",
+  "censusVtdCode": "MANC03",
+  "censusVtdGeoid": "33011MANC03",
+  "censusVtdName": "MANCHESTER WARD 3",
+  "countyName": "Hillsborough",
+  "geoid": "33011MANC03",
+  "granitDistrict": "Manchester Ward 3",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-23",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-40",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/20",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301145140",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MANC03"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Manchester Ward 3",
+  "recordType": "place",
+  "wardNumber": 3
+}

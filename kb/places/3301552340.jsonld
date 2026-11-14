@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301552340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Newmarket town",
+  "censusVtdCode": "NMAR01",
+  "censusVtdGeoid": "33015NMAR01",
+  "censusVtdName": "TOWN OF NEWMARKET",
+  "countyName": "Rockingham",
+  "geoid": "3301552340",
+  "granitDistrict": "Newmarket- entire",
+  "granitId": "215",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-33",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/21",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301552340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "215"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015NMAR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Newmarket",
+  "recordType": "place"
+}

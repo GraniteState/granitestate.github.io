@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300924340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Enfield town",
+  "censusVtdCode": "ENFI01",
+  "censusVtdGeoid": "33009ENFI01",
+  "censusVtdName": "TOWN OF ENFIELD",
+  "countyName": "Grafton",
+  "geoid": "3300924340",
+  "granitDistrict": "Enfield- entire",
+  "granitId": "110",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300924340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "110"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009ENFI01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Enfield",
+  "recordType": "place"
+}

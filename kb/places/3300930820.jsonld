@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300930820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Grafton town",
+  "censusVtdCode": "GRAF01",
+  "censusVtdGeoid": "33009GRAF01",
+  "censusVtdName": "TOWN OF GRAFTON",
+  "countyName": "Grafton",
+  "geoid": "3300930820",
+  "granitDistrict": "Grafton- entire",
+  "granitId": "4",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-11",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300930820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "4"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009GRAF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Grafton",
+  "recordType": "place"
+}

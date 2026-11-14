@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301527940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Fremont town",
+  "censusVtdCode": "FREM01",
+  "censusVtdGeoid": "33015FREM01",
+  "censusVtdName": "TOWN OF FREMONT",
+  "countyName": "Rockingham",
+  "geoid": "3301527940",
+  "granitDistrict": "Fremont- entire",
+  "granitId": "208",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-32",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301527940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "208"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015FREM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Fremont",
+  "recordType": "place"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301150260/ward-1",
+  "@type": "Concept",
+  "altLabel": [
+    "NASHUA WARD 1"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301150260",
+  "censusVtdCode": "NASH01",
+  "censusVtdGeoid": "33011NASH01",
+  "censusVtdName": "NASHUA WARD 1",
+  "countyName": "Hillsborough",
+  "geoid": "33011NASH01",
+  "granitDistrict": "Nashua Ward 1",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/12",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301150260",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011NASH01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Nashua Ward 1",
+  "recordType": "place",
+  "wardNumber": 1
+}

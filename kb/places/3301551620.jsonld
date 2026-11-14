@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301551620",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Newington town",
+  "censusVtdCode": "NWIN01",
+  "censusVtdGeoid": "33015NWIN01",
+  "censusVtdName": "TOWN OF NEWINGTON",
+  "countyName": "Rockingham",
+  "geoid": "3301551620",
+  "granitDistrict": "Newington- entire",
+  "granitId": "206",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-21",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-37",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/21",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301551620"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "206"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015NWIN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Newington",
+  "recordType": "place"
+}

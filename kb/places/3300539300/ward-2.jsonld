@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300539300/ward-2",
+  "@type": "Concept",
+  "altLabel": [
+    "KEENE WARD 2"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3300539300",
+  "censusVtdCode": "KEEN02",
+  "censusVtdGeoid": "33005KEEN02",
+  "censusVtdName": "KEENE WARD 2",
+  "countyName": "Cheshire",
+  "geoid": "33005KEEN02",
+  "granitDistrict": "Keene Ward 2",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3300539300",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005KEEN02"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Keene Ward 2",
+  "recordType": "place",
+  "wardNumber": 2
+}

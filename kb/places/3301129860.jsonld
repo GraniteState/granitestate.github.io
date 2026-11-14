@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301129860",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Goffstown town",
+  "censusVtdCode": "GOFF01",
+  "censusVtdGeoid": "33011GOFF01",
+  "censusVtdName": "TOWN OF GOFFSTOWN",
+  "countyName": "Hillsborough",
+  "geoid": "3301129860",
+  "granitDistrict": "Goffstown- entire",
+  "granitId": "202",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-29",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-44",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/16",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301129860"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "202"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011GOFF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Goffstown",
+  "recordType": "place"
+}

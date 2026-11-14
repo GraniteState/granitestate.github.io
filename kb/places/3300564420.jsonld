@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300564420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Richmond town",
+  "censusVtdCode": "RICH01",
+  "censusVtdGeoid": "33005RICH01",
+  "censusVtdName": "TOWN OF RICHMOND",
+  "countyName": "Cheshire",
+  "geoid": "3300564420",
+  "granitDistrict": "Richmond- entire",
+  "granitId": "48",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-17",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/9",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300564420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "48"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005RICH01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Richmond",
+  "recordType": "place"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300933860",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Hanover town",
+  "censusVtdCode": "HANO01",
+  "censusVtdGeoid": "33009HANO01",
+  "censusVtdName": "TOWN OF HANOVER",
+  "countyName": "Grafton",
+  "geoid": "3300933860",
+  "granitDistrict": "Hanover- entire",
+  "granitId": "107",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300933860"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "107"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009HANO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hanover",
+  "recordType": "place"
+}

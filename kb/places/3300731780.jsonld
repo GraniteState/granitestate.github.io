@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300731780",
+  "@type": "Concept",
+  "altLabel": [
+    "Green's Grant",
+    "Greens"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Greens grant",
+  "countyName": "Coos",
+  "geoid": "3300731780",
+  "granitDistrict": "Green's Grant- entire",
+  "granitId": "248",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300731780"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "248"
+    }
+  ],
+  "note": "Aliases: Green's Grant (granit); Greens (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Green’s Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

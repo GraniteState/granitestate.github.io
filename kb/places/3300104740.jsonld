@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300104740",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Belmont town",
+  "censusVtdCode": "BELM01",
+  "censusVtdGeoid": "33001BELM01",
+  "censusVtdName": "TOWN OF BELMONT",
+  "countyName": "Belknap",
+  "geoid": "3300104740",
+  "granitDistrict": "Belmont- entire",
+  "granitId": "74",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/2",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300104740"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "74"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001BELM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Belmont",
+  "recordType": "place"
+}

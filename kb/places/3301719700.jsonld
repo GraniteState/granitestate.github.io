@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301719700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Durham town",
+  "censusVtdCode": "DURH01",
+  "censusVtdGeoid": "33017DURH01",
+  "censusVtdName": "TOWN OF DURHAM",
+  "countyName": "Strafford",
+  "geoid": "3301719700",
+  "granitDistrict": "Durham- entire",
+  "granitId": "96",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-20",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/21",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301719700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "96"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017DURH01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Durham",
+  "recordType": "place"
+}

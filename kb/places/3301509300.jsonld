@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301509300",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Candia town",
+  "censusVtdCode": "CAND01",
+  "censusVtdGeoid": "33015CAND01",
+  "censusVtdName": "TOWN OF CANDIA",
+  "countyName": "Rockingham",
+  "geoid": "3301509300",
+  "granitDistrict": "Candia- entire",
+  "granitId": "99",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-31",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/16",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301509300"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "99"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015CAND01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Candia",
+  "recordType": "place"
+}

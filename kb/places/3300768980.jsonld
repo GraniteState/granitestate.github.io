@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300768980",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Shelburne town",
+  "censusVtdCode": "SHEL01",
+  "censusVtdGeoid": "33007SHEL01",
+  "censusVtdName": "TOWN OF SHELBURNE",
+  "countyName": "Coos",
+  "geoid": "3300768980",
+  "granitDistrict": "Shelburne- entire",
+  "granitId": "53",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300768980"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "53"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007SHEL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Shelburne",
+  "recordType": "place"
+}

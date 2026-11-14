@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-19",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-9"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Strafford",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301765140/ward-1",
+    "https://granitestate.github.io/kb/places/3301765140/ward-2",
+    "https://granitestate.github.io/kb/places/3301765140/ward-3",
+    "https://granitestate.github.io/kb/places/3301765140/ward-4",
+    "https://granitestate.github.io/kb/places/3301765140/ward-6"
+  ],
+  "notation": "Strafford 19",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Strafford 19",
+  "printedMembers": "Rochester Ward 1; Rochester Ward 2; Rochester Ward 3; Rochester Ward 4; Rochester Ward 6",
+  "recordType": "district",
+  "seats": 3,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300987060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Woodstock town",
+  "censusVtdCode": "WOOD01",
+  "censusVtdGeoid": "33009WOOD01",
+  "censusVtdName": "TOWN OF WOODSTOCK",
+  "countyName": "Grafton",
+  "geoid": "3300987060",
+  "granitDistrict": "Woodstock- entire",
+  "granitId": "32",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300987060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "32"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009WOOD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Woodstock",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300167300",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Sanbornton town",
+  "censusVtdCode": "SANB01",
+  "censusVtdGeoid": "33001SANB01",
+  "censusVtdName": "TOWN OF SANBORNTON",
+  "countyName": "Belknap",
+  "geoid": "3300167300",
+  "granitDistrict": "Sanbornton- entire",
+  "granitId": "71",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/2",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300167300"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "71"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001SANB01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Sanbornton",
+  "recordType": "place"
+}

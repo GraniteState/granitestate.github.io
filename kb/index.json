@@ -1,0 +1,45 @@
+{
+  "_comment": "Entry point for the GraniteState knowledge base. A concept URI has no file suffix. Fetch the same path with .jsonld appended. Example: https://granitestate.github.io/kb/places/3300101060 is the file kb/places/3300101060.jsonld. A scheme URI returns a @graph of the scheme and every concept in it. names.json folds labels for lookup. Read AGENTS.md before querying.",
+  "base": "https://granitestate.github.io/kb/",
+  "context": "https://granitestate.github.io/kb/context.jsonld",
+  "gaps": "https://granitestate.github.io/kb/KNOWN_GAPS.md",
+  "names": "https://granitestate.github.io/kb/names.json",
+  "schemes": [
+    {
+      "concepts": 343,
+      "counts": {
+        "city": 13,
+        "county": 10,
+        "municipality": 259,
+        "precinct": 320,
+        "state": 1,
+        "town": 221,
+        "unincorporated place": 25,
+        "ward": 73
+      },
+      "file": "kb/schemes/places.jsonld",
+      "id": "https://granitestate.github.io/kb/schemes/places",
+      "prefLabel": "New Hampshire places"
+    },
+    {
+      "concepts": 245,
+      "counts": {
+        "county_commissioner_district": 0,
+        "district": 234,
+        "executive_council": 5,
+        "house_seats": 400,
+        "nh_house": 203,
+        "nh_house_base": 164,
+        "nh_house_floterial": 39,
+        "nh_senate": 24,
+        "office": 5,
+        "plan": 6,
+        "us_house": 2
+      },
+      "file": "kb/schemes/districts-2022.jsonld",
+      "id": "https://granitestate.github.io/kb/schemes/districts-2022",
+      "prefLabel": "New Hampshire districts (2022-2032)"
+    }
+  ],
+  "vocab": "https://granitestate.github.io/kb/vocab"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300941300",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Lebanon city",
+  "countyName": "Grafton",
+  "geoid": "3300941300",
+  "granitId": "109",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300941300/ward-1",
+    "https://granitestate.github.io/kb/places/3300941300/ward-2",
+    "https://granitestate.github.io/kb/places/3300941300/ward-3"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300941300"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "109"
+    }
+  ],
+  "prefLabel": "Lebanon",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301366980",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Salisbury town",
+  "censusVtdCode": "SALI01",
+  "censusVtdGeoid": "33013SALI01",
+  "censusVtdName": "TOWN OF SALISBURY",
+  "countyName": "Merrimack",
+  "geoid": "3301366980",
+  "granitDistrict": "Salisbury- entire",
+  "granitId": "79",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-26",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301366980"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "79"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013SALI01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Salisbury",
+  "recordType": "place"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300128980",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Gilmanton town",
+  "censusVtdCode": "GILM01",
+  "censusVtdGeoid": "33001GILM01",
+  "censusVtdName": "TOWN OF GILMANTON",
+  "countyName": "Belknap",
+  "geoid": "3300128980",
+  "granitDistrict": "Gilmanton- entire",
+  "granitId": "87",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300128980"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "87"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001GILM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Gilmanton",
+  "recordType": "place"
+}

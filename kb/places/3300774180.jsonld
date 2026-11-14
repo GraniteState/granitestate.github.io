@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300774180",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Stratford town",
+  "censusVtdCode": "STRT01",
+  "censusVtdGeoid": "33007STRT01",
+  "censusVtdName": "TOWN OF STRATFORD",
+  "countyName": "Coos",
+  "geoid": "3300774180",
+  "granitDistrict": "Stratford- entire",
+  "granitId": "16",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300774180"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "16"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007STRT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Stratford",
+  "recordType": "place"
+}

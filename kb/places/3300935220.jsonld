@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300935220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Hebron town",
+  "censusVtdCode": "HEBR01",
+  "censusVtdGeoid": "33009HEBR01",
+  "censusVtdName": "TOWN OF HEBRON",
+  "countyName": "Grafton",
+  "geoid": "3300935220",
+  "granitDistrict": "Hebron- entire",
+  "granitId": "41",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-11",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300935220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "41"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009HEBR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hebron",
+  "recordType": "place"
+}

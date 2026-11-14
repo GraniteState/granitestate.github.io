@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301566660",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Salem town",
+  "censusVtdCode": "SALE01",
+  "censusVtdGeoid": "33015SALE01",
+  "censusVtdName": "TOWN OF SALEM",
+  "countyName": "Rockingham",
+  "geoid": "3301566660",
+  "granitDistrict": "Salem- entire",
+  "granitId": "219",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-25",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/22",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301566660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "219"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015SALE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Salem",
+  "recordType": "place"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301337540",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Hopkinton town",
+  "censusVtdCode": "HOPK01",
+  "censusVtdGeoid": "33013HOPK01",
+  "censusVtdName": "TOWN OF HOPKINTON",
+  "countyName": "Merrimack",
+  "geoid": "3301337540",
+  "granitDistrict": "Hopkinton- entire",
+  "granitId": "123",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/15",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301337540"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "123"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013HOPK01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hopkinton",
+  "recordType": "place"
+}

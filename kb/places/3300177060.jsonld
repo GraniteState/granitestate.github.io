@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300177060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Tilton town",
+  "censusVtdCode": "TILT01",
+  "censusVtdGeoid": "33001TILT01",
+  "censusVtdName": "TOWN OF TILTON",
+  "countyName": "Belknap",
+  "geoid": "3300177060",
+  "granitDistrict": "Tilton- entire",
+  "granitId": "77",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300177060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "77"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001TILT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Tilton",
+  "recordType": "place"
+}

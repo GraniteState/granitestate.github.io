@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301151940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "New Ipswich town",
+  "censusVtdCode": "NIPS01",
+  "censusVtdGeoid": "33011NIPS01",
+  "censusVtdName": "TOWN OF NEW IPSWICH",
+  "countyName": "Hillsborough",
+  "geoid": "3301151940",
+  "granitDistrict": "New Ipswich- entire",
+  "granitId": "203",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-32",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/12",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301151940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "203"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011NIPS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "New Ipswich",
+  "recordType": "place"
+}

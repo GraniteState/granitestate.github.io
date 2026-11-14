@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301574340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Stratham town",
+  "censusVtdCode": "STRM01",
+  "censusVtdGeoid": "33015STRM01",
+  "censusVtdName": "TOWN OF STRATHAM",
+  "countyName": "Rockingham",
+  "geoid": "3301574340",
+  "granitDistrict": "Stratham- entire",
+  "granitId": "228",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-33",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/24",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301574340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "228"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015STRM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Stratham",
+  "recordType": "place"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300979380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Waterville Valley town",
+  "censusVtdCode": "WATE01",
+  "censusVtdGeoid": "33009WATE01",
+  "censusVtdName": "TOWN OF WATERVILLE VALLEY",
+  "countyName": "Grafton",
+  "geoid": "3300979380",
+  "granitDistrict": "Waterville Valley- entire",
+  "granitId": "34",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300979380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "34"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009WATE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Waterville Valley",
+  "recordType": "place"
+}

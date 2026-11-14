@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300718340",
+  "@type": "Concept",
+  "altLabel": [
+    "Dix's Grant",
+    "Dixs"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Dixs grant",
+  "countyName": "Coos",
+  "geoid": "3300718340",
+  "granitDistrict": "Dix's Grant- entire",
+  "granitId": "236",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300718340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "236"
+    }
+  ],
+  "note": "Aliases: Dix's Grant (granit); Dixs (census).\n\nVotes in Errol (3300725140).",
+  "precinct": true,
+  "prefLabel": "Dix’s Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300725140"
+}

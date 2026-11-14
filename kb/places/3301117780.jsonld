@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301117780",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Deering town",
+  "censusVtdCode": "DRNG01",
+  "censusVtdGeoid": "33011DRNG01",
+  "censusVtdName": "TOWN OF DEERING",
+  "countyName": "Hillsborough",
+  "geoid": "3301117780",
+  "granitDistrict": "Deering- entire",
+  "granitId": "102",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-27",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301117780"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "102"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011DRNG01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Deering",
+  "recordType": "place"
+}

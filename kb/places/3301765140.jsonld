@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301765140",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Rochester city",
+  "countyName": "Strafford",
+  "geoid": "3301765140",
+  "granitId": "175",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301765140/ward-1",
+    "https://granitestate.github.io/kb/places/3301765140/ward-2",
+    "https://granitestate.github.io/kb/places/3301765140/ward-3",
+    "https://granitestate.github.io/kb/places/3301765140/ward-4",
+    "https://granitestate.github.io/kb/places/3301765140/ward-5",
+    "https://granitestate.github.io/kb/places/3301765140/ward-6"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301765140"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "175"
+    }
+  ],
+  "prefLabel": "Rochester",
+  "recordType": "place"
+}

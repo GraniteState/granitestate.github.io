@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301741460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Lee town",
+  "censusVtdCode": "0LEE01",
+  "censusVtdGeoid": "330170LEE01",
+  "censusVtdName": "TOWN OF LEE",
+  "countyName": "Strafford",
+  "geoid": "3301741460",
+  "granitDistrict": "Lee- entire",
+  "granitId": "181",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-11",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-20",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/21",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301741460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "181"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "330170LEE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Lee",
+  "recordType": "place"
+}

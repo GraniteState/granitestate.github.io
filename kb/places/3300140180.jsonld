@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300140180",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Laconia city",
+  "countyName": "Belknap",
+  "geoid": "3300140180",
+  "granitId": "173",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300140180/ward-1",
+    "https://granitestate.github.io/kb/places/3300140180/ward-2",
+    "https://granitestate.github.io/kb/places/3300140180/ward-3",
+    "https://granitestate.github.io/kb/places/3300140180/ward-4",
+    "https://granitestate.github.io/kb/places/3300140180/ward-5",
+    "https://granitestate.github.io/kb/places/3300140180/ward-6"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300140180"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "173"
+    }
+  ],
+  "prefLabel": "Laconia",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301137940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Hudson town",
+  "censusVtdCode": "HUDS01",
+  "censusVtdGeoid": "33011HUDS01",
+  "censusVtdName": "TOWN OF HUDSON",
+  "countyName": "Hillsborough",
+  "geoid": "3301137940",
+  "granitDistrict": "Hudson- entire",
+  "granitId": "220",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-38",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/14",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301137940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "220"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011HUDS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hudson",
+  "recordType": "place"
+}

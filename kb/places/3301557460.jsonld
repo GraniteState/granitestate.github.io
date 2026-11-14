@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301557460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Nottingham town",
+  "censusVtdCode": "NOTT01",
+  "censusVtdGeoid": "33015NOTT01",
+  "censusVtdName": "TOWN OF NOTTINGHAM",
+  "countyName": "Rockingham",
+  "geoid": "3301557460",
+  "granitDistrict": "Nottingham- entire",
+  "granitId": "180",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301557460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "180"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015NOTT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Nottingham",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301540100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Kingston town",
+  "censusVtdCode": "KING01",
+  "censusVtdGeoid": "33015KING01",
+  "censusVtdName": "TOWN OF KINGSTON",
+  "countyName": "Rockingham",
+  "geoid": "3301540100",
+  "granitDistrict": "Kingston- entire",
+  "granitId": "192",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-14",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-34",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301540100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "192"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015KING01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Kingston",
+  "recordType": "place"
+}

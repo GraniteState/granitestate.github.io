@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301104500",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Bedford town",
+  "censusVtdCode": "BEDF01",
+  "censusVtdGeoid": "33011BEDF01",
+  "censusVtdName": "TOWN OF BEDFORD",
+  "countyName": "Hillsborough",
+  "geoid": "3301104500",
+  "granitDistrict": "Bedford- entire",
+  "granitId": "191",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/9",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301104500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "191"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011BEDF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bedford",
+  "recordType": "place"
+}

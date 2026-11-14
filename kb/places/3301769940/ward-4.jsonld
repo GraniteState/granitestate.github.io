@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301769940/ward-4",
+  "@type": "Concept",
+  "altLabel": [
+    "SOMERSWORTH WARD 4"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301769940",
+  "censusVtdCode": "SOME04",
+  "censusVtdGeoid": "33017SOME04",
+  "censusVtdName": "SOMERSWORTH WARD 4",
+  "countyName": "Strafford",
+  "geoid": "33017SOME04",
+  "granitDistrict": "Somersworth Ward 4",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/4",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301769940",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017SOME04"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Somersworth Ward 4",
+  "recordType": "place",
+  "wardNumber": 4
+}

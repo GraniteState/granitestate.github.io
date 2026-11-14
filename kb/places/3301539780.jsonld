@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301539780",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Kensington town",
+  "censusVtdCode": "KENS01",
+  "censusVtdGeoid": "33015KENS01",
+  "censusVtdName": "TOWN OF KENSINGTON",
+  "countyName": "Rockingham",
+  "geoid": "3301539780",
+  "granitDistrict": "Kensington- entire",
+  "granitId": "211",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-19",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-36",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301539780"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "211"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015KENS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Kensington",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300784420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Whitefield town",
+  "censusVtdCode": "WHIT01",
+  "censusVtdGeoid": "33007WHIT01",
+  "censusVtdName": "TOWN OF WHITEFIELD",
+  "countyName": "Coos",
+  "geoid": "3300784420",
+  "granitDistrict": "Whitefield- entire",
+  "granitId": "50",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300784420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "50"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007WHIT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Whitefield",
+  "recordType": "place"
+}

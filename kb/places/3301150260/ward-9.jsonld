@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301150260/ward-9",
+  "@type": "Concept",
+  "altLabel": [
+    "NASHUA WARD 9"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301150260",
+  "censusVtdCode": "NASH09",
+  "censusVtdGeoid": "33011NASH09",
+  "censusVtdName": "NASHUA WARD 9",
+  "countyName": "Hillsborough",
+  "geoid": "33011NASH09",
+  "granitDistrict": "Nashua Ward 9",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/13",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301150260",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011NASH09"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Nashua Ward 9",
+  "recordType": "place",
+  "wardNumber": 9
+}

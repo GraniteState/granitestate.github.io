@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301108100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Brookline town",
+  "censusVtdCode": "BRKL01",
+  "censusVtdGeoid": "33011BRKL01",
+  "censusVtdName": "TOWN OF BROOKLINE",
+  "countyName": "Hillsborough",
+  "geoid": "3301108100",
+  "granitDistrict": "Brookline- entire",
+  "granitId": "222",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-36",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-45",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/12",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301108100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "222"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011BRKL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Brookline",
+  "recordType": "place"
+}

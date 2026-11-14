@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300761780",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Pittsburg town",
+  "censusVtdCode": "PITB01",
+  "censusVtdGeoid": "33007PITB01",
+  "censusVtdName": "TOWN OF PITTSBURG",
+  "countyName": "Coos",
+  "geoid": "3300761780",
+  "granitDistrict": "Pittsburg- entire",
+  "granitId": "10",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300761780"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "10"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007PITB01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Pittsburg",
+  "recordType": "place"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-21",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Rockingham",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": false,
+  "floterialDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-37"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301551620",
+    "https://granitestate.github.io/kb/places/3301562900/ward-1"
+  ],
+  "notation": "Rockingham 21",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Rockingham 21",
+  "printedMembers": "Newington; Portsmouth Ward 1",
+  "recordType": "district",
+  "seats": 1,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

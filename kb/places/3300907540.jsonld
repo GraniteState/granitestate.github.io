@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300907540",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Bridgewater town",
+  "censusVtdCode": "BRID01",
+  "censusVtdGeoid": "33009BRID01",
+  "censusVtdName": "TOWN OF BRIDGEWATER",
+  "countyName": "Grafton",
+  "geoid": "3300907540",
+  "granitDistrict": "Bridgewater- entire",
+  "granitId": "145",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300907540"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "145"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009BRID01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bridgewater",
+  "recordType": "place"
+}

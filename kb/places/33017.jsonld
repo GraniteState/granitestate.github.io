@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33017",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33017",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301703460",
+    "https://granitestate.github.io/kb/places/3301718820",
+    "https://granitestate.github.io/kb/places/3301719700",
+    "https://granitestate.github.io/kb/places/3301726020",
+    "https://granitestate.github.io/kb/places/3301741460",
+    "https://granitestate.github.io/kb/places/3301744820",
+    "https://granitestate.github.io/kb/places/3301747700",
+    "https://granitestate.github.io/kb/places/3301748660",
+    "https://granitestate.github.io/kb/places/3301751220",
+    "https://granitestate.github.io/kb/places/3301765140",
+    "https://granitestate.github.io/kb/places/3301765540",
+    "https://granitestate.github.io/kb/places/3301769940",
+    "https://granitestate.github.io/kb/places/3301773860"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33017"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Strafford",
+  "recordType": "place"
+}

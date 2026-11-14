@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301773860",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Strafford town",
+  "censusVtdCode": "STFD01",
+  "censusVtdGeoid": "33017STFD01",
+  "censusVtdName": "TOWN OF STRAFFORD",
+  "countyName": "Strafford",
+  "geoid": "3301773860",
+  "granitDistrict": "Strafford- entire",
+  "granitId": "91",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301773860"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "91"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017STFD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Strafford",
+  "recordType": "place"
+}

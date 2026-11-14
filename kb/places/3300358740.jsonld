@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300358740",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Ossipee town",
+  "censusVtdCode": "OSSI01",
+  "censusVtdGeoid": "33003OSSI01",
+  "censusVtdName": "TOWN OF OSSIPEE",
+  "countyName": "Carroll",
+  "geoid": "3300358740",
+  "granitDistrict": "Ossipee- entire",
+  "granitId": "146",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300358740"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "146"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003OSSI01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Ossipee",
+  "recordType": "place"
+}

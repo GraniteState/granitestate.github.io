@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301185220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Wilton town",
+  "censusVtdCode": "WILT01",
+  "censusVtdGeoid": "33011WILT01",
+  "censusVtdName": "TOWN OF WILTON",
+  "countyName": "Hillsborough",
+  "geoid": "3301185220",
+  "granitDistrict": "Wilton- entire",
+  "granitId": "106",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-32",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/11",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301185220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "106"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011WILT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Wilton",
+  "recordType": "place"
+}

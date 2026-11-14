@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300512260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Chesterfield town",
+  "censusVtdCode": "CHES01",
+  "censusVtdGeoid": "33005CHES01",
+  "censusVtdName": "TOWN OF CHESTERFIELD",
+  "countyName": "Cheshire",
+  "geoid": "3300512260",
+  "granitDistrict": "Chesterfield- entire",
+  "granitId": "134",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300512260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "134"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005CHES01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Chesterfield",
+  "recordType": "place"
+}

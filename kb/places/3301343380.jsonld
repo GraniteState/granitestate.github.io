@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301343380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Loudon town",
+  "censusVtdCode": "LOUD01",
+  "censusVtdGeoid": "33013LOUD01",
+  "censusVtdName": "TOWN OF LOUDON",
+  "countyName": "Merrimack",
+  "geoid": "3301343380",
+  "granitDistrict": "Loudon- entire",
+  "granitId": "90",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-26",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301343380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "90"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013LOUD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Loudon",
+  "recordType": "place"
+}

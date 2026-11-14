@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300740420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Lancaster town",
+  "censusVtdCode": "LANC01",
+  "censusVtdGeoid": "33007LANC01",
+  "censusVtdName": "TOWN OF LANCASTER",
+  "countyName": "Coos",
+  "geoid": "3300740420",
+  "granitDistrict": "Lancaster- entire",
+  "granitId": "21",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300740420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "21"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007LANC01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Lancaster",
+  "recordType": "place"
+}

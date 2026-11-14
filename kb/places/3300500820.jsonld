@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300500820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Alstead town",
+  "censusVtdCode": "ALST01",
+  "censusVtdGeoid": "33005ALST01",
+  "censusVtdName": "TOWN OF ALSTEAD",
+  "countyName": "Cheshire",
+  "geoid": "3300500820",
+  "granitDistrict": "Alstead- entire",
+  "granitId": "126",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300500820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "126"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005ALST01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Alstead",
+  "recordType": "place"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301327380/ward-2",
+  "@type": "Concept",
+  "altLabel": [
+    "FRANKLIN WARD 2"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301327380",
+  "censusVtdCode": "FRAN02",
+  "censusVtdGeoid": "33013FRAN02",
+  "censusVtdName": "FRANKLIN WARD 2",
+  "countyName": "Merrimack",
+  "geoid": "33013FRAN02",
+  "granitDistrict": "Franklin Ward 2",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-25",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301327380",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013FRAN02"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Franklin Ward 2",
+  "recordType": "place",
+  "wardNumber": 2
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301145140/ward-7",
+  "@type": "Concept",
+  "altLabel": [
+    "MANCHESTER WARD 7"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301145140",
+  "censusVtdCode": "MANC07",
+  "censusVtdGeoid": "33011MANC07",
+  "censusVtdName": "MANCHESTER WARD 7",
+  "countyName": "Hillsborough",
+  "geoid": "33011MANC07",
+  "granitDistrict": "Manchester Ward 7",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-26",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-41",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/18",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301145140",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MANC07"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Manchester Ward 7",
+  "recordType": "place",
+  "wardNumber": 7
+}

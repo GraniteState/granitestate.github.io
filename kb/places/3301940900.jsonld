@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301940900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Langdon town",
+  "censusVtdCode": "LANG01",
+  "censusVtdGeoid": "33019LANG01",
+  "censusVtdName": "TOWN OF LANGDON",
+  "countyName": "Sullivan",
+  "geoid": "3301940900",
+  "granitDistrict": "Langdon- entire",
+  "granitId": "160",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301940900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "160"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019LANG01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Langdon",
+  "recordType": "place"
+}

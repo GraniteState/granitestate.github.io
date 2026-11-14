@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301941700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Lempster town",
+  "censusVtdCode": "LEMP01",
+  "censusVtdGeoid": "33019LEMP01",
+  "censusVtdName": "TOWN OF LEMPSTER",
+  "countyName": "Sullivan",
+  "geoid": "3301941700",
+  "granitDistrict": "Lempster- entire",
+  "granitId": "159",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301941700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "159"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019LEMP01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Lempster",
+  "recordType": "place"
+}

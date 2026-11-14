@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300768500",
+  "@type": "Concept",
+  "altLabel": [
+    "Second College Gt",
+    "Second College"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Second College grant",
+  "countyName": "Coos",
+  "geoid": "3300768500",
+  "granitId": "234",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300768500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "234"
+    }
+  ],
+  "note": "GRANIT town ID and Census GEOID applied from the one-for-one match in raw/sos-voting-districts/derived/name_mismatches.csv. The SOS voting-districts list spells this place 'Second College Gt'.\n\nAliases: Second College Gt (sos_voting_districts); Second College (census).\n\nVotes in Errol (3300725140).",
+  "precinct": true,
+  "prefLabel": "Second College Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300725140"
+}

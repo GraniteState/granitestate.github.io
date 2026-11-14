@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300907700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Bristol town",
+  "censusVtdCode": "BRIS01",
+  "censusVtdGeoid": "33009BRIS01",
+  "censusVtdName": "TOWN OF BRISTOL",
+  "countyName": "Grafton",
+  "geoid": "3300907700",
+  "granitDistrict": "Bristol- entire",
+  "granitId": "68",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300907700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "68"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009BRIS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bristol",
+  "recordType": "place"
+}

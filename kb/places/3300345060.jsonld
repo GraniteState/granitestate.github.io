@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300345060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Madison town",
+  "censusVtdCode": "MADI01",
+  "censusVtdGeoid": "33003MADI01",
+  "censusVtdName": "TOWN OF MADISON",
+  "countyName": "Carroll",
+  "geoid": "3300345060",
+  "granitDistrict": "Madison- entire",
+  "granitId": "143",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300345060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "143"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003MADI01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Madison",
+  "recordType": "place"
+}

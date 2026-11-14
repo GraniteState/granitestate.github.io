@@ -1,0 +1,1711 @@
+{
+  "_comment": "NH redistricting events: drives data collection for the nh-elections project. GIS hierarchy: precinct (town / city ward / unincorporated place) > municipality > county. Each precinct will map to a date-keyed GIS table of district assignments; use each plan's effective date and first_election to key it. NH legislative, council and commissioner districts are built from whole towns/wards/places (no splits except congressional), and NH House plans include floterial (overlapping) districts, so one unit can belong to two House districts. City ward lines are set by city charter and state acts and can change between cycles. status values: used | vetoed | never_used | superseded | failed (died in legislature) | unknown (not yet researched). office values: us_house | nh_house | nh_senate | executive_council | county_commissioner | ward_boundaries | nh_house+nh_senate (see offices[]). superseded_by is a plan id, a list of plan ids (when a combined plan was replaced by separate plans), or null for current plans. status 'used' means the plan was used in at least one election; superseded_by shows what later replaced it. Plans with status vetoed, failed or never_used carry used_in_election=false: skip them for collection. Dates are ISO YYYY-MM-DD; null means unknown, and every null or doubtful field is named in that object's unconfirmed[] list.",
+  "schema_version": "1.0.0",
+  "generated": "2026-11-10",
+  "repo_path": "nh-elections/redistricting.json",
+  "sources": [
+    {
+      "id": "rsa662",
+      "name": "NH General Court, RSA ch. 662 (Elective Districts) with source notes",
+      "url": "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+    },
+    {
+      "id": "all",
+      "name": "All About Redistricting (Loyola Law School), New Hampshire",
+      "url": "https://redistricting.lls.edu/state/new-hampshire/"
+    },
+    {
+      "id": "hj1982",
+      "name": "NH House Journal, 1981-82 Special Session (Internet Archive scan)",
+      "url": "https://archive.org/details/journalofhouseof8182newh"
+    },
+    {
+      "id": "sj1982",
+      "name": "NH Senate Journal, 1981-82 (Internet Archive scan)",
+      "url": "https://archive.org/details/vol.19811982journalofthesenateofthestateofnewhampshire"
+    },
+    {
+      "id": "monier",
+      "name": "Monier v. Gallen, 122 N.H. 474 (N.H. May 21, 1982)",
+      "url": "https://law.justia.com/cases/new-hampshire/supreme-court/1982/82-208-0.html"
+    },
+    {
+      "id": "boyer",
+      "name": "Boyer v. Gardner, 540 F. Supp. 624 (D.N.H. June 4, 1982)",
+      "url": "https://law.justia.com/cases/federal/district-courts/FSupp/540/624/1611720/"
+    },
+    {
+      "id": "fairvote",
+      "name": "FairVote archive, NH redistricting news (secondary)",
+      "url": "https://archive.fairvote.org/redistricting/reports/remanual/nhnews2.htm"
+    },
+    {
+      "id": "gr1992hb591",
+      "name": "Granite Record: HB 591 (1992)",
+      "url": "https://graniterecord.org/bill/1992/hb591"
+    },
+    {
+      "id": "gr1992hb1005",
+      "name": "Granite Record: HB 1005 (1992)",
+      "url": "https://graniterecord.org/bill/1992/hb1005"
+    },
+    {
+      "id": "gr1992sb300",
+      "name": "Granite Record: SB 300 (1992)",
+      "url": "https://graniterecord.org/bill/1992/sb300"
+    },
+    {
+      "id": "gr1992hb545",
+      "name": "Granite Record: HB 545 (1992)",
+      "url": "https://graniterecord.org/bill/1992/hb545"
+    },
+    {
+      "id": "gr1992hb569",
+      "name": "Granite Record: HB 569 (1992)",
+      "url": "https://graniterecord.org/bill/1992/hb569"
+    },
+    {
+      "id": "gr2002sb3",
+      "name": "Granite Record: SB 3 (2002)",
+      "url": "https://graniterecord.org/bill/2002/sb3"
+    },
+    {
+      "id": "gr2002hb379",
+      "name": "Granite Record: HB 379 (2002)",
+      "url": "https://graniterecord.org/bill/2002/hb379"
+    },
+    {
+      "id": "gr2002hb380",
+      "name": "Granite Record: HB 380 (2002)",
+      "url": "https://graniterecord.org/bill/2002/hb380"
+    },
+    {
+      "id": "below2002",
+      "name": "Below v. Gardner, 148 N.H. 1 (2002)",
+      "url": "https://www.courtlistener.com/opinion/8092522/below-v-gardner/"
+    },
+    {
+      "id": "burling2002",
+      "name": "Burling v. Chandler, 148 N.H. 143 (2002)",
+      "url": "https://www.courtlistener.com/opinion/8092542/representative-burling-v-chandler/"
+    },
+    {
+      "id": "gc2004hb1292",
+      "name": "NH General Court: HB 1292 (2004) final version, Ch. 18",
+      "url": "https://gencourt.state.nh.us/legislation/2004/hb1292.html"
+    },
+    {
+      "id": "gr2004hb264",
+      "name": "Granite Record: HB 264 (2004)",
+      "url": "https://graniterecord.org/bill/2004/hb264"
+    },
+    {
+      "id": "gr2012hb592",
+      "name": "Granite Record: HB 592 (2012)",
+      "url": "https://graniterecord.org/bill/2012/hb592"
+    },
+    {
+      "id": "gr2012sb201",
+      "name": "Granite Record: SB 201 (2012)",
+      "url": "https://graniterecord.org/bill/2012/sb201"
+    },
+    {
+      "id": "gr2012sb202",
+      "name": "Granite Record: SB 202 (2012)",
+      "url": "https://graniterecord.org/bill/2012/sb202"
+    },
+    {
+      "id": "gc2012hb1670",
+      "name": "NH General Court: HB 1670 (2012), Ch. 170",
+      "url": "https://gencourt.state.nh.us/legislation/2012/hb1670.html"
+    },
+    {
+      "id": "gr2012hb1717",
+      "name": "Granite Record: HB 1717 (2012)",
+      "url": "https://graniterecord.org/bill/2012/hb1717"
+    },
+    {
+      "id": "gr2012committee",
+      "name": "Granite Record: Senate Internal Affairs bill list (HB 1671 status)",
+      "url": "https://graniterecord.org/committee/S09"
+    },
+    {
+      "id": "gr2022hb50",
+      "name": "Granite Record: HB 50 (2022)",
+      "url": "https://graniterecord.org/bill/2022/hb50"
+    },
+    {
+      "id": "legiscan2022sb240",
+      "name": "LegiScan: SB 240 (2022) enrolled",
+      "url": "https://legiscan.com/NH/text/SB240/2022"
+    },
+    {
+      "id": "gr2022sb241",
+      "name": "Granite Record: SB 241 (2022)",
+      "url": "https://graniterecord.org/bill/2022/sb241"
+    },
+    {
+      "id": "gr2022hb54",
+      "name": "Granite Record: HB 54 (2022)",
+      "url": "https://graniterecord.org/bill/2022/hb54"
+    },
+    {
+      "id": "sos2022changes",
+      "name": "NH SOS: 2022 Election Law Changes",
+      "url": "https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/2022-election-law-changesv2_0.pdf"
+    },
+    {
+      "id": "norelli2022",
+      "name": "Norelli v. Secretary of State, No. 2022-0184 (N.H. May 12, 2022)",
+      "url": "https://www.courtlistener.com/opinion/6467782/theresa-norelli-a-v-secretary-of-state-a/"
+    },
+    {
+      "id": "legiscan2023hb75",
+      "name": "LegiScan: HB 75 (2023), Ch. 177",
+      "url": "https://legiscan.com/NH/text/HB75/id/2806643"
+    },
+    {
+      "id": "electionstats2024strafford",
+      "name": "NH Elections Database: 2024 Strafford County Commissioner District 1",
+      "url": "https://nh.electionstats.com/elections/view/171093"
+    },
+    {
+      "id": "gr2026hb1300",
+      "name": "Granite Record: HB 1300 (2026)",
+      "url": "https://graniterecord.org/bill/2026/hb1300"
+    },
+    {
+      "id": "globe2026",
+      "name": "Boston Globe, Jan 14, 2026: No path to 2026 redistricting in N.H.",
+      "url": "https://www.bostonglobe.com/2026/01/14/metro/nh-congress-redistrict-republican-trump/"
+    }
+  ],
+  "events": [
+    {
+      "_comment": "1980 Census cycle. Legislature enacted US House, Executive Council and NH House plans. Gov. Gallen vetoed the Senate plan (SB 1); NH Supreme Court retained jurisdiction (Monier v. Gallen) and approved a negotiated Senate plan before the June 1982 filing period; the Legislature then codified the identical plan as SB 25 (Ch. 45), passed by the House 1982-06-24. Session-law signing dates for 1982 were not found online; chapter numbers come from the RSA 662 source notes and the 1981-82 House/Senate journal indexes. Several 1982 city ward-line bills (Nashua, Keene, Concord, Dover/Manchester, Portsmouth omnibus) were vetoed and sustained, so 1982 ward geometry did not change in those cities via those bills.",
+      "id": "nh-redistricting-1982",
+      "census_year": 1980,
+      "label": "1982 redistricting (1980 Census)",
+      "election_dates": {
+        "_comment": "Primary 1982-09-14 confirmed in Monier v. Gallen; general date computed (first Tuesday after first Monday in November).",
+        "primary": "1982-09-14",
+        "general": "1982-11-02",
+        "unconfirmed": [
+          "general"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "Chapter 18 per RSA 662:1 source note and journal indexes (SB 3, 'reapportioning the New Hampshire congressional districts'). Signing/effective dates not found online.",
+          "id": "1982-us_house-sb3",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "Laws 1982, 18:1 (RSA 662:1)",
+          "bill": "SB 3",
+          "chapter": 18,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1982-09-14",
+            "general": "1982-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "1992-us_house-sb300",
+          "source_ids": [
+            "rsa662",
+            "hj1982",
+            "sj1982"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://archive.org/details/journalofhouseof8182newh",
+            "https://archive.org/details/vol.19811982journalofthesenateofthestateofnewhampshire"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election.general"
+          ]
+        },
+        {
+          "_comment": "Chapter 19 per RSA 662:2 source note and journal indexes.",
+          "id": "1982-executive_council-sb2",
+          "office": "executive_council",
+          "authority_type": "statute",
+          "citation": "Laws 1982, 19:1 (RSA 662:2)",
+          "bill": "SB 2",
+          "chapter": 19,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1982-09-14",
+            "general": "1982-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "1992-executive_council-hb545",
+          "source_ids": [
+            "rsa662",
+            "hj1982",
+            "sj1982"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://archive.org/details/journalofhouseof8182newh",
+            "https://archive.org/details/vol.19811982journalofthesenateofthestateofnewhampshire"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election.general"
+          ]
+        },
+        {
+          "_comment": "162 districts incl. 17 floterials. Boyer says it was 'enacted into law ... on April 20, 1982'; whether that is the governor's signature date is unconfirmed. Federal three-judge court denied relief May 28, 1982 (opinion June 4, 1982), so the plan was used for the 1982 filing period.",
+          "id": "1982-nh_house-hb2",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 1982, 29:1 (RSA 662:5); upheld in Boyer v. Gardner, 540 F. Supp. 624 (D.N.H. 1982)",
+          "bill": "HB 2",
+          "chapter": 29,
+          "dates": {
+            "passed_or_decided": "1982-04-20",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1982-09-14",
+            "general": "1982-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "1992-nh_house-senate-hb591",
+          "source_ids": [
+            "rsa662",
+            "hj1982",
+            "sj1982",
+            "boyer"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://archive.org/details/journalofhouseof8182newh",
+            "https://archive.org/details/vol.19811982journalofthesenateofthestateofnewhampshire",
+            "https://law.justia.com/cases/federal/district-courts/FSupp/540/624/1611720/"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election.general"
+          ]
+        },
+        {
+          "_comment": "HB 31 'establishing ward lines for the city of Berlin' (original title also re-districted Berlin's House seats). Ch. 43 amended RSA 662:5. Enrolled late in the session (around June 1982); whether it applied to the 1982 election is unconfirmed. Relevant to Berlin ward GIS.",
+          "id": "1982-nh_house-hb31-berlin",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 1982, 43 (incl. 43:7 amending RSA 662:5)",
+          "bill": "HB 31",
+          "chapter": 43,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "unknown",
+          "used_in_election": null,
+          "superseded_by": null,
+          "source_ids": [
+            "rsa662",
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election",
+            "used_in_election"
+          ]
+        },
+        {
+          "_comment": "Court said (May 21, 1982) it would issue orders on/after May 28, 1982 unless a plan became law. Senate journal (21 June 1982) states SB 25 is 'an exact duplicate of what has been approved by the Supreme Court'. SB 25 passed Senate June 21 and House June 24, 1982 (legislative-day dates), Ch. 45. Date of the court's approval order and governor's signature on Ch. 45 not found.",
+          "id": "1982-nh_senate-court-sb25",
+          "office": "nh_senate",
+          "authority_type": "court",
+          "citation": "Monier v. Gallen, 122 N.H. 474 (1982) (court-approved plan); codified as Laws 1982, 45:1 (RSA 662:3)",
+          "bill": "SB 25",
+          "chapter": 45,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1982-09-14",
+            "general": "1982-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "1992-nh_house-senate-hb591",
+          "source_ids": [
+            "monier",
+            "sj1982",
+            "hj1982",
+            "rsa662",
+            "fairvote"
+          ],
+          "source_urls": [
+            "https://law.justia.com/cases/new-hampshire/supreme-court/1982/82-208-0.html",
+            "https://archive.org/details/vol.19811982journalofthesenateofthestateofnewhampshire",
+            "https://archive.org/details/journalofhouseof8182newh",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://archive.fairvote.org/redistricting/reports/remanual/nhnews2.htm"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election.general"
+          ],
+          "codified_by": {
+            "bill": "SB 25",
+            "chapter": 45,
+            "house_passed": "1982-06-24"
+          }
+        },
+        {
+          "_comment": "Passed House 1982-04-13; vetoed by Gov. Gallen 1982-04-20; override failed 1982-05-13 (Monier v. Gallen). Skip for data collection.",
+          "id": "1982-nh_senate-sb1-vetoed",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "SB 1 (1982) vetoed",
+          "bill": "SB 1",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "1982-04-20",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "monier",
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://law.justia.com/cases/new-hampshire/supreme-court/1982/82-208-0.html",
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": []
+        },
+        {
+          "_comment": "Nashua ward lines; veto sustained (House Journal index). Governor's message cited pending reapportionment litigation.",
+          "id": "1982-ward-hb32-nashua-vetoed",
+          "office": "ward_boundaries",
+          "authority_type": "statute",
+          "citation": "HB 32 (1982) vetoed",
+          "bill": "HB 32",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        },
+        {
+          "_comment": "Keene ward lines / Keene representative districts; veto sustained.",
+          "id": "1982-ward-hb37-keene-vetoed",
+          "office": "ward_boundaries",
+          "authority_type": "statute",
+          "citation": "HB 37 (1982) vetoed",
+          "bill": "HB 37",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        },
+        {
+          "_comment": "Concord ward lines and charter; veto sustained.",
+          "id": "1982-ward-hb39-concord-vetoed",
+          "office": "ward_boundaries",
+          "authority_type": "statute",
+          "citation": "HB 39 (1982) vetoed",
+          "bill": "HB 39",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        },
+        {
+          "_comment": "Dover representatives and Manchester ward lines; veto sustained. Governor's veto message dated around May 27, 1982.",
+          "id": "1982-ward-hb43-dover-manchester-vetoed",
+          "office": "ward_boundaries",
+          "authority_type": "statute",
+          "citation": "HB 43 (1982) vetoed",
+          "bill": "HB 43",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        },
+        {
+          "_comment": "Omnibus ward lines for Portsmouth, Manchester, Concord, Nashua and Keene representative districts; veto sustained.",
+          "id": "1982-ward-hb45-omnibus-vetoed",
+          "office": "ward_boundaries",
+          "authority_type": "statute",
+          "citation": "HB 45 (1982) vetoed",
+          "bill": "HB 45",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "hj1982"
+          ],
+          "source_urls": [
+            "https://archive.org/details/journalofhouseof8182newh"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        },
+        {
+          "_comment": "Mid-decade amendment to the 1982 Senate districts, listed only in the RSA 662:3 source note. Scope not checked; probably first used in 1984 (unconfirmed).",
+          "id": "1983-nh_senate-amendment",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "Laws 1983, 153:1, 2 (RSA 662:3)",
+          "bill": null,
+          "chapter": 153,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "unknown",
+          "used_in_election": null,
+          "superseded_by": "1992-nh_house-senate-hb591",
+          "source_ids": [
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "bill",
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election",
+            "used_in_election"
+          ]
+        },
+        {
+          "_comment": "Mid-decade amendments to the 1982 House districts, listed only in the RSA 662:5 source note. Likely city ward or town-division changes; not researched. They matter for 1984/1986 GIS.",
+          "id": "1983-1985-nh_house-amendments",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 1983, 248:3; 282:1; 317:1; 424:5; Laws 1985, 31:1 (RSA 662:5)",
+          "bill": null,
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "unknown",
+          "used_in_election": null,
+          "superseded_by": "1992-nh_house-senate-hb591",
+          "source_ids": [
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "bill",
+            "chapter",
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election",
+            "used_in_election"
+          ]
+        },
+        {
+          "_comment": "No 1982 entry in the RSA 662:4 source note; commissioner districts date from the 1979 recodification (1979, 436:1), amended in 1983. Scope not checked.",
+          "id": "1983-county_commissioner-amendments",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 1983, 165:1; 357:1 (RSA 662:4)",
+          "bill": null,
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "unknown",
+          "used_in_election": null,
+          "superseded_by": "1992-county_commissioner-hb569",
+          "source_ids": [
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "bill",
+            "chapter",
+            "dates.passed_or_decided",
+            "dates.effective",
+            "first_election",
+            "used_in_election"
+          ]
+        }
+      ]
+    },
+    {
+      "_comment": "1990 Census cycle. All plans enacted by statute. Vetoed or failed 1992 plans were not researched.",
+      "id": "nh-redistricting-1992",
+      "census_year": 1990,
+      "label": "1992 redistricting (1990 Census)",
+      "election_dates": {
+        "_comment": "Computed: second Tuesday in September; general per federal rule.",
+        "primary": "1992-09-08",
+        "general": "1992-11-03",
+        "unconfirmed": [
+          "primary",
+          "general"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "Signed 1992-03-27.",
+          "id": "1992-us_house-sb300",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "Laws 1992, 15:1 (RSA 662:1)",
+          "bill": "SB 300",
+          "chapter": 15,
+          "dates": {
+            "passed_or_decided": "1992-03-27",
+            "effective": "1992-03-27",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1992-09-08",
+            "general": "1992-11-03"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2002-us_house-sb3",
+          "source_ids": [
+            "gr1992sb300",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/1992/sb300",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "1992-executive_council-hb545",
+          "office": "executive_council",
+          "authority_type": "statute",
+          "citation": "Laws 1992, 61:1 (RSA 662:2)",
+          "bill": "HB 545",
+          "chapter": 61,
+          "dates": {
+            "passed_or_decided": "1992-04-20",
+            "effective": "1992-04-20",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1992-09-08",
+            "general": "1992-11-03"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2002-executive_council-hb379",
+          "source_ids": [
+            "gr1992hb545",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/1992/hb545",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "1992-county_commissioner-hb569",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 1992, 62:1 (RSA 662:4)",
+          "bill": "HB 569",
+          "chapter": 62,
+          "dates": {
+            "passed_or_decided": "1992-04-20",
+            "effective": "1992-04-20",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1992-09-08",
+            "general": "1992-11-03"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2002-county_commissioner-hb380",
+          "source_ids": [
+            "gr1992hb569",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/1992/hb569",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "One bill covers both the NH House and NH Senate. Below v. Gardner (2002) treats the 1992 Senate plan as the last validly enacted plan. Split into two GIS layers.",
+          "id": "1992-nh_house-senate-hb591",
+          "office": "nh_house+nh_senate",
+          "authority_type": "statute",
+          "citation": "Laws 1992, 130:1 (RSA 662:5) and 130:4 (RSA 662:3); House plan upheld in McGovern v. Secretary of State (N.H. 1993)",
+          "bill": "HB 591",
+          "chapter": 130,
+          "dates": {
+            "passed_or_decided": "1992-05-04",
+            "effective": "1992-05-04",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1992-09-08",
+            "general": "1992-11-03"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": [
+            "2002-nh_senate-below",
+            "2002-nh_house-burling"
+          ],
+          "source_ids": [
+            "gr1992hb591",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/1992/hb591",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ],
+          "offices": [
+            "nh_house",
+            "nh_senate"
+          ]
+        },
+        {
+          "_comment": "House districts within cities, plus convention delegates. Amends the HB 591 House plan.",
+          "id": "1992-nh_house-hb1005-cities",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 1992, 183:1-6 (RSA 662:5)",
+          "bill": "HB 1005",
+          "chapter": 183,
+          "dates": {
+            "passed_or_decided": "1992-05-12",
+            "effective": "1992-05-12",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "1992-09-08",
+            "general": "1992-11-03"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2002-nh_house-burling",
+          "source_ids": [
+            "gr1992hb1005",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/1992/hb1005",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        }
+      ]
+    },
+    {
+      "_comment": "2000 Census cycle. Gov. Shaheen vetoed the legislature's Senate (SB 1) and House (HB 420) plans; the NH Supreme Court drew both. The court plans were used in 2002: both were precleared on 2002-09-05, before the 2002-09-10 primary, and the 2004 legislature replaced them. Use is inferred from the court orders, preclearance and later history; I did not check the 2002 SOS results district by district.",
+      "id": "nh-redistricting-2002",
+      "census_year": 2000,
+      "label": "2002 redistricting (2000 Census)",
+      "election_dates": {
+        "_comment": "Computed: second Tuesday in September; general per federal rule.",
+        "primary": "2002-09-10",
+        "general": "2002-11-05",
+        "unconfirmed": [
+          "primary",
+          "general"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "",
+          "id": "2002-us_house-sb3",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "Laws 2002, 32:1 (RSA 662:1)",
+          "bill": "SB 3",
+          "chapter": 32,
+          "dates": {
+            "passed_or_decided": "2002-04-08",
+            "effective": "2002-06-07",
+            "preclearance": "2002-06-10"
+          },
+          "first_election": {
+            "primary": "2002-09-10",
+            "general": "2002-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2012-us_house-sb202",
+          "source_ids": [
+            "gr2002sb3",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2002/sb3",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2002-executive_council-hb379",
+          "office": "executive_council",
+          "authority_type": "statute",
+          "citation": "Laws 2002, 40:1 (RSA 662:2)",
+          "bill": "HB 379",
+          "chapter": 40,
+          "dates": {
+            "passed_or_decided": "2002-04-22",
+            "effective": "2002-04-22",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2002-09-10",
+            "general": "2002-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2012-executive_council-hb1670",
+          "source_ids": [
+            "gr2002hb379",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2002/hb379",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election",
+            "dates.preclearance"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2002-county_commissioner-hb380",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 2002, 85:1 (RSA 662:4)",
+          "bill": "HB 380",
+          "chapter": 85,
+          "dates": {
+            "passed_or_decided": "2002-05-03",
+            "effective": "2002-05-03",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2002-09-10",
+            "general": "2002-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2012-county_commissioner-hb1717",
+          "source_ids": [
+            "gr2002hb380",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2002/hb380",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election",
+            "dates.preclearance"
+          ]
+        },
+        {
+          "_comment": "Court plan effective immediately; amended 2002-07-11 (ALL). Senate filing-period injunction dissolved 12:01 a.m. 2002-06-26. Not codified in RSA 662:3.",
+          "id": "2002-nh_senate-below",
+          "office": "nh_senate",
+          "authority_type": "court",
+          "citation": "Below v. Gardner, 148 N.H. 1, 963 A.2d 785 (2002)",
+          "bill": null,
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2002-06-24",
+            "effective": "2002-06-24",
+            "preclearance": "2002-09-05"
+          },
+          "first_election": {
+            "primary": "2002-09-10",
+            "general": "2002-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2004-nh_senate-hb264",
+          "source_ids": [
+            "below2002",
+            "all"
+          ],
+          "source_urls": [
+            "https://www.courtlistener.com/opinion/8092522/below-v-gardner/",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Court-drawn House plan. Effective date assumed to be the decision date; not codified in RSA 662:5.",
+          "id": "2002-nh_house-burling",
+          "office": "nh_house",
+          "authority_type": "court",
+          "citation": "Burling v. Chandler, 148 N.H. 143, 804 A.2d 471 (2002)",
+          "bill": null,
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2002-07-26",
+            "effective": "2002-07-26",
+            "preclearance": "2002-09-05"
+          },
+          "first_election": {
+            "primary": "2002-09-10",
+            "general": "2002-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2004-nh_house-hb1292",
+          "source_ids": [
+            "burling2002",
+            "all"
+          ],
+          "source_urls": [
+            "https://www.courtlistener.com/opinion/8092542/representative-burling-v-chandler/",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "dates.effective",
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Vetoed 2002-03-29; Senate failed to override 2002-05-22. Skip.",
+          "id": "2002-nh_senate-sb1-vetoed",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "SB 1 (2002) vetoed",
+          "bill": "SB 1",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2002-03-29",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "all",
+            "below2002"
+          ],
+          "source_urls": [
+            "https://redistricting.lls.edu/state/new-hampshire/",
+            "https://www.courtlistener.com/opinion/8092522/below-v-gardner/"
+          ],
+          "unconfirmed": []
+        },
+        {
+          "_comment": "Vetoed 2002-04-03. Skip.",
+          "id": "2002-nh_house-hb420-vetoed",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "HB 420 (2002) vetoed",
+          "bill": "HB 420",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2002-04-03",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "all"
+          ],
+          "source_urls": [
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": []
+        }
+      ]
+    },
+    {
+      "_comment": "Mid-decade legislative replacement of the 2002 court-drawn House and (partly) Senate plans. The NH Constitution bars mid-decade redistricting except to supplant a court-drawn plan (In re Below, 2004).",
+      "id": "nh-redistricting-2004",
+      "census_year": 2000,
+      "label": "2004 mid-decade replacement of the court plans",
+      "election_dates": {
+        "_comment": "Computed: second Tuesday in September; general per federal rule.",
+        "primary": "2004-09-14",
+        "general": "2004-11-02",
+        "unconfirmed": [
+          "primary",
+          "general"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "Signed 2004-04-05. Under Ch. 18:3 the districts took effect at 12:01 a.m. on the effective date of HB 264 (2004-05-28). Ch. 18:2 applies them to the 2004 state general election. Not sent for preclearance.",
+          "id": "2004-nh_house-hb1292",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 2004, 18:1 (RSA 662:5 repealed and reenacted)",
+          "bill": "HB 1292",
+          "chapter": 18,
+          "dates": {
+            "passed_or_decided": "2004-04-05",
+            "effective": "2004-05-28",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2004-09-14",
+            "general": "2004-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2012-nh_house-hb592",
+          "source_ids": [
+            "gc2004hb1292",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://gencourt.state.nh.us/legislation/2004/hb1292.html",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": []
+        },
+        {
+          "_comment": "Redrew some Senate lines (ALL); signed 2004-05-28.",
+          "id": "2004-nh_senate-hb264",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "Laws 2004, 178:1 (RSA 662:3); upheld In re Below, 151 N.H. 135 (2004)",
+          "bill": "HB 264",
+          "chapter": 178,
+          "dates": {
+            "passed_or_decided": "2004-05-28",
+            "effective": "2004-05-28",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2004-09-14",
+            "general": "2004-11-02"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2012-nh_senate-sb201",
+          "source_ids": [
+            "gr2004hb264",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2004/hb264",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        }
+      ]
+    },
+    {
+      "_comment": "2010 Census cycle. All plans enacted by statute. HB 592 was vetoed and the veto was overridden, so it became law and was used. HB 1671, a congressional bill, died on the table. NH House districts follow the 2006 constitutional amendment (Pt. 2 Art. 11) giving qualifying towns or wards their own district; I did not check the amendment against a primary source.",
+      "id": "nh-redistricting-2012",
+      "census_year": 2010,
+      "label": "2012 redistricting (2010 Census)",
+      "election_dates": {
+        "_comment": "Computed: second Tuesday in September; general per federal rule.",
+        "primary": "2012-09-11",
+        "general": "2012-11-06",
+        "unconfirmed": [
+          "primary",
+          "general"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "Vetoed by Gov. Lynch 2012-03-23; veto overridden 2012-03-28. The bill also changed ward boundaries.",
+          "id": "2012-nh_house-hb592",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 2012, 9:1 (RSA 662:5); upheld City of Manchester v. Secretary of State, 48 A.3d 864 (N.H. 2012)",
+          "bill": "HB 592",
+          "chapter": 9,
+          "dates": {
+            "passed_or_decided": "2012-03-28",
+            "effective": "2012-03-28",
+            "preclearance": "2012-06-01"
+          },
+          "first_election": {
+            "primary": "2012-09-11",
+            "general": "2012-11-06"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2022-nh_house-hb50",
+          "source_ids": [
+            "gr2012hb592",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2012/hb592",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2012-nh_senate-sb201",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "Laws 2012, 8:1 (RSA 662:3)",
+          "bill": "SB 201",
+          "chapter": 8,
+          "dates": {
+            "passed_or_decided": "2012-03-23",
+            "effective": "2012-03-23",
+            "preclearance": "2012-06-01"
+          },
+          "first_election": {
+            "primary": "2012-09-11",
+            "general": "2012-11-06"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2022-nh_senate-sb240",
+          "source_ids": [
+            "gr2012sb201",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2012/sb201",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2012-us_house-sb202",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "Laws 2012, 18:1 (RSA 662:1)",
+          "bill": "SB 202",
+          "chapter": 18,
+          "dates": {
+            "passed_or_decided": "2012-04-23",
+            "effective": "2012-06-22",
+            "preclearance": "2012-08-14"
+          },
+          "first_election": {
+            "primary": "2012-09-11",
+            "general": "2012-11-06"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2022-us_house-norelli",
+          "source_ids": [
+            "gr2012sb202",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2012/sb202",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2012-executive_council-hb1670",
+          "office": "executive_council",
+          "authority_type": "statute",
+          "citation": "Laws 2012, 170:1 (RSA 662:2)",
+          "bill": "HB 1670",
+          "chapter": 170,
+          "dates": {
+            "passed_or_decided": "2012-06-11",
+            "effective": "2012-06-11",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2012-09-11",
+            "general": "2012-11-06"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2022-executive_council-sb241",
+          "source_ids": [
+            "gc2012hb1670",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://gencourt.state.nh.us/legislation/2012/hb1670.html",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election",
+            "dates.preclearance"
+          ]
+        },
+        {
+          "_comment": "",
+          "id": "2012-county_commissioner-hb1717",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 2012, 17:1 (RSA 662:4)",
+          "bill": "HB 1717",
+          "chapter": 17,
+          "dates": {
+            "passed_or_decided": "2012-04-23",
+            "effective": "2012-04-23",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2012-09-11",
+            "general": "2012-11-06"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2022-county_commissioner-hb54",
+          "source_ids": [
+            "gr2012hb1717",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2012/hb1717",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election",
+            "dates.preclearance"
+          ]
+        },
+        {
+          "_comment": "Competing congressional bill; died on the table. Skip.",
+          "id": "2012-us_house-hb1671-failed",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "HB 1671 (2012) died on table",
+          "bill": "HB 1671",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "failed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "gr2012committee"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/committee/S09"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        }
+      ]
+    },
+    {
+      "_comment": "2020 Census cycle. The legislature passed congressional plans HB 52 and SB 200; Gov. Sununu vetoed both, and the NH Supreme Court adopted a least-change congressional map. Challenges to the Senate map (Brown v. Scanlan, 2023-11-29) and the House map (City of Dover v. Scanlan, 2025-06-04) failed, so no lines changed. In 2023, HB 75 (Ch. 177) moved Strafford County commissioners from at-large to districts, first used in 2024. The 2025-26 push for a mid-decade congressional map failed (HB 1300 became a tax-cap law).",
+      "id": "nh-redistricting-2022",
+      "census_year": 2020,
+      "label": "2022 redistricting (2020 Census) and later changes",
+      "election_dates": {
+        "_comment": "Computed: second Tuesday in September; general per federal rule. The 2024 dates apply only to the Strafford commissioner change.",
+        "primary": "2022-09-13",
+        "general": "2022-11-08",
+        "strafford_2024": {
+          "primary": "2024-09-10",
+          "general": "2024-11-05"
+        },
+        "unconfirmed": [
+          "primary",
+          "general",
+          "strafford_2024"
+        ]
+      },
+      "plans": [
+        {
+          "_comment": "Current plan. Challenge rejected in City of Dover v. Scanlan (2025-06-04).",
+          "id": "2022-nh_house-hb50",
+          "office": "nh_house",
+          "authority_type": "statute",
+          "citation": "Laws 2022, 9:1 (RSA 662:5)",
+          "bill": "HB 50",
+          "chapter": 9,
+          "dates": {
+            "passed_or_decided": "2022-03-23",
+            "effective": "2022-03-23",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2022-09-13",
+            "general": "2022-11-08"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": null,
+          "source_ids": [
+            "gr2022hb50",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2022/hb50",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Current plan. Challenge rejected in Brown v. Scanlan, 313 A.3d 760 (N.H. 2023-11-29).",
+          "id": "2022-nh_senate-sb240",
+          "office": "nh_senate",
+          "authority_type": "statute",
+          "citation": "Laws 2022, 45:1 (RSA 662:3)",
+          "bill": "SB 240",
+          "chapter": 45,
+          "dates": {
+            "passed_or_decided": "2022-05-06",
+            "effective": "2022-05-06",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2022-09-13",
+            "general": "2022-11-08"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": null,
+          "source_ids": [
+            "legiscan2022sb240",
+            "sos2022changes",
+            "rsa662",
+            "all"
+          ],
+          "source_urls": [
+            "https://legiscan.com/NH/text/SB240/2022",
+            "https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/2022-election-law-changesv2_0.pdf",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Current plan.",
+          "id": "2022-executive_council-sb241",
+          "office": "executive_council",
+          "authority_type": "statute",
+          "citation": "Laws 2022, 46:1 (RSA 662:2)",
+          "bill": "SB 241",
+          "chapter": 46,
+          "dates": {
+            "passed_or_decided": "2022-05-06",
+            "effective": "2022-05-06",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2022-09-13",
+            "general": "2022-11-08"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": null,
+          "source_ids": [
+            "gr2022sb241",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2022/sb241",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Act sec. 2 applies districts to the 2022 general election. Strafford stayed at-large under this act; HB 75 (2023) replaced Strafford only. All other counties are still current.",
+          "id": "2022-county_commissioner-hb54",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 2022, 4:1 (RSA 662:4)",
+          "bill": "HB 54",
+          "chapter": 4,
+          "dates": {
+            "passed_or_decided": "2022-02-24",
+            "effective": "2022-02-24",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2022-09-13",
+            "general": "2022-11-08"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": "2023-county_commissioner-hb75-strafford",
+          "source_ids": [
+            "gr2022hb54",
+            "sos2022changes",
+            "rsa662"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2022/hb54",
+            "https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/2022-election-law-changesv2_0.pdf",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Mid-decade change creating 3 Strafford County commissioner districts, effective for the 2024 general election (act sec. 4). The 2024 general was held by district (NH Elections Database).",
+          "id": "2023-county_commissioner-hb75-strafford",
+          "office": "county_commissioner",
+          "authority_type": "statute",
+          "citation": "Laws 2023, 177:2, 3 (RSA 662:4, IX)",
+          "bill": "HB 75",
+          "chapter": 177,
+          "dates": {
+            "passed_or_decided": "2023-08-04",
+            "effective": "2023-10-03",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2024-09-10",
+            "general": "2024-11-05"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": null,
+          "source_ids": [
+            "legiscan2023hb75",
+            "rsa662",
+            "electionstats2024strafford"
+          ],
+          "source_urls": [
+            "https://legiscan.com/NH/text/HB75/id/2806643",
+            "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+            "https://nh.electionstats.com/elections/view/171093"
+          ],
+          "unconfirmed": [
+            "first_election.primary"
+          ]
+        },
+        {
+          "_comment": "Opinion of 2022-05-12 found RSA 662:1 malapportioned; the court adopted the special master's least-change map 2022-05-31. Current plan. RSA 662:1 text was not amended (source note still ends at 2012, 18:1), so take the boundaries from the court order, not the statute.",
+          "id": "2022-us_house-norelli",
+          "office": "us_house",
+          "authority_type": "court",
+          "citation": "Norelli v. Secretary of State (Norelli v. Scanlan), No. 2022-0184, 292 A.3d 458 (N.H. 2022); map adopted by order, 2022 WL 1747769",
+          "bill": null,
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2022-05-31",
+            "effective": "2022-05-31",
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": "2022-09-13",
+            "general": "2022-11-08"
+          },
+          "status": "used",
+          "used_in_election": true,
+          "superseded_by": null,
+          "source_ids": [
+            "norelli2022",
+            "all"
+          ],
+          "source_urls": [
+            "https://www.courtlistener.com/opinion/6467782/theresa-norelli-a-v-secretary-of-state-a/",
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": [
+            "first_election"
+          ]
+        },
+        {
+          "_comment": "Passed 2022-03-17; vetoed 2022-05-27. Skip.",
+          "id": "2022-us_house-hb52-vetoed",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "HB 52 (2022) vetoed",
+          "bill": "HB 52",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2022-05-27",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "all",
+            "norelli2022"
+          ],
+          "source_urls": [
+            "https://redistricting.lls.edu/state/new-hampshire/",
+            "https://www.courtlistener.com/opinion/6467782/theresa-norelli-a-v-secretary-of-state-a/"
+          ],
+          "unconfirmed": []
+        },
+        {
+          "_comment": "Passed 2022-05-26; vetoed 2022-05-27. Skip.",
+          "id": "2022-us_house-sb200-vetoed",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "SB 200 (2022) vetoed",
+          "bill": "SB 200",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": "2022-05-27",
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "vetoed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "all"
+          ],
+          "source_urls": [
+            "https://redistricting.lls.edu/state/new-hampshire/"
+          ],
+          "unconfirmed": []
+        },
+        {
+          "_comment": "Introduced 2026-01-07 as a congressional redistricting bill. Rewritten into a school-district tax-cap measure, enacted as Ch. 324 (signed 2026-07-15) with no redistricting content. I could not confirm exactly which amendment stripped the redistricting text. Skip.",
+          "id": "2026-us_house-hb1300-failed",
+          "office": "us_house",
+          "authority_type": "statute",
+          "citation": "HB 1300 (2026), mid-decade congressional proposal, not enacted as redistricting",
+          "bill": "HB 1300",
+          "chapter": null,
+          "dates": {
+            "passed_or_decided": null,
+            "effective": null,
+            "preclearance": null
+          },
+          "first_election": {
+            "primary": null,
+            "general": null
+          },
+          "status": "failed",
+          "used_in_election": false,
+          "superseded_by": null,
+          "source_ids": [
+            "gr2026hb1300",
+            "globe2026"
+          ],
+          "source_urls": [
+            "https://graniterecord.org/bill/2026/hb1300",
+            "https://www.bostonglobe.com/2026/01/14/metro/nh-congress-redistrict-republican-trump/"
+          ],
+          "unconfirmed": [
+            "dates.passed_or_decided"
+          ]
+        }
+      ]
+    }
+  ]
+}

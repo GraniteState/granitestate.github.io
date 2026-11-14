@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300934820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Haverhill town",
+  "censusVtdCode": "HAVE01",
+  "censusVtdGeoid": "33009HAVE01",
+  "censusVtdName": "TOWN OF HAVERHILL",
+  "countyName": "Grafton",
+  "geoid": "3300934820",
+  "granitDistrict": "Haverhill- entire",
+  "granitId": "57",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300934820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "57"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009HAVE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Haverhill",
+  "recordType": "place"
+}

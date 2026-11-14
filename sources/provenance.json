@@ -1,0 +1,70 @@
+{
+  "_comment": "Copies of the driver files the knowledge base is built from. Each blob_sha1 is the Git blob SHA-1 of these bytes and matches the named commit. scripts/build_kb.py checks the hashes before writing kb/.",
+  "files": [
+    {
+      "local_path": "sources/towns.json",
+      "origin_repo": "GraniteState/nh-elections",
+      "origin_path": "towns.json",
+      "commit": "f00f5fbf5d52da23eb4199a08591c29c3ff6df29",
+      "commit_date": "2026-11-11",
+      "generated": "2026-11-11",
+      "blob_sha1": "df263a5301ef860bd95f0763ce66069bb1e61d3d",
+      "note": "Municipality roster keyed by 2020 Census county-subdivision GEOID. Commit message: Add towns.json, the municipality roster keyed by Census GEOID."
+    },
+    {
+      "local_path": "sources/redistricting.json",
+      "origin_repo": "GraniteState/nh-elections",
+      "origin_path": "redistricting.json",
+      "commit": "9ca443d4497691b9407a41629f004362edb4bf25",
+      "commit_date": "2026-11-10",
+      "generated": "2026-11-10",
+      "blob_sha1": "69dc25e9132a1233dfb181524bb9d1e42d465595",
+      "note": "Redistricting events from 1982 through 2022. The same blob is still present, unchanged, in f00f5fbf5d52da23eb4199a08591c29c3ff6df29."
+    },
+    {
+      "local_path": "sources/sos-voting-districts/README.md",
+      "origin_repo": "GraniteState/nh-elections-data",
+      "origin_path": "raw/sos-voting-districts/README.md",
+      "commit": "5900f24db08576d3570934573df1e5a0e07c8633",
+      "commit_date": "2026-11-11",
+      "blob_sha1": "ca24960b00ddef444631aaeae31eee45af3ab672",
+      "note": "Readme for the SOS voting-districts extract. Office labels and the 2022-2032 counts used by the generator come from this file."
+    },
+    {
+      "local_path": "sources/sos-voting-districts/house_districts.csv",
+      "origin_repo": "GraniteState/nh-elections-data",
+      "origin_path": "raw/sos-voting-districts/derived/house_districts.csv",
+      "commit": "5900f24db08576d3570934573df1e5a0e07c8633",
+      "commit_date": "2026-11-11",
+      "blob_sha1": "872a324c0e321535ad3d40fb9c5735d85fdabb58",
+      "note": "One row per NH House district: seats, floterial flag, and the printed member list."
+    },
+    {
+      "local_path": "sources/sos-voting-districts/town_ward_district_crosswalk.csv",
+      "origin_repo": "GraniteState/nh-elections-data",
+      "origin_path": "raw/sos-voting-districts/derived/town_ward_district_crosswalk.csv",
+      "commit": "5900f24db08576d3570934573df1e5a0e07c8633",
+      "commit_date": "2026-11-11",
+      "blob_sha1": "1313a551809a3780331f122c81b988f43fedb385",
+      "note": "Town and ward crosswalk. The generator checks it against towns.json and does not override towns.json."
+    },
+    {
+      "local_path": "sources/sos-voting-districts/town_ward_units.csv",
+      "origin_repo": "GraniteState/nh-elections-data",
+      "origin_path": "raw/sos-voting-districts/derived/town_ward_units.csv",
+      "commit": "5900f24db08576d3570934573df1e5a0e07c8633",
+      "commit_date": "2026-11-11",
+      "blob_sha1": "3f06c69eb76d28a08363113b42a37ea479776bce",
+      "note": "One row per SOS town or ward before a base-plus-floterial pair is expanded. Stored with the extract; district membership is taken from towns.json."
+    },
+    {
+      "local_path": "sources/sos-voting-districts/name_mismatches.csv",
+      "origin_repo": "GraniteState/nh-elections-data",
+      "origin_path": "raw/sos-voting-districts/derived/name_mismatches.csv",
+      "commit": "5900f24db08576d3570934573df1e5a0e07c8633",
+      "commit_date": "2026-11-11",
+      "blob_sha1": "c2c22d9e224118023eaf571e4bf8fda3a3f990af",
+      "note": "Unmatched SOS names and the GRANIT and Census leftovers. towns.json already applied the eleven one-for-one matches; the generator only checks that those aliases are present."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33011",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33011",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301101300",
+    "https://granitestate.github.io/kb/places/3301101700",
+    "https://granitestate.github.io/kb/places/3301104500",
+    "https://granitestate.github.io/kb/places/3301104900",
+    "https://granitestate.github.io/kb/places/3301108100",
+    "https://granitestate.github.io/kb/places/3301117780",
+    "https://granitestate.github.io/kb/places/3301127140",
+    "https://granitestate.github.io/kb/places/3301129860",
+    "https://granitestate.github.io/kb/places/3301131540",
+    "https://granitestate.github.io/kb/places/3301131940",
+    "https://granitestate.github.io/kb/places/3301133700",
+    "https://granitestate.github.io/kb/places/3301136180",
+    "https://granitestate.github.io/kb/places/3301137140",
+    "https://granitestate.github.io/kb/places/3301137940",
+    "https://granitestate.github.io/kb/places/3301142260",
+    "https://granitestate.github.io/kb/places/3301144580",
+    "https://granitestate.github.io/kb/places/3301145140",
+    "https://granitestate.github.io/kb/places/3301146260",
+    "https://granitestate.github.io/kb/places/3301147540",
+    "https://granitestate.github.io/kb/places/3301148020",
+    "https://granitestate.github.io/kb/places/3301149140",
+    "https://granitestate.github.io/kb/places/3301150260",
+    "https://granitestate.github.io/kb/places/3301150740",
+    "https://granitestate.github.io/kb/places/3301151940",
+    "https://granitestate.github.io/kb/places/3301159940",
+    "https://granitestate.github.io/kb/places/3301160580",
+    "https://granitestate.github.io/kb/places/3301168820",
+    "https://granitestate.github.io/kb/places/3301176260",
+    "https://granitestate.github.io/kb/places/3301179780",
+    "https://granitestate.github.io/kb/places/3301185220",
+    "https://granitestate.github.io/kb/places/3301185940"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33011"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Hillsborough",
+  "recordType": "place"
+}

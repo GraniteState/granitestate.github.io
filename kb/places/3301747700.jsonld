@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301747700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Middleton town",
+  "censusVtdCode": "MIDD01",
+  "censusVtdGeoid": "33017MIDD01",
+  "censusVtdName": "TOWN OF MIDDLETON",
+  "countyName": "Strafford",
+  "geoid": "3301747700",
+  "granitDistrict": "Middleton- entire",
+  "granitId": "149",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301747700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "149"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017MIDD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Middleton",
+  "recordType": "place"
+}

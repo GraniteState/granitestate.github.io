@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300332500",
+  "@type": "Concept",
+  "altLabel": [
+    "Hale's Location",
+    "Hale's"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Hale's location",
+  "countyName": "Carroll",
+  "geoid": "3300332500",
+  "granitDistrict": "Hale's Location- entire",
+  "granitId": "258",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300332500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "258"
+    }
+  ],
+  "note": "Aliases: Hale's Location (granit); Hale's (census).\n\nVotes in Bartlett (3300303700).",
+  "precinct": true,
+  "prefLabel": "Hale’s Location",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300303700"
+}

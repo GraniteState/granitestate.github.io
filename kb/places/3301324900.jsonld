@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301324900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Epsom town",
+  "censusVtdCode": "EPSO01",
+  "censusVtdGeoid": "33013EPSO01",
+  "censusVtdName": "TOWN OF EPSOM",
+  "countyName": "Merrimack",
+  "geoid": "3301324900",
+  "granitDistrict": "Epsom- entire",
+  "granitId": "95",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-14",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-27",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301324900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "95"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013EPSO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Epsom",
+  "recordType": "place"
+}

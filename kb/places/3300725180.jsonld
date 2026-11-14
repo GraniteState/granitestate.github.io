@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300725180",
+  "@type": "Concept",
+  "altLabel": [
+    "Erving’s Loc.",
+    "Erving's Location",
+    "Ervings"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Ervings location",
+  "countyName": "Coos",
+  "geoid": "3300725180",
+  "granitId": "239",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300725180"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "239"
+    }
+  ],
+  "note": "GRANIT town ID and Census GEOID applied from the one-for-one match in raw/sos-voting-districts/derived/name_mismatches.csv. The SOS voting-districts list spells this place 'Erving’s Loc.'.\n\nAliases: Erving’s Loc. (sos_voting_districts); Erving's Location (granit); Ervings (census).\n\nVotes in Columbia (3300713940).",
+  "precinct": true,
+  "prefLabel": "Erving’s Location",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300713940"
+}

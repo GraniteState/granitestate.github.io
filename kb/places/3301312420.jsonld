@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301312420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Chichester town",
+  "censusVtdCode": "CHIC01",
+  "censusVtdGeoid": "33013CHIC01",
+  "censusVtdName": "TOWN OF CHICHESTER",
+  "countyName": "Merrimack",
+  "geoid": "3301312420",
+  "granitDistrict": "Chichester- entire",
+  "granitId": "93",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301312420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "93"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013CHIC01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Chichester",
+  "recordType": "place"
+}

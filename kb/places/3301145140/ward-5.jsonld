@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301145140/ward-5",
+  "@type": "Concept",
+  "altLabel": [
+    "MANCHESTER WARD 5"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301145140",
+  "censusVtdCode": "MANC05",
+  "censusVtdGeoid": "33011MANC05",
+  "censusVtdName": "MANCHESTER WARD 5",
+  "countyName": "Hillsborough",
+  "geoid": "33011MANC05",
+  "granitDistrict": "Manchester Ward 5",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-25",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-41",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/18",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301145140",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MANC05"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Manchester Ward 5",
+  "recordType": "place",
+  "wardNumber": 5
+}

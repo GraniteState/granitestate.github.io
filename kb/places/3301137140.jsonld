@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301137140",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Hollis town",
+  "censusVtdCode": "HOLL01",
+  "censusVtdGeoid": "33011HOLL01",
+  "censusVtdName": "TOWN OF HOLLIS",
+  "countyName": "Hillsborough",
+  "geoid": "3301137140",
+  "granitDistrict": "Hollis- entire",
+  "granitId": "221",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-35",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-45",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/12",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301137140"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "221"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011HOLL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hollis",
+  "recordType": "place"
+}

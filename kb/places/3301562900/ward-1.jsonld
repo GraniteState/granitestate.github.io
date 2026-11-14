@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301562900/ward-1",
+  "@type": "Concept",
+  "altLabel": [
+    "PORTSMOUTH WARD 1"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301562900",
+  "censusVtdCode": "PORT01",
+  "censusVtdGeoid": "33015PORT01",
+  "censusVtdName": "PORTSMOUTH WARD 1",
+  "countyName": "Rockingham",
+  "geoid": "33015PORT01",
+  "granitDistrict": "Portsmouth Ward 1",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-21",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-37",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/21",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301562900",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015PORT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Portsmouth Ward 1",
+  "recordType": "place",
+  "wardNumber": 1
+}

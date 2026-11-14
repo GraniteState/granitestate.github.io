@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301350900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Newbury town",
+  "censusVtdCode": "NBRY01",
+  "censusVtdGeoid": "33013NBRY01",
+  "censusVtdName": "TOWN OF NEWBURY",
+  "countyName": "Merrimack",
+  "geoid": "3301350900",
+  "granitDistrict": "Newbury- entire",
+  "granitId": "119",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301350900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "119"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013NBRY01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Newbury",
+  "recordType": "place"
+}

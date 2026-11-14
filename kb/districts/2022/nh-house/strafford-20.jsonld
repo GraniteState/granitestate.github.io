@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-20",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-11"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Strafford",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301718820/ward-4",
+    "https://granitestate.github.io/kb/places/3301719700",
+    "https://granitestate.github.io/kb/places/3301741460",
+    "https://granitestate.github.io/kb/places/3301744820"
+  ],
+  "notation": "Strafford 20",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Strafford 20",
+  "printedMembers": "Dover Ward 4; Durham; Lee; Madbury",
+  "recordType": "district",
+  "seats": 1,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

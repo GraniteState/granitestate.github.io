@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300902020",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Ashland town",
+  "censusVtdCode": "ASHL01",
+  "censusVtdGeoid": "33009ASHL01",
+  "censusVtdName": "TOWN OF ASHLAND",
+  "countyName": "Grafton",
+  "geoid": "3300902020",
+  "granitDistrict": "Ashland- entire",
+  "granitId": "64",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/2",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300902020"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "64"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009ASHL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Ashland",
+  "recordType": "place"
+}

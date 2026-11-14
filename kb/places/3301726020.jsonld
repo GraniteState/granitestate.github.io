@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301726020",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Farmington town",
+  "censusVtdCode": "FARM01",
+  "censusVtdGeoid": "33017FARM01",
+  "censusVtdName": "TOWN OF FARMINGTON",
+  "countyName": "Strafford",
+  "geoid": "3301726020",
+  "granitDistrict": "Farmington- entire",
+  "granitId": "88",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301726020"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "88"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017FARM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Farmington",
+  "recordType": "place"
+}

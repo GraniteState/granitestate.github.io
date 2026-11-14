@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301101700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Antrim town",
+  "censusVtdCode": "ANTR01",
+  "censusVtdGeoid": "33011ANTR01",
+  "censusVtdName": "TOWN OF ANTRIM",
+  "countyName": "Hillsborough",
+  "geoid": "3301101700",
+  "granitDistrict": "Antrim- entire",
+  "granitId": "129",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-30",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301101700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "129"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011ANTR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Antrim",
+  "recordType": "place"
+}

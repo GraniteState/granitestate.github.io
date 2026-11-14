@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301567620",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Sandown town",
+  "censusVtdCode": "SNDN01",
+  "censusVtdGeoid": "33015SNDN01",
+  "censusVtdName": "TOWN OF SANDOWN",
+  "countyName": "Rockingham",
+  "geoid": "3301567620",
+  "granitDistrict": "Sandown- entire",
+  "granitId": "216",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301567620"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "216"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015SNDN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Sandown",
+  "recordType": "place"
+}

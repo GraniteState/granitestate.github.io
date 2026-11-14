@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301916340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Croydon town",
+  "censusVtdCode": "CROY01",
+  "censusVtdGeoid": "33019CROY01",
+  "censusVtdName": "TOWN OF CROYDON",
+  "countyName": "Sullivan",
+  "geoid": "3301916340",
+  "granitDistrict": "Croydon- entire",
+  "granitId": "43",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301916340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "43"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019CROY01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Croydon",
+  "recordType": "place"
+}

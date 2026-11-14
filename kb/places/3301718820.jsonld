@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301718820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Dover city",
+  "countyName": "Strafford",
+  "geoid": "3301718820",
+  "granitId": "177",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301718820/ward-1",
+    "https://granitestate.github.io/kb/places/3301718820/ward-2",
+    "https://granitestate.github.io/kb/places/3301718820/ward-3",
+    "https://granitestate.github.io/kb/places/3301718820/ward-4",
+    "https://granitestate.github.io/kb/places/3301718820/ward-5",
+    "https://granitestate.github.io/kb/places/3301718820/ward-6"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301718820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "177"
+    }
+  ],
+  "prefLabel": "Dover",
+  "recordType": "place"
+}

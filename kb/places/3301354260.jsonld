@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301354260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Northfield town",
+  "censusVtdCode": "NFLD01",
+  "censusVtdGeoid": "33013NFLD01",
+  "censusVtdName": "TOWN OF NORTHFIELD",
+  "countyName": "Merrimack",
+  "geoid": "3301354260",
+  "granitDistrict": "Northfield- entire",
+  "granitId": "78",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-25",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301354260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "78"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013NFLD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Northfield",
+  "recordType": "place"
+}

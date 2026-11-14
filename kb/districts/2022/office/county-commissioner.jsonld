@@ -1,0 +1,15 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/office/county-commissioner",
+  "@type": "Concept",
+  "hasPlan": [
+    "https://granitestate.github.io/kb/districts/2022/plan/2022-county_commissioner-hb54",
+    "https://granitestate.github.io/kb/districts/2022/plan/2023-county_commissioner-hb75-strafford"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "notation": "county_commissioner",
+  "note": "Office code county_commissioner from redistricting.json. The inputs record the plans and not the member towns, so this build emits no district concepts.",
+  "prefLabel": "County commissioners",
+  "recordType": "office",
+  "topConceptOf": "https://granitestate.github.io/kb/schemes/districts-2022"
+}

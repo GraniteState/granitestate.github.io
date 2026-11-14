@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301517940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Derry town",
+  "countyName": "Rockingham",
+  "geoid": "3301517940",
+  "granitDistrict": "Derry- entire",
+  "granitId": "195",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/19",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301517940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "195"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Derry",
+  "recordType": "place"
+}

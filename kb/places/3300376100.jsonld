@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300376100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Tamworth town",
+  "censusVtdCode": "TAMW01",
+  "censusVtdGeoid": "33003TAMW01",
+  "censusVtdName": "TOWN OF TAMWORTH",
+  "countyName": "Carroll",
+  "geoid": "3300376100",
+  "granitDistrict": "Tamworth- entire",
+  "granitId": "59",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300376100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "59"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003TAMW01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Tamworth",
+  "recordType": "place"
+}

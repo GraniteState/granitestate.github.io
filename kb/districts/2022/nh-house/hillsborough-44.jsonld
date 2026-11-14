@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-44",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-28",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-29"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Hillsborough",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301129860",
+    "https://granitestate.github.io/kb/places/3301179780"
+  ],
+  "notation": "Hillsborough 44",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Hillsborough 44",
+  "printedMembers": "Goffstown; Weare",
+  "recordType": "district",
+  "seats": 2,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

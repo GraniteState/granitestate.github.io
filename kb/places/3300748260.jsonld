@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300748260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Millsfield township",
+  "countyName": "Coos",
+  "geoid": "3300748260",
+  "granitDistrict": "Millsfield- entire",
+  "granitId": "238",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300748260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "238"
+    }
+  ],
+  "note": "2020 Census NAMELSAD is a township, so kind is unincorporated place. The SOS towns-and-wards list does not place this unit under Unincorporated Places.",
+  "precinct": true,
+  "prefLabel": "Millsfield",
+  "recordType": "place"
+}
