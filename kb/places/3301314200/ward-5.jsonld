@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301314200/ward-5",
+  "@type": "Concept",
+  "altLabel": [
+    "CONCORD WARD 5"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301314200",
+  "censusVtdCode": "CONC05",
+  "censusVtdGeoid": "33013CONC05",
+  "censusVtdName": "CONCORD WARD 5",
+  "countyName": "Merrimack",
+  "geoid": "33013CONC05",
+  "granitDistrict": "Concord Ward 5",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-19",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-30",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/15",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301314200",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013CONC05"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Concord Ward 5",
+  "recordType": "place",
+  "wardNumber": 5
+}

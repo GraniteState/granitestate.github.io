@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301148020",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Milford town",
+  "censusVtdCode": "MILF01",
+  "censusVtdGeoid": "33011MILF01",
+  "censusVtdName": "TOWN OF MILFORD",
+  "countyName": "Hillsborough",
+  "geoid": "3301148020",
+  "granitDistrict": "Milford- entire",
+  "granitId": "197",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-37",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-43",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/11",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301148020"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "197"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MILF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Milford",
+  "recordType": "place"
+}

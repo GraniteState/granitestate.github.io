@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300334500",
+  "@type": "Concept",
+  "altLabel": [
+    "Hart's Location"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Hart's Location town",
+  "censusVtdCode": "HART01",
+  "censusVtdGeoid": "33003HART01",
+  "censusVtdName": "TOWN OF HARTS LOCATION",
+  "countyName": "Carroll",
+  "geoid": "3300334500",
+  "granitDistrict": "Hart's Location- entire",
+  "granitId": "255",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300334500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "255"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003HART01"
+    }
+  ],
+  "note": "Aliases: Hart's Location (granit); Hart's Location (census).",
+  "precinct": true,
+  "prefLabel": "Hart’s Location",
+  "recordType": "place"
+}

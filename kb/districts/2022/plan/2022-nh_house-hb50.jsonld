@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "@type": "Concept",
+  "authorityType": "statute",
+  "bill": "HB 50",
+  "citation": "Laws 2022, 9:1 (RSA 662:5)",
+  "districtsEmitted": true,
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "notation": "2022-nh_house-hb50",
+  "note": "Current plan. Challenge rejected in City of Dover v. Scanlan (2025-06-04).",
+  "office": "nh_house",
+  "planId": "2022-nh_house-hb50",
+  "prefLabel": "2022-nh_house-hb50",
+  "recordType": "plan",
+  "source": [
+    "https://graniterecord.org/bill/2022/hb50",
+    "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+    "https://redistricting.lls.edu/state/new-hampshire/"
+  ],
+  "status": "used",
+  "unconfirmed": [
+    "first_election"
+  ],
+  "usedInElection": true
+}

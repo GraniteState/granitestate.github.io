@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300140180/ward-5",
+  "@type": "Concept",
+  "altLabel": [
+    "LACONIA WARD 5"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3300140180",
+  "censusVtdCode": "LACO05",
+  "censusVtdGeoid": "33001LACO05",
+  "censusVtdName": "LACONIA WARD 5",
+  "countyName": "Belknap",
+  "geoid": "33001LACO05",
+  "granitDistrict": "Laconia Ward 5",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/2",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3300140180",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001LACO05"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Laconia Ward 5",
+  "recordType": "place",
+  "wardNumber": 5
+}

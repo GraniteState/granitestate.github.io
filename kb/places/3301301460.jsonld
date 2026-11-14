@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301301460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Andover town",
+  "censusVtdCode": "ANDO01",
+  "censusVtdGeoid": "33013ANDO01",
+  "censusVtdName": "TOWN OF ANDOVER",
+  "countyName": "Merrimack",
+  "geoid": "3301301460",
+  "granitDistrict": "Andover- entire",
+  "granitId": "76",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-26",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301301460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "76"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013ANDO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Andover",
+  "recordType": "place"
+}

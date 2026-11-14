@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301769940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Somersworth city",
+  "countyName": "Strafford",
+  "geoid": "3301769940",
+  "granitId": "205",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301769940/ward-1",
+    "https://granitestate.github.io/kb/places/3301769940/ward-2",
+    "https://granitestate.github.io/kb/places/3301769940/ward-3",
+    "https://granitestate.github.io/kb/places/3301769940/ward-4",
+    "https://granitestate.github.io/kb/places/3301769940/ward-5"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301769940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "205"
+    }
+  ],
+  "prefLabel": "Somersworth",
+  "recordType": "place"
+}

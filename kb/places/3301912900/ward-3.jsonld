@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301912900/ward-3",
+  "@type": "Concept",
+  "altLabel": [
+    "CLAREMONT WARD 3"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301912900",
+  "censusVtdCode": "CLAR03",
+  "censusVtdGeoid": "33019CLAR03",
+  "censusVtdName": "CLAREMONT WARD 3",
+  "countyName": "Sullivan",
+  "geoid": "33019CLAR03",
+  "granitDistrict": "Claremont Ward 3",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301912900",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019CLAR03"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Claremont Ward 3",
+  "recordType": "place",
+  "wardNumber": 3
+}

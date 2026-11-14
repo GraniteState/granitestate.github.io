@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301146260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Mason town",
+  "censusVtdCode": "MASO01",
+  "censusVtdGeoid": "33011MASO01",
+  "censusVtdName": "TOWN OF MASON",
+  "countyName": "Hillsborough",
+  "geoid": "3301146260",
+  "granitDistrict": "Mason- entire",
+  "granitId": "154",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-36",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-45",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/12",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301146260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "154"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MASO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Mason",
+  "recordType": "place"
+}

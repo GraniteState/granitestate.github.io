@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33001",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33001",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300101060",
+    "https://granitestate.github.io/kb/places/3300103220",
+    "https://granitestate.github.io/kb/places/3300104740",
+    "https://granitestate.github.io/kb/places/3300110660",
+    "https://granitestate.github.io/kb/places/3300128740",
+    "https://granitestate.github.io/kb/places/3300128980",
+    "https://granitestate.github.io/kb/places/3300140180",
+    "https://granitestate.github.io/kb/places/3300147140",
+    "https://granitestate.github.io/kb/places/3300151540",
+    "https://granitestate.github.io/kb/places/3300167300",
+    "https://granitestate.github.io/kb/places/3300177060"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33001"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Belknap",
+  "recordType": "place"
+}

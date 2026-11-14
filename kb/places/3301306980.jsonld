@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301306980",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Bradford town",
+  "censusVtdCode": "BRAD01",
+  "censusVtdGeoid": "33013BRAD01",
+  "censusVtdName": "TOWN OF BRADFORD",
+  "countyName": "Merrimack",
+  "geoid": "3301306980",
+  "granitDistrict": "Bradford- entire",
+  "granitId": "122",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301306980"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "122"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013BRAD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bradford",
+  "recordType": "place"
+}

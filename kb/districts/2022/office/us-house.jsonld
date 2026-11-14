@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/office/us-house",
+  "@type": "Concept",
+  "hasPlan": [
+    "https://granitestate.github.io/kb/districts/2022/plan/2022-us_house-norelli"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "narrower": [
+    "https://granitestate.github.io/kb/districts/2022/us-house/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "notation": "us_house",
+  "note": "Office code us_house. District numbers come from the 2022 assignment on each precinct.",
+  "prefLabel": "U.S. House",
+  "recordType": "office",
+  "topConceptOf": "https://granitestate.github.io/kb/schemes/districts-2022"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301543220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Londonderry town",
+  "censusVtdCode": "LOND01",
+  "censusVtdGeoid": "33015LOND01",
+  "censusVtdName": "TOWN OF LONDONDERRY",
+  "countyName": "Rockingham",
+  "geoid": "3301543220",
+  "granitDistrict": "Londonderry- entire",
+  "granitId": "218",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-35",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/14",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301543220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "218"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015LOND01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Londonderry",
+  "recordType": "place"
+}

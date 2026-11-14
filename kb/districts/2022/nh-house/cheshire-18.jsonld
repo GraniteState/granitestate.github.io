@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-18",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-14"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Cheshire",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3300519140",
+    "https://granitestate.github.io/kb/places/3300538500",
+    "https://granitestate.github.io/kb/places/3300564580"
+  ],
+  "notation": "Cheshire 18",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Cheshire 18",
+  "printedMembers": "Dublin; Jaffrey; Rindge",
+  "recordType": "district",
+  "seats": 2,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

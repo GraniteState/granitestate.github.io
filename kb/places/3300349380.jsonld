@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300349380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Moultonborough town",
+  "censusVtdCode": "MOUL01",
+  "censusVtdGeoid": "33003MOUL01",
+  "censusVtdName": "TOWN OF MOULTONBOROUGH",
+  "countyName": "Carroll",
+  "geoid": "3300349380",
+  "granitDistrict": "Moultonborough- entire",
+  "granitId": "144",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300349380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "144"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003MOUL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Moultonborough",
+  "recordType": "place"
+}

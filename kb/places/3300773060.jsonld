@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300773060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Stark town",
+  "censusVtdCode": "STAR01",
+  "censusVtdGeoid": "33007STAR01",
+  "censusVtdName": "TOWN OF STARK",
+  "countyName": "Coos",
+  "geoid": "3300773060",
+  "granitDistrict": "Stark- entire",
+  "granitId": "18",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300773060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "18"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007STAR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Stark",
+  "recordType": "place"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300705140",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Berlin city",
+  "countyName": "Coos",
+  "geoid": "3300705140",
+  "granitDistrict": "Berlin- entire",
+  "granitId": "49",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300705140"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "49"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Berlin",
+  "recordType": "place"
+}

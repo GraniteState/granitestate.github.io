@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33005",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33005",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300500820",
+    "https://granitestate.github.io/kb/places/3300512260",
+    "https://granitestate.github.io/kb/places/3300519140",
+    "https://granitestate.github.io/kb/places/3300526500",
+    "https://granitestate.github.io/kb/places/3300529220",
+    "https://granitestate.github.io/kb/places/3300534420",
+    "https://granitestate.github.io/kb/places/3300536660",
+    "https://granitestate.github.io/kb/places/3300538500",
+    "https://granitestate.github.io/kb/places/3300539300",
+    "https://granitestate.github.io/kb/places/3300545460",
+    "https://granitestate.github.io/kb/places/3300545700",
+    "https://granitestate.github.io/kb/places/3300550580",
+    "https://granitestate.github.io/kb/places/3300564420",
+    "https://granitestate.github.io/kb/places/3300564580",
+    "https://granitestate.github.io/kb/places/3300565700",
+    "https://granitestate.github.io/kb/places/3300573700",
+    "https://granitestate.github.io/kb/places/3300574900",
+    "https://granitestate.github.io/kb/places/3300575300",
+    "https://granitestate.github.io/kb/places/3300575700",
+    "https://granitestate.github.io/kb/places/3300577380",
+    "https://granitestate.github.io/kb/places/3300578420",
+    "https://granitestate.github.io/kb/places/3300582660",
+    "https://granitestate.github.io/kb/places/3300585540"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33005"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Cheshire",
+  "recordType": "place"
+}

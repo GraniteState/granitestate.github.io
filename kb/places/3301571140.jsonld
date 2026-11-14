@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301571140",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "South Hampton town",
+  "censusVtdCode": "SOHA01",
+  "censusVtdGeoid": "33015SOHA01",
+  "censusVtdName": "TOWN OF SOUTH HAMPTON",
+  "countyName": "Rockingham",
+  "geoid": "3301571140",
+  "granitDistrict": "South Hampton- entire",
+  "granitId": "151",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-20",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-36",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301571140"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "151"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015SOHA01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "South Hampton",
+  "recordType": "place"
+}

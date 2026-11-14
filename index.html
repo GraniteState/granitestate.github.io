@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GraniteState</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: "Iowan Old Style", Palatino, Georgia, serif;
+      line-height: 1.5;
+      max-width: 40rem;
+      margin: 2.5rem auto;
+      padding: 0 1.25rem 3rem;
+    }
+    h1 { font-weight: 600; letter-spacing: -0.02em; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.15rem; margin-top: 2rem; }
+    a { color: inherit; }
+    code, .file { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-size: 0.92em; }
+    ul { padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+    footer { margin-top: 2.5rem; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GraniteState</h1>
+    <p>A static knowledge base of New Hampshire places and the 2022–2032 districts, published for people and for agents.</p>
+  </header>
+  <main>
+    <h2>Read it</h2>
+    <ul>
+      <li><a href="AGENTS.md">AGENTS.md</a> — how to look up a town and walk from a precinct to its districts</li>
+      <li><a href="kb/index.json">kb/index.json</a> — scheme URIs and concept counts</li>
+      <li><a href="kb/names.json">kb/names.json</a> — names, aliases, GEOIDs, and GRANIT town ids</li>
+      <li><a href="kb/context.jsonld">kb/context.jsonld</a> — JSON-LD context</li>
+      <li><a href="kb/vocab.jsonld">kb/vocab.jsonld</a> — project vocabulary</li>
+      <li><a href="kb/schemes/places.jsonld">kb/schemes/places.jsonld</a> — state, counties, municipalities, and wards</li>
+      <li><a href="kb/schemes/districts-2022.jsonld">kb/schemes/districts-2022.jsonld</a> — 2022–2032 districts and plans</li>
+      <li><a href="kb/KNOWN_GAPS.md">kb/KNOWN_GAPS.md</a> — values that were not guessed</li>
+      <li><a href="README.md">README.md</a> — what this site is and how to rebuild it</li>
+    </ul>
+    <h2>One concept</h2>
+    <p>Identifiers have no file suffix. The file is the same path with <span class="file">.jsonld</span> added. Alton is <a href="kb/places/3300101060.jsonld"><span class="file">kb/places/3300101060.jsonld</span></a>. Laconia Ward 1 is <a href="kb/places/3300140180/ward-1.jsonld"><span class="file">kb/places/3300140180/ward-1.jsonld</span></a>. Belknap 7 is <a href="kb/districts/2022/nh-house/belknap-7.jsonld"><span class="file">kb/districts/2022/nh-house/belknap-7.jsonld</span></a>.</p>
+    <h2>Sources</h2>
+    <p>Built from copies of the nh-elections driver files and the Secretary of State voting-district tables. The commits are in <a href="sources/README.md">sources/README.md</a>.</p>
+  </main>
+  <footer>
+    <a href="https://github.com/GraniteState/granitestate.github.io">GraniteState/granitestate.github.io</a>
+  </footer>
+</body>
+</html>

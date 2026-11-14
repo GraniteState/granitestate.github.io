@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300539300/ward-3",
+  "@type": "Concept",
+  "altLabel": [
+    "KEENE WARD 3"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3300539300",
+  "censusVtdCode": "KEEN03",
+  "censusVtdGeoid": "33005KEEN03",
+  "censusVtdName": "KEENE WARD 3",
+  "countyName": "Cheshire",
+  "geoid": "33005KEEN03",
+  "granitDistrict": "Keene Ward 3",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3300539300",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005KEEN03"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Keene Ward 3",
+  "recordType": "place",
+  "wardNumber": 3
+}

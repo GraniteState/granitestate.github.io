@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300539300",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Keene city",
+  "countyName": "Cheshire",
+  "geoid": "3300539300",
+  "granitId": "132",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300539300/ward-1",
+    "https://granitestate.github.io/kb/places/3300539300/ward-2",
+    "https://granitestate.github.io/kb/places/3300539300/ward-3",
+    "https://granitestate.github.io/kb/places/3300539300/ward-4",
+    "https://granitestate.github.io/kb/places/3300539300/ward-5"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300539300"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "132"
+    }
+  ],
+  "prefLabel": "Keene",
+  "recordType": "place"
+}

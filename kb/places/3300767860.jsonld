@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300767860",
+  "@type": "Concept",
+  "altLabel": [
+    "Sargent’s Pur.",
+    "Sargent's Purchase",
+    "Sargents"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Sargents purchase",
+  "countyName": "Coos",
+  "geoid": "3300767860",
+  "granitId": "252",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300767860"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "252"
+    }
+  ],
+  "note": "GRANIT town ID and Census GEOID applied from the one-for-one match in raw/sos-voting-districts/derived/name_mismatches.csv. The SOS voting-districts list spells this place 'Sargent’s Pur.'.\n\nAliases: Sargent’s Pur. (sos_voting_districts); Sargent's Purchase (granit); Sargents (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Sargent’s Purchase",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

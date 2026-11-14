@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301150260/ward-7",
+  "@type": "Concept",
+  "altLabel": [
+    "NASHUA WARD 7"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301150260",
+  "censusVtdCode": "NASH07",
+  "censusVtdGeoid": "33011NASH07",
+  "censusVtdName": "NASHUA WARD 7",
+  "countyName": "Hillsborough",
+  "geoid": "33011NASH07",
+  "granitDistrict": "Nashua Ward 7",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/13",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301150260",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011NASH07"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Nashua Ward 7",
+  "recordType": "place",
+  "wardNumber": 7
+}

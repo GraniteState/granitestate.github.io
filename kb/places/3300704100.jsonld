@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300704100",
+  "@type": "Concept",
+  "altLabel": [
+    "Bean's Grant",
+    "Beans"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Beans grant",
+  "countyName": "Coos",
+  "geoid": "3300704100",
+  "granitDistrict": "Bean's Grant- entire",
+  "granitId": "253",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300704100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "253"
+    }
+  ],
+  "note": "Aliases: Bean's Grant (granit); Beans (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Bean’s Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301517460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Deerfield town",
+  "censusVtdCode": "DFLD01",
+  "censusVtdGeoid": "33015DFLD01",
+  "censusVtdName": "TOWN OF DEERFIELD",
+  "countyName": "Rockingham",
+  "geoid": "3301517460",
+  "granitDistrict": "Deerfield- entire",
+  "granitId": "179",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-31",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301517460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "179"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015DFLD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Deerfield",
+  "recordType": "place"
+}

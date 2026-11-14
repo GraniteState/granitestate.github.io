@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301556820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Northwood town",
+  "censusVtdCode": "NTHW01",
+  "censusVtdGeoid": "33015NTHW01",
+  "censusVtdName": "TOWN OF NORTHWOOD",
+  "countyName": "Rockingham",
+  "geoid": "3301556820",
+  "granitDistrict": "Northwood- entire",
+  "granitId": "176",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301556820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "176"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015NTHW01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Northwood",
+  "recordType": "place"
+}

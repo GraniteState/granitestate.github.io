@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33013",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33013",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301300660",
+    "https://granitestate.github.io/kb/places/3301301460",
+    "https://granitestate.github.io/kb/places/3301306260",
+    "https://granitestate.github.io/kb/places/3301306500",
+    "https://granitestate.github.io/kb/places/3301306980",
+    "https://granitestate.github.io/kb/places/3301309860",
+    "https://granitestate.github.io/kb/places/3301312420",
+    "https://granitestate.github.io/kb/places/3301314200",
+    "https://granitestate.github.io/kb/places/3301316980",
+    "https://granitestate.github.io/kb/places/3301319460",
+    "https://granitestate.github.io/kb/places/3301324900",
+    "https://granitestate.github.io/kb/places/3301327380",
+    "https://granitestate.github.io/kb/places/3301335540",
+    "https://granitestate.github.io/kb/places/3301335860",
+    "https://granitestate.github.io/kb/places/3301337300",
+    "https://granitestate.github.io/kb/places/3301337540",
+    "https://granitestate.github.io/kb/places/3301343380",
+    "https://granitestate.github.io/kb/places/3301350900",
+    "https://granitestate.github.io/kb/places/3301352100",
+    "https://granitestate.github.io/kb/places/3301354260",
+    "https://granitestate.github.io/kb/places/3301360020",
+    "https://granitestate.github.io/kb/places/3301361940",
+    "https://granitestate.github.io/kb/places/3301366980",
+    "https://granitestate.github.io/kb/places/3301375460",
+    "https://granitestate.github.io/kb/places/3301378580",
+    "https://granitestate.github.io/kb/places/3301380020",
+    "https://granitestate.github.io/kb/places/3301384900"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33013"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Merrimack",
+  "recordType": "place"
+}

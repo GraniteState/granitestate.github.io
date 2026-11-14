@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301306500",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Bow town",
+  "censusVtdCode": "0BOW01",
+  "censusVtdGeoid": "330130BOW01",
+  "censusVtdName": "TOWN OF BOW",
+  "countyName": "Merrimack",
+  "geoid": "3301306500",
+  "granitDistrict": "Bow- entire",
+  "granitId": "100",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/15",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301306500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "100"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "330130BOW01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bow",
+  "recordType": "place"
+}

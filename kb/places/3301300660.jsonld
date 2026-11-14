@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301300660",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Allenstown town",
+  "censusVtdCode": "ALLE01",
+  "censusVtdGeoid": "33013ALLE01",
+  "censusVtdName": "TOWN OF ALLENSTOWN",
+  "countyName": "Merrimack",
+  "geoid": "3301300660",
+  "granitDistrict": "Allenstown- entire",
+  "granitId": "98",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-11",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-27",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301300660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "98"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013ALLE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Allenstown",
+  "recordType": "place"
+}

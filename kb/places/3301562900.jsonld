@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301562900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Portsmouth city",
+  "countyName": "Rockingham",
+  "geoid": "3301562900",
+  "granitId": "227",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301562900/ward-1",
+    "https://granitestate.github.io/kb/places/3301562900/ward-2",
+    "https://granitestate.github.io/kb/places/3301562900/ward-3",
+    "https://granitestate.github.io/kb/places/3301562900/ward-4",
+    "https://granitestate.github.io/kb/places/3301562900/ward-5"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301562900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "227"
+    }
+  ],
+  "prefLabel": "Portsmouth",
+  "recordType": "place"
+}

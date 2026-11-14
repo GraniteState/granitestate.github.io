@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-1",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Grafton",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": false,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3300903940",
+    "https://granitestate.github.io/kb/places/3300942020",
+    "https://granitestate.github.io/kb/places/3300942580",
+    "https://granitestate.github.io/kb/places/3300944100",
+    "https://granitestate.github.io/kb/places/3300948980",
+    "https://granitestate.github.io/kb/places/3300974740"
+  ],
+  "notation": "Grafton 1",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Grafton 1",
+  "printedMembers": "Bath; Lisbon; Littleton; Lyman; Monroe; Sugar Hill",
+  "recordType": "district",
+  "seats": 3,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

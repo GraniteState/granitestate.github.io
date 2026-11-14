@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301314200",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Concord city",
+  "countyName": "Merrimack",
+  "geoid": "3301314200",
+  "granitId": "200",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301314200/ward-1",
+    "https://granitestate.github.io/kb/places/3301314200/ward-2",
+    "https://granitestate.github.io/kb/places/3301314200/ward-3",
+    "https://granitestate.github.io/kb/places/3301314200/ward-4",
+    "https://granitestate.github.io/kb/places/3301314200/ward-5",
+    "https://granitestate.github.io/kb/places/3301314200/ward-6",
+    "https://granitestate.github.io/kb/places/3301314200/ward-7",
+    "https://granitestate.github.io/kb/places/3301314200/ward-8",
+    "https://granitestate.github.io/kb/places/3301314200/ward-9",
+    "https://granitestate.github.io/kb/places/3301314200/ward-10"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301314200"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "200"
+    }
+  ],
+  "prefLabel": "Concord",
+  "recordType": "place"
+}

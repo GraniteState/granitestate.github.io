@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301718820/ward-6",
+  "@type": "Concept",
+  "altLabel": [
+    "DOVER WARD 6"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301718820",
+  "censusVtdCode": "DOVE06",
+  "censusVtdGeoid": "33017DOVE06",
+  "censusVtdName": "DOVER WARD 6",
+  "countyName": "Strafford",
+  "geoid": "33017DOVE06",
+  "granitDistrict": "Dover Ward 6",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-21",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/4",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301718820",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017DOVE06"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Dover Ward 6",
+  "recordType": "place",
+  "wardNumber": 6
+}

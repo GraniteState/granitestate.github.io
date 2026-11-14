@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301566180",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Rye town",
+  "censusVtdCode": "0RYE01",
+  "censusVtdGeoid": "330150RYE01",
+  "censusVtdName": "TOWN OF RYE",
+  "countyName": "Rockingham",
+  "geoid": "3301566180",
+  "granitDistrict": "Rye- entire",
+  "granitId": "182",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-24",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-38",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/24",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301566180"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "182"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "330150RYE01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Rye",
+  "recordType": "place"
+}

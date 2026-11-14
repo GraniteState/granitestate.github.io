@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33003",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33",
+  "geoid": "33003",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "county",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3300300420",
+    "https://granitestate.github.io/kb/places/3300303700",
+    "https://granitestate.github.io/kb/places/3300307940",
+    "https://granitestate.github.io/kb/places/3300311780",
+    "https://granitestate.github.io/kb/places/3300314660",
+    "https://granitestate.github.io/kb/places/3300323380",
+    "https://granitestate.github.io/kb/places/3300323620",
+    "https://granitestate.github.io/kb/places/3300327700",
+    "https://granitestate.github.io/kb/places/3300332500",
+    "https://granitestate.github.io/kb/places/3300334500",
+    "https://granitestate.github.io/kb/places/3300338260",
+    "https://granitestate.github.io/kb/places/3300345060",
+    "https://granitestate.github.io/kb/places/3300349380",
+    "https://granitestate.github.io/kb/places/3300358740",
+    "https://granitestate.github.io/kb/places/3300367780",
+    "https://granitestate.github.io/kb/places/3300376100",
+    "https://granitestate.github.io/kb/places/3300377620",
+    "https://granitestate.github.io/kb/places/3300378180",
+    "https://granitestate.github.io/kb/places/3300386420"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33003"
+    }
+  ],
+  "note": "County name as published in the county field of towns.json. GEOID is the five-digit prefix shared by that county's municipality GEOIDs.",
+  "prefLabel": "Carroll",
+  "recordType": "place"
+}

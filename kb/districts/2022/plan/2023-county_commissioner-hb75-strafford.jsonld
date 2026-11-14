@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/plan/2023-county_commissioner-hb75-strafford",
+  "@type": "Concept",
+  "authorityType": "statute",
+  "bill": "HB 75",
+  "citation": "Laws 2023, 177:2, 3 (RSA 662:4, IX)",
+  "definition": "Plan record only. Member towns are not in the inputs, so this build emits no district concepts.",
+  "districtsEmitted": false,
+  "effectiveDate": "2023-10-03",
+  "firstElection": {
+    "general": "2024-11-05",
+    "primary": "2024-09-10"
+  },
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "notation": "2023-county_commissioner-hb75-strafford",
+  "note": "Mid-decade change creating 3 Strafford County commissioner districts, effective for the 2024 general election (act sec. 4). The 2024 general was held by district (NH Elections Database).",
+  "office": "county_commissioner",
+  "planId": "2023-county_commissioner-hb75-strafford",
+  "prefLabel": "2023-county_commissioner-hb75-strafford",
+  "recordType": "plan",
+  "source": [
+    "https://legiscan.com/NH/text/HB75/id/2806643",
+    "https://www.gc.nh.gov/rsa/html/LXIII/662/662-mrg.htm",
+    "https://nh.electionstats.com/elections/view/171093"
+  ],
+  "status": "used",
+  "unconfirmed": [
+    "first_election.primary"
+  ],
+  "usedInElection": true
+}

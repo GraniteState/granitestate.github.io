@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301765140/ward-6",
+  "@type": "Concept",
+  "altLabel": [
+    "ROCHESTER WARD 6"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301765140",
+  "censusVtdCode": "ROCH06",
+  "censusVtdGeoid": "33017ROCH06",
+  "censusVtdName": "ROCHESTER WARD 6",
+  "countyName": "Strafford",
+  "geoid": "33017ROCH06",
+  "granitDistrict": "Rochester Ward 6",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-19",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301765140",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017ROCH06"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Rochester Ward 6",
+  "recordType": "place",
+  "wardNumber": 6
+}

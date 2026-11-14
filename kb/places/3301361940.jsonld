@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301361940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Pittsfield town",
+  "censusVtdCode": "PITF01",
+  "censusVtdGeoid": "33013PITF01",
+  "censusVtdName": "TOWN OF PITTSFIELD",
+  "countyName": "Merrimack",
+  "geoid": "3301361940",
+  "granitDistrict": "Pittsfield- entire",
+  "granitId": "92",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301361940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "92"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013PITF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Pittsfield",
+  "recordType": "place"
+}

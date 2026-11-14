@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301533060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Hampton town",
+  "censusVtdCode": "HMTN01",
+  "censusVtdGeoid": "33015HMTN01",
+  "censusVtdName": "TOWN OF HAMPTON",
+  "countyName": "Rockingham",
+  "geoid": "3301533060",
+  "granitDistrict": "Hampton- entire",
+  "granitId": "229",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-29",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-40",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/24",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301533060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "229"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015HMTN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hampton",
+  "recordType": "place"
+}

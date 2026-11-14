@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300941300/ward-2",
+  "@type": "Concept",
+  "altLabel": [
+    "LEBANON WARD 2"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3300941300",
+  "censusVtdCode": "LEBA02",
+  "censusVtdGeoid": "33009LEBA02",
+  "censusVtdName": "LEBANON WARD 2",
+  "countyName": "Grafton",
+  "geoid": "33009LEBA02",
+  "granitDistrict": "Lebanon Ward 2",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-14",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-17",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3300941300",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009LEBA02"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Lebanon Ward 2",
+  "recordType": "place",
+  "wardNumber": 2
+}

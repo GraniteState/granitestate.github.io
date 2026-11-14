@@ -1,0 +1,133 @@
+{
+  "@context": {
+    "CensusVtdGeoid": "gs:CensusVtdGeoid",
+    "Concept": "skos:Concept",
+    "ConceptScheme": "skos:ConceptScheme",
+    "Geoid": "gs:Geoid",
+    "GranitId": "gs:GranitId",
+    "altLabel": "skos:altLabel",
+    "authorityType": "gs:authorityType",
+    "baseDistrict": {
+      "@id": "gs:baseDistrict",
+      "@type": "@id"
+    },
+    "bill": "gs:bill",
+    "broader": {
+      "@id": "skos:broader",
+      "@type": "@id"
+    },
+    "censusNamelsad": "gs:censusNamelsad",
+    "censusVtdCode": "gs:censusVtdCode",
+    "censusVtdGeoid": "gs:censusVtdGeoid",
+    "censusVtdName": "gs:censusVtdName",
+    "citation": "gs:citation",
+    "closeMatch": {
+      "@id": "skos:closeMatch",
+      "@type": "@id"
+    },
+    "countyName": "gs:countyName",
+    "created": {
+      "@id": "dcterms:created",
+      "@type": "xsd:date"
+    },
+    "dcterms": "http://purl.org/dc/terms/",
+    "definition": "skos:definition",
+    "districtsEmitted": "gs:districtsEmitted",
+    "effectiveDate": {
+      "@id": "gs:effectiveDate",
+      "@type": "xsd:date"
+    },
+    "exactMatch": {
+      "@id": "skos:exactMatch",
+      "@type": "@id"
+    },
+    "firstElection": "gs:firstElection",
+    "floterial": "gs:floterial",
+    "floterialDistrict": {
+      "@id": "gs:floterialDistrict",
+      "@type": "@id"
+    },
+    "general": {
+      "@id": "gs:general",
+      "@type": "xsd:date"
+    },
+    "geoid": "gs:geoid",
+    "granitDistrict": "gs:granitDistrict",
+    "granitId": "gs:granitId",
+    "gs": "https://granitestate.github.io/kb/vocab#",
+    "hasPlan": {
+      "@id": "gs:hasPlan",
+      "@type": "@id"
+    },
+    "hasTopConcept": {
+      "@id": "skos:hasTopConcept",
+      "@type": "@id"
+    },
+    "inDistrict": {
+      "@id": "gs:inDistrict",
+      "@type": "@id"
+    },
+    "inScheme": {
+      "@id": "skos:inScheme",
+      "@type": "@id"
+    },
+    "kind": "gs:kind",
+    "memberPlace": {
+      "@id": "gs:memberPlace",
+      "@type": "@id"
+    },
+    "modified": {
+      "@id": "dcterms:modified",
+      "@type": "xsd:date"
+    },
+    "municipalityGeoid": "gs:municipalityGeoid",
+    "narrower": {
+      "@id": "skos:narrower",
+      "@type": "@id"
+    },
+    "notation": "skos:notation",
+    "note": "skos:note",
+    "office": "gs:office",
+    "plan": {
+      "@id": "gs:plan",
+      "@type": "@id"
+    },
+    "planId": "gs:planId",
+    "planVintage": "gs:planVintage",
+    "precinct": "gs:precinct",
+    "prefLabel": "skos:prefLabel",
+    "primary": {
+      "@id": "gs:primary",
+      "@type": "xsd:date"
+    },
+    "printedMembers": "gs:printedMembers",
+    "recordType": "gs:recordType",
+    "related": {
+      "@id": "skos:related",
+      "@type": "@id"
+    },
+    "seats": "gs:seats",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "source": {
+      "@id": "dcterms:source",
+      "@type": "@id"
+    },
+    "status": "gs:status",
+    "supersededBy": {
+      "@id": "gs:supersededBy",
+      "@type": "@id"
+    },
+    "topConceptOf": {
+      "@id": "skos:topConceptOf",
+      "@type": "@id"
+    },
+    "unconfirmed": "gs:unconfirmed",
+    "usedInElection": "gs:usedInElection",
+    "voteIn": {
+      "@id": "gs:voteIn",
+      "@type": "@id"
+    },
+    "wardNumber": "gs:wardNumber",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}

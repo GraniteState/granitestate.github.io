@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301384900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Wilmot town",
+  "censusVtdCode": "WILM01",
+  "censusVtdGeoid": "33013WILM01",
+  "censusVtdName": "TOWN OF WILMOT",
+  "countyName": "Merrimack",
+  "geoid": "3301384900",
+  "granitDistrict": "Wilmot- entire",
+  "granitId": "73",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301384900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "73"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013WILM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Wilmot",
+  "recordType": "place"
+}

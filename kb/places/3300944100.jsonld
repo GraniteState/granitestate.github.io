@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300944100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Lyman town",
+  "censusVtdCode": "LYMA01",
+  "censusVtdGeoid": "33009LYMA01",
+  "censusVtdName": "TOWN OF LYMAN",
+  "countyName": "Grafton",
+  "geoid": "3300944100",
+  "granitDistrict": "Lyman- entire",
+  "granitId": "25",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300944100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "25"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009LYMA01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Lyman",
+  "recordType": "place"
+}

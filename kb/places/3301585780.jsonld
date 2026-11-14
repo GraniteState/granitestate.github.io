@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301585780",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Windham town",
+  "censusVtdCode": "WNDM01",
+  "censusVtdGeoid": "33015WNDM01",
+  "censusVtdName": "TOWN OF WINDHAM",
+  "countyName": "Rockingham",
+  "geoid": "3301585780",
+  "granitDistrict": "Windham- entire",
+  "granitId": "198",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-17",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-35",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/19",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301585780"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "198"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015WNDM01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Windham",
+  "recordType": "place"
+}

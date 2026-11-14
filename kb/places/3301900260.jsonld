@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301900260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Acworth town",
+  "censusVtdCode": "ACWO01",
+  "censusVtdGeoid": "33019ACWO01",
+  "censusVtdName": "TOWN OF ACWORTH",
+  "countyName": "Sullivan",
+  "geoid": "3301900260",
+  "granitDistrict": "Acworth- entire",
+  "granitId": "44",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301900260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "44"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019ACWO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Acworth",
+  "recordType": "place"
+}

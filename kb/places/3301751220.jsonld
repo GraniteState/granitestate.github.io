@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301751220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "New Durham town",
+  "censusVtdCode": "NDUR01",
+  "censusVtdGeoid": "33017NDUR01",
+  "censusVtdName": "TOWN OF NEW DURHAM",
+  "countyName": "Strafford",
+  "geoid": "3301751220",
+  "granitDistrict": "New Durham- entire",
+  "granitId": "86",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301751220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "86"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017NDUR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "New Durham",
+  "recordType": "place"
+}

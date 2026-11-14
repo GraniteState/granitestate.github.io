@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300958340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Orange town",
+  "censusVtdCode": "ORAN01",
+  "censusVtdGeoid": "33009ORAN01",
+  "censusVtdName": "TOWN OF ORANGE",
+  "countyName": "Grafton",
+  "geoid": "3300958340",
+  "granitDistrict": "Orange- entire",
+  "granitId": "42",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300958340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "42"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009ORAN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Orange",
+  "recordType": "place"
+}

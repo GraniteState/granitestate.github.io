@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301352100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "New London town",
+  "censusVtdCode": "NLON01",
+  "censusVtdGeoid": "33013NLON01",
+  "censusVtdName": "TOWN OF NEW LONDON",
+  "countyName": "Merrimack",
+  "geoid": "3301352100",
+  "granitDistrict": "New London- entire",
+  "granitId": "114",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301352100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "114"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013NLON01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "New London",
+  "recordType": "place"
+}

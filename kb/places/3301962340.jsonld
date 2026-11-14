@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301962340",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Plainfield town",
+  "censusVtdCode": "PLFD01",
+  "censusVtdGeoid": "33019PLFD01",
+  "censusVtdName": "TOWN OF PLAINFIELD",
+  "countyName": "Sullivan",
+  "geoid": "3301962340",
+  "granitDistrict": "Plainfield- entire",
+  "granitId": "111",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301962340"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "111"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019PLFD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Plainfield",
+  "recordType": "place"
+}

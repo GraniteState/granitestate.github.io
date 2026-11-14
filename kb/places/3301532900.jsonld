@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301532900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Hampstead town",
+  "censusVtdCode": "HMST01",
+  "censusVtdGeoid": "33015HMST01",
+  "censusVtdName": "TOWN OF HAMPSTEAD",
+  "countyName": "Rockingham",
+  "geoid": "3301532900",
+  "granitDistrict": "Hampstead- entire",
+  "granitId": "225",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-34",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/19",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301532900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "225"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015HMST01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hampstead",
+  "recordType": "place"
+}

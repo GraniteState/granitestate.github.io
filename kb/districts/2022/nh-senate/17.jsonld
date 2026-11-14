@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-senate",
+  "effectiveDate": "2022-05-06",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3300103220",
+    "https://granitestate.github.io/kb/places/3301300660",
+    "https://granitestate.github.io/kb/places/3301309860",
+    "https://granitestate.github.io/kb/places/3301312420",
+    "https://granitestate.github.io/kb/places/3301324900",
+    "https://granitestate.github.io/kb/places/3301343380",
+    "https://granitestate.github.io/kb/places/3301354260",
+    "https://granitestate.github.io/kb/places/3301360020",
+    "https://granitestate.github.io/kb/places/3301361940",
+    "https://granitestate.github.io/kb/places/3301517460",
+    "https://granitestate.github.io/kb/places/3301556820",
+    "https://granitestate.github.io/kb/places/3301557460"
+  ],
+  "notation": "17",
+  "office": "nh_senate",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_senate-sb240",
+  "planVintage": "2022-2032",
+  "prefLabel": "State Senate 17",
+  "recordType": "district",
+  "unconfirmed": [
+    "first_election"
+  ]
+}

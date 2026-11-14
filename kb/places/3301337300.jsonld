@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301337300",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Hooksett town",
+  "censusVtdCode": "HOOK01",
+  "censusVtdGeoid": "33013HOOK01",
+  "censusVtdName": "TOWN OF HOOKSETT",
+  "countyName": "Merrimack",
+  "geoid": "3301337300",
+  "granitDistrict": "Hooksett- entire",
+  "granitId": "183",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-27",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/16",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301337300"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "183"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013HOOK01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hooksett",
+  "recordType": "place"
+}

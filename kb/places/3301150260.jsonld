@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301150260",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Nashua city",
+  "countyName": "Hillsborough",
+  "geoid": "3301150260",
+  "granitId": "199",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301150260/ward-1",
+    "https://granitestate.github.io/kb/places/3301150260/ward-2",
+    "https://granitestate.github.io/kb/places/3301150260/ward-3",
+    "https://granitestate.github.io/kb/places/3301150260/ward-4",
+    "https://granitestate.github.io/kb/places/3301150260/ward-5",
+    "https://granitestate.github.io/kb/places/3301150260/ward-6",
+    "https://granitestate.github.io/kb/places/3301150260/ward-7",
+    "https://granitestate.github.io/kb/places/3301150260/ward-8",
+    "https://granitestate.github.io/kb/places/3301150260/ward-9"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301150260"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "199"
+    }
+  ],
+  "prefLabel": "Nashua",
+  "recordType": "place"
+}

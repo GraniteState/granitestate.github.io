@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-3",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Sullivan",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": false,
+  "floterialDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-7"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301911380",
+    "https://granitestate.github.io/kb/places/3301952580",
+    "https://granitestate.github.io/kb/places/3301977940"
+  ],
+  "notation": "Sullivan 3",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Sullivan 3",
+  "printedMembers": "Charlestown; Newport; Unity",
+  "recordType": "district",
+  "seats": 3,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

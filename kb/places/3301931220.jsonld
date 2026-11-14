@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301931220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Grantham town",
+  "censusVtdCode": "GRAN01",
+  "censusVtdGeoid": "33019GRAN01",
+  "censusVtdName": "TOWN OF GRANTHAM",
+  "countyName": "Sullivan",
+  "geoid": "3301931220",
+  "granitDistrict": "Grantham- entire",
+  "granitId": "112",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301931220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "112"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019GRAN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Grantham",
+  "recordType": "place"
+}

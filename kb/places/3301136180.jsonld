@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301136180",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Hillsborough town",
+  "censusVtdCode": "HILS01",
+  "censusVtdGeoid": "33011HILS01",
+  "censusVtdName": "TOWN OF HILLSBOROUGH",
+  "countyName": "Hillsborough",
+  "geoid": "3301136180",
+  "granitDistrict": "Hillsborough- entire",
+  "granitId": "125",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-30",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301136180"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "125"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011HILS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hillsborough",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301502820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Auburn town",
+  "censusVtdCode": "AUBU01",
+  "censusVtdGeoid": "33015AUBU01",
+  "censusVtdName": "TOWN OF AUBURN",
+  "countyName": "Rockingham",
+  "geoid": "3301502820",
+  "granitDistrict": "Auburn- entire",
+  "granitId": "187",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-31",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/14",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301502820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "187"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015AUBU01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Auburn",
+  "recordType": "place"
+}

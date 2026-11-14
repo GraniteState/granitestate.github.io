@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/33",
+  "@type": "Concept",
+  "geoid": "33",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "state",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/33001",
+    "https://granitestate.github.io/kb/places/33003",
+    "https://granitestate.github.io/kb/places/33005",
+    "https://granitestate.github.io/kb/places/33007",
+    "https://granitestate.github.io/kb/places/33009",
+    "https://granitestate.github.io/kb/places/33011",
+    "https://granitestate.github.io/kb/places/33013",
+    "https://granitestate.github.io/kb/places/33015",
+    "https://granitestate.github.io/kb/places/33017",
+    "https://granitestate.github.io/kb/places/33019"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "33"
+    }
+  ],
+  "prefLabel": "New Hampshire",
+  "recordType": "place",
+  "topConceptOf": "https://granitestate.github.io/kb/schemes/places"
+}

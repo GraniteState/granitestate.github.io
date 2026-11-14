@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300577380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Troy town",
+  "censusVtdCode": "TROY01",
+  "censusVtdGeoid": "33005TROY01",
+  "censusVtdName": "TOWN OF TROY",
+  "countyName": "Cheshire",
+  "geoid": "3300577380",
+  "granitDistrict": "Troy- entire",
+  "granitId": "135",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-17",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/9",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300577380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "135"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005TROY01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Troy",
+  "recordType": "place"
+}

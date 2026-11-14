@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301765540",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Rollinsford town",
+  "censusVtdCode": "ROLL01",
+  "censusVtdGeoid": "33017ROLL01",
+  "censusVtdName": "TOWN OF ROLLINSFORD",
+  "countyName": "Strafford",
+  "geoid": "3301765540",
+  "granitDistrict": "Rollinsford- entire",
+  "granitId": "178",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/4",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301765540"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "178"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017ROLL01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Rollinsford",
+  "recordType": "place"
+}

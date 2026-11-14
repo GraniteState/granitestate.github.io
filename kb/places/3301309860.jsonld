@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301309860",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Canterbury town",
+  "censusVtdCode": "CANT01",
+  "censusVtdGeoid": "33013CANT01",
+  "censusVtdName": "TOWN OF CANTERBURY",
+  "countyName": "Merrimack",
+  "geoid": "3301309860",
+  "granitDistrict": "Canterbury- entire",
+  "granitId": "80",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-26",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/17",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301309860"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "80"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013CANT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Canterbury",
+  "recordType": "place"
+}

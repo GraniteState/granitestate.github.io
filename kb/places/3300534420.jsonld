@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300534420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Harrisville town",
+  "censusVtdCode": "HARR01",
+  "censusVtdGeoid": "33005HARR01",
+  "censusVtdName": "TOWN OF HARRISVILLE",
+  "countyName": "Cheshire",
+  "geoid": "3300534420",
+  "granitDistrict": "Harrisville- entire",
+  "granitId": "162",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300534420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "162"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005HARR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Harrisville",
+  "recordType": "place"
+}

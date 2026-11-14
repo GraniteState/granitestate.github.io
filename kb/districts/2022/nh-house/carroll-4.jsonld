@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-4",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Carroll",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": false,
+  "floterialDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-8"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3300307940",
+    "https://granitestate.github.io/kb/places/3300323380",
+    "https://granitestate.github.io/kb/places/3300323620",
+    "https://granitestate.github.io/kb/places/3300327700",
+    "https://granitestate.github.io/kb/places/3300378180"
+  ],
+  "notation": "Carroll 4",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Carroll 4",
+  "printedMembers": "Brookfield; Eaton; Effingham; Freedom; Wakefield",
+  "recordType": "district",
+  "seats": 2,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

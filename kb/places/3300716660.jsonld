@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300716660",
+  "@type": "Concept",
+  "altLabel": [
+    "Cutt's Grant",
+    "Cutts"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Cutts grant",
+  "countyName": "Coos",
+  "geoid": "3300716660",
+  "granitDistrict": "Cutt's Grant- entire",
+  "granitId": "254",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300716660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "254"
+    }
+  ],
+  "note": "Aliases: Cutt's Grant (granit); Cutts (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Cutt’s Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

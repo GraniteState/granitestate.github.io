@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301104900",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Bennington town",
+  "censusVtdCode": "BENN01",
+  "censusVtdGeoid": "33011BENN01",
+  "censusVtdName": "TOWN OF BENNINGTON",
+  "countyName": "Hillsborough",
+  "geoid": "3301104900",
+  "granitDistrict": "Bennington- entire",
+  "granitId": "204",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-30",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301104900"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "204"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011BENN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Bennington",
+  "recordType": "place"
+}

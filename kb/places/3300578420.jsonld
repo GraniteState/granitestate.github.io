@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300578420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Walpole town",
+  "censusVtdCode": "WALP01",
+  "censusVtdGeoid": "33005WALP01",
+  "censusVtdName": "TOWN OF WALPOLE",
+  "countyName": "Cheshire",
+  "geoid": "3300578420",
+  "granitDistrict": "Walpole- entire",
+  "granitId": "127",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-5",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300578420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "127"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005WALP01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Walpole",
+  "recordType": "place"
+}

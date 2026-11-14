@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301145140/ward-4",
+  "@type": "Concept",
+  "altLabel": [
+    "MANCHESTER WARD 4"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/3301145140",
+  "censusVtdCode": "MANC04",
+  "censusVtdGeoid": "33011MANC04",
+  "censusVtdName": "MANCHESTER WARD 4",
+  "countyName": "Hillsborough",
+  "geoid": "33011MANC04",
+  "granitDistrict": "Manchester Ward 4",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-24",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-41",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/20",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "ward",
+  "municipalityGeoid": "3301145140",
+  "notation": [
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MANC04"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Manchester Ward 4",
+  "recordType": "place",
+  "wardNumber": 4
+}

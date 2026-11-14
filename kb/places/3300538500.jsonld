@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300538500",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Jaffrey town",
+  "censusVtdCode": "JAFF01",
+  "censusVtdGeoid": "33005JAFF01",
+  "censusVtdName": "TOWN OF JAFFREY",
+  "countyName": "Cheshire",
+  "geoid": "3300538500",
+  "granitDistrict": "Jaffrey- entire",
+  "granitId": "167",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/9",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300538500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "167"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005JAFF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Jaffrey",
+  "recordType": "place"
+}

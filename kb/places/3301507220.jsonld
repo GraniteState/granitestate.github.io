@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301507220",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Brentwood town",
+  "censusVtdCode": "BREN01",
+  "censusVtdGeoid": "33015BREN01",
+  "censusVtdName": "TOWN OF BRENTWOOD",
+  "countyName": "Rockingham",
+  "geoid": "3301507220",
+  "granitDistrict": "Brentwood- entire",
+  "granitId": "209",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-32",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301507220"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "209"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015BREN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Brentwood",
+  "recordType": "place"
+}

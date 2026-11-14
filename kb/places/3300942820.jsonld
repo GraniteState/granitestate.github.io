@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300942820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Livermore town",
+  "countyName": "Grafton",
+  "geoid": "3300942820",
+  "granitDistrict": "Livermore- entire",
+  "granitId": "257",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300942820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "257"
+    }
+  ],
+  "note": "Listed by the SOS under Unincorporated Places; 2020 Census NAMELSAD is 'Livermore town'. kind follows the SOS heading.\n\nVotes in Lincoln (3300941860).",
+  "precinct": true,
+  "prefLabel": "Livermore",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300941860"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300716100",
+  "@type": "Concept",
+  "altLabel": [
+    "Crawford’s Pur.",
+    "Crawford's Purchase",
+    "Crawfords"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Crawfords purchase",
+  "countyName": "Coos",
+  "geoid": "3300716100",
+  "granitId": "250",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300716100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "250"
+    }
+  ],
+  "note": "GRANIT town ID and Census GEOID applied from the one-for-one match in raw/sos-voting-districts/derived/name_mismatches.csv. The SOS voting-districts list spells this place 'Crawford’s Pur.'.\n\nAliases: Crawford’s Pur. (sos_voting_districts); Crawford's Purchase (granit); Crawfords (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Crawford’s Purchase",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

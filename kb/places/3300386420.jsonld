@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300386420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33003",
+  "censusNamelsad": "Wolfeboro town",
+  "censusVtdCode": "WOLF01",
+  "censusVtdGeoid": "33003WOLF01",
+  "censusVtdName": "TOWN OF WOLFEBORO",
+  "countyName": "Carroll",
+  "geoid": "3300386420",
+  "granitDistrict": "Wolfeboro- entire",
+  "granitId": "84",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/carroll-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300386420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "84"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33003WOLF01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Wolfeboro",
+  "recordType": "place"
+}

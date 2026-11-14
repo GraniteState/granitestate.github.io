@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300743620",
+  "@type": "Concept",
+  "altLabel": [
+    "Low & Burbanks Grant",
+    "Low and Burbanks"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Low and Burbanks grant",
+  "countyName": "Coos",
+  "geoid": "3300743620",
+  "granitDistrict": "Low & Burbanks Grant- entire",
+  "granitId": "244",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300743620"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "244"
+    }
+  ],
+  "note": "Aliases: Low & Burbanks Grant (granit); Low and Burbanks (census).\n\nVotes in Gorham (3300730260).",
+  "precinct": true,
+  "prefLabel": "Low & Burbank’s Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300730260"
+}

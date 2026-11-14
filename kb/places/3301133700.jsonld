@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301133700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Hancock town",
+  "censusVtdCode": "HANC01",
+  "censusVtdGeoid": "33011HANC01",
+  "censusVtdName": "TOWN OF HANCOCK",
+  "countyName": "Hillsborough",
+  "geoid": "3301133700",
+  "granitDistrict": "Hancock- entire",
+  "granitId": "131",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-31",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301133700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "131"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011HANC01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hancock",
+  "recordType": "place"
+}

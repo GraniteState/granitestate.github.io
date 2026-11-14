@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301375460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Sutton town",
+  "censusVtdCode": "SUTT01",
+  "censusVtdGeoid": "33013SUTT01",
+  "censusVtdName": "TOWN OF SUTTON",
+  "countyName": "Merrimack",
+  "geoid": "3301375460",
+  "granitDistrict": "Sutton- entire",
+  "granitId": "117",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301375460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "117"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013SUTT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Sutton",
+  "recordType": "place"
+}

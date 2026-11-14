@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301378580",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Warner town",
+  "censusVtdCode": "WARN01",
+  "censusVtdGeoid": "33013WARN01",
+  "censusVtdName": "TOWN OF WARNER",
+  "countyName": "Merrimack",
+  "geoid": "3301378580",
+  "granitDistrict": "Warner- entire",
+  "granitId": "118",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/merrimack-8",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/7",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301378580"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "118"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33013WARN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Warner",
+  "recordType": "place"
+}

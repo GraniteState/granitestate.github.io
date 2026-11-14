@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300101060",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Alton town",
+  "censusVtdCode": "ALTO01",
+  "censusVtdGeoid": "33001ALTO01",
+  "censusVtdName": "TOWN OF ALTON",
+  "countyName": "Belknap",
+  "geoid": "3300101060",
+  "granitDistrict": "Alton- entire",
+  "granitId": "85",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/6",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300101060"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "85"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001ALTO01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Alton",
+  "recordType": "place"
+}

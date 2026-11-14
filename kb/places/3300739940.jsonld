@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300739940",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Kilkenny township",
+  "countyName": "Coos",
+  "geoid": "3300739940",
+  "granitDistrict": "Kilkenny- entire",
+  "granitId": "243",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300739940"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "243"
+    }
+  ],
+  "note": "Votes in Jefferson (3300738820).",
+  "precinct": true,
+  "prefLabel": "Kilkenny",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300738820"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301127140",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Francestown town",
+  "censusVtdCode": "FRNT01",
+  "censusVtdGeoid": "33011FRNT01",
+  "censusVtdName": "TOWN OF FRANCESTOWN",
+  "countyName": "Hillsborough",
+  "geoid": "3301127140",
+  "granitDistrict": "Francestown- entire",
+  "granitId": "103",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-27",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301127140"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "103"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011FRNT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Francestown",
+  "recordType": "place"
+}

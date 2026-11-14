@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301748660",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Milton town",
+  "censusVtdCode": "MILT01",
+  "censusVtdGeoid": "33017MILT01",
+  "censusVtdName": "TOWN OF MILTON",
+  "countyName": "Strafford",
+  "geoid": "3301748660",
+  "granitDistrict": "Milton- entire",
+  "granitId": "148",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/3",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301748660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "148"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017MILT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Milton",
+  "recordType": "place"
+}

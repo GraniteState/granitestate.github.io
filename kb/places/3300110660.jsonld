@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300110660",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33001",
+  "censusNamelsad": "Center Harbor town",
+  "censusVtdCode": "CENT01",
+  "censusVtdGeoid": "33001CENT01",
+  "censusVtdName": "TOWN OF CENTER HARBOR",
+  "countyName": "Belknap",
+  "geoid": "3300110660",
+  "granitDistrict": "Center Harbor- entire",
+  "granitId": "63",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/belknap-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/2",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300110660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "63"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33001CENT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Center Harbor",
+  "recordType": "place"
+}

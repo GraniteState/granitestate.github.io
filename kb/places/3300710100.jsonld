@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300710100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Carroll town",
+  "censusVtdCode": "CARR01",
+  "censusVtdGeoid": "33007CARR01",
+  "censusVtdName": "TOWN OF CARROLL",
+  "countyName": "Coos",
+  "geoid": "3300710100",
+  "granitDistrict": "Carroll- entire",
+  "granitId": "24",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300710100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "24"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007CARR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Carroll",
+  "recordType": "place"
+}

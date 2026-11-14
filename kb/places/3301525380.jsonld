@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301525380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "Exeter town",
+  "censusVtdCode": "EXET01",
+  "censusVtdGeoid": "33015EXET01",
+  "censusVtdName": "TOWN OF EXETER",
+  "countyName": "Rockingham",
+  "geoid": "3301525380",
+  "granitDistrict": "Exeter- entire",
+  "granitId": "188",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-11",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-33",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/24",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301525380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "188"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015EXET01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Exeter",
+  "recordType": "place"
+}

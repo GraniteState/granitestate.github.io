@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301327380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33013",
+  "censusNamelsad": "Franklin city",
+  "countyName": "Merrimack",
+  "geoid": "3301327380",
+  "granitId": "75",
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "city",
+  "narrower": [
+    "https://granitestate.github.io/kb/places/3301327380/ward-1",
+    "https://granitestate.github.io/kb/places/3301327380/ward-2",
+    "https://granitestate.github.io/kb/places/3301327380/ward-3"
+  ],
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301327380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "75"
+    }
+  ],
+  "prefLabel": "Franklin",
+  "recordType": "place"
+}

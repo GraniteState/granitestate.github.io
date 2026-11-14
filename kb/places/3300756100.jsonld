@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300756100",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Northumberland town",
+  "censusVtdCode": "NORU01",
+  "censusVtdGeoid": "33007NORU01",
+  "censusVtdName": "TOWN OF NORTHUMBERLAND",
+  "countyName": "Coos",
+  "geoid": "3300756100",
+  "granitDistrict": "Northumberland- entire",
+  "granitId": "19",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300756100"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "19"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007NORU01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Northumberland",
+  "recordType": "place"
+}

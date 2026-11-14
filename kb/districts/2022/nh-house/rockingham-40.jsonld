@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-40",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-29",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-30"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Rockingham",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301533060",
+    "https://granitestate.github.io/kb/places/3301568260"
+  ],
+  "notation": "Rockingham 40",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Rockingham 40",
+  "printedMembers": "Hampton; Seabrook",
+  "recordType": "district",
+  "seats": 1,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

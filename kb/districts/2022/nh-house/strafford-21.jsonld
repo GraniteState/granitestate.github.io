@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-21",
+  "@type": "Concept",
+  "baseDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-13",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-14",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-17"
+  ],
+  "broader": "https://granitestate.github.io/kb/districts/2022/office/nh-house",
+  "countyName": "Strafford",
+  "effectiveDate": "2022-03-23",
+  "firstElection": {
+    "general": "2022-11-08",
+    "primary": "2022-09-13"
+  },
+  "floterial": true,
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "memberPlace": [
+    "https://granitestate.github.io/kb/places/3301718820/ward-1",
+    "https://granitestate.github.io/kb/places/3301718820/ward-2",
+    "https://granitestate.github.io/kb/places/3301718820/ward-3",
+    "https://granitestate.github.io/kb/places/3301718820/ward-5",
+    "https://granitestate.github.io/kb/places/3301718820/ward-6"
+  ],
+  "notation": "Strafford 21",
+  "office": "nh_house",
+  "plan": "https://granitestate.github.io/kb/districts/2022/plan/2022-nh_house-hb50",
+  "planVintage": "2022-2032",
+  "prefLabel": "Strafford 21",
+  "printedMembers": "Dover Ward 1; Dover Ward 2; Dover Ward 3; Dover Ward 5; Dover Ward 6",
+  "recordType": "district",
+  "seats": 3,
+  "unconfirmed": [
+    "first_election"
+  ]
+}

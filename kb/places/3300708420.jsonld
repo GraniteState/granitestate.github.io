@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300708420",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Cambridge township",
+  "countyName": "Coos",
+  "geoid": "3300708420",
+  "granitDistrict": "Cambridge- entire",
+  "granitId": "241",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300708420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "241"
+    }
+  ],
+  "note": "Votes in Errol (3300725140).",
+  "precinct": true,
+  "prefLabel": "Cambridge",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300725140"
+}

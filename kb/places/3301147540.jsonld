@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301147540",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33011",
+  "censusNamelsad": "Merrimack town",
+  "censusVtdCode": "MERR01",
+  "censusVtdGeoid": "33011MERR01",
+  "censusVtdName": "TOWN OF MERRIMACK",
+  "countyName": "Hillsborough",
+  "geoid": "3301147540",
+  "granitDistrict": "Merrimack- entire",
+  "granitId": "196",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/hillsborough-12",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/11",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301147540"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "196"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33011MERR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Merrimack",
+  "recordType": "place"
+}

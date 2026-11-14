@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300575700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Swanzey town",
+  "censusVtdCode": "SWAN01",
+  "censusVtdGeoid": "33005SWAN01",
+  "censusVtdName": "TOWN OF SWANZEY",
+  "countyName": "Cheshire",
+  "geoid": "3300575700",
+  "granitDistrict": "Swanzey- entire",
+  "granitId": "165",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-10",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-17",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/10",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300575700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "165"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005SWAN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Swanzey",
+  "recordType": "place"
+}

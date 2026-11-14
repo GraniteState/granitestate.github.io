@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300702420",
+  "@type": "Concept",
+  "altLabel": [
+    "Atk. & Gil. Academy Gt",
+    "Atkinson & Gilmanton",
+    "Atkinson and Gilmanton"
+  ],
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Atkinson and Gilmanton Academy grant",
+  "countyName": "Coos",
+  "geoid": "3300702420",
+  "granitId": "233",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-2",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300702420"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "233"
+    }
+  ],
+  "note": "GRANIT town ID and Census GEOID applied from the one-for-one match in raw/sos-voting-districts/derived/name_mismatches.csv. The SOS voting-districts list spells this place 'Atk. & Gil. Academy Gt'.\n\nAliases: Atk. & Gil. Academy Gt (sos_voting_districts); Atkinson & Gilmanton (granit); Atkinson and Gilmanton (census).\n\nVotes in Errol (3300725140).",
+  "precinct": true,
+  "prefLabel": "At & Gil Academy Grant",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300725140"
+}

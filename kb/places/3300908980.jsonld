@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300908980",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33009",
+  "censusNamelsad": "Canaan town",
+  "censusVtdCode": "CANA01",
+  "censusVtdGeoid": "33009CANA01",
+  "censusVtdName": "TOWN OF CANAAN",
+  "countyName": "Grafton",
+  "geoid": "3300908980",
+  "granitDistrict": "Canaan- entire",
+  "granitId": "108",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/grafton-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/5",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300908980"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "108"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33009CANA01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Canaan",
+  "recordType": "place"
+}

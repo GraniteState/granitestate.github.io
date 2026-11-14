@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/districts/2022/office/executive-council",
+  "@type": "Concept",
+  "hasPlan": [
+    "https://granitestate.github.io/kb/districts/2022/plan/2022-executive_council-sb241"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/districts-2022",
+  "narrower": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5"
+  ],
+  "notation": "executive_council",
+  "note": "Office code executive_council. District numbers come from the 2022 assignment on each precinct.",
+  "prefLabel": "Executive Council",
+  "recordType": "office",
+  "topConceptOf": "https://granitestate.github.io/kb/schemes/districts-2022"
+}

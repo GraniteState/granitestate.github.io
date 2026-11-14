@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301703460",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33017",
+  "censusNamelsad": "Barrington town",
+  "censusVtdCode": "BARR01",
+  "censusVtdGeoid": "33017BARR01",
+  "censusVtdName": "TOWN OF BARRINGTON",
+  "countyName": "Strafford",
+  "geoid": "3301703460",
+  "granitDistrict": "Barrington- entire",
+  "granitId": "94",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/4",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-18",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/strafford-4",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/4",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301703460"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "94"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33017BARR01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Barrington",
+  "recordType": "place"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300536660",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Hinsdale town",
+  "censusVtdCode": "HINS01",
+  "censusVtdGeoid": "33005HINS01",
+  "censusVtdName": "TOWN OF HINSDALE",
+  "countyName": "Cheshire",
+  "geoid": "3300536660",
+  "granitDistrict": "Hinsdale- entire",
+  "granitId": "168",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-15",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/9",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300536660"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "168"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005HINS01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Hinsdale",
+  "recordType": "place"
+}

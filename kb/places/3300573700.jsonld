@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300573700",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33005",
+  "censusNamelsad": "Stoddard town",
+  "censusVtdCode": "STOD01",
+  "censusVtdGeoid": "33005STOD01",
+  "censusVtdName": "TOWN OF STODDARD",
+  "countyName": "Cheshire",
+  "geoid": "3300573700",
+  "granitDistrict": "Stoddard- entire",
+  "granitId": "7",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/5",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-16",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/cheshire-9",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300573700"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "7"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33005STOD01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Stoddard",
+  "recordType": "place"
+}

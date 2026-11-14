@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301952580",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33019",
+  "censusNamelsad": "Newport town",
+  "censusVtdCode": "NEWP01",
+  "censusVtdGeoid": "33019NEWP01",
+  "censusVtdName": "TOWN OF NEWPORT",
+  "countyName": "Sullivan",
+  "geoid": "3301952580",
+  "granitDistrict": "Newport- entire",
+  "granitId": "116",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/2",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/sullivan-7",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/8",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301952580"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "116"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33019NEWP01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Newport",
+  "recordType": "place"
+}

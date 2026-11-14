@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300716820",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Dalton town",
+  "censusVtdCode": "DALT01",
+  "censusVtdGeoid": "33007DALT01",
+  "censusVtdName": "TOWN OF DALTON",
+  "countyName": "Coos",
+  "geoid": "3300716820",
+  "granitDistrict": "Dalton- entire",
+  "granitId": "23",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-1",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300716820"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "23"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33007DALT01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "Dalton",
+  "recordType": "place"
+}

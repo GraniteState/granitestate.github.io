@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3301521380",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33015",
+  "censusNamelsad": "East Kingston town",
+  "censusVtdCode": "EKIN01",
+  "censusVtdGeoid": "33015EKIN01",
+  "censusVtdName": "TOWN OF EAST KINGSTON",
+  "countyName": "Rockingham",
+  "geoid": "3301521380",
+  "granitDistrict": "East Kingston- entire",
+  "granitId": "193",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/3",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-14",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/rockingham-34",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/23",
+    "https://granitestate.github.io/kb/districts/2022/us-house/1"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "town",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3301521380"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "193"
+    },
+    {
+      "@type": "CensusVtdGeoid",
+      "@value": "33015EKIN01"
+    }
+  ],
+  "precinct": true,
+  "prefLabel": "East Kingston",
+  "recordType": "place"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/kb/places/3300774500",
+  "@type": "Concept",
+  "broader": "https://granitestate.github.io/kb/places/33007",
+  "censusNamelsad": "Success township",
+  "countyName": "Coos",
+  "geoid": "3300774500",
+  "granitDistrict": "Success- entire",
+  "granitId": "242",
+  "inDistrict": [
+    "https://granitestate.github.io/kb/districts/2022/executive-council/1",
+    "https://granitestate.github.io/kb/districts/2022/nh-house/coos-6",
+    "https://granitestate.github.io/kb/districts/2022/nh-senate/1",
+    "https://granitestate.github.io/kb/districts/2022/us-house/2"
+  ],
+  "inScheme": "https://granitestate.github.io/kb/schemes/places",
+  "kind": "unincorporated place",
+  "notation": [
+    {
+      "@type": "Geoid",
+      "@value": "3300774500"
+    },
+    {
+      "@type": "GranitId",
+      "@value": "242"
+    }
+  ],
+  "note": "Votes in Shelburne (3300768980).",
+  "precinct": true,
+  "prefLabel": "Success",
+  "recordType": "place",
+  "voteIn": "https://granitestate.github.io/kb/places/3300768980"
+}
