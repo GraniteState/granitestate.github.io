@@ -31,6 +31,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
 import re
 import sys
 from dataclasses import dataclass, field
@@ -41,10 +42,6 @@ from pathlib import Path
 from kb_common import CONTEXT_URI, ROOT, SITE, dump_json
 
 SOURCE_REPO = "GraniteState/nh-rsa-data"
-SOURCE_COMMIT = "96bd0a247d4463e2ae692310c0fdd17ec563a46c"
-SOURCE_COMMIT_DATE = "2026-11-12"
-SCRAPE_ORIGIN = "https://gc.nh.gov/rsa/html/"
-OFFICIAL = "https://gc.nh.gov/rsa/html"
 RSA_DIR = ROOT / "rsa"
 SCHEME_ID = SITE + "rsa/scheme"
 
@@ -443,6 +440,7 @@ class Section:
     session_laws: list[dict]
     repealed: bool
     source_file: str
+    chapter_name: str = ""
     combined: list[str] = field(default_factory=list)
     paragraphs: set[str] = field(default_factory=set)
     related: list[str] = field(default_factory=list)
@@ -462,6 +460,7 @@ class Chapter:
     title: str
     name: str
     sections: list[str] = field(default_factory=list)
+    toc_entries: list[tuple[str, str]] = field(default_factory=list)
 
     @property
     def identifier(self) -> str:
@@ -663,47 +662,52 @@ def definition_of(catchline: str, citation: str) -> str:
     return text
 
 
-def official_section_url(title: Title, citation: str) -> str:
-    if title.repealed:
-        return f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm"
-    chapter, _section = citation.split(":", 1)
-    return f"{OFFICIAL}/{title.roman}/{chapter}/{section_slug(citation)}.htm"
+def rsa_pin() -> dict:
+    """The nh-rsa-data commit this site is built from. Bump it in provenance.json."""
+    doc = json.loads((ROOT / "sources/provenance.json").read_text(encoding="utf-8"))
+    pin = doc.get("rsa")
+    if not isinstance(pin, dict) or not pin.get("commit"):
+        raise SystemExit("sources/provenance.json has no rsa.commit")
+    return pin
 
 
-def official_for_section(section: Section, title: Title) -> str:
-    """The General Court file that actually holds this section.
-
-    Repealed ranges are one file with a combined name, such as
-    659-1659-2.htm. The per-section path 659-1.htm is 404.
-    """
-    name = Path(section.source_file).name if section.source_file else f"{section.slug}.htm"
-    return f"{OFFICIAL}/{title.roman}/{section.chapter}/{name}"
+def blob_url(path_under_rsa_html: str) -> str:
+    pin = rsa_pin()
+    commit = pin["commit"]
+    rel = path_under_rsa_html.lstrip("/")
+    return f"https://github.com/{SOURCE_REPO}/blob/{commit}/rsa_html/{rel}"
 
 
-def official_chapter_url(title: Title, chapter: str) -> str:
-    if title.repealed:
-        return f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm"
-    return f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}-{chapter}.htm"
+def section_blob(section: Section) -> str:
+    path = Path(section.source_file) if section.source_file else None
+    if path is not None and "rsa_html" in path.parts:
+        index = path.parts.index("rsa_html")
+        return blob_url("/".join(path.parts[index + 1 :]))
+    return blob_url(f"{section.title}/{section.chapter}/{section.slug}.htm")
 
 
-def html_href_for(citation: str, catalog: Catalog, paragraph: str | None) -> tuple[str, str] | None:
-    """Return (href, 'internal'|'external') or None when the cite cannot be placed."""
-    if citation in catalog.sections:
-        href = f"/rsa/{catalog.sections[citation].chapter}/{section_slug(citation)}.html"
-        if paragraph:
-            if paragraph in catalog.sections[citation].paragraphs:
-                href += f"#p-{paragraph}"
-            else:
-                return None
-        return href, "internal"
-    chapter = citation.split(":", 1)[0]
-    title = catalog.title_for_chapter(chapter)
-    if title is None:
+def provenance_line(blob: str) -> str:
+    pin = rsa_pin()
+    commit = pin["commit"]
+    retrieved = pin.get("commit_date") or pin.get("retrieved") or ""
+    when = f", retrieved {retrieved}" if retrieved else ""
+    return (
+        f"Source: NH General Court RSA HTML{when}, nh-rsa-data@{commit[:12]}. "
+        f'<a href="{html.escape(blob, quote=True)}">Raw HTML in nh-rsa-data</a>.'
+    )
+
+
+def html_href_for(citation: str, catalog: Catalog, paragraph: str | None) -> str | None:
+    """Return an on-site href, or None when this build has no such section."""
+    section = catalog.sections.get(citation)
+    if section is None:
         return None
-    if paragraph and title.roman in {item.roman for item in catalog.titles.values()} and chapter in catalog.chapters:
-        # In a built chapter the section itself is missing, so the paragraph is too.
-        return None
-    return official_section_url(title, citation), "external"
+    href = f"/rsa/{section.chapter}/{section.slug}.html"
+    if paragraph:
+        if paragraph not in section.paragraphs:
+            return None
+        href += f"#p-{paragraph}"
+    return href
 
 
 def record_unresolved(catalog: Catalog, section: str, text: str, reason: str) -> None:
@@ -865,12 +869,9 @@ def anchor_paragraph(label: str, roman: str, target: str, here: str, catalog: Ca
         catalog.counts["internal"] += 1
         href = f"/rsa/{section.chapter}/{section.slug}.html#p-{roman}"
         return f'<a class="cite-internal" href="{html.escape(href, quote=True)}">{html.escape(label)}</a>'
-    if target != here and target not in catalog.sections:
-        placed = html_href_for(target, catalog, None)
-        if placed:
-            href, kind = placed
-            catalog.counts[kind] += 1
-            return f'<a class="cite-{kind}" href="{html.escape(href, quote=True)}">{html.escape(label)}</a>'
+    if target not in catalog.sections:
+        record_unresolved(catalog, here, label.strip() or roman, f"section {target} is not in this build")
+        return html.escape(label)
     record_unresolved(catalog, here, label.strip() or roman, f"paragraph {roman} is not in {target}")
     return html.escape(label)
 
@@ -884,22 +885,13 @@ def anchor_cite(
     paragraph_in_text: bool,
 ) -> str:
     placed = html_href_for(citation, catalog, paragraph if paragraph_in_text else None)
-    if placed is None and paragraph_in_text:
-        # The section may exist without that paragraph. Link the section and
-        # record the paragraph.
-        section_only = html_href_for(citation, catalog, None)
-        if section_only:
-            href, kind = section_only
-            catalog.counts[kind] += 1
-            return f'<a class="cite-{kind}" href="{html.escape(href, quote=True)}">{html.escape(label)}</a>'
-        record_unresolved(catalog, here, label, f"no section for {citation}")
-        return html.escape(label)
+    if placed is None and paragraph_in_text and citation in catalog.sections:
+        placed = html_href_for(citation, catalog, None)
     if placed is None:
-        record_unresolved(catalog, here, label, f"no title range covers {citation}")
+        record_unresolved(catalog, here, label, f"section {citation} is not in this build")
         return html.escape(label)
-    href, kind = placed
-    catalog.counts[kind] += 1
-    return f'<a class="cite-{kind}" href="{html.escape(href, quote=True)}">{html.escape(label)}</a>'
+    catalog.counts["internal"] += 1
+    return f'<a class="cite-internal" href="{html.escape(placed, quote=True)}">{html.escape(label)}</a>'
 
 
 def anchor_chapter(label: str, chapter: str, here: str, catalog: Catalog) -> str:
@@ -907,13 +899,8 @@ def anchor_chapter(label: str, chapter: str, here: str, catalog: Catalog) -> str
         catalog.counts["internal"] += 1
         href = f"/rsa/{chapter}/"
         return f'<a class="cite-internal" href="{href}">{html.escape(label)}</a>'
-    title = catalog.title_for_chapter(chapter)
-    if title is None:
-        record_unresolved(catalog, here, label, f"no title range covers chapter {chapter}")
-        return html.escape(label)
-    catalog.counts["external"] += 1
-    href = official_chapter_url(title, chapter)
-    return f'<a class="cite-external" href="{html.escape(href, quote=True)}">{html.escape(label)}</a>'
+    record_unresolved(catalog, here, label, f"chapter {chapter} is not in this build")
+    return html.escape(label)
 
 
 def render_lines(lines: list[str], here: str, catalog: Catalog) -> str:
@@ -951,7 +938,7 @@ PAGE = """<!DOCTYPE html>
   <a class="skip" href="#content">Skip to statute text</a>
   <nav aria-label="Breadcrumb">{breadcrumb}</nav>
   <header>
-    <h1>{h1}</h1>
+    <h1 id="section">{h1}</h1>
     {part}
   </header>
   <main id="content">
@@ -960,14 +947,15 @@ PAGE = """<!DOCTYPE html>
   {source_block}
   {related_block}
   <footer>
-    <p>Text copied from the General Court RSA pages (<a href="{official}">official HTML</a>), via GraniteState/nh-rsa-data commit <a href="{commit_url}">{commit}</a>. Machine-readable form: <a href="{jsonld}">JSON-LD</a>.</p>
+    <p>{provenance}</p>
+    <p>Machine-readable form: <a href="{jsonld}">JSON-LD</a>.</p>
   </footer>
 </body>
 </html>
 """
 
 
-def page_shell(title: str, h1: str, breadcrumb: str, body: str, jsonld: str, official: str, source_block: str, related_block: str, part: str) -> str:
+def page_shell(title: str, h1: str, breadcrumb: str, body: str, jsonld: str, provenance: str, source_block: str, related_block: str, part: str) -> str:
     return PAGE.format(
         title=html.escape(title),
         h1=h1,
@@ -975,12 +963,10 @@ def page_shell(title: str, h1: str, breadcrumb: str, body: str, jsonld: str, off
         body=body,
         jsonld=html.escape(jsonld, quote=True),
         style=STYLE,
-        official=html.escape(official, quote=True),
+        provenance=provenance,
         source_block=source_block,
         related_block=related_block,
         part=part,
-        commit=SOURCE_COMMIT[:12],
-        commit_url=f"https://github.com/{SOURCE_REPO}/commit/{SOURCE_COMMIT}",
     )
 
 
@@ -1023,14 +1009,13 @@ def write_section_page(section: Section, catalog: Catalog) -> str:
             items.append(f'<li><a href="{html.escape(uri, quote=True)}">{html.escape(label)}</a></li>')
         related_block = "<aside><h2>Knowledge base</h2><ul>" + "".join(items) + "</ul></aside>"
     part = f'<p>{html.escape(section.part_heading)}</p>' if section.part_heading else ""
-    official = official_for_section(section, title)
     return page_shell(
         title=pref_label(section.catchline, section.citation),
         h1=html.escape(pref_label(section.catchline, section.citation)),
         breadcrumb=breadcrumb(section, chapter, title),
         body=body,
         jsonld=f"/rsa/{section.chapter}/{section.slug}.jsonld",
-        official=official,
+        provenance=provenance_line(section_blob(section)),
         source_block=source_block,
         related_block=related_block,
         part=part,
@@ -1056,8 +1041,8 @@ def section_document(section: Section, catalog: Catalog) -> dict:
         "broader": chapter.identifier,
         "recordType": "statute-section",
         "rsaTitle": section.title,
-        "source": official_for_section(section, title),
-        "officialHtml": official_for_section(section, title),
+        "source": section_blob(section),
+        "officialHtml": section_blob(section),
         "statuteText": "\n".join(text_lines),
         "repealed": section.repealed,
     }
@@ -1131,15 +1116,29 @@ def parse_title_toc(path: Path) -> list[tuple[str, str]]:
 
 def parse_chapter_toc(path: Path) -> list[str]:
     """Source filenames in table-of-contents order, without the merged chapter file."""
+    return [name for _cite, _label, name in parse_chapter_entries(path)]
+
+
+def parse_chapter_entries(path: Path) -> list[tuple[str, str, str]]:
+    """(citation, label, filename) from a chapter table of contents."""
     text = path.read_text(encoding="utf-8")
-    names = []
-    for href in re.findall(r'href="([^"]+\.htm)"', text, re.I):
+    found = []
+    seen = set()
+    for href, label in re.findall(r'href="([^"]+\.htm)"[^>]*>\s*([^<]+)', text, re.I):
         name = href.rsplit("/", 1)[-1]
-        if name.endswith("-mrg.htm"):
+        if name.endswith("-mrg.htm") or name in seen:
             continue
-        if name not in names:
-            names.append(name)
-    return names
+        seen.add(name)
+        label = norm(label)
+        match = re.search(r"(\d+(?:-[A-Za-z])?):(\d+(?:-[A-Za-z])?)", label)
+        cite = ""
+        if match:
+            try:
+                cite = f"{norm_chapter(match.group(1))}:{norm_section(match.group(2))}"
+            except ValueError:
+                cite = ""
+        found.append((cite, label, name))
+    return found
 
 
 def load_section_file(path: Path, title: Title) -> list[Section]:
@@ -1158,10 +1157,12 @@ def load_section_file(path: Path, title: Title) -> list[Section]:
         elif not part:
             part = heading
     chapter = citations[0].split(":", 1)[0]
+    chapter_name = ""
     if chapter_heading:
-        match = re.search(r"CHAPTER\s+(\d+(?:-[A-Za-z])?)", chapter_heading, re.I)
+        match = re.search(r"CHAPTER\s+(\d+(?:-[A-Za-z])?)\s*(.*)$", chapter_heading, re.I)
         if match:
             headed = norm_chapter(match.group(1))
+            chapter_name = norm(match.group(2))
             if citations[0].split(":", 1)[0] != headed:
                 citations = [f"{headed}:{cite.split(':', 1)[1]}" for cite in citations]
             chapter = headed
@@ -1196,6 +1197,7 @@ def load_section_file(path: Path, title: Title) -> list[Section]:
                 session_laws=laws,
                 repealed=repealed,
                 source_file=str(path),
+                chapter_name=chapter_name,
                 combined=[cite for cite in citations if cite != citation],
                 paragraphs=set(labels),
             )
@@ -1298,7 +1300,95 @@ def build(source: Path, selected: list[str] | None, build_all: bool) -> Catalog:
                 raise SystemExit(f"chapter {slug} produced no sections")
             catalog.chapters[slug] = chapter
             title.chapters.append(slug)
+    absorb_other_sections(source, catalog, titles)
     return catalog
+
+
+def absorb_other_sections(source: Path, catalog: Catalog, titles: list[Title]) -> None:
+    """Add section files on disk that the selected titles did not already load.
+
+    Citation closure drops those files next to the election scrape. A chapter
+    index lists only the sections present in this snapshot.
+    """
+    by_roman = {title.roman: title for title in titles}
+    loaded = {Path(section.source_file).resolve() for section in catalog.sections.values() if section.source_file}
+    fresh_chapters: set[str] = set()
+    for path in sorted(source.rglob("*.htm")):
+        if path.name.endswith("-mrg.htm") or path.name.lower() == "nhtoc.htm":
+            continue
+        if "NHTOC" in path.parts:
+            continue
+        rel = path.relative_to(source)
+        if len(rel.parts) != 3 or path.resolve() in loaded:
+            continue
+        roman = rel.parts[0]
+        title = by_roman.get(roman)
+        if title is None:
+            continue
+        if roman not in catalog.titles:
+            catalog.titles[roman] = title
+        title = catalog.titles[roman]
+        parsed = load_section_file(path, title)
+        if not parsed:
+            continue
+        slug = parsed[0].chapter
+        chapter = catalog.chapters.get(slug)
+        if chapter is None:
+            chapter = Chapter(slug=slug, title=roman, name=parsed[0].chapter_name)
+            catalog.chapters[slug] = chapter
+            title.chapters.append(slug)
+            fresh_chapters.add(slug)
+        elif not chapter.name and parsed[0].chapter_name:
+            chapter.name = parsed[0].chapter_name
+        for section in parsed:
+            if section.citation in catalog.sections:
+                raise SystemExit(f"duplicate {section.citation} in {path}")
+            catalog.sections[section.citation] = section
+            chapter.sections.append(section.citation)
+        loaded.add(path.resolve())
+    for slug in fresh_chapters:
+        catalog.chapters[slug].sections.sort(key=section_sort_key)
+    absorb_chapter_outlines(source, catalog, titles)
+
+
+def absorb_chapter_outlines(source: Path, catalog: Catalog, titles: list[Title]) -> None:
+    """Create a chapter page from a downloaded table of contents when a page cites the chapter."""
+    by_roman = {title.roman: title for title in titles}
+    toc_dir = source / "NHTOC"
+    if not toc_dir.is_dir():
+        return
+    for path in sorted(toc_dir.glob("NHTOC-*-*.htm")):
+        match = re.fullmatch(r"NHTOC-([IVXLCDM]+(?:-[A-Z])?)-(.+)\.htm", path.name, re.I)
+        if not match:
+            continue
+        roman = match.group(1).upper()
+        slug = norm_chapter(match.group(2)) if re.fullmatch(r"\d+(?:-[A-Za-z])?", match.group(2)) else match.group(2)
+        try:
+            slug = norm_chapter(match.group(2))
+        except ValueError:
+            continue
+        title = by_roman.get(roman)
+        if title is None or slug in catalog.chapters and catalog.chapters[slug].title != roman:
+            continue
+        entries = [(cite, label) for cite, label, _name in parse_chapter_entries(path) if cite or label]
+        if slug in catalog.chapters:
+            if not catalog.chapters[slug].toc_entries:
+                catalog.chapters[slug].toc_entries = entries
+            if not catalog.chapters[slug].name:
+                catalog.chapters[slug].name = chapter_name_from_toc(path)
+            continue
+        if roman not in catalog.titles:
+            catalog.titles[roman] = title
+        title = catalog.titles[roman]
+        chapter = Chapter(slug=slug, title=roman, name=chapter_name_from_toc(path), toc_entries=entries)
+        catalog.chapters[slug] = chapter
+        title.chapters.append(slug)
+
+
+def chapter_name_from_toc(path: Path) -> str:
+    text = path.read_text(encoding="utf-8")
+    match = re.search(r"CHAPTER\s+\d+(?:-[A-Za-z])?\s*:\s*([^<]+)", text, re.I)
+    return norm(match.group(1)) if match else ""
 
 
 def clean_output() -> None:
@@ -1340,24 +1430,39 @@ def write_chapter(chapter: Chapter, catalog: Catalog) -> None:
     title = catalog.titles[chapter.title]
     items = []
     current_part = None
+    listed = set()
+    rows = chapter.toc_entries or [(cite, catalog.sections[cite].catchline) for cite in chapter.sections]
+    for citation, label in rows:
+        section = catalog.sections.get(citation)
+        if section is not None:
+            listed.add(citation)
+            if section.part_heading != current_part:
+                current_part = section.part_heading
+                if current_part:
+                    items.append(
+                        f'<li style="list-style:none;margin-top:0.8rem"><strong>{html.escape(current_part)}</strong></li>'
+                    )
+            shown = strip_trailing_dash(section.catchline) or label or citation
+            items.append(
+                f'<li><a href="/rsa/{chapter.slug}/{section.slug}.html">{html.escape(shown)}</a></li>'
+            )
+        else:
+            items.append(f"<li>{html.escape(label or citation)}</li>")
     for citation in chapter.sections:
+        if citation in listed:
+            continue
         section = catalog.sections[citation]
-        if section.part_heading != current_part:
-            current_part = section.part_heading
-            if current_part:
-                items.append(f"<li style=\"list-style:none;margin-top:0.8rem\"><strong>{html.escape(current_part)}</strong></li>")
-        label = strip_trailing_dash(section.catchline) or citation
         items.append(
-            f'<li><a href="/rsa/{chapter.slug}/{section.slug}.html">{html.escape(label)}</a></li>'
+            f'<li><a href="/rsa/{chapter.slug}/{section.slug}.html">{html.escape(strip_trailing_dash(section.catchline) or citation)}</a></li>'
         )
-    body = "<ul>" + "".join(items) + "</ul>"
+    body = "<ul>" + "".join(items) + "</ul>" if items else "<p>No sections of this chapter are in the snapshot.</p>"
     page = page_shell(
         title=f"RSA {chapter.slug} {chapter.name}".strip(),
         h1=html.escape(f"Chapter {chapter.slug}" + (f" — {chapter.name}" if chapter.name else "")),
         breadcrumb=breadcrumb(None, None, title) + f" / Chapter {html.escape(chapter.slug)}",
         body=body,
         jsonld=f"/rsa/{chapter.slug}/index.jsonld",
-        official=official_chapter_url(title, chapter.slug),
+        provenance=provenance_line(blob_url(f"NHTOC/NHTOC-{title.roman}-{chapter.slug}.htm")),
         source_block="",
         related_block="",
         part="",
@@ -1376,8 +1481,8 @@ def write_chapter(chapter: Chapter, catalog: Catalog) -> None:
         "narrower": [catalog.sections[cite].identifier for cite in chapter.sections],
         "recordType": "statute-chapter",
         "rsaTitle": title.roman,
-        "source": official_chapter_url(title, chapter.slug),
-        "officialHtml": official_chapter_url(title, chapter.slug),
+        "source": blob_url(f"NHTOC/NHTOC-{title.roman}-{chapter.slug}.htm"),
+        "officialHtml": blob_url(f"NHTOC/NHTOC-{title.roman}-{chapter.slug}.htm"),
     }
     if chapter.name:
         doc["definition"] = chapter.name
@@ -1389,8 +1494,7 @@ def write_title(title: Title, catalog: Catalog) -> None:
         body = (
             "<p>Entire Title was repealed.</p>"
             f"<p>The table of contents covers chapters {html.escape(title.start)} through {html.escape(title.end)}. "
-            "Those chapters have no section pages on the General Court site. "
-            f"The repeal notice is <a href=\"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm\">NHTOC-{title.roman}</a>.</p>"
+            "The General Court HTML for this title is a repeal notice, with no section pages in nh-rsa-data.</p>"
         )
     else:
         items = []
@@ -1405,7 +1509,7 @@ def write_title(title: Title, catalog: Catalog) -> None:
         breadcrumb=f'<a href="/rsa/">Revised Statutes</a> / Title {html.escape(title.roman)}',
         body=f"<p>{html.escape(title.name)}</p>" + body,
         jsonld=f"/rsa/title/{title.roman}/index.jsonld",
-        official=f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm",
+        provenance=provenance_line(blob_url(f"NHTOC/NHTOC-{title.roman}.htm")),
         source_block="",
         related_block="",
         part="",
@@ -1426,8 +1530,8 @@ def write_title(title: Title, catalog: Catalog) -> None:
         "recordType": "statute-title",
         "rsaTitle": title.roman,
         "repealed": title.repealed,
-        "source": f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm",
-        "officialHtml": f"{OFFICIAL}/NHTOC/NHTOC-{title.roman}.htm",
+        "source": blob_url(f"NHTOC/NHTOC-{title.roman}.htm"),
+        "officialHtml": blob_url(f"NHTOC/NHTOC-{title.roman}.htm"),
     }
     (directory / "index.jsonld").write_text(dump_json(doc), encoding="utf-8")
 
@@ -1486,10 +1590,10 @@ def write_home(catalog: Catalog) -> None:
         breadcrumb="<a href=\"/\">GraniteState</a>",
         body=body,
         jsonld="/rsa/index.json",
-        official=f"{OFFICIAL}/nhtoc.htm",
+        provenance=provenance_line(blob_url("nhtoc.htm")),
         source_block="",
         related_block="",
-        part="<p>Election-law titles from the General Court table of contents.</p>",
+        part="<p>Election law, plus every other section cited from these pages and present in the nh-rsa-data snapshot.</p>",
     )
     (RSA_DIR / "index.html").write_text(page, encoding="utf-8")
 
@@ -1511,10 +1615,11 @@ def write_index_json(catalog: Catalog, source: Path) -> None:
         "scheme": SCHEME_ID,
         "generatedFrom": {
             "repo": SOURCE_REPO,
-            "commit": SOURCE_COMMIT,
-            "commitDate": SOURCE_COMMIT_DATE,
+            "commit": rsa_pin()["commit"],
+            "commitDate": rsa_pin().get("commit_date"),
             "path": "rsa_html/",
-            "scrapeOrigin": SCRAPE_ORIGIN,
+            "retrieved": rsa_pin().get("commit_date"),
+            "note": "Pages link to this repository and to the raw HTML in nh-rsa-data at this commit. They do not link to the General Court site.",
             "sourceDirectory": str(source),
         },
         "scope": {
@@ -1574,10 +1679,11 @@ def write_unresolved(catalog: Catalog) -> None:
     lines = [
         "# Unresolved RSA citations",
         "",
-        "A citation matched an RSA pattern and could not be turned into a link on this site or a General Court URL.",
-        "Session-law citations in source notes (for example `1979, 436:1`) are not RSA citations and are not listed here.",
+        "A citation matched an RSA pattern and the target is not a page in this build.",
+        "The citation is left as plain text. Session-law notes (for example `1979, 436:1`) are not RSA citations and are not listed here.",
+        "Those notes stay unlinked until chaptered-law text is snapshotted into GraniteState/gc-data.",
         "",
-        f"Unresolved: {catalog.counts['unresolved']}. Internal links: {catalog.counts['internal']}. External links: {catalog.counts['external']}.",
+        f"Unresolved: {catalog.counts['unresolved']}. Internal links: {catalog.counts['internal']}. External links: 0.",
         "",
     ]
     if not catalog.unresolved:
@@ -1689,15 +1795,16 @@ def self_test() -> int:
         "RSA 659:20-a": ("cite-internal", "/rsa/659/659-20-a.html"),
         "RSA 662-A:1": ("cite-internal", "/rsa/662-A/662-A-1.html"),
         "see RSA 659.": ("cite-internal", "/rsa/659/"),
-        "RSA 260:21": ("cite-external", "https://gc.nh.gov/rsa/html/XXI/260/260-21.htm"),
-        "RSA 260:21-a": ("cite-external", "https://gc.nh.gov/rsa/html/XXI/260/260-21-a.htm"),
-        "RSA 60:1": ("cite-external", "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-IV.htm"),
         "section 659:21": ("cite-internal", "/rsa/659/659-21.html"),
         "RSA 654:12, V": ("cite-internal", "/rsa/654/654-12.html#p-V"),
     }
     for text, (kind, href) in samples.items():
         linked = linkify(text, "659:13", catalog)
         check(kind in linked and href in linked, f"{text} -> {linked}")
+    for text in ("RSA 260:21", "RSA 260:21-a", "RSA 60:1", "RSA 91-A"):
+        linked = linkify(text, "659:13", catalog)
+        check("<a " not in linked, f"no external href for {text}: {linked}")
+        check("gc.nh.gov" not in linked and "gencourt" not in linked, f"no general court host in {text}")
     linked = linkify("RSA 659:1 through 659:5", "659:13", catalog)
     check(linked.count("cite-internal") == 2, f"range {linked}")
     linked = linkify("paragraph I", "659:13", catalog)
@@ -1773,7 +1880,7 @@ def main(argv: list[str] | None = None) -> int:
     write_output(catalog, rows, source)
     print(
         f"titles {len(catalog.titles)} chapters {len(catalog.chapters)} sections {len(catalog.sections)} "
-        f"internal {catalog.counts['internal']} external {catalog.counts['external']} "
+        f"internal {catalog.counts['internal']} external 0 "
         f"unresolved {catalog.counts['unresolved']}"
     )
     print("titles:", ", ".join(f"{roman} {catalog.titles[roman].name}" for roman in catalog.titles))

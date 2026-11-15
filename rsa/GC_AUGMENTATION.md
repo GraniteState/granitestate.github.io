@@ -1,6 +1,8 @@
 # General Court augmentation
 
-Observed on 2026-11-14 from this environment. Nothing here is fetched into the RSA pages. Session-law citations in source notes stay as structured text.
+The published pages do not link to the General Court. A source note is plain text plus a link to the raw HTML in `GraniteState/nh-rsa-data` at the commit in `sources/provenance.json`. Session-law citations stay unlinked until chaptered-law text is snapshotted into `GraniteState/gc-data`.
+
+The notes below are what this environment observed on 2026-11-14. They are not links from the statute pages.
 
 ## RSA section pages
 

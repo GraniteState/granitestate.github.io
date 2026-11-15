@@ -37,4 +37,4 @@ Official pages cited by those files have no open-data licence stated on them. Ci
 
 ## nh-rsa-data
 
-Private repository `GraniteState/nh-rsa-data`, commit [`96bd0a24`](https://github.com/GraniteState/nh-rsa-data/commit/96bd0a247d4463e2ae692310c0fdd17ec563a46c) (2026-11-12). The HTML under `rsa_html/` is a scrape of the General Court RSA pages at `https://gc.nh.gov/rsa/html/`. It is not copied into this repository. `scripts/build_rsa.py` reads a local checkout and writes `rsa/`. The `rsa` object in `provenance.json` records the commit. The `files` array is only the driver copies `build_kb.py` hashes.
+Repository `GraniteState/nh-rsa-data`, commit [`96bd0a24`](https://github.com/GraniteState/nh-rsa-data/commit/96bd0a247d4463e2ae692310c0fdd17ec563a46c) (2026-11-12). The HTML under `rsa_html/` is a scrape of the New Hampshire General Court RSA pages. It is not copied into this repository. `scripts/build_rsa.py` reads a local checkout and writes `rsa/`. The `rsa` object in `provenance.json` is the pin: to refresh, commit a new scrape, bump `commit` and `commit_date` there, and rebuild. The `files` array is only the driver copies `build_kb.py` hashes.

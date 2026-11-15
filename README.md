@@ -20,7 +20,9 @@ python3 scripts/validate_kb.py
 
 Both scripts use the Python standard library only. Pull requests run the validator and a rebuild check.
 
-Election-law RSA sections are generated from the private `nh-rsa-data` scrape. The HTML is not stored in this repository. Origins are in [`sources/provenance.json`](sources/provenance.json) and [`rsa/GC_AUGMENTATION.md`](rsa/GC_AUGMENTATION.md).
+RSA pages are generated from `GraniteState/nh-rsa-data`. The HTML is not stored in this repository. The pinned commit is in [`sources/provenance.json`](sources/provenance.json). Pages link to that commit's raw files and to other pages on this site. See [`rsa/GC_AUGMENTATION.md`](rsa/GC_AUGMENTATION.md).
+
+Refresh when the General Court reconvenes: re-scrape into `nh-rsa-data`, bump `rsa.commit` and `rsa.commit_date` in `sources/provenance.json`, then rebuild and validate. Session-law notes stay unlinked until chaptered laws are snapshotted into `GraniteState/gc-data`.
 
 ```sh
 python3 scripts/build_rsa.py --source /path/to/nh-rsa-data/rsa_html

@@ -149,7 +149,7 @@ def check_graph(documents: dict[Path, object], errors: list[str]) -> None:
 def check_html(index: dict, errors: list[str]) -> None:
     internal = 0
     external = 0
-    for path in sorted(RSA.rglob("*.html")):
+    for path in sorted(ROOT.rglob("*.html")):
         parser = LinkParser()
         text = path.read_text(encoding="utf-8")
         parser.feed(text)
@@ -159,12 +159,13 @@ def check_html(index: dict, errors: list[str]) -> None:
             check_href(path, href, parser.ids, errors)
             if len(errors) >= MAX_ERRORS:
                 return
+    if external:
+        errors.append(f"found {external} cite-external links; external hosts are not allowed")
     citations = index.get("citations") or {}
-    if citations.get("internal") != internal or citations.get("external") != external:
-        errors.append(
-            f"citation counts internal {citations.get('internal')} external {citations.get('external')} "
-            f"but pages have {internal} and {external}"
-        )
+    if citations.get("external") not in (0, None):
+        errors.append(f"index citations.external is {citations.get('external')}")
+    if citations.get("internal") != internal:
+        errors.append(f"citation counts internal {citations.get('internal')} but pages have {internal}")
 
 
 def check_href(path: Path, href: str, ids: set[str], errors: list[str]) -> None:
@@ -174,14 +175,14 @@ def check_href(path: Path, href: str, ids: set[str], errors: list[str]) -> None:
         return
     document, _hash, fragment = href.partition("#")
     if document.startswith("http://") or document.startswith("https://"):
-        host = urlparse(document).netloc.lower()
-        if host in {"gc.nh.gov", "www.gc.nh.gov", "granitestate.github.io", "github.com"}:
-            if fragment and host == "granitestate.github.io":
-                target = local_target(document)
-                if target is None or not fragment_exists(target, fragment):
-                    errors.append(f"{rel(path)} fragment {href} does not resolve")
+        if not allowed_host(document):
+            errors.append(f"{rel(path)} links outside GraniteState: {href}")
             return
-        errors.append(f"{rel(path)} links to an unexpected host: {href}")
+        host = urlparse(document).netloc.lower()
+        if fragment and host.endswith("granitestate.github.io"):
+            target = local_target(document)
+            if target is None or not fragment_exists(target, fragment):
+                errors.append(f"{rel(path)} fragment {href} does not resolve")
         return
     if document.startswith("/"):
         target = ROOT / document.lstrip("/")
@@ -194,6 +195,17 @@ def check_href(path: Path, href: str, ids: set[str], errors: list[str]) -> None:
         return
     if fragment and not fragment_exists(target, fragment):
         errors.append(f"{rel(path)} fragment {href} is not in {rel(target)}")
+
+
+def allowed_host(url: str) -> bool:
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    if host in {"granitestate.github.io", "www.granitestate.github.io"}:
+        return True
+    if host == "github.com":
+        parts = [part for part in parsed.path.split("/") if part]
+        return bool(parts) and parts[0].lower() == "granitestate"
+    return False
 
 
 def local_target(url: str) -> Path | None:
