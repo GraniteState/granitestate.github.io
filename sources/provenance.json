@@ -66,5 +66,13 @@
       "blob_sha1": "c2c22d9e224118023eaf571e4bf8fda3a3f990af",
       "note": "Unmatched SOS names and the GRANIT and Census leftovers. towns.json already applied the eleven one-for-one matches; the generator only checks that those aliases are present."
     }
-  ]
+  ],
+  "rsa": {
+    "origin_repo": "GraniteState/nh-rsa-data",
+    "origin_path": "rsa_html/",
+    "commit": "96bd0a247d4463e2ae692310c0fdd17ec563a46c",
+    "commit_date": "2026-11-12",
+    "scrape_origin": "https://gc.nh.gov/rsa/html/ (www.gencourt.state.nh.us redirects to this host)",
+    "note": "The HTML is not copied into this repository. scripts/build_rsa.py reads this pin and a local checkout. Refresh by committing a new scrape in nh-rsa-data and bumping commit and commit_date. Pages link to the raw HTML at this commit and do not link to the General Court site."
+  }
 }

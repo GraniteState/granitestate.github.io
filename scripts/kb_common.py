@@ -72,8 +72,10 @@ def resolve_uri(uri: str, root: Path = ROOT) -> Path | None | str:
     Returns "external" for other hosts, a Path when the URI is this
     site's identifier for a file, or None when it should have been a
     file and was not. Identifiers have no suffix; the file is the same
-    path plus .jsonld. A URI that already ends in a real file
-    (context.jsonld, for example) resolves to that file.
+    path plus .jsonld, or index.jsonld when the path is a directory
+    (RSA chapter and title pages). A URI that already ends in a real
+    file (context.jsonld, for example) resolves to that file. An HTML
+    page at the same path plus .html is the last resort.
     """
     if not uri.startswith(SITE):
         return "external"
@@ -82,17 +84,24 @@ def resolve_uri(uri: str, root: Path = ROOT) -> Path | None | str:
     if not rel or rel.startswith("/") or any(part == ".." for part in rel.split("/")):
         return None
     if rel.endswith("/"):
-        for name in ("index.jsonld", "index.json", "index.html"):
-            candidate = root / rel / name
-            if candidate.is_file():
-                return candidate
-        return None
+        rel = rel[:-1]
     exact = root / rel
     if exact.is_file():
         return exact
+    # A city is both places/3300140180.jsonld and a directory of wards.
+    # Prefer the .jsonld file. RSA chapters are directories with no sibling
+    # .jsonld, so they fall through to index.jsonld.
     suffixed = root / (rel + ".jsonld")
     if suffixed.is_file():
         return suffixed
+    html = root / (rel + ".html")
+    if html.is_file():
+        return html
+    if exact.is_dir():
+        for name in ("index.jsonld", "index.json", "index.html"):
+            candidate = exact / name
+            if candidate.is_file():
+                return candidate
     return None
 
 

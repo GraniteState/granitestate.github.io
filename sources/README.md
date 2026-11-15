@@ -34,3 +34,7 @@ Private repository `GraniteState/nh-elections-data`, commit [`5900f24d`](https:/
 The README in that directory is the upstream note for the Secretary of State 2022–2032 voting-district extract. The generator uses `house_districts.csv` for seat counts, the floterial flag, and the printed member list, and checks the crosswalk against `towns.json`. Membership links follow `towns.json`.
 
 Official pages cited by those files have no open-data licence stated on them. Cite the New Hampshire Secretary of State, GRANIT, and the U.S. Census Bureau as the upstream README and `towns.json` `sources` list do.
+
+## nh-rsa-data
+
+Repository `GraniteState/nh-rsa-data`, commit [`96bd0a24`](https://github.com/GraniteState/nh-rsa-data/commit/96bd0a247d4463e2ae692310c0fdd17ec563a46c) (2026-11-12). The HTML under `rsa_html/` is a scrape of the New Hampshire General Court RSA pages. It is not copied into this repository. `scripts/build_rsa.py` reads a local checkout and writes `rsa/`. The `rsa` object in `provenance.json` is the pin: to refresh, commit a new scrape, bump `commit` and `commit_date` there, and rebuild. The `files` array is only the driver copies `build_kb.py` hashes.

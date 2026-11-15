@@ -16,6 +16,7 @@
       "@id": "skos:broader",
       "@type": "@id"
     },
+    "catchline": "gs:catchline",
     "censusNamelsad": "gs:censusNamelsad",
     "censusVtdCode": "gs:censusVtdCode",
     "censusVtdGeoid": "gs:censusVtdGeoid",
@@ -23,6 +24,10 @@
     "citation": "gs:citation",
     "closeMatch": {
       "@id": "skos:closeMatch",
+      "@type": "@id"
+    },
+    "combinedWith": {
+      "@id": "gs:combinedWith",
       "@type": "@id"
     },
     "countyName": "gs:countyName",
@@ -37,6 +42,7 @@
       "@id": "gs:effectiveDate",
       "@type": "xsd:date"
     },
+    "effectiveText": "gs:effectiveText",
     "exactMatch": {
       "@id": "skos:exactMatch",
       "@type": "@id"
@@ -63,6 +69,7 @@
       "@id": "skos:hasTopConcept",
       "@type": "@id"
     },
+    "historyNote": "gs:historyNote",
     "inDistrict": {
       "@id": "gs:inDistrict",
       "@type": "@id"
@@ -88,6 +95,11 @@
     "notation": "skos:notation",
     "note": "skos:note",
     "office": "gs:office",
+    "officialHtml": {
+      "@id": "gs:officialHtml",
+      "@type": "@id"
+    },
+    "partHeading": "gs:partHeading",
     "plan": {
       "@id": "gs:plan",
       "@type": "@id"
@@ -106,13 +118,21 @@
       "@id": "skos:related",
       "@type": "@id"
     },
+    "repealed": "gs:repealed",
+    "rsaTitle": "gs:rsaTitle",
     "seats": "gs:seats",
+    "sessionChapter": "gs:sessionChapter",
+    "sessionLaw": "gs:sessionLaw",
+    "sessionRemainder": "gs:sessionRemainder",
+    "sessionSection": "gs:sessionSection",
+    "sessionYear": "gs:sessionYear",
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "source": {
       "@id": "dcterms:source",
       "@type": "@id"
     },
     "status": "gs:status",
+    "statuteText": "gs:statuteText",
     "supersededBy": {
       "@id": "gs:supersededBy",
       "@type": "@id"
