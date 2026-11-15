@@ -994,7 +994,11 @@
       "prefLabel": "RSA 14 LEGISLATIVE OFFICERS AND PROCEEDINGS",
       "sections": [
         "14:27-c",
+        "14:30-a",
         "14:31",
+        "14:31-a",
+        "14:31-b",
+        "14:34",
         "14:44"
       ],
       "title": "I"
@@ -1008,7 +1012,8 @@
       "sections": [
         "21:34-a",
         "21:35",
-        "21:50"
+        "21:50",
+        "21:53"
       ],
       "title": "I"
     },
@@ -1044,9 +1049,11 @@
       "sections": [
         "21-I:8",
         "21-I:13",
+        "21-I:13-a",
         "21-I:27",
         "21-I:28",
         "21-I:30",
+        "21-I:30-e",
         "21-I:49"
       ],
       "title": "I"
@@ -1061,6 +1068,7 @@
         "21-J:1",
         "21-J:3",
         "21-J:9-a",
+        "21-J:10",
         "21-J:11",
         "21-J:11-a",
         "21-J:13",
@@ -1086,12 +1094,24 @@
       "title": "I"
     },
     {
+      "html": "rsa/21-N/index.html",
+      "id": "https://granitestate.github.io/rsa/21-N",
+      "jsonld": "rsa/21-N/index.jsonld",
+      "notation": "21-N",
+      "prefLabel": "RSA 21-N DEPARTMENT OF EDUCATION",
+      "sections": [
+        "21-N:11"
+      ],
+      "title": "I"
+    },
+    {
       "html": "rsa/21-P/index.html",
       "id": "https://granitestate.github.io/rsa/21-P",
       "jsonld": "rsa/21-P/index.jsonld",
       "notation": "21-P",
       "prefLabel": "RSA 21-P DEPARTMENT OF SAFETY",
       "sections": [
+        "21-P:34",
         "21-P:41"
       ],
       "title": "I"
@@ -1188,6 +1208,7 @@
       "notation": "24",
       "prefLabel": "RSA 24 COUNTY CONVENTIONS",
       "sections": [
+        "24:13",
         "24:14-a"
       ],
       "title": "II"
@@ -1209,6 +1230,7 @@
         "31:41-c",
         "31:94-a",
         "31:95-c",
+        "31:95-d",
         "31:117"
       ],
       "title": "III"
@@ -1245,6 +1267,8 @@
         "33:3",
         "33:3-c",
         "33:3-g",
+        "33:4",
+        "33:4-b",
         "33:7",
         "33:8-a",
         "33:8-d",
@@ -1261,7 +1285,8 @@
       "notation": "33-A",
       "prefLabel": "RSA 33-A DISPOSITION OF MUNICIPAL RECORDS",
       "sections": [
-        "33-A:3-a"
+        "33-A:3-a",
+        "33-A:5-a"
       ],
       "title": "III"
     },
@@ -1272,7 +1297,8 @@
       "notation": "34",
       "prefLabel": "RSA 34 CAPITAL RESERVE FUNDS FOR CITIES",
       "sections": [
-        "34:1"
+        "34:1",
+        "34:2"
       ],
       "title": "III"
     },
@@ -1283,7 +1309,9 @@
       "notation": "35",
       "prefLabel": "RSA 35 CAPITAL RESERVE FUNDS OF COUNTIES, TOWNS, DISTRICTS, AND WATER DEPARTMENTS",
       "sections": [
+        "35:1",
         "35:5",
+        "35:7",
         "35:8",
         "35:9"
       ],
@@ -1298,6 +1326,17 @@
       "sections": [
         "35-B:1",
         "35-B:2"
+      ],
+      "title": "III"
+    },
+    {
+      "html": "rsa/36/index.html",
+      "id": "https://granitestate.github.io/rsa/36",
+      "jsonld": "rsa/36/index.jsonld",
+      "notation": "36",
+      "prefLabel": "RSA 36 REGIONAL PLANNING COMMISSIONS",
+      "sections": [
+        "36:57"
       ],
       "title": "III"
     },
@@ -1393,6 +1432,7 @@
         "41:9-a",
         "41:16",
         "41:16-b",
+        "41:16-c",
         "41:18",
         "41:25",
         "41:26",
@@ -1431,6 +1471,7 @@
       "notation": "47",
       "prefLabel": "RSA 47 POWERS OF CITY COUNCILS",
       "sections": [
+        "47:6",
         "47:17",
         "47:28"
       ],
@@ -1466,6 +1507,17 @@
       "prefLabel": "RSA 49-B HOME RULE-MUNICIPAL CHARTERS",
       "sections": [
         "49-B:1"
+      ],
+      "title": "III"
+    },
+    {
+      "html": "rsa/49-C/index.html",
+      "id": "https://granitestate.github.io/rsa/49-C",
+      "jsonld": "rsa/49-C/index.jsonld",
+      "notation": "49-C",
+      "prefLabel": "RSA 49-C LOCAL OPTION-CITY CHARTERS",
+      "sections": [
+        "49-C:33"
       ],
       "title": "III"
     },
@@ -1535,6 +1587,7 @@
       "notation": "502-A",
       "prefLabel": "RSA 502-A DISTRICT COURTS",
       "sections": [
+        "502-A:11-a",
         "502-A:19-b"
       ],
       "title": "LI"
@@ -1547,6 +1600,7 @@
       "prefLabel": "RSA 504-A PROBATIONERS AND PAROLEES",
       "sections": [
         "504-A:4",
+        "504-A:5",
         "504-A:8",
         "504-A:12",
         "504-A:12-a",
@@ -1566,6 +1620,17 @@
       "title": "LII"
     },
     {
+      "html": "rsa/594/index.html",
+      "id": "https://granitestate.github.io/rsa/594",
+      "jsonld": "rsa/594/index.jsonld",
+      "notation": "594",
+      "prefLabel": "RSA 594 ARRESTS IN CRIMINAL CASES",
+      "sections": [
+        "594:1"
+      ],
+      "title": "LIX"
+    },
+    {
       "html": "rsa/605/index.html",
       "id": "https://granitestate.github.io/rsa/605",
       "jsonld": "rsa/605/index.jsonld",
@@ -1573,6 +1638,17 @@
       "prefLabel": "RSA 605 PLEAS AND REFUSAL TO PLEAD",
       "sections": [
         "605:6"
+      ],
+      "title": "LIX"
+    },
+    {
+      "html": "rsa/606/index.html",
+      "id": "https://granitestate.github.io/rsa/606",
+      "jsonld": "rsa/606/index.jsonld",
+      "notation": "606",
+      "prefLabel": "RSA 606 TRIAL",
+      "sections": [
+        "606:10"
       ],
       "title": "LIX"
     },
@@ -1596,6 +1672,20 @@
       "sections": [
         "541:3",
         "541:6"
+      ],
+      "title": "LV"
+    },
+    {
+      "html": "rsa/542/index.html",
+      "id": "https://granitestate.github.io/rsa/542",
+      "jsonld": "rsa/542/index.jsonld",
+      "notation": "542",
+      "prefLabel": "RSA 542 ARBITRATION OF DISPUTES",
+      "sections": [
+        "542:1",
+        "542:8",
+        "542:9",
+        "542:10"
       ],
       "title": "LV"
     },
@@ -1630,6 +1720,17 @@
       "title": "LX"
     },
     {
+      "html": "rsa/626/index.html",
+      "id": "https://granitestate.github.io/rsa/626",
+      "jsonld": "rsa/626/index.jsonld",
+      "notation": "626",
+      "prefLabel": "RSA 626 GENERAL PRINCIPLES",
+      "sections": [
+        "626:2"
+      ],
+      "title": "LXII"
+    },
+    {
       "html": "rsa/630/index.html",
       "id": "https://granitestate.github.io/rsa/630",
       "jsonld": "rsa/630/index.jsonld",
@@ -1637,8 +1738,45 @@
       "prefLabel": "RSA 630 HOMICIDE",
       "sections": [
         "630:1-a",
+        "630:1-b",
         "630:2",
-        "630:3"
+        "630:3",
+        "630:4"
+      ],
+      "title": "LXII"
+    },
+    {
+      "html": "rsa/631/index.html",
+      "id": "https://granitestate.github.io/rsa/631",
+      "jsonld": "rsa/631/index.jsonld",
+      "notation": "631",
+      "prefLabel": "RSA 631 ASSAULT AND RELATED OFFENSES",
+      "sections": [
+        "631:2-a",
+        "631:3",
+        "631:4"
+      ],
+      "title": "LXII"
+    },
+    {
+      "html": "rsa/634/index.html",
+      "id": "https://granitestate.github.io/rsa/634",
+      "jsonld": "rsa/634/index.jsonld",
+      "notation": "634",
+      "prefLabel": "RSA 634 DESTRUCTION OF PROPERTY",
+      "sections": [
+        "634:1"
+      ],
+      "title": "LXII"
+    },
+    {
+      "html": "rsa/635/index.html",
+      "id": "https://granitestate.github.io/rsa/635",
+      "jsonld": "rsa/635/index.jsonld",
+      "notation": "635",
+      "prefLabel": "RSA 635 UNAUTHORIZED ENTRIES",
+      "sections": [
+        "635:1"
       ],
       "title": "LXII"
     },
@@ -1650,6 +1788,17 @@
       "prefLabel": "RSA 638 FRAUD",
       "sections": [
         "638:20"
+      ],
+      "title": "LXII"
+    },
+    {
+      "html": "rsa/639/index.html",
+      "id": "https://granitestate.github.io/rsa/639",
+      "jsonld": "rsa/639/index.jsonld",
+      "notation": "639",
+      "prefLabel": "RSA 639 OFFENSES AGAINST THE FAMILY",
+      "sections": [
+        "639:2"
       ],
       "title": "LXII"
     },
@@ -1673,7 +1822,20 @@
       "sections": [
         "641:1",
         "641:2",
-        "641:3"
+        "641:3",
+        "641:5",
+        "641:6"
+      ],
+      "title": "LXII"
+    },
+    {
+      "html": "rsa/645/index.html",
+      "id": "https://granitestate.github.io/rsa/645",
+      "jsonld": "rsa/645/index.jsonld",
+      "notation": "645",
+      "prefLabel": "RSA 645 PUBLIC INDECENCY",
+      "sections": [
+        "645:1"
       ],
       "title": "LXII"
     },
@@ -1728,6 +1890,7 @@
       "notation": "672",
       "prefLabel": "RSA 672 GENERAL PROVISIONS",
       "sections": [
+        "672:3",
         "672:6",
         "672:7"
       ],
@@ -1757,8 +1920,12 @@
       "notation": "674",
       "prefLabel": "RSA 674 LOCAL LAND USE PLANNING AND REGULATORY POWERS",
       "sections": [
+        "674:8",
         "674:24",
         "674:31",
+        "674:31-a",
+        "674:35",
+        "674:37",
         "674:44-b",
         "674:44-d",
         "674:46"
@@ -1776,6 +1943,7 @@
         "675:3",
         "675:4",
         "675:4-a",
+        "675:5",
         "675:6",
         "675:7"
       ],
@@ -1790,6 +1958,7 @@
       "sections": [
         "676:4",
         "676:5",
+        "676:15",
         "676:17"
       ],
       "title": "LXIV"
@@ -1801,6 +1970,7 @@
       "notation": "71-B",
       "prefLabel": "RSA 71-B BOARD OF TAX AND LAND APPEALS",
       "sections": [
+        "71-B:12",
         "71-B:16",
         "71-B:16-a"
       ],
@@ -1813,12 +1983,18 @@
       "notation": "72",
       "prefLabel": "RSA 72 PERSONS AND PROPERTY LIABLE TO TAXATION",
       "sections": [
+        "72:1-d",
+        "72:6",
         "72:23",
         "72:23-k",
+        "72:23-l",
         "72:27-a",
+        "72:28-b",
         "72:29",
+        "72:29-a",
         "72:33",
         "72:34",
+        "72:34-a",
         "72:37",
         "72:37-b",
         "72:39-a",
@@ -1830,6 +2006,8 @@
         "72:73",
         "72:74",
         "72:74-a",
+        "72:76",
+        "72:82",
         "72:84",
         "72:85",
         "72:87"
@@ -1856,7 +2034,8 @@
       "sections": [
         "75:1",
         "75:1-a",
-        "75:8-a"
+        "75:8-a",
+        "75:11"
       ],
       "title": "V"
     },
@@ -1904,7 +2083,30 @@
       "prefLabel": "RSA 79-A CURRENT USE TAXATION",
       "sections": [
         "79-A:9",
+        "79-A:11",
         "79-A:25"
+      ],
+      "title": "V"
+    },
+    {
+      "html": "rsa/79-B/index.html",
+      "id": "https://granitestate.github.io/rsa/79-B",
+      "jsonld": "rsa/79-B/index.jsonld",
+      "notation": "79-B",
+      "prefLabel": "RSA 79-B CONSERVATION RESTRICTION",
+      "sections": [
+        "79-B:3"
+      ],
+      "title": "V"
+    },
+    {
+      "html": "rsa/79-C/index.html",
+      "id": "https://granitestate.github.io/rsa/79-C",
+      "jsonld": "rsa/79-C/index.jsonld",
+      "notation": "79-C",
+      "prefLabel": "RSA 79-C DISCRETIONARY EASEMENTS",
+      "sections": [
+        "79-C:7"
       ],
       "title": "V"
     },
@@ -1943,7 +2145,9 @@
       "notation": "84-C",
       "prefLabel": "RSA 84-C NURSING FACILITY QUALITY ASSESSMENT",
       "sections": [
+        "84-C:1",
         "84-C:3",
+        "84-C:4",
         "84-C:5",
         "84-C:5-a",
         "84-C:9"
@@ -1958,8 +2162,12 @@
       "prefLabel": "RSA 100-A NEW HAMPSHIRE RETIREMENT SYSTEM",
       "sections": [
         "100-A:1",
+        "100-A:2",
         "100-A:5",
+        "100-A:6-a",
+        "100-A:7-b",
         "100-A:14",
+        "100-A:19-a",
         "100-A:44"
       ],
       "title": "VI"
@@ -1971,6 +2179,8 @@
       "notation": "91-A",
       "prefLabel": "RSA 91-A ACCESS TO GOVERNMENTAL RECORDS AND MEETINGS",
       "sections": [
+        "91-A:1",
+        "91-A:1-a",
         "91-A:4",
         "91-A:5"
       ],
@@ -1983,8 +2193,21 @@
       "notation": "94",
       "prefLabel": "RSA 94 COMPENSATION OF CERTAIN STATE OFFICERS",
       "sections": [
+        "94:1",
         "94:1-a",
+        "94:3",
         "94:3-b"
+      ],
+      "title": "VI"
+    },
+    {
+      "html": "rsa/99/index.html",
+      "id": "https://granitestate.github.io/rsa/99",
+      "jsonld": "rsa/99/index.jsonld",
+      "notation": "99",
+      "prefLabel": "RSA 99 ADJUSTMENT OF SALARIES OF STATE EMPLOYEES",
+      "sections": [
+        "99:1-a"
       ],
       "title": "VI"
     },
@@ -2012,6 +2235,17 @@
       "title": "VII"
     },
     {
+      "html": "rsa/110-E/index.html",
+      "id": "https://granitestate.github.io/rsa/110-E",
+      "jsonld": "rsa/110-E/index.jsonld",
+      "notation": "110-E",
+      "prefLabel": "RSA 110-E MILITARY-CONNECTED STUDENTS",
+      "sections": [
+        "110-E:1"
+      ],
+      "title": "VIII"
+    },
+    {
       "html": "rsa/119/index.html",
       "id": "https://granitestate.github.io/rsa/119",
       "jsonld": "rsa/119/index.jsonld",
@@ -2031,7 +2265,8 @@
       "sections": [
         "126:24-c",
         "126:25",
-        "126:27"
+        "126:27",
+        "126:28"
       ],
       "title": "X"
     },
@@ -2073,6 +2308,7 @@
       "notation": "135",
       "prefLabel": "RSA 135 NEW HAMPSHIRE HOSPITAL AND INSANE PERSONS",
       "sections": [
+        "135:17-a",
         "135:17-b"
       ],
       "title": "X"
@@ -2084,7 +2320,10 @@
       "notation": "135-C",
       "prefLabel": "RSA 135-C NEW HAMPSHIRE MENTAL HEALTH SERVICES SYSTEM",
       "sections": [
-        "135-C:2"
+        "135-C:2",
+        "135-C:27",
+        "135-C:34",
+        "135-C:61"
       ],
       "title": "X"
     },
@@ -2096,6 +2335,28 @@
       "prefLabel": "RSA 141-C COMMUNICABLE DISEASE",
       "sections": [
         "141-C:26"
+      ],
+      "title": "X"
+    },
+    {
+      "html": "rsa/141-F/index.html",
+      "id": "https://granitestate.github.io/rsa/141-F",
+      "jsonld": "rsa/141-F/index.jsonld",
+      "notation": "141-F",
+      "prefLabel": "RSA 141-F HUMAN IMMUNODEFICIENCY VIRUS EDUCATION, PREVENTION, AND CONTROL",
+      "sections": [
+        "141-F:3"
+      ],
+      "title": "X"
+    },
+    {
+      "html": "rsa/147/index.html",
+      "id": "https://granitestate.github.io/rsa/147",
+      "jsonld": "rsa/147/index.jsonld",
+      "notation": "147",
+      "prefLabel": "RSA 147 NUISANCES; TOILETS; DRAINS; EXPECTORATION; RUBBISH AND WASTE",
+      "sections": [
+        "147:1"
       ],
       "title": "X"
     },
@@ -2119,7 +2380,9 @@
       "sections": [
         "149-M:2",
         "149-M:3",
-        "149-M:11"
+        "149-M:11",
+        "149-M:24",
+        "149-M:25"
       ],
       "title": "X"
     },
@@ -2229,6 +2492,17 @@
       "title": "XII"
     },
     {
+      "html": "rsa/169-B/index.html",
+      "id": "https://granitestate.github.io/rsa/169-B",
+      "jsonld": "rsa/169-B/index.jsonld",
+      "notation": "169-B",
+      "prefLabel": "RSA 169-B DELINQUENT CHILDREN",
+      "sections": [
+        "169-B:24"
+      ],
+      "title": "XII"
+    },
+    {
       "html": "rsa/170-E/index.html",
       "id": "https://granitestate.github.io/rsa/170-E",
       "jsonld": "rsa/170-E/index.jsonld",
@@ -2258,7 +2532,8 @@
       "notation": "175",
       "prefLabel": "RSA 175 DEFINITIONS AND GENERAL PROVISIONS",
       "sections": [
-        "175:1"
+        "175:1",
+        "175:4"
       ],
       "title": "XIII"
     },
@@ -2269,6 +2544,7 @@
       "notation": "178",
       "prefLabel": "RSA 178 LIQUOR LICENSES AND FEES",
       "sections": [
+        "178:2",
         "178:12-b",
         "178:21",
         "178:22"
@@ -2284,7 +2560,10 @@
       "sections": [
         "179:7",
         "179:8",
-        "179:9"
+        "179:9",
+        "179:27-a",
+        "179:32",
+        "179:44"
       ],
       "title": "XIII"
     },
@@ -2298,6 +2577,17 @@
         "225-A:2"
       ],
       "title": "XIX"
+    },
+    {
+      "html": "rsa/227-G/index.html",
+      "id": "https://granitestate.github.io/rsa/227-G",
+      "jsonld": "rsa/227-G/index.jsonld",
+      "notation": "227-G",
+      "prefLabel": "RSA 227-G POLICY, DEFINITIONS, AND ADMINISTRATION",
+      "sections": [
+        "227-G:5-a"
+      ],
+      "title": "XIX-A"
     },
     {
       "html": "rsa/426/index.html",
@@ -2328,6 +2618,28 @@
       "title": "XL"
     },
     {
+      "html": "rsa/472/index.html",
+      "id": "https://granitestate.github.io/rsa/472",
+      "jsonld": "rsa/472/index.jsonld",
+      "notation": "472",
+      "prefLabel": "RSA 472 BOUNDARY LINES",
+      "sections": [
+        "472:6"
+      ],
+      "title": "XLVII"
+    },
+    {
+      "html": "rsa/477/index.html",
+      "id": "https://granitestate.github.io/rsa/477",
+      "jsonld": "rsa/477/index.jsonld",
+      "notation": "477",
+      "prefLabel": "RSA 477 CONVEYANCES OF REALTY AND INTERESTS THEREIN",
+      "sections": [
+        "477:45"
+      ],
+      "title": "XLVIII"
+    },
+    {
       "html": "rsa/186-C/index.html",
       "id": "https://granitestate.github.io/rsa/186-C",
       "jsonld": "rsa/186-C/index.jsonld",
@@ -2345,6 +2657,7 @@
       "notation": "189",
       "prefLabel": "RSA 189 SCHOOL BOARDS, SUPERINTENDENTS, TEACHERS, AND TRUANT OFFICERS; SCHOOL CENSUS",
       "sections": [
+        "189:1",
         "189:1-d",
         "189:24",
         "189:29-a",
@@ -2359,7 +2672,9 @@
       "notation": "193",
       "prefLabel": "RSA 193 PUPILS",
       "sections": [
-        "193:12"
+        "193:12",
+        "193:27",
+        "193:28"
       ],
       "title": "XV"
     },
@@ -2370,7 +2685,8 @@
       "notation": "193-C",
       "prefLabel": "RSA 193-C STATEWIDE EDUCATION IMPROVEMENT AND ASSESSMENT PROGRAM",
       "sections": [
-        "193-C:6"
+        "193-C:6",
+        "193-C:12"
       ],
       "title": "XV"
     },
@@ -2381,6 +2697,7 @@
       "notation": "193-E",
       "prefLabel": "RSA 193-E ADEQUATE PUBLIC EDUCATION",
       "sections": [
+        "193-E:4",
         "193-E:5"
       ],
       "title": "XV"
@@ -2468,6 +2785,7 @@
       "notation": "198",
       "prefLabel": "RSA 198 SCHOOL MONEY",
       "sections": [
+        "198:4-a",
         "198:38"
       ],
       "title": "XV"
@@ -2503,9 +2821,43 @@
       "notation": "206",
       "prefLabel": "RSA 206 FISH AND GAME COMMISSION",
       "sections": [
-        "206:26-b"
+        "206:26-b",
+        "206:34"
       ],
       "title": "XVIII"
+    },
+    {
+      "html": "rsa/207/index.html",
+      "id": "https://granitestate.github.io/rsa/207",
+      "jsonld": "rsa/207/index.jsonld",
+      "notation": "207",
+      "prefLabel": "RSA 207 GENERAL PROVISIONS AS TO FISH AND GAME",
+      "sections": [
+        "207:18"
+      ],
+      "title": "XVIII"
+    },
+    {
+      "html": "rsa/214/index.html",
+      "id": "https://granitestate.github.io/rsa/214",
+      "jsonld": "rsa/214/index.jsonld",
+      "notation": "214",
+      "prefLabel": "RSA 214 LICENSES",
+      "sections": [
+        "214:19"
+      ],
+      "title": "XVIII"
+    },
+    {
+      "html": "rsa/228/index.html",
+      "id": "https://granitestate.github.io/rsa/228",
+      "jsonld": "rsa/228/index.jsonld",
+      "notation": "228",
+      "prefLabel": "RSA 228 ADMINISTRATION OF TRANSPORTATION LAWS",
+      "sections": [
+        "228:69"
+      ],
+      "title": "XX"
     },
     {
       "html": "rsa/231/index.html",
@@ -2516,7 +2868,8 @@
       "sections": [
         "231:62",
         "231:62-a",
-        "231:62-b"
+        "231:62-b",
+        "231:131"
       ],
       "title": "XX"
     },
@@ -2545,6 +2898,17 @@
       "title": "XX"
     },
     {
+      "html": "rsa/249/index.html",
+      "id": "https://granitestate.github.io/rsa/249",
+      "jsonld": "rsa/249/index.jsonld",
+      "notation": "249",
+      "prefLabel": "RSA 249 RAILROADS; FIRE DAMAGE AND PREVENTION",
+      "sections": [
+        "249:17"
+      ],
+      "title": "XX"
+    },
+    {
       "html": "rsa/259/index.html",
       "id": "https://granitestate.github.io/rsa/259",
       "jsonld": "rsa/259/index.jsonld",
@@ -2552,8 +2916,13 @@
       "prefLabel": "RSA 259 WORDS AND PHRASES DEFINED",
       "sections": [
         "259:1",
+        "259:4",
         "259:21",
         "259:39",
+        "259:63",
+        "259:93",
+        "259:116-a",
+        "259:118",
         "259:125"
       ],
       "title": "XXI"
@@ -2565,9 +2934,11 @@
       "notation": "260",
       "prefLabel": "RSA 260 ADMINISTRATION OF MOTOR VEHICLE LAWS",
       "sections": [
+        "260:12",
         "260:21",
         "260:21-a",
         "260:21-b",
+        "260:31",
         "260:37",
         "260:39"
       ],
@@ -2581,9 +2952,11 @@
       "prefLabel": "RSA 261 CERTIFICATES OF TITLE AND REGISTRATION OF VEHICLES",
       "sections": [
         "261:12",
+        "261:23",
         "261:40",
         "261:44",
         "261:59",
+        "261:73",
         "261:165"
       ],
       "title": "XXI"
@@ -2595,6 +2968,11 @@
       "notation": "262",
       "prefLabel": "RSA 262 ANTITHEFT LAWS, OFFENSES, PENALTIES, HABITUAL OFFENDERS, ARREST OF NONRESIDENTS AND ABANDONED VEHICLES",
       "sections": [
+        "262:1",
+        "262:8",
+        "262:12",
+        "262:13",
+        "262:15",
         "262:23"
       ],
       "title": "XXI"
@@ -2606,6 +2984,7 @@
       "notation": "263",
       "prefLabel": "RSA 263 DRIVERS' LICENSES",
       "sections": [
+        "263:1",
         "263:5-f",
         "263:7",
         "263:10",
@@ -2613,10 +2992,24 @@
         "263:17",
         "263:19",
         "263:21",
+        "263:34-b",
         "263:35",
         "263:35-a",
         "263:39-a",
-        "263:41"
+        "263:41",
+        "263:53",
+        "263:63"
+      ],
+      "title": "XXI"
+    },
+    {
+      "html": "rsa/264/index.html",
+      "id": "https://granitestate.github.io/rsa/264",
+      "jsonld": "rsa/264/index.jsonld",
+      "notation": "264",
+      "prefLabel": "RSA 264 ACCIDENTS AND FINANCIAL RESPONSIBILITY",
+      "sections": [
+        "264:25"
       ],
       "title": "XXI"
     },
@@ -2627,10 +3020,18 @@
       "notation": "265",
       "prefLabel": "RSA 265 RULES OF THE ROAD",
       "sections": [
+        "265:6-a",
+        "265:9",
         "265:11",
+        "265:22",
         "265:60",
+        "265:71",
+        "265:75",
         "265:79",
+        "265:79-b",
         "265:79-c",
+        "265:82",
+        "265:82-a",
         "265:107-a"
       ],
       "title": "XXI"
@@ -2642,7 +3043,12 @@
       "notation": "265-A",
       "prefLabel": "RSA 265-A ALCOHOL OR DRUG IMPAIRMENT",
       "sections": [
-        "265-A:40"
+        "265-A:1",
+        "265-A:2",
+        "265-A:3",
+        "265-A:25",
+        "265-A:40",
+        "265-A:43"
       ],
       "title": "XXI"
     },
@@ -2656,6 +3062,17 @@
         "266:5"
       ],
       "title": "XXI"
+    },
+    {
+      "html": "rsa/270/index.html",
+      "id": "https://granitestate.github.io/rsa/270",
+      "jsonld": "rsa/270/index.jsonld",
+      "notation": "270",
+      "prefLabel": "RSA 270 SUPERVISION OF NAVIGATION; REGISTRATION OF BOATS AND MOTORS; COMMON CARRIERS BY WATER",
+      "sections": [
+        "270:11-a"
+      ],
+      "title": "XXII"
     },
     {
       "html": "rsa/273-A/index.html",
@@ -2716,6 +3133,17 @@
       "title": "XXXI"
     },
     {
+      "html": "rsa/362/index.html",
+      "id": "https://granitestate.github.io/rsa/362",
+      "jsonld": "rsa/362/index.jsonld",
+      "notation": "362",
+      "prefLabel": "RSA 362 DEFINITION OF TERMS; UTILITIES EXEMPTED",
+      "sections": [
+        "362:2"
+      ],
+      "title": "XXXIV"
+    },
+    {
       "html": "rsa/362-A/index.html",
       "id": "https://granitestate.github.io/rsa/362-A",
       "jsonld": "rsa/362-A/index.jsonld",
@@ -2739,6 +3167,17 @@
       "title": "XXXIV"
     },
     {
+      "html": "rsa/374-H/index.html",
+      "id": "https://granitestate.github.io/rsa/374-H",
+      "jsonld": "rsa/374-H/index.jsonld",
+      "notation": "374-H",
+      "prefLabel": "RSA 374-H CUSTOMER ENERGY STORAGE",
+      "sections": [
+        "374-H:1"
+      ],
+      "title": "XXXIV"
+    },
+    {
       "html": "rsa/420-D/index.html",
       "id": "https://granitestate.github.io/rsa/420-D",
       "jsonld": "rsa/420-D/index.jsonld",
@@ -2757,6 +3196,7 @@
       "notation": "420-J",
       "prefLabel": "RSA 420-J MANAGED CARE LAW",
       "sections": [
+        "420-J:7-f",
         "420-J:8"
       ],
       "title": "XXXVII"
@@ -2776,15 +3216,6 @@
       "jsonld": "rsa/43/index.jsonld",
       "notation": "43",
       "prefLabel": "RSA 43 HEARINGS BEFORE TOWN OR CERTAIN OTHER LOCAL OFFICERS",
-      "sections": [],
-      "title": "III"
-    },
-    {
-      "html": "rsa/49-C/index.html",
-      "id": "https://granitestate.github.io/rsa/49-C",
-      "jsonld": "rsa/49-C/index.jsonld",
-      "notation": "49-C",
-      "prefLabel": "RSA 49-C LOCAL OPTION-CITY CHARTERS",
       "sections": [],
       "title": "III"
     },
@@ -2823,15 +3254,6 @@
       "prefLabel": "RSA 547-B PUBLIC GUARDIANSHIP AND PROTECTION PROGRAM",
       "sections": [],
       "title": "LVI"
-    },
-    {
-      "html": "rsa/631/index.html",
-      "id": "https://granitestate.github.io/rsa/631",
-      "jsonld": "rsa/631/index.jsonld",
-      "notation": "631",
-      "prefLabel": "RSA 631 ASSAULT AND RELATED OFFENSES",
-      "sections": [],
-      "title": "LXII"
     },
     {
       "html": "rsa/93-B/index.html",
@@ -2875,15 +3297,6 @@
       "jsonld": "rsa/162-K/index.jsonld",
       "notation": "162-K",
       "prefLabel": "RSA 162-K MUNICIPAL ECONOMIC DEVELOPMENT AND REVITALIZATION DISTRICTS",
-      "sections": [],
-      "title": "XII"
-    },
-    {
-      "html": "rsa/169-B/index.html",
-      "id": "https://granitestate.github.io/rsa/169-B",
-      "jsonld": "rsa/169-B/index.jsonld",
-      "notation": "169-B",
-      "prefLabel": "RSA 169-B DELINQUENT CHILDREN",
       "sections": [],
       "title": "XII"
     },
@@ -3016,14 +3429,14 @@
   ],
   "citations": {
     "external": 0,
-    "internal": 2627,
-    "unresolved": 406
+    "internal": 2975,
+    "unresolved": 417
   },
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "chapters": 182,
-    "sections": 1220,
-    "titles": 37
+    "chapters": 209,
+    "sections": 1360,
+    "titles": 40
   },
   "generatedFrom": {
     "commit": "96bd0a247d4463e2ae692310c0fdd17ec563a46c",
@@ -3060,19 +3473,22 @@
       "XII",
       "XIII",
       "XIX",
+      "XIX-A",
       "XL",
+      "XLVII",
+      "XLVIII",
       "XV",
       "XVI",
       "XVIII",
       "XX",
       "XXI",
+      "XXII",
       "XXIII",
       "XXX",
       "XXXI",
       "XXXIV",
       "XXXVII",
       "LVI",
-      "XIX-A",
       "XLIV",
       "XXIV"
     ]
@@ -3230,12 +3646,52 @@
     },
     {
       "chapter": "14",
+      "citation": "14:30-a",
+      "html": "rsa/14/14-30-a.html",
+      "id": "https://granitestate.github.io/rsa/14/14-30-a",
+      "jsonld": "rsa/14/14-30-a.jsonld",
+      "repealed": false,
+      "sourceFile": "I/14/14-30-a.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "14",
       "citation": "14:31",
       "html": "rsa/14/14-31.html",
       "id": "https://granitestate.github.io/rsa/14/14-31",
       "jsonld": "rsa/14/14-31.jsonld",
       "repealed": false,
       "sourceFile": "I/14/14-31.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "14",
+      "citation": "14:31-a",
+      "html": "rsa/14/14-31-a.html",
+      "id": "https://granitestate.github.io/rsa/14/14-31-a",
+      "jsonld": "rsa/14/14-31-a.jsonld",
+      "repealed": false,
+      "sourceFile": "I/14/14-31-a.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "14",
+      "citation": "14:31-b",
+      "html": "rsa/14/14-31-b.html",
+      "id": "https://granitestate.github.io/rsa/14/14-31-b",
+      "jsonld": "rsa/14/14-31-b.jsonld",
+      "repealed": false,
+      "sourceFile": "I/14/14-31-b.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "14",
+      "citation": "14:34",
+      "html": "rsa/14/14-34.html",
+      "id": "https://granitestate.github.io/rsa/14/14-34",
+      "jsonld": "rsa/14/14-34.jsonld",
+      "repealed": false,
+      "sourceFile": "I/14/14-34.htm",
       "title": "I"
     },
     {
@@ -3276,6 +3732,16 @@
       "jsonld": "rsa/21/21-50.jsonld",
       "repealed": false,
       "sourceFile": "I/21/21-50.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "21",
+      "citation": "21:53",
+      "html": "rsa/21/21-53.html",
+      "id": "https://granitestate.github.io/rsa/21/21-53",
+      "jsonld": "rsa/21/21-53.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21/21-53.htm",
       "title": "I"
     },
     {
@@ -3330,6 +3796,16 @@
     },
     {
       "chapter": "21-I",
+      "citation": "21-I:13-a",
+      "html": "rsa/21-I/21-I-13-a.html",
+      "id": "https://granitestate.github.io/rsa/21-I/21-I-13-a",
+      "jsonld": "rsa/21-I/21-I-13-a.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21-I/21-I-13-a.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "21-I",
       "citation": "21-I:27",
       "html": "rsa/21-I/21-I-27.html",
       "id": "https://granitestate.github.io/rsa/21-I/21-I-27",
@@ -3356,6 +3832,16 @@
       "jsonld": "rsa/21-I/21-I-30.jsonld",
       "repealed": false,
       "sourceFile": "I/21-I/21-I-30.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "21-I",
+      "citation": "21-I:30-e",
+      "html": "rsa/21-I/21-I-30-e.html",
+      "id": "https://granitestate.github.io/rsa/21-I/21-I-30-e",
+      "jsonld": "rsa/21-I/21-I-30-e.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21-I/21-I-30-e.htm",
       "title": "I"
     },
     {
@@ -3396,6 +3882,16 @@
       "jsonld": "rsa/21-J/21-J-9-a.jsonld",
       "repealed": false,
       "sourceFile": "I/21-J/21-J-9-a.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "21-J",
+      "citation": "21-J:10",
+      "html": "rsa/21-J/21-J-10.html",
+      "id": "https://granitestate.github.io/rsa/21-J/21-J-10",
+      "jsonld": "rsa/21-J/21-J-10.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21-J/21-J-10.htm",
       "title": "I"
     },
     {
@@ -3509,6 +4005,26 @@
       "title": "I"
     },
     {
+      "chapter": "21-N",
+      "citation": "21-N:11",
+      "html": "rsa/21-N/21-N-11.html",
+      "id": "https://granitestate.github.io/rsa/21-N/21-N-11",
+      "jsonld": "rsa/21-N/21-N-11.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21-N/21-N-11.htm",
+      "title": "I"
+    },
+    {
+      "chapter": "21-P",
+      "citation": "21-P:34",
+      "html": "rsa/21-P/21-P-34.html",
+      "id": "https://granitestate.github.io/rsa/21-P/21-P-34",
+      "jsonld": "rsa/21-P/21-P-34.jsonld",
+      "repealed": false,
+      "sourceFile": "I/21-P/21-P-34.htm",
+      "title": "I"
+    },
+    {
       "chapter": "21-P",
       "citation": "21-P:41",
       "html": "rsa/21-P/21-P-41.html",
@@ -3527,6 +4043,16 @@
       "repealed": false,
       "sourceFile": "I/21-R/21-R-16.htm",
       "title": "I"
+    },
+    {
+      "chapter": "24",
+      "citation": "24:13",
+      "html": "rsa/24/24-13.html",
+      "id": "https://granitestate.github.io/rsa/24/24-13",
+      "jsonld": "rsa/24/24-13.jsonld",
+      "repealed": false,
+      "sourceFile": "II/24/24-13.htm",
+      "title": "II"
     },
     {
       "chapter": "24",
@@ -3636,6 +4162,16 @@
       "jsonld": "rsa/31/31-95-c.jsonld",
       "repealed": false,
       "sourceFile": "III/31/31-95-c.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "31",
+      "citation": "31:95-d",
+      "html": "rsa/31/31-95-d.html",
+      "id": "https://granitestate.github.io/rsa/31/31-95-d",
+      "jsonld": "rsa/31/31-95-d.jsonld",
+      "repealed": false,
+      "sourceFile": "III/31/31-95-d.htm",
       "title": "III"
     },
     {
@@ -3800,6 +4336,26 @@
     },
     {
       "chapter": "33",
+      "citation": "33:4",
+      "html": "rsa/33/33-4.html",
+      "id": "https://granitestate.github.io/rsa/33/33-4",
+      "jsonld": "rsa/33/33-4.jsonld",
+      "repealed": false,
+      "sourceFile": "III/33/33-4.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "33",
+      "citation": "33:4-b",
+      "html": "rsa/33/33-4-b.html",
+      "id": "https://granitestate.github.io/rsa/33/33-4-b",
+      "jsonld": "rsa/33/33-4-b.jsonld",
+      "repealed": false,
+      "sourceFile": "III/33/33-4-b.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "33",
       "citation": "33:7",
       "html": "rsa/33/33-7.html",
       "id": "https://granitestate.github.io/rsa/33/33-7",
@@ -3869,6 +4425,16 @@
       "title": "III"
     },
     {
+      "chapter": "33-A",
+      "citation": "33-A:5-a",
+      "html": "rsa/33-A/33-A-5-a.html",
+      "id": "https://granitestate.github.io/rsa/33-A/33-A-5-a",
+      "jsonld": "rsa/33-A/33-A-5-a.jsonld",
+      "repealed": false,
+      "sourceFile": "III/33-A/33-A-5-a.htm",
+      "title": "III"
+    },
+    {
       "chapter": "34",
       "citation": "34:1",
       "html": "rsa/34/34-1.html",
@@ -3879,6 +4445,26 @@
       "title": "III"
     },
     {
+      "chapter": "34",
+      "citation": "34:2",
+      "html": "rsa/34/34-2.html",
+      "id": "https://granitestate.github.io/rsa/34/34-2",
+      "jsonld": "rsa/34/34-2.jsonld",
+      "repealed": false,
+      "sourceFile": "III/34/34-2.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "35",
+      "citation": "35:1",
+      "html": "rsa/35/35-1.html",
+      "id": "https://granitestate.github.io/rsa/35/35-1",
+      "jsonld": "rsa/35/35-1.jsonld",
+      "repealed": false,
+      "sourceFile": "III/35/35-1.htm",
+      "title": "III"
+    },
+    {
       "chapter": "35",
       "citation": "35:5",
       "html": "rsa/35/35-5.html",
@@ -3886,6 +4472,16 @@
       "jsonld": "rsa/35/35-5.jsonld",
       "repealed": false,
       "sourceFile": "III/35/35-5.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "35",
+      "citation": "35:7",
+      "html": "rsa/35/35-7.html",
+      "id": "https://granitestate.github.io/rsa/35/35-7",
+      "jsonld": "rsa/35/35-7.jsonld",
+      "repealed": false,
+      "sourceFile": "III/35/35-7.htm",
       "title": "III"
     },
     {
@@ -3926,6 +4522,16 @@
       "jsonld": "rsa/35-B/35-B-2.jsonld",
       "repealed": false,
       "sourceFile": "III/35-B/35-B-2.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "36",
+      "citation": "36:57",
+      "html": "rsa/36/36-57.html",
+      "id": "https://granitestate.github.io/rsa/36/36-57",
+      "jsonld": "rsa/36/36-57.jsonld",
+      "repealed": false,
+      "sourceFile": "III/36/36-57.htm",
       "title": "III"
     },
     {
@@ -4280,6 +4886,16 @@
     },
     {
       "chapter": "41",
+      "citation": "41:16-c",
+      "html": "rsa/41/41-16-c.html",
+      "id": "https://granitestate.github.io/rsa/41/41-16-c",
+      "jsonld": "rsa/41/41-16-c.jsonld",
+      "repealed": false,
+      "sourceFile": "III/41/41-16-c.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "41",
       "citation": "41:18",
       "html": "rsa/41/41-18.html",
       "id": "https://granitestate.github.io/rsa/41/41-18",
@@ -4460,6 +5076,16 @@
     },
     {
       "chapter": "47",
+      "citation": "47:6",
+      "html": "rsa/47/47-6.html",
+      "id": "https://granitestate.github.io/rsa/47/47-6",
+      "jsonld": "rsa/47/47-6.jsonld",
+      "repealed": false,
+      "sourceFile": "III/47/47-6.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "47",
       "citation": "47:17",
       "html": "rsa/47/47-17.html",
       "id": "https://granitestate.github.io/rsa/47/47-17",
@@ -4506,6 +5132,16 @@
       "jsonld": "rsa/49-B/49-B-1.jsonld",
       "repealed": false,
       "sourceFile": "III/49-B/49-B-1.htm",
+      "title": "III"
+    },
+    {
+      "chapter": "49-C",
+      "citation": "49-C:33",
+      "html": "rsa/49-C/49-C-33.html",
+      "id": "https://granitestate.github.io/rsa/49-C/49-C-33",
+      "jsonld": "rsa/49-C/49-C-33.jsonld",
+      "repealed": false,
+      "sourceFile": "III/49-C/49-C-33.htm",
       "title": "III"
     },
     {
@@ -4590,6 +5226,16 @@
     },
     {
       "chapter": "71-B",
+      "citation": "71-B:12",
+      "html": "rsa/71-B/71-B-12.html",
+      "id": "https://granitestate.github.io/rsa/71-B/71-B-12",
+      "jsonld": "rsa/71-B/71-B-12.jsonld",
+      "repealed": false,
+      "sourceFile": "V/71-B/71-B-12.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "71-B",
       "citation": "71-B:16",
       "html": "rsa/71-B/71-B-16.html",
       "id": "https://granitestate.github.io/rsa/71-B/71-B-16",
@@ -4606,6 +5252,26 @@
       "jsonld": "rsa/71-B/71-B-16-a.jsonld",
       "repealed": false,
       "sourceFile": "V/71-B/71-B-16-a.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
+      "citation": "72:1-d",
+      "html": "rsa/72/72-1-d.html",
+      "id": "https://granitestate.github.io/rsa/72/72-1-d",
+      "jsonld": "rsa/72/72-1-d.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-1-d.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
+      "citation": "72:6",
+      "html": "rsa/72/72-6.html",
+      "id": "https://granitestate.github.io/rsa/72/72-6",
+      "jsonld": "rsa/72/72-6.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-6.htm",
       "title": "V"
     },
     {
@@ -4630,6 +5296,16 @@
     },
     {
       "chapter": "72",
+      "citation": "72:23-l",
+      "html": "rsa/72/72-23-l.html",
+      "id": "https://granitestate.github.io/rsa/72/72-23-l",
+      "jsonld": "rsa/72/72-23-l.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-23-l.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
       "citation": "72:27-a",
       "html": "rsa/72/72-27-a.html",
       "id": "https://granitestate.github.io/rsa/72/72-27-a",
@@ -4640,12 +5316,32 @@
     },
     {
       "chapter": "72",
+      "citation": "72:28-b",
+      "html": "rsa/72/72-28-b.html",
+      "id": "https://granitestate.github.io/rsa/72/72-28-b",
+      "jsonld": "rsa/72/72-28-b.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-28-b.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
       "citation": "72:29",
       "html": "rsa/72/72-29.html",
       "id": "https://granitestate.github.io/rsa/72/72-29",
       "jsonld": "rsa/72/72-29.jsonld",
       "repealed": false,
       "sourceFile": "V/72/72-29.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
+      "citation": "72:29-a",
+      "html": "rsa/72/72-29-a.html",
+      "id": "https://granitestate.github.io/rsa/72/72-29-a",
+      "jsonld": "rsa/72/72-29-a.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-29-a.htm",
       "title": "V"
     },
     {
@@ -4666,6 +5362,16 @@
       "jsonld": "rsa/72/72-34.jsonld",
       "repealed": false,
       "sourceFile": "V/72/72-34.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
+      "citation": "72:34-a",
+      "html": "rsa/72/72-34-a.html",
+      "id": "https://granitestate.github.io/rsa/72/72-34-a",
+      "jsonld": "rsa/72/72-34-a.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-34-a.htm",
       "title": "V"
     },
     {
@@ -4780,6 +5486,26 @@
     },
     {
       "chapter": "72",
+      "citation": "72:76",
+      "html": "rsa/72/72-76.html",
+      "id": "https://granitestate.github.io/rsa/72/72-76",
+      "jsonld": "rsa/72/72-76.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-76.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
+      "citation": "72:82",
+      "html": "rsa/72/72-82.html",
+      "id": "https://granitestate.github.io/rsa/72/72-82",
+      "jsonld": "rsa/72/72-82.jsonld",
+      "repealed": false,
+      "sourceFile": "V/72/72-82.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "72",
       "citation": "72:84",
       "html": "rsa/72/72-84.html",
       "id": "https://granitestate.github.io/rsa/72/72-84",
@@ -4846,6 +5572,16 @@
       "jsonld": "rsa/75/75-8-a.jsonld",
       "repealed": false,
       "sourceFile": "V/75/75-8-a.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "75",
+      "citation": "75:11",
+      "html": "rsa/75/75-11.html",
+      "id": "https://granitestate.github.io/rsa/75/75-11",
+      "jsonld": "rsa/75/75-11.jsonld",
+      "repealed": false,
+      "sourceFile": "V/75/75-11.htm",
       "title": "V"
     },
     {
@@ -4920,12 +5656,42 @@
     },
     {
       "chapter": "79-A",
+      "citation": "79-A:11",
+      "html": "rsa/79-A/79-A-11.html",
+      "id": "https://granitestate.github.io/rsa/79-A/79-A-11",
+      "jsonld": "rsa/79-A/79-A-11.jsonld",
+      "repealed": false,
+      "sourceFile": "V/79-A/79-A-11.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "79-A",
       "citation": "79-A:25",
       "html": "rsa/79-A/79-A-25.html",
       "id": "https://granitestate.github.io/rsa/79-A/79-A-25",
       "jsonld": "rsa/79-A/79-A-25.jsonld",
       "repealed": false,
       "sourceFile": "V/79-A/79-A-25.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "79-B",
+      "citation": "79-B:3",
+      "html": "rsa/79-B/79-B-3.html",
+      "id": "https://granitestate.github.io/rsa/79-B/79-B-3",
+      "jsonld": "rsa/79-B/79-B-3.jsonld",
+      "repealed": false,
+      "sourceFile": "V/79-B/79-B-3.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "79-C",
+      "citation": "79-C:7",
+      "html": "rsa/79-C/79-C-7.html",
+      "id": "https://granitestate.github.io/rsa/79-C/79-C-7",
+      "jsonld": "rsa/79-C/79-C-7.jsonld",
+      "repealed": false,
+      "sourceFile": "V/79-C/79-C-7.htm",
       "title": "V"
     },
     {
@@ -5010,12 +5776,32 @@
     },
     {
       "chapter": "84-C",
+      "citation": "84-C:1",
+      "html": "rsa/84-C/84-C-1.html",
+      "id": "https://granitestate.github.io/rsa/84-C/84-C-1",
+      "jsonld": "rsa/84-C/84-C-1.jsonld",
+      "repealed": false,
+      "sourceFile": "V/84-C/84-C-1.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "84-C",
       "citation": "84-C:3",
       "html": "rsa/84-C/84-C-3.html",
       "id": "https://granitestate.github.io/rsa/84-C/84-C-3",
       "jsonld": "rsa/84-C/84-C-3.jsonld",
       "repealed": false,
       "sourceFile": "V/84-C/84-C-3.htm",
+      "title": "V"
+    },
+    {
+      "chapter": "84-C",
+      "citation": "84-C:4",
+      "html": "rsa/84-C/84-C-4.html",
+      "id": "https://granitestate.github.io/rsa/84-C/84-C-4",
+      "jsonld": "rsa/84-C/84-C-4.jsonld",
+      "repealed": false,
+      "sourceFile": "V/84-C/84-C-4.htm",
       "title": "V"
     },
     {
@@ -5050,6 +5836,26 @@
     },
     {
       "chapter": "91-A",
+      "citation": "91-A:1",
+      "html": "rsa/91-A/91-A-1.html",
+      "id": "https://granitestate.github.io/rsa/91-A/91-A-1",
+      "jsonld": "rsa/91-A/91-A-1.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/91-A/91-A-1.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "91-A",
+      "citation": "91-A:1-a",
+      "html": "rsa/91-A/91-A-1-a.html",
+      "id": "https://granitestate.github.io/rsa/91-A/91-A-1-a",
+      "jsonld": "rsa/91-A/91-A-1-a.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/91-A/91-A-1-a.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "91-A",
       "citation": "91-A:4",
       "html": "rsa/91-A/91-A-4.html",
       "id": "https://granitestate.github.io/rsa/91-A/91-A-4",
@@ -5070,6 +5876,16 @@
     },
     {
       "chapter": "94",
+      "citation": "94:1",
+      "html": "rsa/94/94-1.html",
+      "id": "https://granitestate.github.io/rsa/94/94-1",
+      "jsonld": "rsa/94/94-1.jsonld",
+      "repealed": true,
+      "sourceFile": "VI/94/94-1.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "94",
       "citation": "94:1-a",
       "html": "rsa/94/94-1-a.html",
       "id": "https://granitestate.github.io/rsa/94/94-1-a",
@@ -5080,12 +5896,32 @@
     },
     {
       "chapter": "94",
+      "citation": "94:3",
+      "html": "rsa/94/94-3.html",
+      "id": "https://granitestate.github.io/rsa/94/94-3",
+      "jsonld": "rsa/94/94-3.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/94/94-3.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "94",
       "citation": "94:3-b",
       "html": "rsa/94/94-3-b.html",
       "id": "https://granitestate.github.io/rsa/94/94-3-b",
       "jsonld": "rsa/94/94-3-b.jsonld",
       "repealed": false,
       "sourceFile": "VI/94/94-3-b.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "99",
+      "citation": "99:1-a",
+      "html": "rsa/99/99-1-a.html",
+      "id": "https://granitestate.github.io/rsa/99/99-1-a",
+      "jsonld": "rsa/99/99-1-a.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/99/99-1-a.htm",
       "title": "VI"
     },
     {
@@ -5100,6 +5936,16 @@
     },
     {
       "chapter": "100-A",
+      "citation": "100-A:2",
+      "html": "rsa/100-A/100-A-2.html",
+      "id": "https://granitestate.github.io/rsa/100-A/100-A-2",
+      "jsonld": "rsa/100-A/100-A-2.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/100-A/100-A-2.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "100-A",
       "citation": "100-A:5",
       "html": "rsa/100-A/100-A-5.html",
       "id": "https://granitestate.github.io/rsa/100-A/100-A-5",
@@ -5110,12 +5956,42 @@
     },
     {
       "chapter": "100-A",
+      "citation": "100-A:6-a",
+      "html": "rsa/100-A/100-A-6-a.html",
+      "id": "https://granitestate.github.io/rsa/100-A/100-A-6-a",
+      "jsonld": "rsa/100-A/100-A-6-a.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/100-A/100-A-6-a.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "100-A",
+      "citation": "100-A:7-b",
+      "html": "rsa/100-A/100-A-7-b.html",
+      "id": "https://granitestate.github.io/rsa/100-A/100-A-7-b",
+      "jsonld": "rsa/100-A/100-A-7-b.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/100-A/100-A-7-b.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "100-A",
       "citation": "100-A:14",
       "html": "rsa/100-A/100-A-14.html",
       "id": "https://granitestate.github.io/rsa/100-A/100-A-14",
       "jsonld": "rsa/100-A/100-A-14.jsonld",
       "repealed": false,
       "sourceFile": "VI/100-A/100-A-14.htm",
+      "title": "VI"
+    },
+    {
+      "chapter": "100-A",
+      "citation": "100-A:19-a",
+      "html": "rsa/100-A/100-A-19-a.html",
+      "id": "https://granitestate.github.io/rsa/100-A/100-A-19-a",
+      "jsonld": "rsa/100-A/100-A-19-a.jsonld",
+      "repealed": false,
+      "sourceFile": "VI/100-A/100-A-19-a.htm",
       "title": "VI"
     },
     {
@@ -5159,6 +6035,16 @@
       "title": "VII"
     },
     {
+      "chapter": "110-E",
+      "citation": "110-E:1",
+      "html": "rsa/110-E/110-E-1.html",
+      "id": "https://granitestate.github.io/rsa/110-E/110-E-1",
+      "jsonld": "rsa/110-E/110-E-1.jsonld",
+      "repealed": false,
+      "sourceFile": "VIII/110-E/110-E-1.htm",
+      "title": "VIII"
+    },
+    {
       "chapter": "119",
       "citation": "119:1",
       "html": "rsa/119/119-1.html",
@@ -5196,6 +6082,16 @@
       "jsonld": "rsa/126/126-27.jsonld",
       "repealed": false,
       "sourceFile": "X/126/126-27.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "126",
+      "citation": "126:28",
+      "html": "rsa/126/126-28.html",
+      "id": "https://granitestate.github.io/rsa/126/126-28",
+      "jsonld": "rsa/126/126-28.jsonld",
+      "repealed": false,
+      "sourceFile": "X/126/126-28.htm",
       "title": "X"
     },
     {
@@ -5310,6 +6206,16 @@
     },
     {
       "chapter": "135",
+      "citation": "135:17-a",
+      "html": "rsa/135/135-17-a.html",
+      "id": "https://granitestate.github.io/rsa/135/135-17-a",
+      "jsonld": "rsa/135/135-17-a.jsonld",
+      "repealed": false,
+      "sourceFile": "X/135/135-17-a.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "135",
       "citation": "135:17-b",
       "html": "rsa/135/135-17-b.html",
       "id": "https://granitestate.github.io/rsa/135/135-17-b",
@@ -5329,6 +6235,36 @@
       "title": "X"
     },
     {
+      "chapter": "135-C",
+      "citation": "135-C:27",
+      "html": "rsa/135-C/135-C-27.html",
+      "id": "https://granitestate.github.io/rsa/135-C/135-C-27",
+      "jsonld": "rsa/135-C/135-C-27.jsonld",
+      "repealed": false,
+      "sourceFile": "X/135-C/135-C-27.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "135-C",
+      "citation": "135-C:34",
+      "html": "rsa/135-C/135-C-34.html",
+      "id": "https://granitestate.github.io/rsa/135-C/135-C-34",
+      "jsonld": "rsa/135-C/135-C-34.jsonld",
+      "repealed": false,
+      "sourceFile": "X/135-C/135-C-34.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "135-C",
+      "citation": "135-C:61",
+      "html": "rsa/135-C/135-C-61.html",
+      "id": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "jsonld": "rsa/135-C/135-C-61.jsonld",
+      "repealed": false,
+      "sourceFile": "X/135-C/135-C-61.htm",
+      "title": "X"
+    },
+    {
       "chapter": "141-C",
       "citation": "141-C:26",
       "html": "rsa/141-C/141-C-26.html",
@@ -5336,6 +6272,26 @@
       "jsonld": "rsa/141-C/141-C-26.jsonld",
       "repealed": false,
       "sourceFile": "X/141-C/141-C-26.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "141-F",
+      "citation": "141-F:3",
+      "html": "rsa/141-F/141-F-3.html",
+      "id": "https://granitestate.github.io/rsa/141-F/141-F-3",
+      "jsonld": "rsa/141-F/141-F-3.jsonld",
+      "repealed": false,
+      "sourceFile": "X/141-F/141-F-3.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "147",
+      "citation": "147:1",
+      "html": "rsa/147/147-1.html",
+      "id": "https://granitestate.github.io/rsa/147/147-1",
+      "jsonld": "rsa/147/147-1.jsonld",
+      "repealed": false,
+      "sourceFile": "X/147/147-1.htm",
       "title": "X"
     },
     {
@@ -5376,6 +6332,26 @@
       "jsonld": "rsa/149-M/149-M-11.jsonld",
       "repealed": false,
       "sourceFile": "X/149-M/149-M-11.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "149-M",
+      "citation": "149-M:24",
+      "html": "rsa/149-M/149-M-24.html",
+      "id": "https://granitestate.github.io/rsa/149-M/149-M-24",
+      "jsonld": "rsa/149-M/149-M-24.jsonld",
+      "repealed": false,
+      "sourceFile": "X/149-M/149-M-24.htm",
+      "title": "X"
+    },
+    {
+      "chapter": "149-M",
+      "citation": "149-M:25",
+      "html": "rsa/149-M/149-M-25.html",
+      "id": "https://granitestate.github.io/rsa/149-M/149-M-25",
+      "jsonld": "rsa/149-M/149-M-25.jsonld",
+      "repealed": false,
+      "sourceFile": "X/149-M/149-M-25.htm",
       "title": "X"
     },
     {
@@ -5729,6 +6705,16 @@
       "title": "XII"
     },
     {
+      "chapter": "169-B",
+      "citation": "169-B:24",
+      "html": "rsa/169-B/169-B-24.html",
+      "id": "https://granitestate.github.io/rsa/169-B/169-B-24",
+      "jsonld": "rsa/169-B/169-B-24.jsonld",
+      "repealed": false,
+      "sourceFile": "XII/169-B/169-B-24.htm",
+      "title": "XII"
+    },
+    {
       "chapter": "170-E",
       "citation": "170-E:55",
       "html": "rsa/170-E/170-E-55.html",
@@ -5766,6 +6752,26 @@
       "jsonld": "rsa/175/175-1.jsonld",
       "repealed": false,
       "sourceFile": "XIII/175/175-1.htm",
+      "title": "XIII"
+    },
+    {
+      "chapter": "175",
+      "citation": "175:4",
+      "html": "rsa/175/175-4.html",
+      "id": "https://granitestate.github.io/rsa/175/175-4",
+      "jsonld": "rsa/175/175-4.jsonld",
+      "repealed": false,
+      "sourceFile": "XIII/175/175-4.htm",
+      "title": "XIII"
+    },
+    {
+      "chapter": "178",
+      "citation": "178:2",
+      "html": "rsa/178/178-2.html",
+      "id": "https://granitestate.github.io/rsa/178/178-2",
+      "jsonld": "rsa/178/178-2.jsonld",
+      "repealed": false,
+      "sourceFile": "XIII/178/178-2.htm",
       "title": "XIII"
     },
     {
@@ -5829,6 +6835,36 @@
       "title": "XIII"
     },
     {
+      "chapter": "179",
+      "citation": "179:27-a",
+      "html": "rsa/179/179-27-a.html",
+      "id": "https://granitestate.github.io/rsa/179/179-27-a",
+      "jsonld": "rsa/179/179-27-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XIII/179/179-27-a.htm",
+      "title": "XIII"
+    },
+    {
+      "chapter": "179",
+      "citation": "179:32",
+      "html": "rsa/179/179-32.html",
+      "id": "https://granitestate.github.io/rsa/179/179-32",
+      "jsonld": "rsa/179/179-32.jsonld",
+      "repealed": false,
+      "sourceFile": "XIII/179/179-32.htm",
+      "title": "XIII"
+    },
+    {
+      "chapter": "179",
+      "citation": "179:44",
+      "html": "rsa/179/179-44.html",
+      "id": "https://granitestate.github.io/rsa/179/179-44",
+      "jsonld": "rsa/179/179-44.jsonld",
+      "repealed": false,
+      "sourceFile": "XIII/179/179-44.htm",
+      "title": "XIII"
+    },
+    {
       "chapter": "186-C",
       "citation": "186-C:2",
       "html": "rsa/186-C/186-C-2.html",
@@ -5836,6 +6872,16 @@
       "jsonld": "rsa/186-C/186-C-2.jsonld",
       "repealed": false,
       "sourceFile": "XV/186-C/186-C-2.htm",
+      "title": "XV"
+    },
+    {
+      "chapter": "189",
+      "citation": "189:1",
+      "html": "rsa/189/189-1.html",
+      "id": "https://granitestate.github.io/rsa/189/189-1",
+      "jsonld": "rsa/189/189-1.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/189/189-1.htm",
       "title": "XV"
     },
     {
@@ -5889,6 +6935,26 @@
       "title": "XV"
     },
     {
+      "chapter": "193",
+      "citation": "193:27",
+      "html": "rsa/193/193-27.html",
+      "id": "https://granitestate.github.io/rsa/193/193-27",
+      "jsonld": "rsa/193/193-27.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/193/193-27.htm",
+      "title": "XV"
+    },
+    {
+      "chapter": "193",
+      "citation": "193:28",
+      "html": "rsa/193/193-28.html",
+      "id": "https://granitestate.github.io/rsa/193/193-28",
+      "jsonld": "rsa/193/193-28.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/193/193-28.htm",
+      "title": "XV"
+    },
+    {
       "chapter": "193-C",
       "citation": "193-C:6",
       "html": "rsa/193-C/193-C-6.html",
@@ -5896,6 +6962,26 @@
       "jsonld": "rsa/193-C/193-C-6.jsonld",
       "repealed": false,
       "sourceFile": "XV/193-C/193-C-6.htm",
+      "title": "XV"
+    },
+    {
+      "chapter": "193-C",
+      "citation": "193-C:12",
+      "html": "rsa/193-C/193-C-12.html",
+      "id": "https://granitestate.github.io/rsa/193-C/193-C-12",
+      "jsonld": "rsa/193-C/193-C-12.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/193-C/193-C-12.htm",
+      "title": "XV"
+    },
+    {
+      "chapter": "193-E",
+      "citation": "193-E:4",
+      "html": "rsa/193-E/193-E-4.html",
+      "id": "https://granitestate.github.io/rsa/193-E/193-E-4",
+      "jsonld": "rsa/193-E/193-E-4.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/193-E/193-E-4.htm",
       "title": "XV"
     },
     {
@@ -6170,6 +7256,16 @@
     },
     {
       "chapter": "198",
+      "citation": "198:4-a",
+      "html": "rsa/198/198-4-a.html",
+      "id": "https://granitestate.github.io/rsa/198/198-4-a",
+      "jsonld": "rsa/198/198-4-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XV/198/198-4-a.htm",
+      "title": "XV"
+    },
+    {
+      "chapter": "198",
       "citation": "198:38",
       "html": "rsa/198/198-38.html",
       "id": "https://granitestate.github.io/rsa/198/198-38",
@@ -6229,6 +7325,36 @@
       "title": "XVIII"
     },
     {
+      "chapter": "206",
+      "citation": "206:34",
+      "html": "rsa/206/206-34.html",
+      "id": "https://granitestate.github.io/rsa/206/206-34",
+      "jsonld": "rsa/206/206-34.jsonld",
+      "repealed": false,
+      "sourceFile": "XVIII/206/206-34.htm",
+      "title": "XVIII"
+    },
+    {
+      "chapter": "207",
+      "citation": "207:18",
+      "html": "rsa/207/207-18.html",
+      "id": "https://granitestate.github.io/rsa/207/207-18",
+      "jsonld": "rsa/207/207-18.jsonld",
+      "repealed": false,
+      "sourceFile": "XVIII/207/207-18.htm",
+      "title": "XVIII"
+    },
+    {
+      "chapter": "214",
+      "citation": "214:19",
+      "html": "rsa/214/214-19.html",
+      "id": "https://granitestate.github.io/rsa/214/214-19",
+      "jsonld": "rsa/214/214-19.jsonld",
+      "repealed": false,
+      "sourceFile": "XVIII/214/214-19.htm",
+      "title": "XVIII"
+    },
+    {
       "chapter": "225-A",
       "citation": "225-A:2",
       "html": "rsa/225-A/225-A-2.html",
@@ -6237,6 +7363,26 @@
       "repealed": false,
       "sourceFile": "XIX/225-A/225-A-2.htm",
       "title": "XIX"
+    },
+    {
+      "chapter": "227-G",
+      "citation": "227-G:5-a",
+      "html": "rsa/227-G/227-G-5-a.html",
+      "id": "https://granitestate.github.io/rsa/227-G/227-G-5-a",
+      "jsonld": "rsa/227-G/227-G-5-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XIX-A/227-G/227-G-5-a.htm",
+      "title": "XIX-A"
+    },
+    {
+      "chapter": "228",
+      "citation": "228:69",
+      "html": "rsa/228/228-69.html",
+      "id": "https://granitestate.github.io/rsa/228/228-69",
+      "jsonld": "rsa/228/228-69.jsonld",
+      "repealed": false,
+      "sourceFile": "XX/228/228-69.htm",
+      "title": "XX"
     },
     {
       "chapter": "231",
@@ -6266,6 +7412,16 @@
       "jsonld": "rsa/231/231-62-b.jsonld",
       "repealed": false,
       "sourceFile": "XX/231/231-62-b.htm",
+      "title": "XX"
+    },
+    {
+      "chapter": "231",
+      "citation": "231:131",
+      "html": "rsa/231/231-131.html",
+      "id": "https://granitestate.github.io/rsa/231/231-131",
+      "jsonld": "rsa/231/231-131.jsonld",
+      "repealed": false,
+      "sourceFile": "XX/231/231-131.htm",
       "title": "XX"
     },
     {
@@ -6309,6 +7465,16 @@
       "title": "XX"
     },
     {
+      "chapter": "249",
+      "citation": "249:17",
+      "html": "rsa/249/249-17.html",
+      "id": "https://granitestate.github.io/rsa/249/249-17",
+      "jsonld": "rsa/249/249-17.jsonld",
+      "repealed": false,
+      "sourceFile": "XX/249/249-17.htm",
+      "title": "XX"
+    },
+    {
       "chapter": "259",
       "citation": "259:1",
       "html": "rsa/259/259-1.html",
@@ -6316,6 +7482,16 @@
       "jsonld": "rsa/259/259-1.jsonld",
       "repealed": false,
       "sourceFile": "XXI/259/259-1.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "259",
+      "citation": "259:4",
+      "html": "rsa/259/259-4.html",
+      "id": "https://granitestate.github.io/rsa/259/259-4",
+      "jsonld": "rsa/259/259-4.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/259/259-4.htm",
       "title": "XXI"
     },
     {
@@ -6340,12 +7516,62 @@
     },
     {
       "chapter": "259",
+      "citation": "259:63",
+      "html": "rsa/259/259-63.html",
+      "id": "https://granitestate.github.io/rsa/259/259-63",
+      "jsonld": "rsa/259/259-63.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/259/259-63.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "259",
+      "citation": "259:93",
+      "html": "rsa/259/259-93.html",
+      "id": "https://granitestate.github.io/rsa/259/259-93",
+      "jsonld": "rsa/259/259-93.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/259/259-93.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "259",
+      "citation": "259:116-a",
+      "html": "rsa/259/259-116-a.html",
+      "id": "https://granitestate.github.io/rsa/259/259-116-a",
+      "jsonld": "rsa/259/259-116-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/259/259-116-a.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "259",
+      "citation": "259:118",
+      "html": "rsa/259/259-118.html",
+      "id": "https://granitestate.github.io/rsa/259/259-118",
+      "jsonld": "rsa/259/259-118.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/259/259-118.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "259",
       "citation": "259:125",
       "html": "rsa/259/259-125.html",
       "id": "https://granitestate.github.io/rsa/259/259-125",
       "jsonld": "rsa/259/259-125.jsonld",
       "repealed": false,
       "sourceFile": "XXI/259/259-125.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "260",
+      "citation": "260:12",
+      "html": "rsa/260/260-12.html",
+      "id": "https://granitestate.github.io/rsa/260/260-12",
+      "jsonld": "rsa/260/260-12.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/260/260-12.htm",
       "title": "XXI"
     },
     {
@@ -6380,6 +7606,16 @@
     },
     {
       "chapter": "260",
+      "citation": "260:31",
+      "html": "rsa/260/260-31.html",
+      "id": "https://granitestate.github.io/rsa/260/260-31",
+      "jsonld": "rsa/260/260-31.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/260/260-31.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "260",
       "citation": "260:37",
       "html": "rsa/260/260-37.html",
       "id": "https://granitestate.github.io/rsa/260/260-37",
@@ -6406,6 +7642,16 @@
       "jsonld": "rsa/261/261-12.jsonld",
       "repealed": false,
       "sourceFile": "XXI/261/261-12.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "261",
+      "citation": "261:23",
+      "html": "rsa/261/261-23.html",
+      "id": "https://granitestate.github.io/rsa/261/261-23",
+      "jsonld": "rsa/261/261-23.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/261/261-23.htm",
       "title": "XXI"
     },
     {
@@ -6440,6 +7686,16 @@
     },
     {
       "chapter": "261",
+      "citation": "261:73",
+      "html": "rsa/261/261-73.html",
+      "id": "https://granitestate.github.io/rsa/261/261-73",
+      "jsonld": "rsa/261/261-73.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/261/261-73.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "261",
       "citation": "261:165",
       "html": "rsa/261/261-165.html",
       "id": "https://granitestate.github.io/rsa/261/261-165",
@@ -6450,12 +7706,72 @@
     },
     {
       "chapter": "262",
+      "citation": "262:1",
+      "html": "rsa/262/262-1.html",
+      "id": "https://granitestate.github.io/rsa/262/262-1",
+      "jsonld": "rsa/262/262-1.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/262/262-1.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "262",
+      "citation": "262:8",
+      "html": "rsa/262/262-8.html",
+      "id": "https://granitestate.github.io/rsa/262/262-8",
+      "jsonld": "rsa/262/262-8.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/262/262-8.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "262",
+      "citation": "262:12",
+      "html": "rsa/262/262-12.html",
+      "id": "https://granitestate.github.io/rsa/262/262-12",
+      "jsonld": "rsa/262/262-12.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/262/262-12.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "262",
+      "citation": "262:13",
+      "html": "rsa/262/262-13.html",
+      "id": "https://granitestate.github.io/rsa/262/262-13",
+      "jsonld": "rsa/262/262-13.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/262/262-13.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "262",
+      "citation": "262:15",
+      "html": "rsa/262/262-15.html",
+      "id": "https://granitestate.github.io/rsa/262/262-15",
+      "jsonld": "rsa/262/262-15.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/262/262-15.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "262",
       "citation": "262:23",
       "html": "rsa/262/262-23.html",
       "id": "https://granitestate.github.io/rsa/262/262-23",
       "jsonld": "rsa/262/262-23.jsonld",
       "repealed": false,
       "sourceFile": "XXI/262/262-23.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "263",
+      "citation": "263:1",
+      "html": "rsa/263/263-1.html",
+      "id": "https://granitestate.github.io/rsa/263/263-1",
+      "jsonld": "rsa/263/263-1.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/263/263-1.htm",
       "title": "XXI"
     },
     {
@@ -6530,6 +7846,16 @@
     },
     {
       "chapter": "263",
+      "citation": "263:34-b",
+      "html": "rsa/263/263-34-b.html",
+      "id": "https://granitestate.github.io/rsa/263/263-34-b",
+      "jsonld": "rsa/263/263-34-b.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/263/263-34-b.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "263",
       "citation": "263:35",
       "html": "rsa/263/263-35.html",
       "id": "https://granitestate.github.io/rsa/263/263-35",
@@ -6569,6 +7895,56 @@
       "title": "XXI"
     },
     {
+      "chapter": "263",
+      "citation": "263:53",
+      "html": "rsa/263/263-53.html",
+      "id": "https://granitestate.github.io/rsa/263/263-53",
+      "jsonld": "rsa/263/263-53.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/263/263-53.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "263",
+      "citation": "263:63",
+      "html": "rsa/263/263-63.html",
+      "id": "https://granitestate.github.io/rsa/263/263-63",
+      "jsonld": "rsa/263/263-63.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/263/263-63.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "264",
+      "citation": "264:25",
+      "html": "rsa/264/264-25.html",
+      "id": "https://granitestate.github.io/rsa/264/264-25",
+      "jsonld": "rsa/264/264-25.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/264/264-25.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:6-a",
+      "html": "rsa/265/265-6-a.html",
+      "id": "https://granitestate.github.io/rsa/265/265-6-a",
+      "jsonld": "rsa/265/265-6-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-6-a.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:9",
+      "html": "rsa/265/265-9.html",
+      "id": "https://granitestate.github.io/rsa/265/265-9",
+      "jsonld": "rsa/265/265-9.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-9.htm",
+      "title": "XXI"
+    },
+    {
       "chapter": "265",
       "citation": "265:11",
       "html": "rsa/265/265-11.html",
@@ -6576,6 +7952,16 @@
       "jsonld": "rsa/265/265-11.jsonld",
       "repealed": false,
       "sourceFile": "XXI/265/265-11.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:22",
+      "html": "rsa/265/265-22.html",
+      "id": "https://granitestate.github.io/rsa/265/265-22",
+      "jsonld": "rsa/265/265-22.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-22.htm",
       "title": "XXI"
     },
     {
@@ -6590,12 +7976,42 @@
     },
     {
       "chapter": "265",
+      "citation": "265:71",
+      "html": "rsa/265/265-71.html",
+      "id": "https://granitestate.github.io/rsa/265/265-71",
+      "jsonld": "rsa/265/265-71.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-71.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:75",
+      "html": "rsa/265/265-75.html",
+      "id": "https://granitestate.github.io/rsa/265/265-75",
+      "jsonld": "rsa/265/265-75.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-75.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
       "citation": "265:79",
       "html": "rsa/265/265-79.html",
       "id": "https://granitestate.github.io/rsa/265/265-79",
       "jsonld": "rsa/265/265-79.jsonld",
       "repealed": false,
       "sourceFile": "XXI/265/265-79.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:79-b",
+      "html": "rsa/265/265-79-b.html",
+      "id": "https://granitestate.github.io/rsa/265/265-79-b",
+      "jsonld": "rsa/265/265-79-b.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265/265-79-b.htm",
       "title": "XXI"
     },
     {
@@ -6610,12 +8026,72 @@
     },
     {
       "chapter": "265",
+      "citation": "265:82",
+      "html": "rsa/265/265-82.html",
+      "id": "https://granitestate.github.io/rsa/265/265-82",
+      "jsonld": "rsa/265/265-82.jsonld",
+      "repealed": true,
+      "sourceFile": "XXI/265/265-82.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
+      "citation": "265:82-a",
+      "html": "rsa/265/265-82-a.html",
+      "id": "https://granitestate.github.io/rsa/265/265-82-a",
+      "jsonld": "rsa/265/265-82-a.jsonld",
+      "repealed": true,
+      "sourceFile": "XXI/265/265-82-a.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265",
       "citation": "265:107-a",
       "html": "rsa/265/265-107-a.html",
       "id": "https://granitestate.github.io/rsa/265/265-107-a",
       "jsonld": "rsa/265/265-107-a.jsonld",
       "repealed": false,
       "sourceFile": "XXI/265/265-107-a.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265-A",
+      "citation": "265-A:1",
+      "html": "rsa/265-A/265-A-1.html",
+      "id": "https://granitestate.github.io/rsa/265-A/265-A-1",
+      "jsonld": "rsa/265-A/265-A-1.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265-A/265-A-1.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265-A",
+      "citation": "265-A:2",
+      "html": "rsa/265-A/265-A-2.html",
+      "id": "https://granitestate.github.io/rsa/265-A/265-A-2",
+      "jsonld": "rsa/265-A/265-A-2.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265-A/265-A-2.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265-A",
+      "citation": "265-A:3",
+      "html": "rsa/265-A/265-A-3.html",
+      "id": "https://granitestate.github.io/rsa/265-A/265-A-3",
+      "jsonld": "rsa/265-A/265-A-3.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265-A/265-A-3.htm",
+      "title": "XXI"
+    },
+    {
+      "chapter": "265-A",
+      "citation": "265-A:25",
+      "html": "rsa/265-A/265-A-25.html",
+      "id": "https://granitestate.github.io/rsa/265-A/265-A-25",
+      "jsonld": "rsa/265-A/265-A-25.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265-A/265-A-25.htm",
       "title": "XXI"
     },
     {
@@ -6629,6 +8105,16 @@
       "title": "XXI"
     },
     {
+      "chapter": "265-A",
+      "citation": "265-A:43",
+      "html": "rsa/265-A/265-A-43.html",
+      "id": "https://granitestate.github.io/rsa/265-A/265-A-43",
+      "jsonld": "rsa/265-A/265-A-43.jsonld",
+      "repealed": false,
+      "sourceFile": "XXI/265-A/265-A-43.htm",
+      "title": "XXI"
+    },
+    {
       "chapter": "266",
       "citation": "266:5",
       "html": "rsa/266/266-5.html",
@@ -6637,6 +8123,16 @@
       "repealed": true,
       "sourceFile": "XXI/266/266-5.htm",
       "title": "XXI"
+    },
+    {
+      "chapter": "270",
+      "citation": "270:11-a",
+      "html": "rsa/270/270-11-a.html",
+      "id": "https://granitestate.github.io/rsa/270/270-11-a",
+      "jsonld": "rsa/270/270-11-a.jsonld",
+      "repealed": false,
+      "sourceFile": "XXII/270/270-11-a.htm",
+      "title": "XXII"
     },
     {
       "chapter": "273-A",
@@ -6719,6 +8215,16 @@
       "title": "XXXI"
     },
     {
+      "chapter": "362",
+      "citation": "362:2",
+      "html": "rsa/362/362-2.html",
+      "id": "https://granitestate.github.io/rsa/362/362-2",
+      "jsonld": "rsa/362/362-2.jsonld",
+      "repealed": false,
+      "sourceFile": "XXXIV/362/362-2.htm",
+      "title": "XXXIV"
+    },
+    {
       "chapter": "362-A",
       "citation": "362-A:1-a",
       "html": "rsa/362-A/362-A-1-a.html",
@@ -6749,6 +8255,16 @@
       "title": "XXXIV"
     },
     {
+      "chapter": "374-H",
+      "citation": "374-H:1",
+      "html": "rsa/374-H/374-H-1.html",
+      "id": "https://granitestate.github.io/rsa/374-H/374-H-1",
+      "jsonld": "rsa/374-H/374-H-1.jsonld",
+      "repealed": false,
+      "sourceFile": "XXXIV/374-H/374-H-1.htm",
+      "title": "XXXIV"
+    },
+    {
       "chapter": "420-D",
       "citation": "420-D:2",
       "html": "rsa/420-D/420-D-2.html",
@@ -6766,6 +8282,16 @@
       "jsonld": "rsa/420-D/420-D-4.jsonld",
       "repealed": false,
       "sourceFile": "XXXVII/420-D/420-D-4.htm",
+      "title": "XXXVII"
+    },
+    {
+      "chapter": "420-J",
+      "citation": "420-J:7-f",
+      "html": "rsa/420-J/420-J-7-f.html",
+      "id": "https://granitestate.github.io/rsa/420-J/420-J-7-f",
+      "jsonld": "rsa/420-J/420-J-7-f.jsonld",
+      "repealed": false,
+      "sourceFile": "XXXVII/420-J/420-J-7-f.htm",
       "title": "XXXVII"
     },
     {
@@ -6859,6 +8385,26 @@
       "title": "XL"
     },
     {
+      "chapter": "472",
+      "citation": "472:6",
+      "html": "rsa/472/472-6.html",
+      "id": "https://granitestate.github.io/rsa/472/472-6",
+      "jsonld": "rsa/472/472-6.jsonld",
+      "repealed": false,
+      "sourceFile": "XLVII/472/472-6.htm",
+      "title": "XLVII"
+    },
+    {
+      "chapter": "477",
+      "citation": "477:45",
+      "html": "rsa/477/477-45.html",
+      "id": "https://granitestate.github.io/rsa/477/477-45",
+      "jsonld": "rsa/477/477-45.jsonld",
+      "repealed": false,
+      "sourceFile": "XLVIII/477/477-45.htm",
+      "title": "XLVIII"
+    },
+    {
       "chapter": "500-A",
       "citation": "500-A:1",
       "html": "rsa/500-A/500-A-1.html",
@@ -6866,6 +8412,16 @@
       "jsonld": "rsa/500-A/500-A-1.jsonld",
       "repealed": false,
       "sourceFile": "LI/500-A/500-A-1.htm",
+      "title": "LI"
+    },
+    {
+      "chapter": "502-A",
+      "citation": "502-A:11-a",
+      "html": "rsa/502-A/502-A-11-a.html",
+      "id": "https://granitestate.github.io/rsa/502-A/502-A-11-a",
+      "jsonld": "rsa/502-A/502-A-11-a.jsonld",
+      "repealed": false,
+      "sourceFile": "LI/502-A/502-A-11-a.htm",
       "title": "LI"
     },
     {
@@ -6886,6 +8442,16 @@
       "jsonld": "rsa/504-A/504-A-4.jsonld",
       "repealed": false,
       "sourceFile": "LI/504-A/504-A-4.htm",
+      "title": "LI"
+    },
+    {
+      "chapter": "504-A",
+      "citation": "504-A:5",
+      "html": "rsa/504-A/504-A-5.html",
+      "id": "https://granitestate.github.io/rsa/504-A/504-A-5",
+      "jsonld": "rsa/504-A/504-A-5.jsonld",
+      "repealed": false,
+      "sourceFile": "LI/504-A/504-A-5.htm",
       "title": "LI"
     },
     {
@@ -6959,6 +8525,46 @@
       "title": "LV"
     },
     {
+      "chapter": "542",
+      "citation": "542:1",
+      "html": "rsa/542/542-1.html",
+      "id": "https://granitestate.github.io/rsa/542/542-1",
+      "jsonld": "rsa/542/542-1.jsonld",
+      "repealed": false,
+      "sourceFile": "LV/542/542-1.htm",
+      "title": "LV"
+    },
+    {
+      "chapter": "542",
+      "citation": "542:8",
+      "html": "rsa/542/542-8.html",
+      "id": "https://granitestate.github.io/rsa/542/542-8",
+      "jsonld": "rsa/542/542-8.jsonld",
+      "repealed": false,
+      "sourceFile": "LV/542/542-8.htm",
+      "title": "LV"
+    },
+    {
+      "chapter": "542",
+      "citation": "542:9",
+      "html": "rsa/542/542-9.html",
+      "id": "https://granitestate.github.io/rsa/542/542-9",
+      "jsonld": "rsa/542/542-9.jsonld",
+      "repealed": false,
+      "sourceFile": "LV/542/542-9.htm",
+      "title": "LV"
+    },
+    {
+      "chapter": "542",
+      "citation": "542:10",
+      "html": "rsa/542/542-10.html",
+      "id": "https://granitestate.github.io/rsa/542/542-10",
+      "jsonld": "rsa/542/542-10.jsonld",
+      "repealed": false,
+      "sourceFile": "LV/542/542-10.htm",
+      "title": "LV"
+    },
+    {
       "chapter": "585",
       "citation": "585:8",
       "html": "rsa/585/585-8.html",
@@ -6999,6 +8605,16 @@
       "title": "LVIII"
     },
     {
+      "chapter": "594",
+      "citation": "594:1",
+      "html": "rsa/594/594-1.html",
+      "id": "https://granitestate.github.io/rsa/594/594-1",
+      "jsonld": "rsa/594/594-1.jsonld",
+      "repealed": false,
+      "sourceFile": "LIX/594/594-1.htm",
+      "title": "LIX"
+    },
+    {
       "chapter": "605",
       "citation": "605:6",
       "html": "rsa/605/605-6.html",
@@ -7006,6 +8622,16 @@
       "jsonld": "rsa/605/605-6.jsonld",
       "repealed": false,
       "sourceFile": "LIX/605/605-6.htm",
+      "title": "LIX"
+    },
+    {
+      "chapter": "606",
+      "citation": "606:10",
+      "html": "rsa/606/606-10.html",
+      "id": "https://granitestate.github.io/rsa/606/606-10",
+      "jsonld": "rsa/606/606-10.jsonld",
+      "repealed": false,
+      "sourceFile": "LIX/606/606-10.htm",
       "title": "LIX"
     },
     {
@@ -7079,6 +8705,16 @@
       "title": "LX"
     },
     {
+      "chapter": "626",
+      "citation": "626:2",
+      "html": "rsa/626/626-2.html",
+      "id": "https://granitestate.github.io/rsa/626/626-2",
+      "jsonld": "rsa/626/626-2.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/626/626-2.htm",
+      "title": "LXII"
+    },
+    {
       "chapter": "630",
       "citation": "630:1-a",
       "html": "rsa/630/630-1-a.html",
@@ -7086,6 +8722,16 @@
       "jsonld": "rsa/630/630-1-a.jsonld",
       "repealed": false,
       "sourceFile": "LXII/630/630-1-a.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "630",
+      "citation": "630:1-b",
+      "html": "rsa/630/630-1-b.html",
+      "id": "https://granitestate.github.io/rsa/630/630-1-b",
+      "jsonld": "rsa/630/630-1-b.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/630/630-1-b.htm",
       "title": "LXII"
     },
     {
@@ -7109,6 +8755,66 @@
       "title": "LXII"
     },
     {
+      "chapter": "630",
+      "citation": "630:4",
+      "html": "rsa/630/630-4.html",
+      "id": "https://granitestate.github.io/rsa/630/630-4",
+      "jsonld": "rsa/630/630-4.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/630/630-4.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "631",
+      "citation": "631:2-a",
+      "html": "rsa/631/631-2-a.html",
+      "id": "https://granitestate.github.io/rsa/631/631-2-a",
+      "jsonld": "rsa/631/631-2-a.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/631/631-2-a.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "631",
+      "citation": "631:3",
+      "html": "rsa/631/631-3.html",
+      "id": "https://granitestate.github.io/rsa/631/631-3",
+      "jsonld": "rsa/631/631-3.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/631/631-3.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "631",
+      "citation": "631:4",
+      "html": "rsa/631/631-4.html",
+      "id": "https://granitestate.github.io/rsa/631/631-4",
+      "jsonld": "rsa/631/631-4.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/631/631-4.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "634",
+      "citation": "634:1",
+      "html": "rsa/634/634-1.html",
+      "id": "https://granitestate.github.io/rsa/634/634-1",
+      "jsonld": "rsa/634/634-1.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/634/634-1.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "635",
+      "citation": "635:1",
+      "html": "rsa/635/635-1.html",
+      "id": "https://granitestate.github.io/rsa/635/635-1",
+      "jsonld": "rsa/635/635-1.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/635/635-1.htm",
+      "title": "LXII"
+    },
+    {
       "chapter": "638",
       "citation": "638:20",
       "html": "rsa/638/638-20.html",
@@ -7116,6 +8822,16 @@
       "jsonld": "rsa/638/638-20.jsonld",
       "repealed": false,
       "sourceFile": "LXII/638/638-20.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "639",
+      "citation": "639:2",
+      "html": "rsa/639/639-2.html",
+      "id": "https://granitestate.github.io/rsa/639/639-2",
+      "jsonld": "rsa/639/639-2.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/639/639-2.htm",
       "title": "LXII"
     },
     {
@@ -7156,6 +8872,36 @@
       "jsonld": "rsa/641/641-3.jsonld",
       "repealed": false,
       "sourceFile": "LXII/641/641-3.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "641",
+      "citation": "641:5",
+      "html": "rsa/641/641-5.html",
+      "id": "https://granitestate.github.io/rsa/641/641-5",
+      "jsonld": "rsa/641/641-5.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/641/641-5.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "641",
+      "citation": "641:6",
+      "html": "rsa/641/641-6.html",
+      "id": "https://granitestate.github.io/rsa/641/641-6",
+      "jsonld": "rsa/641/641-6.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/641/641-6.htm",
+      "title": "LXII"
+    },
+    {
+      "chapter": "645",
+      "citation": "645:1",
+      "html": "rsa/645/645-1.html",
+      "id": "https://granitestate.github.io/rsa/645/645-1",
+      "jsonld": "rsa/645/645-1.jsonld",
+      "repealed": false,
+      "sourceFile": "LXII/645/645-1.htm",
       "title": "LXII"
     },
     {
@@ -15050,6 +16796,16 @@
     },
     {
       "chapter": "672",
+      "citation": "672:3",
+      "html": "rsa/672/672-3.html",
+      "id": "https://granitestate.github.io/rsa/672/672-3",
+      "jsonld": "rsa/672/672-3.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/672/672-3.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "672",
       "citation": "672:6",
       "html": "rsa/672/672-6.html",
       "id": "https://granitestate.github.io/rsa/672/672-6",
@@ -15140,6 +16896,16 @@
     },
     {
       "chapter": "674",
+      "citation": "674:8",
+      "html": "rsa/674/674-8.html",
+      "id": "https://granitestate.github.io/rsa/674/674-8",
+      "jsonld": "rsa/674/674-8.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/674/674-8.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "674",
       "citation": "674:24",
       "html": "rsa/674/674-24.html",
       "id": "https://granitestate.github.io/rsa/674/674-24",
@@ -15156,6 +16922,36 @@
       "jsonld": "rsa/674/674-31.jsonld",
       "repealed": false,
       "sourceFile": "LXIV/674/674-31.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "674",
+      "citation": "674:31-a",
+      "html": "rsa/674/674-31-a.html",
+      "id": "https://granitestate.github.io/rsa/674/674-31-a",
+      "jsonld": "rsa/674/674-31-a.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/674/674-31-a.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "674",
+      "citation": "674:35",
+      "html": "rsa/674/674-35.html",
+      "id": "https://granitestate.github.io/rsa/674/674-35",
+      "jsonld": "rsa/674/674-35.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/674/674-35.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "674",
+      "citation": "674:37",
+      "html": "rsa/674/674-37.html",
+      "id": "https://granitestate.github.io/rsa/674/674-37",
+      "jsonld": "rsa/674/674-37.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/674/674-37.htm",
       "title": "LXIV"
     },
     {
@@ -15230,6 +17026,16 @@
     },
     {
       "chapter": "675",
+      "citation": "675:5",
+      "html": "rsa/675/675-5.html",
+      "id": "https://granitestate.github.io/rsa/675/675-5",
+      "jsonld": "rsa/675/675-5.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/675/675-5.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "675",
       "citation": "675:6",
       "html": "rsa/675/675-6.html",
       "id": "https://granitestate.github.io/rsa/675/675-6",
@@ -15266,6 +17072,16 @@
       "jsonld": "rsa/676/676-5.jsonld",
       "repealed": false,
       "sourceFile": "LXIV/676/676-5.htm",
+      "title": "LXIV"
+    },
+    {
+      "chapter": "676",
+      "citation": "676:15",
+      "html": "rsa/676/676-15.html",
+      "id": "https://granitestate.github.io/rsa/676/676-15",
+      "jsonld": "rsa/676/676-15.jsonld",
+      "repealed": false,
+      "sourceFile": "LXIV/676/676-15.htm",
       "title": "LXIV"
     },
     {
@@ -15341,6 +17157,7 @@
         "21-I",
         "21-J",
         "21-M",
+        "21-N",
         "21-P",
         "21-R",
         "4",
@@ -15385,6 +17202,7 @@
         "34",
         "35",
         "35-B",
+        "36",
         "36-A",
         "37",
         "38",
@@ -15396,13 +17214,13 @@
         "48",
         "48-A",
         "49-B",
+        "49-C",
         "49-D",
         "52",
         "53",
         "53-B",
         "38-C",
         "43",
-        "49-C",
         "53-A"
       ],
       "html": "rsa/title/III/index.html",
@@ -15450,7 +17268,9 @@
         "614"
       ],
       "chapters": [
+        "594",
         "605",
+        "606",
         "607-A",
         "595-B"
       ],
@@ -15468,6 +17288,7 @@
       ],
       "chapters": [
         "541",
+        "542",
         "541-A"
       ],
       "html": "rsa/title/LV/index.html",
@@ -15513,14 +17334,19 @@
         "651-F"
       ],
       "chapters": [
+        "626",
         "630",
+        "631",
+        "634",
+        "635",
         "638",
+        "639",
         "640",
         "641",
+        "645",
         "650-A",
         "651",
-        "651-A",
-        "631"
+        "651-A"
       ],
       "html": "rsa/title/LXII/index.html",
       "id": "https://granitestate.github.io/rsa/title/LXII",
@@ -15562,6 +17388,8 @@
         "78",
         "78-A",
         "79-A",
+        "79-B",
+        "79-C",
         "79-E",
         "83-F",
         "84-C"
@@ -15582,6 +17410,7 @@
         "100-A",
         "91-A",
         "94",
+        "99",
         "93-B"
       ],
       "html": "rsa/title/VI/index.html",
@@ -15613,6 +17442,7 @@
         "119"
       ],
       "chapters": [
+        "110-E",
         "119"
       ],
       "html": "rsa/title/VIII/index.html",
@@ -15634,6 +17464,8 @@
         "135",
         "135-C",
         "141-C",
+        "141-F",
+        "147",
         "149-I",
         "149-M"
       ],
@@ -15672,12 +17504,12 @@
         "154",
         "155-A",
         "159",
+        "169-B",
         "170-E",
         "171-A",
         "161-I",
         "161-J",
         "162-K",
-        "169-B",
         "170-A",
         "173-B"
       ],
@@ -15722,6 +17554,22 @@
     },
     {
       "chapterRange": [
+        "227-G",
+        "227-M"
+      ],
+      "chapters": [
+        "227-G",
+        "227-L"
+      ],
+      "html": "rsa/title/XIX-A/index.html",
+      "id": "https://granitestate.github.io/rsa/title/XIX-A",
+      "jsonld": "rsa/title/XIX-A/index.jsonld",
+      "notation": "XIX-A",
+      "prefLabel": "Title XIX-A FORESTRY",
+      "repealed": false
+    },
+    {
+      "chapterRange": [
         "425",
         "439-A"
       ],
@@ -15734,6 +17582,36 @@
       "jsonld": "rsa/title/XL/index.jsonld",
       "notation": "XL",
       "prefLabel": "Title XL AGRICULTURE, HORTICULTURE AND ANIMAL HUSBANDRY",
+      "repealed": false
+    },
+    {
+      "chapterRange": [
+        "472",
+        "476"
+      ],
+      "chapters": [
+        "472"
+      ],
+      "html": "rsa/title/XLVII/index.html",
+      "id": "https://granitestate.github.io/rsa/title/XLVII",
+      "jsonld": "rsa/title/XLVII/index.jsonld",
+      "notation": "XLVII",
+      "prefLabel": "Title XLVII BOUNDARIES, FENCES AND COMMON FIELDS",
+      "repealed": false
+    },
+    {
+      "chapterRange": [
+        "477",
+        "479-B"
+      ],
+      "chapters": [
+        "477"
+      ],
+      "html": "rsa/title/XLVIII/index.html",
+      "id": "https://granitestate.github.io/rsa/title/XLVIII",
+      "jsonld": "rsa/title/XLVIII/index.jsonld",
+      "notation": "XLVIII",
+      "prefLabel": "Title XLVIII CONVEYANCES AND MORTGAGES OF REALTY",
       "repealed": false
     },
     {
@@ -15784,7 +17662,9 @@
         "215-D"
       ],
       "chapters": [
-        "206"
+        "206",
+        "207",
+        "214"
       ],
       "html": "rsa/title/XVIII/index.html",
       "id": "https://granitestate.github.io/rsa/title/XVIII",
@@ -15799,9 +17679,11 @@
         "250"
       ],
       "chapters": [
+        "228",
         "231",
         "236",
-        "245"
+        "245",
+        "249"
       ],
       "html": "rsa/title/XX/index.html",
       "id": "https://granitestate.github.io/rsa/title/XX",
@@ -15821,6 +17703,7 @@
         "261",
         "262",
         "263",
+        "264",
         "265",
         "265-A",
         "266"
@@ -15830,6 +17713,21 @@
       "jsonld": "rsa/title/XXI/index.jsonld",
       "notation": "XXI",
       "prefLabel": "Title XXI MOTOR VEHICLES",
+      "repealed": false
+    },
+    {
+      "chapterRange": [
+        "270",
+        "272"
+      ],
+      "chapters": [
+        "270"
+      ],
+      "html": "rsa/title/XXII/index.html",
+      "id": "https://granitestate.github.io/rsa/title/XXII",
+      "jsonld": "rsa/title/XXII/index.jsonld",
+      "notation": "XXII",
+      "prefLabel": "Title XXII NAVIGATION; HARBORS; COAST SURVEY",
       "repealed": false
     },
     {
@@ -15890,8 +17788,10 @@
         "382"
       ],
       "chapters": [
+        "362",
         "362-A",
-        "374-D"
+        "374-D",
+        "374-H"
       ],
       "html": "rsa/title/XXXIV/index.html",
       "id": "https://granitestate.github.io/rsa/title/XXXIV",
@@ -15931,21 +17831,6 @@
       "jsonld": "rsa/title/LVI/index.jsonld",
       "notation": "LVI",
       "prefLabel": "Title LVI PROBATE COURTS AND DECEDENTS' ESTATES",
-      "repealed": false
-    },
-    {
-      "chapterRange": [
-        "227-G",
-        "227-M"
-      ],
-      "chapters": [
-        "227-L"
-      ],
-      "html": "rsa/title/XIX-A/index.html",
-      "id": "https://granitestate.github.io/rsa/title/XIX-A",
-      "jsonld": "rsa/title/XIX-A/index.jsonld",
-      "notation": "XIX-A",
-      "prefLabel": "Title XIX-A FORESTRY",
       "repealed": false
     },
     {
@@ -16757,23 +18642,31 @@
     "671:32",
     "671:33",
     "14:27-c",
+    "14:30-a",
     "14:31",
+    "14:31-a",
+    "14:31-b",
+    "14:34",
     "14:44",
     "21:34-a",
     "21:35",
     "21:50",
+    "21:53",
     "21-G:9",
     "21-H:2",
     "21-H:8",
     "21-I:8",
     "21-I:13",
+    "21-I:13-a",
     "21-I:27",
     "21-I:28",
     "21-I:30",
+    "21-I:30-e",
     "21-I:49",
     "21-J:1",
     "21-J:3",
     "21-J:9-a",
+    "21-J:10",
     "21-J:11",
     "21-J:11-a",
     "21-J:13",
@@ -16785,6 +18678,8 @@
     "21-J:19",
     "21-J:34",
     "21-M:11-a",
+    "21-N:11",
+    "21-P:34",
     "21-P:41",
     "21-R:16",
     "4:45",
@@ -16801,6 +18696,7 @@
     "7:46",
     "9:1",
     "9:4",
+    "24:13",
     "24:14-a",
     "31:5",
     "31:19",
@@ -16812,6 +18708,7 @@
     "31:41-c",
     "31:94-a",
     "31:95-c",
+    "31:95-d",
     "31:117",
     "32:3",
     "32:5",
@@ -16828,6 +18725,8 @@
     "33:3",
     "33:3-c",
     "33:3-g",
+    "33:4",
+    "33:4-b",
     "33:7",
     "33:8-a",
     "33:8-d",
@@ -16835,12 +18734,17 @@
     "33:8-f",
     "33:9",
     "33-A:3-a",
+    "33-A:5-a",
     "34:1",
+    "34:2",
+    "35:1",
     "35:5",
+    "35:7",
     "35:8",
     "35:9",
     "35-B:1",
     "35-B:2",
+    "36:57",
     "36-A:2",
     "36-A:3",
     "36-A:4",
@@ -16876,6 +18780,7 @@
     "41:9-a",
     "41:16",
     "41:16-b",
+    "41:16-c",
     "41:18",
     "41:25",
     "41:26",
@@ -16894,11 +18799,13 @@
     "41:47",
     "42:5",
     "42:6",
+    "47:6",
     "47:17",
     "47:28",
     "48:16",
     "48-A:8",
     "49-B:1",
+    "49-C:33",
     "49-D:3",
     "52:1",
     "53:1",
@@ -16908,17 +18815,25 @@
     "53-B:8-a",
     "53-B:9",
     "500-A:1",
+    "502-A:11-a",
     "502-A:19-b",
     "504-A:4",
+    "504-A:5",
     "504-A:8",
     "504-A:12",
     "504-A:12-a",
     "504-A:13",
     "508:17-a",
+    "594:1",
     "605:6",
+    "606:10",
     "607-A:2",
     "541:3",
     "541:6",
+    "542:1",
+    "542:8",
+    "542:9",
+    "542:10",
     "585:8",
     "585:9",
     "585:10",
@@ -16929,14 +18844,26 @@
     "622:45",
     "622:48",
     "622:51",
+    "626:2",
     "630:1-a",
+    "630:1-b",
     "630:2",
     "630:3",
+    "630:4",
+    "631:2-a",
+    "631:3",
+    "631:4",
+    "634:1",
+    "635:1",
     "638:20",
+    "639:2",
     "640:2",
     "641:1",
     "641:2",
     "641:3",
+    "641:5",
+    "641:6",
+    "645:1",
     "650-A:1",
     "651:2",
     "651:5",
@@ -16951,6 +18878,7 @@
     "651-A:23",
     "651-A:25",
     "651-A:38",
+    "672:3",
     "672:6",
     "672:7",
     "673:2",
@@ -16960,8 +18888,12 @@
     "673:5",
     "673:11",
     "673:16",
+    "674:8",
     "674:24",
     "674:31",
+    "674:31-a",
+    "674:35",
+    "674:37",
     "674:44-b",
     "674:44-d",
     "674:46",
@@ -16969,19 +18901,28 @@
     "675:3",
     "675:4",
     "675:4-a",
+    "675:5",
     "675:6",
     "675:7",
     "676:4",
     "676:5",
+    "676:15",
     "676:17",
+    "71-B:12",
     "71-B:16",
     "71-B:16-a",
+    "72:1-d",
+    "72:6",
     "72:23",
     "72:23-k",
+    "72:23-l",
     "72:27-a",
+    "72:28-b",
     "72:29",
+    "72:29-a",
     "72:33",
     "72:34",
+    "72:34-a",
     "72:37",
     "72:37-b",
     "72:39-a",
@@ -16993,6 +18934,8 @@
     "72:73",
     "72:74",
     "72:74-a",
+    "72:76",
+    "72:82",
     "72:84",
     "72:85",
     "72:87",
@@ -17000,6 +18943,7 @@
     "75:1",
     "75:1-a",
     "75:8-a",
+    "75:11",
     "76:3",
     "76:8",
     "78:5",
@@ -17007,7 +18951,10 @@
     "78-A:8",
     "78-A:9",
     "79-A:9",
+    "79-A:11",
     "79-A:25",
+    "79-B:3",
+    "79-C:7",
     "79-E:3",
     "79-E:4",
     "79-E:4-a",
@@ -17016,25 +18963,38 @@
     "79-E:7",
     "79-E:8",
     "83-F:1",
+    "84-C:1",
     "84-C:3",
+    "84-C:4",
     "84-C:5",
     "84-C:5-a",
     "84-C:9",
     "100-A:1",
+    "100-A:2",
     "100-A:5",
+    "100-A:6-a",
+    "100-A:7-b",
     "100-A:14",
+    "100-A:19-a",
     "100-A:44",
+    "91-A:1",
+    "91-A:1-a",
     "91-A:4",
     "91-A:5",
+    "94:1",
     "94:1-a",
+    "94:3",
     "94:3-b",
+    "99:1-a",
     "106-H:9",
     "106-L:5",
     "106-L:6",
+    "110-E:1",
     "119:1",
     "126:24-c",
     "126:25",
     "126:27",
+    "126:28",
     "126-A:3",
     "126-A:13",
     "126-A:19",
@@ -17046,13 +19006,21 @@
     "126-X:8",
     "126-X:10",
     "126-X:12",
+    "135:17-a",
     "135:17-b",
     "135-C:2",
+    "135-C:27",
+    "135-C:34",
+    "135-C:61",
     "141-C:26",
+    "141-F:3",
+    "147:1",
     "149-I:19",
     "149-M:2",
     "149-M:3",
     "149-M:11",
+    "149-M:24",
+    "149-M:25",
     "151:2",
     "151:2-b",
     "151:3-b",
@@ -17088,17 +19056,24 @@
     "154:7-a",
     "155-A:1",
     "159:3-a",
+    "169-B:24",
     "170-E:55",
     "171-A:2",
     "171-A:20",
     "175:1",
+    "175:4",
+    "178:2",
     "178:12-b",
     "178:21",
     "178:22",
     "179:7",
     "179:8",
     "179:9",
+    "179:27-a",
+    "179:32",
+    "179:44",
     "225-A:2",
+    "227-G:5-a",
     "426:13",
     "434:40-a",
     "434:40-b",
@@ -17107,13 +19082,20 @@
     "434:40-e",
     "434:40-f",
     "434:40-g",
+    "472:6",
+    "477:45",
     "186-C:2",
+    "189:1",
     "189:1-d",
     "189:24",
     "189:29-a",
     "189:75",
     "193:12",
+    "193:27",
+    "193:28",
     "193-C:6",
+    "193-C:12",
+    "193-E:4",
     "193-E:5",
     "194:1",
     "194:60",
@@ -17141,34 +19123,56 @@
     "197:3",
     "197:6",
     "197:7",
+    "198:4-a",
     "198:38",
     "201-D:11",
     "202-A:6",
     "202-A:10",
     "202-A:11",
     "206:26-b",
+    "206:34",
+    "207:18",
+    "214:19",
+    "228:69",
     "231:62",
     "231:62-a",
     "231:62-b",
+    "231:131",
     "236:13",
     "245:2",
     "245:4",
     "245:6",
+    "249:17",
     "259:1",
+    "259:4",
     "259:21",
     "259:39",
+    "259:63",
+    "259:93",
+    "259:116-a",
+    "259:118",
     "259:125",
+    "260:12",
     "260:21",
     "260:21-a",
     "260:21-b",
+    "260:31",
     "260:37",
     "260:39",
     "261:12",
+    "261:23",
     "261:40",
     "261:44",
     "261:59",
+    "261:73",
     "261:165",
+    "262:1",
+    "262:8",
+    "262:12",
+    "262:13",
+    "262:15",
     "262:23",
+    "263:1",
     "263:5-f",
     "263:7",
     "263:10",
@@ -17176,17 +19180,35 @@
     "263:17",
     "263:19",
     "263:21",
+    "263:34-b",
     "263:35",
     "263:35-a",
     "263:39-a",
     "263:41",
+    "263:53",
+    "263:63",
+    "264:25",
+    "265:6-a",
+    "265:9",
     "265:11",
+    "265:22",
     "265:60",
+    "265:71",
+    "265:75",
     "265:79",
+    "265:79-b",
     "265:79-c",
+    "265:82",
+    "265:82-a",
     "265:107-a",
+    "265-A:1",
+    "265-A:2",
+    "265-A:3",
+    "265-A:25",
     "265-A:40",
+    "265-A:43",
     "266:5",
+    "270:11-a",
     "273-A:1",
     "273-A:2",
     "318:38",
@@ -17195,11 +19217,14 @@
     "326-B:28",
     "332-G:6",
     "359-E:1",
+    "362:2",
     "362-A:1-a",
     "362-A:2-a",
     "374-D:2",
+    "374-H:1",
     "420-D:2",
     "420-D:4",
+    "420-J:7-f",
     "420-J:8"
   ]
 }
