@@ -1679,8 +1679,10 @@ def write_unresolved(catalog: Catalog) -> None:
     lines = [
         "# Unresolved RSA citations",
         "",
-        "A citation matched an RSA pattern and the target is not a page in this build.",
-        "The citation is left as plain text. Session-law notes (for example `1979, 436:1`) are not RSA citations and are not listed here.",
+        "A citation matched an RSA pattern and could not be linked on this site.",
+        "A section or chapter row has no HTML file in the pinned nh-rsa-data snapshot. It is left as plain text.",
+        "A paragraph row names a section that was built, but that paragraph marker is not in the section text.",
+        "Session-law notes (for example `1979, 436:1`) are not RSA citations and are not listed here.",
         "Those notes stay unlinked until chaptered-law text is snapshotted into GraniteState/gc-data.",
         "",
         f"Unresolved: {catalog.counts['unresolved']}. Internal links: {catalog.counts['internal']}. External links: 0.",

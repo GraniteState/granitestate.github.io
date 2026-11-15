@@ -1,45 +1,25 @@
 # Unresolved RSA citations
 
-A citation matched an RSA pattern and the target is not a page in this build.
-The citation is left as plain text. Session-law notes (for example `1979, 436:1`) are not RSA citations and are not listed here.
+A citation matched an RSA pattern and could not be linked on this site.
+A section or chapter row has no HTML file in the pinned nh-rsa-data snapshot. It is left as plain text.
+A paragraph row names a section that was built, but that paragraph marker is not in the section text.
+Session-law notes (for example `1979, 436:1`) are not RSA citations and are not listed here.
 Those notes stay unlinked until chaptered-law text is snapshotted into GraniteState/gc-data.
 
-Unresolved: 319. Internal links: 13128. External links: 0.
+Unresolved: 268. Internal links: 13485. External links: 0.
 
 | In section | Citation | Reason |
 | --- | --- | --- |
 | 21-J:19 | RSA 309-A:8 | section 309-A:8 is not in this build |
 | 21-J:19 | RSA 309-A:8 | section 309-A:8 is not in this build |
-| 21-P:8 | RSA 270-E:3 | section 270-E:3 is not in this build |
-| 21-P:8 | RSA 260:65-a | section 260:65-a is not in this build |
 | 6:12 | RSA 310-A:1-e, I | section 310-A:1-e is not in this build |
 | 6:12 | RSA 110-B:110 | section 110-B:110 is not in this build |
 | 31:39-c | RSA 31:39-b | section 31:39-b is not in this build |
 | 33:4-b | RSA 71:11 | section 71:11 is not in this build |
 | 53-B:6 | RSA 53-B:1-R | section 53-B:1-r is not in this build |
-| 487:20 | RSA 487:18 | section 487:18 is not in this build |
 | 502-A:14 | II | paragraph II is not in 502-A:14 |
-| 541-A:19-a | RSA 541-A:9 | section 541-A:9 is not in this build |
-| 541-A:19-a | RSA 541-A:9 | section 541-A:9 is not in this build |
-| 541-A:19 | RSA 541-A:9 | section 541-A:9 is not in this build |
-| 541-A:19 | RSA 541-A:9 | section 541-A:9 is not in this build |
-| 621:18 | RSA 621:16 | section 621:16 is not in this build |
 | 651-A:6 | RSA 607:41-d | section 607:41-d is not in this build |
 | 72:23 | RSA 70:23 | section 70:23 is not in this build |
-| 72:27-a | RSA 72:28 | section 72:28 is not in this build |
-| 72:28-b | RSA 72:28 | section 72:28 is not in this build |
-| 72:28-b | RSA 72:28 | section 72:28 is not in this build |
-| 72:28-b | RSA 72:28 | section 72:28 is not in this build |
-| 72:28-c | RSA 72:28 | section 72:28 is not in this build |
-| 72:29-a | RSA 72:28 | section 72:28 is not in this build |
-| 72:29-a | RSA 72:28 | section 72:28 is not in this build |
-| 72:29-a | RSA 72:28 | section 72:28 is not in this build |
-| 72:29 | RSA 72:28 | section 72:28 is not in this build |
-| 72:29 | RSA 72:28 | section 72:28 is not in this build |
-| 72:29 | RSA 72:28 | section 72:28 is not in this build |
-| 72:29 | RSA 72:28 | section 72:28 is not in this build |
-| 72:33 | RSA 72:28 | section 72:28 is not in this build |
-| 72:35 | RSA 72:28 | section 72:28 is not in this build |
 | 77-A:5-b | RSA 77:4, V | section 77:4 is not in this build |
 | 100-A:16 | I(aa) | paragraph I is not in 100-A:16 |
 | 100-A:16 | I(aa) | paragraph I is not in 100-A:16 |
@@ -56,66 +36,40 @@ Unresolved: 319. Internal links: 13128. External links: 0.
 | 106-B:10 | RSA 106:11 | section 106:11 is not in this build |
 | 106-B:14 | RSA 106:15 | section 106:15 is not in this build |
 | 106-B:15 | RSA 106:16 | section 106:16 is not in this build |
-| 106-B:30 | RSA 262:31 | section 262:31 is not in this build |
-| 106-B:30 | RSA 262:31 | section 262:31 is not in this build |
 | 106-B:7 | RSA 106:8 | section 106:8 is not in this build |
 | 106-N:11 | RSA 381:11 | section 381:11 is not in this build |
 | 126-A:5 | RSA 611:14 | section 611:14 is not in this build |
-| 126-A:90 | RSA 126-A:93, I(b) | section 126-A:93 is not in this build |
 | 146-A:2 | RSA 80:20-R | section 80:20-r is not in this build |
 | 146-A:2 | RSA 80:58-R | section 80:58-r is not in this build |
 | 146-A:2 | RSA 80:20-R | section 80:20-r is not in this build |
 | 146-A:2 | RSA 80:58-R | section 80:58-r is not in this build |
+| 146-C:1 | RSA 80:20-R | section 80:20-r is not in this build |
+| 146-C:1 | RSA 80:58-R | section 80:58-r is not in this build |
+| 146-C:1 | RSA 80:20-R | section 80:20-r is not in this build |
+| 146-C:1 | RSA 80:58-R | section 80:58-r is not in this build |
 | 147-A:2 | RSA 80:20-R | section 80:20-r is not in this build |
 | 147-A:2 | RSA 80:58-R | section 80:58-r is not in this build |
-| 147-B:10-a | RSA 146-C:1, VII | section 146-C:1 is not in this build |
 | 147-B:10-b | RSA 382-A:9 | section 382-A:9 is not in this build |
 | 147-B:2 | RSA 80:20-R | section 80:20-r is not in this build |
 | 147-B:2 | RSA 80:58-R | section 80:58-r is not in this build |
 | 147-B:2 | RSA 80:20-R | section 80:20-r is not in this build |
 | 147-B:2 | RSA 80:58-R | section 80:58-r is not in this build |
-| 147-F:15 | RSA 147-F:12, V(a) | section 147-F:12 is not in this build |
-| 147-F:15 | RSA 147-F:12, I | section 147-F:12 is not in this build |
 | 149-I:19 | RSA 252:19 | section 252:19 is not in this build |
 | 149-I:6 | RSA 252:8 | section 252:8 is not in this build |
 | 151:28 | RSA 167-A:22 | section 167-A:22 is not in this build |
 | 161:2 | i | paragraph I is not in 161:2 |
 | 161:2 | I | paragraph I is not in 161:2 |
-| 161:4 | RSA 21-I:7-c, V | section 21-I:7-c is not in this build |
-| 161-C:12 | RSA 161-C:11 | section 161-C:11 is not in this build |
-| 161-C:4 | RSA 161-C:5 | section 161-C:5 is not in this build |
-| 161-C:6 | RSA 161-B:3 | section 161-B:3 is not in this build |
 | 162-C:8 | RSA 221-A:5, III | section 221-A:5 is not in this build |
 | 162-C:8 | RSA 221-A:5, III | section 221-A:5 is not in this build |
-| 227-C:4 | RSA 236:41 | section 236:41 is not in this build |
-| 227-C:4 | RSA 236:44 | section 236:44 is not in this build |
-| 227-C:4 | RSA 17-I:3 | section 17-I:3 is not in this build |
 | 227-C:4 | RSA 8-B:4 | section 8-B:4 is not in this build |
-| 227-C:4 | RSA 674:45 | section 674:45 is not in this build |
-| 227-C:4 | RSA 218:5-a, I(a) | section 218:5-a is not in this build |
-| 227-C:4 | RSA 218:5-a, II(a) | section 218:5-a is not in this build |
-| 227-C:4 | RSA 4:8-a | section 4:8-a is not in this build |
-| 227-C:4 | RSA 5:30, X | section 5:30 is not in this build |
-| 227-C:4 | RSA 4:8-a | section 4:8-a is not in this build |
-| 227-C:4 | RSA 4:9 | section 4:9 is not in this build |
-| 227-C:4 | RSA 227-C:24 | section 227-C:24 is not in this build |
-| 227-C:4 | RSA 227-C:5 | section 227-C:5 is not in this build |
+| 227-C:5 | RSA 227-C:5-a | section 227-C:5-a is not in this build |
 | 227-G:5 | RSA 502:14 | section 502:14 is not in this build |
-| 458-B:7 | RSA 458-B:6 | section 458-B:6 is not in this build |
-| 458-B:7 | RSA 458-B:6 | section 458-B:6 is not in this build |
 | 186-C:14 | III | paragraph III is not in 186-C:14 |
 | 186-C:14 | III | paragraph III is not in 186-C:14 |
-| 194-B:3-a | RSA 194-B:3, II(a) | section 194-B:3 is not in this build |
-| 194-B:3-a | RSA 194-B:3, II | section 194-B:3 is not in this build |
-| 194-B:3-a | RSA 194-B:3 | section 194-B:3 is not in this build |
-| 194-B:3-a | RSA 194-B:3, II(cc) | section 194-B:3 is not in this build |
-| 194-B:3-a | RSA 194-B:3, III | section 194-B:3 is not in this build |
-| 194-B:3-a | RSA 194-B:3, XI | section 194-B:3 is not in this build |
 | 194-C:2 | I | paragraph I is not in 194-C:2 |
 | 194-C:2 | I | paragraph I is not in 194-C:2 |
 | 194-C:2 | I | paragraph I is not in 194-C:2 |
 | 194-C:2 | III | paragraph III is not in 194-C:2 |
-| 198:15-a | RSA 194-B:3, II(z) | section 194-B:3 is not in this build |
 | 198:39 | RSA 31-A:4 | section 31-A:4 is not in this build |
 | 201-A:10 | RSA 201:13 | section 201:13 is not in this build |
 | 201-A:19 | RSA 201:14 | section 201:14 is not in this build |
@@ -123,7 +77,6 @@ Unresolved: 319. Internal links: 13128. External links: 0.
 | 202-A:11 | RSA 202:10 | section 202:10 is not in this build |
 | 202-A:6 | RSA 202:6 | section 202:6 is not in this build |
 | 206:34 | RSA 502:14 | section 502:14 is not in this build |
-| 215-A:12 | RSA 227-L:20 | section 227-L:20 is not in this build |
 | 228:25 | RSA 8:19 | section 8:19 is not in this build |
 | 228:25 | RSA 229:6-d | section 229:6-d is not in this build |
 | 228:34 | RSA 229:11-a | section 229:11-a is not in this build |
@@ -135,12 +88,15 @@ Unresolved: 319. Internal links: 13128. External links: 0.
 | 236:111 | RSA 267-A:1 | section 267-A:1 is not in this build |
 | 236:129 | RSA 267-A:17 | section 267-A:17 is not in this build |
 | 236:31 | RSA 249:30-a | section 249:30-a is not in this build |
+| 236:41 | RSA 249:38-b | section 249:38-b is not in this build |
+| 236:44 | RSA 249:39-a | section 249:39-a is not in this build |
 | 236:86 | RSA 249-A:17 | section 249-A:17 is not in this build |
+| 237:10 | RSA 256-C:9 | section 256-C:9 is not in this build |
+| 237:17 | RSA 256:1 | section 256:1 is not in this build |
+| 237:24 | RSA 256:8 | section 256:8 is not in this build |
+| 237:34 | RSA 257:1 | section 257:1 is not in this build |
+| 237:40 | RSA 257:7 | section 257:7 is not in this build |
 | 237:5 | RSA 256-C:4 | section 256-C:4 is not in this build |
-| 237:9 | RSA 237:10, i | section 237:10 is not in this build |
-| 237:9 | RSA 237:10, i | section 237:10 is not in this build |
-| 237:9 | RSA 237:24 | section 237:24 is not in this build |
-| 237:9 | RSA 237:24 | section 237:24 is not in this build |
 | 237:9 | RSA 256-C:8 | section 256-C:8 is not in this build |
 | 243:44 | RSA 367:44 | section 367:44 is not in this build |
 | 243:5 | RSA 367:5 | section 367:5 is not in this build |
@@ -182,11 +138,8 @@ Unresolved: 319. Internal links: 13128. External links: 0.
 | 261:12 | RSA 269-A:14 | section 269-A:14 is not in this build |
 | 261:14 | RSA 269-A:15 | section 269-A:15 is not in this build |
 | 261:141 | RSA 259:42-t | section 259:42-t is not in this build |
-| 261:141 | RSA 72:28, V | section 72:28 is not in this build |
 | 261:146 | RSA 262:13-a | section 262:13-a is not in this build |
 | 261:15 | RSA 269-A:16 | section 269-A:16 is not in this build |
-| 261:157-a | RSA 72:28, V | section 72:28 is not in this build |
-| 261:157 | RSA 72:28, V | section 72:28 is not in this build |
 | 261:158 | RSA 260:28-a | section 260:28-a is not in this build |
 | 261:17 | RSA 269-A:17-a | section 269-A:17-a is not in this build |
 | 261:177 | RSA 260:82 | section 260:82 is not in this build |
@@ -294,23 +247,21 @@ Unresolved: 319. Internal links: 13128. External links: 0.
 | 282-A:117 | RSA 282:9 | section 282:9 is not in this build |
 | 282-A:135 | RSA 282:9 | section 282:9 is not in this build |
 | 282-A:138 | RSA 282:10 | section 282:10 is not in this build |
+| 282-A:14 | RSA 282:1 | section 282:1 is not in this build |
 | 282-A:140 | RSA 282:10 | section 282:10 is not in this build |
+| 282-A:149 | RSA 282:12 | section 282:12 is not in this build |
+| 282-A:15 | RSA 282:1 | section 282:1 is not in this build |
+| 282-A:159 | RSA 282:13 | section 282:13 is not in this build |
+| 282-A:19 | RSA 282:1 | section 282:1 is not in this build |
+| 282-A:25 | RSA 282:2 | section 282:2 is not in this build |
+| 282-A:31 | RSA 282:3 | section 282:3 is not in this build |
+| 282-A:32 | RSA 282:4 | section 282:4 is not in this build |
+| 282-A:43 | RSA 282:5 | section 282:5 is not in this build |
+| 282-A:9 | RSA 282:1 | section 282:1 is not in this build |
 | 287-F:10 | RSA 382-A:9 | section 382-A:9 is not in this build |
 | 287-F:10 | RSA 382-A:9 | section 382-A:9 is not in this build |
-| 329:12 | RSA 329:11-a | section 329:11-a is not in this build |
 | 357-C:1 | RSA 382-A:1 | section 382-A:1 is not in this build |
 | 371:17 | i | paragraph I is not in 371:17 |
-| 383-A:2 | RSA 383-E | chapter 383-E is not in this build |
-| 383-A:2 | RSA 383-B:6 | section 383-B:6 is not in this build |
-| 383-A:2 | RSA 383-B:6 | section 383-B:6 is not in this build |
-| 383-A:2 | RSA 383-E | chapter 383-E is not in this build |
-| 383-A:2 | RSA 383-B:6 | section 383-B:6 is not in this build |
-| 383-A:2 | RSA 293-C | chapter 293-C is not in this build |
-| 383-A:2 | RSA 383-E | chapter 383-E is not in this build |
-| 383-A:2 | RSA 383-B:6 | section 383-B:6 is not in this build |
-| 400-A:15 | RSA 420-J:26 | section 420-J:26 is not in this build |
-| 400-A:15 | RSA 420-J:26 | section 420-J:26 is not in this build |
-| 400-A:17 | RSA 400-A:24 | section 400-A:24 is not in this build |
 | 400-A:37 | III | paragraph III is not in 400-A:37 |
 | 400-A:37 | III | paragraph III is not in 400-A:37 |
 | 400-A:37 | III | paragraph III is not in 400-A:37 |
