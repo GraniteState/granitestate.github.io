@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1203.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1203",
+  "definition": "Storage Tanks",
+  "effectiveDate": "2018-07-24",
+  "historyNote": "#9572, INTERIM, eff 10-21-09, EXPIRES: 4-19-10; ss by #9660, eff 2-24-10; ss by #12582, eff 7-24-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1203.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html",
+  "prefLabel": "Env-Dw 1203.07 Storage Tanks",
+  "priorExpiration": "2010-04-19",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1203.07 Storage Tanks.\n\n(a) Storage facilities shall have sufficient capacity to meet domestic demands.\n\n(b) Subject to (c) through (e), below, the minimum storage capacity for PORS not providing fire protection shall be equal to the average daily consumption.\n\n(c) If the O/O of a PORS not providing fire protection wants a minimum storage capacity that is less than the average daily consumption, the O/O shall submit a written request to the department that includes the following information:\n\n(1) The name and address, by street location and municipality, of the PORS;\n\n(2) The name, mailing address, and daytime telephone number of the PORS O/O and, if the O/O is other than an individual, the name of an individual who can be contacted regarding the request on behalf of the O/O;\n\n(3) The average daily consumption, in gallons per day (gpd);\n\n(4) The number of residential units or equivalent units based on one unit being equivalent to 300 gpd; and\n\n(5) An explanation of why a storage capacity equal to the average daily consumption should not be required.\n\n(d) The applicant shall sign and date the request to certify that the information provided is accurate.\n\n(e) The department shall authorize a reduction in the minimum storage capacity if the source and treatment facilities have sufficient capacity with standby power to meet peak demands of the PORS.\n\nSource. #9572, INTERIM, eff 10-21-09, EXPIRES: 4-19-10; ss by #9660, eff 2-24-10; ss by #12582, eff 7-24-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html"
+}

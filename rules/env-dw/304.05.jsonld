@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Tanks Previously Used for Substances Other Than Water or Food Products",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.05 Tanks Previously Used for Substances Other Than Water or Food Products",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.05 Tanks Previously Used for Substances Other Than Water or Food Products.\n\n(a) Tanks previously used to transport petroleum products, toxic substances, or any non-food products shall not be used until the following is completed:\n\n(1) The tank shall be thoroughly cleansed using appropriate sanitation methods to remove all previously transported products;\n\n(2) The tank shall be filled with water that meets the standards specified in Env-Dw 700;\n\n(3) The water in the tank shall be tested for the presence of contaminants associated with the products previously stored in the tank and the cleaners used to sanitize the tank;\n\n(4) The process in (1) through (3), above, shall be repeated as often as necessary until the testing done pursuant to (3), above, shows no trace of contaminants;\n\n(5) Pipes, hoses, fittings, and valves associated with the tank shall be replaced with equipment not previously used to transport petroleum products, toxic substances, or any non-food products; and\n\n(6) The department has approved the use of the tank pursuant to (b), below.\n\n(b) The department shall approve the use of a tank previously used to transport petroleum products, toxic substances, or any non-food products upon determining, based on written documentation submitted by the bulk water provider demonstrating compliance with (a), above, that the requirements have been met.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

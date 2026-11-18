@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/901.02",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-U:1",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "170-E:25",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/170-E/170-E-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/901",
+  "definition": "Scope",
+  "effectiveDate": "2020-11-24",
+  "historyNote": "#13135, eff 11-24-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 901.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c900.html",
+  "prefLabel": "He-C 901.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "He-C 901.02 Scope. This part shall apply to facilities as defined in RSA 126-U:1, III and foster family homes as defined in RSA 170-E:25, II(a).\n\nSource. #13135, eff 11-24-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c900.html"
+}

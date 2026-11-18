@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2007.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:34",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-34",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17",
+    "https://granitestate.github.io/rsa/21-J/21-J-34"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2007",
+  "definition": "Timeliness",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (formerly Rev 2008.02); ss by #14072, eff 9-10-24 (formerly Rev 2007.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2007.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2007.01 Timeliness",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2007.01 Timeliness.\n\n(a) All forms and reports shall be filed in accordance with:\n\n(1) RSA 21-J:34;\n\n(2) Statutes addressing specific reports; or\n\n(3) Time periods established by these rules.\n\nSource. #5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (formerly Rev 2008.02); ss by #14072, eff 9-10-24 (formerly Rev 2007.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/305.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/305",
+  "definition": "Purpose",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 305.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 305.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 305.01 Purpose. The purpose of these rules is to implement those portions of RSA 485, the New Hampshire Safe Drinking Water Act, pertaining to the department’s obligation to approve public water systems, by establishing procedures and standards for the development of small production wells for small community water systems (CWS) in order to ensure that such wells will be capable of producing an adequate supply of water that meets drinking water quality standards.\n\nSource. (See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

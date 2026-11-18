@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1307",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1300",
+  "definition": "WAIVERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/1307.01",
+    "https://granitestate.github.io/rules/env-dw/1307.02",
+    "https://granitestate.github.io/rules/env-dw/1307.03",
+    "https://granitestate.github.io/rules/env-dw/1307.04",
+    "https://granitestate.github.io/rules/env-dw/1307.05",
+    "https://granitestate.github.io/rules/env-dw/1307.06"
+  ],
+  "notation": "Env-Dw 1307",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html",
+  "prefLabel": "Env-Dw 1307 WAIVERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 1307 WAIVERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html"
+}

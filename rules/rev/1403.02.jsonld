@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1403.02",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "83-F:3",
+      "source": "https://granitestate.github.io/rsa/83-F/83-F-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "83-F:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "83-F:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/83-F/83-F-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "83-F:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/83-F/83-F-3",
+    "https://granitestate.github.io/rsa/83-F/83-F-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1403",
+  "definition": "Notice of Value and Tax Bill",
+  "effectiveDate": "2022-11-15",
+  "historyNote": "(See Revision Note at chapter heading for Rev1400) #9841, eff 12-23-10; amd by #12164, eff 4-29-17; ss by #12706, eff 1-8-19; ss by #13490, eff 11-15-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1403.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1400.html",
+  "prefLabel": "Rev 1403.02 Notice of Value and Tax Bill",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1403.02 Notice of Value and Tax Bill.\n\n(a) Pursuant to RSA 83-F:3, the commissioner shall issue the annual notice of value and tax bill within 15 days of his or her determination which states:\n\n(1) The assessed value;\n\n(2) The statutory tax rate;\n\n(3) The total UPT due; and\n\n(4) The penalty under RSA 83-F:5, VII for failure to file a completed Form PA-20, “Utility Property Tax Information Update,” if applicable.\n\n(b) The UPT shall be paid on or before January 15 each year, pursuant to RSA 83-F:5.\n\n(c) The taxpayer shall have 60 days from the date of the notice of value and tax bill to appeal the valuation to the department’s hearing bureau in accordance with RSA 21-J:28-b and Rev 200.\n\n(d) A taxpayer failing to receive an annual notice of value and tax bill from the department shall not be relieved of its obligation to make timely payment of any balance shown to be due.\n\nSource. (See Revision Note at chapter heading for Rev1400) #9841, eff 12-23-10; amd by #12164, eff 4-29-17; ss by #12706, eff 1-8-19; ss by #13490, eff 11-15-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1400.html"
+}

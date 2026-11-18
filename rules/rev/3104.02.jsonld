@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3104.02",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "77:44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "77:48",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3104",
+  "definition": "Penalties",
+  "effectiveDate": "2010-04-02",
+  "historyNote": "#9689-B, eff 4-2-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 3104.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html",
+  "prefLabel": "Rev 3104.02 Penalties",
+  "recordType": "rule-section",
+  "ruleText": "Rev 3104.02 Penalties.\n\n(a) All penalties contained in RSA 21-J shall apply as enacted to this tax.\n\n(b) Notwithstanding subsection (a) if a return is not filed when due and the failure to file a return when due is not a violation of any provision of RSA 21-J:39, then neither the $10 nor the $50 alternate penalties of RSA 21-J:31 shall be applied to the return, pursuant to RSA 77:48.\n\nSource. #9689-B, eff 4-2-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html"
+}

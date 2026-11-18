@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/301.19",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "New Production Well",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/301",
+  "definition": "New production well",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 301) #11060, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 301.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 301.19 New production well",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 301.19 “New production well” means a production well that:\n\n(a) Has not received approval under:\n\n(1) Env-Dw 301 as effective from 10-19-07 until the 2016 effective date of Env-Dw 305;\n\n(2) Env-Dw 302, Env-Dw 402, Env-Dw 404, or Env-Dw 405; or\n\n(3) Predecessor rules in Env-Ws 370, Env-Ws 372, or Env-Ws 374; or\n\n(b) Has been inactive and not sampled in accordance with Env-Dw 708.\n\nSource. (See Revision Note at part heading for Env-Dw 301) #11060, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

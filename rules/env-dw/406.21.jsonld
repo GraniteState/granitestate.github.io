@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/406.21",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/406",
+  "definition": "Wiring and Control Devices",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 405) #10612, eff 6-1-14 New. #14158, eff 12-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 406.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html",
+  "prefLabel": "Env-Dw 406.21 Wiring and Control Devices",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 406.21 Wiring and Control Devices.\n\n(a) All wiring for water system controls and equipment shall be in accordance with the requirements of the version of the National Electrical Code used as the basis for licensing electricians in New Hampshire, as specified in Elec 404.04. All wiring shall be installed in conduit.\n\n(b) All electrical devices shall be grounded by a separate and dedicated groundwire.\n\n(c) Convenience outlets shall be of the ground fault interrupting type.\n\n(d) All junction boxes, relays, and contactors shall be in enclosures.\n\n(e) Conduits shall be run no less than 2 feet above the floor. Panels shall be mounted at least 3.5 feet above the floor unless they are designed and installed as floor mounted.\n\n(f) All equipment disconnects shall be capable of being locked out during service.\n\n(g) All relays and starters not part of an integrated panel shall be labeled.\n\n(h) A detailed schematic of the electrical system shall be posted in the enclosure or in an obvious place in the pumphouse, and shall also be part of the operational manual.\n\n(i) All pump controls shall have a manual “off/on/auto” switch to control pump operations. Where the water is pumped into a pressure system, a pressure relief valve or similar pressure surge protection shall be provided with the discharge piped toward a floor drain or exterior drainage.\n\n(j) Mercury-type float switches are prohibited, and shall, if present, be removed and replaced.\n\n(k) The electrical circuits of all chemical feed pumps shall be interconnected with the electrical circuit of the pump supplying the water being treated such that the chemical feed pump can only operate when the water supply pump is pumping. Where water flow requiring the use of a chemical feed pump varies, the chemical feed pump speed shall vary automatically proportionally to water flow rate.\n\nSource. (See Revision Note at part heading for Env-Dw 405) #10612, eff 6-1-14\n\nNew. #14158, eff 12-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/709.23",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/709",
+  "definition": "Bacteria Violations",
+  "effectiveDate": "2025-08-22",
+  "expirationDate": "2035-08-22",
+  "historyNote": "#10771, eff 2-1-15 (from Env-Dw 709.18); ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 709.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 709.23 Bacteria Violations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 709.23 Bacteria Violations.\n\n(a) An E. coli MCL violation shall exist if:\n\n(1) Any routine sample tests positive for total coliforms and is followed by any repeat sample that tests positive for E. coli;\n\n(2) Any routine sample tests positive for E. coli and any of the repeat samples test positive for total coliforms;\n\n(3) The owner fails to collect all required repeat samples following an E. coli-positive routine sample; or\n\n(4) The owner fails to test for E. coli when any repeat sample tests positive for total coliforms.\n\n(b) A treatment technique violation shall exist when a PWS exceeds a trigger specified in Env-Dw 709.22 and the owner fails to conduct the required assessment or corrective action within the time specified in Env-Dw 720.\n\n(c) A monitoring violation shall exist if the owner:\n\n(1) Fails to collect every required routine or additional routine sample in a compliance period; or\n\n(2) Fails to analyze for E. coli following a routine total coliform-positive result.\n\n(d) A reporting violation shall exist if the owner:\n\n(1) Fails to submit a monitoring report or completed assessment form after the PWS properly conducts monitoring or assessment within the time period specified; or\n\n(2) Fails to notify the department of an E. coli-positive sample required by Env-Dw 719 within the time period specified.\n\nSource. #10771, eff 2-1-15 (from Env-Dw 709.18); ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

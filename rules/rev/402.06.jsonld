@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/402.06",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:28",
+      "source": "https://granitestate.github.io/rsa/72/72-28",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:28-b",
+      "source": "https://granitestate.github.io/rsa/72/72-28-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-28",
+    "https://granitestate.github.io/rsa/72/72-28-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/402",
+  "definition": "Documentation Used to Establish Veteran Status",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "#13943-B, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 402.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 402.06 Documentation Used to Establish Veteran Status",
+  "recordType": "rule-section",
+  "ruleText": "Rev 402.06 Documentation Used to Establish Veteran Status.\n\n(a) A person qualifying as a veteran in an application for the veterans’ tax credit, pursuant to RSA 72:28, or the all veterans’ tax credit, pursuant to RSA 72:28-b, may use the Leave and Earnings Statement issued by the Defense Finance and Accounting Service to establish the person’s status as a veteran.\n\n(b) The information on the Leave and Earnings Statement, as used in (a) above, may be redacted except for the information in the boxes showing:\n\n(1) The full name of the service member;\n\n(2) The pay date;\n\n(3) The years of service;\n\n(4) The military branch; and\n\n(5) The period covered.\n\nSource. #13943-B, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/412",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:37-b",
+      "source": "https://granitestate.github.io/rsa/72/72-37-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:38-b",
+      "source": "https://granitestate.github.io/rsa/72/72-38-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:39-a",
+      "source": "https://granitestate.github.io/rsa/72/72-39-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:39-b",
+      "source": "https://granitestate.github.io/rsa/72/72-39-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-37-b",
+    "https://granitestate.github.io/rsa/72/72-38-b",
+    "https://granitestate.github.io/rsa/72/72-39-a",
+    "https://granitestate.github.io/rsa/72/72-39-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/400",
+  "definition": "EXEMPTION FOR DEAF OR SEVERELY HEARING IMPAIRED PERSONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/412.01",
+    "https://granitestate.github.io/rules/rev/412.02",
+    "https://granitestate.github.io/rules/rev/412.03",
+    "https://granitestate.github.io/rules/rev/412.04",
+    "https://granitestate.github.io/rules/rev/412.05",
+    "https://granitestate.github.io/rules/rev/412.06",
+    "https://granitestate.github.io/rules/rev/412.07"
+  ],
+  "notation": "Rev 412",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 412 EXEMPTION FOR DEAF OR SEVERELY HEARING IMPAIRED PERSONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 412 EXEMPTION FOR DEAF OR SEVERELY HEARING IMPAIRED PERSONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

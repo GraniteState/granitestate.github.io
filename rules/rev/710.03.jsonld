@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/710.03",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:8",
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/710",
+  "definition": "Form DP-14, Meals and Rentals Tax Return",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#10714, eff 11-7-14 (from Rev 708.03); ss by #12907, eff 10-23-19; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 710.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 710.03 Form DP-14, Meals and Rentals Tax Return",
+  "recordType": "rule-section",
+  "ruleText": "Rev 710.03 Form DP-14, Meals and Rentals Tax Return.\n\n(a) Every operator that does not choose to file a meals and rentals tax return electronically shall complete and file a paper Form DP-14, “Meals and Rentals Tax Return”, with the department as provided in Rev 706.07(c).\n\n(b) A payment to the state of New Hampshire for the total due shall:\n\n(1) Accompany the return; or\n\n(2) Be made electronically.\n\n(c) An operator shall maintain copies of all meals and rentals tax returns as filed for 3 years, including any electronic confirmations.\n\nSource. #10714, eff 11-7-14 (from Rev 708.03); ss by #12907, eff 10-23-19; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

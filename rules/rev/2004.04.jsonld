@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2004.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "SOURCE 3370: Revenue from Other Governments",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2004",
+  "definition": "Source 3370: Revenue From Other Governments",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2005.04); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2004.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2004.04 Source 3370: Revenue From Other Governments",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2004.04 Source 3370: Revenue From Other Governments. The account 3379, intergovernmental revenues - other, classification shall be for revenues received from other local governments in the form of:\n\n(a) Operating grants;\n\n(b) Entitlements; or\n\n(c) Shared revenues.\n\nSource. #10675, eff 9-24-14 (from Rev 2005.04); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

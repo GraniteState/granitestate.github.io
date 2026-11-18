@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/801.05",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "126-A:5",
+      "paragraphs": [
+        "XVIII-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/126-A/126-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/801",
+  "definition": "Data Collection",
+  "effectiveDate": "2021-02-23",
+  "historyNote": "#12774, eff 5-7-19; ss by #13172, eff 2-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 801.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c800.html",
+  "prefLabel": "He-C 801.05 Data Collection",
+  "recordType": "rule-section",
+  "ruleText": "He-C 801.05 Data Collection.\n\n(a) The data collected from the health professions surveys shall be used to provide reporting on:\n\n(1) Current and projected workforce needs;\n\n(2) Survey participation rates;\n\n(3) Health status of rural residents; and\n\n(4) Other ways of expanding primary care capacity and access.\n\n(b) Health care provider information collected for both the survey and the opt-out form shall be:\n\n(1) Kept confidential and exempt from disclosure for individuals pursuant to RSA 91-A and RSA 126-A:5, XVIII-a(c); and\n\n(2) Reported only in the aggregate for reporting and publishing purposes.\n\nSource. #12774, eff 5-7-19; ss by #13172, eff 2-23-21\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c800.html"
+}

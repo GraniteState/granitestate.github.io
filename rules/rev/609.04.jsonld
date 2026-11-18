@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/609.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:14-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "75:8-a",
+      "source": "https://granitestate.github.io/rsa/75/75-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-11",
+    "https://granitestate.github.io/rsa/75/75-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/609",
+  "definition": "DRA Testing and Review of Data for Revaluations and Partial Updates",
+  "effectiveDate": "2024-03-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Rev 600) #10581, eff 5-1-14; ss by #13916, eff 3-28-24 (see Revision Note #2 at chapter heading for Rev 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 609.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html",
+  "prefLabel": "Rev 609.04 DRA Testing and Review of Data for Revaluations and Partial Updates",
+  "recordType": "rule-section",
+  "ruleText": "Rev 609.04 DRA Testing and Review of Data for Revaluations and Partial Updates.\n\n(a) The DRA shall test and review the newly established tables, models, and analyses to establish the accuracy, credibility, and supporting documentation of the results.\n\n(b) Testing and review shall include, but not limited to, such techniques as:\n\n(1) Comparison of the new property values to sales prices subsequent to the revaluation, or partial update, to evaluate the CAMA model accuracy;\n\n(2) Confirmation that the contactor’s in-house assessor, or municipal assessing officials’ sale validations were performed by an appraiser as defined in Rev 601.04;\n\n(3) Comparison of the application of adjustments used in the market analysis to non-sale property assessments;\n\n(4) Comparison of the accuracy of neighborhood delineations and other adjustments;\n\n(5) Comparison of the data collection manual descriptions to the data collected on the property records cards;\n\n(6) Review of the sales utilized in the market analysis and in the sales ratio study; and\n\n(7) Review of the USPAP appraisal report for compliance with applicable standards.\n\nSource. (See Revision Note #1 at chapter heading for Rev 600) #10581, eff 5-1-14; ss by #13916, eff 3-28-24 (see Revision Note #2 at chapter heading for Rev 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html"
+}

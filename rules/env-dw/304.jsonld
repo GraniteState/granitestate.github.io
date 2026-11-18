@@ -1,0 +1,64 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:40",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/300",
+  "definition": "EMERGENCY BULK WATER SUPPLY FOR PUBLIC WATER SYSTEMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/304.01",
+    "https://granitestate.github.io/rules/env-dw/304.02",
+    "https://granitestate.github.io/rules/env-dw/304.03",
+    "https://granitestate.github.io/rules/env-dw/304.04",
+    "https://granitestate.github.io/rules/env-dw/304.05",
+    "https://granitestate.github.io/rules/env-dw/304.06",
+    "https://granitestate.github.io/rules/env-dw/304.07",
+    "https://granitestate.github.io/rules/env-dw/304.08",
+    "https://granitestate.github.io/rules/env-dw/304.09",
+    "https://granitestate.github.io/rules/env-dw/304.10"
+  ],
+  "notation": "Env-Dw 304",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304 EMERGENCY BULK WATER SUPPLY FOR PUBLIC WATER SYSTEMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 304 EMERGENCY BULK WATER SUPPLY FOR PUBLIC WATER SYSTEMS\n\nStatutory Authority: RSA 485:3, I(c); RSA 485:8, II; RSA 485:10; RSA 485:40; RSA 485:41, II",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

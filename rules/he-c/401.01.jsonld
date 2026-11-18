@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/401.01",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-X",
+      "source": "https://granitestate.github.io/rsa/126-X",
+      "via": "appendix"
+    },
+    {
+      "citation": "126-X:6",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-X/126-X-6",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-X",
+    "https://granitestate.github.io/rsa/126-X/126-X-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/401",
+  "definition": "Purpose and Scope",
+  "effectiveDate": "2021-07-01",
+  "historyNote": "(See Revision Note #1 at part heading for He-C 401) #10646, eff 11-2-15; ss by #13220, eff 7-1-21 (see Revision Note #2 at part heading for He-C 401)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 401.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c400.html",
+  "prefLabel": "He-C 401.01 Purpose and Scope",
+  "recordType": "rule-section",
+  "ruleText": "He-C 401.01 Purpose and Scope.\n\n(a) The purpose of these rules is to establish the requirements for issuing registry identification cards to qualifying patients and their designated caregivers for the therapeutic use of cannabis.\n\n(b) Individuals who are not legal residents of the state of New Hampshire shall not be eligible to receive registry identification cards as qualifying patients.\n\nSource. (See Revision Note #1 at part heading for He-C 401) #10646, eff 11-2-15; ss by #13220, eff 7-1-21 (see Revision Note #2 at part heading for He-C 401)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c400.html"
+}

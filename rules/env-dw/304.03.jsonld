@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Sources of Bulk Water",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.03 Sources of Bulk Water",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.03 Sources of Bulk Water.\n\n(a) Bulk water provided to a PWS shall be finished water obtained only from an approved source.\n\n(b) Bulk water provided to a PWS may be obtained from a well that is not a source identified in Env-Dw 304.02(a)(1), (2), or (3) only if all of the following are met:\n\n(1) For wells installed on or after August 17, 1983, the well was installed in accordance with standards established by the water well board by a well driller licensed in accordance with RSA 482-B;\n\n(2) For wells installed prior to August 17, 1983, adequate well construction and water quality information exists to demonstrate that the well was constructed so as to prevent the direct introduction of contaminants from the surface into the well casing or screen;\n\n(3) The well is located at least 50 feet away from surface water as defined in Env-Dw 103;\n\n(4) The owner of the source maintains a water quality sampling program for the well as specified in Env-Dw 304.04; and\n\n(5) The water quality sampling program shows that the water meets the standards specified in Env-Dw 700.\n\n(c) The department shall conduct:\n\n(1) A regular site visit once every 5 years to confirm compliance with (b), above; and\n\n(2) Additional site visits as needed to investigate information received relative to potential non-compliance of the source.\n\n(d) Surface water that is not an approved source shall not be used as a source of bulk water.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

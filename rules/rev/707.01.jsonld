@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/707.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:7",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-7",
+    "https://granitestate.github.io/rsa/78-A/78-A-8",
+    "https://granitestate.github.io/rsa/78-A/78-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/707",
+  "definition": "Mandated Payments",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#5912, eff 10-14-94; ss by #6690, eff 2-21-98; ss by #6750, eff 5-19-98; ss by #8653, eff 6-8-06; ss by #10714, eff 11-7-14 (from Rev 705.01); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 707.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 707.01 Mandated Payments",
+  "recordType": "rule-section",
+  "ruleText": "Rev 707.01 Mandated Payments. An operator ordered by the department to remit taxes collected at intervals determined by the department shall deposit all tax monies through an electronic funds transfer, as defined in Rev 2501.09, or as otherwise agreed by the department, to the department.\n\nSource. #5912, eff 10-14-94; ss by #6690, eff 2-21-98; ss by #6750, eff 5-19-98; ss by #8653, eff 6-8-06; ss by #10714, eff 11-7-14 (from Rev 705.01); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

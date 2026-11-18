@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/401.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Armed Forces",
+  "authority": [
+    {
+      "citation": "72:28",
+      "source": "https://granitestate.github.io/rsa/72/72-28",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:28-b",
+      "source": "https://granitestate.github.io/rsa/72/72-28-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:28-c",
+      "source": "https://granitestate.github.io/rsa/72/72-28-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:29-a",
+      "source": "https://granitestate.github.io/rsa/72/72-29-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:32",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-28",
+    "https://granitestate.github.io/rsa/72/72-28-b",
+    "https://granitestate.github.io/rsa/72/72-28-c",
+    "https://granitestate.github.io/rsa/72/72-29-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/401",
+  "definition": "Armed forces",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "#5911, eff 10-14-94; ss and moved by #7410, eff 11-23-00 (from Rev 401.05); (See Revision Note at chapter heading for Rev 400) #9309, eff 10-30-08; ss by #12027, eff 10-28-16; ss by #13943-B, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 401.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 401.04 Armed forces",
+  "recordType": "rule-section",
+  "ruleText": "Rev 401.04 “Armed forces” means “armed forces” as defined in RSA 21:50, II, and includes the armed forces of any of the governments associated with the United States in the wars, conflicts or armed conflicts, or combat zones in RSA 72:28.\n\nSource. #5911, eff 10-14-94; ss and moved by #7410, eff 11-23-00 (from Rev 401.05); (See Revision Note at chapter heading for Rev 400) #9309, eff 10-30-08; ss by #12027, eff 10-28-16; ss by #13943-B, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

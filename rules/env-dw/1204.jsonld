@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1204",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1200",
+  "definition": "REQUIREMENTS FOR PORS SERVING 1,000 PERSONS OR MORE OR SERVING FEWER THAN 1,000 PERSONS WITH FIRE PROTECTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/1204.01",
+    "https://granitestate.github.io/rules/env-dw/1204.02",
+    "https://granitestate.github.io/rules/env-dw/1204.03"
+  ],
+  "notation": "Env-Dw 1204",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html",
+  "prefLabel": "Env-Dw 1204 REQUIREMENTS FOR PORS SERVING 1,000 PERSONS OR MORE OR SERVING FEWER THAN 1,000 PERSONS WITH FIRE PROTECTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 1204 REQUIREMENTS FOR PORS SERVING 1,000 PERSONS OR MORE OR SERVING FEWER THAN 1,000 PERSONS WITH FIRE PROTECTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html"
+}

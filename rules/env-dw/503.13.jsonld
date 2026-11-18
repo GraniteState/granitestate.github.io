@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/503.13",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/503",
+  "definition": "Required Records of Inspections, Repairs, Maintenance, and Operations, Including Production and Treatment Logs",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 503.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 503.13 Required Records of Inspections, Repairs, Maintenance, and Operations, Including Production and Treatment Logs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 503.13 Required Records of Inspections, Repairs, Maintenance, and Operations, Including Production and Treatment Logs.\n\n(a) The owner of a PWS shall keep a record on paper or in electronic format of each inspection, including the following:\n\n(1) Time and date of the inspection;\n\n(2) Name of the individual performing the inspection;\n\n(3) General facility and equipment conditions at the time of the inspection;\n\n(4) If available, the individual water source meter readings, pump run time meter readings, well level transducer readings, total production meter readings, and the operational parameters of all treatment processes at the time of any inspection required by Env-Dw 503.11, including:\n\na. The chemical(s) that are being used;\n\nb. The total quantity of each chemical used;\n\nc. A description of each analytical test being used to monitor the treatment process(es) and all test results; and\n\nd. The total gallons of water treated, if metered data is required or available; and\n\n(5) Each operation and maintenance (O&M) task performed that might affect the quality or sufficiency of supply, including the following:\n\na. Time and date of the task;\n\nb. Name and company affiliation of the individual administering the task; and\n\nc. Description of conducted O&M activities.\n\n(b) The records required by (a) above shall be available for review by the department.\n\nSource. (See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

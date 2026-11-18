@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/203.06",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-A:5",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-A/126-A-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/203",
+  "definition": "Intervention",
+  "effectiveDate": "2007-04-13",
+  "historyNote": "#8866-A, eff 4-13-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 203.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html",
+  "prefLabel": "He-C 203.06 Intervention",
+  "recordType": "rule-section",
+  "ruleText": "He-C 203.06 Intervention.\n\n(a) Intervention in a hearing shall be governed by the provisions of RSA 541-A:32, I.\n\n(b) Petitions for intervention filed in accordance with RSA 541-A:32, II shall:\n\n(1) Be granted if:\n\na. The petitioner provides information which explains why the petition could not be filed in accordance with the time limits of RSA 541-A:32, I; and\n\nb. The presiding officer determines that the criteria contained in RSA 541-A:32, I (b) and (c) have been met by the petitioner; and\n\n(2) Be subject to the condition that no portion of the proceeding shall be repeated for the benefit of the intervenor.\n\nSource. #8866-A, eff 4-13-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html"
+}

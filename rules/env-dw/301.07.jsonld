@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/301.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Confined Aquifer",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/301",
+  "definition": "Confined aquifer",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 301) #11060, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 301.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 301.07 Confined aquifer",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 301.07 “Confined aquifer” means an aquifer in which groundwater is under pressures greater than the atmospheric pressure, which results in groundwater within a borehole rising to a level that is higher than the level at which water is first encountered, and that receives negligible recharge from overlying deposits during pumping.\n\nSource. (See Revision Note at part heading for Env-Dw 301) #11060, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/302.10",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "77-A:1",
+      "paragraphs": [
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/77-A/77-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:6",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:15",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/77-A/77-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/302",
+  "definition": "Business Organizations Includible in a Combined Return",
+  "effectiveDate": "2025-04-03",
+  "expirationDate": "2035-04-03",
+  "historyNote": "#4438, eff 6-22-88; ss by #5490, eff 10-19-92; ss by #6853, eff 9-23-98; ss by #8709, eff 8-25-06; ss by #10758, eff 1-16-15; ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 302.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html",
+  "prefLabel": "Rev 302.10 Business Organizations Includible in a Combined Return",
+  "recordType": "rule-section",
+  "ruleText": "Rev 302.10 Business Organizations Includible in a Combined Return.\n\n(a) Business organizations utilizing combined reporting, as defined in Rev 301.08, shall determine the gross business profits of each business organization includible in the combined group as if the business organizations were not affiliated in accordance with RSA 77-A:1, I and III.\n\n(b) The amounts of income from each business organization shall be added and all intergroup activity shall be eliminated to arrive at the gross business profits of the combined group.\n\n(c) The amounts of deductions from each business organization shall be added and all intergroup activity shall be eliminated to arrive at the gross business profits of the combined group.\n\nSource. #4438, eff 6-22-88; ss by #5490, eff 10-19-92; ss by #6853, eff 9-23-98; ss by #8709, eff 8-25-06; ss by #10758, eff 1-16-15; ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html"
+}

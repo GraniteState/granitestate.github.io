@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/710.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/710",
+  "definition": "Reduced Monitoring for Radionuclides",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 710.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 710.08 Reduced Monitoring for Radionuclides",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 710.08 Reduced Monitoring for Radionuclides.\n\n(a) The monitoring frequency for radionuclides shall be based on the average of the results of the initial monitoring required pursuant to Env-Dw 710.06, as specified in Table 710-1 below:\n\nTable 710-1: Monitoring Frequency Based on Radionuclide Concentrations\n\nCompliance Gross Alpha (pCi/L)\n\nAverage Monitoring Result | Frequency\n\n13.5 to 15 | Yearly\n\n7.6 to 13.4 | Every 3 years\n\n3 to 7.5 | Every 6 years\n\nless than 3 | Every 9 years\n\nRadium 226 plus Radium-228 (pCi/L)\n\nAverage Monitoring Result | Frequency\n\n4.5 to 5 | Yearly\n\n2.6 to 4.4 | Every 3 years\n\n1.0 to 2.5 | Every 6 years\n\nless than 1.0 | Every 9 years\n\nUranium (μg/L)\n\nAverage Monitoring Result | Frequency\n\n26.5 to 30 | Yearly\n\n15.5 to 26.4 | Every 3 years\n\n1 to 15.4 | Every 6 years\n\nless than 1 | Every 9 years\n\n(b) Subsequent sample results shall be used to establish future sampling schedules using the frequencies in Table 710-1.\n\n(c) Based on review of the submitted results, the department shall modify the system’s schedule in accordance with Table 710-1 and notify the CWS O/O in writing of the new monitoring requirements.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

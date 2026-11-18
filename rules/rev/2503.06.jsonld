@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2503.06",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2503",
+  "definition": "Renewal of Electronic Payments",
+  "effectiveDate": "2023-08-18",
+  "historyNote": "#8495, eff 11-30-05; ss by #10484, eff 12-5-13; ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2503.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html",
+  "prefLabel": "Rev 2503.06 Renewal of Electronic Payments",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2503.06 Renewal of Electronic Payments. A taxpayer applying to resume ACH credit payments after ceasing to remit ACH credit payments shall:\n\n(a) Submit a new Form DP-175, “Electronic Funds Transfer ACH Credit Registration for Business Tax Payments”, as specified in Rev 2505.02, at least 30 days prior to resuming any ACH credit payment; and\n\n(b) Complete a prenote test at least 10 calendar days prior to the first ACH credit payment.\n\nSource. #8495, eff 11-30-05; ss by #10484, eff 12-5-13; ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html"
+}

@@ -139,6 +139,14 @@
       "sections": 2446
     },
     {
+      "code": "Env-Dw",
+      "html": "rules/env-dw/index.html",
+      "id": "https://granitestate.github.io/rules/env-dw",
+      "jsonld": "rules/env-dw/index.jsonld",
+      "name": "Drinking Water Programs",
+      "sections": 1407
+    },
+    {
       "code": "Env-WMC",
       "html": "rules/env-wmc/index.html",
       "id": "https://granitestate.github.io/rules/env-wmc",
@@ -169,6 +177,14 @@
       "jsonld": "rules/fam/index.jsonld",
       "name": "Board of Family Mediator Certification",
       "sections": 165
+    },
+    {
+      "code": "He-C",
+      "html": "rules/he-c/index.html",
+      "id": "https://granitestate.github.io/rules/he-c",
+      "jsonld": "rules/he-c/index.jsonld",
+      "name": "Commissioner, Department of Health and Human Services",
+      "sections": 1154
     },
     {
       "code": "He-P",
@@ -299,6 +315,14 @@
       "sections": 126
     },
     {
+      "code": "Rev",
+      "html": "rules/rev/index.html",
+      "id": "https://granitestate.github.io/rules/rev",
+      "jsonld": "rules/rev/index.jsonld",
+      "name": "Department of Revenue Administration www.nh.gov/revenue",
+      "sections": 1608
+    },
+    {
       "code": "Rko",
       "html": "rules/rko/index.html",
       "id": "https://granitestate.github.io/rules/rko",
@@ -357,14 +381,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 44,
-    "chapters": 375,
+    "agencies": 47,
+    "chapters": 440,
     "droppedHeadings": 105,
-    "parts": 2494,
-    "rules": 18400,
-    "sections": 15531,
-    "unresolvedRows": 13684,
-    "unresolvedStatutes": 1403
+    "parts": 2977,
+    "rules": 23117,
+    "sections": 19700,
+    "unresolvedRows": 17018,
+    "unresolvedStatutes": 1769
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

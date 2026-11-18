@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Technical Definitions in the CCR",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.08 Technical Definitions in the CCR",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.08 Technical Definitions in the CCR.\n\n(a) The CCR shall contain the following definitions:\n\n“Maximum Contaminant Level Goal or MCLG: The level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.”\n\n“Maximum Contaminant Level or MCL: The highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.”\n\n(b) If the CCR contains any of the following terms, then each term shall be defined using the following applicable definition:\n\n“Action level or AL: The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.”\n\n“Ambient groundwater quality standard or AGQS: The maximum concentration levels for contaminants in groundwater that are established under RSA 485-C, the Groundwater Protection Act.”\n\n“Level I Assessment: A study of the water system to identify potential problems and determine, if possible, why total coliform bacteria have been found in our water system.”\n\n“Level II Assessment: A very detailed study of the water system to identify potential problems and determine, if possible, why an E. coli MCL violation has occurred and/or why total coliform bacteria have been found in our water system on multiple occasions.”\n\n“Maximum residual disinfectant level goal or MRDLG: The level of a drinking water disinfectant below which there is no known or expected risk to health. MRDLGs do not reflect the benefits of the use of disinfectants to control microbial contaminants.”\n\n“Maximum residual disinfectant level or MRDL: The highest level of a disinfectant allowed in drinking water. There is convincing evidence that addition of a disinfectant is necessary for control of microbial contaminants.”\n\n“Treatment technique or TT: A required process intended to reduce the level of a contaminant in drinking water.”\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Additional Information for Level I and Level II Assessments",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.17 Additional Information for Level I and Level II Assessments",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.17 Additional Information for Level I and Level II Assessments.\n\n(a) The O/O of a PWS that is required to comply with the Level I assessment requirement or a Level II assessment requirement that is not due to an E. coli MCL violation shall include the following text in the CCR with the applicable language from (b), below:\n\n“Coliforms are bacteria that are naturally present in the environment and are used as an indicator that other, potentially harmful, waterborne pathogens may be present or that a potential pathway exists through which contamination may enter the drinking water distribution system. We found coliforms indicating the need to look for potential problems in water treatment or distribution. When this occurs, we are required to conduct assessment(s) to identify problems and to correct any problems that were found during these assessments.”\n\n(b) The additional text required by (a), above, shall be as follows:\n\n(1) For level I assessments:\n\n“During the past year we were required to conduct [INSERT NUMBER OF LEVEL I ASSESSMENTS] Level I assessment(s). We completed [INSERT NUMBER OF LEVEL I ASSESSMENTS] Level I assessment(s). In addition, we were required to take [INSERT NUMBER OF CORRECTIVE ACTIONS] corrective actions and we have completed [INSERT NUMBER OF CORRECTIVE ACTIONS] of these actions.”; and\n\n(2) For level II assessments:\n\n“During the past year [INSERT NUMBER OF LEVEL II ASSESSMENTS] Level II assessments were required to be completed for our water system. We completed [INSERT NUMBER OF LEVEL II ASSESSMENTS] Level II assessments. In addition, we were required to take [INSERT NUMBER OF CORRECTIVE ACTIONS] corrective actions and we completed [INSERT NUMBER OF CORRECTIVE ACTIONS] of these actions.”\n\n(c) In addition to the information required by (a), above, the O/O of a PWS that has failed to complete all the required assessments also shall include the following statement in the CCR:\n\n“During the past year we failed to conduct all of the required assessment(s).”\n\n(d) In addition to the information required by (a), above, the O/O of a PWS that has failed to correct all identified sanitary defects also shall include the following statement in the CCR:\n\n“During the past year we failed to correct all identified defects that were found during the assessment.”\n\n(e) The O/O of a PWS required to conduct a level II assessment due to an E. coli MCL violation shall include the following statements in the CCR, filling in the blanks as indicated:\n\n“E. coli are bacteria whose presence indicates that the water may be contaminated with human or animal wastes. Human pathogens in these wastes can cause short-term effects, such as diarrhea, cramps, nausea, headaches, or other symptoms. They may pose a greater health risk for infants, young children, the elderly, and people with severely compromised immune systems. We found E. coli bacteria, indicating the need to look for potential problems in water treatment or distribution. When this occurs, we are required to conduct assessment(s) to identify problems and to correct any problems that were found during these assessments.”\n\n“We were required to complete a Level II assessment because we found E. coli in our water system. In addition, we were required to take [INSERT NUMBER OF CORRECTIVE ACTIONS] corrective actions and we completed [INSERT NUMBER OF CORRECTIVE ACTIONS] of these actions.”\n\n(f) In addition to the information required by (e), above, the O/O of a PWS required to conduct a level II assessment due to an E. coli MCL violation that has failed to complete the required assessments also shall include the following statement in the CCR:\n\n“We have failed to conduct the required assessment.”\n\n(g) In addition to the information required by (e), above, the O/O of a PWS required to conduct a level II assessment due to an E. coli MCL violation that has failed to correct all identified sanitary defects also shall include the following statement in the CCR:\n\n“We have failed to correct all sanitary defects that were identified during the assessment that was conducted.”\n\n(h) Subject to (i), below, if E. coli has been detected at a level that violated the E. coli MCL, then in addition to providing the information required by Env-Dw 811.10 in the table format required by Env-Dw 811.11, the O/O shall include each of the following statements that apply in the CCR:\n\n“We had an E. coli positive repeat sample following a total coliform-positive routine sample.”\n\n“We had a total coliform positive repeat sample following an E. coli positive routine sample.”\n\n“We failed to take all required repeat samples following an E. coli positive routine sample.”\n\n“We failed to test for E. coli when any repeat sample tests positive for total coliform.”\n\n(i) If E. coli has been detected at a level that has not violated the E. coli MCL, then in addition to providing the information required by Env-Dw 811.10 in the table required by Env-Dw 811.11, the O/O may include a statement in the CCR that explains that although E. coli has been detected, the system has not violated the E. coli MCL.\n\nSource. #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/405.13",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/405",
+  "definition": "Required Source Capacity",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "#14158, eff 12-25-24 (formerly Env-Dw 405.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 405.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html",
+  "prefLabel": "Env-Dw 405.13 Required Source Capacity",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 405.13 Required Source Capacity.\n\n(a) The total source capacity, including all sources, for small CWSs shall be not less than 2 times the system’s design flow based on a 24-hour day.\n\n(b) For small CWSs that are required to have 2 or more wells, the source capacity with the largest source out of service shall be not less than 50% of the system’s design flow.\n\n(c) If the design flow exceeds 13,500 gpd, the CWS shall have a minimum of 2 active wells or an interconnection to another PWS approved by the department.\n\n(d) For new wells, the source capacity shall be the permitted production volume (PPV) approved by the department in accordance with Env-Dw 302 or Env-Dw 305.\n\n(e) For existing wells with a previously approved PPV, the source capacity shall be the PPV.\n\n(f) For existing wells without a previously approved PPV, the source capacity shall be based on the documentation submitted by the applicant in accordance with Env-Dw 405.31.\n\nSource. #14158, eff 12-25-24 (formerly Env-Dw 405.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html"
+}

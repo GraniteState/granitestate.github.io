@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/720.15",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/720",
+  "definition": "Public Notification",
+  "effectiveDate": "2025-11-21",
+  "expirationDate": "2035-11-21",
+  "historyNote": "#10771, eff 2-1-15; ss by #12420, eff 11-18-17; ss by #14427, eff 11-21-25, EXPIRES 11-21-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 720.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 720.15 Public Notification",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 720.15 Public Notification\n\n(a) The owner of a PWS at which a treatment technique violation as described in Env-Dw 720.14(a) or a reporting violation as described in Env-Dw 720.14(b) occurs shall provide standard public notice as specified in Env-Dw 801.08 for CWSs or Env-Dw 801.11 for NCWSs, as applicable.\n\n(b) The owner of a CWS at which a significant deficiency as specified in Env-Dw 720.03 has not been corrected within 12 months of being notified of the deficiency, shall:\n\n(1) Notify persons served by the system of the deficiency through the consumer confidence report (CCR) as specified in Env-Dw 811; and\n\n(2) Continue to report in the CCR annually until the deficiency has been corrected and confirmation of the correction has been received from the department.\n\n(c) The owner of an NCWS at which a significant deficiency as specified in Env-Dw 720.03 has not been corrected within 12 months of being notified of the deficiency shall notify persons served by the system of the deficiency in accordance with Env-Dw 803.04.\n\n(d) The owner of a CWS at which a level 1 assessment or level 2 assessment was triggered shall notify persons served by the system of each assessment conducted pursuant to Env-Dw 720.07 and each corrective action taken or planned pursuant to approvals obtained under Env-Dw 720.11(e) or Env-Dw 720.12(c) in the CCR as specified in Env-Dw 811.\n\nSource. #10771, eff 2-1-15; ss by #12420, eff 11-18-17; ss by #14427, eff 11-21-25, EXPIRES 11-21-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/722",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/700",
+  "definition": "BEST AVAILABLE TECHNOLOGY AND TREATMENT TECHNIQUES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/722.01",
+    "https://granitestate.github.io/rules/env-dw/722.02",
+    "https://granitestate.github.io/rules/env-dw/722.03",
+    "https://granitestate.github.io/rules/env-dw/722.04",
+    "https://granitestate.github.io/rules/env-dw/722.05",
+    "https://granitestate.github.io/rules/env-dw/722.06",
+    "https://granitestate.github.io/rules/env-dw/722.07"
+  ],
+  "notation": "Env-Dw 722",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 722 BEST AVAILABLE TECHNOLOGY AND TREATMENT TECHNIQUES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 722 BEST AVAILABLE TECHNOLOGY AND TREATMENT TECHNIQUES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

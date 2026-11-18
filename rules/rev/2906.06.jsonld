@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2906.06",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Recordkeeping Requirements for Electronic Data Interchange",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:33",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2906",
+  "definition": "Recordkeeping Requirements For Electronic Data Interchange",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2906.05); ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2906.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2906.06 Recordkeeping Requirements For Electronic Data Interchange",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2906.06 Recordkeeping Requirements For Electronic Data Interchange.\n\n(a) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transactions shall:\n\n(1) Be equivalent to that contained in an acceptable paper record as described in Rev 2906.03; and\n\n(2) Contain the following information:\n\na. Vendor name;\n\nb. Invoice date;\n\nc. Product description;\n\nd. Quantity purchased;\n\ne. Price;\n\nf. Amount of tax and indication of tax status;\n\ng. Shipping detail; and\n\nh. Information material to the transaction.\n\n(b) Codes may be used to identify some or all of the data elements, provided that the taxpayer shall provide a method which allows the department to interpret the coded information.\n\n(c) The taxpayer may capture the information necessary to satisfy the provisions of (a) and (b) above at any level within the accounting system.\n\n(d) The taxpayer shall not be required to retain the original electronic data interchange transaction records provided the audit trail, authenticity, and integrity of the retained records can be established in accordance with Rev 2906.08.\n\nSource. #8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2906.05); ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

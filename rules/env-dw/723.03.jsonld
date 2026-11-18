@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/723.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/723",
+  "definition": "Department Action on Request to Approve Non-Central Treatment",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#10618, eff 6-1-14, EXPIRED 6-1-24 New. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 723.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 723.03 Department Action on Request to Approve Non-Central Treatment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 723.03 Department Action on Request to Approve Non-Central Treatment. The department shall approve a request to install and use non-central treatment devices if it determines that:\n\n(a) A non-contaminated source is not available to the PWS;\n\n(b) Centralized treatment is not feasible;\n\n(c) The water from the non-central treatment devices will:\n\n(1) Meet all applicable MCLs; and\n\n(2) Be of acceptable quality similar to water distributed by a properly-operated central treatment plant;\n\n(d) The results of field testing, if required, and certification or proof of performance submitted pursuant to Env-Dw 723.02(f) indicate that each treatment option proposed would be effective in reducing the contaminant concentration to below the applicable MCL;\n\n(e) All current owners or renters of property served by the PWS agree to the implementation of the proposed non-central treatment devices, including the installation, operation, testing, and maintenance of the devices and the legal constraints on the property imposed by the installation of the devices by the PWS owner, as described in Env-Dw 723.06; and\n\n(f) The non-central treatment system will comply with all other requirements of Env-Dw 723.01.\n\nSource. #10618, eff 6-1-14, EXPIRED 6-1-24\n\nNew. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1706",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1700",
+  "definition": "CLASSIFICATION OF BALANCE SHEET ACCOUNTS FOR REPORTING ON REPORT MS-535, FINANCIAL REPORT OF THE BUDGET",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/1706.01",
+    "https://granitestate.github.io/rules/rev/1706.02",
+    "https://granitestate.github.io/rules/rev/1706.03"
+  ],
+  "notation": "Rev 1706",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev.html",
+  "prefLabel": "Rev 1706 CLASSIFICATION OF BALANCE SHEET ACCOUNTS FOR REPORTING ON REPORT MS-535, FINANCIAL REPORT OF THE BUDGET",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 1706 CLASSIFICATION OF BALANCE SHEET ACCOUNTS FOR REPORTING ON REPORT MS-535, FINANCIAL REPORT OF THE BUDGET",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2503.07",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2503",
+  "definition": "Penalties",
+  "effectiveDate": "2023-08-18",
+  "historyNote": "#8495, eff 11-30-05; ss by #10484, eff 12-5-13 (from Rev 2503.08); ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2503.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html",
+  "prefLabel": "Rev 2503.07 Penalties",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2503.07 Penalties.\n\n(a) The ACH credit method of payment shall not change the current filing requirements for tax returns.\n\n(b) Any payment required by ACH credit not made by the due date shall be subject to:\n\n(1) Penalties pursuant to RSA 21-J:31-33; and\n\n(2) Interest pursuant to RSA 21-J:28.\n\n(c) Failure to conform with any filing, data transmission, or payment with the ACH credit method prescribed by the department shall result in:\n\n(1) Penalties pursuant to RSA 21-J:31 - 33; and\n\n(2) Interest pursuant to RSA 21-J:28.\n\n(d) In the event of a malfunction of the ACH credit payment mechanism, no interest or penalties shall be imposed provided the taxpayer verifies the proper amount of tax payment was initiated via ACH credit payment in a timely manner by written confirmation from the taxpayer’s financial institution.\n\n(e) The taxpayer shall bear the burden of proof of proper tax payment.\n\n(f) In addition to the provisions for reasonable cause for failure to file pursuant to RSA 21-J:31 and failure to pay pursuant to RSA 21-J:33, for ACH credit purposes, reasonable cause for late payment by ACH credit shall include, but not be limited to:\n\n(1) The inability to gain access to the ACH system on the required date because of a system failure beyond the control of the taxpayer; or\n\n(2) Failure of the ACH network to properly apply a payment.\n\nSource. #8495, eff 11-30-05; ss by #10484, eff 12-5-13 (from Rev 2503.08); ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html"
+}

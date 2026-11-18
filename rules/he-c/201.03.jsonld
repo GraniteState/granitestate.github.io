@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/201.03",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-A:5",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-A/126-A-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/201",
+  "definition": "Time Limit for Appeals",
+  "effectiveDate": "2007-04-13",
+  "historyNote": "#6986, eff 4-24-99; ss by #8866-A, eff 4-13-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 201.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html",
+  "prefLabel": "He-C 201.03 Time Limit for Appeals",
+  "recordType": "rule-section",
+  "ruleText": "He-C 201.03 Time Limit for Appeals.\n\n(a) Unless otherwise specifically provided in applicable federal or state law, or other department administrative rules which set a different time limit, appeals shall be submitted within 30 days after the date:\n\n(1) The department’s notice of decision was issued, if applicable; or\n\n(2) Of the department’s notice to the appellant of its action if a notice of decision was not issued.\n\n(b) The time limits for filing appeals shall not be waived unless the appellant establishes good cause for the non-compliance.\n\nSource. #6986, eff 4-24-99; ss by #8866-A, eff 4-13-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html"
+}

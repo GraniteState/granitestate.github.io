@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/503.22",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/503",
+  "definition": "Required Action After Mechanical Breakdown or Other Failure",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.14)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 503.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 503.22 Required Action After Mechanical Breakdown or Other Failure",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 503.22 Required Action After Mechanical Breakdown or Other Failure.\n\n(a) If the PWS experiences a mechanical failure, water main break, or power failure or experiences a degradation of the water quality in the distribution system, the owner shall initiate one or more of the following actions, as appropriate to the situation:\n\n(1) Disinfection;\n\n(2) Bacterial testing;\n\n(3) Flushing; and\n\n(4) Public notice to consumers as specified in Env-Dw 503.19(b).\n\n(b) The action(s) taken shall be determined by the owner of the PWS and the primary certified operator after a careful analysis of the event.\n\nSource. (See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.14)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

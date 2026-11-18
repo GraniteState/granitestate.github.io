@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2004.05",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "SOURCE 3400: Revenues from Charges for Services",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2004",
+  "definition": "Source 3400: Revenues From Charges for Services",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2005.05); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2004.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2004.05 Source 3400: Revenues From Charges for Services",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2004.05 Source 3400: Revenues From Charges for Services. Revenues from charges for services shall be classified into the following accounts:\n\n(a) Account 3401, income from departments, classification shall be for revenue from charges for services provided within the budgetary cycle, exclusive of revenues of proprietary funds;\n\n(b) Account 3402, water supply system charges, classification shall be for revenue from services or water supplied from the village district water system;\n\n(c) Account 3403, sewer user charges, classification shall be for revenue from services provided by the village district sewer system;\n\n(d) Account 3404, garbage-refuse charges, classification shall be for revenue from services provided by the village district waste management system; and\n\n(e) Account 3409, other charges, classification shall be for revenue from services provided by the village district not classified in (a) through (d) above.\n\nSource. #10675, eff 9-24-14 (from Rev 2005.05); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

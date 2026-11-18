@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/809.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/809",
+  "definition": "Chlorine Dioxide",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 809.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 809.06 Chlorine Dioxide",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 809.06 Chlorine Dioxide.\n\n(a) For chlorine dioxide violations where any 2 consecutive daily samples collected at the entrance to the distribution system exceed the MRDL, the statement shall read as follows:\n\n“Some infants and young children who drink water containing chlorine dioxide in excess of the MRDL could experience nervous system effects. Similar effects may occur in fetuses of pregnant women who drink water containing chlorine dioxide in excess of the MRDL. Some people may experience anemia.\n\nThe chlorine dioxide violations reported today are the result of exceedances at the treatment facility only, not within the distribution system which delivers water to consumers. Continued compliance with chlorine dioxide levels within the distribution system minimizes the potential risk of these violations to consumers.”\n\n(b) For chlorine dioxide violations where one or more distribution samples are above the MRDL, the statement shall state:\n\n“Some infants and young children who drink water containing chlorine dioxide in excess of the MRDL could experience nervous system effects. Similar effects may occur in fetuses of pregnant women who drink water containing chlorine dioxide in excess of the MRDL. Some people may experience anemia.\n\nThe chlorine dioxide violations reported today include exceedances of the EPA standard within the distribution system which delivers water to consumers. Violations of the chlorine dioxide standard within the distribution system may harm human health based on short-term exposures. Certain groups, including fetuses, infants, and young children, may be especially susceptible to nervous system effects from excessive chlorine dioxide exposure.”\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

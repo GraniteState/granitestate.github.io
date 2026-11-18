@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1101.12",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Fund Code",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1101",
+  "definition": "Fund code",
+  "effectiveDate": "2022-12-09",
+  "historyNote": "#5072, eff 2-21-91, EXPIRED 2-21-97 New. #6476, eff 3-26-97; ss by #8306, eff 3-22-05; ss by #10304, eff 3-22-13; ss by #13503, eff 12-9-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1101.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html",
+  "prefLabel": "Rev 1101.12 Fund code",
+  "priorExpiration": "1997-02-21",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1101.12 “Fund code” means the code number assigned to classify different types of funds.\n\nSource. #5072, eff 2-21-91, EXPIRED 2-21-97\n\nNew. #6476, eff 3-26-97; ss by #8306, eff 3-22-05; ss by #10304, eff 3-22-13; ss by #13503, eff 12-9-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html"
+}

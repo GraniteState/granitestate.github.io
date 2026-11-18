@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/1501.05",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126:25",
+      "source": "https://granitestate.github.io/rsa/126/126-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126:27",
+      "source": "https://granitestate.github.io/rsa/126/126-27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126/126-25",
+    "https://granitestate.github.io/rsa/126/126-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/1501",
+  "definition": "General Requirements for Data Set Submission",
+  "effectiveDate": "2022-04-20",
+  "historyNote": "#4074, eff 6-27-86; EXPIRED 6-27-92 New. #5844, eff 7-1-94, EXPIRED: 7-1-00 New. # 9436, eff 3-21-09, EXPIRED: 3-21-17 New. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17 New. #13369, eff 4-20-22 (formerly He-C 1503.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 1501.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html",
+  "prefLabel": "He-C 1501.05 General Requirements for Data Set Submission",
+  "priorExpiration": "2017-09-18",
+  "recordType": "rule-section",
+  "ruleText": "He-C 1501.05 General Requirements for Data Set Submission.\n\n(a) Health care facilities shall submit data to the department, or its agent, as standard health care discharge or equivalent encounter information transactions in a format compliant with the National Uniform Billing Committee’s “Official UB-04 Data Specifications Manual” (2022 Edition), available as noted in Appendix A.\n\n(b) Unless otherwise specified in He-C 1501.06, the National Uniform Billing Committee’s “Official UB-04 Data Specifications Manual” (2022 Edition), available as noted in Appendix A, shall be the code source to be utilized for discharge data submission.\n\n(c) Unless otherwise specified in He-C 1501.06, data elements shall be required as defined by the UB-04 reporting standard in the National Uniform Billing Committee’s “Official UB-04 Data Specifications Manual” (2022 Edition), available as noted in Appendix A.\n\n(d) Data submissions shall be made using the ANSI ASC X12N 837 electronic file format pursuant to 45 CFR 162.920(a).\n\n(e) Data submissions shall be made to the department or its agent utilizing a secure protocol. E-mail attachments and paper submissions shall not be acceptable.\n\nSource. #4074, eff 6-27-86; EXPIRED 6-27-92\n\nNew. #5844, eff 7-1-94, EXPIRED: 7-1-00\n\nNew. # 9436, eff 3-21-09, EXPIRED: 3-21-17\n\nNew. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17\n\nNew. #13369, eff 4-20-22 (formerly He-C 1503.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html"
+}

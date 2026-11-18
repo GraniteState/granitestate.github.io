@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/503.15",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/503",
+  "definition": "Evaluation of Water Supply Adequacy Required",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 503.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 503.15 Evaluation of Water Supply Adequacy Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 503.15 Evaluation of Water Supply Adequacy Required. The owner of a PWS shall review, periodically as needed, the sources and treatment of the water supply in relationship to customer demand, for the purpose of ensuring that the PWS can meet its obligations to customers.\n\nSource. (See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

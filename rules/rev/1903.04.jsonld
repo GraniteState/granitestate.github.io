@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1903.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "41:6",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/41/41-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/41/41-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1903",
+  "definition": "Discovery Period",
+  "effectiveDate": "2024-03-29",
+  "historyNote": "#5356, eff 3-16-92, EXPIRED: 3-16-98 New. #6732, eff 4-18-98; ss by #8599, eff 4-6-06; ss by #10582, eff 5-2-14; ss by #13918, eff 3-29-24 (see Revision Note at chapter heading for Rev 1900)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1903.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html",
+  "prefLabel": "Rev 1903.04 Discovery Period",
+  "priorExpiration": "1998-03-16",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1903.04 Discovery Period. The discovery period shall:\n\n(a) Be consistent with applicable statutes of limitations; and\n\n(b) Apply to either the termination of:\n\n(1) The bond as an entirety; or\n\n(2) The term of office of any person filling any position stated in the schedule.\n\nSource. #5356, eff 3-16-92, EXPIRED: 3-16-98\n\nNew. #6732, eff 4-18-98; ss by #8599, eff 4-6-06; ss by #10582, eff 5-2-14; ss by #13918, eff 3-29-24 (see Revision Note at chapter heading for Rev 1900)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html"
+}

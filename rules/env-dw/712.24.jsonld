@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/712.24",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:16-e",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/712",
+  "definition": "Monitoring Frequency for PFAS Contaminants",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12838, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 712.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 712.24 Monitoring Frequency for PFAS Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 712.24 Monitoring Frequency for PFAS Contaminants.\n\n(a) Subsequent to the initial monitoring required by Env-Dw 712.23 and subject to Env-Dw 712.26, the O/O shall monitor for all PFAS contaminants based on the PFAS contaminant with the most frequent monitoring period calculated from the average of the results of the initial monitoring required by Env-Dw 712.23, as specified in Table 712-1, below, and as demonstrated in Appendix D for specific PFAS contaminants:\n\nTable 712-1: Monitoring Frequency Based on PFAS Contaminant Concentrations\n\nAverage Monitoring Result (ng/L) | Frequency\n\nGreater than 50% of MCL to 100% of MCL | Annually\n\n50% of MCL or less | Once every 3 years\n\n(b) If the average monitoring result exceeds 100% of the MCL, the O/O shall monitor as specified in Env-Dw 712.27.\n\n(c) The O/O shall monitor for PFAS contaminants during the quarter in which the highest analytical result was observed.\n\n(d) Subsequent sample results shall be used to establish future PFAS contaminant sampling schedules using the shortest PFAS monitoring period specified in Table 712-1.\n\n(e) Based on a review of the submitted results, the department shall:\n\n(1) Modify the system’s schedule in accordance with Table 712-1 or (b), above, as applicable; and\n\n(2) Notify the O/O in writing of the new monitoring requirements.\n\nSource. #12838, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

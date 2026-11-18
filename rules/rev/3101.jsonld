@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3101",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "77:38",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/3101.01",
+    "https://granitestate.github.io/rules/rev/3101.02",
+    "https://granitestate.github.io/rules/rev/3101.03",
+    "https://granitestate.github.io/rules/rev/3101.04",
+    "https://granitestate.github.io/rules/rev/3101.05",
+    "https://granitestate.github.io/rules/rev/3101.06"
+  ],
+  "notation": "Rev 3101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html",
+  "prefLabel": "Rev 3101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 3101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2004.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "SOURCE 3100: Revenue from Taxes",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2004",
+  "definition": "Source 3100: Revenue From Taxes",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (from Rev 2005.01); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2004.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2004.01 Source 3100: Revenue From Taxes",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2004.01 Source 3100: Revenue From Taxes. Revenues from taxes shall be classified into the following accounts:\n\n(a) Account 3110, property taxes, classification shall be for compulsory charges levied for village district purposes on the assessed valuation of real property located within the village district; and\n\n(b) Account 3190, interest and penalties on delinquent taxes, classification shall be for:\n\n(1) Amounts assessed as penalties for the payment of taxes after their due date; and\n\n(2) The interest charged on delinquent taxes from their due date to the date of actual payment.\n\nSource. #5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (from Rev 2005.01); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

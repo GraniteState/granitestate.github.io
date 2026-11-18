@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/1501.07",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126:25",
+      "source": "https://granitestate.github.io/rsa/126/126-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126:27",
+      "source": "https://granitestate.github.io/rsa/126/126-27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126/126-25",
+    "https://granitestate.github.io/rsa/126/126-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/1501",
+  "definition": "Transmittal Record",
+  "effectiveDate": "2022-04-20",
+  "historyNote": "# 9436, eff 3-21-09, EXPIRED: 3-21-17 New. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17 New. #13369, eff 4-20-22 (formerly He-C 1503.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 1501.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html",
+  "prefLabel": "He-C 1501.07 Transmittal Record",
+  "priorExpiration": "2017-09-18",
+  "recordType": "rule-section",
+  "ruleText": "He-C 1501.07 Transmittal Record. With each submission of data, a transmittal record shall also be supplied that contains the following information:\n\n(a) Submitting health care facility name;\n\n(b) Submitting health care facility tax ID number;\n\n(c) Submitting health care facility Medicare provider number;\n\n(d) If different from submitting health care facility, the name and address of the location where discharges in the submitted records occurred;\n\n(e) File name;\n\n(f) Contact person name;\n\n(g) Contact person telephone number;\n\n(h) Contact person e-mail address;\n\n(i) Date processed;\n\n(j) Time processed;\n\n(k) Submission date; and\n\n(l) Explanatory notes to assist with processing of the file.\n\nSource. # 9436, eff 3-21-09, EXPIRED: 3-21-17\n\nNew. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17\n\nNew. #13369, eff 4-20-22 (formerly He-C 1503.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html"
+}

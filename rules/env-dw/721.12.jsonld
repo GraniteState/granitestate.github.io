@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/721.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Bottled Water and Point-of-Use or Point-of-Entry Devices",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:42",
+      "source": "https://granitestate.github.io/rsa/485/485-42",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/721",
+  "definition": "Bottled Water and Point-of-Use or Point-of Entry Devices",
+  "effectiveDate": "2014-06-01",
+  "historyNote": "#10617, eff 6-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 721.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 721.12 Bottled Water and Point-of-Use or Point-of Entry Devices",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 721.12 Bottled Water and Point-of-Use or Point-of Entry Devices.\n\n(a) The department shall require a public water system to provide bottled water or point-of-use or point-of-entry devices or other means of response as a condition for granting an exemption from the requirements of Env-Dw 703 through Env-Dw 706.\n\n(b) The owner of a public water system that uses bottled water as a condition of obtaining an exemption shall ensure the bottled water source meets the requirements specified in Env-Dw 303.\n\n(c) The owner of a public water system that uses point-of-use or point-of-entry devices as a condition for receiving an exemption shall meet the requirements specified in Env-Dw 723.\n\nSource. #10617, eff 6-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

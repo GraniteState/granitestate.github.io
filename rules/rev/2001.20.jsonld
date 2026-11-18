@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2001.20",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Village District",
+  "authority": [
+    {
+      "citation": "21-J:3",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-J:13",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-J:34",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-34",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "670:9",
+      "source": "https://granitestate.github.io/rsa/670/670-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-3",
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17",
+    "https://granitestate.github.io/rsa/21-J/21-J-34",
+    "https://granitestate.github.io/rsa/670/670-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2001",
+  "definition": "Village district",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2001.15); ss by #14072, eff 9-10-24 (formerly Rev 2001.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2001.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2001.20 Village district",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2001.20 \"Village district\" means any local governmental unit which has adopted the provisions of RSA 52 or chapter law creating a specific district or precinct.\n\nSource. #10675, eff 9-24-14 (from Rev 2001.15); ss by #14072, eff 9-10-24 (formerly Rev 2001.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

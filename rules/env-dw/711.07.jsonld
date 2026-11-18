@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Compliance Determination for Regulated Inorganics",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.07 Compliance Determination for Regulated Inorganics",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.07 Compliance Determination for Regulated Inorganics.\n\n(a) For a PWS at which regulated inorganics are monitored at a frequency greater than annually, the department shall determine compliance with the MCL specified in Env-Dw 704 by a running annual average, as defined in Env-Dw 100, at each sampling point.\n\n(b) If the department determines that the running annual average at any sampling point is greater than the MCL as specified in Env-Dw 704, then the system shall be deemed out of compliance.\n\n(c) If any one sample is more than 4 times the MCL specified in Env-Dw 704, then the system shall be out of compliance.\n\n(d) Any sample result which is below the detection limit shall be calculated as zero for the purpose of determining the running annual average.\n\n(e) If a system is monitoring annually or less frequently, the system shall be deemed out of compliance with the MCLs if the level of a regulated inorganic at any sampling point is greater than the MCL. If confirmation samples are required by Env-Dw 711.05, the determination of compliance shall be based on the average of the initial and confirmation samples.\n\n(f) If a PWS has a distribution system with portions that are hydraulically separate from other parts of the distribution system, then:\n\n(1) Only that part of the system in which the MCL specified in Env-Dw 704 is exceeded shall be out of compliance; and\n\n(2) The O/O may request approval from the department pursuant to Env-Dw 801.15 to limit the public notice to the users of only that portion of the system which is out of compliance.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

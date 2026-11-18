@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/721.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:42",
+      "source": "https://granitestate.github.io/rsa/485/485-42",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/721",
+  "definition": "Consideration of an Exemption Request",
+  "effectiveDate": "2014-06-01",
+  "historyNote": "#10617, eff 6-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 721.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 721.06 Consideration of an Exemption Request",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 721.06 Consideration of an Exemption Request.\n\n(a) The department shall act on any exemption request within 90 days of receipt of a complete request.\n\n(b) In its consideration of whether the public water system meets the criteria specified in Env-Dw 721.03, the department shall consider such factors as the following:\n\n(1) The complexity and cost of construction, installation, or modification of the treatment equipment or systems;\n\n(2) The time needed to put a new treatment facility into operation or to replace an existing system which is not in compliance; and\n\n(3) The economic feasibility of compliance.\n\n(c) The department shall not grant any exemption from the MCL for bacteria specified in Env-Dw 702.\n\nSource. #10617, eff 6-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

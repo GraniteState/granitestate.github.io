@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/722.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/722",
+  "definition": "Treatment Technique for Acrylamide and Epichlorohydrin",
+  "effectiveDate": "2019-06-28",
+  "historyNote": "#10617, eff 6-1-14; ss by #12820, eff 6-28-19 (formerly Env-Dw 722.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 722.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 722.07 Treatment Technique for Acrylamide and Epichlorohydrin",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 722.07 Treatment Technique for Acrylamide and Epichlorohydrin.\n\n(a) The purpose of this section is to establish treatment techniques in lieu of MCLs for acrylamide and epichlorohydrin.\n\n(b) Each public water system shall certify annually in writing to the department that when acrylamide or epichlorohydrin are used in drinking water systems, the combination of dose and monomer level does not exceed the following specified level:\n\n(1) For acrylamide, 0.05% dosed at 1 ppm; and\n\n(2) For epichlorohydrin, 0.01% dosed at 20 ppm.\n\nSource. #10617, eff 6-1-14; ss by #12820, eff 6-28-19 (formerly Env-Dw 722.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4004",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "170-E:53-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "appendix"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4000",
+  "definition": "CERTIFICATION REQUIRED FOR YOUTH SKILL CAMPS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-c/4004.01",
+    "https://granitestate.github.io/rules/he-c/4004.02",
+    "https://granitestate.github.io/rules/he-c/4004.03",
+    "https://granitestate.github.io/rules/he-c/4004.04",
+    "https://granitestate.github.io/rules/he-c/4004.05",
+    "https://granitestate.github.io/rules/he-c/4004.06",
+    "https://granitestate.github.io/rules/he-c/4004.07",
+    "https://granitestate.github.io/rules/he-c/4004.08"
+  ],
+  "notation": "He-C 4004",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4004 CERTIFICATION REQUIRED FOR YOUTH SKILL CAMPS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-C 4004 CERTIFICATION REQUIRED FOR YOUTH SKILL CAMPS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

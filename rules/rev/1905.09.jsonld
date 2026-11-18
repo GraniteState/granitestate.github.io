@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1905.09",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "41:39",
+      "via": "appendix"
+    },
+    {
+      "citation": "52:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1905",
+  "definition": "Real Estate Tax Bills",
+  "effectiveDate": "2024-03-29",
+  "historyNote": "#8599, eff 4-6-06; ss by #10582, eff 5-2-14; ss by #13918, eff 3-29-24 (see Revision Note at chapter heading for Rev 1900)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1905.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html",
+  "prefLabel": "Rev 1905.09 Real Estate Tax Bills",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1905.09 Real Estate Tax Bills.\n\n(a) In addition to the requirements of RSA 76:11-a, the real estate tax bill shall show the village district tax rate separately when village district tax is included on the bill.\n\n(b) The penalties imposed under RSA 74:7-a for failure to file timely and fully complete Form PA-28, “Inventory of Taxable Property”, shall be stated separately on the tax bill when such charges are included on the bill.\n\nSource. #8599, eff 4-6-06; ss by #10582, eff 5-2-14; ss by #13918, eff 3-29-24 (see Revision Note at chapter heading for Rev 1900)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html"
+}

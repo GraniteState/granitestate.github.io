@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3401.19",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Thousand Board Feet (MBF)",
+  "authority": [
+    {
+      "citation": "79:10",
+      "source": "https://granitestate.github.io/rsa/79/79-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "79:30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/79/79-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3401",
+  "definition": "Thousand board feet (MBF)",
+  "effectiveDate": "2024-07-16",
+  "historyNote": "#10664, eff 9-4-14; ss by #14026, eff 7-16-24 (formerly Rev 3401.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 3401.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3400.html",
+  "prefLabel": "Rev 3401.19 Thousand board feet (MBF)",
+  "recordType": "rule-section",
+  "ruleText": "Rev 3401.19 “Thousand board feet (MBF)” means the number of board feet of saw logs expressed in thousands or a fraction thereof.\n\nSource. #10664, eff 9-4-14; ss by #14026, eff 7-16-24 (formerly Rev 3401.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3400.html"
+}

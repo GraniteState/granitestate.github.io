@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/723.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/723",
+  "definition": "Violation of MCL when using Non-Central Treatment Devices",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#10618, eff 6-1-14, EXPIRED 6-1-24 New. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 723.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 723.09 Violation of MCL when using Non-Central Treatment Devices",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 723.09 Violation of MCL when using Non-Central Treatment Devices.\n\n(a) For purposes of this section, an MCL violation for a particular contaminant occurs when the running annual average is greater than the MCL at any non-central treatment device, whether one or more samples are collected.\n\n(b) If an MCL violation occurs, upon receiving notice of the violation the PWS owner shall:\n\n(1) Within 7 days, provide the standard MCL violation public notice in accordance with Env-Dw 800 to the owner(s) or renter(s) having the exceedance and submit proof of public notice to the department within 10 days of distribution;\n\n(2) Make repairs to the device within 7 days; and\n\n(3) Test the repaired device within 7 days of repair to determine whether the MCL is being met.\n\n(c) If the violation occurs at a community water system, the owner shall include information about the violation in the consumer confidence report (CCR) required by Env-Dw 811.\n\n(d) If the violation occurs at a non-community water system, the owner shall post public notice as follows:\n\n(1) At the location of the POU treatment device where the MCL was exceeded for a minimum of 7 days, if the violation arises at a POU; or\n\n(2) If the violation arises at a POE treatment device, at all locations where consumers can access water for drinking and on a main bulletin board or other conspicuous place in the facility served by the POE treatment device.\n\n(e) If MCL violations after non-central treatment occur on a yearly basis, the department shall determine the adequacy of the devices and the operations and maintenance plan established pursuant to Env-Dw 723.02(h) by evaluating the history of monitoring data and reviewing flow, operation, and maintenance records for all devices installed at the PWS.\n\n(f) If the department determines that a previously-approved non-central treatment device is compromising the quality of water delivered to consumers, the department shall evaluate the need to initiate an action to suspend or revoke the approval in accordance with RSA 541-A and the provisions of Env-C 200 applicable to adjudicative proceedings.\n\nSource. #10618, eff 6-1-14, EXPIRED 6-1-24\n\nNew. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

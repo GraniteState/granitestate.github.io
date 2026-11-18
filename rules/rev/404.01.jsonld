@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/404.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:28-b",
+      "source": "https://granitestate.github.io/rsa/72/72-28-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "72:29",
+      "source": "https://granitestate.github.io/rsa/72/72-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "72:31",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "72:32",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "72:36",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-28-b",
+    "https://granitestate.github.io/rsa/72/72-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/404",
+  "definition": "All Veterans’ Tax Credit",
+  "effectiveDate": "2018-03-21",
+  "historyNote": "#5911, eff 10-14-94; ss by #7410, eff 11-23-00; (See Revision Note at chapter heading for Rev 400) #9309, eff 10-30-08; ss by #12027, eff 10-28-16; amd by #12496, eff 3-21-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 404.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 404.01 All Veterans’ Tax Credit",
+  "recordType": "rule-section",
+  "ruleText": "Rev 404.01 All Veterans’ Tax Credit.\n\n(a) An applicant shall not be entitled to the all veterans’ tax credit pursuant to RSA 72:28-b unless:\n\n(1) The applicant’s residential real estate is located in a municipality that has adopted the all veterans’ tax credit pursuant to RSA 72:27-a; and\n\n(2) The applicant is eligible for the all veterans’ tax credit pursuant to this part.\n\n(b) The all veterans’ tax credit shall be the amount of the standard or optional veterans’ tax credit in effect in the municipality, in accordance with Rev 403, subject to the phase-in permitted by RSA 72:28-b, II.\n\n(c) The all veterans’ tax credit shall be subtracted only from the property taxes due on an entitled applicant’s residential real estate.\n\nSource. #5911, eff 10-14-94; ss by #7410, eff 11-23-00; (See Revision Note at chapter heading for Rev 400) #9309, eff 10-30-08; ss by #12027, eff 10-28-16; amd by #12496, eff 3-21-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/715.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/715",
+  "definition": "Treatment Technique for Control of Disinfection Byproduct Precursors",
+  "effectiveDate": "2018-06-01",
+  "historyNote": "#9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 715.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 715.09 Treatment Technique for Control of Disinfection Byproduct Precursors",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 715.09 Treatment Technique for Control of Disinfection Byproduct Precursors. The O/O of a SW/GWUDISW system that is in one of the categories listed in Env-Dw 715.02 and that uses conventional filtration shall meet the requirements of 40 CFR § 141.135 relative to treatment techniques for control of disinfection byproduct precursors.\n\nSource. #9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

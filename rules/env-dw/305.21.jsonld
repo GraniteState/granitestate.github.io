@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/305.21",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/305",
+  "definition": "Wellhead Protection Area Refinement",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 305.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 305.21 Wellhead Protection Area Refinement",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 305.21 Wellhead Protection Area Refinement.\n\n(a) Subject to (b), below, the applicant shall refine the estimated wellhead protection area presented in the preliminary report using the method described in the preliminary report.\n\n(b) If the applicant wishes to change the refinement method described in the preliminary report, the applicant shall submit a written request to the department that includes a detailed description of the requested change and the reason(s) why the change is being requested.\n\n(c) The department shall approve a request to alter the refinement method if the method as proposed to be changed results in a wellhead protection area that is technically equal to, or more conservative than, the wellhead protection area that the original method would have produced.\n\nSource. (See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

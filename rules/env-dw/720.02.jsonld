@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/720.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(a)",
+        "(d)",
+        "(e)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:45",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/720",
+  "definition": "Sanitary Survey Field Inspections",
+  "effectiveDate": "2025-11-21",
+  "expirationDate": "2035-11-21",
+  "historyNote": "#9760, eff 7-30-10; ss by #10771, eff 2-1-15; ss by #14427, eff 11-21-25, EXPIRES 11-21-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 720.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 720.02 Sanitary Survey Field Inspections",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 720.02 Sanitary Survey Field Inspections.\n\n(a) Subject to (b), below, at least 24 hours in advance of a pending inspection the department shall notify:\n\n(1) The certified operator, for any system that has a certified operator; or\n\n(2) The owner of the system, for any system that does not have a certified operator.\n\n(b) The department shall not give advance notice if evidence indicates that a public health threat or other violation of Env-Dw 300 through Env-Dw 900 and Env-Dw 1200 exists.\n\n(c) The sanitary survey shall cover the following areas:\n\n(1) The system’s layout and general information, such as the number of persons served by the system and whether the system serves residential, commercial, or industrial users;\n\n(2) Water quality;\n\n(3) Monitoring, reporting, and data verification;\n\n(4) Sources of supply;\n\n(5) Storage facilities;\n\n(6) Treatment facilities;\n\n(7) Pumping facilities, including pumps, pump houses, and controls;\n\n(8) Distribution system;\n\n(9) System management and operation;\n\n(10) Technical, financial, and managerial capacity;\n\n(11) Owner and operator compliance with Env-Dw 300 through Env-Dw 900 and Env-Dw 1200;\n\n(12) Emergency preparedness planning;\n\n(13) Security; and\n\n(14) Any other aspect of the system that could influence the ability of the system to produce and distribute safe drinking water.\n\n(d) The minimum frequency of sanitary surveys shall be as shown in Table 720-1, below:\n\nTable 720-1: Frequency of Sanitary Surveys.\n\nType of System | Frequency of Sanitary Survey\n\nCommunity | 3 years\n\nNon-transient non-community | 3 years\n\nTransient non-community | 5 years\n\nSource. #9760, eff 7-30-10; ss by #10771, eff 2-1-15; ss by #14427, eff 11-21-25, EXPIRES 11-21-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/803.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/803",
+  "definition": "Public Notice of Significant Deficiencies That Have Not Been Corrected Within 12 Months",
+  "effectiveDate": "2025-11-21",
+  "expirationDate": "2035-11-21",
+  "historyNote": "#14428, eff 11-21-25, EXPIRES 11-21-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 803.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 803.04 Public Notice of Significant Deficiencies That Have Not Been Corrected Within 12 Months",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 803.04 Public Notice of Significant Deficiencies That Have Not Been Corrected Within 12 Months.\n\n(a) The O/O of an NCWS at which a significant deficiency, as specified in Env-Dw 720.03, has not been corrected within 12 months of being notified of the deficiency, has 30 days to notify persons served by the system of the deficiency.\n\n(b) The notice required by (a) above shall include the following:\n\n(1) The information specified in Env-Dw 801.03;\n\n(2) The nature of the significant deficiency and the date it was identified by the department; and\n\n(3) A description of the approved plan and schedule for correction of the significant deficiency, including interim measures, progress to date, and any interim measures completed.\n\n(c) Within 10 days of providing notice to its customers, the O/O of an NCWS shall submit the certification specified in Env-Dw 801.18 to the department.\n\n(d) The O/O of a PWS shall repeat the notice annually until the significant deficiency has been corrected.\n\n(e) The O/O of a CWS shall comply with this requirement pursuant to Env-Dw 720.15.\n\nSource. #14428, eff 11-21-25, EXPIRES 11-21-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

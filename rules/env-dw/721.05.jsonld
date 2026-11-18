@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/721.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:42",
+      "source": "https://granitestate.github.io/rsa/485/485-42",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/721",
+  "definition": "Content of Exemption Request",
+  "effectiveDate": "2014-06-01",
+  "historyNote": "#10617, eff 6-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 721.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 721.05 Content of Exemption Request",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 721.05 Content of Exemption Request. Any request for an exemption shall include the following information:\n\n(a) The name, location, and PWS identifier of the system for which the exemption is requested;\n\n(b) The nature and duration of exemption requested;\n\n(c) Relevant analytical results of water quality sampling of the system, including results of relevant tests conducted pursuant to the requirements of the drinking water rules;\n\n(d) An explanation of the basis for the request, as described in Env-Dw 721.03(a);\n\n(e) Any other information believed by the applicant to be pertinent to the application; and\n\n(f) A proposed compliance schedule that specifies the date when each step toward compliance will be achieved.\n\nSource. #10617, eff 6-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

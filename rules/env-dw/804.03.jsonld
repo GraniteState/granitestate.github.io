@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/804.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/804",
+  "definition": "Required Health Effects Language for Failure to Install Optimal Corrosion Control",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 804.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 804.03 Required Health Effects Language for Failure to Install Optimal Corrosion Control",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 804.03 Required Health Effects Language for Failure to Install Optimal Corrosion Control. The O/O shall use one or both of the following, as applicable, as the statement required by Env-Dw 801.03(a)(3) to describe the adverse health effects for violations of corrosion control treatment techniques required for lead, copper, or both specified in Env-Dw 714:\n\n(a) For the presence of lead:\n\n“Infants and children who drink water containing lead in excess of the action level could experience delays in their physical or mental development. Children could show slight deficits in attention span and learning abilities. Adults who drink this water over many years could develop kidney problems or high blood pressure.”\n\n(b) For the presence of copper:\n\n“Copper is an essential nutrient, but some people who drink water containing copper in excess of the action level over a relatively short amount of time could experience gastrointestinal distress. Some people who drink water containing copper in excess of the action level over many years could suffer liver or kidney damage. People with Wilson's Disease should consult with their personal doctor.”\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/701.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/701",
+  "definition": "Definitions Based on Federal Regulations",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#10617, eff 6-1-14; ss by #12664, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 701.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 701.04 Definitions Based on Federal Regulations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 701.04 Definitions Based on Federal Regulations.\n\n(a) The following terms used in this chapter shall be as defined in 40 CFR §141.2, reprinted in Appendix B:\n\n(1) “Compliance cycle”;\n\n(2) “Compliance period”;\n\n(3) “Corrosion inhibitor”;\n\n(4) “Domestic or other non-distribution system plumbing problem”;\n\n(5) “Dose equivalent”;\n\n(6) “Initial compliance period”;\n\n(7) “Lead service line”;\n\n(8) “Level 1 assessment”;\n\n(9) “Level 2 assessment”;\n\n(10) “Man-made beta particle and photon emitters”;\n\n(11) “Near the first service connection”;\n\n(12) “Point-of-entry treatment device”;\n\n(13) “Point-of-use treatment device”;\n\n(14) “Repeat compliance period”;\n\n(15) “Residual disinfectant concentration”; and\n\n(16) “Too numerous to count (TNTC)”.\n\n(b) Where 40 CFR 141 provisions are adopted by reference in this part, terms used in such provisions shall be as defined in 40 CFR 141.2, unless otherwise defined in this part.\n\n(c) All other terms shall be as defined in RSA 485 or Env-Dw 100.\n\nSource. #10617, eff 6-1-14; ss by #12664, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

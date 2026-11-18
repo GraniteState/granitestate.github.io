@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.21",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Detections of Arsenic, Nitrate, Lead, and Total Trihalomethanes",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #12420, eff 11-18-17; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.21 Detections of Arsenic, Nitrate, Lead, and Total Trihalomethanes",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.21 Detections of Arsenic, Nitrate, Lead, and Total Trihalomethanes.\n\n(a) The O/O of a CWS at which arsenic is detected above 0.005 mg/L but not exceeding the MCL specified in Env-Dw 704.02 shall include in the CCR the following:\n\n(1) The source information language for arsenic as specified in Env-Dw 811.22; and\n\n(2) Subject to (d), below, the following informational statement:\n\n“While your drinking water meets EPA's standard for arsenic, it does contain low levels of arsenic. EPA's standard balances the current understanding of arsenic's possible health effects against the costs of removing arsenic from drinking water. EPA continues to research the health effects of low levels of arsenic, which is a mineral known to cause cancer in humans at high concentrations and is linked to other health effects such as skin damage and circulatory problems.”\n\n(b) The O/O of a CWS at which nitrate is detected at levels above 5 mg/L, but below the MCL, shall include in the CCR:\n\n(1) The source information language for nitrate as specified in Env-Dw 811.22; and\n\n(2) Subject to (d), below, the following statement:\n\n“Nitrate in drinking water at levels above 10 ppm is a health risk for infants of less than six months of age. High nitrate levels in drinking water can cause blue baby syndrome. Nitrate levels may rise quickly for short periods of time because of rainfall or agricultural activity. If you are caring for an infant you should ask advice from your health care provider.”\n\n(c) The O/O of a CWS shall include in the CCR, subject to (d), below, the following statement:\n\n“If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. [Water system] is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 30 seconds to 2 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline at 800-426-4791 or at http://www.epa.gov/safewater/lead.”\n\n(d) A CWS O/O may use a system-specific informational statement in lieu of the statement required by (a)(2), (b)(2), or (c), above, provided the statement includes all of the information included in the specified statement and only after consultation with the department.\n\n(e) The O/O of a CWS at which TTHM is detected above 0.080 mg/L but below the MCL specified in Env-Dw 705.03, as an annual average monitored and calculated under the provisions of 40 CFR 141.30, shall include in the CCR the health effects language for TTHM as specified in Env-Dw 809.11.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #12420, eff 11-18-17; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

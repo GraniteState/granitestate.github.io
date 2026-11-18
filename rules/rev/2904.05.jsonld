@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2904.05",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:33",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2904",
+  "definition": "Electronic Signatures",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#9930, eff 5-26-11; ss by #10388, eff 7-25-13; amd by#12907, eff 10-23-19; ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2904.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2904.05 Electronic Signatures",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2904.05 Electronic Signatures.\n\n(a) “Electronic signature” means:\n\n(1) The name and taxpayer identification number of the taxpayer when transmitted as part of a tax form filed electronically either by the taxpayer or at the taxpayer’s direction, pursuant to Rev 2904.03; or\n\n(2) An electronic symbol or process attached to, or logically associated with, a document and executed or adopted by a person, or other signatory identified in Rev 2904.04(a)(1) – (10), with the intent to sign the document. This shall include, but not limited to, signatures processed through DocuSign or DotLoop.\n\n(b) “Electronic” means relating to technology having electrical, digital, wireless, or similar capabilities, including but not limited to the use of the Internet and the filing of tax forms by computer technology.\n\n(c) The use of an electronic signature pursuant to this rule shall have the same legal effect as a signature in blue or black ink, pursuant to Rev 2904.04(a), on a paper tax form.\n\n(d) An electronic signature shall be attributed to a taxpayer if the record or signature was the certified and declared act of the taxpayer or other signatory identified in Rev 2904.04(a)(1)-(10). A certified and declared act shall occur when the taxpayer or other signatory identified in Rev 2904.04(a)(1)-(10) certifies and declares that the electronic signature was actually signed by the taxpayer or other signatory identified in Rev 2904.04(a)(1)-(10) and that the electronic signature is valid.\n\n(e) The department shall reject any tax forms or documents submitted with an electronic signature in violation of this rule.\n\n(f) A tax form or document submitted to the department with an electronic signature shall be retained by the taxpayer in its original form in accordance with the time period for record retention provisions in Rev 2906.12.\n\nSource. #9930, eff 5-26-11; ss by #10388, eff 7-25-13; amd by#12907, eff 10-23-19; ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

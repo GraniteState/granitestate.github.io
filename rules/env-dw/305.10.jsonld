@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/305.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/305",
+  "definition": "Sanitary Protective Area",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 305.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 305.10 Sanitary Protective Area",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 305.10 Sanitary Protective Area.\n\n(a) The sanitary protective area shall be a circle, centered on the well, having a radius based on the permitted production volume of the well as set forth in Table 305-1:\n\nTable 305-1: Sanitary Protective Area Radii\n\nPermitted Production Volume (gallons in a 24-hour period) | Radius (feet)\n\nless than 14,400 | 150\n\n14,401 to 28,800 | 175\n\n28,801 to less than 57,600 | 200\n\n(b) When more than one well is within a sanitary protective area, the individual sanitary protective area for each well shall be based on the combined permitted production volume of all of the wells, unless the applicant proves by clear and convincing evidence that the wells are not hydraulically connected.\n\n(c) The department shall not approve the source unless the applicant owns the land within the sanitary protective area, provided however, that if the applicant does not own the land, the applicant shall control the land by perpetual easement, covenant, or similarly legally binding means.\n\n(d) If the well is approved, the sanitary protective area shall be maintained in a natural state at all times except for:\n\n(1) Limited land clearing and terrain alteration required for well access and construction of a pump house or other structure(s) associated with the well or water system; and\n\n(2) Activities necessary for the maintenance of the well that do not pose a contamination risk to groundwater.\n\n(e) No person shall discharge to the sanitary protective area any drainage from:\n\n(1) Any area where fertilizer or pesticides, or both, have been applied;\n\n(2) Any roadway, parking lot, or other area on which motor vehicles of any type travel or are parked; or\n\n(3) Any detention and retention pond, infiltration strip, drainage swale, or similar structure.\n\n(f) No underground utilities shall be installed in the sanitary protective area except for drinking water supply and electrical or communications conduits associated with the well or water system.\n\nSource. (See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

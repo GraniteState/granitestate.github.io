@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2905.02",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:33",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2905",
+  "definition": "Form DP 2210/2220, Exceptions and Penalty for the Underpayment of Estimated Tax",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2905.03); ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2905.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2905.02 Form DP 2210/2220, Exceptions and Penalty for the Underpayment of Estimated Tax",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2905.02 Form DP 2210/2220, Exceptions and Penalty for the Underpayment of Estimated Tax.\n\n(a) Form DP 2210/2220, exceptions and penalties for the underpayment of estimated tax shall be completed and filed by taxpayers who have underpaid estimated taxes due to determine the penalty, or the application of the exceptions.\n\n(b) Form DP 2210/2220 shall be attached to the tax return if there is an underpayment of estimated taxes.\n\nSource. #8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2905.03); ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

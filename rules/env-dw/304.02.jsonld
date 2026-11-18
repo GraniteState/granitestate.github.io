@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Definitions",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.02 Definitions.\n\n(a) “Approved source” means a source of water that is either:\n\n(1) A community water system (CWS) source approved by the department pursuant to Env-Dw 302, Env-Dw 305, or predecessor rules in Env-Ws 300 that is in compliance with those requirements;\n\n(2) A bottled water source approved by the department pursuant to Env-Dw 303 or predecessor rules in Env-Ws 300 that is in compliance with those requirements;\n\n(3) A CWS source or bottled water source approved by another state acting under the authority of the U.S. Environmental Protection Agency that is in compliance with those requirements; or\n\n(4) A source approved pursuant to Env-Dw 304.03(b).\n\n(b) “Bulk water” means water that is delivered to a PWS in discrete loads using a tanker truck.\n\n(c) “Bulk water provider” means the person who is responsible for providing bulk water to a PWS.\n\n(d) “Fill pipe” means the connection to the distribution system of a PWS through which bulk water is provided.\n\n(e) “Finished water” means water that has been treated as required by RSA 485 and the rules in subtitle Env-Dw, such that it is in compliance with the standards specified in Env-Dw 700.\n\n(f) “Tanker truck” means a motorized vehicle comprising a power unit and a tank with hoses, pumps, and other associated equipment needed to transfer the contents of the tank.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

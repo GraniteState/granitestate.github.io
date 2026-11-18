@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/5004.13",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "161:4",
+      "paragraphs": [
+        "VI(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/161/161-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:4-d",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-4-d",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/161/161-4",
+    "https://granitestate.github.io/rsa/167/167-4-d"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/5004",
+  "definition": "Payment for Services",
+  "effectiveDate": "2023-05-26",
+  "historyNote": "#13651, eff 5-26-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 5004.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c5000.html",
+  "prefLabel": "He-C 5004.13 Payment for Services",
+  "recordType": "rule-section",
+  "ruleText": "He-C 5004.13 Payment for Services.\n\n(a) Payment to medical providers, described in He-C 5004.03 above, shall be made in accordance with rates established by the department in accordance with RSA 161:4, VI(a).\n\n(b) Services delivered via telehealth shall be reimbursed pursuant to RSA 167:4-d III(b) and (c).\n\n(c) Medical providers shall use appropriate CPT procedure codes and modifiers when billing.\n\n(d) Dental providers shall use CDT procedure codes when billing.\n\n(e) All claims for payment shall be submitted to the department’s fiscal agent.\n\n(f) All providers shall maintain supporting records in accordance with He-W 520.\n\n(g) All providers shall be responsible for determining that the recipient is Title XIX eligible on the date of service.\n\n(h) Payment for store and forward and remote patient monitoring shall only be available as funding and resources within the current state fiscal year are available.\n\nSource. #13651, eff 5-26-23\n\nPARTS He-C 5005 through He-C 5009 - RESERVED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c5000.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2501.13",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2501",
+  "definition": "Taxpayer",
+  "effectiveDate": "2023-08-18",
+  "historyNote": "#6639, eff 11-27-97, EXPIRED 11-27-05 New. #8495, eff 11-30-05; ss by #10484, eff 12-5-13 (from Rev 2501.13); ss by #13724, eff 8-18-23 (formerly Rev 2501.14) (see Revision Note at chapter heading for Rev 2500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2501.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html",
+  "prefLabel": "Rev 2501.13 Taxpayer",
+  "priorExpiration": "2005-11-27",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2501.13 “Taxpayer” means any person, entity, or association who uses the department’s electronic funds transfer system.\n\nSource. #6639, eff 11-27-97, EXPIRED 11-27-05\n\nNew. #8495, eff 11-30-05; ss by #10484, eff 12-5-13 (from Rev 2501.13); ss by #13724, eff 8-18-23 (formerly Rev 2501.14) (see Revision Note at chapter heading for Rev 2500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html"
+}

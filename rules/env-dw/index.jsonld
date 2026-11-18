@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "definition": "Drinking Water Programs",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/100",
+    "https://granitestate.github.io/rules/env-dw/200",
+    "https://granitestate.github.io/rules/env-dw/300",
+    "https://granitestate.github.io/rules/env-dw/400",
+    "https://granitestate.github.io/rules/env-dw/500",
+    "https://granitestate.github.io/rules/env-dw/600",
+    "https://granitestate.github.io/rules/env-dw/700",
+    "https://granitestate.github.io/rules/env-dw/800",
+    "https://granitestate.github.io/rules/env-dw/900",
+    "https://granitestate.github.io/rules/env-dw/1000",
+    "https://granitestate.github.io/rules/env-dw/1100",
+    "https://granitestate.github.io/rules/env-dw/1200",
+    "https://granitestate.github.io/rules/env-dw/1300",
+    "https://granitestate.github.io/rules/env-dw/1400",
+    "https://granitestate.github.io/rules/env-dw/1500"
+  ],
+  "notation": "Env-Dw",
+  "prefLabel": "Env-Dw Drinking Water Programs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

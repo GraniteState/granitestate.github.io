@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/201.13",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-A:5",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-A/126-A-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/201",
+  "definition": "Applicability in Certain Hearings",
+  "effectiveDate": "2007-04-13",
+  "historyNote": "#8866-A, eff 4-13-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 201.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html",
+  "prefLabel": "He-C 201.13 Applicability in Certain Hearings",
+  "recordType": "rule-section",
+  "ruleText": "He-C 201.13 Applicability in Certain Hearings.\n\n(a) References to the department in He-C 200 shall include the department’s contract service providers when they are participating in appeal proceedings affecting any individual applying for or receiving services, as described in RSA 126-A:5, III.\n\n(b) This section shall not be interpreted to apply in any proceeding under He-C 200 where such contract service provider is involved as a party or intervenor adverse to the department.\n\nSource. #8866-A, eff 4-13-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c200.html"
+}

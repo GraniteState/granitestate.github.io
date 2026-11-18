@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2902.07",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2902",
+  "definition": "Return",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#8389, eff 7-8-05; ss by #10388, eff 7-25-13, renumbered by #10885 (from Rev 2902.06); ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2902.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2902.07 Return",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2902.07 “Return” means a department approved paper tax form or a department authorized electronic filing that provides sufficient information to calculate tax liability and meets the requirements of Rev 2904.08.\n\nSource. #8389, eff 7-8-05; ss by #10388, eff 7-25-13, renumbered by #10885 (from Rev 2902.06); ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

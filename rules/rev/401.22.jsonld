@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/401.22",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Property Tax Exemption",
+  "authority": [
+    {
+      "citation": "21:6",
+      "source": "https://granitestate.github.io/rsa/21/21-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21/21-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/401",
+  "definition": "Property tax exemption",
+  "effectiveDate": "2016-10-28",
+  "historyNote": "#12027, eff 10-28-16; renumbered by #12925 (formerly Rev 401.21)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 401.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 401.22 Property tax exemption",
+  "recordType": "rule-section",
+  "ruleText": "Rev 401.22 “Property tax exemption” means “exemption” as defined in RSA 72:29, namely “the amount of money to be deducted from the assessed valuation, for property tax purposes, of real property.” The term includes “exemption.”\n\nSource. #12027, eff 10-28-16; renumbered by #12925 (formerly Rev 401.21)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

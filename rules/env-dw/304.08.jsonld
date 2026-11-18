@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Notification",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.08 Notification",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.08 Notification.\n\n(a) The certified operator representing the PWS shall notify the department in accordance with (b) and (c), below, no later than 2 business days after any bulk water is delivered to customers.\n\n(b) The notice provided pursuant to (a), above, shall contain the following information:\n\n(1) The name and PWS identifier;\n\n(2) The name of the city or town in which the PWS is located;\n\n(3) The date and time of each bulk water delivery;\n\n(4) The name and certification number of the certified operator accepting delivery of the bulk water on behalf of the PWS;\n\n(5) The reason(s) for delivery;\n\n(6) The source of the water delivered;\n\n(7) The total amount of water delivered;\n\n(8) The name and contact information of the person providing the bulk water;\n\n(9) The name and contact information of the individual driver delivering the bulk water;\n\n(10) The type of truck used to transport the water;\n\n(11) The type of connections used to transfer the water;\n\n(12) What measures were taken to avoid contamination during transfer;\n\n(13) Location of the physical connection of the fill pipe to the PWS distribution system;\n\n(14) The analytical results for the bulk water provided pursuant to Env-Dw 304.07(b);\n\n(15) Description of tank inspections and cleaning and disinfection methods used; and\n\n(16) If applicable, the reason(s) why the PWS might need additional deliveries.\n\n(c) The individual who completes the notice required by (a) and (b), above, shall sign and date the notice.\n\n(d) Community water systems shall notify customers of any bulk water delivered in the consumer confidence report prepared pursuant to Env-Dw 811.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

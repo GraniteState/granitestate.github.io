@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/801.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/801",
+  "definition": "Consultation for Acute Public Notice Violations or Situations",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 801.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 801.06 Consultation for Acute Public Notice Violations or Situations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 801.06 Consultation for Acute Public Notice Violations or Situations.\n\n(a) The consultation between the department and the O/O required by Env-Dw 801.04(c)(2) shall be to determine:\n\n(1) The degree of risk to public health from the violation or situation;\n\n(2) Whether additional public notice will be required to be given by the O/O; and\n\n(3) If additional public notice is required, the parameters for such notice, including timing, form, manner and frequency of distribution, and content.\n\n(b) The determinations in (a), above, shall be based on:\n\n(1) The nature of the specific violation or situation, including whether it exists throughout the entire PWS or is confined to only a portion of the PWS;\n\n(2) When the violation or situation first occurred and how long it has been on-going;\n\n(3) The severity of the violation or situation; and\n\n(4) The potential health risk posed by the violation or situation.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/715",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/700",
+  "definition": "DISINFECTION RESIDUALS, BYPRODUCTS, AND BYPRODUCT PRECURSORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/715.01",
+    "https://granitestate.github.io/rules/env-dw/715.02",
+    "https://granitestate.github.io/rules/env-dw/715.03",
+    "https://granitestate.github.io/rules/env-dw/715.04",
+    "https://granitestate.github.io/rules/env-dw/715.05",
+    "https://granitestate.github.io/rules/env-dw/715.06",
+    "https://granitestate.github.io/rules/env-dw/715.07",
+    "https://granitestate.github.io/rules/env-dw/715.08",
+    "https://granitestate.github.io/rules/env-dw/715.09",
+    "https://granitestate.github.io/rules/env-dw/715.10"
+  ],
+  "notation": "Env-Dw 715",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 715 DISINFECTION RESIDUALS, BYPRODUCTS, AND BYPRODUCT PRECURSORS",
+  "recordType": "rule-part",
+  "ruleText": "Part Env-Dw 715 in Document #9619, upon the repeal of the former rules in Part Env-Ws 382, replaced all prior filings for the former rules. The prior filings for the former rules Env-Ws 382 include the following documents:\n\n#7735, eff 8-2-02\n\n#8351, eff 5-14-05\n\nDocument #9620, effective 1-1-10, adopted rules in a new Part Env-Dw 716, which was intended to replace the former rules in Part Env-Ws 380. Document #9732, effective 6-24-10, subsequently repealed the former rules Env-Ws 380.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

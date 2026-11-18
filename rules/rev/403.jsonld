@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/403",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:28",
+      "source": "https://granitestate.github.io/rsa/72/72-28",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:29",
+      "source": "https://granitestate.github.io/rsa/72/72-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:31",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:32",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-28",
+    "https://granitestate.github.io/rsa/72/72-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/400",
+  "definition": "VETERANS’ TAX CREDIT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/403.01",
+    "https://granitestate.github.io/rules/rev/403.02",
+    "https://granitestate.github.io/rules/rev/403.03",
+    "https://granitestate.github.io/rules/rev/403.04"
+  ],
+  "notation": "Rev 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 403 VETERANS’ TAX CREDIT",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 403 VETERANS’ TAX CREDIT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Source Water; Bulk Water Deliveries",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.06 Source Water; Bulk Water Deliveries",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.06 Source Water; Bulk Water Deliveries.\n\n(a) In the CCR, the CWS O/O shall identify the source of the system’s water by:\n\n(1) The type of water, such as surface water or groundwater or a combination of both;\n\n(2) The commonly used name, if any, of each source; and\n\n(3) If surface water, the location of the body or bodies of water.\n\n(b) If a CWS O/O has received a source water assessment from the department, the CCR shall:\n\n(1) Include either:\n\na. A brief summary of the CWS’s susceptibility to potential sources of contamination, using language written by the department contained in the source water assessment; or\n\nb. A brief summary of the CWS’s susceptibility to potential sources of contamination written by the O/O; and\n\n(2) Inform customers of the availability of the assessment and how to obtain it.\n\n(c) If bulk water was delivered to the CWS during the period covered by the CCR, the CWS O/O shall include the following information regarding each delivery in the CCR:\n\n(1) The date of delivery;\n\n(2) The reason(s) for delivery;\n\n(3) The source of the water delivered; and\n\n(4) The total amount of water delivered.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

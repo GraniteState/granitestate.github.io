@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/602.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/602",
+  "definition": "Description of Technical Capacity",
+  "effectiveDate": "2016-07-26",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Dw 600) #11143, eff 7-26-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 602.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw600.html",
+  "prefLabel": "Env-Dw 602.04 Description of Technical Capacity",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 602.04 Description of Technical Capacity. The description of the supplier of water’s technical capacity required by Env-Dw 602.03(a)(2) shall include:\n\n(a) A general technical design description including all major water system components, including sources, treatment, storage, piping, number of service connections, estimated population to be served, and average and maximum daily domestic and exterior water uses;\n\n(b) An asset inventory, ranked based on each component’s impact on system operations and a priority ranking for replacement; and\n\n(c) A schedule of the useful life of all water system components, average life expectancies and current retail replacement costs, based on Table 602-1, below, unless the supplier of water provides an alternative schedule and justification:\n\nTable 602-1: Anticipated Life Expectancies\n\nComponent | Anticipated Life Expectancy\n\nControl building/Pump house | 40 years\n\nAboveground Storage tanks | 50 years\n\nUnderground storage tanks | 30 years\n\nPumping and control equipment | 10 years\n\nDistribution system | 50 years\n\nWells | 25 years\n\nWater treatment equipment | 10 years\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Dw 600) #11143, eff 7-26-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw600.html"
+}

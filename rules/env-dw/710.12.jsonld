@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/710.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/710",
+  "definition": "Sampling Protocol and Laboratory Analytical Methods",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 710.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 710.12 Sampling Protocol and Laboratory Analytical Methods",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 710.12 Sampling Protocol and Laboratory Analytical Methods.\n\n(a) The sampling protocol for alpha and beta radionuclides shall be those set forth in 40 CFR 141, 142, or 143, as applicable.\n\n(b) Detection limits for radionuclides shall be those set forth in Table 710-2, below:\n\nTable 710-2: Detection Limits for Radionuclides\n\nContaminant | Detection Limit\n\nAnalytical Gross Alpha | 3 pCi/L\n\nCesium-134 | 10 pCi/L\n\nCompliance Gross Alpha | 3 pCi/L\n\nGross Beta | 4 pCi/L\n\nIodine-131 | 1 pCi/L\n\nRadium-226 | 1 pCi/L\n\nRadium-228 | 1 pCi/L\n\nStrontium-89 | 10 pCi/L\n\nStrontium-90 | 2 pCi/L\n\nTritium | 1,000 pCi/L\n\nUranium | 1 μg/L\n\nOther radionuclides | 1/10 of the applicable limit\n\nSource. #9700, eff 5-1-10; ss by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

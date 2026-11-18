@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/801.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/801",
+  "definition": "Elements of a Public Notice",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 801.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 801.03 Elements of a Public Notice",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 801.03 Elements of a Public Notice. Unless otherwise specified in Env-Dw 802 or Env-Dw 803, public notice shall:\n\n(a) For each violation or situation for which notice is being given:\n\n(1) Describe the violation or situation, including identifying each contaminant of concern and the corresponding contaminant level;\n\n(2) Identify the compliance period, including year, when the violation or situation occurred;\n\n(3) Describe any potential adverse health effects from the violation or situation using the applicable health effects language for that contaminant as specified in Env-Dw 804 through Env-Dw 810; and\n\n(4) Identify the population(s) at risk, including each subpopulation that is particularly vulnerable if exposed to the contaminant in the drinking water;\n\n(b) Advise whether alternative water supplies should be used;\n\n(c) Identify what actions a consumer should take, including when to seek medical help, if known and applicable;\n\n(d) Describe actions the O/O is taking to correct the violation(s) or situation(s);\n\n(e) Identify when the O/O is expected to return to compliance or otherwise resolve the situation(s);\n\n(f) Provide the name, business address, and telephone number of the PWS owner, certified operator, or designee as a source of additional information concerning the notice;\n\n(g) Include the following statement:\n\n“Please share this information with all the other people who drink this water, especially those who may not have received this notice directly (for example, people in apartments, nursing homes, schools and businesses). You can do this by posting this notice in a public place or distributing copies by hand or by mail.”; and\n\n(h) Include the following statement, including the information necessary to fill in the blanks, if the public notice is issued for a monitoring and reporting or monitoring and testing procedure violation as set forth in Env-Dw 707 through Env-Dw 713:\n\n“We are required to monitor your drinking water for specific contaminants on a regular basis. Results of regular monitoring are an indicator of whether or not your drinking water meets health standards. During [compliance period], we ‘did not monitor or test’ or ‘did not complete all monitoring or testing’ for [contaminants(s)], and therefore cannot be sure of the quality of your drinking water during that time.”.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

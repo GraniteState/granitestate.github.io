@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/405.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/405",
+  "definition": "Calculation of Peak Flow for CWSs",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "#14158, eff 12-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 405.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html",
+  "prefLabel": "Env-Dw 405.12 Calculation of Peak Flow for CWSs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 405.12 Calculation of Peak Flow for CWSs. Peak flow shall be calculated as design flow times the multiplier in Table 405-1 with the number of residential-equivalent units being calculated in accordance with Env-Dw 405.06(a)(9)a.:\n\nTable 405-1: Peak Flow\n\nNumber of Residential Service Connections or Residential-Equivalent Units | Peaking Factor (Peak Flow / Design Flow)\n\nLess than 50 | 10\n\n50 to 99 | 9\n\n100 to 149 | 7\n\n150 to 199 | 5\n\nGreater than 200 | 4\n\nSource. #14158, eff 12-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html"
+}

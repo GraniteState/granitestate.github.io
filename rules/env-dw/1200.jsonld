@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1200",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw",
+  "definition": "PRIVATELY OWNED REDISTRIBUTION SYSTEMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/1201",
+    "https://granitestate.github.io/rules/env-dw/1202",
+    "https://granitestate.github.io/rules/env-dw/1203",
+    "https://granitestate.github.io/rules/env-dw/1204",
+    "https://granitestate.github.io/rules/env-dw/1205",
+    "https://granitestate.github.io/rules/env-dw/1206",
+    "https://granitestate.github.io/rules/env-dw/1207",
+    "https://granitestate.github.io/rules/env-dw/1208",
+    "https://granitestate.github.io/rules/env-dw/1209",
+    "https://granitestate.github.io/rules/env-dw/1210"
+  ],
+  "notation": "Env-Dw 1200",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html",
+  "prefLabel": "Env-Dw 1200 PRIVATELY OWNED REDISTRIBUTION SYSTEMS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Dw 1200 PRIVATELY OWNED REDISTRIBUTION SYSTEMS\n\nStatutory Authority: RSA 485:41, IX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html"
+}

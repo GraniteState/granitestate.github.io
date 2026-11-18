@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2906.08",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:33",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2906",
+  "definition": "Business Process Information",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2906.07); ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2906.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2906.08 Business Process Information",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2906.08 Business Process Information.\n\n(a) The taxpayer shall provide a description of the business process that created the retained records upon the request of the department.\n\n(b) The business process description shall include the relationship between:\n\n(1) The records and the tax documents prepared by the taxpayer; and\n\n(2) The measures employed to ensure the integrity of the records.\n\n(c) The taxpayer shall be capable of demonstrating:\n\n(1) The functions being performed as they relate to the flow of data through the system;\n\n(2) The internal controls used to ensure accurate and reliable processing; and\n\n(3) The internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.\n\nSource. #8389, eff 7-8-05; ss by #10388, eff 7-25-13 (from Rev 2906.07); ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

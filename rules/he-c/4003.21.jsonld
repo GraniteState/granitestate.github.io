@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.21",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Water Testing and Treatment",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Sleeping Areas",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.21 Sleeping Areas",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.21 Sleeping Areas.\n\n(a) Each permanent building in which individuals sleep shall demonstrate compliance with applicable provisions of the state life safety code through an inspection undertaken pursuant to He-C 4003.29.\n\n(b) Sleeping areas in buildings shall meet the following criteria:\n\n(1) Sleeping units shall be arranged to provide a minimum floor area ratio of 40 square feet per single bunk and 60 square feet per double bunk;\n\n(2) Suitable protection shall be provided against insects;\n\n(3) A distance of at least 6 feet shall be provided between the heads of sleepers; and\n\n(4) A distance of at least 30 inches shall be provided between the sides of 2 adjacent beds.\n\n(c) The number of campers in a tent shall not exceed the manufacturer’s rating for the tent.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/723.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/723",
+  "definition": "Use of Non-Central Treatment",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#10618, eff 6-1-14, EXPIRED 6-1-24 New. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 723.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 723.01 Use of Non-Central Treatment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 723.01 Use of Non-Central Treatment.\n\n(a) Subject to (b), below, non-central treatment by point-of-entry (POE) or point-of-use (POU) devices shall be used by a public water system (PWS) to achieve compliance with the MCL requirements specified in Env-Dw 701 through Env-Dw 705 only where:\n\n(1) Alternate water sources are not feasible;\n\n(2) Centralized treatment is not feasible;\n\n(3) The PWS is not a new community water system; and\n\n(4) The devices are not for the treatment of the following contaminants:\n\na. Volatile contaminants;\n\nb. Contaminants that cause staining or pipe deposits such as iron, manganese, and hardness; or\n\nc. Acute contaminants such as bacteria, nitrate, or nitrite.\n\n(b) Non-central treatment by POE devices shall be allowed only if treatment using POU devices is not feasible.\n\n(c) The practice of re-chlorinating water or otherwise enhancing a centralized treatment in a distribution system prior to the water being further distributed to multiple service connections shall not be considered non-central treatment that is subject to this part.\n\nSource. #10618, eff 6-1-14, EXPIRED 6-1-24\n\nNew. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

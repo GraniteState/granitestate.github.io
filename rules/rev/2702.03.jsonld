@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2702.03",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "84-C:3",
+      "source": "https://granitestate.github.io/rsa/84-C/84-C-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "84-C:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/84-C/84-C-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "84-C:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/84-C/84-C-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/84-C/84-C-3",
+    "https://granitestate.github.io/rsa/84-C/84-C-5",
+    "https://granitestate.github.io/rsa/84-C/84-C-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2702",
+  "definition": "Payment of the Assessment",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#8371, eff 6-8-05; ss by #10387, eff 7-25-13; ss by #12907, eff 10-23-19; ss by #13661, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2702.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2700.html",
+  "prefLabel": "Rev 2702.03 Payment of the Assessment",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2702.03 Payment of the Assessment.\n\n(a) All nursing facilities shall remit payments pursuant to RSA 84-C:3 and RSA 84-C:5 by electronic funds transfer, as defined in Rev 2501.09.\n\n(b) Pursuant to RSA 84-C:5, I, if a nursing facility is unable to remit payment by electronic funds transfer and the nursing facility has already filed Form DP-156, “Nursing Facility Quality Assessment Return,” the nursing facility shall remit payment by check.\n\n(c) Pursuant to RSA 84-C:5, I, if a nursing facility is unable to remit payment by electronic funds transfer and the nursing facility has not yet filed Form DP-156, the nursing facility shall complete and file Form DP-156 in accordance with Rev 2702.02, accompanied by payment of the tax due.\n\n(d) Payments which are not made by the statutory due date shall be subject to the interest and penalty provisions of RSA 21-J.\n\nSource. #8371, eff 6-8-05; ss by #10387, eff 7-25-13; ss by #12907, eff 10-23-19; ss by #13661, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2700.html"
+}

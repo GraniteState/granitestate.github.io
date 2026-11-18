@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2803.03",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "74:18",
+      "source": "https://granitestate.github.io/rsa/74/74-18",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/74/74-18"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2803",
+  "definition": "Equalization Ratio",
+  "effectiveDate": "2022-11-15",
+  "historyNote": "#8258, eff 1-15-05; ss by #10277, eff 2-22-13; amd by #10815, eff 4-22-15; ss by #13488, eff 11-15-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2803.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2800.html",
+  "prefLabel": "Rev 2803.03 Equalization Ratio",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2803.03 Equalization Ratio.\n\n(a) The department shall use the weighted mean ratio to adjust a municipality’s modified assessed valuation.\n\n(b) The department shall use the weighted mean ratio calculated to one tenth of one percent.\n\n(c) If the weighted mean ratio does not accurately represent a municipality’s level of assessment, the department shall determine an alternate ratio in accordance with the manual.\n\n(d) The criteria for an alternate ratio in (c) above shall be:\n\n(1) The sample of sales does not contain the minimum of 20 valid sales;\n\n(2) An unexplained increase or decrease in the ratio that is more than 10% different than the increases or decreases of the ratios in any of the surrounding municipalities;\n\n(3) An unexplained increase or decrease in the ratio that is more than 10% different than the increases or decreases of the ratios in any other municipalities within the same cooperative or regional school district;\n\n(4) Supplemental data and information provided by the municipality shows that the sample of sales of properties is generally not reflective of the property comprising the municipality’s valuation base;\n\n(5) Data and information provided by the municipality shows the weighted mean ratio is unduly affected by multi-modal assessments in the municipality;\n\n(6) A municipality requests, prior to the calculation of the total equalized valuation, separate assessment ratios by stratum provided that the strata:\n\na. Contain at least 20 valid sales; and\n\nb. Have a confidence interval, calculated with a 90% confidence level, that is wholly outside the confidence level of other strata;\n\n(7) For (5) and (6) above, the municipality shall have provided accurate assessed value information consistent with the strata category used for the application of separate assessment ratios; and\n\n(8) In applying the separate ratios, a single, weighted overall ratio for the municipality shall be based upon the separate ratios and the total assessed valuation of each strata to adjust:\n\na. Payments-in-lieu-of taxes, including renewable generation facility property subject to a payment in lieu of taxes agreement under RSA 72:74.\n\nb. Railroad tax monies;\n\nc. Shared revenues;\n\nd. Current use values for a municipality’s equalization ratio; and\n\ne Compute the municipality’s total equalized evaluation, where applicable.\n\nSource. #8258, eff 1-15-05; ss by #10277, eff 2-22-13; amd by #10815, eff 4-22-15; ss by #13488, eff 11-15-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2800.html"
+}

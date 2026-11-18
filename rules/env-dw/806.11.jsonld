@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/806.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/806",
+  "definition": "Fluoride SMCL",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 806.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 806.11 Fluoride SMCL",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 806.11 Fluoride SMCL. For an exceedance of the secondary MCL for fluoride specified in Env-Dw 706.01(b), the statement shall read as follows:\n\n“This is an alert about your drinking water and a cosmetic dental problem that might affect children under 9 years of age. At low levels, fluoride can help prevent cavities, but children drinking water more than 2 milligrams per liter (mg/l) of fluoride may develop cosmetic discoloration of their permanent teeth (dental fluorosis). The drinking water provided by your community water system [name] has a fluoride concentration of [insert value] mg/l.\n\nDental fluorosis, in its moderate or severe forms, may result in brown staining and or pitting of the permanent teeth. This problem occurs only in developing teeth, before they erupt from the gums. Children under nine should be provided with alternative sources of drinking water or water that has been treated to remove the fluoride to avoid the possibility of staining and pitting of their permanent teeth. You may also want to contact your dentist about proper use by young children of fluoride-containing products. Older children and adults may safely drink the water.\n\nDrinking water containing more than 4 mg/l of fluoride (the U.S. Environmental Protection Agency's drinking water standard) can increase your risk of developing bone disease. Your drinking water does not contain more than 4 mg/l of fluoride, but we are required to notify you when we discover that fluoride levels in your drinking water exceed 2 mg/l because of this cosmetic dental problem.\n\nFor more information, please call [name of water system contact] of [name of community water system] at [telephone number]. Some home water treatment units are also available to remove fluoride from drinking water. To learn more about available home water treatment units, you may call NSF International at 1-877-8-NSF-HELP.\n\nPlease share this information with all the other people who have children who drink this water, especially those who may not have received this notice directly (for example, people in apartments, schools, and daycares). You can do this by posting this notice in a public place or distributing copies by hand or mail.”\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

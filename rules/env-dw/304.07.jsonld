@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Delivery",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.07 Delivery",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.07 Delivery.\n\n(a) A certified water system operator representing the PWS receiving bulk water shall be present at the time of delivery.\n\n(b) Prior to allowing delivery of bulk water into the PWS, the certified operator representing the PWS receiving the bulk water shall measure the free chlorine residual in the bulk water being delivered to ensure that a concentration between 0.2 mg/l and 4.0 mg/l is present in the bulk water.\n\n(c) If the free chlorine residual is not between 0.2 mg/l and 4.0 mg/l, the certified operator representing the PWS receiving the bulk water shall add the appropriate amount of sodium hypochlorite to make the concentration of free chlorine residual in the bulk water delivered to the PWS greater than 0.2 mg/l and less than 4.0 mg/l.\n\n(d) All bulk water deliveries shall be transferred from a bulk water truck to a water storage tank. Water shall not be delivered directly into a well under any circumstances.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}
