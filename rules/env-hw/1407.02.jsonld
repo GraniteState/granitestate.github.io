@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Requirements for Used Oil Transporters",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.02 Requirements for Used Oil Transporters",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.02 Requirements for Used Oil Transporters. Used oil transporters shall comply with the requirements of Env-Hw 1405 and, as applicable:\n\n(a) Env-Hw 1407.03 through Env-Hw 1407.09;\n\n(b) Env-Hw 602, Env-Hw 609, and Env-Hw 610 for hazardous waste transporter registration and notification;\n\n(c) Env-Hw 603.02, Env-Hw 603.03, Env-Hw 603.05, Env-Hw 603.07, and Env-Hw 603.08 for vehicle identification, security, and safety;\n\n(d) US DOT regulations in 49 CFR parts 171 through 180;\n\n(e) Rules adopted by the New Hampshire department of safety;\n\n(f) Env-Hw 1406 for generating used oil;\n\n(g) Env-Hw 1408 for processing or re-refining used oil, except as provided under Env-Hw 1407.03;\n\n(h) Env-Hw 1409 for burning used oil for energy recovery; and\n\n(i) Env-Hw 1410 for acting as a used oil fuel marketer.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

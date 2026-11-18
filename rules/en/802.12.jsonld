@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/802.12",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "362:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "III(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:48",
+      "paragraphs": [
+        "IV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-48",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-2",
+    "https://granitestate.github.io/rsa/362/362-7",
+    "https://granitestate.github.io/rsa/374/374-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/802",
+  "definition": "Operator",
+  "effectiveDate": "2024-08-21",
+  "historyNote": "#14062, eff 8-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 802.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en800.html",
+  "prefLabel": "En 802.12 Operator",
+  "recordType": "rule-section",
+  "ruleText": "En 802.12 \"Operator\" means \"operator\" as defined in RSA 374:48, IV-a, namely, \"any public utility as defined in RSA 362:2 or RSA 362:4, any cable television system as defined in RSA 53-C:1, and any liquefied petroleum gas company operating any jurisdictional facility or facilities as defined by the Natural Gas Pipeline Safety Act (49 U.S.C. chapter 601) that owns or operates underground facilities.\" This term also includes any rural electric cooperative for which a certificate of deregulation is on file with the commission pursuant to RSA 362:2, II, and any provider of voice over internet protocol service as defined in RSA 362:7, I(d) or IP-enabled service as defined in RSA 362:7, I(e).\n\nSource. #14062, eff 8-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en800.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1008.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1008",
+  "definition": "Screens Failure",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1008.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1008.05 Screens Failure",
+  "recordType": "rule-section",
+  "ruleText": "En 1008.05 Screens Failure. Despite the failure of one or more screens, the utility, at its sole discretion, shall approve the interconnection provided such approval is consistent with safety and reliability. The utility shall provide the applicant with the screen results in the event of failure of any screens identifying which of the specific screens the application failed, the technical reason for failure, and the specific system threshold or limitation causing the application to fail the screen. The utility shall provide the applicant with the option to either undergo supplemental review, in accordance with En 1009, or proceed under the standard process beginning with the SIS pursuant to En 1011.06. Upon receipt of the screening results, the applicant shall notify the utility of its selection within 10 business days or the application shall be deemed withdrawn.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

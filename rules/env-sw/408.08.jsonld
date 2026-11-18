@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/408.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Food Waste Drop-Off Facilities",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/408",
+  "definition": "Food Waste-Drop-Off Facilities",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "#13358, eff 4-1-22; ss by #14093, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 408.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw400.html",
+  "prefLabel": "Env-Sw 408.08 Food Waste-Drop-Off Facilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 408.08 Food Waste-Drop-Off Facilities. Subject to Env-Sw 408.02, no permit shall be required for collection, storage, and transfer of source-separated food waste, provided that:\n\n(a) The facility stores no more than one cubic yard, or 200 gallons, at any time;\n\n(b) Food waste is stored in closed containers designed to prevent the dispersal of odors, release of leachate, and attraction of birds, insects, rodents, and other vectors;\n\n(c) Waste collection and storage areas are inspected at least once daily during the facility’s routine operating hours;\n\n(d) Food waste is stored no longer than 7 days from date of receipt; and\n\n(e) Food waste is transferred to an authorized facility for processing or disposal.\n\nSource. #13358, eff 4-1-22; ss by #14093, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw400.html"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1400",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw",
+  "definition": "FINANCIAL ASSURANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1401",
+    "https://granitestate.github.io/rules/env-sw/1402",
+    "https://granitestate.github.io/rules/env-sw/1403",
+    "https://granitestate.github.io/rules/env-sw/1404",
+    "https://granitestate.github.io/rules/env-sw/1405",
+    "https://granitestate.github.io/rules/env-sw/1406"
+  ],
+  "notation": "Env-Sw 1400",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1400 FINANCIAL ASSURANCE",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Sw 1400 FINANCIAL ASSURANCE\n\nStatutory Authority: RSA 149-M:7, RSA 149-M:9\n\nRevision Note:\n\nDocument #8459, effective 10-28-05, readopted with amendments, renumbered, and redesignated former Chapter Env-Wm 3100 as Env-Sw 1400, pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. The source notes for each section of Env-Sw 1400 identify the former subtitle Env-Wm and number for the respective rule prior to Document #8459.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

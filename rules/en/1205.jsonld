@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1205",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "363-B",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1200",
+  "definition": "MEDICAL EMERGENCY RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/en/1205.01",
+    "https://granitestate.github.io/rules/en/1205.02",
+    "https://granitestate.github.io/rules/en/1205.03",
+    "https://granitestate.github.io/rules/en/1205.04",
+    "https://granitestate.github.io/rules/en/1205.05",
+    "https://granitestate.github.io/rules/en/1205.06"
+  ],
+  "notation": "En 1205",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1200.html",
+  "prefLabel": "En 1205 MEDICAL EMERGENCY RULES",
+  "recordType": "rule-part",
+  "ruleText": "PART En 1205 MEDICAL EMERGENCY RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1200.html"
+}

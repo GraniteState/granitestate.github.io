@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.07",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Testing Facilities and Equipment, Portable Indicating Standards",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.07 Testing Facilities and Equipment, Portable Indicating Standards",
+  "recordType": "rule-section",
+  "ruleText": "En 305.07 Testing Facilities and Equipment, Portable Indicating Standards.\n\n(a) Every utility shall have available reference indicating electrical instruments of suitable range for checking working instruments.\n\n(b) Each utility shall check reference indicating instruments required by (a) above at least once each year in an independent standards laboratory.\n\n(c) Each utility shall not use the reference indicating instruments required by (a) above in the field as working instruments.\n\n(d) Each utility shall have calibration cards accompany each instrument required by (a) above which note the corrections to be applied at the various parts of the working scale.\n\n(e) Each utility shall have available the types and quantities of working instruments necessary to determine compliance with these rules for:\n\n(1) Recording and indicating customer voltage; and\n\n(2) Testing any other electrical quantities which may be necessary to comply with the measurement and reporting requirements of this chapter.\n\n(f) Each utility shall check the working instruments required by (e) with the reference instruments at least once each year.\n\n(g) If reference instruments are not available within the utility, the utility shall have field instruments checked in an independent standards laboratory meeting specifications recommended by the meter manufacturer in intervals not to exceed one year.\n\n(h) A utility may certify its reference indicating standards in a standards laboratory which it maintains provided that the instruments and methods meet specifications recommended by the meter manufacturer.\n\n(i) Pursuant to RSA 365:6, each utility shall, upon request, provide the department access to its meter testing facilities and any and all meter test results.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

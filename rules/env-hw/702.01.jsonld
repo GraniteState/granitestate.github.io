@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/702.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/702",
+  "definition": "Notification",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 702.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html",
+  "prefLabel": "Env-Hw 702.01 Notification",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 702.01 Notification.\n\n(a) An operator of a facility shall notify the department prior to conducting any hazardous waste activities that are subject to the hazardous waste rules.\n\n(b) An operator of an existing facility shall notify the department within 30 days of the effective date of any statutory or regulatory amendment that requires the facility to have a hazardous waste permit.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html"
+}

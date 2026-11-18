@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/810.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/810",
+  "definition": "Leachfield Repair Residuals Landfills",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; ss by #8459, eff 10-28-05 (formerly Env-Wm 2510.05); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 810.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 810.05 Leachfield Repair Residuals Landfills",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 810.05 Leachfield Repair Residuals Landfills. Subject to Env-Sw 810.03, no permit shall be required to bury waste soil and stone from the repair or replacement of existing leaching fields regulated under Env-Wq 1000, provided that:\n\n(a) The burial location shall be on the same property as the waste generation site;\n\n(b) The buried waste shall be placed at least 4 feet above the seasonal high water table and bedrock; and\n\n(c) The burial location shall meet the minimum separation distances for leach bed trenches required in Env-Wq 1008.\n\nSource. #6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; ss by #8459, eff 10-28-05 (formerly Env-Wm 2510.05); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

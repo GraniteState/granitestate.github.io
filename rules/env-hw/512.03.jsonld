@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/512.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:8",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:11",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-8",
+    "https://granitestate.github.io/rsa/147-B/147-B-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/512",
+  "definition": "Export and Import Recordkeeping and Reporting",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 512.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 512.03 Export and Import Recordkeeping and Reporting",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 512.03 Export and Import Recordkeeping and Reporting.\n\n(a) An exporter shall:\n\n(1) Meet the recordkeeping requirements of 40 CFR 262.83(i);\n\n(2) File an annual report with the administrator of EPA, by March 1 of each year, that is based on exports made during the previous calendar year, as specified in 40 CFR 262.83(g); and\n\n(3) In lieu of the requirements of 40 CFR 262.42, if applicable, meet the exception reporting requirements of 40 CFR 262.83(h).\n\n(b) An importer shall meet the recordkeeping requirements of 40 CFR 262.84(h).\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

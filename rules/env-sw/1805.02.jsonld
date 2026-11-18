@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1805.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:32",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1805",
+  "definition": "Certificate of Compliance Contents",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.02); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1805.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html",
+  "prefLabel": "Env-Sw 1805.02 Certificate of Compliance Contents",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1805.02 Certificate of Compliance Contents.\n\n(a) All certificates of compliance for package or packaging components shall be completed by the manufacturer or supplier and included in the shipment of the package or packaging component to the purchaser.\n\n(b) Each certificate of compliance shall include the following:\n\n(1) Type of package or packaging component;\n\n(2) Company name;\n\n(3) Company address;\n\n(4) Name, signature, and title of authorized official;\n\n(5) Name and position of the individual who can answer questions regarding the composition of the package or packaging component;\n\n(6) Date the certificate of compliance is completed;\n\n(7) Either a statement that there has been no intentional introduction of the identified heavy metals in the package or packaging component, or, for a package or packaging component for which an exemption has been granted under RSA 149-M:35, a statement identifying the applicable exemption which allows the intentional introduction; and\n\n(8) Either a statement that the total concentration of any incidental amounts of the identified heavy metals in the package or packaging component does not exceed the limit established in RSA 149-M:34 or, for a package or packaging component for which an exemption has been granted under RSA 149-M:35, a statement identifying the applicable exemption allowing the exceedance of the limits.\n\nSource. #7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.02); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html"
+}

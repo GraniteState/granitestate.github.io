@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1018",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1000",
+  "definition": "MISCELLANEOUS REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/en/1018.01",
+    "https://granitestate.github.io/rules/en/1018.02",
+    "https://granitestate.github.io/rules/en/1018.03",
+    "https://granitestate.github.io/rules/en/1018.04",
+    "https://granitestate.github.io/rules/en/1018.05",
+    "https://granitestate.github.io/rules/en/1018.06",
+    "https://granitestate.github.io/rules/en/1018.07",
+    "https://granitestate.github.io/rules/en/1018.08",
+    "https://granitestate.github.io/rules/en/1018.09",
+    "https://granitestate.github.io/rules/en/1018.10",
+    "https://granitestate.github.io/rules/en/1018.11",
+    "https://granitestate.github.io/rules/en/1018.12",
+    "https://granitestate.github.io/rules/en/1018.13",
+    "https://granitestate.github.io/rules/en/1018.14",
+    "https://granitestate.github.io/rules/en/1018.15"
+  ],
+  "notation": "En 1018",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1018 MISCELLANEOUS REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART En 1018 MISCELLANEOUS REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1007.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1007",
+  "definition": "Approval",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1007.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1007.06 Approval",
+  "recordType": "rule-section",
+  "ruleText": "En 1007.06 Approval.\n\n(a) If the application passes the screens, the application shall be approved, and the utility shall provide the applicant with a written notice of approval to install within 15 business days of deeming the application complete.\n\n(b) If the facility requires no system modifications to the EDS, the utility shall provide the applicant with PTO following receipt of certificate of completion and closing paperwork pursuant to En 1004.\n\n(c) If the facility requires any EDS modifications, the utility shall provide written conditional approval to interconnect, along with an itemized, non-binding good faith cost estimate and construction schedule for such upgrades, to the applicant within 15 business days of providing the screening results.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

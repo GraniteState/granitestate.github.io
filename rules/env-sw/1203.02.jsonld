@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1203.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1203",
+  "definition": "Additional Location Restrictions for Landfills",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2903.02); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html",
+  "prefLabel": "Env-Sw 1203.02 Additional Location Restrictions for Landfills",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1203.02 Additional Location Restrictions for Landfills.\n\n(a) A permit-by-notification landfill shall not be sited less than 75 feet to surface water or wetlands.\n\n(b) A permit-by-notification landfill shall be located to provide at least 4 feet of vertical separation between the base of the disposal area and the seasonal high groundwater table.\n\n(c) A permit-by-notification landfill shall be located to provide at least 4 feet of vertical separation between the base of the disposal area and bedrock.\n\n(d) A permit-by-notification landfill shall not be sited less than 50 feet from the footprint of any landfill which is not yet capped.\n\n(e) A permit-by-notification landfill having an active life longer than 90 days shall be sited on publicly owned land only.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2903.02); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/512.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:8",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:11",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-8",
+    "https://granitestate.github.io/rsa/147-B/147-B-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/512",
+  "definition": "Biennial Reporting",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#10205, eff 10-19-12; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 512.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 512.04 Biennial Reporting",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 512.04 Biennial Reporting. On even-numbered years, a generator that is subject to the biennial reporting requirements in 40 CFR 262.41 shall complete and submit a biennial report to EPA by March 1 of that year.\n\nSource. #10205, eff 10-19-12; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

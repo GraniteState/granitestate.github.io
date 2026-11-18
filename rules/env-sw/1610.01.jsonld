@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1610.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1610",
+  "definition": "Issuance of Certificates",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "#10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1610.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1610.01 Issuance of Certificates",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1610.01 Issuance of Certificates. The department shall issue:\n\n(a) An assistant operator certificate to each individual who takes basic training but does not take or does not pass the examination;\n\n(b) A principal operator certificate to each individual who takes basic training and passes the examination; and\n\n(c) A renewal certificate to each operator who renews their certification in accordance with Env-Sw 1611.\n\nSource. #10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/310.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/310",
+  "definition": "Applicability",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 310.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 310.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 310.01 Applicability. The rules in this part shall apply to persons filing applications for permits, permit modifications, waivers, registrations, and applications to certify for distribution and use of a waste-derived product or wood ash.\n\nSource. (See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

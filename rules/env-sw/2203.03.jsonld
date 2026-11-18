@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2203.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-R:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-R:6",
+      "paragraphs": [
+        "II",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-R/149-R-4",
+    "https://granitestate.github.io/rsa/149-R/149-R-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2203",
+  "definition": "Requests for Reimbursement",
+  "effectiveDate": "2026-07-01",
+  "expirationDate": "2036-07-01",
+  "historyNote": "#14422, INTERIM, eff 1-1-26; ss by #14633, eff 7-1-26, EXPIRES: 7-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 2203.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html",
+  "prefLabel": "Env-Sw 2203.03 Requests for Reimbursement",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 2203.03 Requests for Reimbursement.\n\n(a) A municipality may request reimbursement from the fund of the surcharge the municipality paid to dispose of solid waste at a disposal facility.\n\n(b) A municipality may submit a request for reimbursement to the department at least 90 days but within one year of the end of the calendar quarter in which the municipality paid the surcharge.\n\n(c) The reimbursement amount shall not exceed the amount of the surcharge paid by the municipality.\n\n(d) A municipality seeking reimbursement shall:\n\n(1) Complete and submit form NHDES-S-05-033, “Request for Reimbursement of Solid Waste Disposal Surcharge Paid by Municipality”, effective July 2026 available at: https://onlineforms.nh.gov/?FormTag=NHDES-S-05-033, for each calendar quarter the municipality paid the surcharge; and\n\na. Certify that the information provided in the request for reimbursement is true, complete, and not misleading to the best of their knowledge and belief; and\n\nb. Certify that the person completing the form has been duly authorized by the municipality to make these declarations; and\n\n(2) Submit copies of solid waste invoices, documenting the amount of solid waste disposed, in tons, and demonstrating the surcharge paid during the calendar quarter.\n\n(e) If the department denies a reimbursement request or approves a reimbursement request for less than the requested amount, the municipality may resubmit the reimbursement request with additional information, for reconsideration, including an explanation of the basis of the resubmittal.\n\nSource. #14422, INTERIM, eff 1-1-26; ss by #14633, eff 7-1-26, EXPIRES: 7-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html"
+}

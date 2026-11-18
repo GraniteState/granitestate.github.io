@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/302.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VIII",
+        "IX",
+        "IX-a",
+        "XXV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/302",
+  "definition": "National Pollutant Discharge Elimination System (NPDES)",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 302.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html",
+  "prefLabel": "Env-Hw 302.06 National Pollutant Discharge Elimination System (NPDES)",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 302.06 “National Pollutant Discharge Elimination System (NPDES)” means the national permit program for imposing and enforcing pretreatment requirements pursuant to §§307, 318, 402 and 405 of the Clean Water Act, as amended, 33 U.S.C. §§1251 et seq.\n\nSource. (See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html"
+}

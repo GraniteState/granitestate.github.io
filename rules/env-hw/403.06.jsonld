@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/403.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "II",
+        "IV",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/403",
+  "definition": "Toxicity Characteristic",
+  "effectiveDate": "2026-02-28",
+  "expirationDate": "2036-02-28",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6384-B, eff 11-26-96; ss by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12346, eff 8-14-17; ss by #14524, eff 2-28-26, EXPIRES: 2-28-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 403.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw400.html",
+  "prefLabel": "Env-Hw 403.06 Toxicity Characteristic",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 403.06 Toxicity Characteristic.\n\n(a) A waste shall be considered to exhibit the characteristic of toxicity if, using the toxicity characteristic leaching procedure, test method 1311 in EPA publication SW-846, as specified in Env-Hw 104 and available as noted in Appendix B, the extract from a representative sample of the waste contains any of the contaminants listed in (d), below, at a concentration equal to or greater than the respective value in that table.\n\n(b) Where the waste contains less than 0.5 percent filterable solids, the waste, by itself, after filtering, shall be considered to be the extract.\n\n(c) A waste that exhibits the characteristic of toxicity shall be assigned the EPA hazardous waste numbers specified in (d), below, which correspond to the toxic contaminants causing it to be hazardous.\n\n(d) Contaminants, EPA hazardous waste numbers, and maximum allowable concentrations shall be as listed in Table 4.9 below:\n\nTable 4.9 Maximum Concentration of Contaminants for the Toxicity Characteristic\n\nEPA Hazardous Waste Number | Contaminant | Chemical Abstract Number | Regulatory Level (milligrams per liter)\n\nD004 | Arsenic | 7440-38-2 | 5.0\n\nD005 | Barium | 7440-39-3 | 100.0\n\nD018 | Benzene | 71-43-2 | 0.5\n\nD006 | Cadmium | 7440-43-9 | 1.0\n\nD019 | Carbon tetrachloride | 56-23-5 | 0.5\n\nD020 | Chlordane | 57-74-9 | 0.03\n\nD021 | Chlorobenzene | 108-90-7 | 100.0\n\nD022 | Chloroform | 67-66-3 | 6.0\n\nD007 | Chromium | 7440-47-3 | 5.0\n\nD023 | o-Cresol | 95-48-7 | 200.0\n\nD024 | m-Cresol | 108-39-4 | 200.0\n\nD025 | p-Cresol | 106-44-5 | 200.0\n\nD026 | Cresol | ............ | 200.0\n\nD016 | 2,4-D | 94-75-7 | 10.0\n\nD027 | 1,4-Dichlorobenzene | 106-46-7 | 7.5\n\nD028 | 1,2-Dichloroethane | 107-06-2 | 0.5\n\nD029 | 1,1-Dichloroethylene | 75-35-4 | 0.7\n\nD030 | 2,4-Dinitrotoluene | 121-14-2 | 0.13\n\nD012 | Endrin | 72-20-8 | 0.02\n\nD031 | Heptachlor (and its epoxide) | 76-44-8 | 0.008\n\nD032 | Hexachlorobenzene | 118-74-1 | 0.13\n\nD033 | Hexachlorobutadiene | 87-68-3 | 0.5\n\nD034 | Hexachloroethane | 67-72-1 | 3.0\n\nD008 | Lead | 7439-92-1 | 5.0\n\nD013 | Lindane | 58-89-9 | 0.4\n\nD009 | Mercury | 7439-97-6 | 0.2\n\nD014 | Methoxychlor | 72-43-5 | 10.0\n\nD035 | Methyl ethyl ketone | 78-93-3 | 200.0\n\nD036 | Nitrobenzene | 98-95-3 | 2.0\n\nD037 | Pentachlorophenol | 87-86-5 | 100.0\n\nD038 | Pyridine | 110-86-1 | 5.0\n\nD010 | Selenium | 7782-49-2 | 1.0\n\nD011 | Silver | 7440-22-4 | 5.0\n\nD039 | Tetrachloroethylene | 127-18-4 | 0.7\n\nD015 | Toxaphene | 8001-35-2 | 0.5\n\nD040 | Trichloroethylene | 79-01-6 | 0.5\n\nD041 | 2,4,5-Trichlorophenol | 95-95-4 | 400.0\n\nD042 | 2,4,6-Trichlorophenol | 88-06-2 | 2.0\n\nD017 | 2,4,5-TP (Silvex) | 93-72-1 | 1.0\n\nD043 | Vinyl chloride | 75-01-4 | 0.2\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6384-B, eff 11-26-96; ss by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12346, eff 8-14-17; ss by #14524, eff 2-28-26, EXPIRES: 2-28-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw400.html"
+}

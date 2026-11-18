@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/402.10",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Excepted Local Exchange Carrier (ELEC)",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/402",
+  "definition": "Excepted local exchange carrier (ELEC)",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 402.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 402.10 Excepted local exchange carrier (ELEC)",
+  "recordType": "rule-section",
+  "ruleText": "En 402.10 “Excepted local exchange carrier (ELEC)” means:\n\n(a) An incumbent local exchange carrier providing telephone services to 25,000 or more lines;\n\n(b) An incumbent local exchange carrier providing service to less than 25,000 lines that has elected to be excepted by filing with the commission a written notice advising of said election prior to July 1, 2021; or\n\n(c) Any provider of telecommunications services that is not an incumbent local exchange carrier, including CLECs, CTPs, and PSPs.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1006.02",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1006",
+  "definition": "Pre-Application Report",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1006.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1006.02 Pre-Application Report",
+  "recordType": "rule-section",
+  "ruleText": "En 1006.02 Pre-Application Report.\n\n(a) Within 10 business days of receipt of a completed pre-application report request, the utility shall provide a pre-application report to the applicant. The pre-application report shall include the following information, if available:\n\n(1) Circuit voltage at the substation;\n\n(2) Circuit name;\n\n(3) Circuit voltage at the proposed facility;\n\n(4) Substation name;\n\n(5) Substation transformer rating;\n\n(6) Whether or not 3-phase power is available at the site or distance from 3-phase service;\n\n(7) Aggregate existing export capacity (MW) interconnected to the substation, area bus, transformer bank, and distribution circuit expected to serve proposed site;\n\n(8) Aggregate queued export capacity (MW) proposing to interconnect to the substation, area bus, transformer bank, and distribution circuit expected to serve proposed site;\n\n(9) Whether zero sequence voltage (3V0) protection is deployed or scheduled for deployment on the circuit or substation;\n\n(10) Whether the proposed facility is located on an area, spot, or radial network;\n\n(11) Identification of feeders within 1/4 mile of the proposed interconnection site through a snapshot of geographic information system (GIS) map or other means;\n\n(12) For the nearest available feeder, the circuit rating and approximate circuit length from the proposed facility to the substation;\n\n(13) Whether an ASO has informed the utility that an ASO study is required, or the utility is aware of an ongoing ASO study for the proposed facility interconnection location;\n\n(14) Total capacity (MW) of substation, area bus, transformer bank, and distribution circuit expected to serve proposed site, based on the thermal ratings of the utility’s electric delivery system;\n\n(15) Available capacity (MW) of substation, area bus, transformer bank, and distribution circuit expected to serve proposed site, based on the thermal ratings of the utility’s EDS. Available capacity is the total capacity less the sum of existing and queued export capacity, accounting for all load served by existing and queued facilities;\n\n(16) Relevant line section(s) and substation actual or estimated peak load and minimum load data;\n\n(17) Number and rating of protective devices and number and type of voltage regulating devices between the proposed site and the substation or area bus;\n\n(18) Limiting conductor rating from proposed POI to distribution substation;\n\n(19) Based on proposed POI, existing or known constraints such as, but not limited to, electrical dependencies at that location, short circuit interrupting capacity issues, power quality or stability issues on the circuit, capacity constraints, or secondary networks; and\n\n(20) Any other information the utility deems relevant to the applicant.\n\n(b) The pre-application report shall include language to inform the applicant that:\n\n(1) The existence of available capacity in no way implies that an interconnection up to this level may be completed without impacts because there are many variables studied as part of the interconnection review process;\n\n(2) The utility EDS is dynamic and subject to change; and\n\n(3) Data provided in the pre-application report might become outdated and not useful at the time of submission of the complete application.\n\n(c) The pre-application report shall only include pre-existing data. A pre-application report request shall not obligate the utility to conduct a study or other analysis of the proposed project if data is not available. If the utility cannot complete all or some of a pre-application report due to lack of available data, the utility shall provide the potential applicant with a pre-application report that includes the information that is available and identify the information that is unavailable.\n\n(d) Notwithstanding any of the provisions of this section, the utility shall provide pre-application report data that represents the best available information at the time of submission.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

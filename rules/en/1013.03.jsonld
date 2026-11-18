@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1013.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1013",
+  "definition": "Acceptable Methods",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1013.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1013.03 Acceptable Methods",
+  "recordType": "rule-section",
+  "ruleText": "En 1013.03 Acceptable Methods. Acceptable methods of export limitation or import limitation shall include:\n\n(a) Limitation methods for non-exporting facilities as follows:\n\n(1) For reverse power protection (Device 32R), to limit export of power across the PCC, a reverse power protective function shall be implemented using a utility-grade protective relay. The default setting for this protective function shall be 0.1 percent (export) of the service transformer’s nominal base nameplate rating, with a maximum 2.0 second time delay to limit inadvertent export;\n\n(2) For minimum power protection (Device 32F), to limit import or export of power across the PCC, a minimum import protective function shall be implemented using a utility-grade protective relay. The default setting for this protective function shall be 5 percent (import) of the facility’s total nameplate rating, with a maximum 2.0 second time delay to limit inadvertent export; and\n\n(3) For the relative distributed energy resource rating option, the facility’s nameplate rating shall be sufficiently small relative to the host facility’s minimum load such that no additional protective functions are required to prevent export to the electric delivery system. To qualify, the facility’s nameplate rating shall not exceed 50 percent of the applicant’s verifiable minimum host load over the preceding 12 months. This option is not permitted for interconnections to area networks or spot networks;\n\n(b) Limitation methods for limited-export or limited-import facilities as follows:\n\n(1) For directional power protection (Device 32), to limit export or import of power across the PCC, a directional power protective function shall be implemented using a utility-grade protective relay. The default setting for this protective function shall be the export/import capacity value, with a maximum 2.0 second time delay to limit inadvertent export/import; and\n\n(2) For configured power rating, a reduced output rating utilizing the power rating configuration setting may be used to ensure the facility does not generate power beyond a certain value lower than the nameplate rating. The configuration setting corresponds to the active or apparent power ratings in Table 28 of IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018, as available in Appendix B. A local facility communication interface is not required to utilize the configuration setting as long as it can be set by other certified means. The reduced power rating may be indicated by means of a nameplate rating replacement, or a supplemental adhesive de-rating tag to indicate the reduced power rating. This method shall be certified in accordance with IEEE Std 1547.1™-2020, “IEEE Standard Conformance Test Procedures for Equipment Interconnecting Distributed Energy Resources with Electric Power Systems and Associated Interfaces” dated 5/21/2020 as available in Appendix B. Use of a configured power rating not applied to individual generator(s) shall require evaluation under mutually agreed upon means; and\n\n(c) Limitation methods for non-exporting facilities, limited-export facilities, non-importing facilities, or limited-import facilities as follows:\n\n(1) For certified power control systems, a facility may use certified PCSs to limit export or import. A facility utilizing this option shall use a PCS and an inverter certified per UL 1741, “Standard for Inverters, Converters, Controllers with Interconnection System Equipment for Use with Distributed Energy Resources” dated 4/22/2025 as available in Appendix B, by a NRTL with a maximum open loop response time of no more than 30 seconds to limit inadvertent export or inadvertent import. This option shall not be available for interconnections to area networks or spot networks; and\n\n(2) For agreed-upon means, a facility may be designed with other control systems or protective functions to limit export, inadvertent export, import, or inadvertent import if mutual agreement is reached with the utility. The limits may be based on technical limitations of the interconnection customer’s equipment or the electric delivery system equipment. To ensure inadvertent export or inadvertent import remains within mutually agreed-upon limits, the interconnection customer may use an uncertified power control system, an internal transfer relay, energy management system, or other customer facility hardware or software if approved by the utility.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

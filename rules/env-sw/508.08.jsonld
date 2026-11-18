@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/508.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/508",
+  "definition": "Certified Testing Laboratories",
+  "effectiveDate": "2024-08-01",
+  "historyNote": "#6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2202.08); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 508.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html",
+  "prefLabel": "Env-Sw 508.08 Certified Testing Laboratories",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 508.08 Certified Testing Laboratories. Subject to Env-Sw 508.02, no permit shall be required to collect, store, and test samples of waste at certified laboratories, provided that:\n\n(a) The sample size is no greater than that which is necessary to successfully complete the required test procedure(s); and\n\n(b) All samples and residual sample materials are disposed in accordance with applicable statutes and rules, including but not necessarily limited to:\n\n(1) RSA 149-M and the solid waste rules, if a solid waste and disposed in New Hampshire; and\n\n(2) RSA 147-A and the hazardous waste rules, if a hazardous waste.\n\nSource. #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2202.08); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24\n\nAppendix",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html"
+}

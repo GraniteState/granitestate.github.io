@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1002.09",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:2",
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9",
+    "https://granitestate.github.io/rsa/374-F/374-F-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1002",
+  "definition": "Certified",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1002.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1002.09 Certified",
+  "recordType": "rule-section",
+  "ruleText": "En 1002.09 “Certified” means a piece of equipment has been tested in accordance with the applicable requirements of IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018 and IEEE Std 1547.1™-2020, “IEEE Standard Conformance Test Procedures for Equipment Interconnecting Distributed Energy Resources with Electric Power Systems and Associated Interfaces” dated 5/21/2020, by any nationally recognized testing laboratory (NRTL) recognized by the United States Occupational Safety and Health Administration to test and certify equipment pursuant to the applicable standard and the equipment has been labeled and is publicly listed by such NRTL at the time of the interconnection application. Compliance with Supplement SB found in UL 1741 “Inverters, Converters, Controllers and Interconnection System Equipment for Use with Distributed Energy Resources” dated 4/22/2025 ensures compliance with IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018 and IEEE Std 1547.1™-2020, “IEEE Standard Conformance Test Procedures for Equipment Interconnecting Distributed Energy Resources with Electric Power Systems and Associated Interfaces” dated 5/21/2020. There might be additional or separate certifications available for specific pieces of equipment.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

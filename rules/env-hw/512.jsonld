@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/512",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:8",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:11",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-8",
+    "https://granitestate.github.io/rsa/147-B/147-B-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/500",
+  "definition": "RECORDKEEPING AND REPORTING REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/512.01",
+    "https://granitestate.github.io/rules/env-hw/512.02",
+    "https://granitestate.github.io/rules/env-hw/512.03",
+    "https://granitestate.github.io/rules/env-hw/512.04",
+    "https://granitestate.github.io/rules/env-hw/512.05"
+  ],
+  "notation": "Env-Hw 512",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 512 RECORDKEEPING AND REPORTING REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 512 RECORDKEEPING AND REPORTING REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

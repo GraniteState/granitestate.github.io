@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/103.45",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Liquid Waste",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/103",
+  "definition": "Liquid waste",
+  "effectiveDate": "2024-10-23",
+  "historyNote": "#14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 103.45",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html",
+  "prefLabel": "Env-Sw 103.45 Liquid waste",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 103.45 “Liquid waste” means any waste that is determined to contain “free liquids” as defined by Method 9095B (Paint Filter Liquids Test), included in “Test Methods for Evaluating Solid Waste, Physical/Chemical Methods” (EPA Publication SW–846), Third Edition, November 1986, as amended through Update VII, dated July 30, 2021, available as noted in Appendix B.\n\nSource. #14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/103.31",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Designated Facility",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/103",
+  "definition": "Designated facility",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17 (formerly Env-Hw 103.30)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 103.31",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 103.31 Designated facility",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 103.31 “Designated facility” means:\n\n(a) A hazardous waste treatment, storage, or disposal facility that has:\n\n(1) Received a permit or interim status in accordance with Env-Hw 304 or 40 CFR Part 270 and 124, or is regulated under Env-Hw 802.01(c) or (d); and\n\n(2) Been designated by a generator on a manifest as the place to which the hazardous waste covered by the manifest is to be delivered;\n\n(b) A generator site designated on a manifest to receive waste as a return shipment from a facility that has rejected the waste in accordance with Env-Hw 704; or\n\n(c) If the waste is to be brought to another state, a facility allowed by the receiving state to accept such waste.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17 (formerly Env-Hw 103.30)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

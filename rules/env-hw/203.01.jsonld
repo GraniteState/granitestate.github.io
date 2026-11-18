@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/203.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/203",
+  "definition": "Purpose",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html",
+  "prefLabel": "Env-Hw 203.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 203.01 Purpose. The purpose of this part is to provide a mechanism by which persons submitting information to the department can protect trade secrets.\n\nSource. #9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html"
+}

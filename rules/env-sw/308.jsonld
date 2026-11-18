@@ -1,0 +1,70 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/308",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:59",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-59",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:60",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-60",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/149-M/149-M-59",
+    "https://granitestate.github.io/rsa/149-M/149-M-60"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/300",
+  "definition": "SOLID WASTE GENERAL PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/308.01",
+    "https://granitestate.github.io/rules/env-sw/308.02",
+    "https://granitestate.github.io/rules/env-sw/308.03",
+    "https://granitestate.github.io/rules/env-sw/308.04",
+    "https://granitestate.github.io/rules/env-sw/308.05",
+    "https://granitestate.github.io/rules/env-sw/308.06",
+    "https://granitestate.github.io/rules/env-sw/308.07",
+    "https://granitestate.github.io/rules/env-sw/308.08",
+    "https://granitestate.github.io/rules/env-sw/308.09",
+    "https://granitestate.github.io/rules/env-sw/308.10",
+    "https://granitestate.github.io/rules/env-sw/308.11",
+    "https://granitestate.github.io/rules/env-sw/308.12",
+    "https://granitestate.github.io/rules/env-sw/308.13",
+    "https://granitestate.github.io/rules/env-sw/308.14",
+    "https://granitestate.github.io/rules/env-sw/308.15",
+    "https://granitestate.github.io/rules/env-sw/308.16"
+  ],
+  "notation": "Env-Sw 308",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 308 SOLID WASTE GENERAL PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 308 SOLID WASTE GENERAL PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

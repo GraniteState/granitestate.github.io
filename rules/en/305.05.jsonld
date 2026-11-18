@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Customer’s Bill Adjustments",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.05 Customer’s Bill Adjustments",
+  "recordType": "rule-section",
+  "ruleText": "En 305.05 Customer’s Bill Adjustments.\n\n(a) In meter tests made by the utility pursuant to En 305.04, the utility and the department shall judge the correctness of registration of the meter and its performance in service by its average error.\n\n(b) A utility and the department shall determine average error for purposes of meter tests as follows:\n\n(1) If the meter is used to measure a load which is constant, such as a street lighting load or a display sign load, the meter shall be tested at the constant load;\n\n(2) The error of a meter used to measure a constant load shall be accepted as the average meter error;\n\n(3) If the meter is used on a varying load, the average error shall be:\n\na. The weighted average of its error at light load with a weighting of 1.0; and\n\nb. The weighted average of its error at full load with a weighting of 4.0; and\n\n(4) Any adjustment of charges which is made in accordance with this section shall be based on the average error as determined by this paragraph.\n\n(c) Whenever, as the result of a test made by the utility, a watt-hour meter is found to have an average error greater than 2%, the company shall, except to the extent provided in (d) below, refund to the customer an amount equal to the charge for the excess kilowatt-hours billed for a period:\n\n(1) Equal to 1/2 the time elapsed since the last test; or\n\n(2) If the time when the error first developed or occurred can be definitely fixed, then from that point.\n\n(d) The calculation for a bill adjustment in (c) above shall not consider any period during which:\n\n(1) The customer did not receive service at that location; or\n\n(2) The customer was purposefully diverting electricity or tampering with the metering installation.\n\n(e) Whenever, as the result of a test made by the utility, a watt-hour meter is found to have an average error greater than 2%, the company may bill the customer for the unbilled kilowatt-hours supplied for the shorter of the following periods:\n\n(1) The previous 6 months of active usage; or\n\n(2) The period since the last test.\n\n(f) When a customer is charged pursuant to (e) above, the utility shall allow the customer to request a payment plan, and regardless of the customer’s financial circumstances, such payment plan shall not be less than the period of time over which the unbilled kilowatt-hours accrued unless agreed to by the utility and the customer.\n\n(g) If a meter is either not registering or partially registering the electricity delivered to the customer, the utility shall base the bill for the period of non-registration or partial registration upon:\n\n(1) Information recorded by a meter properly registering usage at that location prior or subsequent to the period of non-registration or partial registration; and\n\n(2) Any other pertinent information supplied by the customer or known to the utility.\n\n(h) When calculating the difference between the billed and estimated amounts resulting from the non-registration or partial registration, the utility shall not bill the customer for more than 6 months of partial or non-registration unless the customer was purposely diverting electricity or tampering with the metering installation.\n\n(i) The utility shall provide each customer receiving a refund pursuant to (c) above or being charged pursuant to (e) above with a clear explanation of how such refund or charges were calculated.\n\n(j) If a meter is determined to have been assigned to the wrong customer and a customer has been billed based on usage recorded on a meter connected to residential or commercial space not occupied by that customer, the utility shall correct the billing to affected customers as follows:\n\n(1) For customers who have been under billed, invoices for the billing difference shall cover the customer’s period of occupancy or 6 months, whichever is shorter; and\n\n(2) For customers who have been overbilled, refunds of the billing difference shall cover the period of occupancy or 24 months, whichever is shorter.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

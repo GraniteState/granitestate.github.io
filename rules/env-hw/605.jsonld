@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/605",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/600",
+  "definition": "RECEIPT OF LIQUID HAZARDOUS WASTE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/605.01"
+  ],
+  "notation": "Env-Hw 605",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html",
+  "prefLabel": "Env-Hw 605 RECEIPT OF LIQUID HAZARDOUS WASTE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 605 RECEIPT OF LIQUID HAZARDOUS WASTE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html"
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/303.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VIII",
+        "IX",
+        "IX-a",
+        "XI",
+        "XXV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/303",
+  "definition": "Requirement to Obtain a Permit",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html",
+  "prefLabel": "Env-Hw 303.01 Requirement to Obtain a Permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 303.01 Requirement to Obtain a Permit.\n\n(a) No person shall construct, modify or operate a facility without first obtaining a permit from the department or without qualifying for and maintaining interim status.\n\n(b) An operator of an existing facility that files an interim status application with the department and otherwise qualifies for interim status in accordance with Env-Hw 304.02 may operate without a standard permit or transfer facility permit until the department makes a final determination on its standard permit or transfer facility permit application. An interim status facility shall comply with all requirements established by Env-Hw 304.02 in order to maintain interim status and shall submit an application for a standard permit or transfer facility permit in a timely fashion as required by Env-Hw 304.10(b).\n\n(c) Unless exempted by Env-Hw 303.02, the operator of a new facility shall obtain a standard permit in accordance with all requirements of Env-Hw 304 before construction or operation of the facility begins.\n\n(d) The operator of a facility, including a generator, who operates an elementary neutralization unit or wastewater treatment unit including an evaporation unit, shall obtain a limited permit for that unit in accordance with Env-Hw 304.04.\n\n(e) The operator of a facility shall have a duly issued permit from the department throughout the facility’s active life, including closure and post-closure care, as applicable. Denial of a permit pursuant to this chapter for the active life of a facility shall not affect the requirement to prepare and implement a closure and post-closure plan.\n\n(f) The operator of a facility holding one or more permits issued by other New Hampshire or federal programs shall also obtain a permit pursuant to this chapter unless specifically exempted by the hazardous waste rules.\n\n(g) When a facility is owned by one person but is operated by another person, then:\n\n(1) The operator shall obtain the permit; and\n\n(2) The owner shall also sign the permit application.\n\nSource. (See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html"
+}

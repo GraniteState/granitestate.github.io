@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1507.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "V",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1507",
+  "definition": "Application Completeness Determination",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3207.02); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1507.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html",
+  "prefLabel": "Env-Sw 1507.02 Application Completeness Determination",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1507.02 Application Completeness Determination.\n\n(a) Within 30 days after the date an application is filed in accordance with Env-Sw 1506, the department shall determine whether the application is complete based on a review of the form submitted pursuant to Env-Sw 1505.02.\n\n(b) If the applicant submits any information to complete the application between the date of initial filing and the date the application is deemed complete, the 30-day review time shall be measured from the date of latest submittal.\n\n(c) If the application is incomplete, the provisions in Env-Sw 1507.03 shall apply.\n\n(d) If the application is complete, the provisions of Env-Sw 1507.04 shall apply.\n\n(e) The department shall not determine that an application is complete if samples of the waste and waste-derived product are not provided following a request from the department.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3207.02); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/104.41",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Recognized Trader",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/104",
+  "definition": "Recognized trader",
+  "effectiveDate": "2025-08-01",
+  "historyNote": "#14278, eff 8-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 104.41",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 104.41 Recognized trader",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 104.41 “Recognized trader” means “recognized trader” as defined in 40 CFR 260.10, as reprinted in Appendix D.\n\nSource. #14278, eff 8-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

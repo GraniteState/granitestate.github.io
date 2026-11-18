@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/3002.16",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Natural Gas Supply Offer",
+  "authority": [
+    {
+      "citation": "12-P:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/12-P/12-P-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "12-P:15",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-P/12-P-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/3002",
+  "definition": "Natural gas supply offer",
+  "effectiveDate": "2026-05-21",
+  "expirationDate": "2036-05-21",
+  "historyNote": "#14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 3002.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html",
+  "prefLabel": "En 3002.16 Natural gas supply offer",
+  "recordType": "rule-section",
+  "ruleText": "En 3002.16 “Natural gas supply offer” means a solicitation by a CNGS to sell natural gas or a solicitation by an aggregator to arrange for or facilitate the purchase of natural gas by a customer.\n\nSource. #14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html"
+}

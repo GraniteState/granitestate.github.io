@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1003.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1003",
+  "definition": "Application Processing and Decision",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12352, eff 8-14-17 (formerly Env-Hw 1003.03); ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1003.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1003.06 Application Processing and Decision",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1003.06 Application Processing and Decision.\n\n(a) The department shall review each application for HWCF monies for HHW collection projects to determine whether it contains all the information and documents required by Env-Hw 1003.05.\n\n(b) If the application does not contain all information and documents required by Env-Hw 1003.05, the department shall notify the applicant of what is missing.\n\n(c) The department shall approve an application if it contains all of the information and documents required by Env-Hw 1003.05.\n\n(d) If an application is approved, the applicant shall be eligible to receive HWCF monies in the form of a grant award pursuant to Env-Hw 1003.07 through Env-Hw 1003.10.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12352, eff 8-14-17 (formerly Env-Hw 1003.03); ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

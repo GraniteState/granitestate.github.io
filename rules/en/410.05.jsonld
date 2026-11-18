@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/410.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:22-p",
+      "source": "https://granitestate.github.io/rsa/374/374-22-p",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-22-p"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/410",
+  "definition": "Complaints Regarding Basic Service",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 410.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 410.05 Complaints Regarding Basic Service",
+  "recordType": "rule-section",
+  "ruleText": "En 410.05 Complaints Regarding Basic Service. The department shall accept and resolve complaints from ILEC-ELEC customers regarding basic service.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

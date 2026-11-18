@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1005.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1005",
+  "definition": "Public Benefit",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2705.05); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1005.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html",
+  "prefLabel": "Env-Sw 1005.05 Public Benefit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1005.05 Public Benefit.\n\n(a) A facility shall be operated so as to comply with the requirements of RSA 149-M:11, XI, relative to providing a substantial public benefit.\n\n(b) The following facilities shall be deemed to provide a substantial public benefit and therefore need not make an explicit demonstration of substantial public benefit in a permit application:\n\n(1) A permit-exempt facility;\n\n(2) A permit-by-notification facility;\n\n(3) An emergency permit facility;\n\n(4) A research and development facility; and\n\n(5) A general permit facility.\n\n(c) The following facilities shall be deemed to satisfy the first criteria for public benefit in RSA 149-M:11, III(a) and therefore need only address the remaining 2 criteria in RSA 149-M:11, III(b) and (c) when making a demonstration of public benefit in an application for a permit or permit modification:\n\n(1) Any limited public facility; and\n\n(2) Any limited private facility.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2705.05); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html"
+}

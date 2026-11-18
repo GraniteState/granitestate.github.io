@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/605.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/605",
+  "definition": "Test and Calibration of Meters",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 605.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html",
+  "prefLabel": "En 605.03 Test and Calibration of Meters",
+  "recordType": "rule-section",
+  "ruleText": "En 605.03 Test and Calibration of Meters.\n\n(a) All meters shall be tested and calibrated in accordance with the requirements set forth in this section.\n\n(b) No meter shall be placed in service or permitted to remain in service if the error of registration exceeds specifications in (d) below.\n\n(c) A water utility shall test all meters as specified by size in the left column, at the 3 rates of flow specified in table 6.5.1 below:\n\nTable 6.5.1 Test Flows Required by Size of Meter\n\nTest Flow - Gallons per Minute\n\nMeter Size - Inches | Minimum | Medium | Maximum\n\n5/8 | 1/4 | 2 | 15\n\n5/8 x 3/4 | 1/4 | 2 | 15\n\n3/4 | 1/2 | 3 | 25\n\n1 | 3/4 | 4 | 40\n\n1 1/2 | 1 1/2 | 8 | 50\n\n2 | 2 | 15 | 100\n\n3 | 4 | 20 | 150\n\n4 | 7 | 40 | 200\n\n6 | 12 | 60 | 500\n\n(d) A meter shall be determined inaccurate and shall not be placed or returned to service if:\n\n(1) The percent error of registration exceeds 103% or is less than 97%; or\n\n(2) The registration at the minimum flow exceeds 103% or is less than 90%.\n\n(e) The percent error of registration shall be taken as the algebraic sum of the errors at the intermediate and maximum rates of test flow, as set forth in the Table 6.5.1, divided by 2.\n\n(f) Upon completion of an adjustment of any meter under the provisions of these rules, the water utility shall affix thereto a suitable seal in such a manner that the adjustment of registration of the meter cannot be tampered with without breaking the seal.\n\n(g) At the option of the water utility, the larger size meters may be tested in place after installation.\n\nSource. #13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Labeling and Packaging",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.04 Labeling and Packaging",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.04 Labeling and Packaging. Prior to and during transportation, a used oil transporter shall ensure that each container holding used oil is:\n\n(a) Clearly labeled or marked with:\n\n(1) The words “used oil”; and\n\n(2) All applicable US DOT required information as set forth in 49 CFR Part 172;\n\n(b) Secured against movement within the vehicle if the container holding used oil is not a part of the vehicle; and\n\n(c) Sealed to prevent releases.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

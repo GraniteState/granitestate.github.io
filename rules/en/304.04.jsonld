@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/304.04",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/304",
+  "definition": "Voltage Complaints",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 304.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 304.04 Voltage Complaints",
+  "recordType": "rule-section",
+  "ruleText": "En 304.04 Voltage Complaints.\n\n(a) Upon receipt of a customer voltage complaint, a utility shall investigate to determine whether the complaint was founded or unfounded.\n\n(b) For the purposes of this section:\n\n(1) “Founded” means the utility’s determination that the voltage complaint was based on a voltage variation in violation of En 304.02;\n\n(2) “Unfounded” means the utility’s determination that the voltage measures were within the limits established in En 304.02; and\n\n(3) “Voltage complaint” means written notice to the company or oral communication with the utility’s customer service representatives by the customer of conditions or circumstances that suggest or evidence voltage variations outside of the limits established in En 304.02.\n\n(c) When a utility determines that a voltage complaint is founded, it shall take appropriate steps to correct the condition and bring voltage into the limits established in En 304.02.\n\n(d) When a utility determines that a voltage complaint is founded or unfounded, it shall provide written notification to the customer within 10 calendar days of such determination.\n\n(e) Each utility shall report voltage complaints on a monthly basis to the department pursuant to En 308.01.\n\n(f) Each utility shall maintain all records of voltage complaints investigated pursuant to (a) above for a period of 5 years from the date of the complaint.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

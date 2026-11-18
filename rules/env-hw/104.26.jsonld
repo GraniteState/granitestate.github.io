@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/104.26",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/104",
+  "definition": "Permit",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 104.22, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 104.23, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 104.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 104.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 104.26 Permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 104.26 “Permit” means an authorization, license, or equivalent control document issued by the department to implement the hazardous waste rules. The term includes limited permits and emergency permits. The term does not include interim status or any document that has not been the subject of final department action, such as a draft permit or proposed permit.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 104.22, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 104.23, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 104.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

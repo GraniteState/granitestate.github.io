@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2206.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-R:4",
+      "paragraphs": [
+        "III",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-R:6",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-R/149-R-4",
+    "https://granitestate.github.io/rsa/149-R/149-R-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2206",
+  "definition": "Application Submittal",
+  "effectiveDate": "2026-07-01",
+  "expirationDate": "2036-07-01",
+  "historyNote": "#14633, eff 7-1-26, EXPIRES: 7-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 2206.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html",
+  "prefLabel": "Env-Sw 2206.01 Application Submittal",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 2206.01 Application Submittal.\n\n(a) To be considered for a waste reduction and diversion grant, an eligible entity shall submit the following to the department, prior to the application deadline specified in the funding announcement:\n\n(1) A complete application on form NHDES-S-05-042 “Solid Waste Reduction and Diversion Grant Application”, effective July 2026 available at: https://onlineforms.nh.gov/?formtag=NHDES-S-05-042, provided by the department;\n\n(2) A certification that the information provided in the application is true, complete, and not misleading to the best of their knowledge; and\n\n(3) A certification that the person signing the application has been duly authorized by the applicant to make the above declarations and sign this application.\n\n(b) For collaborative projects that include multiple eligible entities, one entity shall be the primary applicant and shall submit a letter of commitment from each participating entity as an attachment to the application.\n\nSource. #14633, eff 7-1-26, EXPIRES: 7-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html"
+}

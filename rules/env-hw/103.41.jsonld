@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/103.41",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Elementary Neutralization Unit",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/103",
+  "definition": "Elementary neutralization unit",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 103.39, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 103.41",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 103.41 Elementary neutralization unit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 103.41 “Elementary neutralization unit” means a device that:\n\n(a) Is used for neutralizing wastes that are hazardous only because they exhibit the corrosivity characteristic defined in Env-Hw 403 or are listed in Env-Hw 402 only for this reason; and\n\n(b) Meets the definition of tank, tank system, container, transport vehicle, or vessel in Env-Hw 103 or Env-Hw 104.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 103.39, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

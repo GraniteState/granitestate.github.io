@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1503.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "V",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1503",
+  "definition": "Compost",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3203.10); ss by #10599, eff 7-1-14; ss by #13358, eff 4-1-22; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1503.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html",
+  "prefLabel": "Env-Sw 1503.10 Compost",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1503.10 Compost.\n\n(a) Except as provided in (b) and (c) below, compost derived from solid waste shall be deemed certified by rule for distribution and use as compost, provided it meets the quality requirements specified in Env-Sw 605.04, and the maturity requirements specified in Env-Sw 605.05.\n\n(b) Compost derived from animal carcasses shall be used in conformance with the livestock mortality composting best management practices provided in the “Manual of Best Management Practices (BMPs) for Agriculture in New Hampshire”, revised July 2019, published by New Hampshire Department of Agriculture, Markets, and Food, accessed as noted in Appendix B.\n\n(c) Off-specification compost, as defined by Env-Sw 605.06, shall be managed in accordance with the provisions of that section.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3203.10); ss by #10599, eff 7-1-14; ss by #13358, eff 4-1-22; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html"
+}

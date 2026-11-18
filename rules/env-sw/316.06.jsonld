@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/316.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "III",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/316",
+  "definition": "Filing of Disclosure Forms",
+  "effectiveDate": "2024-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24 (formerly Env-Sw 316.07) (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 316.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 316.06 Filing of Disclosure Forms",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 316.06 titled “Scope of Disclosure; Release Authorization”\n\nThe only filing affecting Env-Sw 314.04 through Env-Sw 314.12 since Document #8460-B, effective 10-28-05, was Document #10595, effective 7-1-14. These rules did not expire on 7-1-24 but were extended pursuant to RSA 541-A:14-a until deleted by Document #14124, effective 11-23-24.\n\nThe filings affecting the former Env-Sw 316.06 included the following:\n\n(See Revision Note #1 at chapter heading for Env-Sw 300)\n\n#8460-B, effective 10-28-05\n\n#10595, effective 7-1-14\n\n(See also Revision Note at part heading for Env-Sw 316 about forms in Document #13192 and Document #13193)\n\n#13386, effective 5-26-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

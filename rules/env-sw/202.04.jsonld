@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/202.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/202",
+  "definition": "Criteria",
+  "effectiveDate": "2014-07-01",
+  "historyNote": "(see Revision Note at chapter heading for Env-Sw 200) #8461-B, eff 10-28-05; ss by #10594, eff 7-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 202.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw200.html",
+  "prefLabel": "Env-Sw 202.04 Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 202.04 Criteria.\n\n(a) Subject to (b), below, a request for a waiver shall be granted if:\n\n(1) Exemption from complying with the rule will:\n\na. Not result in an adverse effect to the environment or natural resources of the state, public health or to public safety;\n\nb. Not result in an impact on abutting properties that is more significant than that which would result from complying with the rule; and\n\nc. Be in keeping with the intent and purpose of the rule being waived; and\n\n(2) One or more of the following conditions is satisfied:\n\na. Strict compliance with the rule will result in an adverse effect on the environment, public health and safety;\n\nb. Strict compliance with the rule will result in a circumvention of the goals and objectives of the state’s solid waste management program, as specified in RSA 149-M:1 - 3 and the state solid waste management plan; or\n\nc. Strict compliance with the rule will provide no benefit to the public and will cause an operational or economic hardship to the applicant.\n\n(b) Economic, technological, practical application and safety issues shall be considered in evaluating a demonstration of the above criteria; however, the application of rules shall not be weighed solely on the basis of cost.\n\nSource. (see Revision Note at chapter heading for Env-Sw 200) #8461-B, eff 10-28-05; ss by #10594, eff 7-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw200.html"
+}

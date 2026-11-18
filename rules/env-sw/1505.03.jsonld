@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1505.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "V",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1505",
+  "definition": "Production",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3205.03); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24 (formerly Env-Sw 1505.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1505.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html",
+  "prefLabel": "Env-Sw 1505.03 Production",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1505.03 Production. The applicant shall provide the following information to describe the production process:\n\n(a) Identification and characterization of the waste(s) used to produce the waste-derived product, including documentation and materials detailing the general quality of the waste including:\n\n(1) Physical, chemical and, where appropriate, biological characteristics of the waste based on current and representative sampling or equivalent documentation and including analytical test results for those constituents that are reasonably thought to be present in the waste and which are known or suspected, by way of published scientific documentation, to pose a potential risk to human health or the environment;\n\n(2) Material safety data sheets for the waste and constituents of the waste, if published pursuant to regulations adopted to implement 29 U.S.C. 651 et seq., the Occupational Safety and Health Act (OSHA); and\n\n(3) Samples of the waste, if requested by the department to either enhance the department’s understanding of the appearance and characteristics of the waste, or to verify the applicant’s analytical test results in instances where the waste has the potential to contain constituents harmful to human health or the environment.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3205.03); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24 (formerly Env-Sw 1505.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html"
+}

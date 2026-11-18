@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2203",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-R:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-R:6",
+      "paragraphs": [
+        "II",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-R/149-R-4",
+    "https://granitestate.github.io/rsa/149-R/149-R-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2200",
+  "definition": "SOLID WASTE DISPOSAL SURCHARGE REIMBURSEMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/2203.01",
+    "https://granitestate.github.io/rules/env-sw/2203.02",
+    "https://granitestate.github.io/rules/env-sw/2203.03",
+    "https://granitestate.github.io/rules/env-sw/2203.04",
+    "https://granitestate.github.io/rules/env-sw/2203.05"
+  ],
+  "notation": "Env-Sw 2203",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html",
+  "prefLabel": "Env-Sw 2203 SOLID WASTE DISPOSAL SURCHARGE REIMBURSEMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 2203 SOLID WASTE DISPOSAL SURCHARGE REIMBURSEMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html"
+}

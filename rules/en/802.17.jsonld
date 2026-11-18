@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/802.17",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Underground Facility",
+  "authority": [
+    {
+      "citation": "374:48",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-48",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/802",
+  "definition": "Underground facility",
+  "effectiveDate": "2024-08-21",
+  "historyNote": "#14062, eff 8-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 802.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en800.html",
+  "prefLabel": "En 802.17 Underground facility",
+  "recordType": "rule-section",
+  "ruleText": "En 802.17 \"Underground facility\" means \"underground facility\" as defined in RSA 374:48, VII, namely, \"any property which is buried, placed below ground, or submerged on a public way, private property, right-of-way, easement, public street, or other public place and is being used or will be used for the conveyance of cable television, electricity, gas, sewerage, steam, telecommunications or water.\"\n\nSource. #14062, eff 8-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en800.html"
+}

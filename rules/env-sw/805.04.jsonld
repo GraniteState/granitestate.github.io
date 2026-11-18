@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/805.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/805",
+  "definition": "Liner Material and Construction Requirements",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 805.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 805.04 Liner Material and Construction Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 805.04 Liner Material and Construction Requirements.\n\n(a) Soil liners shall meet or exceed the following specifications:\n\n(1) The liner shall be constructed of no less than 3 feet of a recompacted natural soil with uniform and consistent characteristics, or a uniform and consistent natural soil blended with an admixture, such as bentonite;\n\n(2) The liner shall be free from stones greater than one inch in diameter and stones having a sharp or angular surface;\n\n(3) Recompaction shall occur in lifts not to exceed the depth demonstrated in a test pad necessary to achieve a saturated hydraulic conductivity no greater than 1 x 10-7 cm/sec;\n\n(4) The recompacted lifts shall be constructed in a step-wise manner to limit the potential for vertical channeling;\n\n(5) Recompacted saturated hydraulic conductivity shall equal 1 x 10-7 cm/sec or less; and\n\n(6) The liner shall be protected from damage due to frost, desiccation, and differential movement.\n\n(b) Geomembrane liners shall meet or exceed the following specifications:\n\n(1) The liner material shall have a minimum thickness of 60 mils;\n\n(2) The liner material shall be chemically compatible with anticipated waste and leachate characteristics; and\n\n(3) Seaming methods which involve the use of solvents shall incorporate quality assurance/quality control procedures pursuant to Env-Sw 805.16 to assure protection of groundwater and surface water resources.\n\n(c) Composite liners shall consist of:\n\n(1) A geomembrane liner, as specified by (b) above; and\n\n(2) A soil component as specified by (a) above or a manufactured geosynthetic clay liner (GCL).\n\n(d) All liners shall be constructed in accordance with a quality assurance/quality control plan established pursuant to Env-Sw 805.16.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

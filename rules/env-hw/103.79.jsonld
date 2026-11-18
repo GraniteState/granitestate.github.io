@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/103.79",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Industrial Furnace",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/103",
+  "definition": "Industrial furnace",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 103.72, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 103.75, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 103.78)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 103.79",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 103.79 Industrial furnace",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 103.79 “Industrial furnace” means any of the following enclosed devices that are integral components of manufacturing processes and that use controlled flame devices to accomplish recovery of materials or energy:\n\n(a) Cement kilns;\n\n(b) Lime kilns;\n\n(c) Aggregate kilns;\n\n(d) Phosphate kilns;\n\n(e) Coke ovens;\n\n(f) Blast furnaces;\n\n(g) Smelting, melting, and refining furnaces including pyrometallurgical devices such as cupolas, reverberator furnaces, sintering machines, roasters, and foundry furnaces;\n\n(h) Titanium dioxide chloride process oxidation reactors;\n\n(i) Methane reforming furnaces;\n\n(j) Pulping liquor recovery furnaces;\n\n(k) Combustion devices used in the recovery of sulfur values from spent sulfuric acid; or\n\n(l) Such other devices as the commissioner adds to this list through a rulemaking in accordance with the rulemaking procedures of RSA 541-A on the basis of one or more of the following factors:\n\n(1) The design and use of the device primarily to accomplish recovery of material products;\n\n(2) The use of the device to burn or reduce raw materials to make a material product;\n\n(3) The use of the device to burn or reduce secondary materials as effective substitutes for raw materials, in processes using raw materials as principal feedstocks;\n\n(4) The use of the device to burn or reduce secondary materials as ingredients in an industrial process to make a material product;\n\n(5) The use of the device in common industrial practice to produce a material product; and\n\n(6) Other factors, as applicable.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 103.72, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 103.75, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 103.78)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

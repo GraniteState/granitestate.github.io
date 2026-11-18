@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/103.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Active Fault Zone",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/103",
+  "definition": "Active fault zone",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 103.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 103.04 Active fault zone",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 103.04 “Active fault zone” means a land area that, according to geological evidence, has exhibited movement along a fault within the past 10,000 years.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

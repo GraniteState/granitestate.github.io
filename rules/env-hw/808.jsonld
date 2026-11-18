@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/808",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/800",
+  "definition": "RECYCLABLE MATERIALS USED FOR PRECIOUS METAL RECOVERY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/808.01",
+    "https://granitestate.github.io/rules/env-hw/808.02",
+    "https://granitestate.github.io/rules/env-hw/808.03",
+    "https://granitestate.github.io/rules/env-hw/808.04",
+    "https://granitestate.github.io/rules/env-hw/808.05",
+    "https://granitestate.github.io/rules/env-hw/808.06"
+  ],
+  "notation": "Env-Hw 808",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw800.html",
+  "prefLabel": "Env-Hw 808 RECYCLABLE MATERIALS USED FOR PRECIOUS METAL RECOVERY",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 808 RECYCLABLE MATERIALS USED FOR PRECIOUS METAL RECOVERY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw800.html"
+}

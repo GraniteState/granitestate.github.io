@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1605.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1605",
+  "definition": "Application Processing: Completeness Review",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "#10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1605.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1605.05 Application Processing: Completeness Review",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1605.05 Application Processing: Completeness Review.\n\n(a) Upon receiving an application, the department shall review the application to determine whether it is complete, meaning that it provides all of the information required by Env-Sw 1605.03(a), is signed as required by Env-Sw 1605.03(b) through (e), and includes the fee as required by Env-Sw 1605.04.\n\n(b) If the application is not complete, the department shall notify the applicant in writing of:\n\n(1) What is needed to complete the application; and\n\n(2) The deadline for submitting the information, which shall not be less than 10 days nor more than 30 days from the date of notification.\n\n(c) If an applicant fails to complete the application prior to the deadline specified pursuant to (b)(2), above, then:\n\n(1) The application shall be denied; and\n\n(2) The applicant shall reapply with a new initial application and the required fee if the applicant still wishes to become certified.\n\nSource. #10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

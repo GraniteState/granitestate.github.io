@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m/408.07",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "authority": [
+    {
+      "citation": "135-C:5",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "135-C:61",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/135-C/135-C-5",
+    "https://granitestate.github.io/rsa/135-C/135-C-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-m/408",
+  "definition": "Medication Orders",
+  "effectiveDate": "2017-10-24",
+  "historyNote": "#7281, eff 5-23-00, EXPIRED: 5-23-08 New. #9512 eff 7-9-09; ss by #12409, eff 10-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-M 408.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m400.html",
+  "prefLabel": "He-M 408.07 Medication Orders",
+  "priorExpiration": "2008-05-23",
+  "recordType": "rule-section",
+  "ruleText": "He-M 408.07 Medication Orders.\n\n(a) A complete list of all prescribed medications, laboratory testing, and, when applicable, dietary and other specific orders shall be maintained in the clinical record on the medication order sheet, and shall be visible and available within the electronic medical record.\n\n(b) Medication order sheets or progress notes shall specify, at a minimum:\n\n(1) Date ordered;\n\n(2) Name, credentials, and signature of prescriber;\n\n(3) Medication name;\n\n(4) Medication dosage;\n\n(5) Amount dispensed;\n\n(6) An individual’s allergies;\n\n(7) Route of medication administration;\n\n(8) Medication frequency;\n\n(9) Medication start and stop dates;\n\n(10) Date medication expired or was discontinued;\n\n(11) Special instructions, if any;\n\n(12) Reason for pro re nata medication; and\n\n(13) Whether or not the individual has the cognitive ability to self-administer or control access to their medications, or both.\n\n(c) At a minimum, a copy of each medication prescription shall be maintained in the clinical record for individuals who self-administer and control access to the individual’s own medications.\n\n(d) Each time a medication is added or deleted or when a dosage is adjusted, the prescriber shall document the change, the reason for the change, and the individual’s ability to understand and follow the new orders.\n\nSource. #7281, eff 5-23-00, EXPIRED: 5-23-08\n\nNew. #9512 eff 7-9-09; ss by #12409, eff 10-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m400.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/303.15",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/303",
+  "definition": "Compliance Report",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(see Revision Note at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 303.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 303.15 Compliance Report",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 303.15 Compliance Report.\n\n(a) Applicants unable to certify compliance pursuant to Env-Sw 303.14 shall submit a compliance report as specified by (b) below.\n\n(b) The compliance report shall include:\n\n(1) A complete explanation of the circumstances which cause any statement in Env-Sw 303.14(b)(1) through (b)(8) to be untrue;\n\n(2) For each circumstance which causes a statement in Env-Sw 303.14(b)(1) through (b)(8) to be untrue, an explanation as to why the department should not find it to be grounds for denying the requested approval pursuant to the provisions of RSA 149-M:9, IX or X; and\n\n(3) For each circumstance which causes a statement in Env-Sw 303.14(b)(5) through (b)(8) to be untrue, a plan and schedule by which the applicant proposes to achieve full compliance.\n\n(c) The rules in this section shall not apply to applicants for a permit-by-notification or modification of a permit-by-notification, such applicants being ineligible pursuant to Env-Sw 305.03(b)(7) and Env-Sw 1202.05(c) to hold a permit-by-notification.\n\nSource. (see Revision Note at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/202.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "III",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/202",
+  "definition": "Applicability",
+  "effectiveDate": "2026-02-28",
+  "historyNote": "#9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17; ss by #14522, eff 2-28-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 202.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html",
+  "prefLabel": "Env-Hw 202.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 202.01 Applicability.\n\n(a) Any person who is or would be directly and adversely affected by the strict application of a hazardous waste rule and who wishes to obtain a waiver shall do so in accordance with this part.\n\n(b) A waiver may be requested from:\n\n(1) Classification as a regulated waste pursuant to Env-Hw 803 for certain recycled materials as defined by 40 CFR 260.30;\n\n(2) Classification of a combustion device as a boiler for purposes of Env-Hw 806.05 when such device does not satisfy the definition of a boiler in Env-Hw 103; and\n\n(3) Any other requirement in the hazardous waste rules that is more stringent than any requirement imposed by EPA in 40 CFR 260 through 279, unless such requirement is imposed by state statute.\n\nSource. #9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17; ss by #14522, eff 2-28-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html"
+}

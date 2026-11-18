@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1104",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1100",
+  "definition": "ADDITIONAL REQUIREMENTS FOR LARGE QUANTITY HANDLERS AND VERY LARGE QUANTITY HANDLERS OF UNIVERSAL WASTE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/1104.01",
+    "https://granitestate.github.io/rules/env-hw/1104.02",
+    "https://granitestate.github.io/rules/env-hw/1104.03",
+    "https://granitestate.github.io/rules/env-hw/1104.04",
+    "https://granitestate.github.io/rules/env-hw/1104.05",
+    "https://granitestate.github.io/rules/env-hw/1104.06"
+  ],
+  "notation": "Env-Hw 1104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1100.html",
+  "prefLabel": "Env-Hw 1104 ADDITIONAL REQUIREMENTS FOR LARGE QUANTITY HANDLERS AND VERY LARGE QUANTITY HANDLERS OF UNIVERSAL WASTE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 1104 ADDITIONAL REQUIREMENTS FOR LARGE QUANTITY HANDLERS AND VERY LARGE QUANTITY HANDLERS OF UNIVERSAL WASTE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1100.html"
+}

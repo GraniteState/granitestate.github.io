@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2002",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2000",
+  "definition": "INSPECTION PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/2002.01",
+    "https://granitestate.github.io/rules/env-sw/2002.02",
+    "https://granitestate.github.io/rules/env-sw/2002.03"
+  ],
+  "notation": "Env-Sw 2002",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2000.html",
+  "prefLabel": "Env-Sw 2002 INSPECTION PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 2002 INSPECTION PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2000.html"
+}

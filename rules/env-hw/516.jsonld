@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/516",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/500",
+  "definition": "ALTERNATIVE STANDARDS FOR EPISODIC GENERATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/516.01",
+    "https://granitestate.github.io/rules/env-hw/516.02",
+    "https://granitestate.github.io/rules/env-hw/516.03",
+    "https://granitestate.github.io/rules/env-hw/516.04",
+    "https://granitestate.github.io/rules/env-hw/516.05"
+  ],
+  "notation": "Env-Hw 516",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 516 ALTERNATIVE STANDARDS FOR EPISODIC GENERATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 516 ALTERNATIVE STANDARDS FOR EPISODIC GENERATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

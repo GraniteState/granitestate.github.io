@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1611.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Renewal Application Fee1",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1611",
+  "definition": "Renewal Application Fee",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "#10600, eff 7-1-14; amd by #12045, eff 11-18-16; ss by #13623, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1611.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1611.04 Renewal Application Fee",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1611.04 Renewal Application Fee.\n\n(a) The renewal application fee shall be as provided in RSA 149-M:6, XIII, which, as reprinted in Appendix B, is:\n\n(1) $50.00 if the renewal application is received prior to the expiration of the operator’s current certification; or\n\n(2) $75.00 if the renewal application is received within 90 days after the expiration date of the operator’s current certification.\n\n(b) Renewal fees, if paid by check or money order, shall be made payable to “Treasurer, State of New Hampshire.”\n\nSource. #10600, eff 7-1-14; amd by #12045, eff 11-18-16; ss by #13623, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

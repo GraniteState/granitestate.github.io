@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/2004.12",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/2002",
+  "definition": "Off-Cycle Meter Reading",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 2004.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html",
+  "prefLabel": "En 2004.12 Off-Cycle Meter Reading",
+  "recordType": "rule-section",
+  "ruleText": "En 2004.12 Off-Cycle Meter Reading.\n\n(a) In the event of non-payment by a customer in the largest commercial and industrial classification as defined in the utility tariff, a CEPS shall be permitted to request an off-cycle meter reading by the utility for that customer.\n\n(b) A CEPS shall provide no less than 3 business days’ prior notice to the utility when requesting an off-cycle meter reading pursuant to (a) above in this section.\n\n(c) An off-cycle meter reading requested pursuant to (a) above in this section shall be subject to such charge for performing off-cycle meter readings as is specified in the utility’s tariff.\n\n(d) A utility may deny a request for an off-cycle meter reading if timely notice as described in En (b) above in this section is not provided.\n\n(e) To the extent a utility cannot accommodate an off-cycle meter reading requested in accordance with (a) above in this section within 3 business days of the request, the utility and CEPS shall negotiate an extension of time for the completion of the off-cycle meter reading requested by the CEPS.\n\nSource. #14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html"
+}

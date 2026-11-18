@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m/306.01",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "authority": [
+    {
+      "citation": "135:21-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "135-C:57",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-57",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "135-C:61",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/135-C/135-C-57",
+    "https://granitestate.github.io/rsa/135-C/135-C-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-m/306",
+  "definition": "Purpose",
+  "effectiveDate": "2026-06-26",
+  "expirationDate": "2036-06-26",
+  "historyNote": "#3096, eff 8-19-85; EXPIRED: 8-19-91 New. #4708, eff 12-1-89, EXPIRED: 12-1-95 New. #7133, eff 11-23-99; ss by #7559, eff 9-25-01; ss by #9520, eff 8-4-09, EXPIRED: 89-4-18 New. #13035, EMERGENCY, eff 4-14-20, EXPIRES: 10-11-20; ss by #13108, eff 9-22-20; ss by #14637, eff 6-26-26, EXPIRES: 6-26-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-M 306.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m300.html",
+  "prefLabel": "He-M 306.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "He-M 306.01 Purpose. The purpose of this part is to establish procedures by which emergency treatment shall be authorized for an individual involuntarily admitted to New Hampshire hospital when the individual lacks the capacity to make an informed treatment decision.\n\nSource. #3096, eff 8-19-85; EXPIRED: 8-19-91\n\nNew. #4708, eff 12-1-89, EXPIRED: 12-1-95\n\nNew. #7133, eff 11-23-99; ss by #7559, eff 9-25-01; ss by #9520, eff 8-4-09, EXPIRED: 89-4-18\n\nNew. #13035, EMERGENCY, eff 4-14-20, EXPIRES: 10-11-20; ss by #13108, eff 9-22-20; ss by #14637, eff 6-26-26, EXPIRES: 6-26-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m300.html"
+}

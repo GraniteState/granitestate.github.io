@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/3005",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/12-P/12-P-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-P:15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-P/12-P-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/3000",
+  "definition": "ENFORCEMENT PROVISIONS AND PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/en/3005.01",
+    "https://granitestate.github.io/rules/en/3005.02",
+    "https://granitestate.github.io/rules/en/3005.03"
+  ],
+  "notation": "En 3005",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html",
+  "prefLabel": "En 3005 ENFORCEMENT PROVISIONS AND PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART En 3005 ENFORCEMENT PROVISIONS AND PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html"
+}

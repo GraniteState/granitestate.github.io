@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1404.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1404",
+  "definition": "Specification Used Oil",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1404.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1404.02 Specification Used Oil",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1404.02 Specification Used Oil.\n\n(a) Used oil shall be classified as specification used oil if the oil:\n\n(1) Has not been mixed with any other hazardous waste; and\n\n(2) Meets all of the allowable levels in Table 14.1 below:\n\nTable 14.1 Specification Used Oil Standards\n\nConstituent/Property | Allowable Level\n\nArsenic | 5 ppm maximum\n\nCadmium | 2 ppm maximum\n\nChromium | 10 ppm maximum\n\nLead | 100 ppm maximum\n\nFlash point | 100 degrees Fahrenheit minimum\n\nPolychlorinated biphenyls (PCBs) | Less than 2 ppm\n\nTotal halogens | 1,000 ppm maximum\n\n(b) Except as specified in Env-Hw 1402.03(b), the standards in Table 14.1 do not apply to mixtures of used oil and hazardous waste.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

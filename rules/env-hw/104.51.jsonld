@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/104.51",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:2",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/104",
+  "definition": "Sludge",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 104.44, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 104.45, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 104.49)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 104.51",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html",
+  "prefLabel": "Env-Hw 104.51 Sludge",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 104.51 “Sludge” means “sludge” as defined in 40 CFR 260.10, as reprinted in Appendix D.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Hw 100) #12343, eff 8-14-17; (formerly Env-Hw 104.44, renumbered by #12920) (See Revision Note #3 at chapter heading for Env-Hw 100); (formerly Env-Hw 104.45, renumbered by #13405) (See Revision Note #4 at chapter heading for Env-Hw 100) (formerly Env-Hw 104.49)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw100.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/508.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "XIII",
+        "XXVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/508",
+  "definition": "Very Small Quantity Generators",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #7966, INTERIM, eff 9-26-03, EXPIRED: 3-24-04 New. #8415, eff 8-19-05; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 508.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 508.01 Very Small Quantity Generators",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 508.01 Very Small Quantity Generators.\n\n(a) A very small quantity generator shall comply with the following independent requirements:\n\n(1) Env-Hw 502 through Env-Hw 505;\n\n(2) Env-Hw 507.02;\n\n(3) Env-Hw 510 through Env-Hw 512; and\n\n(4) Env-Hw 514.\n\n(b) A very small quantity generator shall be subject to the applicable requirements of Env-Hw 300, Env-Hw 700, Env-Hw 800, Env-Hw 1200, and Env-Hw 1300, unless it meets the conditions for exemption in Env-Hw 508.02 and Env-Hw 508.03, as applicable.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #7966, INTERIM, eff 9-26-03, EXPIRED: 3-24-04\n\nNew. #8415, eff 8-19-05; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

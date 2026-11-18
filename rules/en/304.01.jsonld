@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/304.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/304",
+  "definition": "Frequency",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 304.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 304.01 Frequency",
+  "recordType": "rule-section",
+  "ruleText": "En 304.01 Frequency. A utility shall provide alternating current distribution systems which shall have a design and operating frequency of 60 cycles per second under normal system conditions which shall vary only within a narrow range according to operations criteria established by the ISO-NE.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

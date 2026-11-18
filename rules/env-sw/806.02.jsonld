@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/806.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/806",
+  "definition": "Waste Placement",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2506.02); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 806.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 806.02 Waste Placement",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 806.02 Waste Placement.\n\n(a) The fill sequencing plan developed in accordance with Env-Sw 805.11 shall be part of the facility operating plan and implemented in accordance with the requirements of this section.\n\n(b) Wastes shall be placed only within the permitted vertical and lateral limits of the landfill.\n\n(c) Wastes shall be placed in a controlled manner, in accordance with the fill sequencing plans.\n\n(d) Fill sequencing plans shall be developed on the basis of limiting the quantity of leachate a facility generates, through grading and covering techniques which maximize the quantity of received precipitation that can be handled as stormwater.\n\n(e) Unloading of waste shall be confined to the smallest practical area.\n\n(f) Exposed waste on the working face of the landfill shall be limited, to reduce precipitation contact with the waste and to allow the area to be covered as required pursuant to Env-Sw 806.03.\n\n(g) All waste shall be evenly spread in shallow lifts and compacted, in accordance with plans and procedures which:\n\n(1) Assure stability;\n\n(2) Limit potential future settlement;\n\n(3) Limit rainfall infiltration; and\n\n(4) Are consistent with the progressive development of final grades.\n\n(h) The first layer of waste placed above the leachate collection layer shall be a minimum of 4 feet in compacted thickness and be of a select nature containing no large or rigid objects, such as pipes or posts, that might cause damage to the liner system or instability.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2506.02); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

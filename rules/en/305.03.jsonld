@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Test Schedules for Watt-Hour Meters and Demand Devices",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.03 Test Schedules for Watt-Hour Meters and Demand Devices",
+  "recordType": "rule-section",
+  "ruleText": "En 305.03 Test Schedules for Watt-Hour Meters and Demand Devices.\n\n(a) A utility may accept as a first test and record as a test a manufacturer’s test on new meters if the meter is certified by the manufacturer as built to comply with ANSI C12.1-2022 “Code for Electricity Metering” dated 6/9/2022, or ANSI C12.20-2015 “Electricity Meters,” dated 4/1/2017, available as noted in Appendix B.\n\n(b) A utility shall test and calibrate all new meters not certified by the manufacturer as provided in (a) above before placing any such meter into service.\n\n(c) A utility shall each year test and, as necessary, repair and recalibrate or retire all watt-hour meters and demand devices in service on a test schedule as follows:\n\n(1) All self-contained single-phase watt-hour meters:\n\na. On a periodic basis resulting in each meter being tested at least once every 12 years; or\n\nb. By each year selecting, testing and, as necessary, retiring meters under a plan as follows:\n\n1. A sample test group, selected at random and representing a cross-section of the utility’s meters, comprised of at least 0.5% of meters in use; and\n\n2. An additional number of meters, determined pursuant to (d) below, selected from those meters which appear to be most adversely affecting meter accuracy;\n\n(2) Self-contained polyphase meters, each meter no less than once every 24 years;\n\n(3) Single-phase transformer-rated meters, each meter no less than once every 16 years; and\n\n(4) Polyphase transformer-rated meters, each meter no less than once every 8 years.\n\n(d) Each utility which tests self-contained single-phase watt-hour meters pursuant to (c)(1)b. above, shall test and repair and recalibrate or retire each year a minimum number of meters, pursuant to (c)(1)b.2. above, in addition to sample meter tests required to be conducted pursuant to (c)(1)b.1. above, according to the formula as follows:\n\n(1) The utility shall create a test curve ratio in which:\n\na. “X” means the percentage of meters in the cumulative sample test group which tested outside of the weighted accuracy limits of between 98% and 102% for mechanical meters and between 98% and 101% for electronic meters; and\n\nb. “R” means the percentage of the total number of meters subject to sample testing which it shall test and repair and recalibrate or retire in addition to those meters tested pursuant to (c)(1).b.1. above; and\n\n(2) Each utility shall determine the number of additional meters it shall test pursuant to this paragraph by calculating “R” as described below and applying this percentage to the total number of in-service meters subject to sample testing, as follows:\n\na. When “X” is between 0% and 3%, by multiplying 12.5 by “X” divided by 3, squared, as in the formula below:\n\nR = 12.5(X/3)2 percent;\n\nb. When “X” is greater than 3% and less than 6% by subtracting from 25, 12.5 multiplied by 2 minus “X,” divided by 3, squared, as in the formula below:\n\nR = 25 - 12.5(2 - X/3)2 percent;\n\nc. When “X” is greater than 6%, “R” shall equal 25%;\n\nd. If “X” is 0.0% to 0.5%, the number of the additional meters to be tested shall be multiplied by 1.0; and\n\ne. If “X” is greater than 0.5%, the number of additional meters to be tested shall be multiplied by 1.0 + ((X – 0.5)/2).\n\n(e) A utility shall include in the cumulative sample required by (d)(1)a. above:\n\n(1) The sample test group of the current year; and\n\n(2) To the extent available, the sample test groups of the immediately preceding 3 years.\n\n(f) In determining the minimum number of additional meters which it shall be required to test pursuant to (c) above, a utility shall not include any meter returned to the shop for maintenance.\n\n(g) A utility shall notify the department in writing before changing any meter testing schedule which the utility has adopted pursuant to this section.\n\n(h) A utility shall test and recalibrate as necessary all polyphase meters removed from service before returning the meter to service.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

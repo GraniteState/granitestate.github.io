@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/503.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/503",
+  "definition": "Applicability",
+  "effectiveDate": "2024-08-01",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by 8459, eff 10-28-05 (formerly Env-Wm 2203.01); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 503.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html",
+  "prefLabel": "Env-Sw 503.01 Applicability",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 503.01 Applicability.\n\n(a) The siting requirements in this part shall apply to all P/T facilities, except:\n\n(1) Facilities that hold a permit issued under RSA 149-M prior to the 2005 readoption of the solid waste rules;\n\n(2) Permit-exempt facilities identified in Env-Sw 302.03, Env-Sw 508, Env-Sw 608, or Env-Sw 708;\n\n(3) Permit-by-notification facilities having an active life of 90 days or less;\n\n(4) Research and development permit facilities as provided by Env-Sw 312.02(b); and\n\n(5) Emergency permit facilities as provided by Env-Sw 313.02(b).\n\n(b) The siting requirements in this part shall apply as the complement of siting requirements in Env-Sw 1003 for all facilities, Env-Sw 1102 for facilities having an active life longer than 90 days, and Env-Sw 1203 for permit-by-notification facilities.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by 8459, eff 10-28-05 (formerly Env-Wm 2203.01); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html"
+}

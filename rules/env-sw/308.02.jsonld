@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/308.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:59",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-59",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:60",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-60",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/149-M/149-M-59",
+    "https://granitestate.github.io/rsa/149-M/149-M-60"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/308",
+  "definition": "Establishment Criteria for Facility Categories and General Permits",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 308.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 308.02 Establishment Criteria for Facility Categories and General Permits",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 308.02 Establishment Criteria for Facility Categories and General Permits. The department shall establish a facility category and an associated general permit, if the proposed facility category meets the following criteria:\n\n(a) The proposed facility category meets the criteria for a solid waste permit as outlined in Env-Sw 302.02 and would not meet the criteria for an exemption under Env-Sw 302.03;\n\n(b) More than one facility would be covered by the proposed facility category; and\n\n(c) Facilities covered by the proposed facility category and the associated general permit would:\n\n(1) Involve the same or substantially similar types of operations;\n\n(2) Handle the same types of wastes and regulated substances;\n\n(3) Require the same operating limitations or conditions; and\n\n(4) Be more appropriately controlled under a general permit than under individual permits.\n\nSource. #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

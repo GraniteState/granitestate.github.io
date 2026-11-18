@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1003.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1003",
+  "definition": "Definitions",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1003.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1003.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1003.02 Definitions.\n\n(a) “Approved local or regional entity” means a legal entity, such as a town conservation commission, solid waste management district, regional planning council or commission, or non-profit organization, that has been authorized by a municipality to coordinate the municipality’s participation in one or more HHW collection projects.\n\n(b) “Collection event” means:\n\n(1) For any HHW collection project that does not use a permanent HHW collection facility, the date on which and times during which the public may bring HHW to be collected; or\n\n(2) For any HHW collection project that does use a permanent HHW collection facility, any day and times during which the public may bring HHW to the facility.\n\n(c) “Permanent HHW collection facility” means a structure, or portion thereof, in which collected HHW can be secured against unauthorized access and that is used for HHW collection projects.\n\n(d) “Type I project” means a HHW collection project consisting of one HHW collection event per calendar year that serves one municipality.\n\n(e) “Type II project” means a HHW collection project consisting of:\n\n(1) More than one HHW collection event per calendar year;\n\n(2) One collection event that serves more than one municipality; or\n\n(3) A combination of (1) and (2), above.\n\n(f) “Type III project” means a HHW collection project that:\n\n(1) Uses a permanent HHW facility to store partially filled drums and containers between collection events; and\n\n(2) Uses a third-party vendor such as a hazardous waste transporter for all of its collection events.\n\n(g) “Type IV project” means a HHW collection project that:\n\n(1) Uses a permanent HHW facility to store partially filled drums and containers between collection events; and\n\n(2) Actively collects and stores HHW in the absence of a third-party vendor such as a hazardous waste transporter for one or more, but not all, of its collection events.\n\nSource. #12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

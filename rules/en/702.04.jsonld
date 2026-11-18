@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/702.04",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362",
+      "source": "https://granitestate.github.io/rsa/362",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/702",
+  "definition": "Main",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13912, eff 3-21-24 (see Revision Note at chapter heading for En 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 702.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en700.html",
+  "prefLabel": "En 702.04 Main",
+  "recordType": "rule-section",
+  "ruleText": "En 702.04 \"Main\" means a sewage pipe owned, operated, or maintained by a sewer utility which is used to transport sewage from the service pipe to the point of disposal.\n\nSource. #13912, eff 3-21-24 (see Revision Note at chapter heading for En 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en700.html"
+}

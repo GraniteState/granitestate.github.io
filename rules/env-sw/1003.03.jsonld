@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1003.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1003",
+  "definition": "Property Ownership and Access Rights",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2703.03); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1003.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html",
+  "prefLabel": "Env-Sw 1003.03 Property Ownership and Access Rights",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1003.03 Property Ownership and Access Rights.\n\n(a) The location of a facility shall be on property owned by the permittee or on property for which the property owner has granted a lease, easement, or other legal right to the permittee for use of the property for said purpose, including access to the property when required by the permittee and department for closure and post-closure monitoring of the facility and site.\n\n(b) The location of a facility may be on property where a right-of-way, easement, or other legal right for use of the property is granted to a third party, provided that the grant shall not adversely affect the permittee's ability to meet all facility requirements pursuant to RSA 149-M, the solid waste rules, and the terms and conditions of the permit.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2703.03); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html"
+}

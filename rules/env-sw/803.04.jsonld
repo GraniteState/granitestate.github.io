@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/803.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/803",
+  "definition": "Standards Specific to MSWLFs Subject to 40 CFR 258",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#6372, eff 11-16-96; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2503.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 803.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 803.04 Standards Specific to MSWLFs Subject to 40 CFR 258",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 803.04 Standards Specific to MSWLFs Subject to 40 CFR 258.\n\n(a) Any MSWLF that is identified by Env-Sw 803.03 as being subject to 40 CFR 258 shall comply with the following provisions of 40 CFR 258 in addition to the requirements in Env-Sw 900, Env-Sw 1000, Env-Sw 1100, Env-Sw 1400, Env-Sw 1600, and this chapter:\n\n(1) Location restrictions specified in 40 CFR 258.10 through 258.16;\n\n(2) Operating criteria specified in 40 CFR 258.20, 258.21, 258.23, 258.24, 258.28, and 258.29;\n\n(3) Design criteria specified in 40 CFR 258.40;\n\n(4) Groundwater monitoring and corrective action requirements specified in 40 CFR 258.53 through 258.58;\n\n(5) Closure and post-closure requirements specified in 40 CFR 258.60(i) and 258.61; and\n\n(6) Financial assurance mechanisms specified in 40 CFR 258.70 through 258.75.\n\n(b) The provisions specified in (a)(1) through (a)(6) above shall not be waived under Env-Sw 202.\n\nSource. #6372, eff 11-16-96; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2503.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

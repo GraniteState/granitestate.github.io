@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1609.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1609",
+  "definition": "Operator Step Designations",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "#10600, eff 7-1-14; ss by #12045, eff 11-18-16; ss by #13623, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1609.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1609.02 Operator Step Designations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1609.02 Operator Step Designations.\n\n(a) Step designations shall be assigned to principal operators and assistant operators as specified in table 1609-1, below:\n\nTable 1609-1: Steps Based on Hours of Continuing Professional Development Completed\n\nStep | Hours of Continuing Professional Development Completed\n\n1 | 2.5 total\n\n2 | 12.5 total\n\n3 | 25 total\n\n4 | 37.5 total\n\n(b) The designation of senior operator shall apply to each principal operator who completes 50 total hours of continuing professional development.\n\nSource. #10600, eff 7-1-14; ss by #12045, eff 11-18-16; ss by #13623, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

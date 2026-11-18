@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/504.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:6-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5",
+    "https://granitestate.github.io/rsa/147-A/147-A-6-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/504",
+  "definition": "EPA Identification Number Required",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6384-B, eff 11-26-96; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #13406, eff 7-23-22; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 504.01 EPA Identification Number Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 504.01 EPA Identification Number Required.\n\n(a) A generator shall not generate, treat, store, dispose, transport, or offer a hazardous waste for transportation without an EPA identification number.\n\n(b) Except as specified in Env-Hw 504.02(d), an EPA identification number assigned to a generator shall be valid only at the specific site for which the number was assigned.\n\n(c) A recognized trader shall not arrange for import or export of hazardous waste without an EPA identification number.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6384-B, eff 11-26-96; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #12922, eff 11-23-19; ss by #13406, eff 7-23-22; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

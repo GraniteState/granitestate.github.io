@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1703",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1700",
+  "definition": "CRITERIA FOR LAND APPLICATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1703.01",
+    "https://granitestate.github.io/rules/env-sw/1703.02",
+    "https://granitestate.github.io/rules/env-sw/1703.03"
+  ],
+  "notation": "Env-Sw 1703",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1700.html",
+  "prefLabel": "Env-Sw 1703 CRITERIA FOR LAND APPLICATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 1703 CRITERIA FOR LAND APPLICATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1700.html"
+}

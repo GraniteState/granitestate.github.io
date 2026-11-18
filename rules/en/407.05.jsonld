@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/407.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1-a",
+      "source": "https://granitestate.github.io/rsa/374/374-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:59",
+      "source": "https://granitestate.github.io/rsa/374/374-59",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-1-a",
+    "https://granitestate.github.io/rsa/374/374-59"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/407",
+  "definition": "Carrier to Carrier Migrations",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 407.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 407.05 Carrier to Carrier Migrations",
+  "recordType": "rule-section",
+  "ruleText": "En 407.05 Carrier to Carrier Migrations. In addition to complying with Puc 406.01, ELECs shall comply with the following:\n\n(a) When porting a customer’s number to another carrier, ELECs shall release the number without delay or consideration of any issue such as the customer’s account balance.\n\n(b) ELECs that have implemented a long-term database number portability method pursuant to 47 C.F.R. § 52.23 shall port a customer’s number to another carrier in accordance with 47 C.F.R. §52.35.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

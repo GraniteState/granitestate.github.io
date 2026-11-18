@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1410.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1410",
+  "definition": "Specification Used Oil Fuel",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1410.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1410.04 Specification Used Oil Fuel",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1410.04 Specification Used Oil Fuel.\n\n(a) The determination that used oil that is to be burned for energy recovery meets the fuel specifications of Env-Hw 1404.02 shall be made by performing analyses or obtaining copies of analyses or other information documenting that the used oil fuel meets the specifications, such as a description of the process generating the waste, safety data sheets, and other information material to the determination.\n\n(b) Copies of analyses of the used oil or other information used to make the determination in (a), above, shall be kept as specified in Env-Hw 1410.07(a).\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

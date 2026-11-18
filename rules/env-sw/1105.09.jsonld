@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1105.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1105",
+  "definition": "Receipt and Management of Waste",
+  "effectiveDate": "2024-11-13",
+  "expirationDate": "2034-11-13",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1100); ss by #8459, eff 10-28-05 (formerly Env-Wm 2805.09); ss by #10598, eff 7-1-14; ss by #14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1105.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html",
+  "prefLabel": "Env-Sw 1105.09 Receipt and Management of Waste",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1105.09 Receipt and Management of Waste.\n\n(a) Only authorized wastes, as specified in the permit, shall be accepted by a facility.\n\n(b) The facility shall only accept waste generated within its permitted service area and service type.\n\n(c) Incoming wastes shall be inspected and, if necessary, sampled and analyzed to assure the facility accepts authorized waste only.\n\n(d) Unauthorized waste shall be rejected by the facility.\n\n(e) The permittee shall advise the transporter of a rejected waste as to potentially available alternative facilities which the permittee believes or knows to be authorized to receive the type of waste being rejected.\n\n(f) The quantity of incoming waste, outgoing waste, and certified waste-derived products produced by the facility shall be measured and recorded in the facility operating records.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1100); ss by #8459, eff 10-28-05 (formerly Env-Wm 2805.09); ss by #10598, eff 7-1-14; ss by #14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html"
+}

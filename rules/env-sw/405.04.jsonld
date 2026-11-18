@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/405.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/405",
+  "definition": "Public Benefit Requirements",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 400); ss by #8459, eff 10-28-05 (formerly Env-Wm 2105.04); ss by #10596, eff 7-1-14; ss by #14093, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 405.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw400.html",
+  "prefLabel": "Env-Sw 405.04 Public Benefit Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 405.04 Public Benefit Requirements. As a means for demonstrating that the facility meets the requirements for providing a substantial public benefit as specified in Env-Sw 1005, the operation of a C/S/T facility shall be deemed to provide a substantial public benefit without further demonstration when facility operations satisfy the following operating conditions:\n\n(a) Irrespective of the source of the waste, the total quantity of waste transferred by the facility on an annual basis to New Hampshire landfills and New Hampshire incinerators shall not exceed the total quantity of waste received by the facility from New Hampshire generators, figured in tons;\n\n(b) The facility shall operate, or be part of an integrated system which operates, in a manner which:\n\n(1) Separates and diverts recyclable materials to authorized facilities for reuse; and\n\n(2) Avoids disposal of recyclable materials in a landfill; and\n\n(c) During each calendar year that the facility receives waste, the permittee shall communicate with the host solid waste management district as specified in Env-Sw 1105.12.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 400); ss by #8459, eff 10-28-05 (formerly Env-Wm 2105.04); ss by #10596, eff 7-1-14; ss by #14093, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw400.html"
+}

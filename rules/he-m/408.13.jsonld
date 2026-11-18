@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m/408.13",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "authority": [
+    {
+      "citation": "135-C:5",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "135-C:61",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/135-C/135-C-5",
+    "https://granitestate.github.io/rsa/135-C/135-C-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-m/408",
+  "definition": "Confidentiality",
+  "effectiveDate": "2017-10-24",
+  "historyNote": "#7281, eff 5-23-00, EXPIRED: 5-23-08 New. #9512 eff 7-9-09; ss by #12409, eff 10-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-M 408.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m400.html",
+  "prefLabel": "He-M 408.13 Confidentiality",
+  "priorExpiration": "2008-05-23",
+  "recordType": "rule-section",
+  "ruleText": "He-M 408.13 Confidentiality.\n\n(a) Each agency and facility, other than state facilities, shall develop and implement a policy regarding the confidentiality, storage, and disposal of clinical records and the circumstances under which information may be released.\n\n(b) Confidentiality policies shall conform with He-M 309.\n\n(c) The individual’s written authorization for the release of information shall be maintained in the clinical record.\n\nSource. #7281, eff 5-23-00, EXPIRED: 5-23-08\n\nNew. #9512 eff 7-9-09; ss by #12409, eff 10-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m400.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1403.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Financial Assurance Mechanisms, All Facilities",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1403",
+  "definition": "Financial Assurance Mechanisms",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3103.03); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1403.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1403.03 Financial Assurance Mechanisms",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1403.03 Financial Assurance Mechanisms.\n\n(a) Financial assurance shall be provided in one, or any combination, of the following forms:\n\n(1) An irrevocable letter of credit issued for a period of at least one year from an institution whose operations are regulated and examined by a federal or New Hampshire state agency and found to be in good standing;\n\n(2) A claims incurred insurance policy, except that insurance issued by an affiliated captive insurance company shall not be acceptable;\n\n(3) A surety bond issued by a surety company listed as an acceptable surety on federal bonds in the version of the U.S. Department of the Treasury Circular 570 that is current as of the date the bond is acquired;\n\n(4) A trust fund established in accordance with the laws of the state of New Hampshire;\n\n(5) For a landfill, a binding commitment between the permittee and the state of New Hampshire for a state revolving fund loan designated for closure of the landfill; or\n\n(6) Another mechanism that meets the criteria provided in 40 CFR 258.74(i).\n\n(b) If using a surety bond, insurance policy, or letter of credit, the permittee shall also establish a standby trust to receive the proceeds of the surety bond, insurance policy, or letter of credit.\n\n(c) The standby trust shall be established with a financial institution that has the authority to act as a trustee and whose operations are regulated and examined by a federal or New Hampshire state agency.\n\n(d) Each financial assurance instrument specified in (a) and (b) above, except (a)(5), shall specifically identify the state of New Hampshire as the beneficiary.\n\n(e) Funds held in trust accounts may be invested, but shall provide for the preservation of principal.\n\n(f) Financial assurance documents, including a standby trust, shall be as specified by 40 CFR 264.151, with the following revisions:\n\n(1) The phrase “hazardous waste” shall be replaced with the phrase “solid waste”;\n\n(2) The phrase “EPA administrator” shall be replaced with the phrase “department on behalf of the state of New Hampshire”;\n\n(3) All cites to “40 CFR” shall be replaced with “RSA 149-M and the solid waste rules”; and\n\n(4) The term “RCRA C” shall be omitted.\n\n(g) Letters of credit shall include a provision to automatically extend the expiration date by at least one year unless, at least 120 days before the current expiration date, the issuing institution notifies the permittee and the department by certified mail, return receipt requested, of a decision to not extend the expiration date.\n\n(h) Insurance policies and surety bonds shall include a provision to prohibit any cancellation without prior notice of cancellation being sent to the permittee and the department by certified mail, return receipt requested, at least 120 days before the effective date of cancellation.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3103.03); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

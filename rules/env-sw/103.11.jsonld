@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/103.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "General Permit",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/103",
+  "definition": "General permit",
+  "effectiveDate": "2024-10-23",
+  "historyNote": "#14103, effective 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 103.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html",
+  "prefLabel": "Env-Sw 103.11 General permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 103.11 “General permit” means “general permit” as defined in RSA 149-M:4, IX-b, namely “a permit which contains terms and conditions applicable to a specific category of facility, which applies to any facility in that category which has submitted the required information and agreed to abide by the stated terms and conditions.”\n\nSource. #14103, effective 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html"
+}

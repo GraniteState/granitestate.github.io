@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1018.10",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1018",
+  "definition": "Utility Right to Inspect",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1018.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1018.10 Utility Right to Inspect",
+  "recordType": "rule-section",
+  "ruleText": "En 1018.10 Utility Right to Inspect. A utility shall have the right to inspect an interconnecting customer’s facility before and after interconnection approval is granted during normal business hours with prior written notice provided to the interconnection customer no less than one week before the scheduled inspection. In the event of an emergency, no such notice is necessary. If the utility discovers an interconnecting customer’s facility is not in compliance with the operating requirements of the IA or applicable standards, and the non-compliance adversely affects the safety or reliability of the electric system, the utility may require disconnection of the interconnecting customer’s facility until the facility complies with the operating requirements of the IA or applicable standards.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

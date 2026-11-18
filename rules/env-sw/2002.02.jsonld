@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2002.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2002",
+  "definition": "Credential Presentation",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 2000); ss by #8459, eff 10-28-05 (formerly Env-Wm 3702.02); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 2002.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2000.html",
+  "prefLabel": "Env-Sw 2002.02 Credential Presentation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 2002.02 Credential Presentation. In conducting an inspection of a facility, department personnel shall, subject to privileges provided for by law, present their identification to, in order of preference, the owner or operator or their representative or to the senior company representative present, if any.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 2000); ss by #8459, eff 10-28-05 (formerly Env-Wm 3702.02); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2000.html"
+}

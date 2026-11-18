@@ -139,6 +139,14 @@
       "sections": 65
     },
     {
+      "code": "En",
+      "html": "rules/en/index.html",
+      "id": "https://granitestate.github.io/rules/en",
+      "jsonld": "rules/en/index.jsonld",
+      "name": "Department of Energy",
+      "sections": 890
+    },
+    {
       "code": "Env-A",
       "html": "rules/env-a/index.html",
       "id": "https://granitestate.github.io/rules/env-a",
@@ -153,6 +161,22 @@
       "jsonld": "rules/env-dw/index.jsonld",
       "name": "Drinking Water Programs",
       "sections": 1407
+    },
+    {
+      "code": "Env-Hw",
+      "html": "rules/env-hw/index.html",
+      "id": "https://granitestate.github.io/rules/env-hw",
+      "jsonld": "rules/env-hw/index.jsonld",
+      "name": "Hazardous Waste Programs",
+      "sections": 640
+    },
+    {
+      "code": "Env-Sw",
+      "html": "rules/env-sw/index.html",
+      "id": "https://granitestate.github.io/rules/env-sw",
+      "jsonld": "rules/env-sw/index.jsonld",
+      "name": "Solid Waste Programs",
+      "sections": 977
     },
     {
       "code": "Env-WMC",
@@ -193,6 +217,14 @@
       "jsonld": "rules/he-c/index.jsonld",
       "name": "Commissioner, Department of Health and Human Services",
       "sections": 1154
+    },
+    {
+      "code": "He-M",
+      "html": "rules/he-m/index.html",
+      "id": "https://granitestate.github.io/rules/he-m",
+      "jsonld": "rules/he-m/index.jsonld",
+      "name": "Former Division of Mental Health and Developmental Services",
+      "sections": 646
     },
     {
       "code": "He-P",
@@ -405,14 +437,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 50,
-    "chapters": 481,
+    "agencies": 54,
+    "chapters": 546,
     "droppedHeadings": 105,
-    "parts": 3540,
-    "rules": 27065,
-    "sections": 23044,
-    "unresolvedRows": 19312,
-    "unresolvedStatutes": 2076
+    "parts": 4022,
+    "rules": 30765,
+    "sections": 26197,
+    "unresolvedRows": 21691,
+    "unresolvedStatutes": 2190
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

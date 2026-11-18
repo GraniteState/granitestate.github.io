@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/804.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/804",
+  "definition": "Set-back Requirements",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2504.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 804.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 804.04 Set-back Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 804.04 Set-back Requirements.\n\n(a) There shall be a minimum 100-foot setback between the property line and the footprint of the landfill.\n\n(b) There shall be a minimum 300-foot buffer between the footprint of the landfill and class I and class II roads and a minimum 100-foot buffer between the footprint of the landfill and class III through class VI roads.\n\n(c) There shall be a minimum 500-foot setback between the footprint of the landfill and all properties not owned by the applicant or its affiliates that contain residences, residential care facilities, nursing homes, prisons, or that are zoned for residential use.\n\n(d) There shall be a minimum 1,000-foot setback between the footprint of the landfill and all properties containing public schools, licensed day care facilities, and hospitals.\n\n(e) The footprint of a landfill or landfill expansion receiving putrescible wastes shall not be located within 10,000 feet of any airport runway used by turbojet aircraft or 5,000 feet of any airport runway used by only piston-type aircraft.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2504.04); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

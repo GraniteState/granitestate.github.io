@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/602.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/602",
+  "definition": "Permit Application Requirements",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2302.02); ss by #10596, eff 7-1-14; ss by #13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 602.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 602.02 Permit Application Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 602.02 Permit Application Requirements. The applicant for a composting facility permit shall prepare the application in accordance with:\n\n(a) Env-Sw 314 for a standard permit;\n\n(b) Env-Sw 313 for an emergency permit;\n\n(c) Env-Sw 312 for a research and development permit; or\n\n(d) Env-Sw 311 for a permit-by-notification.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2302.02); ss by #10596, eff 7-1-14; ss by #13358, eff 4-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/806.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/806",
+  "definition": "Decomposition Gas Control Requirements",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2506.07); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 806.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 806.07 Decomposition Gas Control Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 806.07 Decomposition Gas Control Requirements.\n\n(a) Decomposition gases shall be controlled to prevent hazards to health, safety, or property.\n\n(b) Facility operations and construction shall not cause the concentration of methane and other explosive gases to:\n\n(1) Exceed 25 percent of the lower explosive limit for gases in structures on or off-site, excluding leachate collection and gas control and recovery components; and\n\n(2) Exceed 50 percent of the lower explosive limit for the gases at and beyond the property boundary within the soil.\n\n(c) To assure that the requirements in (a) and (b) above are met, a monitoring program shall be designed, included in the facility’s operating and closure plans, and implemented by the permittee in accordance with Env-Sw 805.18.\n\n(d) The type, location, and frequency of monitoring shall be based on the following factors:\n\n(1) Soil conditions;\n\n(2) The hydrogeological and hydraulic conditions surrounding the disposal area; and\n\n(3) The location of any man-made structures and property boundaries.\n\n(e) If methane or other explosive gases are detected above the limits specified in (b) above, the permittee shall notify the department immediately in accordance with the incident reporting requirements in Env-Sw 1005.09 and implement contingency procedures to ensure the protection of public health and safety.\n\n(f) A decomposition gas management program shall be implemented by the permittee under the provisions of the facility’s approved operating plan and closure plan to assure that the facility complies with the federal clean air act and state air quality standards.\n\n(g) A written plan for confined space entry, based on the standards specified by Federal Occupational, Safety and Health Administration (OSHA) requirements in 29 CFR 1910.146, shall be prepared and implemented as part of facility operations.\n\n(h) For landfills with active gas extraction systems, the permittee shall maintain authority for complete operational control of any and all gas extraction wells and blower systems, together with at least one mechanism for destroying the gas.\n\n(i) The permittee may transmit landfill gas collected using an active gas extraction system to other locations for use as fuel, provided the permittee complies with all federal, state, and local requirements that apply to the method by which the gas is transmitted.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2506.07); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

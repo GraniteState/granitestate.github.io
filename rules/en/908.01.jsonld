@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/908.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/908",
+  "definition": "Transferability",
+  "effectiveDate": "2026-04-27",
+  "expirationDate": "2036-04-27",
+  "historyNote": "#14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 908.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html",
+  "prefLabel": "En 908.01 Transferability",
+  "recordType": "rule-section",
+  "ruleText": "En 908.01 Transferability.\n\n(a) A customer-generator’s certificate to operate a net-metered facility shall transfer to the new owner when the property with the net-metered facility is sold or otherwise conveyed, if the new owner provides to the distribution utility in writing:\n\n(1) Any information that is new or different from that provided in connection with the interconnection application as described in En 1000; and\n\n(2) An agreement to operate and maintain the net-metered facility according to En 900, RSA 362-A, and other applicable requirements.\n\n(b) The distribution utility shall not deny a new owner acquiring a currently-registered net-metered facility, which otherwise complies with the requirements of En 900, the right to register, provided that the new owner complies with (a) above in this section.\n\n(c) The new customer-generator owner, as described in (a) and (b) in this section above, shall notify the distribution utility of the transfer and of the applicable information required by the utility’s interconnection application.\n\n(d) A net-metered facility transferred as described in this section shall not be deemed to have exited from the system.\n\n(e) If any change or upgrade in a net-metered facility would otherwise require new approval pursuant to En 1000, a mere transfer of ownership shall not relieve the customer-generator from that requirement.\n\nSource. #14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html"
+}

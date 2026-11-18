@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/500",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw",
+  "definition": "PROCESSING/TREATMENT FACILITY REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/501",
+    "https://granitestate.github.io/rules/env-sw/502",
+    "https://granitestate.github.io/rules/env-sw/503",
+    "https://granitestate.github.io/rules/env-sw/504",
+    "https://granitestate.github.io/rules/env-sw/505",
+    "https://granitestate.github.io/rules/env-sw/506",
+    "https://granitestate.github.io/rules/env-sw/507",
+    "https://granitestate.github.io/rules/env-sw/508"
+  ],
+  "notation": "Env-Sw 500",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html",
+  "prefLabel": "Env-Sw 500 PROCESSING/TREATMENT FACILITY REQUIREMENTS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Sw 500 PROCESSING/TREATMENT FACILITY REQUIREMENTS\n\nStatutory Authority: RSA 149-M:7\n\nRevision Note:\n\nDocument #8459, effective 10-28-05, readopted with amendments, renumbered, and redesignated former Chapter Env-Wm 2200 as Env-Sw 500, pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. The source notes for each section of Env-Sw 500 identify the former subtitle Env-Wm and number for the respective rule prior to Document #8459.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html"
+}

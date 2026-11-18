@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/3004.11",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Protection of Confidential Information",
+  "authority": [
+    {
+      "citation": "12-P:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/12-P/12-P-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "12-P:15",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-P/12-P-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/3004",
+  "definition": "Protection of Confidential Customer Information",
+  "effectiveDate": "2026-05-21",
+  "expirationDate": "2036-05-21",
+  "historyNote": "#14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 3004.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html",
+  "prefLabel": "En 3004.11 Protection of Confidential Customer Information",
+  "recordType": "rule-section",
+  "ruleText": "En 3004.11 Protection of Confidential Customer Information.\n\n(a) No CNGS or aggregator shall, except as permitted under (c) below in this section or as otherwise required by law, release confidential customer information without express written authorization from the customer.\n\n(b) A CNGS or aggregator shall implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect confidential customer information from unauthorized access, use, destruction, modification, or disclosure, and to prohibit the use of the confidential customer information for a secondary commercial purpose not related to the primary purpose of the service provided to the customer, without the express written consent of the customer.\n\n(c) A CNGS or aggregator may disclose to a third-party subject to non-disclosure restrictions confidential customer information as necessary for any one or more of the following purposes:\n\n(1) Billing for natural gas service;\n\n(2) Meeting natural gas system or other operational needs;\n\n(3) Implementing any one or more of the following programs:\n\na. Demand response;\n\nb. Customer assistance;\n\nc. Energy management; and\n\nd. Energy efficiency.\n\n(d) For purposes of this section, the term “non-disclosure restrictions” means that the CNGS or aggregator has required by contract that the third party implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the confidential customer information from unauthorized access, use, destruction, modification, or disclosure, and to prohibit the use of the confidential customer information for a secondary commercial purpose not related to the primary purpose of the contract without the express consent of the customer.\n\n(e) A customer granting authorization to release confidential customer information for purposes described in the terms and conditions of service shall satisfy the requirement in (a) above in this section.\n\n(f) A CNGS shall be deemed authorized to obtain customer usage information when it has received customer authorization as described in En 3004.04.\n\n(g) In the event of a dispute about the release of confidential customer information, including whether the information is or should be confidential, a CNGS, aggregator, or customer may file a complaint with the department pursuant to RSA 365:1.\n\nSource. #14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html"
+}

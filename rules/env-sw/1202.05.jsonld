@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1202.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1202",
+  "definition": "Permittee and Operator Qualifications",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2902.05); ss by #10595, eff 7-1-14; ss by #12045, eff 11-18-16; ss by #13865, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1202.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html",
+  "prefLabel": "Env-Sw 1202.05 Permittee and Operator Qualifications",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1202.05 Permittee and Operator Qualifications.\n\n(a) The permittee, facility owner, and property owner shall be the same person.\n\n(b) The permittee shall be in charge of operating the facility, maintaining responsibility for the facility, and all related operations.\n\n(c) The permittee shall provide compliance certification pursuant to Env-Sw 303.14.\n\n(d) If the facility has an active life longer than 90 days, each operator shall be certified pursuant to Env-Sw 1600 unless otherwise specified in these rules for a specific type of facility.\n\nSource. #6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2902.05); ss by #10595, eff 7-1-14; ss by #12045, eff 11-18-16; ss by #13865, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html"
+}

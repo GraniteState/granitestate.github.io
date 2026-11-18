@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1009.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374:2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1009",
+  "definition": "Screens",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1009.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1009.03 Screens",
+  "recordType": "rule-section",
+  "ruleText": "En 1009.03 Screens. The utility shall evaluate the application using the following screens as applicable:\n\n(a) The utility shall apply the minimum load screen analysis as follows:\n\n(1) Where 12 months of line section minimum load data, including onsite load but not station service load served by the proposed facility, are available, can be calculated, estimated from existing data, or determined from a power flow model, the facility’s export capacity aggregated with all other generation capable of exporting energy on the line section is less than 100 percent of the relevant minimum load for all line sections bounded by automatic sectionalizing devices upstream of the proposed facility;\n\n(2) If the minimum load data is not available, or cannot be calculated or estimated, the facility’s export capacity aggregated with all other generation capable of exporting energy on the line section is less than 30 percent of the peak load for all line sections bounded by automatic sectionalizing devices upstream of the proposed facility;\n\n(3) Load that is co-located with load-following, non-exporting, or export-limited generation shall be appropriately accounted for; and\n\n(4) The utility shall not consider as part of the aggregate export capacity for purposes of this screen facility export capacity, including combined heat and power (CHP) facility capacity, known to be already reflected in the minimum load data;\n\n(b) The utility shall apply the voltage and power quality screen. In instances where the facility limits export pursuant to En 1013, the export capacity instead of nameplate rating shall be utilized including power flow simulations. When combined with existing generation on the same line section, the aggregate impact shall be evaluated to ensure compliance with voltage and power quality standards:\n\n(1) The voltage regulation on the line section shall be maintained in compliance with relevant requirements under all system conditions;\n\n(2) The voltage fluctuation shall be within acceptable limits as defined by IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018 as available in Appendix B; and\n\n(3) The harmonic levels shall comply with limits at the RPA pursuant to the IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018, as available in Appendix B;\n\n(c) The utility shall apply the supplemental grounding screen if the facility failed the effective grounding screen pursuant to En 1008.03(l). The supplemental grounding screen shall be applied as follows:\n\n(1) For facilities with a rotating machine, effective grounding shall be maintained; or\n\n(2) For facilities with a three-phase inverter, the utility shall apply the following criteria to evaluate whether the DER is effectively grounded:\n\na. The line-to-neutral connected load on the feeder or line section is greater than 33 percent of peak load on the feeder or line section;\n\nb. If using a supplemental grounding software tool:\n\ni. The tool determines that supplemental grounding is not required to maintain effective grounding;\n\nii. If the tool determines that supplemental grounding is required, the applicant shall agree to modify the facility to include supplemental grounding; and\n\nc. If using a detailed hosting capacity analysis that incorporates evaluation of temporary overvoltage risk for inverters, the nameplate rating of the facility is below the available hosting capacity at the POI;\n\n(d) The utility shall apply the safety and reliability screen. The location of the proposed facility and the aggregate export capacity on the line section shall not create impacts to safety or reliability that cannot be adequately addressed without standard process review. If the facility limits export pursuant to En 1013, the export capacity shall be included in any analysis including power flow simulations, except when assessing fault current contribution. To assess fault current contribution, the rated fault current shall be used; and\n\n(e) When making a determination concerning the impacts to safety and reliability in applying the screen in (d) above in this section, the utility shall consider the following factors which shall include but not be limited to:\n\n(1) Whether the line section has significant minimum loading levels dominated by a small number of customers, for example several large commercial customers;\n\n(2) Whether there is an even or uneven distribution of loading along the feeder;\n\n(3) Whether the proposed facility is located in close proximity to the substation, for example < 2.5 electrical circuit miles, and whether the distribution line from the substation to the POI is composed of large conductor or feeder section, for example 600A class cable;\n\n(4) Whether the proposed facility incorporates a time delay function to prevent reconnection of the facility to the system until system voltage and frequency are within normal limits for a prescribed time;\n\n(5) Whether operational flexibility is reduced by the proposed facility, such that transfer of the line section(s) of the facility to a neighboring distribution circuit or substation might trigger overloads or voltage issues; and\n\n(6) Whether the proposed DER utilizes certified anti-islanding functions and equipment.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

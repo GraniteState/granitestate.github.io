@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/202.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/202",
+  "definition": "Waiver Issuance or Denial",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 202.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html",
+  "prefLabel": "Env-Hw 202.05 Waiver Issuance or Denial",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 202.05 Waiver Issuance or Denial.\n\n(a) The department shall notify the person requesting the waiver in writing of the department’s determination.\n\n(b) If the waiver request is part of a permit application, the granted waiver shall be incorporated into the permit if the permit application is approved.\n\n(c) With respect to waiver requests from classification as a regulated waste under 40 CFR 260.30, and waiver requests to be classified as a boiler, the department shall follow the review and notification procedures set forth in 40 CFR 260.33(b).\n\n(d) If the waiver request is denied, the notice sent pursuant to (a), above, shall include the reason(s) for the denial and information on how to appeal the decision.\n\nSource. #9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html"
+}

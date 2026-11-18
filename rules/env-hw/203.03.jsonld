@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/203.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/203",
+  "definition": "Exceptions",
+  "effectiveDate": "2019-11-23",
+  "historyNote": "#9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17; ss by #12921, eff 11-23-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 203.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html",
+  "prefLabel": "Env-Hw 203.03 Exceptions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 203.03 Exceptions. No claim of confidentiality shall be made with respect to the following:\n\n(a) Any non-confidential information specified in Env-C 208.06;\n\n(b) The name and address of any applicant for a permit;\n\n(c) Information contained on hazardous waste manifests or electronic manifests, a specified in 40 CFR 260.2(c); and\n\n(d) Information contained on hazardous waste export and import documents, as specified in 40 CFR 260.2(d).\n\nSource. #9361-A, eff 1-28-09; ss by #12344-A, eff 8-14-17; ss by #12921, eff 11-23-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html"
+}

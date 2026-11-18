@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/302.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "altLabel": "Limited Permit",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VIII",
+        "IX",
+        "IX-a",
+        "XXV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/302",
+  "definition": "Limited permit",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "(See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 302.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html",
+  "prefLabel": "Env-Hw 302.05 Limited permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 302.05 “Limited permit” means a permit issued to allow the operation of an elementary neutralization unit or wastewater treatment unit.\n\nSource. (See Revision Note at chapter heading for Env-Hw 300) #9362, eff 1-28-09; ss by #12345, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw300.html"
+}

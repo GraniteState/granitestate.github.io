@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/102.20",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Authorized Contact",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/102",
+  "definition": "Authorized contact",
+  "effectiveDate": "2024-10-23",
+  "historyNote": "#14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 102.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html",
+  "prefLabel": "Env-Sw 102.20 Authorized contact",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 102.20 “Authorized contact” means the primary contact associated with and designated by the facility owner, applicant, registrant, or permittee to be the contact individual for the proposed or existing facility.\n\nSource. #14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html"
+}

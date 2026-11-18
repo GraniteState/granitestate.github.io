@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/508.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "P/T Facilities Using Non-Select Processed Recyclable Materials",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/508",
+  "definition": "P/T Facilities Using Processed Non-Select Recyclable Materials",
+  "effectiveDate": "2024-08-01",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2208.07); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 508.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html",
+  "prefLabel": "Env-Sw 508.07 P/T Facilities Using Processed Non-Select Recyclable Materials",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 508.07 P/T Facilities Using Processed Non-Select Recyclable Materials. Subject to Env-Sw 508.02, no permit shall be required to collect, store, and use a processed non-select recyclable material to produce a certified waste-derived product of a type specified in Env-Sw 1503.04, Env-Sw 1503.05, or Env-Sw 1503.07.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2208.07); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/514.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/514",
+  "definition": "Interest on Unpaid Fees",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#10205, eff 10-19-12; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35 (formerly Env-Hw 514.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 514.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 514.05 Interest on Unpaid Fees",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 514.05 Interest on Unpaid Fees.\n\n(a) As specified in RSA 147-A:5, IV(c), if the self-certification fee is not paid within 60 days of the due date, interest shall be assessed.\n\n(b) The interest rate shall be the rate established by RSA 336:1, II.\n\nSource. #10205, eff 10-19-12; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35 (formerly Env-Hw 514.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

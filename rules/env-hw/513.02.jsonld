@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/513.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "VII",
+        "XXV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/513",
+  "definition": "Discharge Cleanup",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 513.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 513.02 Discharge Cleanup",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 513.02 Discharge Cleanup.\n\n(a) A generator shall immediately contain and cleanup, within 24 hours, any discharge of hazardous waste or material that, when discharged, becomes a hazardous waste.\n\n(b) All recovered hazardous waste, contaminated soil or surface water, and any other materials that result from a discharge shall be properly managed in accordance with this chapter and Env-Or 600.\n\n(c) If the hazardous waste discharge cannot be or is not cleaned up within 24 hours, then the generator shall comply with the requirements of Env-Or 600.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

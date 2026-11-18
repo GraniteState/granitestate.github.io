@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/509",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "XIII",
+        "XXVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/500",
+  "definition": "SMALL AND LARGE QUANTITY GENERATORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/509.01",
+    "https://granitestate.github.io/rules/env-hw/509.02",
+    "https://granitestate.github.io/rules/env-hw/509.03",
+    "https://granitestate.github.io/rules/env-hw/509.04"
+  ],
+  "notation": "Env-Hw 509",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 509 SMALL AND LARGE QUANTITY GENERATORS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 509 SMALL AND LARGE QUANTITY GENERATORS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

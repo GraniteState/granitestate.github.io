@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1000",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw",
+  "definition": "HAZARDOUS WASTE CLEANUP FUND",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/1001",
+    "https://granitestate.github.io/rules/env-hw/1002",
+    "https://granitestate.github.io/rules/env-hw/1003",
+    "https://granitestate.github.io/rules/env-hw/1004"
+  ],
+  "notation": "Env-Hw 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1000 HAZARDOUS WASTE CLEANUP FUND",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Hw 1000 HAZARDOUS WASTE CLEANUP FUND\n\nStatutory Authority: RSA 147-B:7\n\nREVISION NOTE:\n\nDocument #9367, effective 1-28-09, readopted with amendments and redesignated the former Chapter Env-Wm 1000 as Env-Hw 1000. Former Part Env-Wm 1004 on used oil collection centers, filed under Document #6385-B, effective 11-26-96, had expired 11-16-04, and was not included in Document #9367. The redesignation from subtitle Env-Wm to Env-Hw was done pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. Document #9367 replaces all prior filings for hazardous waste rules formerly in Chapter Env-Wm 1000. The numerals of the rules remained unchanged, and the source note information for the rules under Document #9367 refer to those same numbers under the subtitle Env-Wm.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

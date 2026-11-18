@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/307.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "III",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/307",
+  "definition": "Purpose",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 307.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 307.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 307.01 Purpose.\n\n(a) The purpose of the rules in this part is to:\n\n(1) Classify existing permits according to the system of permits specified in Env-Sw 302 so as to clearly identify how the existing permits will be administered by the department; and\n\n(2) Specify procedures by which the department will reissue an existing permit, if requested by the permittee, for the sole purpose of rewording the terms and conditions to clarify but not modify facility requirements under RSA 149-M, the solid waste rules, and the permit.\n\n(b) There is no intent by the rules in this part to modify the conditions of any existing permit.\n\nSource. (See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

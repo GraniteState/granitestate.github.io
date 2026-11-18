@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1006.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1006",
+  "definition": "Pre-Application Report Request",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1006.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1006.01 Pre-Application Report Request",
+  "recordType": "rule-section",
+  "ruleText": "En 1006.01 Pre-Application Report Request. Applicants who elect to submit a pre-application report to the utility as permitted by En 1003.01 shall include in their request the following information:\n\n(a) Contact information to include name, address, phone number, and email address;\n\n(b) A proposed POI that includes the latitude and longitude, site map, street address, utility equipment number, for example pole number, meter number, account number, or some combination of the above sufficient to clearly identify the location of the proposed POI;\n\n(c) Facility type, for example solar, wind, combined heat and power, storage, or solar-plus-storage;\n\n(d) Nameplate rating and export capacity, if different;\n\n(e) Single- or 3-phase configuration;\n\n(f) Whether the facility is stand-alone or will service onsite load;\n\n(g) Whether new service is requested; and\n\n(h) Non-refundable processing fee to the utility as approved by the commission.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

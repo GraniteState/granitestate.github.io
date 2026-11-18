@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/313.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Emergency Facility permit Application Processing",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/313",
+  "definition": "Emergency Facility Permit Application Processing",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 313.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 313.06 Emergency Facility Permit Application Processing",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 313.06 Emergency Facility Permit Application Processing. Applications for an emergency facility permit shall be processed by the department in accordance with Env-Sw 304 and Env-Sw 305, as follows:\n\n(a) Following receipt of a complete application, the department shall determine whether the information provided in the permit application and other available information demonstrates that the proposed activity shall be necessary to protect the environment, public health and safety;\n\n(b) If the department determines that the proposed activity is necessary to protect the environment, public health and safety and that all other requirements identified in Env-Sw 313.01(b) and Env-Sw 313.02 are met, the department shall issue the permit; and\n\n(c) If the department determines it shall issue a permit, authorization to commence the emergency response activity shall be given orally by the director, or person so authorized by the director, and a written permit shall be issued within 10 working days thereafter.\n\nSource. (See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

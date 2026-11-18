@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/903.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/903",
+  "definition": "Testing and Reporting Requirements",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 900); ss by #8459, eff 10-28-05 (formerly Env-Wm 2603.07); ss by #10598, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 903.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw900.html",
+  "prefLabel": "Env-Sw 903.07 Testing and Reporting Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 903.07 Testing and Reporting Requirements.\n\n(a) The generator of contaminated soil shall comply with the hazardous waste determination requirements in Env-Hw 502 and the other testing requirements in Env-Or 600, as applicable, prior to transferring the waste off-site if generated in New Hampshire or prior to transporting into New Hampshire if generated out-of-state.\n\n(b) The generator shall produce records of testing pursuant to (a) above, for inspection by the department.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 900); ss by #8459, eff 10-28-05 (formerly Env-Wm 2603.07); ss by #10598, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw900.html"
+}

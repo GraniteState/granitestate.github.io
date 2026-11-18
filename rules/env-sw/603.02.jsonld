@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/603.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/603",
+  "definition": "Siting Requirements",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2303.02); ss by #10596, eff 7-1-14; ss by #13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 603.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 603.02 Siting Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 603.02 Siting Requirements.\n\n(a) A composting facility’s waste collection, storage, and processing areas including areas used for feedstock mixing and active composting, shall be sited in compliance with the following:\n\n(1) At least 75 feet from a private drinking water supply well;\n\n(2) At least 75 feet from surface waters and wetlands; and\n\n(3) On a surface that is at least 2 feet above the seasonal high water table.\n\n(b) A composting facility’s waste collection, storage, and processing areas, including areas used for feedstock mixing and active composting, shall be located at least 2 feet above bedrock or sand and gravel deposits, unless the facility uses an impermeable surface under such collection, storage, and processing areas.\n\n(c) A composting facility shall not be sited within the sanitary protective area of a public water system well, as defined in Env-Dw 301.30, reprinted in Appendix C.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2303.02); ss by #10596, eff 7-1-14; ss by #13358, eff 4-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

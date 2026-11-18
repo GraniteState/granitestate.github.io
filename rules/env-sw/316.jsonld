@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/316",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "III",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/300",
+  "definition": "PERFORMANCE HISTORY REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/316.01",
+    "https://granitestate.github.io/rules/env-sw/316.02",
+    "https://granitestate.github.io/rules/env-sw/316.03",
+    "https://granitestate.github.io/rules/env-sw/316.04",
+    "https://granitestate.github.io/rules/env-sw/316.05",
+    "https://granitestate.github.io/rules/env-sw/316.06",
+    "https://granitestate.github.io/rules/env-sw/316.07"
+  ],
+  "notation": "Env-Sw 316",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 316 PERFORMANCE HISTORY REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 316 PERFORMANCE HISTORY REQUIREMENTS\n\nREVISION NOTE:\n\nDocument #13192, effective 4-23-21, readopted with amendments the “Personal Disclosure Form” (PDF), NHDES-S-05-036, pursuant to the expedited revisions to agency forms process in RSA 541-A:19-c. Document #13192 contained only the amended form, giving it a new effective date, and updated the form’s revision date from “04-24-14” to “April 2021”. The PDF form is incorporated by reference in Env-Sw 316.04(a) and Env-Sw 316.05(a) and (b)(2), but with some form requirements also set forth in Env-Sw 316.04(c), (d), and (f) and Env-Sw 316.06(a). Env-Sw 316.04 is titled “Use of Disclosure Forms; Signatures”, Env-Sw 316.05 is titled Entities and Individuals Required to Submit Signatures”, and Env-Sw 316.06 is titled “Scope of Disclosure”. The prior filing affecting Env-Sw 316.04, Env-Sw 316.05, and Env-Sw 316.06 was Document #10595, effective 7-1-14, and the effective date remained unchanged. The date of the PDF form in Env-Sw 316.04(a) and Env-Sw 316.05(a) and (b)(2) was subsequently changed editorially to “April 2021” because of Document #13192.\n\nDocument #13193, effective 4-23-21, readopted with amendments the “Business Disclosure Form” (BDF), NHDES-S-05-019, pursuant to the expedited revisions to agency forms process in RSA 541-A:19-c. Document #13193 contained only the amended form, giving it a new effective date, and updated the form’s revision date from “04-24-14” to “April 2021”. The BDF form is incorporated by reference in Env-Sw 316.04(b) and Env-Sw 316.05(a) and (b)(1), but with some form requirements also set forth in Env-Sw 316.04(c), (e), and (f) and Env-Sw 316.06(b). The date of the BDF form in Env-Sw 316.04(b) and Env-Sw 316.05(a) and (b)(1) was subsequently changed editorially to “April 2021” because of Document #13192.\n\nThe effective date of Env-Sw 316.04, Env-Sw 316.05, and Env-Sw 316.06 remained unchanged by Document #13192 and Document #13193. However, the requirements on the PDF and BDF forms with revision date “April 2021” would be the valid and enforceable rule in case of any conflict between the forms and the rules, since a form is defined as a “rule” in RSA 541-A:1, XV and is the later enactment.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

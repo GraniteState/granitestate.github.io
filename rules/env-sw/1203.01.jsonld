@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1203.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1203",
+  "definition": "Location Restrictions, New Permit-by-Notification Facilities",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#6619-B, eff 10-29-97; ss by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2903.01); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html",
+  "prefLabel": "Env-Sw 1203.01 Location Restrictions, New Permit-by-Notification Facilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1203.01 Location Restrictions, New Permit-by-Notification Facilities. The following restrictions shall apply to siting all new permit-by-notification facilities:\n\n(a) The facility shall not be sited on property that is subject to any on-going enforcement action by the department, unless the facility is approved by the department as part of the enforcement action and a copy of the approval is submitted with the application for the related permit-by-notification;\n\n(b) The facility shall not be sited within 50 feet of any property line;\n\n(c) The facility shall not be sited in a 100-year flood plain;\n\n(d) The facility shall be sited in conformance with Env-Sw 1003;\n\n(e) If the facility has an active life longer than 90 days, it shall be sited in conformance with Env-Sw 1102; and\n\n(f) The facility shall not be sited in a location that would violate the provisions of any groundwater management permit pursuant to Env-Or 607.\n\nSource. #6619-B, eff 10-29-97; ss by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2903.01); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html"
+}

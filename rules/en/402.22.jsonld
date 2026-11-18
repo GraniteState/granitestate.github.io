@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/402.22",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Transfer of Customer Base",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1-a",
+      "source": "https://granitestate.github.io/rsa/374/374-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:28-a",
+      "source": "https://granitestate.github.io/rsa/374/374-28-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-1-a",
+    "https://granitestate.github.io/rsa/374/374-28-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/402",
+  "definition": "Transfer of customer base",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 402.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 402.22 Transfer of customer base",
+  "recordType": "rule-section",
+  "ruleText": "En 402.22 “Transfer of customer base” means the acquisition through a sale or transfer of all or a part of the customer base of another carrier.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

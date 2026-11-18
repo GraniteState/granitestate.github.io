@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1800",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:32",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-32",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw",
+  "definition": "REDUCTION OF TOXICS IN PACKAGING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1801",
+    "https://granitestate.github.io/rules/env-sw/1802",
+    "https://granitestate.github.io/rules/env-sw/1803",
+    "https://granitestate.github.io/rules/env-sw/1804",
+    "https://granitestate.github.io/rules/env-sw/1805"
+  ],
+  "notation": "Env-Sw 1800",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html",
+  "prefLabel": "Env-Sw 1800 REDUCTION OF TOXICS IN PACKAGING",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Sw 1800 REDUCTION OF TOXICS IN PACKAGING\n\nStatutory Authority: RSA 149-M:7\n\nRevision Note:\n\nDocument #8459, effective 10-28-05, readopted with amendments, renumbered, and redesignated former Chapter Env-Wm 3500 as Env-Sw 1800, pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. The source notes for each section of Env-Sw 1800 identify the former subtitle Env-Wm and number for the respective rule prior to Document #8459.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html"
+}

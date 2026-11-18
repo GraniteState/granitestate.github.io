@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/805.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/805",
+  "definition": "Liner System Design Standards",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.05); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 805.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 805.05 Liner System Design Standards",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 805.05 Liner System Design Standards.\n\n(a) A liner system shall be comprised of the following components:\n\n(1) A liner which meets the requirements of Env-Sw 805.04;\n\n(2) A leachate collection and removal system which meets the requirements of Env-Sw 805.06; and\n\n(3) A leak detection and location system installed below the liner in (1) above, if required by Env-Sw 805.07.\n\n(b) A landfill shall incorporate one or more liner systems, as specified in Env-Sw 805.12 through Env-Sw 805.15, based on the type of wastes to be received by the facility.\n\n(c) Multi-liner systems shall be designed to place one liner system over another liner system.\n\n(d) A single-lined facility shall incorporate one liner system.\n\n(e) A double-lined facility shall incorporate 2 liner systems, separated by drainage material as specified in (f) below.\n\n(f) Except as provided by (g) below, each liner within a liner system shall be covered by a drainage geocomposite and an overlying layer of select granular soil drainage materials 12 inches in depth or more as required to:\n\n(1) Sustain anticipated loading conditions;\n\n(2) Protect the underlying liners from puncture, including simultaneous puncture of multi-liner systems;\n\n(3) Assist in the transmission of leachate in accordance with Env-Sw 805.06 and Env-Sw 806.05; and\n\n(4) At multi-liner facilities, limit the potential for hydraulic head to be concurrently experienced on an underlying liner in the event a leak develops in an overlying liner.\n\n(g) For multi-liner systems, geosynthetics alone may be used to separate the liners in areas of extended side slopes where placement and maintenance of granular soil drainage materials is not possible or practical for reasons of stability.\n\n(h) The design of all liner systems incorporating geomembrane materials shall include calculations to demonstrate stability, but in no case shall be designed to exceed a slope of 2 horizontal to 1 vertical (2H:1V).\n\n(i) All liner systems shall be constructed by controlled methods, in accordance with a quality assurance/quality control plan established pursuant to Env-Sw 805.16.\n\n(j) Liner systems shall not be penetrated by any appurtenances.\n\n(k) For multi-liner systems, GCLs shall extend across base areas and 10 feet up sideslopes, as measured in vertical feet.\n\n(l) Each liner system in a multi-liner system shall be hydraulically separate.\n\n(m) Liner systems shall extend at least 3 feet beyond the limit of waste, as measured in vertical feet.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.05); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

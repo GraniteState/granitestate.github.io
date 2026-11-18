@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/310.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Type I-A and I-B Permit Modification Fees",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/310",
+  "definition": "Type I-A and Type I-B Permit Modification Fees",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 310.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 310.07 Type I-A and Type I-B Permit Modification Fees",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 310.07 Type I-A and Type I-B Permit Modification Fees.\n\n(a) The fee for filing an application for a type I-A permit modification as specified in Env-Sw 315.02 shall be the greater of the following:\n\n(1) $1,500; or\n\n(2) If the modification will increase the capacity of the facility, the PAF calculated in accordance with Env-Sw 310.02 using the CF in Table 310-II that corresponds to the net increase in permitted facility capacity and the LI in Table 310-III that corresponds to the remaining life of the facility if modified as proposed, plus the cost of PNH pursuant to Env-Sw 304, and hiring an independent licensed PEG pursuant to Env-Sw 304.04(h) and Env-Sw 304.08(b).\n\n(b) The fee for filing an application for a type I-B permit modification as specified in Env-Sw 315.02 shall be $100, plus the cost of hiring an independent licensed PEG pursuant to Env-Sw 304.04(h) and Env-Sw 304.08(b).\n\nSource. (See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

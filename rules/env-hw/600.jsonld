@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/600",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:6",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw",
+  "definition": "REQUIREMENTS FOR HAZARDOUS WASTE TRANSPORTERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/601",
+    "https://granitestate.github.io/rules/env-hw/602",
+    "https://granitestate.github.io/rules/env-hw/603",
+    "https://granitestate.github.io/rules/env-hw/604",
+    "https://granitestate.github.io/rules/env-hw/605",
+    "https://granitestate.github.io/rules/env-hw/606",
+    "https://granitestate.github.io/rules/env-hw/607",
+    "https://granitestate.github.io/rules/env-hw/608",
+    "https://granitestate.github.io/rules/env-hw/609",
+    "https://granitestate.github.io/rules/env-hw/610"
+  ],
+  "notation": "Env-Hw 600",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html",
+  "prefLabel": "Env-Hw 600 REQUIREMENTS FOR HAZARDOUS WASTE TRANSPORTERS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Hw 600 REQUIREMENTS FOR HAZARDOUS WASTE TRANSPORTERS\n\nStatutory Authority: RSA 147-A:3\n\nREVISION NOTE #1:\n\nDocument #9367, effective 1-28-09, readopted with amendments and redesignated the former Chapter Env-Wm 600 as Env-Hw 600. The redesignation from subtitle Env-Wm to Env-Hw was done pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. Document #9367 replaced all prior filings for hazardous waste rules formerly in Chapter Env-Wm 600. The numerals of the rules remained unchanged, and the source note information for the rules under Document #9367 refer to those same numbers under the subtitle Env-Wm.\n\nREVISION NOTE #2:\n\nDocument #12922, effective 11-23-19, readopted with amendments, repealed, or amended various rules in Chapter Env-Hw 600. Rule Env-Hw 609.01 titled “Registration Process” was amended. The following rules in Chapter Env-Hw 600 were readopted with amendments:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html"
+}

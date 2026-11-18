@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1007.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1007",
+  "definition": "Screens Failure",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1007.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1007.05 Screens Failure",
+  "recordType": "rule-section",
+  "ruleText": "En 1007.05 Screens Failure.\n\n(a) Despite the failure of one or more screens, the utility may authorize an applicant or facility to interconnect to the EDS provided such interconnection does not compromise the safe and reliable operation of the EDS.\n\n(b) If the utility determines that the facility cannot interconnect based on screen results, the utility shall provide the applicant with the screen results detailing the specific screens that the application failed, including the technical reason for failure. The screen results shall include information about the specific system threshold or limitation causing the application to fail the screen, and the utility shall discuss the applicant’s options to interconnect based on current circumstances. Upon review of the screen results, the utility shall allow the applicant to undergo supplemental review, in accordance with En 1009. The applicant shall notify the utility of its selection to proceed to further study within 10 business days or the application shall be deemed withdrawn.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

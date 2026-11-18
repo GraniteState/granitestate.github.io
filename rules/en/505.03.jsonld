@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/505.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/505",
+  "definition": "Test and Calibration of Meters",
+  "effectiveDate": "2023-10-25",
+  "historyNote": "#13796, eff 10-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 505.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html",
+  "prefLabel": "En 505.03 Test and Calibration of Meters",
+  "recordType": "rule-section",
+  "ruleText": "En 505.03 Test and Calibration of Meters.\n\n(a) Each utility shall test all meters for accuracy at both check flow and open flow, as found, prior to adjustment or repair, except for meters removed from service specifically for known leakage, damage, tampering, or non-registration, and meters that have been selected for retirement.\n\n(b) Each utility shall monitor those meters which have been removed from service specifically for known leakage, damage or non-registration on an annual basis to identify problems with certain meter types or manufacturer.\n\n(c) Each utility shall calculate meter accuracy by adding open flow accuracy and check flow accuracy, and dividing the sum by 2.\n\n(d) Each utility shall maintain records for each group of meters and shall include in such records the meter accuracy rates for each group for the previous calendar year.\n\n(e) The established meter groups identified in Table 505-1 shall be tested under this part as follows:\n\nTable 505-1 Established Meter Groups\n\nGROUP | TYPE | CAPACITY\n\nA | Diaphragm | 0 to 500 cubic feet per hour (CFH)\n\nB | Diaphragm | Greater than 500 CFH\n\nC | Rotary | All\n\nD | Turbine | All\n\nE | Ultrasonic | All\n\n(f) Utilities shall divide the meter accuracy data into 3 accuracy categories, each expressed as a percentage of the total number of meters in a group, as follows:\n\n(1) Slow meters;\n\n(2) Those meters with an accuracy rate of plus or minus 2 percent; and\n\n(3) Fast meters.\n\n(g) When calculating the accuracy categories for (f)(1) through (3) above, the utility shall round the result up to the next whole number.\n\n(h) When a remote meter read device is utilized, the utility shall verify the accuracy of the remote read device whenever the meter is removed from service.\n\nSource. #13796, eff 10-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html"
+}

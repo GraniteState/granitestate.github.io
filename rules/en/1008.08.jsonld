@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1008.08",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1008",
+  "definition": "IA Execution",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1008.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1008.08 IA Execution",
+  "recordType": "rule-section",
+  "ruleText": "En 1008.08 IA Execution.\n\n(a) An applicant that receives an IA shall have 15 business days to execute the agreement and return it to the utility along with any required payment due upon execution of the IA.\n\n(b) Failure to submit an executed IA with the necessary payment shall result in withdrawal of the application from the queue upon the utility notifying the applicant unless the applicant and the utility mutually agree to extend the deadline pursuant to En 1014.02.\n\n(c) Within 24 months from an applicant’s execution of an IA or 6 months of completion of any EDS modifications, whichever is later, the facility shall commence operation unless the applicant and utility agree to an extension. The applicant shall provide the utility with notice of the completion of construction of the facility.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

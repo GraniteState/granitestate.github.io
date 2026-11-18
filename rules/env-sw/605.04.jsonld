@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/605.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/605",
+  "definition": "Minimum Quality Requirements",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#5172, eff 7-1-91; amd by #5295, eff 12-24-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.04); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 605.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 605.04 Minimum Quality Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 605.04 Minimum Quality Requirements. Finished compost shall meet the following requirements:\n\n(a) The presence of heavy metals shall not exceed the ceiling concentrations specified in Table 600-1:\n\nTable 600-1: Ceiling Concentrations for Heavy Metals\n\nConstituent | Maximum Total Concentration (mg/kg dry weight)\n\nArsenic | 11\n\nCadmium | 14\n\nChromium | 1,000\n\nCopper | 1,500\n\nLead | 300\n\nMercury | 7\n\nMolybdenum | 35\n\nNickel | 200\n\nSelenium | 28\n\nZinc | 2,500\n\n(b) The presence of salmonella sp. shall not exceed 3 most probable number (MPN) per 4 grams of total solids (dry weight basis);\n\n(c) The presence of fecal coliform shall not exceed 1,000 MPN per gram of total solids (dry weight basis); and\n\n(d) The presence of man-made inert matter greater than 4mm in size shall not exceed 0.25% of total solids (dry weight basis).\n\nSource. #5172, eff 7-1-91; amd by #5295, eff 12-24-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.04); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}
