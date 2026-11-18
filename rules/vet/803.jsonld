@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/vet/803",
+  "@type": "Concept",
+  "agencyCode": "Vet",
+  "authority": [
+    {
+      "citation": "332-B:7-a",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/332-B/332-B-7-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/332-B/332-B-7-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/vet/800",
+  "definition": "STUDENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/vet/803.01"
+  ],
+  "notation": "Vet 803",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html",
+  "prefLabel": "Vet 803 STUDENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Vet 803 STUDENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html"
+}

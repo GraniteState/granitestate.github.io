@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rab/401",
+  "@type": "Concept",
+  "agencyCode": "Rab",
+  "authority": [
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:12-b",
+      "paragraphs": [
+        "III",
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:12-e",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:12-n",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-B:13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/rab/400",
+  "definition": "RENEWALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rab/401.01",
+    "https://granitestate.github.io/rules/rab/401.02",
+    "https://granitestate.github.io/rules/rab/401.03",
+    "https://granitestate.github.io/rules/rab/401.04",
+    "https://granitestate.github.io/rules/rab/401.05"
+  ],
+  "notation": "Rab 401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rab100-500.html",
+  "prefLabel": "Rab 401 RENEWALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rab 401 RENEWALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rab100-500.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec/205.06",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "authority": [
+    {
+      "citation": "328-I:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-I:11",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mtec/205",
+  "definition": "Signature on a Document",
+  "effectiveDate": "2016-05-05",
+  "historyNote": "#11091-A, eff 5-5-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mtec 205.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec200.html",
+  "prefLabel": "Mtec 205.06 Signature on a Document",
+  "recordType": "rule-section",
+  "ruleText": "Mtec 205.06 Signature on a Document.\n\n(a) A party or representative’s signature on a document filed with the board shall constitute certification that:\n\n(1) The signer has read the document;\n\n(2) The signer is authorized to file it;\n\n(3) To the best of the signer's knowledge, information, and belief, there are good grounds to support it; and\n\n(4) The document has not been filed for purposes of delay or harassment.\n\nSource. #11091-A, eff 5-5-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec200.html"
+}

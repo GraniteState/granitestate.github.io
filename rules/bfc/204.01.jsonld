@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bfc/204.01",
+  "@type": "Concept",
+  "agencyCode": "Bfc",
+  "authority": [
+    {
+      "citation": "153:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)",
+        "I(c)",
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bfc/204",
+  "definition": "Computation of Time",
+  "effectiveDate": "2014-03-25",
+  "historyNote": "#10553-A, eff 3-25-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bfc 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bfc200.html",
+  "prefLabel": "Bfc 204.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Bfc 204.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday or state legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday or state legal holiday.\n\nSource. #10553-A, eff 3-25-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bfc200.html"
+}

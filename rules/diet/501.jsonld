@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/diet/501",
+  "@type": "Concept",
+  "agencyCode": "Diet",
+  "authority": [
+    {
+      "citation": "326-H",
+      "source": "https://granitestate.github.io/rsa/326-H",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-H"
+  ],
+  "broader": "https://granitestate.github.io/rules/diet/500",
+  "definition": "ETHICAL OBLIGATIONS OF LICENSED DIETITIANS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/diet/501.01",
+    "https://granitestate.github.io/rules/diet/501.02",
+    "https://granitestate.github.io/rules/diet/501.03"
+  ],
+  "notation": "Diet 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/diet100-500.html",
+  "prefLabel": "Diet 501 ETHICAL OBLIGATIONS OF LICENSED DIETITIANS",
+  "recordType": "rule-part",
+  "ruleText": "PART Diet 501 ETHICAL OBLIGATIONS OF LICENSED DIETITIANS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/diet100-500.html"
+}

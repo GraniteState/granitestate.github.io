@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/301.01",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:124",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:125",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-125",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-125"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/301",
+  "definition": "Application Process",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 301.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 301.01 Application Process",
+  "recordType": "rule-section",
+  "ruleText": "Geo 301.01 Application Process.\n\n(a) Persons wishing to become licensed as a professional geologist shall submit an application form for licensure provided by the board which contains the information specified in Geo 301.02 including the application fee specified in Geo 305.02.\n\n(b) The board shall acknowledge receipt of an application for licensure within 60 days of acceptance for filing and shall notify the applicant of any deficiencies in the application. Failure to remedy the deficiencies within 60 days from notification shall result in denial of the application. An application shall be considered on file with the board when all deficiencies are corrected.\n\n(c) If the application for licensure is denied, the applicant shall be provided an opportunity to request a hearing pursuant to Geo 213.03 on the deficiency issues identified by the board. Any such request shall be made in writing and received by the board within 30 days of the receipt of the notification of denial.\n\n(d) Applications which are abandoned or have had no communication by the applicant to the board for one year shall be destroyed.\n\nSource. #7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

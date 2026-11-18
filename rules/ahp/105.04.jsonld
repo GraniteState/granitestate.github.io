@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/105.04",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/105",
+  "definition": "Public Access to Records",
+  "effectiveDate": "2023-06-24",
+  "historyNote": "#12724, eff 2-15-19 ss by #13626, eff 6-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 105.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 105.04 Public Access to Records",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 105.04 Public Access to Records.\n\n(a) Pursuant to RSA 91-A:4 members of the public may inspect and copy those records of the board, including meeting minutes, which are public records and not exempt from disclosure by RSA 91-A:5, RSA 328-F:24, I, or other applicable law.\n\n(b) Public records shall be inspected and copied during regular business hours at the office of the board at the location stated in Ahp 105.01(a).\n\n(c) If records are requested which contain both public information and information exempt from disclosure pursuant to RSA 91-A or other law, the office of professional licensure and certification shall, acting for the board, delete the information exempt from disclosure and provide the remaining information.\n\nSource. #12724, eff 2-15-19 ss by #13626, eff 6-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

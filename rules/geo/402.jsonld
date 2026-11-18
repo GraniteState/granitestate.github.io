@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/402",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:133",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-133",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:135",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-133"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/400",
+  "definition": "DISCIPLINARY MATTERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/geo/402.01",
+    "https://granitestate.github.io/rules/geo/402.02",
+    "https://granitestate.github.io/rules/geo/402.03",
+    "https://granitestate.github.io/rules/geo/402.04"
+  ],
+  "notation": "Geo 402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 402 DISCIPLINARY MATTERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Geo 402 DISCIPLINARY MATTERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

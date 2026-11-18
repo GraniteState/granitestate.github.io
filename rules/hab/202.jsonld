@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hab/202",
+  "@type": "Concept",
+  "agencyCode": "Hab",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hab/200",
+  "definition": "GENERAL RULES GOVERNING RSA 679 APPEALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hab/202.01",
+    "https://granitestate.github.io/rules/hab/202.02",
+    "https://granitestate.github.io/rules/hab/202.03",
+    "https://granitestate.github.io/rules/hab/202.04",
+    "https://granitestate.github.io/rules/hab/202.05"
+  ],
+  "notation": "Hab 202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html",
+  "prefLabel": "Hab 202 GENERAL RULES GOVERNING RSA 679 APPEALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Hab 202 GENERAL RULES GOVERNING RSA 679 APPEALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html"
+}

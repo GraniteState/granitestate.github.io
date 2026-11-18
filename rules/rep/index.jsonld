@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rep",
+  "@type": "Concept",
+  "agencyCode": "Rep",
+  "definition": "Advisory Board of Court Reporters (formerly the Board of Court Reporters, with rulemaking authority transferred to the Executive Director of the Office of Professional Licensure and Certification. See RSA 310-A:164, pursuant to 2022, 64:6, effective 7-19-22. Rules will eventually be renumbered “Plc”.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rep/100",
+    "https://granitestate.github.io/rules/rep/200",
+    "https://granitestate.github.io/rules/rep/300",
+    "https://granitestate.github.io/rules/rep/400",
+    "https://granitestate.github.io/rules/rep/500"
+  ],
+  "notation": "Rep",
+  "prefLabel": "Rep Advisory Board of Court Reporters",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

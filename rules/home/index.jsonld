@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/home",
+  "@type": "Concept",
+  "agencyCode": "Home",
+  "definition": "Board of Home Inspectors (See RSA 310-A:187, pursuant to 2008, 339:1, effective 7-1-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/home/100",
+    "https://granitestate.github.io/rules/home/200",
+    "https://granitestate.github.io/rules/home/300",
+    "https://granitestate.github.io/rules/home/400",
+    "https://granitestate.github.io/rules/home/500",
+    "https://granitestate.github.io/rules/home/600"
+  ],
+  "notation": "Home",
+  "prefLabel": "Home Board of Home Inspectors",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hab/201.03",
+  "@type": "Concept",
+  "agencyCode": "Hab",
+  "authority": [
+    {
+      "citation": "21:35",
+      "source": "https://granitestate.github.io/rsa/21/21-35",
+      "via": "appendix"
+    },
+    {
+      "citation": "677:4",
+      "source": "https://granitestate.github.io/rsa/677/677-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "677:15",
+      "source": "https://granitestate.github.io/rsa/677/677-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "679:6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21/21-35",
+    "https://granitestate.github.io/rsa/677/677-4",
+    "https://granitestate.github.io/rsa/677/677-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/hab/201",
+  "definition": "Computation of Time",
+  "effectiveDate": "2021-07-07",
+  "historyNote": "#13226 eff 7-7-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hab 201.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html",
+  "prefLabel": "Hab 201.03 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Hab 201.03 Computation of Time.\n\n(a) In computing any period of time prescribed in RSA 679, RSA 677:4, RSA 677:15 or allowed by these rules, the last day of the period so computed shall be included, unless it is a Saturday or Sunday, a federal or state legal holiday, or any day on which the filing office is officially closed for the day or not open during the office’s normal hours in accordance with RSA 21:35.\n\n(b) Unless authorized by statute, the board shall not enlarge time periods prescribed by statute.\n\n(c) Unless otherwise specified by law, rule, or order, when a party is required to act within a certain number of days in commencing an appeal, that period shall begin as provided in RSA 679:5, I. Regarding housing appeals board orders, the date the Clerk signs the order or other communication shall be the starting date. The clerk shall mail all orders or other communications on the date indicated on the document.\n\nSource. #13226 eff 7-7-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html"
+}

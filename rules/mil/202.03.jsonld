@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/202.03",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/202",
+  "definition": "Prehearing Conference",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 202.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 202.03 Prehearing Conference",
+  "recordType": "rule-section",
+  "ruleText": "Mil 202.03 Prehearing Conference. Any party may request, or the presiding officer shall schedule on his or her own initiative, a pre-hearing conference to consider one or more of the following:\n\n(a) Offers of settlement;\n\n(b) Simplification of the issues;\n\n(c) Stipulations or admissions as to issues of fact or proof by consent of the parties;\n\n(d) Limitations on the number of witnesses;\n\n(e) Changes to standard procedures desired during the hearing by consent of the parties;\n\n(f) The distribution of written testimony, if any, and exhibits to the parties;\n\n(g) Consolidation of examination of witnesses; and\n\n(h) Any other matters which aid in the disposition of the proceeding.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

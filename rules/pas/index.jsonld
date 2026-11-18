@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "definition": "Passenger Tramway Safety Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pas/100",
+    "https://granitestate.github.io/rules/pas/200",
+    "https://granitestate.github.io/rules/pas/300"
+  ],
+  "notation": "Pas",
+  "prefLabel": "Pas Passenger Tramway Safety Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

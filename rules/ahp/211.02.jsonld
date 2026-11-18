@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/211.02",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/211",
+  "definition": "Failure of a Party to Attend or Participate in the Hearing",
+  "effectiveDate": "2004-05-01",
+  "historyNote": "#7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 211.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 211.02 Failure of a Party to Attend or Participate in the Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 211.02 Failure of a Party to Attend or Participate in the Hearing.\n\n(a) A party shall be in default if the party:\n\n(1) Has the overall burden of proof;\n\n(2) Has been given notice in accordance with Ahp 209.01; and\n\n(3) Fails to attend the hearing.\n\n(b) If a party is in default under (a) above, the case shall be dismissed.\n\n(c) If a party who does not have the overall burden of proof fails to attend a hearing after having been given notice in accordance with Ahp 209.01, the testimony and evidence of any other parties or intervenors shall be received and evaluated.\n\n(d) If a party who has the overall burden of proof attends a hearing but fails to participate by presenting evidence or argument, a decision shall be entered against that party.\n\n(e) The board shall not dismiss the case under (b) above if the failure to attend results from circumstances that are beyond the control of the party.\n\nSource. #7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

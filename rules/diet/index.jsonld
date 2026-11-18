@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/diet",
+  "@type": "Concept",
+  "agencyCode": "Diet",
+  "definition": "Board of Licensed Dietitians (See RSA 326-H:10, I pursuant to 2000, 168:1, effective 1-1-01.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/diet/100",
+    "https://granitestate.github.io/rules/diet/200",
+    "https://granitestate.github.io/rules/diet/300",
+    "https://granitestate.github.io/rules/diet/400",
+    "https://granitestate.github.io/rules/diet/500"
+  ],
+  "notation": "Diet",
+  "prefLabel": "Diet Board of Licensed Dietitians",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

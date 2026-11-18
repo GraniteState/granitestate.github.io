@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/104.02",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310-A:142",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-142",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-142",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/104",
+  "definition": "Custodian of Records",
+  "effectiveDate": "2023-07-09",
+  "historyNote": "#8858, eff 3-28-07; ss by #13630, eff 7-9-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lsa 104.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 104.02 Custodian of Records",
+  "recordType": "rule-section",
+  "ruleText": "Lsa 104.02 Custodian of Records. Persons desiring copies of board records shall submit a request which identifies as particularly as possible the information being sought. If records are requested which contain both public and confidential information, the board shall delete the confidential information and provide the remaining information.\n\nSource. #8858, eff 3-28-07; ss by #13630, eff 7-9-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

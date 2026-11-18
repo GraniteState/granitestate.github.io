@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bcr/214.03",
+  "@type": "Concept",
+  "agencyCode": "Bcr",
+  "authority": [
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bcr/214",
+  "definition": "Disposition of Petition",
+  "effectiveDate": "2012-07-13",
+  "historyNote": "#8044, eff 2-17-04; ss by #10073, INTERIM, eff 1-17-12, EXPIRES: 7-16-12; ss by #10161, eff 7-13-12",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bcr 214.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr200.html",
+  "prefLabel": "Bcr 214.03 Disposition of Petition",
+  "priorExpiration": "2012-07-16",
+  "recordType": "rule-section",
+  "ruleText": "Bcr 214.03 Disposition of Petition.\n\n(a) The board shall by order, grant or deny a petition for the update or changing of the state building code in accordance with the requirements of RSA 155-A.\n\n(b) Upon receipt of a petition, the board shall vote whether to send the matter to a public hearing to be held within 30 days of the vote.\n\n(c) If the board votes to send the matter to a public hearing and after the public hearing, the board shall vote whether to update or change the state building code.\n\n(d) Notwithstanding any rule to the contrary, if imminent public safety issues are at stake, the board shall waive the need for a public hearing and adopt the rule change, however a public hearing shall be held within 60 days of the vote.\n\nSource. #8044, eff 2-17-04; ss by #10073, INTERIM, eff 1-17-12, EXPIRES: 7-16-12; ss by #10161, eff 7-13-12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr200.html"
+}

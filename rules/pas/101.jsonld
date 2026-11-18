@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/101",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:3-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "225-A:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pas/101.01",
+    "https://granitestate.github.io/rules/pas/101.02"
+  ],
+  "notation": "Pas 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pas 101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

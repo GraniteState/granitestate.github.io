@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/204.06",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/203",
+  "definition": "Public Access",
+  "effectiveDate": "2004-07-30",
+  "historyNote": "#8132, eff 7-30-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 204.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 204.06 Public Access",
+  "recordType": "rule-section",
+  "ruleText": "Pas 204.06 Public Access.\n\n(a) Except as otherwise provided by law, administrative hearings shall be open to the public.\n\n(b) Members of the press shall be admitted to the hearings whenever the public is permitted. If the press is present at a hearing, the presiding officer shall brief them, on the record, in the presence of all parties, as to the nature and purpose of the hearing.\n\nSource. #8132, eff 7-30-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/104.02",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "authority": [
+    {
+      "citation": "275-C:14",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/104",
+  "definition": "Communication with the Committee",
+  "effectiveDate": "2019-09-20",
+  "historyNote": "#7473, eff 4-5-01; ss by #12872, eff 9-20-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Abfd 104.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 104.02 Communication with the Committee",
+  "recordType": "rule-section",
+  "ruleText": "Abfd 104.02 Communication with the Committee. Persons wishing to correspond with the committee may do so by using the contact information as outlined in Abfd 104.01.\n\nSource. #7473, eff 4-5-01; ss by #12872, eff 9-20-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

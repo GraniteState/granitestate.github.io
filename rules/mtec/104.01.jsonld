@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec/104.01",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "authority": [
+    {
+      "citation": "328-I",
+      "source": "https://granitestate.github.io/rsa/328-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/328-I",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mtec/104",
+  "definition": "Information Sharing",
+  "effectiveDate": "2016-05-05",
+  "historyNote": "#11091-A, eff 5-5-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mtec 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html",
+  "prefLabel": "Mtec 104.01 Information Sharing",
+  "recordType": "rule-section",
+  "ruleText": "Mtec 104.01 Information Sharing.\n\n(a) Pursuant to RSA 328-I:11, I, information gathered during a board investigation shall not be subject to disclosure under the public disclosure provisions of RSA 91-A, unless:\n\n(1) The information becomes the subject of a public disciplinary hearing;\n\n(2) The information is requested by a law enforcement agency in this state, another state or province;\n\n(3) The information is requested by a federal law enforcement agency or the Office of Inspector General, United States Department of Health and Human Services;\n\n(4) Disclosure is permitted by a specific New Hampshire statutory provision; or\n\n(5) Disclosure, partial disclosure, or disclosure in accordance with a protective order is ordered by a court of competent jurisdiction.\n\n(b) Pursuant to RSA 328-I:3, VII, the contents of the database of registered medical technicians shall be shared with:\n\n(1) Other licensing boards or advisory committees within this state;\n\n(2) Licensing boards or advisory committees outside of this state with jurisdiction over medical technicians;\n\n(3) The Office of Inspector General, United States Department of Health and Human Services; or\n\n(4) Law enforcement entities in this state, other states, or of the United States.\n\nSource. #11091-A, eff 5-5-16\n\nAPPENDIX\n\nRule | Statute\n\nMtec 101 | RSA 328-I:1 and RSA 541-A:16, I(a)\n\nMtec 102 | RSA 541-A:7 and RSA 541-A:16, I(a)\n\nMtec 103 | RSA 328-I and RSA 541-A:16, I(a)\n\nMtec 104 | RSA 328-I and RSA 541-A:16, I(a)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rep/100",
+  "@type": "Concept",
+  "agencyCode": "Rep",
+  "altLabel": "REPEALED",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "310-A:164",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/rep",
+  "definition": "DEFINITIONS, ORGANIZATION AND PUBLIC INFORMATION--REPEALED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rep 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1200.html",
+  "prefLabel": "Rep 100 DEFINITIONS, ORGANIZATION AND PUBLIC INFORMATION--REPEALED",
+  "recordType": "rule-chapter",
+  "ruleText": "Rep 100\n\n#9150, effective 5-2-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1200.html"
+}

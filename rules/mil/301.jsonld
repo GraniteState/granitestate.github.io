@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/301",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "184:93",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "184:103",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/300",
+  "definition": "INSPECTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mil/301.01",
+    "https://granitestate.github.io/rules/mil/301.02",
+    "https://granitestate.github.io/rules/mil/301.03",
+    "https://granitestate.github.io/rules/mil/301.04"
+  ],
+  "notation": "Mil 301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 301 INSPECTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Mil 301 INSPECTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

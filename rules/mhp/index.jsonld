@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mhp",
+  "@type": "Concept",
+  "agencyCode": "Mhp",
+  "definition": "Board of Mental Health Practice (Formerly the Board of Examiners of Psychology and Mental Health Practice. See RSA 330-A:10 and 1998, 234:1, effective 10-31-98.) www.state.nh.us/mhpb",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mhp/100",
+    "https://granitestate.github.io/rules/mhp/200",
+    "https://granitestate.github.io/rules/mhp/300",
+    "https://granitestate.github.io/rules/mhp/400",
+    "https://granitestate.github.io/rules/mhp/500"
+  ],
+  "notation": "Mhp",
+  "prefLabel": "Mhp Board of Mental Health Practice",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

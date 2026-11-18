@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/703",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "altLabel": "SUPERVISION OF ACUPUNCTURE DETOXIFICATION SPECIALISTS",
+  "authority": [
+    {
+      "citation": "328-G:7",
+      "paragraphs": [
+        "V",
+        "XIV(a)",
+        "(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-G:9-a",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/700",
+  "definition": "SUPERVISION OF ACUPUNCTURE DETOXIFCATION SPECIALISTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/acp/703.01",
+    "https://granitestate.github.io/rules/acp/703.02"
+  ],
+  "notation": "Acp 703",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 703 SUPERVISION OF ACUPUNCTURE DETOXIFCATION SPECIALISTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Acp 703 SUPERVISION OF ACUPUNCTURE DETOXIFCATION SPECIALISTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

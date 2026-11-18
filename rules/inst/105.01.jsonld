@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/inst/105.01",
+  "@type": "Concept",
+  "agencyCode": "Inst",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/inst/105",
+  "definition": "Requests for Information",
+  "effectiveDate": "2025-01-17",
+  "historyNote": "#8492, eff 12-24-05; amd by #10112, eff 4-14-12; ss by #14111, eff 1-17-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Inst 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/inst100-700.html",
+  "prefLabel": "Inst 105.01 Requests for Information",
+  "recordType": "rule-section",
+  "ruleText": "Inst 105.01 Requests for Information. Request for information and access to records shall be as described in Plc 103.\n\nSource. #8492, eff 12-24-05; amd by #10112, eff 4-14-12; ss by #14111, eff 1-17-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/inst100-700.html"
+}

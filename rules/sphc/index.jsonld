@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sphc",
+  "@type": "Concept",
+  "agencyCode": "Sphc",
+  "definition": "Governing Board of Speech-Language Pathologists and Hearing Care Providers (renumbered from rules Spe and Hcp ).",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/sphc/100",
+    "https://granitestate.github.io/rules/sphc/200",
+    "https://granitestate.github.io/rules/sphc/500"
+  ],
+  "notation": "Sphc",
+  "prefLabel": "Sphc Governing Board of Speech-Language Pathologists and Hearing Care Providers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

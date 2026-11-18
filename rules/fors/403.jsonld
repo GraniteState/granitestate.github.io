@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fors/403",
+  "@type": "Concept",
+  "agencyCode": "Fors",
+  "authority": [
+    {
+      "citation": "310-A:102",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "310-A:108",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "310-A:109",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "310-A:110",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/fors/400",
+  "definition": "CONTINUING EDUCATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fors/403.01",
+    "https://granitestate.github.io/rules/fors/403.02",
+    "https://granitestate.github.io/rules/fors/403.03",
+    "https://granitestate.github.io/rules/fors/403.04",
+    "https://granitestate.github.io/rules/fors/403.05",
+    "https://granitestate.github.io/rules/fors/403.06",
+    "https://granitestate.github.io/rules/fors/403.07",
+    "https://granitestate.github.io/rules/fors/403.08"
+  ],
+  "notation": "Fors 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html",
+  "prefLabel": "Fors 403 CONTINUING EDUCATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Fors 403 CONTINUING EDUCATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html"
+}

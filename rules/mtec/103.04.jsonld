@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec/103.04",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "authority": [
+    {
+      "citation": "328-I",
+      "source": "https://granitestate.github.io/rsa/328-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/328-I",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mtec/103",
+  "definition": "Records Not Subject to Disclosure",
+  "effectiveDate": "2016-05-05",
+  "historyNote": "#11091-A, eff 5-5-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mtec 103.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html",
+  "prefLabel": "Mtec 103.04 Records Not Subject to Disclosure",
+  "recordType": "rule-section",
+  "ruleText": "Mtec 103.04 Records Not Subject to Disclosure.\n\n(a) The board, and the office of professional licensure and certification shall deny requests to access the following board records:\n\n(1) Minutes of non-public sessions, only if sealed by vote of the board pursuant to RSA 91-A:3, III;\n\n(2) Governmental records exempt from disclosure under RSA 91-A:5;\n\n(3) The office records of any client or patient who receives services from a registrant.\n\n(b) Notwithstanding the provisions of (a) above, the board and the office of professional licensure and certification shall disclose board records in accordance with the order of a court of competent jurisdiction.\n\nSource. #11091-A, eff 5-5-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html"
+}

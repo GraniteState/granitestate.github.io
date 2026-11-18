@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-air",
+  "@type": "Concept",
+  "agencyCode": "Ec-Air",
+  "definition": "Air Resources Council (formerly Env-AC).",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ec-air/100",
+    "https://granitestate.github.io/rules/ec-air/200"
+  ],
+  "notation": "Ec-Air",
+  "prefLabel": "Ec-Air Air Resources Council",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

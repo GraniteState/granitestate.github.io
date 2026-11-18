@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hab/201.01",
+  "@type": "Concept",
+  "agencyCode": "Hab",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/hab/201",
+  "definition": "Purpose and Applicability",
+  "effectiveDate": "2021-07-07",
+  "historyNote": "#13226 eff 7-7-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hab 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html",
+  "prefLabel": "Hab 201.01 Purpose and Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Hab 201.01 Purpose and Applicability.\n\n(a) This chapter is intended to promote the just, consistent, and efficient handling of all proceedings before the board.\n\n(b) This part, as well as RSA 679:9 and Hab 101, shall apply to all board proceedings except as specifically stated.\n\n(c) Because the board's rules or governing statutes address the requirements of RSA 541-A:30-a, the model rules in Jus 800 shall not apply to board procedures.\n\nSource. #13226 eff 7-7-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html"
+}

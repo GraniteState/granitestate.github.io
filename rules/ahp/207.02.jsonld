@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/207.02",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/207",
+  "definition": "Format of Documents",
+  "effectiveDate": "2004-05-01",
+  "historyNote": "#7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 207.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 207.02 Format of Documents",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 207.02 Format of Documents.\n\n(a) All correspondence, pleadings, motions or other documents filed shall:\n\n(1) Include the title and docket number of the case, if known;\n\n(2) Be typewritten or clearly printed on durable paper 8 1/2 by 11 inches in size;\n\n(3) Be signed by the proponent of the document, or, if the proponent appears by a representative, by the representative; and\n\n(4) Include a statement certifying that a copy of the document has been delivered to all parties and intervenors in compliance with Ahp 207.03.\n\n(b) The signature of a party or intervenor or the representative of the party or the intervenor on a document filed with the board shall constitute certification that:\n\n(1) The signer has read the document;\n\n(2) The signer is authorized to file it;\n\n(3) To the best of the signer's knowledge, information and belief there are good and sufficient grounds to support it; and\n\n(4) The document has not been filed for purposes of delay.\n\nSource. #7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

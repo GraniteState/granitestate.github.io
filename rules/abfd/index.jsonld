@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "definition": "Committee on Architectural Barrier-Free Design of the Governor's Commission on Disability (Formerly the Committee on Architectural Barrier-Free Design of the Governor's Commission for the Handicapped, Han.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/abfd/100",
+    "https://granitestate.github.io/rules/abfd/200",
+    "https://granitestate.github.io/rules/abfd/300"
+  ],
+  "notation": "Abfd",
+  "prefLabel": "Abfd Committee on Architectural Barrier-Free Design of the Governor's Commission on Disability",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mhp/311",
+  "@type": "Concept",
+  "agencyCode": "Mhp",
+  "authority": [
+    {
+      "citation": "330-A:10",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/330-A/330-A-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/330-A/330-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/mhp/300",
+  "definition": "JURISPRUDENCE EXAMINATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mhp/311.01"
+  ],
+  "notation": "Mhp 311",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html",
+  "prefLabel": "Mhp 311 JURISPRUDENCE EXAMINATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Mhp 311 JURISPRUDENCE EXAMINATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html"
+}

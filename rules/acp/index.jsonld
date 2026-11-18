@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "definition": "Board of Acupuncture Licensing (See RSA 328-G:7.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/acp/100",
+    "https://granitestate.github.io/rules/acp/200",
+    "https://granitestate.github.io/rules/acp/300",
+    "https://granitestate.github.io/rules/acp/400",
+    "https://granitestate.github.io/rules/acp/500",
+    "https://granitestate.github.io/rules/acp/600",
+    "https://granitestate.github.io/rules/acp/700"
+  ],
+  "notation": "Acp",
+  "prefLabel": "Acp Board of Acupuncture Licensing",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

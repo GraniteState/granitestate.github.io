@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/201.01",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/201",
+  "definition": "Computation of Time",
+  "effectiveDate": "2004-07-30",
+  "historyNote": "#6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 201.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Pas 201.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday or state legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday or state legal holiday.\n\nSource. #6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

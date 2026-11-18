@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/204.03",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/203",
+  "definition": "Role of Agency Staff in Enforcement Hearing",
+  "effectiveDate": "2004-07-30",
+  "historyNote": "#6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 204.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 204.03 Role of Agency Staff in Enforcement Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Pas 204.03 Role of Agency Staff in Enforcement Hearing. Unless called as witnesses, agency staff shall have no role in any enforcement hearing.\n\nSource. #6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

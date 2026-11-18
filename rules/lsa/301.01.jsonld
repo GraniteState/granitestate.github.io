@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/301.01",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/300",
+  "definition": "Application Process",
+  "effectiveDate": "2025-03-10",
+  "historyNote": "#8861, eff 3-28-07; ss by #10679, eff 9-30-14; ss by #13849, eff 3-10-24; ss by #14168, eff 3-10-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lsa 301.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 301.01 Application Process",
+  "recordType": "rule-section",
+  "ruleText": "Lsa 301.01 Application Process.\n\n(a) Individuals wishing to become licensed as a landscape architect in New Hampshire shall submit the following to the OPLC:\n\n(1) The “Universal Application for Initial License”, dated April 2024, which the applicant shall complete by providing the information required by Plc 304.03 and Lsa 301.02(a), including the documentation required by Plc 304.04 and Lsa 302.01(b), and is signed and attested to as specified in Plc 304.05; and\n\n(2) The application fee specified in Plc 1002.22.\n\n(b) The licensing bureau shall process the application in accordance with Plc 304.06 through Plc 304.09.\n\n(c) If the application is denied, the applicant may request a rehearing in accordance with Plc 206.31.\n\n(d) Applications about which there has been no communication from the applicant to the licensing bureau for 60 days shall be governed by Plc 304.06.\n\nSource. #8861, eff 3-28-07; ss by #10679, eff 9-30-14; ss by #13849, eff 3-10-24; ss by #14168, eff 3-10-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

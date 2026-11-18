@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/occ/102.05",
+  "@type": "Concept",
+  "agencyCode": "Occ",
+  "altLabel": "Occupational Therapy",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/occ/102",
+  "definition": "Occupational therapy",
+  "effectiveDate": "2025-09-09",
+  "historyNote": "#14366, eff 9-9-25 (from Occ 102.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Occ 102.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/occ100-500.html",
+  "prefLabel": "Occ 102.05 Occupational therapy",
+  "recordType": "rule-section",
+  "ruleText": "Occ 102.05 “Occupational therapy” means “occupational therapy” as defined in RSA 326-C:1, IV, namely “the care and services provided by an occupational therapist or occupational therapy assistant who are licensed pursuant to this chapter. Areas of occupation include but are not limited to:\n\n(a) Activities of daily living, which are the routine activities a person completes to meet their basic health and survival needs.\n\n(b) Instrumental activities of daily living, which are activities a person completes to live independently and participate in the community.\n\n(c) Health management.\n\n(d) Rest and sleep.\n\n(e) Education.\n\n(f) Work.\n\n(g) Play.\n\n(h) Leisure.\n\n(i) Social participation.”\n\nSource. #14366, eff 9-9-25 (from Occ 102.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/occ100-500.html"
+}

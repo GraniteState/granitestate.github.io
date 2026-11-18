@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec/103.03",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "authority": [
+    {
+      "citation": "328-I",
+      "source": "https://granitestate.github.io/rsa/328-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/328-I",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mtec/103",
+  "definition": "Copies of Records",
+  "effectiveDate": "2016-05-05",
+  "historyNote": "#11091-A, eff 5-5-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mtec 103.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html",
+  "prefLabel": "Mtec 103.03 Copies of Records",
+  "recordType": "rule-section",
+  "ruleText": "Mtec 103.03 Copies of Records. Persons desiring copies of board records shall:\n\n(a) Identify as particularly as possible the information being sought; and\n\n(b) If seeking a copy of a board record subject to disclosure, agree to pay the actual cost of providing such copy, which shall be:\n\n(1) The amount of $.25 per page for a paper copy in the size of 8 ½ inches by 11 inches; or\n\n(2) The actual cost of the media and cost of reproduction for a record in any other format, which cost shall be disclosed prior to the creation of such copy.\n\nSource. #11091-A, eff 5-5-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html"
+}

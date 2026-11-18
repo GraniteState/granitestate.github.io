@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/202",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/200",
+  "definition": "REQUESTS FOR INFORMAL TECHNICAL ADVICE AND ASSISTANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/abfd/202.01"
+  ],
+  "notation": "Abfd 202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 202 REQUESTS FOR INFORMAL TECHNICAL ADVICE AND ASSISTANCE",
+  "recordType": "rule-part",
+  "ruleText": "PART Abfd 202 REQUESTS FOR INFORMAL TECHNICAL ADVICE AND ASSISTANCE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

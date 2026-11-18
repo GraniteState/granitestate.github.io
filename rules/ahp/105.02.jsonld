@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/105.02",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/105",
+  "definition": "Communication with the Board",
+  "effectiveDate": "2023-06-24",
+  "historyNote": "#7401, eff 11-3-00; ss by #8077, eff 5-1-04; ss by #9517, eff 7-24-09; ss by #12724, eff 2-15-19 (formerly Ahp 104.02); ss by #13626, eff 6-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 105.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 105.02 Communication with the Board",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 105.02 Communication with the Board.\n\n(a) Persons wishing to correspond with the board or make submissions to it may:\n\n(1) Send a letter; or\n\n(2) Send the correspondence or submission by e-mail, provided that the board's rules do not require it to be sent by mail.\n\n(b) Persons seeking information from the board may do so by:\n\n(1) Mail or e-mail as set forth in (a) above;\n\n(2) Telephoning the board; or\n\n(3) Accessing the board as described in Ahp 105.01(c).\n\nSource. #7401, eff 11-3-00; ss by #8077, eff 5-1-04; ss by #9517, eff 7-24-09; ss by #12724, eff 2-15-19 (formerly Ahp 104.02); ss by #13626, eff 6-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

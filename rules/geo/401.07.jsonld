@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/401.07",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:132",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "332-G:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/401",
+  "definition": "Active Duty Military Inactive Status",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#12152, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 401.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 401.07 Active Duty Military Inactive Status",
+  "recordType": "rule-section",
+  "ruleText": "Geo 401.07 Active Duty Military Inactive Status.\n\n(a) The board shall place a professional geologist on inactive status pursuant to RSA 332-G:7, II upon receipt of:\n\n(1) A written request; and\n\n(2) Proof of active duty service in the Armed Forces of the United States.\n\n(b) The board shall return a professional geologist to active status upon receipt of:\n\n(1) Payment of the renewal fee;\n\n(2) Proof of completion of the continuing education requirements pursuant to Geo 403; and\n\n(3) Proof that the licensee has not been discharged from service in the Armed Forces of the United States for more than one year.\n\nSource. #12152, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

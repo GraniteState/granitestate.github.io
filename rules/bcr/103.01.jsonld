@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bcr/103.01",
+  "@type": "Concept",
+  "agencyCode": "Bcr",
+  "authority": [
+    {
+      "citation": "155-A:10",
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bcr/103",
+  "definition": "Composition of Board",
+  "effectiveDate": "2012-03-12",
+  "historyNote": "#7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03 New. #8003, eff 12-12-03; ss by #10098, eff 3-12-12",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bcr 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html",
+  "prefLabel": "Bcr 103.01 Composition of Board",
+  "priorExpiration": "2003-03-13",
+  "recordType": "rule-section",
+  "ruleText": "Bcr 103.01 Composition of Board.\n\n(a) Pursuant to RSA 155-A:10, I, the board consists of the commissioner and 15 members, appointed by the commissioner for a term specified by law.\n\n(b) The board shall elect a vice-chair at its annual meeting.\n\n(c) The chair shall preside over all meetings of the board.\n\n(d) In the absence of the chair at a meeting of the board, the vice chair shall preside.\n\nSource. #7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03\n\nNew. #8003, eff 12-12-03; ss by #10098, eff 3-12-12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html"
+}

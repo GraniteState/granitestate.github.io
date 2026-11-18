@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wc/104.01",
+  "@type": "Concept",
+  "agencyCode": "Env-WC",
+  "authority": [
+    {
+      "citation": "21-O:7",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-7",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wc/104",
+  "definition": "Record of Council Actions",
+  "effectiveDate": "2007-09-14",
+  "historyNote": "#8976, eff 9-14-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WC 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wc100.html",
+  "prefLabel": "Env-WC 104.01 Record of Council Actions",
+  "recordType": "rule-section",
+  "ruleText": "Env-WC 104.01 Record of Council Actions.\n\n(a) Minutes shall be kept of council meetings and official actions taken by the council.\n\n(b) Minutes of council actions that are not confidential under RSA 91-A:3, II or RSA 91-A:5 shall be public records and shall be available for inspection during the council’s ordinary office hours as required by RSA 91-A.\n\nSource. #8976, eff 9-14-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wc100.html"
+}

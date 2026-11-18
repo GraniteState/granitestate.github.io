@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/opt/403.01",
+  "@type": "Concept",
+  "agencyCode": "Opt",
+  "authority": [
+    {
+      "citation": "332-G:7",
+      "paragraphs": [
+        "IV(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/opt/403",
+  "definition": "Active Duty Military Inactive Status",
+  "effectiveDate": "2017-09-16",
+  "historyNote": "#12383, eff 9-16-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Opt 403.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html",
+  "prefLabel": "Opt 403.01 Active Duty Military Inactive Status",
+  "recordType": "rule-section",
+  "ruleText": "Opt 403.01 Active Duty Military Inactive Status.\n\n(a) The board shall place a licensee on inactive status pursuant to RSA 332-G:7, II upon receipt of:\n\n(1) A written request; and\n\n(2) Proof of active duty service in the Armed Forces of the United States.\n\n(b) The board shall return an inactive licensee to active status upon receipt of:\n\n(1) Payment of the renewal fee;\n\n(2) Proof of completion of the continuing education requirements pursuant to Opt 402; and\n\n(3) Proof that the licensee has not been discharged from service in the Armed Forces of the United States for more than one year.\n\nSource. #12383, eff 9-16-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html"
+}

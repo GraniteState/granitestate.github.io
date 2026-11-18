@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/soil/103.03",
+  "@type": "Concept",
+  "agencyCode": "Soil",
+  "authority": [
+    {
+      "citation": "310-A:81",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-81",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-81",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/soil/103",
+  "definition": "The Chairperson and Vice Chairperson",
+  "effectiveDate": "2026-04-01",
+  "historyNote": "#6231, eff 4-26-96; ss by #8006, eff 12-18-03; ss by #14535, eff 4-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Soil 103.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html",
+  "prefLabel": "Soil 103.03 The Chairperson and Vice Chairperson",
+  "recordType": "rule-section",
+  "ruleText": "Soil 103.03 The Chairperson and Vice Chairperson. The chairperson shall preside at all meetings. In the absence of the chairperson, the vice-chairperson shall preside.\n\nSource. #6231, eff 4-26-96; ss by #8006, eff 12-18-03; ss by #14535, eff 4-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html"
+}

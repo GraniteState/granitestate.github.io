@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/103.05",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310-A:142",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-142",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-142",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/103",
+  "definition": "Seal",
+  "effectiveDate": "2007-03-28",
+  "historyNote": "#8858, eff 3-28-07; renumbered by #13630 (formerly Lsa 103.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lsa 103.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 103.05 Seal",
+  "recordType": "rule-section",
+  "ruleText": "Lsa 103.05 Seal. The seal of the board shall be an embossed circular seal consisting of 2 concentric circles, the outer circle having a diameter of 2 inches and an inner circle having a diameter of 1.7 inches. In the space between the two circles there shall be the words “New Hampshire Board of Landscape Architects.” The inner circle shall be a New Hampshire scene depicting a silhouette of the New Hampshire capitol dome, land, water and the sky.\n\nSource. #8858, eff 3-28-07; renumbered by #13630 (formerly Lsa 103.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

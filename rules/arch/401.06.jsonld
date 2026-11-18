@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arch/401.06",
+  "@type": "Concept",
+  "agencyCode": "Arch",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:32",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/arch/401",
+  "definition": "Active Duty Military Inactive Status",
+  "effectiveDate": "2026-03-24",
+  "expirationDate": "2036-03-24",
+  "historyNote": "#9097, eff 2-29-08; ss by #10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arch 401.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html",
+  "prefLabel": "Arch 401.06 Active Duty Military Inactive Status",
+  "recordType": "rule-section",
+  "ruleText": "Arch 401.06 Active Duty Military Inactive Status.\n\n(a) Any licensee who is a member of any reserve component of the armed forces of the United States or the National Guard who is called to active duty may submit a request to the OPLC to place their license in inactive status pursuant to Plc 307.06.\n\n(b) The OPLC shall confirm that the license has been placed on inactive status in writing by email sent to the licensee’s designated email address.\n\n(c) A licensee may request that their license be reactivated within one year of their release from active status by submitting a written request in accordance with Plc 307.07(b) together with payment of the fee for renewal required by Plc 1002.04 and proof of completion of applicable continuing competence requirements if the license term of the license that was put on inactive status has expired.\n\nSource. #9097, eff 2-29-08; ss by #10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html"
+}

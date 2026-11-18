@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/104.01",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:120",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-120",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/310-A/310-A-120",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/104",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#7524, eff 7-1-01, EXPIRED: 7-1-09 pursuant to RSA 541-A:17,II and 2008, 303:4 New. #12150, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 104.01 Record of Board Actions",
+  "priorExpiration": "2009-07-01",
+  "recordType": "rule-section",
+  "ruleText": "Geo 104.01 Record of Board Actions. Minutes shall be kept of board meetings and of official actions taken by the board. Minutes of board actions which are not confidential under RSA 91-A:3, II or RSA 91-A:5 shall be a governmental records and shall be available for inspection during the board’s ordinary office hours within 5 days from the close of the meeting or vote in question unless the 72 hours availability requirement of RSA 91-A:3, III is applicable.\n\nSource. #7524, eff 7-1-01, EXPIRED: 7-1-09 pursuant to RSA 541-A:17,II and 2008, 303:4\n\nNew. #12150, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

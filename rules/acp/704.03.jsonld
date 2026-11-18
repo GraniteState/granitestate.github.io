@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/704.03",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "authority": [
+    {
+      "citation": "328-G:7",
+      "paragraphs": [
+        "XIV(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/704",
+  "definition": "Immediate Certificate Suspension",
+  "effectiveDate": "2018-07-20",
+  "historyNote": "#12575, eff 7-20-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Acp 704.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 704.03 Immediate Certificate Suspension",
+  "recordType": "rule-section",
+  "ruleText": "Acp 704.03 Immediate Certificate Suspension.\n\n(a) When the board receives information indicating that a certificate holder has engaged in misconduct that poses an immediate danger to life or health, the board shall issue an order pursuant to RSA 541-A:30, III, that sets forth the alleged misconduct and immediately suspends the certificate for up to 10 working days pending commencement of an adjudicatory proceeding. If commenced within 10 working days, the suspension shall continue until there is a decision in the proceeding.\n\n(b) Suspension orders under this section shall include the notice of hearing pursuant to Acp 207.02(b).\n\n(c) No hearing date established in a proceeding conducted under this section shall be postponed at the request of the certificate holder unless the certificate holder also agrees to continue the suspension period pending issuance of the board’s final decision.\n\nSource. #12575, eff 7-20-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

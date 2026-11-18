@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/vet",
+  "@type": "Concept",
+  "agencyCode": "Vet",
+  "definition": "Board of Veterinary Medicine",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/vet/100",
+    "https://granitestate.github.io/rules/vet/200",
+    "https://granitestate.github.io/rules/vet/300",
+    "https://granitestate.github.io/rules/vet/400",
+    "https://granitestate.github.io/rules/vet/500",
+    "https://granitestate.github.io/rules/vet/600",
+    "https://granitestate.github.io/rules/vet/700",
+    "https://granitestate.github.io/rules/vet/800",
+    "https://granitestate.github.io/rules/vet/900",
+    "https://granitestate.github.io/rules/vet/1000"
+  ],
+  "notation": "Vet",
+  "prefLabel": "Vet Board of Veterinary Medicine",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

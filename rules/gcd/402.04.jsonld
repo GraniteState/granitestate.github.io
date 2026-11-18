@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gcd/402.04",
+  "@type": "Concept",
+  "agencyCode": "Gcd",
+  "altLabel": "Registration Tag",
+  "authority": [
+    {
+      "citation": "275-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "466",
+      "source": "https://granitestate.github.io/rsa/466",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/466"
+  ],
+  "broader": "https://granitestate.github.io/rules/gcd/402",
+  "definition": "Registration tag",
+  "effectiveDate": "2023-11-23",
+  "historyNote": "#10341, eff 5-17-13; ss by #13811, eff 11-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Gcd 402.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html",
+  "prefLabel": "Gcd 402.04 Registration tag",
+  "recordType": "rule-section",
+  "ruleText": "Gcd 402.04 “Registration tag” means a small tag issued by the commission and affixed to the service animal which states “ GCD – Permanent Registration” and which has a unique number.\n\nSource. #10341, eff 5-17-13; ss by #13811, eff 11-23-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/104.01",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "altLabel": "Office Location and Mailing Address, Telephone Numbers, Number for TTY Users and Fax Number",
+  "authority": [
+    {
+      "citation": "275-C:14",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/104",
+  "definition": "Office Location and Mailing Address, Telephone Number, Number for TTY Users, Fax Number, Website, and Email Address",
+  "effectiveDate": "2023-06-23",
+  "historyNote": "#7473, eff 4-5-01; ss by #12872, eff 9-20-19; ss by 13675, eff 6-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Abfd 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 104.01 Office Location and Mailing Address, Telephone Number, Number for TTY Users, Fax Number, Website, and Email Address",
+  "recordType": "rule-section",
+  "ruleText": "Abfd 104.01 Office Location and Mailing Address, Telephone Number, Number for TTY Users, Fax Number, Website, and Email Address.\n\n(a) The committee’s office location and mailing address is:\n\nArchitectural Barrier Free Design Committee\n\nc/o Governor’s Commission on Disability\n\n54 Regional Drive, Suite 5\n\nConcord, New Hampshire 03301-8502\n\n(b) The committee’s telephone number is (603) 271-2773.\n\n(c) The committee’s toll-free telephone number is (800) 852-3405.\n\n(d) The committee’s in-state TTY/Relay number may be accessed through Relay New Hampshire by calling 711.\n\n(e) The committee’s website is www.nh.gov/disability.\n\n(f) The committee’s general email is disability@gcd.nh.gov.\n\n(g) The committee’s fax number is: 603-271-2837.\n\nSource. #7473, eff 4-5-01; ss by #12872, eff 9-20-19; ss by 13675, eff 6-23-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

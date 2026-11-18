@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hab",
+  "@type": "Concept",
+  "agencyCode": "Hab",
+  "definition": "Housing Appeals Board (See RSA 679:12 pursuant to 2019, 346:260, effective 7-1-20)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hab/100",
+    "https://granitestate.github.io/rules/hab/200",
+    "https://granitestate.github.io/rules/hab/300"
+  ],
+  "notation": "Hab",
+  "prefLabel": "Hab Housing Appeals Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

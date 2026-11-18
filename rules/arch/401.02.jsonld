@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arch/401.02",
+  "@type": "Concept",
+  "agencyCode": "Arch",
+  "authority": [
+    {
+      "citation": "310:5",
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:32",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/arch/401",
+  "definition": "Renewal of License",
+  "effectiveDate": "2026-03-24",
+  "expirationDate": "2036-03-24",
+  "historyNote": "#6409, eff 12-25-96; ss by #7944, eff 8-27-03; ss by #9097, eff 2-29-08; ss by #10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arch 401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html",
+  "prefLabel": "Arch 401.02 Renewal of License",
+  "recordType": "rule-section",
+  "ruleText": "Arch 401.02 Renewal of License. Any licensee wishing to renew a license shall submit:\n\n(a) The “Universal Application for License Renewal” required by Plc 308.05;\n\n(b) The fee required by Plc 1002.04; and\n\n(c) A completed “NH Architect Addendum to the Universal Application for License Renewal” that provides the information and documentation required by Arch 401.03.\n\nSource. #6409, eff 12-25-96; ss by #7944, eff 8-27-03; ss by #9097, eff 2-29-08; ss by #10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html"
+}

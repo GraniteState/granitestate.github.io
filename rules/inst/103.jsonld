@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/inst/103",
+  "@type": "Concept",
+  "agencyCode": "Inst",
+  "authority": [
+    {
+      "citation": "205-D:20",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/inst/100",
+  "definition": "ORGANIZATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/inst/103.01",
+    "https://granitestate.github.io/rules/inst/103.02",
+    "https://granitestate.github.io/rules/inst/103.03",
+    "https://granitestate.github.io/rules/inst/103.04",
+    "https://granitestate.github.io/rules/inst/103.05",
+    "https://granitestate.github.io/rules/inst/103.06"
+  ],
+  "notation": "Inst 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/inst100-700.html",
+  "prefLabel": "Inst 103 ORGANIZATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Inst 103 ORGANIZATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/inst100-700.html"
+}

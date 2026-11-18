@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec/103.01",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "authority": [
+    {
+      "citation": "328-I",
+      "source": "https://granitestate.github.io/rsa/328-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/328-I",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mtec/103",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2016-05-05",
+  "historyNote": "#11091-A, eff 5-5-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mtec 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html",
+  "prefLabel": "Mtec 103.01 Record of Board Actions",
+  "recordType": "rule-section",
+  "ruleText": "Mtec 103.01 Record of Board Actions. The board shall keep records of:\n\n(a) Actions taken at all public and non-public board meetings in the form of written minutes pursuant to RSA 91-A:2;\n\n(b) All applications for registration, together with the disposition of the application;\n\n(c) All complaints filed against registrants, together with the disposition of the complaint;\n\n(d) All rules adopted in accordance with RSA 541-A, as well as any petitions to adopt, amend or repeal a rule; and\n\n(e) All other official actions of the board.\n\nSource. #11091-A, eff 5-5-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mtec100.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mhp/104.01",
+  "@type": "Concept",
+  "agencyCode": "Mhp",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mhp/104",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2011-01-25",
+  "historyNote": "(See Revision Note at chapter heading for Mhp 100) #5675, eff 7-22-93, EXPIRED: 7-23-99 New. #7623, eff 1-10-02, EXPIRED: 1-10-10 New. #9852, eff 1-25-11",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mhp 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp100.html",
+  "prefLabel": "Mhp 104.01 Record of Board Actions",
+  "priorExpiration": "2010-01-10",
+  "recordType": "rule-section",
+  "ruleText": "Mhp 104.01 Record of Board Actions. Minutes shall be kept of board meetings and of official actions taken by the board pursuant to RSA 91-A:3, RSA 91-A:4 and RSA 91-A:5. Board minutes of actions that are not confidential under RSA 91-A:3 shall be public records pursuant to RSA 91-A:4 and shall be available for inspection as required by RSA 91-A:3.\n\nSource. (See Revision Note at chapter heading for Mhp 100) #5675, eff 7-22-93, EXPIRED: 7-23-99\n\nNew. #7623, eff 1-10-02, EXPIRED: 1-10-10\n\nNew. #9852, eff 1-25-11",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp100.html"
+}

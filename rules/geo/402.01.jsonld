@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/402.01",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:133",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-133",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:135",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-133"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/402",
+  "definition": "Initiation of Disciplinary Action",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 402.01 Initiation of Disciplinary Action",
+  "recordType": "rule-section",
+  "ruleText": "Geo 402.01 Initiation of Disciplinary Action. The board shall undertake misconduct investigations, settlements of misconduct allegations, or disciplinary hearings, when warranted, in response to information which reasonably suggests that a licensee has engaged in professional misconduct.\n\nSource. #7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

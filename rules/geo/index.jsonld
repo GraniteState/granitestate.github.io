@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "definition": "Board of Professional Geologists (See RSA 310-A:121 pursuant to 2000, 297:3, effective 8-20-00.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/geo/100",
+    "https://granitestate.github.io/rules/geo/200",
+    "https://granitestate.github.io/rules/geo/300",
+    "https://granitestate.github.io/rules/geo/400",
+    "https://granitestate.github.io/rules/geo/500"
+  ],
+  "notation": "Geo",
+  "prefLabel": "Geo Board of Professional Geologists",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

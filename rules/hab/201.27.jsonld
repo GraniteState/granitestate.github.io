@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hab/201.27",
+  "@type": "Concept",
+  "agencyCode": "Hab",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "679:9",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/hab/201",
+  "definition": "Record and Transcript",
+  "effectiveDate": "2021-07-07",
+  "historyNote": "#13226 eff 7-7-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hab 201.27",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html",
+  "prefLabel": "Hab 201.27 Record and Transcript",
+  "recordType": "rule-section",
+  "ruleText": "Hab 201.27 Record and Transcript.\n\n(a) The board shall record all oral proceedings pursuant to RSA 679:9, I and RSA 541-A:31, VII. Parties may, at their own expense, arrange to have a stenographer at any hearing.\n\n(b) The recording shall be available for inspection as provided by RSA 679:9, I, and any person shall contact the board to arrange a time for such inspection.\n\n(c) Requests for copies of the recording shall be made in compliance with RSA 679:9, I and shall be accompanied by the fee stated in Hab 301.01.\n\n(d) Recordings shall be maintained for 45 days following a final decision that was not appealed. If an appeal is taken, recordings shall be maintained until the case is finally adjudicated in accordance with RSA 679:9, I.\n\n(e) Any person wishing a certified transcript shall arrange and pay for the transcription of the recording.\n\nSource. #13226 eff 7-7-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hab100-300.html"
+}

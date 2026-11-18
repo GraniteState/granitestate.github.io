@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mavs/301.02",
+  "@type": "Concept",
+  "agencyCode": "Mavs",
+  "authority": [
+    {
+      "citation": "110",
+      "via": "appendix"
+    },
+    {
+      "citation": "110-B:60",
+      "via": "appendix"
+    },
+    {
+      "citation": "110-B:61",
+      "source": "https://granitestate.github.io/rsa/110-B/110-B-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/110-B/110-B-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/mavs/301",
+  "definition": "Scope",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mavs 301.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mavs.html",
+  "prefLabel": "Mavs 301.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Section Mavs 301.02 Scope",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mavs.html"
+}

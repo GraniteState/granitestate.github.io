@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sphc/503",
+  "@type": "Concept",
+  "agencyCode": "Sphc",
+  "authority": [
+    {
+      "citation": "328-F:11",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/sphc/500",
+  "definition": "ETHICAL STANDARDS FOR SPEECH-LANGUAGE PATHOLOGISTS AND SPEECH-LANGUAGE ASSISTANTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/sphc/503.01",
+    "https://granitestate.github.io/rules/sphc/503.02"
+  ],
+  "notation": "Sphc 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sphc500.html",
+  "prefLabel": "Sphc 503 ETHICAL STANDARDS FOR SPEECH-LANGUAGE PATHOLOGISTS AND SPEECH-LANGUAGE ASSISTANTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Sphc 503 ETHICAL STANDARDS FOR SPEECH-LANGUAGE PATHOLOGISTS AND SPEECH-LANGUAGE ASSISTANTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sphc500.html"
+}

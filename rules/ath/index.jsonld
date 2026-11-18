@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ath",
+  "@type": "Concept",
+  "agencyCode": "Ath",
+  "definition": "Governing Board of Athletic Trainers (See also Ahp .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ath/100",
+    "https://granitestate.github.io/rules/ath/200",
+    "https://granitestate.github.io/rules/ath/300",
+    "https://granitestate.github.io/rules/ath/400",
+    "https://granitestate.github.io/rules/ath/500"
+  ],
+  "notation": "Ath",
+  "prefLabel": "Ath Governing Board of Athletic Trainers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

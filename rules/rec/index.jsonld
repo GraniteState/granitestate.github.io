@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rec",
+  "@type": "Concept",
+  "agencyCode": "Rec",
+  "definition": "Advisory Board of Recreational Therapists (formerly the Governing Board of Recreational Therapists, with rulemaking authority transferred to the Executive Director of the Office of Professional Licensure and Certification. See RSA 326-J:1-a, II and RSA 326-J:3, I. pursuant to 2022, 72:5 and 72:6, effective 7-19-22. Rules will eventually be renumbered “Plc”.) (See also Ahp .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rec/100",
+    "https://granitestate.github.io/rules/rec/200",
+    "https://granitestate.github.io/rules/rec/300",
+    "https://granitestate.github.io/rules/rec/400",
+    "https://granitestate.github.io/rules/rec/500"
+  ],
+  "notation": "Rec",
+  "prefLabel": "Rec Advisory Board of Recreational Therapists",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

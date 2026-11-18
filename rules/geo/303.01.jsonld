@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/303.01",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:125",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-125",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-125"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/303",
+  "definition": "Examination Requirements",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 303.01 Examination Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Geo 303.01 Examination Requirements.\n\n(a) The board shall hold the Fundamentals of Geology and Practice of Geology, written national examinations semi-annually each year on dates set by the National Association of State Boards of Geology (ASBOG).\n\n(b) All applicants for licensure shall have successfully passed the National Association of State Boards of Geology (ASBOG) Fundamentals of Geology examination.\n\n(c) All applicants for licensure shall have successfully passed the National Association of State Boards of Geology (ASBOG) Practice of Geology examination.\n\nSource. #7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

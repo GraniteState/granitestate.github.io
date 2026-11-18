@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/205.01",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/205",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2002-10-26",
+  "historyNote": "#7783, eff 10-26-02",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Abfd 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 205.01 Date of Issuance or Filing",
+  "recordType": "rule-section",
+  "ruleText": "Abfd 205.01 Date of Issuance or Filing.\n\n(a) All written documents governed by this chapter shall be rebuttably presumed to have been issued on the date noted on the document.\n\n(b) All written documents governed by this chapter shall be rebuttably presumed to have been filed with the committee on the date of receipt, as evidenced by a date stamp placed on the document by the committee or its staff in the normal course of business.\n\nSource. #7783, eff 10-26-02",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

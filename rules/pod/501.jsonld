@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pod/501",
+  "@type": "Concept",
+  "agencyCode": "Pod",
+  "authority": [
+    {
+      "citation": "310:12",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/pod/500",
+  "definition": "UNETHICAL CONDUCT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pod/501.01"
+  ],
+  "notation": "Pod 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html",
+  "prefLabel": "Pod 501 UNETHICAL CONDUCT",
+  "recordType": "rule-part",
+  "ruleText": "PART Pod 501 UNETHICAL CONDUCT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html"
+}

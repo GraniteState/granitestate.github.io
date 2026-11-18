@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eng/303",
+  "@type": "Concept",
+  "agencyCode": "Eng",
+  "authority": [
+    {
+      "citation": "310-A:6",
+      "paragraphs": [
+        "I",
+        "(b)",
+        "(l)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:12",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:13",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:16",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/eng/300",
+  "definition": "QUALIFICATIONS OF APPLICANTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/eng/303.01",
+    "https://granitestate.github.io/rules/eng/303.02",
+    "https://granitestate.github.io/rules/eng/303.03",
+    "https://granitestate.github.io/rules/eng/303.04",
+    "https://granitestate.github.io/rules/eng/303.05"
+  ],
+  "notation": "Eng 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng300-500.html",
+  "prefLabel": "Eng 303 QUALIFICATIONS OF APPLICANTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Eng 303 QUALIFICATIONS OF APPLICANTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng300-500.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/101.01",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "altLabel": "\"Board\"",
+  "authority": [
+    {
+      "citation": "225-A:3-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "225-A:4-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/101",
+  "definition": "Board",
+  "effectiveDate": "2012-01-11",
+  "historyNote": "#6319, eff 8-22-96; ss by #10070, eff 1-11-12",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 101.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 101.01 Board",
+  "recordType": "rule-section",
+  "ruleText": "Pas 101.01 \"Board\" means the New Hampshire passenger tramway safety board as defined in RSA 225-A:3-a.\n\nSource. #6319, eff 8-22-96; ss by #10070, eff 1-11-12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

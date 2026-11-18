@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/204.02",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/203",
+  "definition": "Representation of Parties",
+  "effectiveDate": "2004-07-30",
+  "historyNote": "#6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 204.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 204.02 Representation of Parties",
+  "recordType": "rule-section",
+  "ruleText": "Pas 204.02 Representation of Parties.\n\n(a) Parties may appear pro se or be represented by an attorney or as specified by RSA 311:1.\n\n(b) Parties or their representatives may cross-examine witnesses and present evidence and witnesses on their own behalf.\n\n(c) The presiding officer shall conduct and complete such questioning to obtain all necessary information for the board to make a fair and informed decision.\n\n(d) Appearance by a representative of a party shall not waive the party's required presence at a hearing.\n\nSource. #6320, eff 8-22-96; ss by #8132, eff 7-30-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

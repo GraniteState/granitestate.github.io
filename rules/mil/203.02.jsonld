@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/203.02",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "184:94",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:3",
+      "source": "https://granitestate.github.io/rsa/541/541-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541/541-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/203",
+  "definition": "Standard for Granting Motion for Rehearing",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 203.02 Standard for Granting Motion for Rehearing",
+  "recordType": "rule-section",
+  "ruleText": "Mil 203.02 Standard for Granting Motion for Rehearing. A motion for rehearing a case subject to appeal under RSA 541 shall be granted if it demonstrates that the board’s decision is unlawful, unjust or unreasonable.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

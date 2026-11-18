@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eng/201.01",
+  "@type": "Concept",
+  "agencyCode": "Eng",
+  "authority": [
+    {
+      "citation": "310-A:6",
+      "paragraphs": [
+        "I(g)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/eng/201",
+  "definition": "Applicability of Plc 200",
+  "effectiveDate": "2024-02-24",
+  "historyNote": "(See Revision Note at chapter heading for Eng 200) #13890, eff 2-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eng 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng200.html",
+  "prefLabel": "Eng 201.01 Applicability of Plc 200",
+  "recordType": "rule-section",
+  "ruleText": "Eng 201.01 Applicability of Plc 200. The Plc 200 rules shall govern the board of professional engineers with regards to all procedures for:\n\n(a) Adjudicatory proceedings;\n\n(b) Rulemaking submissions, considerations, and disposition of rulemaking petitions;\n\n(c) Public comment hearings;\n\n(d) Declaratory rulings;\n\n(e) All statements of policy and interpretation;\n\n(f) Explanation of adopted rules; and\n\n(g) Voluntary surrender of licenses.\n\nSource. (See Revision Note at chapter heading for Eng 200) #13890, eff 2-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng200.html"
+}
