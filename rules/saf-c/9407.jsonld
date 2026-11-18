@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/9407",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "106-B:31",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/106-B/106-B-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "106-B:34",
+      "source": "https://granitestate.github.io/rsa/106-B/106-B-34",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-B/106-B-31",
+    "https://granitestate.github.io/rsa/106-B/106-B-34"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/9400",
+  "definition": "HEARINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/9407.01",
+    "https://granitestate.github.io/rules/saf-c/9407.02"
+  ],
+  "notation": "Saf-C 9407",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9400.html",
+  "prefLabel": "Saf-C 9407 HEARINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 9407 HEARINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9400.html"
+}

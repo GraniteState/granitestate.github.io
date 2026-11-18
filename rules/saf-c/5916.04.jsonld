@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5916.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5916",
+  "definition": "Educational Training Agency License Approval Process",
+  "effectiveDate": "2024-04-20",
+  "historyNote": "#13953, eff 4-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5916.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5916.04 Educational Training Agency License Approval Process",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5916.04 Educational Training Agency License Approval Process.\n\n(a) Completed applications shall be approved in accordance with RSA 541-A:29.\n\n(b) Upon receipt of a completed application, the division shall conduct an educational analysis of the educational training agency based on the requirements set forth in Saf-C 5911.\n\n(c) Upon approval of an application, the division shall issue an EMS educational training agency license, commencing with the date of approval and expiring one year from the date of approval.\n\n(d) For a private for-profit or a private non-profit organization, the division shall verify with the secretary of state of New Hampshire that the organization is in good standing.\n\nSource. #13953, eff 4-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2003.15",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:8",
+      "source": "https://granitestate.github.io/rsa/266/266-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:59-b",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "358-F:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "358-F:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-8",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2003",
+  "definition": "Notice of Sale of Vehicle That Failed Inspection",
+  "effectiveDate": "2020-11-23",
+  "historyNote": "#8966, eff 8-23-07 (from Saf-C 2003.06); ss by #11028, eff 1-29-16; ss by #13134, eff 11-23-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2003.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2003.15 Notice of Sale of Vehicle That Failed Inspection",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2003.15 Notice of Sale of Vehicle That Failed Inspection.\n\n(a) Pursuant to RSA 266:8 and RSA 266:59-b, VI, a dealer who sells a motor vehicle at retail that fails to comply with either state safety or emissions state inspection requirements shall submit failed inspection related items on form RDMV 950, “Notice of Sale of Unsafe Motor Vehicle” (rev. 10/20) or form RDMV 950A, “Notice of Sale of Vehicle that Does Not Pass OBD II Emissions Testing” (rev. 10/20), respectively, and shall complete and file the form with the department.\n\n(b) By signing the RDMV 950 or RDMV 950A form, the dealer shall certify that the information on the form is correct, subject to the penalty for making unsworn false statements under RSA 641:3.\n\n(c) By signing the RDMV 950 form, the dealer shall make the following certification: “I also acknowledge that this vehicle will not pass a New Hampshire inspection, is unsafe for operation and cannot be driven on the ways of this state until the safety defects listed above are corrected.”\n\n(d) By signing the RDMV 950A form, the buyer shall make the following acknowledgment: “I have read and acknowledge the above statement and understand the vehicle will not receive a full state inspection sticker until it passes emissions. If the vehicle fails the emissions re-test, the dealer (seller) [Agrees] [Does Not Agree] (Circle one) to complete, or have another entity complete, the emissions repair necessary to allow the vehicle to pass the emissions test. There is only one 60-day repair period that expires on the date printed in the upper right portion of the accompanying VIR.”\n\n(e) Before the buyer makes the acknowledgment in (d) above, the parties shall agree as to whether the dealer as the seller agrees or does not agree to complete, or have another entity complete, the emissions repair necessary to allow the vehicle to pass the emissions test if the vehicle fails the emissions retest, and to indicate the dealer’s agreement or non-agreement within the acknowledgment.\n\n(f) The dealer shall distribute such forms as follows:\n\n(1) The white copy of the form shall be forwarded to the department within 5 days of the date of the sale;\n\n(2) The yellow copy of the form shall be forwarded to the buyer; and\n\n(3) The pink copy of the form shall be retained at the dealer’s authorized business location for a minimum period of 3 years.\n\n(g) Dealers shall not issue temporary plates for unsafe vehicles.\n\nSource. #8966, eff 8-23-07 (from Saf-C 2003.06); ss by #11028, eff 1-29-16; ss by #13134, eff 11-23-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

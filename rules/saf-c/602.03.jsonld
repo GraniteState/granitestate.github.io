@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/602.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Hazardous Materials",
+  "authority": [
+    {
+      "citation": "21-P:17",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/602",
+  "definition": "Hazardous materials",
+  "effectiveDate": "2018-04-23",
+  "historyNote": "#12516, eff 4-23-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 602.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c600.html",
+  "prefLabel": "Saf-C 602.03 Hazardous materials",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 602.03 “Hazardous materials” means “hazardous materials” as defined in 49 CFR 171.08 and includes “hazardous materials” as defined in RSA 21-P:16, I.\n\nSource. #12516, eff 4-23-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c600.html"
+}

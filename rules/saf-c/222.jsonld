@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/222",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/200",
+  "definition": "DECLARATORY RULING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/222.01",
+    "https://granitestate.github.io/rules/saf-c/222.02"
+  ],
+  "notation": "Saf-C 222",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c200.html",
+  "prefLabel": "Saf-C 222 DECLARATORY RULING",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 222 DECLARATORY RULING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c200.html"
+}

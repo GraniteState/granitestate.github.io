@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5916.11",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5916",
+  "definition": "Educational Training Agency Course Completion",
+  "effectiveDate": "2024-04-20",
+  "historyNote": "#13953, eff 4-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5916.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5916.11 Educational Training Agency Course Completion",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5916.11 Educational Training Agency Course Completion.\n\n(a) The educational training agency shall verify that students accepted into the program have obtained a current certificate of CPR training and appropriate scope of practice program(s) for the level of training being conducted before the course is completed.\n\n(b) The educational training agency shall submit, in writing, a division approved course completion roster to the division within 10 days of the completion of the program.\n\n(c) All information submitted shall be typewritten or legibly printed.\n\n(d) A course completion roster shall include the following information pertaining to all students who began the program, regardless of whether or not the student completed the program:\n\n(1) Full legal name;\n\n(2) Mailing address;\n\n(3) Telephone number;\n\n(4) Date of birth;\n\n(5) National Registry of Emergency Medical Technicians number, if applicable; and\n\n(6) Status, as follows:\n\na. “C” to indicate complete;\n\nb. “I” to indicate incomplete; or\n\nc. “F” to indicate failure.\n\n(e) For those students with a status of “I”, a division approved course completion roster addendum shall be submitted that demonstrates which modules were not completed and an updated addendum shall be submitted indicating completion or failure once a final outcome has been made.\n\n(f) Students with a status of “I” for a period of 2 years from the program’s end date shall be considered to have failed the program.\n\nSource. #13953, eff 4-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

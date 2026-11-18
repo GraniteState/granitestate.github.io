@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5704.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "106-B:7",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/106-B/106-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "106-B:14",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/106-B/106-B-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189:13-a",
+      "source": "https://granitestate.github.io/rsa/189/189-13-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-B/106-B-7",
+    "https://granitestate.github.io/rsa/106-B/106-B-14",
+    "https://granitestate.github.io/rsa/189/189-13-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5704",
+  "definition": "Procedure for School Transportation Provider Criminal History Record Check Request",
+  "effectiveDate": "2018-08-17",
+  "historyNote": "#12606, eff 8-17-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5704.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5700.html",
+  "prefLabel": "Saf-C 5704.04 Procedure for School Transportation Provider Criminal History Record Check Request",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5704.04 Procedure for School Transportation Provider Criminal History Record Check Request.\n\n(a) Notwithstanding any rule to the contrary, a school transportation provider seeking to authorize the release of his or her criminal history record to a superintendent or chief executive officer for the purposes of RSA 189:13-a, shall submit to the division the following:\n\n(1) A fully executed DSSP 434 “Contracted School Transportation Providers Criminal History Record Release Form”, effective 8/1/18;\n\n(2) A complete set of fingerprints pursuant to Saf-C 5705; and\n\n(3) All applicable fees as set forth in (b) below.\n\n(b) In addition to the fees set forth in Saf-C 5703.10(c), Saf-C 5703.13, and Saf-C 5705.06(b), a $5.00 fee shall be assessed for each listed school superintendent or chief executive officer on DSSP 434.\n\nSource. #12606, eff 8-17-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5700.html"
+}

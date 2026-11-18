@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5902.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "II",
+        "III",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5902",
+  "definition": "Communications",
+  "effectiveDate": "2019-05-24",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5902.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5902.03 Communications",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5902.03 Communications.\n\n(a) At minimum, each unit’s vehicle shall have 2-way communication capabilities on the following:\n\n(1) A VHF frequency of 155.175 megahertz; and\n\n(2) A VHF frequency of 155.340 megahertz.\n\n(b) Each unit shall abide by the requirements set forth in 47 CFR 90.\n\n(c) Each unit’s vehicle shall provide capabilities to relay medical information through its dispatcher from the scene to the receiving hospital or facility.\n\n(d) Each unit’s vehicle shall be capable of relaying and receiving medical information directly to and from its MRH or receiving hospital or facility by utilizing the appropriate tone-coded squelch radio signal.\n\n(e) A request for dispatch of air medical transport to the scene of an emergency may be made by providers licensed pursuant to this chapter and in accordance with the NH patient care protocols.\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

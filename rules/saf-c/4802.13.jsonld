@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/4802.13",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "146-A:11-a",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:12",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:38",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-a",
+    "https://granitestate.github.io/rsa/147-B/147-B-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/4802",
+  "definition": "Refinery",
+  "effectiveDate": "2020-04-20",
+  "historyNote": "#10022, eff 11-9-11 (from Saf-C 4802.05); ss by #13039, eff 4-20-20 (formerly Saf-C 4802.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 4802.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4800.html",
+  "prefLabel": "Saf-C 4802.13 Refinery",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 4802.13 “Refinery” means any facility used to process crude oil, unfinished oils, natural gas liquids or other hydrocarbons into any accountable product/motor fuel.\n\nSource. #10022, eff 11-9-11 (from Saf-C 4802.05); ss by #13039, eff 4-20-20 (formerly Saf-C 4802.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4800.html"
+}

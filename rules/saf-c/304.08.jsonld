@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/304.08",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "6:11-a",
+      "source": "https://granitestate.github.io/rsa/6/6-11-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:40",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/6/6-11-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/304",
+  "definition": "Accounts Receivable",
+  "effectiveDate": "2021-04-07",
+  "historyNote": "(See Revision Notes #1 and #2 at Chapter Heading for Saf-C 300) #10032, eff 11-22-11; ss by #13186, eff 4-7-21 (See Revision Note #3 at Chapter Heading for Saf-C 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 304.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c300.html",
+  "prefLabel": "Saf-C 304.08 Accounts Receivable",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 304.08 Accounts Receivable.\n\n(a) In the event a person overpays or underpays any license, toll, penalty or other fee required by the road toll law, an account statement shall be issued to the person. Refunds shall not be issued more than 4 years after the due date of the return.\n\n(b) Amounts of less than one dollar shall not be invoiced or refunded.\n\n(c) The balance from an account statement shall be carried on the administration's appropriate account ledger and the account shall be suspended until resolved.\n\nSource. (See Revision Notes #1 and #2 at Chapter Heading for Saf-C 300) #10032, eff 11-22-11; ss by #13186, eff 4-7-21 (See Revision Note #3 at Chapter Heading for Saf-C 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c300.html"
+}

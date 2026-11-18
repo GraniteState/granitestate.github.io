@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5914.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "153-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153-A/153-A-16",
+    "https://granitestate.github.io/rsa/153-A/153-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5914",
+  "definition": "Medical Professionals",
+  "effectiveDate": "2019-05-24",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5914.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5914.01 Medical Professionals",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5914.01 Medical Professionals. The following medical professionals who are properly licensed and in good standing with the state of NH may challenge the National Registry examinations in accordance with Saf-C 5914.02 through Saf-C 5914.04:\n\n(a) A registered nurse (RN);\n\n(b) A physician’s assistant (PA);\n\n(c) A medical doctor (MD); or\n\n(d) A doctor of osteopathy (DO).\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

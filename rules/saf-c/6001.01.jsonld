@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6001.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "153:1",
+      "paragraphs": [
+        "VI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:4-a",
+      "source": "https://granitestate.github.io/rsa/153/153-4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:5",
+      "paragraphs": [
+        "IV",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:8-a",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-1",
+    "https://granitestate.github.io/rsa/153/153-4-a",
+    "https://granitestate.github.io/rsa/153/153-5",
+    "https://granitestate.github.io/rsa/153/153-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6001",
+  "definition": "Scope",
+  "effectiveDate": "2020-08-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6001.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html",
+  "prefLabel": "Saf-C 6001.01 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6001.01 Scope. These rules implement specific statutory authority of the department of safety and the state fire marshal to regulate various areas pertaining to fire and life safety. These rules are not part of the state fire code, defined and adopted in RSA 153:1, VI-a or amendments to the state fire code pursuant to RSA 153:5, I which are exempt from RSA 541-A and published in the Saf-Fmo administrative rules.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html"
+}

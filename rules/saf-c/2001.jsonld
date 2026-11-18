@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2001",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "261:97",
+      "source": "https://granitestate.github.io/rsa/261/261-97",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/261/261-97"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2000",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/2001.01",
+    "https://granitestate.github.io/rules/saf-c/2001.02",
+    "https://granitestate.github.io/rules/saf-c/2001.03",
+    "https://granitestate.github.io/rules/saf-c/2001.04",
+    "https://granitestate.github.io/rules/saf-c/2001.05",
+    "https://granitestate.github.io/rules/saf-c/2001.06",
+    "https://granitestate.github.io/rules/saf-c/2001.07",
+    "https://granitestate.github.io/rules/saf-c/2001.08",
+    "https://granitestate.github.io/rules/saf-c/2001.09",
+    "https://granitestate.github.io/rules/saf-c/2001.10",
+    "https://granitestate.github.io/rules/saf-c/2001.11",
+    "https://granitestate.github.io/rules/saf-c/2001.12",
+    "https://granitestate.github.io/rules/saf-c/2001.13",
+    "https://granitestate.github.io/rules/saf-c/2001.14",
+    "https://granitestate.github.io/rules/saf-c/2001.15",
+    "https://granitestate.github.io/rules/saf-c/2001.16",
+    "https://granitestate.github.io/rules/saf-c/2001.17",
+    "https://granitestate.github.io/rules/saf-c/2001.18",
+    "https://granitestate.github.io/rules/saf-c/2001.19",
+    "https://granitestate.github.io/rules/saf-c/2001.20",
+    "https://granitestate.github.io/rules/saf-c/2001.21",
+    "https://granitestate.github.io/rules/saf-c/2001.22",
+    "https://granitestate.github.io/rules/saf-c/2001.23"
+  ],
+  "notation": "Saf-C 2001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2001 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 2001 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

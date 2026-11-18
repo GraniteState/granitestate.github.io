@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2205",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "106-F:8",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2200",
+  "definition": "FEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/2205.01",
+    "https://granitestate.github.io/rules/saf-c/2205.02",
+    "https://granitestate.github.io/rules/saf-c/2205.03",
+    "https://granitestate.github.io/rules/saf-c/2205.04",
+    "https://granitestate.github.io/rules/saf-c/2205.05",
+    "https://granitestate.github.io/rules/saf-c/2205.06"
+  ],
+  "notation": "Saf-C 2205",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2200.html",
+  "prefLabel": "Saf-C 2205 FEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 2205 FEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2200.html"
+}

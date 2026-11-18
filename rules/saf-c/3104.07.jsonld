@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3104.07",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:45",
+      "source": "https://granitestate.github.io/rsa/263/263-45",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/263/263-45"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3104",
+  "definition": "Application for Renewal of Driver Education Standard Certificate",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3104.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3104.07 Application for Renewal of Driver Education Standard Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Section Saf-C 3104.07 Application for Renewal of Driver Education Standard Certificate.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

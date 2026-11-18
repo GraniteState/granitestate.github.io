@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5024",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "158:9-f",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/158/158-9-f",
+      "via": "appendix"
+    },
+    {
+      "citation": "160-B:7",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/158/158-9-f"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5000",
+  "definition": "FIRING OF THE DISPLAY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/5024.01",
+    "https://granitestate.github.io/rules/saf-c/5024.02",
+    "https://granitestate.github.io/rules/saf-c/5024.03",
+    "https://granitestate.github.io/rules/saf-c/5024.04",
+    "https://granitestate.github.io/rules/saf-c/5024.05",
+    "https://granitestate.github.io/rules/saf-c/5024.06",
+    "https://granitestate.github.io/rules/saf-c/5024.07",
+    "https://granitestate.github.io/rules/saf-c/5024.08",
+    "https://granitestate.github.io/rules/saf-c/5024.09",
+    "https://granitestate.github.io/rules/saf-c/5024.10"
+  ],
+  "notation": "Saf-C 5024",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html",
+  "prefLabel": "Saf-C 5024 FIRING OF THE DISPLAY",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 5024 FIRING OF THE DISPLAY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html"
+}

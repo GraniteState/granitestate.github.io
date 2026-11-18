@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5902.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "153-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:2",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153-A/153-A-2",
+    "https://granitestate.github.io/rsa/153-A/153-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5902",
+  "definition": "Medical Resource Hospital",
+  "effectiveDate": "2019-05-24",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5902.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5902.02 Medical Resource Hospital",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5902.02 Medical Resource Hospital.\n\n(a) Each unit shall have a valid written agreement with only one hospital to serve as its medical resource hospital (MRH).\n\n(b) Notwithstanding (a) above, each unit currently under agreement with more than one MRH may continue such relationship until a change in unit ownership occurs.\n\n(c) A unit located in the state shall retain a NH acute care hospital as its MRH if such hospital exists as specified in (g) below.\n\n(d) On-line adult and pediatric medical control shall be available to all NH units during an emergency event or patient transport and may be provided by any receiving hospital.\n\n(e) Off-line adult and pediatric medical control shall be the responsibility of a unit’s MRH.\n\n(f) The MRH shall be responsible for oversight of the adult and pediatric patient care procedures of the unit and shall act as the intermediary between the unit and the receiving hospital or facility concerning patient care, on-line medical directives, or provider conduct.\n\n(g) Designation of a MRH by the unit shall be made on the basis of the hospital being geographically located nearest to the population served by the unit or which receives the majority of the unit’s patients.\n\n(h) A MRH may transfer its off-line medical control to any other hospital with prior agreement from both hospitals.\n\n(i) Changes to a unit’s MRH shall require written approval from the unit’s current MRH and proposed MRH.\n\n(j) Each unit and MRH shall retain a copy of the valid agreement and submit the agreement to the division in accordance with the provisions of these rules.\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

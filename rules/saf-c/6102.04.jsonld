@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6102.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6102",
+  "definition": "Director",
+  "effectiveDate": "2018-01-25",
+  "historyNote": "#7650, eff 2-20-02; ss by #9472, eff 5-18-09; ss by #12467, eff 1-25-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6102.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6100.html",
+  "prefLabel": "Saf-C 6102.04 Director",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6102.04 “Director” means the director of the division of state police.\n\nSource. #7650, eff 2-20-02; ss by #9472, eff 5-18-09; ss by #12467, eff 1-25-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6100.html"
+}

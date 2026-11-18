@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/9003.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "265-A:5",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/9003",
+  "definition": "Reporting of Findings",
+  "effectiveDate": "2018-06-21",
+  "historyNote": "#12556, eff 6-21-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 9003.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9000.html",
+  "prefLabel": "Saf-C 9003.03 Reporting of Findings",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 9003.03 Reporting of Findings.\n\n(a) The reported value shall be printed on the breath test record and shall be reported to the second decimal place without rounding.\n\n(b) The reported value shall be printed when a breath test is completed in accordance with Saf-C 9003.02(e) above.\n\n(c) The reported value shall be the lower of the 2 values which are within +/- 0.020 g/210L agreement.\n\n(d) Breath test results shall be expressed as grams of alcohol per 210 liters.\n\nSource. #12556, eff 6-21-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9000.html"
+}

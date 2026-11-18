@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/1902.06",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "III(l)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:20",
+      "source": "https://granitestate.github.io/rsa/261/261-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/260/260-5",
+    "https://granitestate.github.io/rsa/261/261-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/1902",
+  "definition": "Checks",
+  "effectiveDate": "2023-04-25",
+  "historyNote": "#4823, eff 6-1-90; ss by #4981, eff 11-16-90; ss by #6293, eff 7-23-96; ss by #8123, INTERIM, eff 7-17-04, EXPIRED: 1-13-05 New. #8339, eff 4-26-05; ss by #10190, eff 9-27-12, EXPIRED: 9-27-22 New. 13614, eff 4-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 1902.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1900.html",
+  "prefLabel": "Saf-C 1902.06 Checks",
+  "priorExpiration": "2022-09-27",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 1902.06 Checks.\n\n(a) Post dated checks shall not be accepted.\n\n(b) Checks shall be for the exact amount due to the division.\n\n(c) No two-party check shall be accepted except as provided in (d) below.\n\n(d) A two -party check shall be accepted if:\n\n(1) The state of new Hampshire is one of the parties;\n\n(2) The applicant is the other party; and\n\n(3) The check is for the exact amount due to the division.\n\n(e) No check shall be accepted which is dated more than 90 days prior to receipt. In such an event, the application shall be rejected and the applicant shall be notified.\n\nSource. #4823, eff 6-1-90; ss by #4981, eff 11-16-90; ss by #6293, eff 7-23-96; ss by #8123, INTERIM, eff 7-17-04, EXPIRED: 1-13-05\n\nNew. #8339, eff 4-26-05; ss by #10190, eff 9-27-12, EXPIRED: 9-27-22\n\nNew. 13614, eff 4-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1900.html"
+}

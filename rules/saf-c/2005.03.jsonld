@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2005.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "236:112",
+      "paragraphs": [
+        "V(c)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "259:47",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:98",
+      "source": "https://granitestate.github.io/rsa/261/261-98",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:123",
+      "source": "https://granitestate.github.io/rsa/261/261-123",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:131",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/261/261-98",
+    "https://granitestate.github.io/rsa/261/261-123"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2005",
+  "definition": "Renewal of Automotive Recycling Dealer Registration",
+  "effectiveDate": "2016-01-29",
+  "historyNote": "#8966, eff 8-23-07; ss by #11028, eff 1-29-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2005.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2005.03 Renewal of Automotive Recycling Dealer Registration",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2005.03 Renewal of Automotive Recycling Dealer Registration. All automotive recycling dealer registrations shall expire biennially on March 31st and shall be renewed in accordance with the requirements of Saf-C 2003.11(b).\n\nSource. #8966, eff 8-23-07; ss by #11028, eff 1-29-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

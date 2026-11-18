@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2004.06",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Registration of Auto Wholesale Dealer Registration",
+  "authority": [
+    {
+      "citation": "259:5-a",
+      "source": "https://granitestate.github.io/rsa/259/259-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "259:29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:98",
+      "source": "https://granitestate.github.io/rsa/261/261-98",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:103-a",
+      "source": "https://granitestate.github.io/rsa/261/261-103-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:140-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/259/259-5-a",
+    "https://granitestate.github.io/rsa/261/261-98",
+    "https://granitestate.github.io/rsa/261/261-103-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2004",
+  "definition": "Renewal of Auto Wholesale Dealer Registration",
+  "effectiveDate": "2016-01-29",
+  "historyNote": "#8966, eff 8-23-07 (formerly Saf-C 2004.03); ss by #11028, eff 1-29-16 (from Saf-C 2004.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2004.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2004.06 Renewal of Auto Wholesale Dealer Registration",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2004.06 Renewal of Auto Wholesale Dealer Registration. All auto wholesale dealer registrations shall expire biennially on March 31st and shall be renewed in accordance with the requirements of Saf-C 2003.11(b).\n\nSource. #8966, eff 8-23-07 (formerly Saf-C 2004.03); ss by #11028, eff 1-29-16 (from Saf-C 2004.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

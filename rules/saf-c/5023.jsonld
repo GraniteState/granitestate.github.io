@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5023",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "158:9-f",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/158/158-9-f",
+      "via": "appendix"
+    },
+    {
+      "citation": "160-B:7",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/158/158-9-f"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5000",
+  "definition": "ELECTRICAL DISPLAY FIRING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/5023.01",
+    "https://granitestate.github.io/rules/saf-c/5023.02",
+    "https://granitestate.github.io/rules/saf-c/5023.03"
+  ],
+  "notation": "Saf-C 5023",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html",
+  "prefLabel": "Saf-C 5023 ELECTRICAL DISPLAY FIRING",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 5023 ELECTRICAL DISPLAY FIRING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5916.07",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5916",
+  "definition": "Authorization Process",
+  "effectiveDate": "2024-04-20",
+  "historyNote": "#13953, eff 4-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5916.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5916.07 Authorization Process",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5916.07 Authorization Process.\n\n(a) The division shall authorize training programs at any of the provider licensing levels set forth in Saf-C 5904.01 or any associated refresher training.\n\n(b) Only licensed EMS I/C’s, EMS I’s, and approved subject matter experts affiliated with the licensed educational training agency shall act as instructors for training programs authorized in (a) above and shall be accountable for all of the requirements set forth in Saf-C 5916.\n\n(c) Pursuant to Saf-C 5916.08, the educational training agency shall request authorization for a training program by completing and submitting form “Authority to Establish Courses” Rev. (04/24) https://nhfa-ems.com/ems-resources/instructor-coordinator-course-request/.\n\n(d) Any training program authorized by the division in (a) above shall be issued a course approval number.\n\nSource. #13953, eff 4-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

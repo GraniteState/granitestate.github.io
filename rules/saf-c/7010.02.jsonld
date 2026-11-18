@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7010.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "106-H:16",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7010",
+  "definition": "System Description",
+  "effectiveDate": "2016-06-29",
+  "historyNote": "#11128, eff 6-29-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7010.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html",
+  "prefLabel": "Saf-C 7010.02 System Description",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7010.02 System Description.\n\n(a) The ENS shall use the fixed-location data in the bureau’s E911 telephone database as well as E911 data collected from wireline and VoIP providers who utilize dynamic location information.\n\n(b) The system shall also be capable of sending out alerts via email address and SMS number.\n\n(c) The ENS shall be fully geographic information system (GIS) capable and able to define an emergency zone by address or geographic area.\n\n(d) The bureau shall ensure that every state, county, and local emergency response agency has access to and training in the use of the ENS.\n\n(e) The bureau shall use the Wireless Emergency Alerts (WEA) component of the Integrated Public Alert and Warning System (IPAWS).\n\nSource. #11128, eff 6-29-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html"
+}

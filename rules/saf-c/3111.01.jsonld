@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3111.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P",
+      "source": "https://granitestate.github.io/rsa/21-P",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:19",
+      "source": "https://granitestate.github.io/rsa/263/263-19",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P",
+    "https://granitestate.github.io/rsa/263/263-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3111",
+  "definition": "Vehicle Inspection Requirements",
+  "effectiveDate": "2018-04-05",
+  "historyNote": "#5367, eff 3-31-92; ss by #6711, INTERIM, eff 3-22-98, EXPIRED: 7-20-98 New. #7362, eff 12-1-00; ss by #9331, INTERIM, eff 11-26-08, EXPIRED: 5-25-09 New. #9568, eff 10-17-09 (from Saf-C 3114.01); ss by #12509, eff 4-5-18 (formerly Saf-C 3115.01) (See Revision Note at chapter heading for Saf-C 3100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3111.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3111.01 Vehicle Inspection Requirements",
+  "priorExpiration": "2009-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3111.01 Vehicle Inspection Requirements.\n\n(a) All driver education vehicles shall comply with the provisions of RSA 266:1 and the rules adopted thereunder.\n\n(b) Failure to comply with (a) above, shall result in an immediate vehicle registration suspension until such time as the vehicle is in compliance with the provisions of RSA 266:1 and the rules adopted thereunder.\n\n(c) No instruction shall occur in a driver education vehicle that has a mechanical malfunction.\n\nSource. #5367, eff 3-31-92; ss by #6711, INTERIM, eff 3-22-98, EXPIRED: 7-20-98\n\nNew. #7362, eff 12-1-00; ss by #9331, INTERIM, eff 11-26-08, EXPIRED: 5-25-09\n\nNew. #9568, eff 10-17-09 (from Saf-C 3114.01); ss by #12509, eff 4-5-18 (formerly Saf-C 3115.01) (See Revision Note at chapter heading for Saf-C 3100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

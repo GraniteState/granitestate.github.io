@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/1307.05",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "V(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:7",
+      "source": "https://granitestate.github.io/rsa/266/266-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/260/260-5",
+    "https://granitestate.github.io/rsa/266/266-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/1307",
+  "definition": "School Bus Inspection Sticker",
+  "effectiveDate": "2024-06-22",
+  "expirationDate": "2034-06-22",
+  "historyNote": "#14005, eff 6-22-24, EXPIRES: 6-22-34 (see Revision Note #2 at chapter heading for Saf-C 1300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 1307.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1300.html",
+  "prefLabel": "Saf-C 1307.05 School Bus Inspection Sticker",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 1307.05 School Bus Inspection Sticker. The school bus inspection sticker issued pursuant to RSA 266:7 shall be affixed to the middle of the windshield located either at the top or bottom, clearly visible from the outside and not in a location that interferes with any safety equipment or driver visibility.\n\nSource. #14005, eff 6-22-24, EXPIRES: 6-22-34 (see Revision Note #2 at chapter heading for Saf-C 1300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1300.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/518.22",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "III(u)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:74-a",
+      "source": "https://granitestate.github.io/rsa/261/261-74-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/260/260-5",
+    "https://granitestate.github.io/rsa/261/261-74-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/518",
+  "definition": "Overpayment by Municipal Agent",
+  "effectiveDate": "2023-01-13",
+  "historyNote": "#7972, eff 10-17-03; ss by #9995, INTERIM, eff 9-17-11, EXPIRED: 3-15-12 New. #10135, eff 5-23-12; ss by #13521, eff 1-13-23 (formerly Saf-C 519.22)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 518.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c500.html",
+  "prefLabel": "Saf-C 518.22 Overpayment by Municipal Agent",
+  "priorExpiration": "2012-03-15",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 518.22 Overpayment by Municipal Agent.\n\n(a) In the event a municipal agent forwards more money than is owed to the department in any remittance, the department shall issue a credit memo to the municipal agent.\n\n(b) No credit memo shall be issued until the overage is verified by the department.\n\n(c) A credit memo shall be used by a municipal agent to reduce the amount of a future remittance to the department. The remittance shall be reduced by the amount set forth in the credit memo.\n\n(d) A credit memo shall be used by a municipal agent within 30 days of receipt and shall be submitted with the remittance to which it is applied.\n\n(e) No credit memo shall be transferable.\n\nSource. #7972, eff 10-17-03; ss by #9995, INTERIM, eff 9-17-11, EXPIRED: 3-15-12\n\nNew. #10135, eff 5-23-12; ss by #13521, eff 1-13-23 (formerly Saf-C 519.22)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c500.html"
+}

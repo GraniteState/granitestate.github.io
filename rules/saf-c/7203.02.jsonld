@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7203.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "259:68-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:75-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/260/260-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7203",
+  "definition": "Change of Registration Information",
+  "effectiveDate": "2018-10-22",
+  "historyNote": "#12648, eff 10-22-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7200.html",
+  "prefLabel": "Saf-C 7203.02 Change of Registration Information",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7203.02 Change of Registration Information.\n\n(a) The head of the law enforcement agency shall report to the commissioner changes to information set forth in a submitted DSCO1 form within 10 calendar days of the effective date of the change.\n\n(b) Notwithstanding any rule to the contrary, only the following change of registration information shall be required to be reported pursuant to (a) above:\n\n(1) Administrative POC;\n\n(2) Technical POC; or\n\n(3) The decommissioning of any registered LPR.\n\nSource. #12648, eff 10-22-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7200.html"
+}

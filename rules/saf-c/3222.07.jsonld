@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3222.07",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59-b",
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3222",
+  "definition": "Electronic Administrator’s Certificate",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "#9184, eff 6-20-08; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3222.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3222.07 Electronic Administrator’s Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3222.07 Electronic Administrator’s Certificate.\n\n(a) Any vehicle that does not pass an OBD inspection due to issues as specified by the manufacturer, yet meets all other safety inspection requirements, shall be eligible for an administrator’s certificate, upon consultation with and agreement by the EPA, which shall be maintained electronically.\n\n(b) An electronic administrator’s certificate shall:\n\n(1) Permit an inspection station to issue a valid inspection sticker for the vehicle until the next inspection is required pursuant to RSA 266:1; and\n\n(2) Be non-transferable.\n\n(c) An inspection station shall be permitted to reissue an electronic administrator’s certificate at each ensuing inspection for the same vehicle as long as the requirements of (a) above are met.\n\nSource. #9184, eff 6-20-08; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

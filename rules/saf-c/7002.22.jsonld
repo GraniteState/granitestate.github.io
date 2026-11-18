@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7002.22",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Prepaid Commercial Mobile Radio Service Provider",
+  "authority": [
+    {
+      "citation": "106-H:2",
+      "paragraphs": [
+        "VIII-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "106-H:9",
+      "source": "https://granitestate.github.io/rsa/106-H/106-H-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-H/106-H-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7002",
+  "definition": "Prepaid commercial mobile radio service provider",
+  "effectiveDate": "2016-06-29",
+  "historyNote": "#11010, INTERIM, eff 1-1-16, EXPIRES: 6-29-16; ss by #11128, eff 6-29-16 (from Saf-C 7002.21)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7002.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html",
+  "prefLabel": "Saf-C 7002.22 Prepaid commercial mobile radio service provider",
+  "priorExpiration": "2016-06-29",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7002.22 “Prepaid commercial mobile radio service provider” means a natural person or any other person, including any firm, corporation, partnership, or business organization, that provides prepaid commercial mobile radio service pursuant to a license issued by the federal communications commission.\n\nSource. #11010, INTERIM, eff 1-1-16, EXPIRES: 6-29-16; ss by #11128, eff 6-29-16 (from Saf-C 7002.21)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html"
+}

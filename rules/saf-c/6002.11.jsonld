@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6002.11",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Rental Unit",
+  "authority": [
+    {
+      "citation": "153:1",
+      "paragraphs": [
+        "IX-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6002",
+  "definition": "Rental unit",
+  "effectiveDate": "2020-08-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6002.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html",
+  "prefLabel": "Saf-C 6002.11 Rental unit",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6002.11 “Rental unit” means “rental unit” as defined in RSA 153:1, IX-a.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html"
+}

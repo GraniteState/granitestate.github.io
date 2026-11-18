@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7005.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "VIII(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "106-H:10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7005",
+  "definition": "Collecting and Updating the Database",
+  "effectiveDate": "2016-06-29",
+  "historyNote": "#9091, eff 2-21-08 (See Revision Note at Chapter Heading for Saf-C 7000); ss by #11128, eff 6-29-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7005.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html",
+  "prefLabel": "Saf-C 7005.01 Collecting and Updating the Database",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7005.01 Collecting and Updating the Database.\n\n(a) The bureau shall provide each local telephone service provider with a copy of the most recently updated master street address guide and the most recently updated street address guide for every municipality in the local exchange service provider’s local telephone exchange.\n\n(b) Using the guides described in (a), each local telephone service provider shall:\n\n(1) Correlate each subscriber in its service territory by telephone number with an address on a street address guide; and\n\n(2) Assure that changes in, additions to, and deletions from the correlations described in (b)(1) shall, within 3 days, be provided to the bureau or the bureau’s designee for updating the database.\n\n(c) If the bureau should choose not to update the state owned or operated database itself, but instead to contract for database updating services, the bureau shall report in writing to the entity obligated to provide such services all information received by the bureau which constitutes a change in the database.\n\n(d) An entity contracting to provide services to update the database shall, upon receipt of the information described in (c):\n\n(1) Change the database in accordance with the information received; and\n\n(2) Confirm in writing that it has done so, including in the confirmation:\n\na. The date of the database change;\n\nb. The name of the person making the database change;\n\nc. Any additional remarks required to inform the bureau fully about the database change;\n\nd. The original signature of the person making the database change; and\n\ne. The date of signing of the confirmation.\n\n(e) The DESC shall collect and maintain GIS address point data for each structure and unit in New Hampshire, utilizing field verification, aerial photography and/or other technologies to ensure the accuracy of this data.\n\n(f) Each data point shall include the physical address and subaddress of the structure or unit as well as an accurate latitude/longitude of the structure or the entrance to the structure for that unit.\n\n(g) The DESC shall collect and maintain GIS point data for any landmark in New Hampshire that might be vital to providing emergency services or be of assistance in locating a caller who is not at a physical address.\n\n(h) The DESC shall maintain a geographical representation of each emergency service number coverage area.\n\nSource. #9091, eff 2-21-08 (See Revision Note at Chapter Heading for Saf-C 7000); ss by #11128, eff 6-29-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html"
+}

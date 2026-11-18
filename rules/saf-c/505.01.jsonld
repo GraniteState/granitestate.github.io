@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/505.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:40",
+      "source": "https://granitestate.github.io/rsa/261/261-40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:40-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:52",
+      "source": "https://granitestate.github.io/rsa/261/261-52",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/260/260-5",
+    "https://granitestate.github.io/rsa/261/261-40",
+    "https://granitestate.github.io/rsa/261/261-52"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/505",
+  "definition": "Application Form, Where Available",
+  "effectiveDate": "2023-01-13",
+  "historyNote": "#7972, eff 10-17-03 (See Revision Note #1 at chapter heading for Saf-C 500); ss by #8999, eff 9-29-07; ss by #10135, eff 5-23-12; ss by #13521, eff 1-13-23 (see Revision Note #2 at chapter heading for Saf-C 500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 505.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c500.html",
+  "prefLabel": "Saf-C 505.01 Application Form, Where Available",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 505.01 Application Form, Where Available. The department shall furnish application forms for motor carrier registration at the division of motor vehicles, 23 Hazen Drive, Concord, N.H. 03305.\n\nSource. #7972, eff 10-17-03 (See Revision Note #1 at chapter heading for Saf-C 500); ss by #8999, eff 9-29-07; ss by #10135, eff 5-23-12; ss by #13521, eff 1-13-23 (see Revision Note #2 at chapter heading for Saf-C 500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c500.html"
+}

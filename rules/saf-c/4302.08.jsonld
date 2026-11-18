@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/4302.08",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Electronic Signature",
+  "authority": [
+    {
+      "citation": "294-E:2",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/294-E/294-E-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E/294-E-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/4302",
+  "definition": "Electronic signature",
+  "effectiveDate": "2020-04-20",
+  "historyNote": "#9376, eff 1-30-09; ss by #10026, eff 11-16-11; ss by #13037, eff 4-20-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 4302.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4300.html",
+  "prefLabel": "Saf-C 4302.08 Electronic signature",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 4302.08 “Electronic signature” means “electronic signature” as defined in RSA 294-E:2, VIII namely, “an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record”.\n\nSource. #9376, eff 1-30-09; ss by #10026, eff 11-16-11; ss by #13037, eff 4-20-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4300.html"
+}

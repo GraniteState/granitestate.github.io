@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/9706",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "105-D:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/105-D/105-D-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/105-D/105-D-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/9700",
+  "definition": "GRANT REVIEW PROCESS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/9706.01",
+    "https://granitestate.github.io/rules/saf-c/9706.02"
+  ],
+  "notation": "Saf-C 9706",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9700.html",
+  "prefLabel": "Saf-C 9706 GRANT REVIEW PROCESS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 9706 GRANT REVIEW PROCESS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c9700.html"
+}

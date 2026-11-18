@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/1903.08",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:1",
+      "source": "https://granitestate.github.io/rsa/261/261-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:4",
+      "source": "https://granitestate.github.io/rsa/261/261-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:31",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/261/261-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/260/260-5",
+    "https://granitestate.github.io/rsa/261/261-1",
+    "https://granitestate.github.io/rsa/261/261-4",
+    "https://granitestate.github.io/rsa/261/261-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/1903",
+  "definition": "Face of Manufacturer's Certificate of Origin",
+  "effectiveDate": "2023-04-25",
+  "historyNote": "#8339, eff 4-26-05 (from Saf-C 1904.06); ss by #10190, eff 9-27-12, EXPIRED: 9-27-22 New. #13614, eff 4-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 1903.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1900.html",
+  "prefLabel": "Saf-C 1903.08 Face of Manufacturer's Certificate of Origin",
+  "priorExpiration": "2022-09-27",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 1903.08 Face of Manufacturer's Certificate of Origin. The face of the manufacturer's certificate of origin shall:\n\n(a) Visibly react under natural light to a chlorine or alcohol base eradicator;\n\n(b) Clearly show attempts at erasure under ultra-violet light;\n\n(c) Have fine line prismatic tint which will be fluorescent under ultra-violet light; and\n\n(d) Have font-control numbering printed in red, exclusive to the manufacturer.\n\nSource. #8339, eff 4-26-05 (from Saf-C 1904.06); ss by #10190, eff 9-27-12, EXPIRED: 9-27-22\n\nNew. #13614, eff 4-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1900.html"
+}

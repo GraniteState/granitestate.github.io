@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/201.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "IV(j)",
+        "(k)",
+        "V(e)",
+        "(f)",
+        "(g)",
+        "(p)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "262:19",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/262/262-19",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:98",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/263/263-98",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/262/262-19",
+    "https://granitestate.github.io/rsa/263/263-98"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/201",
+  "definition": "Applicability",
+  "effectiveDate": "2004-12-17",
+  "historyNote": "#7349, eff 8-22-00; ss by #8174, INTERIM, eff 9-25-04, EXPIRES: 3-24-05; ss by #8230-A, eff 12-17-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 201.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c200.html",
+  "prefLabel": "Saf-C 201.03 Applicability",
+  "priorExpiration": "2005-03-24",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 201.03 Applicability.\n\n(a) Except as otherwise provided by department rules, the rules in this chapter shall apply to any adjudicative proceedings held by the department.\n\n(b) The hearings examiner shall not waive any of the provisions of these rules.\n\nSource. #7349, eff 8-22-00; ss by #8174, INTERIM, eff 9-25-04, EXPIRES: 3-24-05; ss by #8230-A, eff 12-17-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c200.html"
+}

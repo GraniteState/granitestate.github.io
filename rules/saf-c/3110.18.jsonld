@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3110.18",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "263:19",
+      "source": "https://granitestate.github.io/rsa/263/263-19",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:44",
+      "source": "https://granitestate.github.io/rsa/263/263-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:49",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/263/263-19",
+    "https://granitestate.github.io/rsa/263/263-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3110",
+  "definition": "Driver Education Enrollee Report",
+  "effectiveDate": "2018-04-05",
+  "historyNote": "#9568, eff 10-17-09; ss by #12509, eff 4-5-18 (formerly Saf-C 3114.21) (See Revision Note at chapter heading for Saf-C 3100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3110.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3110.18 Driver Education Enrollee Report",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3110.18 Driver Education Enrollee Report.\n\n(a) Each approved drivers’ school shall complete and submit in a typed format, form DSMV 99, “Driver Education Enrollee Report” (rev 09/17) to the division, prior to the third meeting of each class.\n\n(b) The person in charge of an approved drivers’ school shall sign and date the form under the penalty of unsworn falsification.\n\nSource. #9568, eff 10-17-09; ss by #12509, eff 4-5-18 (formerly Saf-C 3114.21) (See Revision Note at chapter heading for Saf-C 3100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

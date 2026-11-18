@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3222.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59-b",
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3222",
+  "definition": "OBD Inspection",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "#7731, eff 7-26-02 (See Revision Note #2 at Chapter Heading for Saf-C 3200) (formerly Saf-C 3223.03); ss by #9184, eff 6-20-08; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3222.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3222.03 OBD Inspection",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3222.03 OBD Inspection.\n\n(a) All OBD inspections shall be conducted in accordance with the requirements of 40 CFR 85.2222.\n\n(b) All results of the OBD inspection shall be reported to the department electronically.\n\n(c) The mechanic shall furnish the following to the department electronically:\n\n(1) Date of inspection;\n\n(2) Inspection station name and certification number;\n\n(3) Mechanic’s name and identification number;\n\n(4) The vehicle’s:\n\na. Year of manufacture;\n\nb. Make;\n\nc. Model;\n\nd. Fuel type;\n\ne. Mileage;\n\nf. Vehicle identification number; and\n\ng. Registration plate number;\n\n(5) Make and model of scan tool;\n\n(6) Indication as to whether the DLC is missing, has been tampered with, is damaged\n\nor is inoperable;\n\n(7) Indication as to whether:\n\na. The MIL is commanded on or off;\n\nb. The MIL is illuminated with ignition key in “key on engine off” position;\n\nc. The MIL is illuminated with engine running; and\n\nd. The vehicle can communicate with the scan tool;\n\n(8) Support and readiness status of the:\n\na. Catalyst monitor;\n\nb. Heated catalyst monitor;\n\nc. Evaporative system monitor;\n\nd. Exhaust gas recirculation (EGR) monitor;\n\ne. Oxygen (O2) sensor(s) monitor(s);\n\nf. Heated O2 sensor(s) monitor(s);\n\ng. Secondary air monitor; and\n\nh. A/C refrigeration monitor, if vehicle is so equipped;\n\n(9) Diagnostic trouble codes, if applicable;\n\n(10) OBD diagnostic inspection results;\n\n(11) Sticker number or code; and\n\n(12) Repairs made, if applicable.\n\n(d) A vehicle subject to the OBD inspection shall be rejected if:\n\n(1) The DLC is missing, has been tampered with, is damaged or is otherwise inoperable;\n\n(2) The MIL does not illuminate with the ignition key in the “key on, engine off” position;\n\n(3) The MIL is illuminated when the engine is running;\n\n(4) The MIL is commanded “on” for one or more OBD diagnostic trouble codes;\n\n(5) The MIL is commanded to be illuminated and does not visually illuminate;\n\n(6) Monitors reveal a “not ready” status in accordance with (e) below; or\n\n(7) The vehicle cannot communicate with the scan tool.\n\n(e) A vehicle shall be rejected for testing, and the customer shall be instructed to return after the vehicle has been run under conditions that allow completion of all applicable on-board tests if:\n\n(1) A scan of the OBD system reveals a “not ready” status for 3 or more monitors on manufacture years 1996 through 2000 vehicles, inclusive; or\n\n(2) A scan of the OBD system reveals a “not ready” status for 2 or more monitors on manufacture years 2001 and newer vehicles.\n\n(f) If a vehicle is rejected pursuant to (d) or (e) above and the vehicle fails to return for and pass an inspection by the sixtieth day following the inspection, the mechanic shall furnish the following to the department electronically:\n\n(1) Date of inspection;\n\n(2) Inspection station name and certification number;\n\n(3) Mechanic’s name and identification number;\n\n(4) The vehicle’s:\n\na. Year of manufacture;\n\nb. Make;\n\nc. Model; and\n\nd. Vehicle identification number;\n\n(5) A list of diagnostic trouble codes and readiness items that were cause for rejection(s); and\n\n(6) Date vehicle due to be reinspected/repaired, which shall be no later than 60 days from the date of inspection.\n\nSource. #7731, eff 7-26-02 (See Revision Note #2 at Chapter Heading for Saf-C 3200) (formerly Saf-C 3223.03); ss by #9184, eff 6-20-08; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

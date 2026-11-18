@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5909.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(e)",
+        "(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5909",
+  "definition": "EMS I/C General Requirements",
+  "effectiveDate": "2019-05-24",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5909.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5909.01 EMS I/C General Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5909.01 EMS I/C General Requirements. Each applicant seeking licensure for an EMS I/C license shall complete a division approved instructor training program. The division shall approve instructor training programs that meet or exceeds any edition of the NFPA standard for Fire and Emergency Services Instructor III professional qualifications.\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

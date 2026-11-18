@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2403.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:4",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2403",
+  "definition": "Refunds of Unified Carrier Registration Fees",
+  "effectiveDate": "2018-07-20",
+  "historyNote": "#12579, eff 7-20-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2403.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2400.html",
+  "prefLabel": "Saf-C 2403.01 Refunds of Unified Carrier Registration Fees",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2403.01 Refunds of Unified Carrier Registration Fees. For purposes of section 10(d)(2) of the unified carrier registration agreement, the department shall not issue a refund of UCR fees to a registrant that ceases its operations before the beginning of the registration year for which fees were paid.\n\nSource. #12579, eff 7-20-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2400.html"
+}

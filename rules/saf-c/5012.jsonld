@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5012",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "160-B:6",
+      "paragraphs": [
+        "III-a"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "160-B:8",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5000",
+  "definition": "UPKEEP AND REPAIR OF MAGAZINES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/5012.01",
+    "https://granitestate.github.io/rules/saf-c/5012.02"
+  ],
+  "notation": "Saf-C 5012",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html",
+  "prefLabel": "Saf-C 5012 UPKEEP AND REPAIR OF MAGAZINES",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 5012 UPKEEP AND REPAIR OF MAGAZINES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5000.html"
+}

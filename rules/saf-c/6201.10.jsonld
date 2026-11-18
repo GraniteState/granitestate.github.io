@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6201.10",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-a",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-a",
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/21-P/21-P-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6201",
+  "definition": "Services",
+  "effectiveDate": "2018-02-08",
+  "historyNote": "#12477, eff 2-8-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6201.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6200.html",
+  "prefLabel": "Saf-C 6201.10 Services",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6201.10 “Services” means examinations, promotional testing, and fire academy or mobile prop utilizations offered by the division.\n\nSource. #12477, eff 2-8-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6200.html"
+}

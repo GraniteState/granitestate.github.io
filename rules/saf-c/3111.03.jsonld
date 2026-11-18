@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3111.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P",
+      "source": "https://granitestate.github.io/rsa/21-P",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:19",
+      "source": "https://granitestate.github.io/rsa/263/263-19",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P",
+    "https://granitestate.github.io/rsa/263/263-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3111",
+  "definition": "Mirrors",
+  "effectiveDate": "2018-04-05",
+  "historyNote": "#9568, eff 10-17-09 (from Saf-C 3114.03); ss by #12509, eff 4-5-18 (formerly Saf-C 3115.03) (See Revision Note at chapter heading for Saf-C 3100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3111.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3111.03 Mirrors",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3111.03 Mirrors.\n\n(a) All driver education vehicles shall have:\n\n(1) An instructor’s inside mirror to afford the instructor unobstructed vision to the rear of the vehicle, except with CDL vehicles; and\n\n(2) Outside rear view mirrors, one on the left and one on the right of the vehicle, adjusted for each student’s use.\n\n(b) Vanity mirrors or mirrors attached to sun visors shall not be used to meet the requirements of (a) above.\n\nSource. #9568, eff 10-17-09 (from Saf-C 3114.03); ss by #12509, eff 4-5-18 (formerly Saf-C 3115.03) (See Revision Note at chapter heading for Saf-C 3100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

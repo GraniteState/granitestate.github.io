@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6504",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "265-A:36",
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-36",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6500",
+  "definition": "USER RESPONSIBILITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/6504.01",
+    "https://granitestate.github.io/rules/saf-c/6504.02",
+    "https://granitestate.github.io/rules/saf-c/6504.03"
+  ],
+  "notation": "Saf-C 6504",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html",
+  "prefLabel": "Saf-C 6504 USER RESPONSIBILITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART SAF-C 6504 USER RESPONSIBILITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html"
+}

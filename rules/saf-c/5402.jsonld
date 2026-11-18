@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5402",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "376:19",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "376-A:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5400",
+  "definition": "GENERAL ADMINISTRATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/5402.01",
+    "https://granitestate.github.io/rules/saf-c/5402.02",
+    "https://granitestate.github.io/rules/saf-c/5402.03",
+    "https://granitestate.github.io/rules/saf-c/5402.04",
+    "https://granitestate.github.io/rules/saf-c/5402.05",
+    "https://granitestate.github.io/rules/saf-c/5402.06"
+  ],
+  "notation": "Saf-C 5402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5400.html",
+  "prefLabel": "Saf-C 5402 GENERAL ADMINISTRATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 5402 GENERAL ADMINISTRATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5400.html"
+}

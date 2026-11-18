@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3901.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "II(z)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:1",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3901",
+  "definition": "Purpose",
+  "effectiveDate": "2019-12-31",
+  "historyNote": "#6148, eff 12-22-95; ss by #7974, eff 10-20-03, EXPIRED: 10-20-11 New. #10014, eff 10-25-11; ss by #12966, eff 12-31-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3901.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3900.html",
+  "prefLabel": "Saf-C 3901.01 Purpose",
+  "priorExpiration": "2011-10-20",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3901.01 Purpose.\n\n(a) The purpose of these rules is to establish:\n\n(1) A uniform incident command system for use during off-site emergency response operations to releases of, or substantial threats of releases of, hazardous substances; and\n\n(2) Minimum competency training for incident command system (ICS) and minimum training criteria for off-site emergency responders to releases of, or substantial threats of releases of, hazardous substances.\n\nSource. #6148, eff 12-22-95; ss by #7974, eff 10-20-03, EXPIRED: 10-20-11\n\nNew. #10014, eff 10-25-11; ss by #12966, eff 12-31-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3900.html"
+}

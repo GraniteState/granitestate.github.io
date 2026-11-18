@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7507",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "6:11-a",
+      "source": "https://granitestate.github.io/rsa/6/6-11-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/6/6-11-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7500",
+  "definition": "PROTESTED CHECKS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/7507.01",
+    "https://granitestate.github.io/rules/saf-c/7507.02"
+  ],
+  "notation": "Saf-C 7507",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7500.html",
+  "prefLabel": "Saf-C 7507 PROTESTED CHECKS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 7507 PROTESTED CHECKS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7500.html"
+}
