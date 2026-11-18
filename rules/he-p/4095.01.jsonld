@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4095.01",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:5",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4095",
+  "definition": "Assigned Protection Factors for Respirators",
+  "effectiveDate": "2024-04-26",
+  "historyNote": "#8393, eff 7-23-05; ss by #10492, eff 12-24-13; ss by #13928, eff 4-26-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4095.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4062-4097.html",
+  "prefLabel": "He-P 4095.01 Assigned Protection Factors for Respirators",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4095.01 Assigned Protection Factors for Respirators. Assigned protection factors for respirators for use by licensees shall be in accordance with Table 4095.1 below:\n\nTable 4095.1 Assigned Protection Factors (APF) for Respirators\n\nOperating Mode | Assigned Protection Factors\n\nI. Air purifying respirators (Particulate only) Filtering faceplate disposableu ---------------- Facepiece, halfv---------------------------------- Facepiece, full----------------------------------- Facepiece, half----------------------------------- Facepiece, full----------------------------------- Helmet/hood------------------------------------- Facepiece, loosefitting-------------------------- | Negative Pressure------------------- Negative Pressure------------------- Negative Pressure------------------- Powered air-purifying respirators- Powered air-purifying respirators- Powered air-purifying respirators- Powered air-purifying respirators- | ( 1u ) 10 100 50 1000 1000 25\n\nII. Atmosphere supplying respirators (Particulate, gases, and vaporsw) 1: Air-line respirator: Facepiece, half-------------------------------- Facepiece, half------------------------------- Facepiece, half-------------------------------- Facepiece, full-------------------------------- Facepiece, full--------------------------------- Facepiece, full--------------------------------- Helmet/hood----------------------------------- Facepiece, loosefitting------------------------ Suit---------------------------------------------- 2: Self-contained breathing apparatus (SCBA): Facepiece, full--------------------------------- Facepiece, full--------------------------------- Facepiece, full--------------------------------- Facepiece, full----------------------------- | Demand------------------------------ Continuous Flow-------------------- Pressure Demand-------------------- Demand------------------------------ Continuous Flow-------------------- Pressure Demand-------------------- Continuous Flow-------------------- Continuous Flow-------------------- Continuous Flow-------------------- Demand------------------------------ Pressure Demand------------------- Demand, recirculating------------- Positive Pressure Recirculating--- | 10 50 50 100 1000 1000 1000 25 ( 1x ) y100 z10,000 y100 z10,000\n\nIII. Combination respirators: Any combination of air-purifying and atmosphere-supplying respirators | Assigned protection factor for type and mode of operations as listed above\n\nSource. #8393, eff 7-23-05; ss by #10492, eff 12-24-13; ss by #13928, eff 4-26-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4062-4097.html"
+}

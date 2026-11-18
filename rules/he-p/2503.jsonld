@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/2503",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "137-G:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "137-G:5-a",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/2500",
+  "definition": "APPLICATION PROCEDURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/2503.01",
+    "https://granitestate.github.io/rules/he-p/2503.02"
+  ],
+  "notation": "He-P 2503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p2500.html",
+  "prefLabel": "He-P 2503 APPLICATION PROCEDURE",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 2503 APPLICATION PROCEDURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p2500.html"
+}

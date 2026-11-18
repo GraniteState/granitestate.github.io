@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4001.10",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II",
+        "IV",
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4001",
+  "definition": "Units of Activity",
+  "effectiveDate": "2015-03-28",
+  "historyNote": "#6827, eff 8-6-98 (renumbered by #8488, from He-P 4001.09); ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10805, eff 3-28-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4001.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html",
+  "prefLabel": "He-P 4001.10 Units of Activity",
+  "priorExpiration": "2007-02-02",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4001.10 Units of Activity. Activity shall be expressed in the SI unit of Becquerel (Bq) or in the special unit of curie (Ci), or their multiples, and submultiples, or disintegrations (transformations) per unit of time.\n\nSource. #6827, eff 8-6-98 (renumbered by #8488, from He-P 4001.09); ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10805, eff 3-28-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html"
+}

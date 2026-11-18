@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4038.18",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II",
+        "IV",
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4038",
+  "definition": "Monitoring, Detection, and Assessment",
+  "effectiveDate": "2023-03-24",
+  "historyNote": "#11105, eff 5-25-16; ss by #13598, eff 3-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4038.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4023-4039.html",
+  "prefLabel": "He-P 4038.18 Monitoring, Detection, and Assessment",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4038.18 Monitoring, Detection, and Assessment.\n\n(a) Security zones shall be assessed as follows:\n\n(1) Licensees shall establish and maintain the capability to continuously monitor and detect without delay all unauthorized entries into its security zones. Licensees shall provide the means to maintain continuous monitoring and detection capability in the event of a loss of the primary power source, or provide for an alarm and response in the event of a loss of this capability to continuously monitor and detect unauthorized entries.\n\n(2) Monitoring and detection shall be performed by:\n\na. A monitored intrusion detection system that is linked to an onsite or offsite central monitoring facility;\n\nb. Electronic devices for intrusion detection alarms that alert nearby facility personnel;\n\nc. A monitored video surveillance system;\n\nd. Direct visual surveillance by approved individuals located within the security zone; or\n\ne. Direct visual surveillance by a licensee designated individual located outside the security zone.\n\n(3) A licensee subject to He-P 4038.14 through He-P 4038.22 shall also have a means to detect unauthorized removal of the radioactive material from the security zone. This detection capability shall provide:\n\na. For category 1 quantities of radioactive material, immediate detection of any attempted unauthorized removal of the radioactive material from the security zone. Such immediate detection capability shall be provided by:\n\n1. Electronic sensors linked to an alarm;\n\n2. Continuous monitored video surveillance; or\n\n3. Direct visual surveillance.\n\nb. For category 2 quantities of radioactive material, weekly verification through physical checks, tamper indicating devices, use, or other means to ensure that the radioactive material is present.\n\n(b) Licensees shall immediately assess each actual or attempted unauthorized entry into the security zone to determine whether the unauthorized access was an actual or attempted theft, sabotage, or diversion.\n\n(c) For personnel and automated or electronic systems supporting the licensee's monitoring, detection, and assessment systems, licensees shall:\n\n(1) Maintain continuous capability for personnel communication and electronic data transmission and processing among site security systems; and\n\n(2) Provide an alternative communication capability for personnel, and an alternative data transmission and processing capability, in the event of a loss of the primary means of communication or data transmission and processing. Alternative communications and data transmission systems shall not be subject to the same failure modes as the primary systems.\n\n(d) Licensees shall immediately respond to any actual or attempted unauthorized access to the security zones, or actual or attempted theft, sabotage, or diversion of category 1 or category 2 quantities of radioactive material at licensee facilities or temporary job sites. For any unauthorized access involving an actual or attempted theft, sabotage, or diversion of category 1 or category 2 quantities of radioactive material, the licensee's response shall include requesting, without delay, an armed response from the LLEA.\n\nSource. #11105, eff 5-25-16; ss by #13598, eff 3-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4023-4039.html"
+}

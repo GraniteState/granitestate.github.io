@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/1908",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "155:70",
+      "via": "appendix"
+    },
+    {
+      "citation": "155:71",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/1900",
+  "definition": "SIGNS RESTRICTING OR PROHIBITING SMOKING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/1908.01",
+    "https://granitestate.github.io/rules/he-p/1908.02",
+    "https://granitestate.github.io/rules/he-p/1908.03"
+  ],
+  "notation": "He-P 1908",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1900.html",
+  "prefLabel": "He-P 1908 SIGNS RESTRICTING OR PROHIBITING SMOKING",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 1908 SIGNS RESTRICTING OR PROHIBITING SMOKING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1900.html"
+}

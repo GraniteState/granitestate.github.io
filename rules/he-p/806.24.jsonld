@@ -1,0 +1,201 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/806.24",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "altLabel": "Pharmacy and Medications",
+  "authority": [
+    {
+      "citation": "141-C",
+      "source": "https://granitestate.github.io/rsa/141-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:7",
+      "source": "https://granitestate.github.io/rsa/141-C/141-C-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:2",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151",
+      "source": "https://granitestate.github.io/rsa/151",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2",
+      "source": "https://granitestate.github.io/rsa/151/151-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:6-a",
+      "source": "https://granitestate.github.io/rsa/151/151-6-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:7-a",
+      "source": "https://granitestate.github.io/rsa/151/151-7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:8",
+      "source": "https://granitestate.github.io/rsa/151/151-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9",
+      "paragraphs": [
+        "I(a)",
+        "(f)",
+        "(h)",
+        "(l)",
+        "(o)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:29",
+      "via": "appendix"
+    },
+    {
+      "citation": "155:66",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:10",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:46",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:49",
+      "via": "appendix"
+    },
+    {
+      "citation": "169-C",
+      "source": "https://granitestate.github.io/rsa/169-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "328",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430",
+      "source": "https://granitestate.github.io/rsa/430",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:29",
+      "paragraphs": [
+        "XXVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430:33",
+      "source": "https://granitestate.github.io/rsa/430/430-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-C",
+    "https://granitestate.github.io/rsa/141-C/141-C-7",
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/151",
+    "https://granitestate.github.io/rsa/151/151-2",
+    "https://granitestate.github.io/rsa/151/151-6-a",
+    "https://granitestate.github.io/rsa/151/151-7-a",
+    "https://granitestate.github.io/rsa/151/151-8",
+    "https://granitestate.github.io/rsa/151/151-9",
+    "https://granitestate.github.io/rsa/151/151-21",
+    "https://granitestate.github.io/rsa/155-A/155-A-1",
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/169-C",
+    "https://granitestate.github.io/rsa/430",
+    "https://granitestate.github.io/rsa/430/430-33",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/806",
+  "definition": "Emergency Preparedness",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 806.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html",
+  "prefLabel": "He-P 806.24 Emergency Preparedness",
+  "recordType": "rule-section",
+  "ruleText": "He-P 806.24 Emergency Preparedness.\n\n(a) Each facility shall have a group, known as an emergency management committee, with the authority for developing, implementing, exercising, and evaluating an emergency management program.\n\n(b) The emergency management committee shall include the facility administrator and others who have knowledge of the facility and the capability to identify resources from key functional areas within the facility and shall solicit applicable external representation, as appropriate.\n\n(c) An emergency management program shall include, at a minimum, the following elements:\n\n(1) The emergency management plan, as described in He-P 806.24(d);\n\n(2) The roles and responsibilities of the committee members;\n\n(3) How the plan is implemented, exercised, and maintained; and\n\n(4) Accommodation for emergency food and water supplies.\n\n(d) The emergency management committee shall develop and institute a written emergency preparedness plan (plan) to respond to a disaster or an emergency that shall:\n\n(1) Include site-specific plans for the protection of all persons on-site in the event of fire, natural disaster, severe weather, and human-caused emergencies to include, but not be limited to, missing patients and bomb threats;\n\n(2) Be approved by the local emergency management director and reviewed and approved, as appropriate, by the local fire department;\n\n(3) Be available to all personnel;\n\n(4) Be based on realistic conceptual events;\n\n(5) Be modeled on the ICS in coordination with local emergency response agencies;\n\n(6) Include the facility’s response to both short-term and long-term interruptions in the availability of utility service in the disaster or emergency, including establishing contingency plans for continuity of essential building systems or evacuation to include the following, as applicable;\n\na. Electricity;\n\nb. Water;\n\nc. Ventilation;\n\nd. Fire protection systems;\n\ne. Fuel sources;\n\nf. Medical gas and vacuum systems, if applicable; and\n\ng. Communications systems;\n\n(7) Include a plan for alerting and managing staff in a disaster, and for accessing Critical Incident Stress Management (CISM), if necessary;\n\n(8) Include the management of participants, particularly with respect to physical and clinical issues to include relocation of participants with their participant record including the medication administration records, if time permits, as detailed in the emergency plan;\n\n(9) Include an educational program for the staff, which provides an overview of the components of the emergency management program, concepts of the ICS, and the staff’s specific duties and responsibilities; and\n\n(10) If the facility is located within 10 miles of a nuclear power plant and is part of the New Hampshire Radiological Emergency Response Plan (RERP), include the required elements of the RERP.\n\n(e) Annually, the facility shall participate in a community-based disaster drill which may be a tabletop discussion or an actual or functional drill with outside agencies.\n\n(f) The facility shall review and update its emergency plan, as needed, as a result of drills and exercises, real event(s), or annual plan review. Any substantial changes to the plan as a result of drills and exercises, or real events, shall be submitted to the local emergency management director for review.\n\n(g) Notwithstanding He-P 806.24(a)-(f), when an NEWCC is a part of a larger institution which has a comprehensive emergency preparedness plan, the NEWCC may use the institution’s plan, and if so, it shall:\n\n(1) Identify the portions of the plan that pertain to the NEWCC in a separate document for use by NEWCC personnel;\n\n(2) Provide annual training to prepare personnel in its application as required by He-P 806.24(e); and\n\n(3) Review and update the plan as required by He-P 806.24(f) above.\n\nNew. #12674, INTERIM, eff 11-19-18, EXPIRED: 5-20-19\n\nNew. #12795, eff 5-30-19 (formerly provisions of He-P 806.21); ss by #13987, eff 5-30-24 (formerly He-P 806.23)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html"
+}

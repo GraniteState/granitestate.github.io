@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4020.06",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II",
+        "IV",
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4020",
+  "definition": "Compliance with Requirements for Summation of External and Internal Doses",
+  "effectiveDate": "2024-07-23",
+  "historyNote": "#5903, eff 2-1-95; ss by #6827, eff 8-6-98; ss by #8481, eff 11-5-05; ss by #10604, eff 5-23-14; ss by #14028, eff 7-23-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4020.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html",
+  "prefLabel": "He-P 4020.06 Compliance with Requirements for Summation of External and Internal Doses",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4020.06 Compliance with Requirements for Summation of External and Internal Doses.\n\n(a) If the licensee or registrant shall monitor pursuant to He-P 4022.02(a), (b), and (c), the licensee or registrant shall demonstrate compliance with the dose limits by summing external and internal doses.\n\n(b) If the licensee or registrant shall monitor only pursuant to He-P 4022.02(b) or only pursuant to He-P 4022.02(c), then summation shall not be required to demonstrate compliance with the dose limits.\n\n(c) The licensee or registrant may demonstrate compliance with the requirements for summation of external and internal doses pursuant to He-P 4020.06(f), (g), or (h).\n\n(d) The dose equivalents for the lens of the eye, the skin, and the extremities shall not be included in the summation but shall be subject to separate limits.\n\n(e) For calculating the effective dose equivalent, the values of WT shall be as per Table 4020.1 below:\n\nTable 4020.1 Organ Dose Weighting Factors\n\nOrgan or Tissue | wT\n\nGonads | 0.25\n\nBreast | 0.15\n\nRed bone marrow | 0.12\n\nLung | 0.12\n\nThyroid | 0.03\n\nBone Surfaces | 0.03\n\nRemainder | 0.30\n\nWhole Body | 1.00\n\n(f) The organ dose weighting factor of 0.30 in Table 4020.1 shall result from 0.06 for each of 5 remainder organs, excluding the skin and the lens of the eye, that receive the highest doses.\n\n(g) A licensee or registrant may request the use of weighting factors for external exposure other than that specified in Table 4020.1, for situations when reliable, accurate, and predictable estimates of the effective dose equivalent are possible and approved by DHHS/RHS under a license issued in accordance with He-P 4030, or a registration issued in accordance with He-P 4040.\n\n(h) If the only intake of radionuclides is by inhalation, the total effective dose equivalent limit shall not be exceeded if the sum of the deep-dose equivalent divided by the total effective dose equivalent limit, and one of the following, does not exceed unity:\n\n(1) The sum of the fractions of the inhalation ALI for each radionuclide;\n\n(2) The total number of derived air concentration-hours (DAC-hours) for all radionuclides divided by 2,000; or\n\n(3) The sum of the calculated committed effective dose equivalents to all significantly irradiated organs or tissues calculated from bioassay data using appropriate biological models and expressed as a fraction of the annual limit.\n\n(i) The organ or tissue specified in He-P 4020.06(h)(3) shall be deemed to be significantly irradiated if, for that organ or tissue, the product of the weighting factors, WT, and the committed dose equivalent, HT,50, per unit intake is greater than 10 percent of the maximum weighted value of H50, that is, WTHT,50, per unit intake for any organ or tissue.\n\n(j) If the occupationally exposed individual also receives an intake of radionuclides by oral ingestion greater than 10 percent of the applicable oral ALI, the licensee or registrant shall account for this intake and include it in demonstrating compliance with the limits.\n\n(k) A licensee shall evaluate and, to the extent practical, account for intakes through wounds or skin absorption. The intake through intact skin has been included in the calculation of DAC for hydrogen-3 and shall not be evaluated or accounted for pursuant to this paragraph.\n\nSource. #5903, eff 2-1-95; ss by #6827, eff 8-6-98; ss by #8481, eff 11-5-05; ss by #10604, eff 5-23-14; ss by #14028, eff 7-23-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html"
+}

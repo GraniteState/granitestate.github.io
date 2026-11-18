@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/820.01",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "151:2",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2-b",
+      "source": "https://granitestate.github.io/rsa/151/151-2-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9-a",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/151/151-2",
+    "https://granitestate.github.io/rsa/151/151-2-b",
+    "https://granitestate.github.io/rsa/151/151-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/820",
+  "definition": "Purpose",
+  "effectiveDate": "2023-01-25",
+  "historyNote": "#10013, eff 10-22-11; ss by #10206, eff 10-20-12; ss by #13531, eff 1-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 820.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html",
+  "prefLabel": "He-P 820.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "He-P 820.01 Purpose. The purpose of this part is to set forth the mandatory registration requirements for all individuals who solicit and provide health support services, personal care services, or homemaker services for compensation pursuant to RSA 151:2-b, V.\n\nSource. #10013, eff 10-22-11; ss by #10206, eff 10-20-12; ss by #13531, eff 1-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html"
+}

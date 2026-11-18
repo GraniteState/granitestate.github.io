@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/3011.03",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "126-A:5",
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "265:144",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/265/265-144",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-A/126-A-5",
+    "https://granitestate.github.io/rsa/265/265-144"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/3011",
+  "definition": "Safety Standards for Protective Headgear",
+  "effectiveDate": "2014-02-27",
+  "historyNote": "#8524, eff 1-1-06; ss by #10529, eff 2-27-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 3011.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p3000.html",
+  "prefLabel": "He-P 3011.03 Safety Standards for Protective Headgear",
+  "recordType": "rule-section",
+  "ruleText": "He-P 3011.03 Safety Standards for Protective Headgear. All protective headgear shall have a label as required by the CPSC safety standards.\n\nSource. #8524, eff 1-1-06; ss by #10529, eff 2-27-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p3000.html"
+}

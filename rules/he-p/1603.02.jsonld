@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/1603.02",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "130-A:2",
+      "paragraphs": [
+        "I(j)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "130-A:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "130-A:10",
+      "paragraphs": [
+        "XII"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/1603",
+  "definition": "Reporting",
+  "effectiveDate": "2025-04-02",
+  "historyNote": "#5920, eff 1-1-95; amd by #6096, eff 9-22-95; ss by #7181, eff 12-24-99; amd by #7393, INTERIM, eff 10-28-00, EXPIRED: 4-26-01; ss by #7495, eff 5-23-01; ss by #8039, eff 2-13-04; ss by #8932, eff 7-6-07; ss by #9986, eff 9-1-11, EXPIRED: 9-1-19 (from He-P 1610.20) New. #13052, eff 6-11-20; ss by #14230, eff 4-2-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 1603.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html",
+  "prefLabel": "He-P 1603.02 Reporting",
+  "priorExpiration": "2019-09-01",
+  "recordType": "rule-section",
+  "ruleText": "He-P 1603.02 Reporting.\n\n(a) In accordance with RSA 141-A, every person or entity operating under a CLIA waiver, that tests a person’s blood lead level, through the use of a point of care instrument, shall notify the department of the use of this instrument.\n\n(b) In accordance with RSA 141-A, every person or entity operating under a CLIA waiver, that tests a person’s blood lead level shall report the information required by (g) below, electronically to the department by an encrypted electronic transmission at leadtest@dhhs.nh.gov or a secure file transfer protocol.\n\n(c) In accordance with RSA 141-A, every laboratory operating under a CLIA license that analyzes a person’s blood lead level shall report the information required by (g) below to the department via a secure electronic transmission using one of the following formats:\n\n(1) American Standard Code for Information Interchange (ASCII) format;\n\n(2) Health Language 7 (HL7) format or similar formats as developed by a national coalition on electronic laboratory reporting;\n\n(3) Command separated values (CSV) or text (TXT) file; or\n\n(4) Other formats which are compatible with those of the department.\n\n(d) Laboratories shall report all blood lead test results in micrograms per deciliter.\n\n(e) Any laboratory receiving a blood sample for lead analysis from a health care provider, referring laboratory, collecting station, or other source shall require that the requisition includes all the information required in (g) below.\n\n(f) Laboratories shall follow up with health care providers, referring laboratories, collecting stations, or other sources to collect required information in (g) below if information is incomplete.\n\n(g) Laboratories shall supply the following information to the department for each blood lead analysis report:\n\n(1) Specimen identification number;\n\n(2) The individual’s name;\n\n(3) The individual’s date of birth;\n\n(4) The individual’s street address, including the town or city of residence, state of residence, and postal code;\n\n(5) The first and last name of the clinical provider ordering the test;\n\n(6) The name and address of the health care institution where the clinical provider works;\n\n(7) The submitting laboratory’s name, address, and telephone number;\n\n(8) The name of the referring laboratory, if applicable;\n\n(9) Whether the specimen is a venous or capillary sample;\n\n(10) The date of the sample collection;\n\n(11) The date of the sample analysis;\n\n(12) The blood lead analysis results;\n\n(13) The individual’s race;\n\n(14) The individual’s ethnicity;\n\n(15) The individual’s gender;\n\n(16) The name of the individual’s parent or guardian if the individual is aged 15 years or younger;\n\n(17) The occupation of individuals aged 16 years or older;\n\n(18) The name of the individual’s employer at the time that the blood lead test is performed when testing is a requirement of the individual’s occupation;\n\n(19) The method of analysis; and\n\n(20) The results of erythrocyte protoporphyrin analysis and zinc protoporphyrin analysis used to identify anemia and elevated blood lead levels, if conducted.\n\n(h) Laboratories shall report blood lead test results to the department and ordering health care provider as follows:\n\n(1) Within one business day of the analysis when the blood lead level is 45 micrograms per deciliter or higher;\n\n(2) Within 3 business days of the analysis when the blood lead level is 10 micrograms per deciliter but less than 45 micrograms per deciliter; and\n\n(3) Within 5 business days of the analysis when the blood lead level is zero micrograms per deciliter but less than 10 micrograms per deciliter.\n\n(i) A positive blood lead specimen report on a child shall include a recommendation to the ordering health care provider that the child receive follow-up testing.\n\n(j) When a laboratory refers a blood lead sample to another laboratory for analysis, the laboratories shall agree, in writing, on which laboratory:\n\n(1) Is responsible for ensuring that the information required by (g) above is collected; and\n\n(2) Will file the report in compliance with this section.\n\n(k) The agreement in (j) above shall not alter the legal responsibility of both laboratories to ensure that a report is made in compliance with (h) above.\n\nSource. #5920, eff 1-1-95; amd by #6096, eff 9-22-95; ss by #7181, eff 12-24-99; amd by #7393, INTERIM, eff 10-28-00, EXPIRED: 4-26-01; ss by #7495, eff 5-23-01; ss by #8039, eff 2-13-04; ss by #8932, eff 7-6-07; ss by #9986, eff 9-1-11, EXPIRED: 9-1-19 (from He-P 1610.20)\n\nNew. #13052, eff 6-11-20; ss by #14230, eff 4-2-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html"
+}

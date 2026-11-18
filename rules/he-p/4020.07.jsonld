@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4020.07",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II",
+        "IV",
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4020",
+  "definition": "Determination of External Dose from Airborne Radioactive Material",
+  "effectiveDate": "2024-07-23",
+  "historyNote": "#5903, eff 2-1-95; ss by #6827, eff 8-6-98; ss by #8481, eff 11-5-05; ss by #10604, eff 5-23-14; ss by #14028, eff 7-23-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4020.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html",
+  "prefLabel": "He-P 4020.07 Determination of External Dose from Airborne Radioactive Material",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4020.07 Determination of External Dose from Airborne Radioactive Material.\n\n(a) Licensees or registrants shall, when determining the dose from airborne radioactive material, include the contribution to the deep-dose equivalent, lens dose equivalent, and shallow-dose equivalent from external exposure to the radioactive cloud.\n\n(b) Airborne radioactivity measurements and DAC values shall not be used as the primary means to assess the deep-dose equivalent when the airborne radioactive material includes radionuclides other than noble gases or if the cloud of airborne radioactive material is not relatively uniform.\n\n(c) The determination of the deep-dose equivalent to an individual shall be based upon measurements using instruments or individual monitoring devices.\n\nSource. #5903, eff 2-1-95; ss by #6827, eff 8-6-98; ss by #8481, eff 11-5-05; ss by #10604, eff 5-23-14; ss by #14028, eff 7-23-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html"
+}
