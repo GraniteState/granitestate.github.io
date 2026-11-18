@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/1001.01",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "126-K:2",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "126-K:3",
+      "source": "https://granitestate.github.io/rsa/126-K/126-K-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-K/126-K-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/1001",
+  "definition": "Proof of Age",
+  "effectiveDate": "2017-01-06",
+  "historyNote": "#6668, eff 1-1-98, EXPIRED: 1-1-06 New. #12082, eff 1-6-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 1001.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 1001.01 Proof of Age",
+  "priorExpiration": "2006-01-01",
+  "recordType": "rule-section",
+  "ruleText": "Liq 1001.01 Proof of Age. No sampler, as defined in RSA 126-K:2,IX, shall provide any tobacco products, e-cigarettes, or liquid nicotine to any person without confirming that person’s age under the provisions of RSA 126-K:3.\n\nSource. #6668, eff 1-1-98, EXPIRED: 1-1-06\n\nNew. #12082, eff 1-6-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

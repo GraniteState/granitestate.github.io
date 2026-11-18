@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/413.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "363-A:2",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:34-a",
+      "source": "https://granitestate.github.io/rsa/374/374-34-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:59",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-59",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-34-a",
+    "https://granitestate.github.io/rsa/374/374-59"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/413",
+  "definition": "Definitions",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 413.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 413.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "En 413.01 Definitions. For purposes of this section:\n\n(a) “Exchange” means any of the discrete geographical areas within New Hampshire for which the North American Numbering Plan Administration (NANPA) allocates blocks of telephone numbers;\n\n(b) “Telecommunications” means the transmission, between or among points specified by the user, of information of the user’s choosing, without change in form or content of the information as sent and received;\n\n(c) “Telecommunications service” means the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used; and\n\n(d) “Telecommunications carrier” means any provider of telecommunications services, except that the term does not include aggregators of telecommunications services.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

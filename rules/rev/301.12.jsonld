@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/301.12",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Delivered to a Location in This State",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:3",
+      "source": "https://granitestate.github.io/rsa/77-A/77-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/77-A/77-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/301",
+  "definition": "“Delivered to a location in this state”, pursuant to RSA 77-A:3, I(a)(1)(C)(ii)3., means the location of the market for the services provided by the taxpayer, w",
+  "effectiveDate": "2025-04-03",
+  "expirationDate": "2035-04-03",
+  "historyNote": "#13177, eff 3-6-21 (formerly Rev 301.12); ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 301.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html",
+  "prefLabel": "Rev 301.12 “Delivered to a location in this state”, pursuant to RSA 77-A:3, I(a)(1)(C)(ii)3., means the location of the market for the services provided by the taxpayer, w",
+  "recordType": "rule-section",
+  "ruleText": "Rev 301.12 “Delivered to a location in this state”, pursuant to RSA 77-A:3, I(a)(1)(C)(ii)3., means the location of the market for the services provided by the taxpayer, without regard to the location of the property or payroll of the taxpayer.\n\nSource. #13177, eff 3-6-21 (formerly Rev 301.12); ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html"
+}

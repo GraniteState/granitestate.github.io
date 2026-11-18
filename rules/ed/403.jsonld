@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/403",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:9",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-9",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "XXIX"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-9",
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/400",
+  "definition": "APPROVAL OF NONPUBLIC SCHOOLS FOR ATTENDANCE PURPOSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/403.01",
+    "https://granitestate.github.io/rules/ed/403.02",
+    "https://granitestate.github.io/rules/ed/403.03",
+    "https://granitestate.github.io/rules/ed/403.04"
+  ],
+  "notation": "Ed 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed400.html",
+  "prefLabel": "Ed 403 APPROVAL OF NONPUBLIC SCHOOLS FOR ATTENDANCE PURPOSES",
+  "recordType": "rule-part",
+  "ruleText": "Part Ed 403, formerly titled “Approval of Nonpublic Schools for Attendance Purposes (AA)”, was retitled by Document #13853 as “Approval of Nonpublic Schools for Attendance Purposes”. Document #13853 readopted with amendment Ed 403.01 formerly titled “Application for Initial Approval Status as a Nonpublic School” and retitled the rule as “Application for Initial Approval Status for Attendance Purposes. Document #13853 readopted with amendment and renumbered Ed 403.02 titled “Application for Continued Approval Status for Attendance Purposes” as Ed 403.04, and inserted two new rules—Ed 403.02 titled “Procedures for Evaluation and Determination of the Status of a School for Attendance Purposes” and Ed 403.03 titled “Procedures for the Request of a Status Change”. Two reserved numbers in the existing Part Ed 403—Ed 403.04 and Ed 403.05—were deleted.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed400.html"
+}

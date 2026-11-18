@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/205.01",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/205",
+  "definition": "Petition for Rulemaking",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 205.01 Petition for Rulemaking",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 205.01 Petition for Rulemaking.\n\n(a) Any person may request the board to commence a proceeding for the purpose of adopting, amending, or repealing a rule by filing a written petition that contains:\n\n(1) A statement of the petitioner's request for the proposed rule;\n\n(2) The text of the proposed rule or a statement of the particular results intended by the petitioner's interest in the subject matter of the proposed rule;\n\n(3) An identification of the particular rule sought to be amended or repealed;\n\n(4) Any data or argument the petitioner believes would be useful to the board in deciding whether to commence a rulemaking proceeding; and\n\n(5) The name, address, signature of petitioner, and date of the petition request.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

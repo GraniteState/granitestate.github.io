@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-g",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-h",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Coverage and Notice Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.05 Coverage and Notice Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.05 Coverage and Notice Requirements.\n\n(a) If a health carrier or a self-funded plan that has opted in is offering group or individual health benefit plans and provides or covers any benefits with respect to services in an emergency department of a hospital or with respect to emergency services in an independent freestanding emergency department, the health carrier or plan shall cover emergency services, as defined in this part, and this coverage shall be provided in accordance with 45 CFR §149.110(b).\n\n(b) If a health carrier or a self-funded plan that has opted in is offering group or individual health insurance coverage and provides or covers any benefits with respect to items and services, other than emergency services, furnished to a covered person, beneficiary, or enrollee by a nonparticipating provider with respect to a visit at a participating health care facility, unless the provider has satisfied the notice and consent criteria of 45 CFR §149.420(c) through (i) with respect to such items and services, the carrier or plan shall cover the items and services when furnished by a nonparticipating provider in accordance with 45 CFR §149.120 (c).\n\n(c) When providing any paper or electronic remittance advice to a provider or facility that does not have a contractual relationship directly or indirectly with a health carrier or plan offering group or individual health insurance coverage with respect to the furnishing of the item or service under the plan or coverage in response to a claim for payment for health care items and services furnished by that provider or facility, the carrier or plan shall use claim adjustment reason codes (CARCs) and remittance advice remark codes (RARCs) pursuant to 45 CFR §162.1602 and §162.1603 and as specified in guidance issued by the federal secretaries of the Treasury, Labor, and Health and Human Services, or as required under any applicable adopted standards and operating rules under 45 CFR part 162.\n\n(d) Cost sharing for services covered under (a) and (b) shall be calculated using the QPA, unless the billed amount or the allowed amount is less than the QPA. In such instances, cost sharing for services covered under (a) and (b) shall be calculated using the lesser of the billed amount or allowed amount.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

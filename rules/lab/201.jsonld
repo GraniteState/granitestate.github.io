@@ -1,0 +1,84 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/201",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "157-A:10-a",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "157-B:13-a",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "275:41-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "275:51",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "275:57",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "275-A:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "275-E",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:42-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:43",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+    "https://granitestate.github.io/rsa/281-A/281-A-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/200",
+  "definition": "POLICY AND PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/201.01",
+    "https://granitestate.github.io/rules/lab/201.02"
+  ],
+  "notation": "Lab 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html",
+  "prefLabel": "Lab 201 POLICY AND PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 201 POLICY AND PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html"
+}

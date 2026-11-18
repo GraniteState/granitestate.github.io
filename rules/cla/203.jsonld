@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cla/203",
+  "@type": "Concept",
+  "agencyCode": "Cla",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/cla/200",
+  "definition": "TIME PERIODS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cla/203.01"
+  ],
+  "notation": "Cla 203",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cla100-300.html",
+  "prefLabel": "Cla 203 TIME PERIODS",
+  "recordType": "rule-part",
+  "ruleText": "PART Cla 203 TIME PERIODS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cla100-300.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/705.06",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/705",
+  "definition": "Non-Payments",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#10714, eff 11-7-14 (from Rev 703.07); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34 (formerly Rev 705.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 705.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 705.06 Non-Payments",
+  "recordType": "rule-section",
+  "ruleText": "Rev 705.06 Non-Payments. An operator shall not be responsible, except as provided in Rev 705.08, for the remittance of any tax due as a result of non-collection of:\n\n(a) A dishonored check;\n\n(b) A credit card charge not honored by the issuing bank; or\n\n(c) Tax when a person leaves without paying.\n\nSource. #10714, eff 11-7-14 (from Rev 703.07); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34 (formerly Rev 705.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

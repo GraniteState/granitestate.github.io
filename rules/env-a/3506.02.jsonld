@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3506.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3506",
+  "definition": "Operator Qualifications and Requirements",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3506.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3506.02 Operator Qualifications and Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3506.02 Operator Qualifications and Requirements.\n\n(a) Operator qualification shall be obtained through:\n\n(1) Completion of a training course that satisfies the criteria under Env-A 3506.01; and\n\n(2) Either 6 months experience as an HMIWI operator, 6 months experience as a direct supervisor of an HMIWI operator, or completion of at least 2 burn cycles, each under the observation of 2 qualified HMIWI operators.\n\n(b) Qualification shall be valid from the date on which the examination is passed or the completion of the required experience, whichever is later.\n\n(c) To maintain qualification, the trained and qualified HMIWI operator shall complete and pass an operator training update program as defined in Env-Sw 1602.10.\n\n(d) As specified in RSA 149-M:6, XIII, a lapsed qualification shall be subject to one of the following provisions, as applicable:\n\n(1) For a lapse of less than 90 days, the HMIWI operator shall complete and pass a standard annual refresher course pursuant to (c), above; or\n\n(2) For a lapse of 90 days or more, the HMIWI operator shall complete and pass a training course pursuant to Env-A 3506.01(b).\n\n(e) The owner or operator of a HMIWI unit shall maintain a copy of Env-A 3500 and documentation of the following at the facility:\n\n(1) A description of basic combustion theory applicable to the particular HMIWI unit;\n\n(2) Procedures for receiving, handling, and charging waste;\n\n(3) HMIWI startup, shutdown, and malfunction procedures;\n\n(4) Procedures for maintaining proper combustion air supply levels;\n\n(5) Procedures for operating the HMIWI and associated air pollution control systems within the standards established under this chapter;\n\n(6) Procedures for responding to periodic malfunction or conditions that might lead to malfunction;\n\n(7) Procedures for monitoring HMIWI emissions;\n\n(8) Reporting and record keeping procedures;\n\n(9) Procedures for handling ash; and\n\n(10) Records of training for all operators of the HMIWI unit.\n\n(f) The owner or operator of a HMIWI unit shall establish a program for reviewing the information listed in (e), above, with each HMIWI operator in accordance with the following:\n\n(1) The initial review of information listed in (e), above, shall be conducted prior to assumption of responsibilities affecting HMIWI operation; and\n\n(2) Subsequent reviews of the information listed in (e), above, shall be conducted at least annually.\n\n(g) The information listed in (e), above, shall be kept in a readily accessible location for all HMIWI operators, and shall be available for inspection by the department or EPA upon request.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

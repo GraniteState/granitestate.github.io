@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per-a/101.04",
+  "@type": "Concept",
+  "agencyCode": "Per-A",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per-a/101",
+  "definition": "Proceedings Excluded",
+  "effectiveDate": "2008-10-23",
+  "historyNote": "#9203, eff 10-23-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per-A 101.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per-a100-200.html",
+  "prefLabel": "Per-A 101.04 Proceedings Excluded",
+  "recordType": "rule-section",
+  "ruleText": "Per-A 101.04 Proceedings Excluded. In accordance with RSA 21-I: 46, I, the jurisdiction of the board shall not extend to appeals by any person or party of the following matters:\n\n(a) Performance evaluations of classified employees provided, however, that an employee who is disciplined or who suffers other adverse action as the result of an evaluation may appeal that action;\n\n(b) The refusal of an appointing authority to grant a leave of absence without pay;\n\n(c) Classification decisions of the director of personnel when the reasons for appeal are based on any of the following:\n\n(1) The personal qualifications of an employee exceed the minimum requirements for the position in question.\n\n(2) The employee has held the position for a long period of time.\n\n(3) Any positions previously held by the employee or any examinations passed by the employee which are not required for the position in question.\n\n(4) The employee has reached the maximum of the assigned salary grade.\n\n(5) The cost of living or related economic factors.\n\nSource. #9203, eff 10-23-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per-a100-200.html"
+}

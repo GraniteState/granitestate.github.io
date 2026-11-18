@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1209.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1209",
+  "definition": "Reporting and Notification of Violations",
+  "effectiveDate": "2018-07-24",
+  "historyNote": "#9572, INTERIM, eff 10-21-09, EXPIRES: 4-19-10; ss by #9660, eff 2-24-10; ss by #12582, eff 7-24-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1209.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html",
+  "prefLabel": "Env-Dw 1209.02 Reporting and Notification of Violations",
+  "priorExpiration": "2010-04-19",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1209.02 Reporting and Notification of Violations. The O/O of a PORS at which a bacteria violation has occurred shall comply with Env-Dw 709.24 relative to reporting and notifications, provided that any reference to “PWS” shall be deemed to mean “PORS”.\n\nSource. #9572, INTERIM, eff 10-21-09, EXPIRES: 4-19-10; ss by #9660, eff 2-24-10; ss by #12582, eff 7-24-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html"
+}

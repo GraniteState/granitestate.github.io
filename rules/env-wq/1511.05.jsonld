@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1511.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1511",
+  "definition": "Calculations for Stormwater Drainage",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.06); ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1511.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1511.05 Calculations for Stormwater Drainage",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1511.05 Calculations for Stormwater Drainage.\n\n(a) Hydrologic analysis shall be performed to demonstrate that the requirements of Env-Wq 1507.05 and Env-Wq 1507.06 are met, unless all of the following criteria are met:\n\n(1) Land slopes are 5% or less;\n\n(2) Conditions for sheet flow, as described by Env-Wq 1511.04, will exist for the full solar array;\n\n(3) The existing ground cover is open space, pasture, grassland, or range, as described by NRCS; and\n\n(4) Gravel or paved access roads and other impervious areas, other than solar panels, account for less than 2% of the area of disturbance.\n\n(b) Subject to (a) above, for projects that require the submission of a hydrologic analysis, the curve number for the solar array shall be assigned as follows:\n\n(1) If conditions of sheet flow exist for the solar array, pursuant to Env-Wq 1511.04, the curve number for the solar array area shall be determined as follows:\n\na. For land slopes less than or equal to 5%, the land cover shall be considered pervious and assigned the curve number of the land cover beneath the solar panels, as defined by NRCS “National Engineering Handbook”, Part 630, Hydrology Chapters, 2020, or Win TR-20, version 3.20.0000, all available as noted in Appendix B; and\n\nb. For land slopes greater than 5%, the curve number shall be calculated using the formula CN = CNp + 0.15 * (98-CNp), rounded to the nearest whole number, where:\n\n1. CN = curve number for the solar array; and\n\n2. CNp = curve number of the land beneath the solar panels.\n\n(2) If conditions of sheet flow do not exist for the solar array, pursuant to Env-Wq 1511.04, the curve number for the solar array area shall be based on the following land cover:\n\na. For land slopes less than or equal to 5%, the curve number shall be calculated using the formula in (1)b. above; and\n\nb. For land slopes greater than 5%, the land cover shall be considered connected and assigned a curve number of 98.\n\n(c) For projects that require the submission of a hydrologic analysis, a curve number soil group plan shall be drawn at a scale of one inch equals 50 feet, or at a scale that provides greater detail, and shall depict the following:\n\n(1) Proposed final contours at 2-foot intervals or less;\n\n(2) The assigned land cover in accordance with (b) above, using distinct symbology for pervious, unconnected, and connected land cover types present; and\n\n(3) A map legend.\n\nSource. #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.06); ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

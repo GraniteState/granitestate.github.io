@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1805.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Signature and Attestation Required for Initial Certification",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:17",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1805",
+  "definition": "Signature and Attestation Required for Initial Certification Application",
+  "effectiveDate": "2025-09-22",
+  "expirationDate": "2035-09-22",
+  "historyNote": "#14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1805.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html",
+  "prefLabel": "Plc 1805.04 Signature and Attestation Required for Initial Certification Application",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1805.04 Signature and Attestation Required for Initial Certification Application.\n\n(a) The applicant for an initial certification shall sign and date the application as required by Plc 304.05.\n\n(b) The applicant for an initial certification also shall sign and date the application supplement.\n\n(c) For applications that are submitted electronically, the act of submitting the application and supplement shall constitute the signature and the date of submittal shall be the date.\n\n(d) The signature on the application supplement shall constitute the applicant’s attestation, pursuant to RSA 310-C:2, III, that the applicant:\n\n(1) Pledges to comply with the standards set forth in RSA 310-C; and\n\n(2) Understands the types of misconduct for which disciplinary proceedings may be initiated against a certified assessing official, as set forth in RSA 310-C.\n\nSource. #14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html"
+}

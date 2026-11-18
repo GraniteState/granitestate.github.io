@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.29",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "498-A:20",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Record and Transcript",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.29 Record and Transcript",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.29 Record and Transcript.\n\n(a) The board shall record all oral proceedings pursuant to RSA 541-A:31, VII. Parties may, at their own expense, arrange to have a stenographer at any hearing.\n\n(b) The recording shall be available for inspection as provided by RSA 71-B:7 and any person shall contact the board to arrange a time for such inspection.\n\n(c) Requests for copies of the recording shall be made in compliance with RSA 71-B:7 and shall be accompanied by the fee stated in Tax 501.01.\n\n(d) Recordings shall be maintained for 45 days following a final decision that was not appealed. If an appeal is taken, recordings shall be maintained until the case is finally adjudicated in accordance with RSA 71-B:7.\n\n(e) Any person wishing a certified transcript shall arrange and pay for the transcription of the recording.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

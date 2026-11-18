@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3504.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3504",
+  "definition": "Other Calculation Requirements",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3504.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3504.03 Other Calculation Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3504.03 Other Calculation Requirements.\n\n(a) This subsection applies to both basic reserves and deficiency reserves. Any set of select mortality factors may be used only for the first segment. However, if the first segment is less than ten (10) years, the appropriate ten-year select mortality factors incorporated into the 1980 amendments to the NAIC Standard Valuation Law may be used thereafter through the tenth policy year from the date of issue.\n\n(b) In determining basic reserves or deficiency reserves, guaranteed gross premiums without policy fees may be used where the calculation involves the guaranteed gross premium but only if the policy fee is a level dollar amount after the first policy year. In determining deficiency reserves, policy fees may be included in guaranteed gross premiums, even if not included in the actual calculation of basic reserves.\n\n(c) Reserves for policies that have changes to guaranteed gross premiums, guaranteed benefits, guaranteed charges, or guaranteed credits that are unilaterally made by the insurer after issue and that are effective for more than one year after the date of the change shall be the greatest of the following:\n\n(1) Reserves calculated ignoring the guarantee;\n\n(2) Reserves assuming the guarantee was made at issue; and\n\n(3) Reserves assuming that the policy was issued on the date of the guarantee.\n\n(d) The commissioner may require that the company document the extent of the adequacy of reserves for specified blocks, including but not limited to policies issued prior to the 2017 effective date of this rule. This documentation may include a demonstration of the extent to which aggregation with other non-specified blocks of business is relied upon in the formation of the appointed actuary opinion pursuant to and consistent with the requirements of Ins 2400, Actuarial Opinion and Memorandum.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

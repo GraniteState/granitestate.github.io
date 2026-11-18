@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/503",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "VI",
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:41",
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12",
+    "https://granitestate.github.io/rsa/318-B/318-B-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/500",
+  "definition": "OPIOID PRESCRIBING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/den/503.01",
+    "https://granitestate.github.io/rules/den/503.02",
+    "https://granitestate.github.io/rules/den/503.03",
+    "https://granitestate.github.io/rules/den/503.04",
+    "https://granitestate.github.io/rules/den/503.05",
+    "https://granitestate.github.io/rules/den/503.06",
+    "https://granitestate.github.io/rules/den/503.07"
+  ],
+  "notation": "Den 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 503 OPIOID PRESCRIBING",
+  "recordType": "rule-part",
+  "ruleText": "PART Den 503 OPIOID PRESCRIBING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

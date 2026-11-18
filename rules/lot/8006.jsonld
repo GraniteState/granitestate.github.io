@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/8006",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:12",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "284:19",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/8000",
+  "definition": "REGISTRATION OF STABLE NAMES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/8006.01",
+    "https://granitestate.github.io/rules/lot/8006.02"
+  ],
+  "notation": "Lot 8006",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html",
+  "prefLabel": "Lot 8006 REGISTRATION OF STABLE NAMES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 8006 REGISTRATION OF STABLE NAMES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html"
+}

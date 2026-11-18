@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-air/201.06",
+  "@type": "Concept",
+  "agencyCode": "Ec-Air",
+  "authority": [
+    {
+      "citation": "21-O:11",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-11",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-air/201",
+  "definition": "Communications with the Council",
+  "effectiveDate": "2023-05-23",
+  "historyNote": "(See Revision Note at chapter heading for Ec-Air 200) #13642, eff 5-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Air 201.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html",
+  "prefLabel": "Ec-Air 201.06 Communications with the Council",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Air 201.06 Communications with the Council.\n\n(a) No person shall directly or indirectly communicate with the presiding officer, the council, or any council member about any matter that is or will likely be before the council except:\n\n(1) Through a filing submitted in accordance with Ec-Air 201.01; or\n\n(2) At a proceeding duly convened by the council.\n\n(b) Any council member who receives any communication in violation of paragraph (a) above shall, at the next council meeting, inform the council on the record of the communication and submit a copy of the same or, if the communication was made orally, relate the substance of the communication to the council on the record.\n\nSource. (See Revision Note at chapter heading for Ec-Air 200) #13642, eff 5-23-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html"
+}

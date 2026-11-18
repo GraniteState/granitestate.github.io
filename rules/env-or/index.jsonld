@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "definition": "Oil and Remediation Programs",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/300",
+    "https://granitestate.github.io/rules/env-or/400",
+    "https://granitestate.github.io/rules/env-or/500",
+    "https://granitestate.github.io/rules/env-or/600",
+    "https://granitestate.github.io/rules/env-or/700",
+    "https://granitestate.github.io/rules/env-or/800"
+  ],
+  "notation": "Env-Or",
+  "prefLabel": "Env-Or Oil and Remediation Programs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

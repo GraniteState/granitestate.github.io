@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec/103",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "authority": [
+    {
+      "citation": "319-C:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "319-C:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "319-C:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/elec/100",
+  "definition": "DESCRIPTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/elec/103.01",
+    "https://granitestate.github.io/rules/elec/103.02",
+    "https://granitestate.github.io/rules/elec/103.03",
+    "https://granitestate.github.io/rules/elec/103.04",
+    "https://granitestate.github.io/rules/elec/103.05",
+    "https://granitestate.github.io/rules/elec/104.01",
+    "https://granitestate.github.io/rules/elec/104.02",
+    "https://granitestate.github.io/rules/elec/104.03",
+    "https://granitestate.github.io/rules/elec/104.04"
+  ],
+  "notation": "Elec 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html",
+  "prefLabel": "Elec 103 DESCRIPTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Elec 103 DESCRIPTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html"
+}

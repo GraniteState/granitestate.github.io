@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1708.01",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "Licenses",
+  "authority": [
+    {
+      "citation": "437:3",
+      "source": "https://granitestate.github.io/rsa/437/437-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437:4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1708",
+  "definition": "Applications",
+  "effectiveDate": "2024-12-31",
+  "historyNote": "#10834, eff 5-21-15; ss by #14164, eff 12-31-24 (formerly Agr 1707.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1708.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html",
+  "prefLabel": "Agr 1708.01 Applications",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1708.01 Applications. Each applicant for a license shall apply using a form prescribed by and available from the department. The licensing application process shall be completed within 6 months of the department’s initial receipt of any required information, with exception for extraordinary circumstances, for example, accident, illness, or military service.\n\nSource. #10834, eff 5-21-15; ss by #14164, eff 12-31-24 (formerly Agr 1707.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html"
+}

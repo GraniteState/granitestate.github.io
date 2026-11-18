@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4003.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4003",
+  "definition": "Performance Standards for Portable Fuel Containers and Spill-Proof Systems",
+  "effectiveDate": "2008-01-09",
+  "historyNote": "#8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4003.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4003.01 Performance Standards for Portable Fuel Containers and Spill-Proof Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4003.01 Performance Standards for Portable Fuel Containers and Spill-Proof Systems.\n\n(a) Except as provided in Env-A 4001.03:\n\n(1) No person shall sell, supply, offer for sale, advertise, or manufacture for sale in New Hampshire any portable fuel container or portable fuel container and spout which, at the time of sale or manufacture, does not meet all of the performance standards for spill-proof systems specified in (b) through (f), below.\n\n(2) No person shall sell, supply, offer for sale, advertise, or manufacture for sale in New Hampshire, nor introduce, deliver or import into New Hampshire for use, any portable fuel container or portable fuel container and spout that is subject to any of the standards of this chapter, unless said portable fuel container or portable fuel container and spout is:\n\na. Certified for sale and use by the manufacturer through the California Air Resources Board (CARB), according to the procedure specified in “CP-501, Certification Procedure for Portable Fuel Containers and Spill-Proof Spouts,” adopted by CARB on July 26, 2006; and\n\nb. Covered by a CARB Executive Order.\n\n(b) The portable fuel container or portable fuel container and spout shall have an automatic shut-off that stops the fuel flow before the target fuel tank overflows.\n\n(c) The portable fuel container or portable fuel container and spout shall automatically close and seal when removed from the target fuel tank and remain completely closed when not dispensing fuel.\n\n(d) The portable fuel container or portable fuel container and spout shall have only one opening for both filling and pouring.\n\n(e) The portable fuel container or portable fuel container and spout shall not exceed a permeation rate of 0.4 grams per gallon per day.\n\n(f) The portable fuel container or portable fuel container and spout shall be warranted by the manufacturer for a period of not less than one year against defects in materials and workmanship.\n\nSource. #8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

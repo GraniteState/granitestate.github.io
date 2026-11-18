@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/511",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/500",
+  "definition": "CONSTRUCTION OF WATER ACCESS STRUCTURES AND BEACH REPLENISHMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/511.01",
+    "https://granitestate.github.io/rules/env-wt/511.02",
+    "https://granitestate.github.io/rules/env-wt/511.03",
+    "https://granitestate.github.io/rules/env-wt/511.04",
+    "https://granitestate.github.io/rules/env-wt/511.05",
+    "https://granitestate.github.io/rules/env-wt/511.06",
+    "https://granitestate.github.io/rules/env-wt/511.07",
+    "https://granitestate.github.io/rules/env-wt/511.08"
+  ],
+  "notation": "Env-Wt 511",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html",
+  "prefLabel": "Env-Wt 511 CONSTRUCTION OF WATER ACCESS STRUCTURES AND BEACH REPLENISHMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 511 CONSTRUCTION OF WATER ACCESS STRUCTURES AND BEACH REPLENISHMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html"
+}

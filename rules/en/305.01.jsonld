@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Inspection of Meters",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.01 Inspection of Meters",
+  "recordType": "rule-section",
+  "ruleText": "En 305.01 Inspection of Meters.\n\n(a) A utility shall inspect all meters for correctness of register constant before installing the meter on a customer’s premises.\n\n(b) No new watt-hour meter shall be placed into service unless specific test results indicate a registration within the tolerances of En 305.02(a) below.\n\n(c) Paragraph (b) above shall not apply to electronic indicating demand devices such as electronic recorders and internal electronic registers which shall be subject to examination by utilities to assure that the devices have not been modified in a way that affects performance.\n\n(d) A utility shall test each new watt-hour meter prior to installation.\n\n(e) A utility shall use one of the following methods to comply with (d) above:\n\n(1) Test all meters received from the manufacturer;\n\n(2) Conduct sample testing after department approval of the sample testing methods; or\n\n(3) Accept manufacturer testing data with specific test results consistent with En 305.03(a) below.\n\n(f) Before returning a meter to service which has been removed from service for any reason, a utility shall inspect and, if necessary:\n\n(1) Repair the meter; or\n\n(2) Recalibrate the accuracy of the meter.\n\n(g) A utility shall inspect all watt-hour meters and demand devices for correctness of operation when installed, perform an electrical test of all instrument transformer connections, and correct or repair such meters and devices as necessary.\n\n(h) Prior to or at the time of installation of all instrument transformers, a utility shall also conduct the following activities:\n\n(1) Review and maintain manufacturer’s test data for instrument transformers purchased;\n\n(2) Verify the current transformer ratio and voltage transformer ratio via electrical testing;\n\n(3) Verify wiring by performing an inspection of instrument transformer secondary circuit connections consisting of:\n\na. Verification of polarity by using one of the following methods:\n\n1. Electrical testing where sufficient load current exists; or\n\n2. Visual inspection of control cable wiring between the instrument transformer secondary terminals and the meter terminals;\n\nb. Verification that the current transformer input signal phase matches the corresponding voltage or voltage transformer input signal phase to the meter; and\n\nc. Verification that phasing is appropriate where multiple primary conductors exist for one or more phases that serve as the primary windings for a window type current transformer; and\n\n(4) Confirm the effective current transformer ratio based on the nominal nameplate ratio for the connected secondary terminals along with proper consideration for multiple primary conductor loops in window type current transformer installations.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

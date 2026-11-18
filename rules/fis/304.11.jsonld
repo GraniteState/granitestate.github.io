@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/304.11",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "207:23-a",
+      "paragraphs": [
+        "V(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/304",
+  "definition": "Adjudicative Proceeding",
+  "effectiveDate": "2022-08-29",
+  "historyNote": "#13441, eff 8-29-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 304.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html",
+  "prefLabel": "Fis 304.11 Adjudicative Proceeding",
+  "recordType": "rule-section",
+  "ruleText": "Fis 304.11 Adjudicative Proceeding.\n\n(a) Any adjudicative proceeding under this section shall be conducted pursuant to Fis 200 by the executive director or by a presiding officer appointed by the executive director to conduct the hearing.\n\n(b) The executive director or presiding officer shall consider all claims of error offered by the claimant and shall only order a modification of any recommendation made upon a finding that the claimant has shown:\n\n(1) A mistake of fact on a finding that serves as the basis of the decision;\n\n(2) A mistake in applying a federal, state, or local statute, rule, or regulation that serves as the basis of the decision; or\n\n(3) Identification of facts showing error in the wholesale value of the agricultural products lost due to bear behavior.\n\nSource. #13441, eff 8-29-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html"
+}

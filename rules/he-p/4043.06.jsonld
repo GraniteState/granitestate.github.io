@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4043.06",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4043",
+  "definition": "Operating Requirements",
+  "effectiveDate": "2025-08-08",
+  "expirationDate": "2035-08-08",
+  "historyNote": "#6827, eff 8-6-98; ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10804, eff 3-26-15; ss by #14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4043.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html",
+  "prefLabel": "He-P 4043.06 Operating Requirements",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4043.06 Operating Requirements.\n\n(a) Normal and emergency operating procedures shall be written and available to all RGD workers.\n\n(b) No individual shall be permitted to operate an RDG in any manner other than that specified in the procedures unless such individual has obtained written approval of the radiation safety officer, as defined in He-P 4003.01.\n\n(c) No individual shall bypass a safety device, interlock, or remove shielding unless such individual has obtained written approval of the radiation safety officer.\n\n(d) The written approval required in He-P 4043.06(b) and (c) shall be for a temporary period of time as determined by the radiation safety officer.\n\n(e) When a safety device or interlock has been bypassed, a sign bearing the words “SAFETY DEVICE NOT WORKING” shall be placed on the radiation source housing and at the control switch.\n\n(f) A record of any bypass of a safety device or interlock shall be maintained and the record shall contain such information as the following:\n\n(1) The date the alteration was made;\n\n(2) The type of alteration;\n\n(3) The length of time the unit remained in the altered condition;\n\n(4) The post bypass survey, signed by the radiation safety officer;\n\n(5) The individual who made the alteration; and\n\n(6) The individual who restored the unit to original condition.\n\n(g) The RGD shall only be activated from a control panel.\n\n(h) All indicators and controls that control the primary beam shall be identifiable and discernible through the use of labels, symbols, software displays, or the equivalent.\n\n(i) An interlock shall not be used to de-activate the x-ray tube or RGD, except in an emergency or during testing of the interlock system.\n\n(j) After triggering any interlock, it shall be possible to reset the RGD to full operation only from a control panel.\n\n(k) All interlocks shall be of a fail-safe design.\n\n(l) If more than one x-ray tube assembly or focal spot can be operated sequentially or simultaneously from a control panel, visual indicators shall identify which tube assembly or focal spot has been selected. The selectors shall be identified as to their function. If a letter or number is used, a reference card or table explaining the code shall be affixed to the control panel.\n\n(m) Only trained personnel or a registered service provider shall be permitted to install, repair, or make modifications to the RGD. No operation involving removal of covers, shielding materials, or tube housings, or modifications to shutters, collimators, or beam stops shall be performed without ascertaining that the tube is off and will remain off until safe conditions have been restored. The main power switch with a lock-out / tag-out, rather than interlocks, shall be used for routine shutdown in preparation for repairs. It is the responsibility of the registrant to assure that qualified personnel install, repair, or make modifications to the RGD.\n\n(n) The testing of safety devices shall be subject to the following requirements:\n\n(1) Tests of all safety devices, such as interlocks, shutters, warning lights, and required emergency shut-off switches shall be conducted at intervals not to exceed 6 months on all operable RGDs;\n\n(2) If any safety device fails during testing, the RGD shall be removed from service until the safety device failure is corrected or proper temporary administrative controls established and approved in writing by the radiation safety officer;\n\n(3) Records of safety device tests, check dates, findings, and documentation of any corrective action shall be available during the inspection and maintained for 5 years;\n\n(4) Records shall include the date of the test, a list of the safety devices tested, survey instrument information, calibration date, the results of the test, the name of the person performing the tests, and documentation of any corrective action taken for safety devices that fail the required test;\n\n(5) Testing of safety devices may be deferred if the unit or installation is clearly marked and kept out of service. Units or installations brought back into service after exceeding the 6 month interval shall be tested prior to use; and\n\n(6) If testing of a safety device cannot be performed due to manufacturer design, the registrant shall document that the safety device will not be tested and specifically state why the safety device cannot be tested.\n\nSource. #6827, eff 8-6-98; ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10804, eff 3-26-15; ss by #14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html"
+}

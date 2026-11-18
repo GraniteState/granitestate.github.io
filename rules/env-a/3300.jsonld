@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3300",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "MUNICIPAL WASTE COMBUSTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/3301",
+    "https://granitestate.github.io/rules/env-a/3302",
+    "https://granitestate.github.io/rules/env-a/3303",
+    "https://granitestate.github.io/rules/env-a/3304",
+    "https://granitestate.github.io/rules/env-a/3305",
+    "https://granitestate.github.io/rules/env-a/3306",
+    "https://granitestate.github.io/rules/env-a/3307",
+    "https://granitestate.github.io/rules/env-a/3308"
+  ],
+  "notation": "Env-A 3300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3300 MUNICIPAL WASTE COMBUSTION",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 3300 MUNICIPAL WASTE COMBUSTION\n\nStatutory Authority: RSA 125-C:4",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

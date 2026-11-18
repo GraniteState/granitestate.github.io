@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.26",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Large Biodiesel End User",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Large biodiesel end user",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.26 Large biodiesel end user",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.26 “Large biodiesel end user” means a person or entity who or which uses biodiesel to produce useful thermal energy using a thermal energy system with a total gross nameplate heating capacity of all units combined of more than 1,000,000 British thermal units (Btu) per hour of heat input.\n\nSource. #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

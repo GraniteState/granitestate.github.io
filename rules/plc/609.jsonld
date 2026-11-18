@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/609",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "314-A:2",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/600",
+  "definition": "APPROVED COURSES FOR PROPER STERILIZATION OF INSTRUMENTS AND MATERIALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/609.01",
+    "https://granitestate.github.io/rules/plc/609.02",
+    "https://granitestate.github.io/rules/plc/609.03"
+  ],
+  "notation": "Plc 609",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html",
+  "prefLabel": "Plc 609 APPROVED COURSES FOR PROPER STERILIZATION OF INSTRUMENTS AND MATERIALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 609 APPROVED COURSES FOR PROPER STERILIZATION OF INSTRUMENTS AND MATERIALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.11",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Data Availability Requirements",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.09); ss by #12762, eff 5-1-19 (from Env-A 808.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.11 Data Availability Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.11 Data Availability Requirements.\n\n(a) The owner or operator of a source with a CEM shall operate the CEM at all times during operation of the source, except for periods of CEM breakdown, repairs, calibration checks, preventive maintenance, and zero/span adjustments.\n\n(b) The percent CEM data availability shall be maintained at a minimum of 90% on a calendar quarter basis for all opacity monitors, gaseous concentration monitors, and stack volumetric flow monitors, or any substitute monitoring methods approved as part of the CEM monitoring plan required by Env-A 808.04.\n\n(c) The percent CEM data availability shall be calculated as follows:\n\n(1) “VH” means the number of valid hours of CEM data in a given time period for which the data availability is being calculated when the plant is in operation;\n\n(2) “OH” means the number of facility operating hours during a given time period for which the data availability is being calculated;\n\n(3) “AH” means the number of hours during facility operation when the performance of quarterly audits as required by those procedures specified in Env‑A 808.08 through Env-A 808.11, as applicable, require that the CEM be taken out of service in order to conduct the audit;\n\n(4) “CalDT” means the number of hours, not to exceed one hour per day, during facility operation when the CEM is not operating due to the performance of the daily CEM calibrations as required by 40 CFR 60, Appendix F or 40 CFR 75, Appendix B, section 2.1; and\n\n(5) To calculate the percent CEM data availability, multiply the sum of VH and CalDT by 100, and divide the result by the difference between OH and AH, as in the formula below:\n\n(d) Sources that are subject to 40 CFR 75 or 40 CFR 63 shall calculate the percent data availability following either the method described in 40 CFR 75.32 or the method described in (c), above, as follows:\n\n(1) The source shall describe in the CEM monitoring plan which of the 2 methods it plans to use for each opacity, gaseous concentration, and stack volumetric flow monitor located at the source;\n\n(2) Once the source has chosen the method of calculation and the method has been approved and documented in the CEM monitoring plan, the source shall not modify its method of calculation without obtaining approval for the revision as specified in Env-A 808.04(f); and\n\n(3) The source may use:\n\na. The method specified in 40 CFR 75.32 for all monitors, whether required by Part 75 or by other state or federal standards; or\n\nb. The method specified in 40 CFR 75.32 for only the Part 75-required monitoring systems and the method specified in (c), above, for all non-Part 75 monitoring systems.\n\n(e) If the owner or operator of the source discovers that it has failed to meet the percent data availability requirement in the previous calendar quarter or in the calendar quarter in which it currently is operating, the owner or operator of the source shall, in addition to the permit deviation reporting required by Env-A 911:\n\n(1) Submit a plan to the department, within 30 days of discovery, specifying in detail the steps it plans to take in order to meet the availability requirements for future calendar quarters; and\n\n(2) Implement the plan to meet the data availability requirements no later than 30 days after the end of the quarter of failure.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.09); ss by #12762, eff 5-1-19 (from Env-A 808.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

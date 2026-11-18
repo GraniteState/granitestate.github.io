@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/605.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/605",
+  "definition": "Pathogen Reduction Requirements",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.03); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 605.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 605.03 Pathogen Reduction Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 605.03 Pathogen Reduction Requirements.\n\n(a) The composting process shall comply with the process to further reduce pathogens specified in 40 CFR 503, Appendix B, by using one of the following methods:\n\n(1) Using the windrow composting method, such that:\n\na. The interior temperature of the windrow shall be maintained at 55⁰C (131⁰F) or higher for 15 consecutive days or longer;\n\nb. During the period when the interior of the windrow is maintained at 55⁰C (131⁰F) or higher, there shall be a minimum of 5 turnings of the windrow; and\n\nc. In turning the windrow, the exterior of the windrow shall be turned into the interior to assure that the entire contents of the windrow are exposed to the required temperature conditions;\n\n(2) Using the aerated static pile composting method, the pile shall be insulated and the temperature throughout the contents of the pile shall be maintained at 55ºC (131ºF) or higher for at least 3 consecutive days; or\n\n(3) Using the in-vessel composting method, the temperature throughout the contents of the vessel shall be maintained at 55ºC (131ºF) or higher for at least 3 consecutive days.\n\n(b) Once the contents of a windrow, pile, or vessel have met the requirements specified in (a) above, the material shall be managed to prevent recontamination through contact with raw feedstocks, leachate, or compost that have not been subjected to a pathogen reduction process.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.03); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

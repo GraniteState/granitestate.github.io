@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1803.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E:1",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:3",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-3",
+    "https://granitestate.github.io/rsa/141-E/141-E-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1803",
+  "definition": "Homeowner Requirements",
+  "effectiveDate": "2024-11-01",
+  "expirationDate": "2034-11-01",
+  "historyNote": "(See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1803.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1803.01 Homeowner Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1803.01 Homeowner Requirements.\n\n(a) The homeowner of a private, single-family property, not used as a rental dwelling, who performs asbestos abatement on, or disposes of ACM from, that property shall only be subject to the requirements in this Part, except as noted in (b), below, provided:\n\n(1) The homeowner personally performs the asbestos abatement or disposes of the ACM; and\n\n(2) The asbestos abatement is not done within 6 months of selling or renting the property.\n\n(b) After completing asbestos abatement pursuant to (a), above, a homeowner who wants to demolish a private, single-family property shall follow the applicable requirements specified in Env-A 1804 through Env-A 1812.\n\n(c) The single-family property shall include any building or structure used or intended for human habitation, and all other buildings and structures, located within the same lot as designated on a municipal tax map.\n\nSource. (See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

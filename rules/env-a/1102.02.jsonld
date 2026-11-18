@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1102.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1102",
+  "definition": "Idling Limitations for Motor Vehicles",
+  "effectiveDate": "2023-07-01",
+  "historyNote": "#10345, eff 5-22-13; ss by #13680, eff 7-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1102.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1100.html",
+  "prefLabel": "Env-A 1102.02 Idling Limitations for Motor Vehicles",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1102.02 Idling Limitations for Motor Vehicles.\n\n(a) Unless exempted by Env-A 1102.03, the owner or operator of a motor vehicle shall comply with the idling limitations specified in Table 1100-1, below, subject to the note in (b), below:\n\nTable 1100-1: Idling Limitations for Motor Vehicles\n\nTemperature in degrees Celsius (degrees Fahrenheit) | Maximum Idling Time\n\nAbove 0° C (32° F) | No more than 5 consecutive minutes in any 60-minute period\n\nAt or between -23°C (-10°F) and 0°C (32°F) | No more than 15 consecutive minutes in any 60-minute period\n\nBelow -23° C (-10° F) | No limit A\n\n(b) “A” means that there is no limitation on idling time so long as no nuisance is created.\n\nSource. #10345, eff 5-22-13; ss by #13680, eff 7-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1100.html"
+}

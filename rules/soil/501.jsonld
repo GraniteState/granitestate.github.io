@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/soil/501",
+  "@type": "Concept",
+  "agencyCode": "Soil",
+  "authority": [
+    {
+      "citation": "310-A:82",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/soil/500",
+  "definition": "RULES OF PROFESSIONAL CONDUCT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/soil/501.01",
+    "https://granitestate.github.io/rules/soil/501.02",
+    "https://granitestate.github.io/rules/soil/501.03",
+    "https://granitestate.github.io/rules/soil/501.04"
+  ],
+  "notation": "Soil 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html",
+  "prefLabel": "Soil 501 RULES OF PROFESSIONAL CONDUCT",
+  "recordType": "rule-part",
+  "ruleText": "PART Soil 501 RULES OF PROFESSIONAL CONDUCT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html"
+}

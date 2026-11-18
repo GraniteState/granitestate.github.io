@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1901.11",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Year’s End",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1901",
+  "definition": "\"Year's end\" means December 31 unless the municipality has adopted the optional fiscal year, in which case \"year end\" or \"year end date\" means June 30",
+  "effectiveDate": "2024-03-29",
+  "historyNote": "#10582, eff 5-2-14 (from Rev 1901.06); ss by #13918, eff 3-29-24 (formerly Rev 1901.10) (see Revision Note at chapter heading for Rev 1900)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1901.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html",
+  "prefLabel": "Rev 1901.11 \"Year's end\" means December 31 unless the municipality has adopted the optional fiscal year, in which case \"year end\" or \"year end date\" means June 30",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1901.11 \"Year's end\" means December 31 unless the municipality has adopted the optional fiscal year, in which case \"year end\" or \"year end date\" means June 30.\n\nSource. #10582, eff 5-2-14 (from Rev 1901.06); ss by #13918, eff 3-29-24 (formerly Rev 1901.10) (see Revision Note at chapter heading for Rev 1900)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html"
+}

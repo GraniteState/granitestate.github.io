@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2404.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:4",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2404",
+  "definition": "Calculation of the Number of Commercial Motor Vehicles Owned or Operated for Determination of UCR Fees",
+  "effectiveDate": "2018-07-20",
+  "historyNote": "#12579, eff 7-20-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2404.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2400.html",
+  "prefLabel": "Saf-C 2404.01 Calculation of the Number of Commercial Motor Vehicles Owned or Operated for Determination of UCR Fees",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2404.01 Calculation of the Number of Commercial Motor Vehicles Owned or Operated for Determination of UCR Fees. For purposes of section 10(e)(3) of the unified carrier registration agreement, the department shall require the registrant to reconcile any discrepancy between the number of motor vehicles owned and leased as reported on the MCS-150 form most recently filed with the USDOT, unless:\n\n(a) The discrepancy, if corrected, would not result in the carrier being placed into a higher payment bracket; or\n\n(b) The discrepancy is solely attributable to the number of motor vehicles operating exclusively in intrastate commerce for activities other than the transportation of passengers.\n\nSource. #12579, eff 7-20-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2400.html"
+}

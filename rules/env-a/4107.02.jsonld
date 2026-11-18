@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4107.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4107",
+  "definition": "Special Recordkeeping Requirements for Consumer Products that Contain Perchloroethylene or Methylene Chloride",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14 (from Env-A 4105.02); ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4107.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4107.02 Special Recordkeeping Requirements for Consumer Products that Contain Perchloroethylene or Methylene Chloride",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4107.02 Special Recordkeeping Requirements for Consumer Products that Contain Perchloroethylene or Methylene Chloride.\n\n(a) The requirements of this section shall apply to all responsible parties for consumer products that are subject to table 4105-1 and energized electrical cleaners that contain 1.0% or more by weight, exclusive of the container or packaging, of perchloroethylene or methylene chloride.\n\n(b) For each consumer product that contains perchloroethylene or methylene chloride, the responsible party shall report the following information for products sold in New Hampshire upon request within 90 days of written notice:\n\n(1) The product brand name and a copy of the product label with legible usage instructions;\n\n(2) The product category to which the consumer product belongs;\n\n(3) The applicable product form(s) listed separately;\n\n(4) For each product form listed in (3), above, the total sales in New Hampshire during the calendar year, to the nearest pound, exclusive of the container or packaging, and the method used for calculating the New Hampshire sales; and\n\n(5) The weight percent, to the nearest 0.1%, of perchloroethylene and methylene chloride in the consumer product.\n\nSource. #10527, eff 2-26-14 (from Env-A 4105.02); ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

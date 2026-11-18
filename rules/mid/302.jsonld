@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mid/302",
+  "@type": "Concept",
+  "agencyCode": "Mid",
+  "authority": [
+    {
+      "citation": "326-D:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-D:5",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-D:6",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/mid/300",
+  "definition": "APPLICATION PROCEDURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mid/302.01",
+    "https://granitestate.github.io/rules/mid/302.02",
+    "https://granitestate.github.io/rules/mid/302.03",
+    "https://granitestate.github.io/rules/mid/302.04",
+    "https://granitestate.github.io/rules/mid/302.05"
+  ],
+  "notation": "Mid 302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid300.html",
+  "prefLabel": "Mid 302 APPLICATION PROCEDURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Mid 302 APPLICATION PROCEDURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid300.html"
+}

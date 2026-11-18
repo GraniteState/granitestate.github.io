@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1302.22",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Governmental Entity",
+  "authority": [
+    {
+      "citation": "485-F",
+      "source": "https://granitestate.github.io/rsa/485-F",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-F"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1302",
+  "definition": "Governmental entity",
+  "effectiveDate": "2019-10-23",
+  "historyNote": "#12903, eff 10-23-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1302.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html",
+  "prefLabel": "Env-Dw 1302.22 Governmental entity",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1302.22 “Governmental entity” means any of the following that has responsibility for providing drinking water for public consumption or otherwise funding a water system:\n\n(a) Any state agency, board, or commission;\n\n(b) Any political subdivision of the state, including but not limited to a county, city, town, or district; and\n\n(c) Any other public body created under state law.\n\nSource. #12903, eff 10-23-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html"
+}

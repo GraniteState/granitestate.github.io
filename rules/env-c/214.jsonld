@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/200",
+  "definition": "CROSS-MEDIA ELECTRONIC REPORTING RULE (CROMERR) COMPLIANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-c/214.01",
+    "https://granitestate.github.io/rules/env-c/214.02",
+    "https://granitestate.github.io/rules/env-c/214.03",
+    "https://granitestate.github.io/rules/env-c/214.04",
+    "https://granitestate.github.io/rules/env-c/214.05",
+    "https://granitestate.github.io/rules/env-c/214.06",
+    "https://granitestate.github.io/rules/env-c/214.07",
+    "https://granitestate.github.io/rules/env-c/214.08",
+    "https://granitestate.github.io/rules/env-c/214.09",
+    "https://granitestate.github.io/rules/env-c/214.10",
+    "https://granitestate.github.io/rules/env-c/214.11",
+    "https://granitestate.github.io/rules/env-c/214.12"
+  ],
+  "notation": "Env-C 214",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214 CROSS-MEDIA ELECTRONIC REPORTING RULE (CROMERR) COMPLIANCE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-C 214 CROSS-MEDIA ELECTRONIC REPORTING RULE (CROMERR) COMPLIANCE\n\nStatutory Authority: RSA 541-A:16, I(b)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

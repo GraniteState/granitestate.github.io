@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/diet/500",
+  "@type": "Concept",
+  "agencyCode": "Diet",
+  "authority": [
+    {
+      "citation": "326-H",
+      "source": "https://granitestate.github.io/rsa/326-H",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-H"
+  ],
+  "broader": "https://granitestate.github.io/rules/diet",
+  "definition": "ETHICAL STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/diet/501"
+  ],
+  "notation": "Diet 500",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/diet100-500.html",
+  "prefLabel": "Diet 500 ETHICAL STANDARDS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Diet 500 ETHICAL STANDARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/diet100-500.html"
+}

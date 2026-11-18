@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2508.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:10",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-10",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2508",
+  "definition": "Source of Fund",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14 (from Puc 2507.01); ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2508.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2508.01 Source of Fund",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2508.01 Source of Fund. All alternative compliance payments deposited pursuant to Puc 2503.02 with the state treasurer shall be held in a nonlapsing account to be known as the renewable energy fund. The commission shall account separately for alternative compliance payments received in connection with Class II portfolio standards.\n\nSource. #10741, eff 12-5-14 (from Puc 2507.01); ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

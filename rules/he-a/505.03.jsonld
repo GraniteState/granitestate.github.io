@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/505.03",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "265-A:39",
+      "paragraphs": [
+        "III(d)",
+        "III(g)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "265-A:40",
+      "paragraphs": [
+        "IV",
+        "VII(e)",
+        "VII(g)"
+      ],
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-40",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-40"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/505",
+  "definition": "Per Client Fee",
+  "effectiveDate": "2024-01-06",
+  "expirationDate": "2034-01-06",
+  "historyNote": "#10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 505.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html",
+  "prefLabel": "He-A 505.03 Per Client Fee",
+  "recordType": "rule-section",
+  "ruleText": "He-A 505.03 Per Client Fee.\n\n(a) Pursuant to RSA 265-A:39, III(g), and RSA 265-A:40, VII(g), clients shall pay to the department a per client fee to cover the departmental costs for monitoring course content and program services, establishing and maintaining standards of instruction, data collection, and administrative support.\n\n(b) The per client fee shall be $70 per client.\n\n(c) The per client fee shall be waived for those clients who receive a reduced fee for hardship, per He-A 505.02.\n\n(d) The per client fee shall be paid as follows:\n\n(1) Unless the fee is waived in accordance with (c) above, at intake, each client shall provide the IDCMP with payment for the per client fee in (b) above via a certified check or money order, made payable to “Treasurer-State of New Hampshire”.\n\n(e) Within 14 calendar days of receiving from the client the per client fee, the IDCMP shall send to the department the per client fee, accompanied by a “Per Client Fee Transmittal Form” (January 2021) which includes the client name, and date the payment was received.\n\n(f) Within 14 calendar days of receiving the per client fee, the IDCMP shall enter the payment information into WITS.\n\n(g) An IDCMP shall not deem a client completed if the client does not pay the per client fee, unless the fee is waived in accordance with He-A 505.02.\n\nSource. #10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html"
+}

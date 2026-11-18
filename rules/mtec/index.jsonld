@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mtec",
+  "@type": "Concept",
+  "agencyCode": "Mtec",
+  "definition": "Board of Registration of Medical Technicians (See RSA 328-I:4 pursuant to 2014, 295:1, effective 10-1-14.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mtec/100",
+    "https://granitestate.github.io/rules/mtec/200",
+    "https://granitestate.github.io/rules/mtec/300",
+    "https://granitestate.github.io/rules/mtec/400"
+  ],
+  "notation": "Mtec",
+  "prefLabel": "Mtec Board of Registration of Medical Technicians",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

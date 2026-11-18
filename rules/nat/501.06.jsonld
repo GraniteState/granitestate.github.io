@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/501.06",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "authority": [
+    {
+      "citation": "318-B:41",
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-41",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-E:10",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/nat/501",
+  "definition": "Prescription Drug Monitoring Program",
+  "effectiveDate": "2017-02-22",
+  "historyNote": "#12113, eff 2-22-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nat 501.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 501.06 Prescription Drug Monitoring Program",
+  "recordType": "rule-section",
+  "ruleText": "Nat 501.06 Prescription Drug Monitoring Program.\n\n(a) Prescribers required to register with the program under RSA 318-B:31-40, or their delegate, shall query the prescription drug monitoring program to obtain a history of schedule II-IV controlled substances dispensed to a patient, prior to prescribing an initial schedule II, III, and IV opioids for the management or treatment of this patient’s pain and then periodically and at least twice per year, except when:\n\n(1) Controlled medications are to be administered to patients in a health care setting;\n\n(2) The program is inaccessible or not functioning properly, due to an internal or external electronic issue; or\n\n(3) An emergency department is experiencing a higher than normal patient volume such that querying the program database would materially delay care.\n\n(b) A licensee shall document the exceptions described in (a)(2) and (3)above in the patient’s medical record.\n\nSource. #12113, eff 2-22-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

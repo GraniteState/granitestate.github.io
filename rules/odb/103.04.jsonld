@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/103.04",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/103",
+  "definition": "Quorum",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 103.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 103.04 Quorum",
+  "recordType": "rule-section",
+  "ruleText": "Odb 103.04 Quorum.\n\n(a) A quorum of the board shall be a simple majority of the total number of sitting members, provided, however, that in the context of a hearing proceeding, a quorum shall be a simple majority of those sitting members who have not recused themselves from the proceeding.\n\n(b) The board shall take formal or official action only when a quorum is present.\n\nSource. #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

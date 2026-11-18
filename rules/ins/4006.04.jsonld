@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4006.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4006",
+  "definition": "Observation Period for Record Selection",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4006.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4006.04 Observation Period for Record Selection",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4006.04 Observation Period for Record Selection.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers shall submit a member eligibility file that contains data for each member eligible for medical, dental, or pharmacy benefits for one or more dates of coverage at any time during a reporting month as well as any retrospective updates that correspond to previously submitted eligibility data. The file shall include benefits, attributes, and associated effective periods.\n\n(b) Carriers, third-party administrators, and pharmacy benefit managers shall include all claims adjudicated during the reporting month for all members in the member eligibility file for that month.\n\n(c) Carriers’, third-party administrators’, and pharmacy benefit managers’ data submissions shall contain 180 days claims run out for members in all current or previously submitted files.\n\n(d) Claims files and other records shall be maintained as required in RSA 400-B\n\nSource. #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

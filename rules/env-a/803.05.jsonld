@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/803.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/803",
+  "definition": "Testing for Small Boilers and Emergency Generators",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#9802, eff 10-31-10 (from Env-A 803.03); ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 803.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 803.05 Testing for Small Boilers and Emergency Generators",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 803.05 Testing for Small Boilers and Emergency Generators. An owner or operator of any of the following boilers or emergency generators shall comply with the requirements of Env-A 803.06:\n\n(a) Utility boilers subject to Env-A 1303 with heat input rates of at least 5,000,000 Btu per hour but less than 50,000,000 Btu per hour;\n\n(b) Steam electric boilers subject to Env-A 1304 with heat input rates of at least 5,000,000 Btu per hour but less than 50,000,000 Btu per hour;\n\n(c) Industrial boilers subject to Env-A 1305 with heat input rates of at least 5,000,000 Btu per hour but less than 50,000,000 Btu per hour;\n\n(d) Emergency generators subject to Env-A 1311 that allow for manual adjustment of the air-to-fuel ratio or ignition timing in order to affect the combustion process; and\n\n(e) Auxiliary boilers subject to Env-A 1312 with heat input rates of at least 5,000,000 Btu per hour but less than 50,000,000 Btu per hour.\n\nSource. #9802, eff 10-31-10 (from Env-A 803.03); ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

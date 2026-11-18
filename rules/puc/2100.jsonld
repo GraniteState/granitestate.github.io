@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2100",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I(h)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "366",
+      "source": "https://granitestate.github.io/rsa/366",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:4",
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/366",
+    "https://granitestate.github.io/rsa/374-F/374-F-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc",
+  "definition": "AFFILIATE TRANSACTIONS RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/2101",
+    "https://granitestate.github.io/rules/puc/2102",
+    "https://granitestate.github.io/rules/puc/2103",
+    "https://granitestate.github.io/rules/puc/2104",
+    "https://granitestate.github.io/rules/puc/2105",
+    "https://granitestate.github.io/rules/puc/2106"
+  ],
+  "notation": "Puc 2100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html",
+  "prefLabel": "Puc 2100 AFFILIATE TRANSACTIONS RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Puc 2100 AFFILIATE TRANSACTIONS RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/305.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "332-G:14",
+      "source": "https://granitestate.github.io/rsa/332-G/332-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/332-G/332-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/305",
+  "definition": "Purpose",
+  "effectiveDate": "2024-05-03",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 305.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 305.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Plc 305.01 Purpose. The purpose of the rules in Plc 305 is to implement RSA 310:6, V relative to temporary licensure of health care professionals and RSA 332-G:14 relative to temporary licensing of professionals licensed under Title XXX and the trades, professions, and businesses regulated by the mechanical licensing board under RSA 153:27 through RSA 153:38.\n\nSource. (See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

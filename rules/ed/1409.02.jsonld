@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1409.02",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "51-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "193-E:2-a",
+      "paragraphs": [
+        "V(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1409",
+  "definition": "Suspension, Revocation, and Withdrawal",
+  "effectiveDate": "2024-04-12",
+  "historyNote": "#13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 1409.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html",
+  "prefLabel": "Ed 1409.02 Suspension, Revocation, and Withdrawal",
+  "recordType": "rule-section",
+  "ruleText": "Ed 1409.02 Suspension, Revocation, and Withdrawal.\n\n(a) The department shall immediately suspend a program’s approval if the department finds that public health, safety, or welfare requires emergency action and incorporates a finding to that effect.\n\n(b) The state board shall revoke a program’s approval prior to the expiration of its term if the state board finds any of the circumstances outlined in Ed 1409.01(a) and notify the sponsor organization in writing within 10 days of the state board’s determination.\n\n(c) A sponsor organization may appeal the board’s decision pursuant to Ed 213.\n\nSource. #13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24\n\nAppendix I",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html"
+}

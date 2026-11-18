@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1409.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1409",
+  "definition": "Applicability",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1409.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1409.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1409.01 Applicability.\n\n(a) Except as provided in (b), below, this part shall apply to used oil burners.\n\n(b) Facilities burning used oil for energy recovery under the following conditions shall not be subject to this part:\n\n(1) The used oil is burned by the generator in an onsite space heater in accordance with the provisions of Env-Hw 1406.04, except that the generator shall notify the department in accordance with Env-Hw 1409.05; or\n\n(2) The used oil is burned by a processor/re-refiner for purposes of processing used oil, which is considered burning incidentally to used oil processing.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

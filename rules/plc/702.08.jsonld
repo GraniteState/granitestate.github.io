@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/702.08",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310-A",
+      "source": "https://granitestate.github.io/rsa/310-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314",
+      "source": "https://granitestate.github.io/rsa/314",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A",
+    "https://granitestate.github.io/rsa/314"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/702",
+  "definition": "Epilation",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 702.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 702.08 Epilation",
+  "recordType": "rule-section",
+  "ruleText": "Plc 702.08 “Epilation” means the removal of hair including the roots. Electrolysis is a method of epilation.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

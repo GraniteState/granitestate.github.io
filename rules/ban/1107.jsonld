@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/1107",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "383-A:6",
+      "source": "https://granitestate.github.io/rsa/383-A/383-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "383-E:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "383-E:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383-A/383-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/1100",
+  "definition": "AMENDMENTS TO CREDIT UNION BYLAWS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ban/1107.01",
+    "https://granitestate.github.io/rules/ban/1107.02"
+  ],
+  "notation": "Ban 1107",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1100.html",
+  "prefLabel": "Ban 1107 AMENDMENTS TO CREDIT UNION BYLAWS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ban 1107 AMENDMENTS TO CREDIT UNION BYLAWS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1100.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/402.01",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310:10",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:143",
+      "paragraphs": [
+        "I(f)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:155",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/402",
+  "definition": "Initiation of Disciplinary Action",
+  "effectiveDate": "2025-03-10",
+  "historyNote": "#8861, eff 3-28-07; ss by #10679, eff 9-30-14; ss by #14170, eff 3-10-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lsa 402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 402.01 Initiation of Disciplinary Action",
+  "recordType": "rule-section",
+  "ruleText": "Lsa 402.01 Initiation of Disciplinary Action.\n\n(a) Complaints, investigations, and the initiation of disciplinary actions shall be in accordance with Plc 310.\n\n(b) Disciplinary proceedings shall be conducted in accordance with Plc 311.\n\nSource. #8861, eff 3-28-07; ss by #10679, eff 9-30-14; ss by #14170, eff 3-10-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/1600",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:42-a",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-42-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab",
+  "definition": "WORKERS’ COMPENSATION APPEALS ADVISORY BOARD",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/1601",
+    "https://granitestate.github.io/rules/lab/1602",
+    "https://granitestate.github.io/rules/lab/1603",
+    "https://granitestate.github.io/rules/lab/1604"
+  ],
+  "notation": "Lab 1600",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1600.html",
+  "prefLabel": "Lab 1600 WORKERS’ COMPENSATION APPEALS ADVISORY BOARD",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Lab 1600 WORKERS’ COMPENSATION APPEALS ADVISORY BOARD\n\nStatutory Authority: RSA 281-A:42-aa",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1600.html"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3108.09",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:44",
+      "source": "https://granitestate.github.io/rsa/263/263-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:47",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:50",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:51",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/263/263-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3108",
+  "definition": "Return of Records",
+  "effectiveDate": "2018-04-05",
+  "historyNote": "#9568, eff 10-17-09 (from Saf-C 3110.07); ss by #12509, eff 4-5-18 (formerly Saf-C 3111.09) (See Revision Note at chapter heading for Saf-C 3100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3108.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3108.09 Return of Records",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3108.09 Return of Records.\n\n(a) For the purposes of this rule, “records” shall include documents, forms, reports and licenses.\n\n(b) Prior to the suspension, revocation or closing of an approved drivers’ school, all records shall be returned to the department of safety.\n\n(c) Failure to comply with (b) above shall result in the refusal to issue an approved drivers’ school license if the school subsequently submits a new application pursuant to Saf-C 3108.02.\n\nSource. #9568, eff 10-17-09 (from Saf-C 3110.07); ss by #12509, eff 4-5-18 (formerly Saf-C 3111.09) (See Revision Note at chapter heading for Saf-C 3100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

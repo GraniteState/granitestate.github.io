@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3247",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I",
+        "II",
+        "II-a",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:59-b",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3200",
+  "definition": "REJECTION OF VEHICLES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/3247.01",
+    "https://granitestate.github.io/rules/saf-c/3247.02",
+    "https://granitestate.github.io/rules/saf-c/3247.03"
+  ],
+  "notation": "Saf-C 3247",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3247 REJECTION OF VEHICLES",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 3247 REJECTION OF VEHICLES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

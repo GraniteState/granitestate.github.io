@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/3001.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/3001",
+  "definition": "Purpose",
+  "effectiveDate": "2026-06-05",
+  "expirationDate": "2036-06-05",
+  "historyNote": "#7811, eff 12-28-02; ss by #9796-A, eff 9-25-10; ss by #12757, eff 6-1-19; ss by #14613, eff 6-5-26, EXPIRES: 6-5-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 3001.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html",
+  "prefLabel": "Puc 3001.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Puc 3001.01 Purpose. The purpose of Puc 3000 is to establish a procedure, in addition to Puc 200, to adjudicate the department’s petitions alleging sanctionable events and the transfer of customer complaints against competitive natural gas suppliers and aggregators registered with the department of energy under RSA 12-P:15, I and the En 3000 rules.\n\nSource. #7811, eff 12-28-02; ss by #9796-A, eff 9-25-10; ss by #12757, eff 6-1-19; ss by #14613, eff 6-5-26, EXPIRES: 6-5-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/305.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/305",
+  "definition": "Well Location Relative to Surface Water",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 305.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 305.09 Well Location Relative to Surface Water",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 305.09 Well Location Relative to Surface Water.\n\n(a) No well shall be located closer than 50 feet from the high water line of any surface water.\n\n(b) No well shall be located closer than 50 feet from wetlands that are inundated with standing or flowing water for more than 30 continuous days.\n\n(c) No well shall be subject to flooding at the 100-year recurrence interval. The applicant may fill to elevate the permanent well casing for flood protection purposes, provided that all required permits for placing fill in wetlands and flood plains have been obtained.\n\nSource. (See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/301.02",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "91-A:7-a",
+      "paragraphs": [
+        "III",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-7-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/301",
+  "definition": "Continuing Education Requirements",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13922, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 301.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko300.html",
+  "prefLabel": "Rko 301.02 Continuing Education Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Rko 301.02 Continuing Education Requirements.\n\n(a) In addition to the continuing education requirements imposed upon a person holding the credentials of RSA 91-A:7-a, I, the ombudsman shall, pursuant to RSA 91-A:7-a, IV, annually complete a minimum of 3 hours of continuing legal education courses or other training relevant to the provisions of RSA 91-A.\n\n(b) Courses or training used to fulfill the continuing education requirements of the New Hampshire Bar shall, if relevant, be counted towards fulfillment of the 3 hours of education or training required by RSA 91-A:7-a, IV.\n\nSource. #13922, eff 5-20-24\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko300.html"
+}

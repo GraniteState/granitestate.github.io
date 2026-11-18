@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w/852.02",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "authority": [
+    {
+      "citation": "167:3-c",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-3-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:4",
+      "source": "https://granitestate.github.io/rsa/167/167-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:7",
+      "source": "https://granitestate.github.io/rsa/167/167-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/167/167-3-c",
+    "https://granitestate.github.io/rsa/167/167-4",
+    "https://granitestate.github.io/rsa/167/167-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-w/852",
+  "definition": "Available Income",
+  "effectiveDate": "2024-01-23",
+  "historyNote": "#13856, eff 1-23-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-W 852.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html",
+  "prefLabel": "He-W 852.02 Available Income",
+  "recordType": "rule-section",
+  "ruleText": "He-W 852.02 Available Income.\n\n(a) Available income for medical assistance shall be determined pursuant to 42 CFR 435.602 and 42 CFR 435.603.\n\n(b) Income received which represents contributions or compensation for a period of more than one month, or which varies steadily from month-to-month, shall be averaged to obtain a monthly figure.\n\n(c) The monthly figure shall be the amount the individual is expected to have for use each month.\n\nSource. #13856, eff 1-23-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html"
+}

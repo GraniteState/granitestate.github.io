@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bcr/102.05",
+  "@type": "Concept",
+  "agencyCode": "Bcr",
+  "altLabel": "State Fire Marshal",
+  "authority": [
+    {
+      "citation": "155-A:10",
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bcr/102",
+  "definition": "State fire marshal",
+  "effectiveDate": "2003-12-12",
+  "historyNote": "#7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03 New. #8003, eff 12-12-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bcr 102.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html",
+  "prefLabel": "Bcr 102.05 State fire marshal",
+  "priorExpiration": "2003-03-13",
+  "recordType": "rule-section",
+  "ruleText": "Bcr 102.05 “State fire marshal” means the state fire marshal of the state of New Hampshire.\n\nSource. #7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03\n\nNew. #8003, eff 12-12-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1102.02",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Collaborative Pharmacy Practice",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XVII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1102",
+  "definition": "Collaborative pharmacy practice",
+  "effectiveDate": "2018-01-23",
+  "historyNote": "#9381, eff 1-31-09, EXPIRED: 1-31-17 New. #12464, eff 1-23-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1102.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1102.02 Collaborative pharmacy practice",
+  "priorExpiration": "2017-01-31",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1102.02 “Collaborative pharmacy practice” means “collaborative pharmacy practice” as defined in RSA 318:1, XXVI, namely, “the practice of pharmacy whereby one or more pharmacists jointly agree, on a voluntary basis, to work in conjunction with one or more attending practitioners under written protocol whereby the collaborating pharmacist or pharmacists may perform medication therapy management authorized by the attending practitioner or practitioners under certain specified conditions and limitations.”\n\nSource. #9381, eff 1-31-09, EXPIRED: 1-31-17\n\nNew. #12464, eff 1-23-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

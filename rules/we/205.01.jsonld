@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/205.01",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/205",
+  "definition": "Applicability",
+  "effectiveDate": "2008-06-13",
+  "historyNote": "#7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 205.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "We 205.01 Applicability. Any interested person may petition the board to adopt, amend, or repeal a rule. The rules in this part shall apply to any rulemaking petition submitted pursuant to RSA 541-A:4.\n\nSource. #7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

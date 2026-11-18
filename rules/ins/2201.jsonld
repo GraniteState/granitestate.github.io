@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2201",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "altLabel": "DOMESTIC HEALTH MAINTENANCE ORGANIZATIONS",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-B:21",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2200",
+  "definition": "LICENSING AND REGULATION OF HEALTH MAINTENANCE ORGANIZATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/2201.01",
+    "https://granitestate.github.io/rules/ins/2201.02",
+    "https://granitestate.github.io/rules/ins/2201.03",
+    "https://granitestate.github.io/rules/ins/2201.04",
+    "https://granitestate.github.io/rules/ins/2201.05",
+    "https://granitestate.github.io/rules/ins/2201.06",
+    "https://granitestate.github.io/rules/ins/2201.07",
+    "https://granitestate.github.io/rules/ins/2201.08",
+    "https://granitestate.github.io/rules/ins/2201.09"
+  ],
+  "notation": "Ins 2201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2200.html",
+  "prefLabel": "Ins 2201 LICENSING AND REGULATION OF HEALTH MAINTENANCE ORGANIZATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 2201 LICENSING AND REGULATION OF HEALTH MAINTENANCE ORGANIZATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2200.html"
+}

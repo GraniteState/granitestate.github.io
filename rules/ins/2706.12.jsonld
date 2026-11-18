@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.12",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Authority to Continue Negotiations or Withdraw",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.12 Authority to Continue Negotiations or Withdraw",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.12 Authority to Continue Negotiations or Withdraw.\n\n(a) If the parties to the state IDR process agree on an out-of-network rate for a qualified IDR item or service after assignment of the case to a certified IDR entity, but before the certified IDR entity has made its payment determination, the amount agreed to by the parties for the qualified IDR item or service shall be treated as the out-of-network rate for the qualified IDR item or service.\n\n(b) To the extent the amount exceeds the initial payment amount and any cost sharing paid or required to be paid by the participant or beneficiary, or there was an initial denial of payment, payment shall be made directly by the health carrier or plan to the nonparticipating provider or facility not later than 30 business days after the agreement is reached.\n\n(c) No party shall seek additional payment from the covered person or beneficiary, including instances in which the out-of-network rate exceeds the qualifying payment amount.\n\n(d) The initiating party shall send a notification of withdrawal to the certified IDR entity and the commissioner as soon as possible, but no later than 3 business days after the date of the agreement. The notification shall include the dispute number, a statement of the out-of-network rate for the qualified IDR item or service, and signatures from authorized signatories for both parties.\n\n(e) The certified IDR entity shall be entitled to retain the full fee that has been paid by the parties for any fair value dispute that has been assigned to the certified IDR entity and the dispute is withdrawn before the certified IDR entity has made its payment determination.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

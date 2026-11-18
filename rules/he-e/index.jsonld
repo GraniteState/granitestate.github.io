@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-e",
+  "@type": "Concept",
+  "agencyCode": "He-E",
+  "definition": "Bureau of Aging and Adult Services",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-e/200",
+    "https://granitestate.github.io/rules/he-e/300",
+    "https://granitestate.github.io/rules/he-e/500",
+    "https://granitestate.github.io/rules/he-e/600",
+    "https://granitestate.github.io/rules/he-e/700",
+    "https://granitestate.github.io/rules/he-e/800"
+  ],
+  "notation": "He-E",
+  "prefLabel": "He-E Bureau of Aging and Adult Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

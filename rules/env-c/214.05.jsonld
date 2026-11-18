@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.05",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Access to A NH Electronic Document Receiving System (NHEDRS)",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.05 Access to A NH Electronic Document Receiving System (NHEDRS)",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.05 Access to A NH Electronic Document Receiving System (NHEDRS).\n\n(a) Upon implementation of an EPA-approved NHEDRS, the department shall:\n\n(1) Post an announcement on its web site; and\n\n(2) Notify those persons the department believes will be most likely to use the NHEDRS.\n\n(b) Any reporter that would like to use an NHEDRS to transmit electronic documents in lieu of submitting paper copies of documents required or allowed to be filed with the department for an authorized NH program shall:\n\n(1) Complete a certificate of authority as described in Env-C 214.11 (certificate) for the authorized official and have the completed certificate executed by the certifying officer;\n\n(2) Complete a subscriber agreement as described in Env-C 214.12 (agreement) for each signatory and have the completed agreement executed by the authorized official and the identified signatory;\n\n(3) Provide a copy of the completed and executed certificate to the authorized official and a copy of the completed and executed agreement to the identified signatory; and\n\n(4) Submit the complete, fully-executed certificate and agreement(s) by U.S. Postal Service mail, private delivery service, or other in-hand delivery to the department, to the attention of the authorized NH program to which the documents relate, at the following address:\n\nNH Department of Environmental Services\n\nAttn: [Specific authorized NH program]\n\n29 Hazen Drive\n\nP.O. Box 95\n\nConcord, NH 03302-0095\n\n(c) Upon receipt of complete, fully-executed certificate and agreement(s), the department shall accept the certificate and agreement(s) unless a rational basis exists to question the authenticity of the signatures on the certificate or agreement(s). If such a rational basis exists, the department shall undertake such actions as are needed to verify the identity of the authorized official and each signatory.\n\n(d) Upon acceptance of a certificate and agreement(s), the department shall:\n\n(1) Notify the authorized official and each signatory at the applicable email address provided on the certificate or agreement; and\n\n(2) Issue a unique electronic signature device (ESD) to each signatory and direct each signatory to establish a unique, strong PIN/password in conjunction with another identifier such as a challenge question/answer or a verification code on a mobile device, that together with the PIN/password will be sufficient to prove the electronic signature has not been compromised.\n\n(e) Upon receiving notification pursuant to (d)(1), above, the authorized official and each signatory shall retain a copy of the complete, executed certificate or agreement, as applicable, and not discard the copy for so long as he or she continues to act as an authorized official or signatory, as applicable.\n\n(f) The department shall retain:\n\n(1) The certificate for not less than 5 years after the department is notified or otherwise becomes aware that the authorized official is no longer authorized; and\n\n(2) Each agreement for not less than 5 years after the associated ESD has been deactivated.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

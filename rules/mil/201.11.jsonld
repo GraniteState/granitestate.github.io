@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/201.11",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:32",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-32",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/201",
+  "definition": "Intervention",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 201.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 201.11 Intervention",
+  "recordType": "rule-section",
+  "ruleText": "Mil 201.11 Intervention.\n\n(a) A non-party may intervene in any matter pending before the board under the provisions of RSA 541-A:32, by filing a motion stating facts demonstrating that:\n\n(1) The non-party's rights or other substantial interests might be affected by the proceeding; or\n\n(2) That the non-party qualifies as an intervenor under any provision of law.\n\n(b) If the presiding officer determines that such intervention would be in the interest of justice and would not impair the orderly and prompt conduct of the hearing, a motion for intervention shall be granted.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

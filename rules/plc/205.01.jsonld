@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/205.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:10",
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/205",
+  "definition": "Purpose and Applicability",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note 1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 205.01 Purpose and Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Plc 205.01 Purpose and Applicability.\n\n(a) The purpose of this part is to establish the criteria and procedures for settling a matter without the need for an adjudicative hearing.\n\n(b) This part shall apply to any matter in which an investigation determines that there is a basis to proceed with a disciplinary or non-disciplinary remedial proceeding, subject to the time limitations in RSA 310:9, I.\n\nSource. (See Revision Note 1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

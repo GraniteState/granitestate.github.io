@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7002.13",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Emergency Services",
+  "authority": [
+    {
+      "citation": "106-H:2",
+      "paragraphs": [
+        "VIII-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "106-H:9",
+      "source": "https://granitestate.github.io/rsa/106-H/106-H-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-H/106-H-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7002",
+  "definition": "Emergency services",
+  "effectiveDate": "2016-06-29",
+  "historyNote": "#9091, eff 2-21-08 (See Revision Note at Chapter Heading for Saf-C 7000); renumbered by #11010, (from Saf-C 7002.09); ss by #11128, eff 6-29-16 (Saf-C 7002.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7002.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html",
+  "prefLabel": "Saf-C 7002.13 Emergency services",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7002.13 “Emergency services” means any fire, police, ambulance or rescue services and any ancillary services required for the effective delivery of such firefighting, police, ambulance and rescue services, including but not limited to:\n\n(a) Access to interpretation services for members of the public who require police, firefighting, rescue or ambulance services in an emergency and who are deaf, hard of hearing or have speech impairments; and\n\n(b) Access to foreign language interpretation services for public and private safety agencies delivering firefighting, police, ambulance or rescue services in an emergency.\n\nSource. #9091, eff 2-21-08 (See Revision Note at Chapter Heading for Saf-C 7000); renumbered by #11010, (from Saf-C 7002.09); ss by #11128, eff 6-29-16 (Saf-C 7002.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1302.14",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Simple Make-Ready",
+  "authority": [
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:34-a",
+      "source": "https://granitestate.github.io/rsa/374/374-34-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-34-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1301",
+  "definition": "Simple make-ready",
+  "effectiveDate": "2022-12-01",
+  "historyNote": "#13497, eff 12-1-22 (see Revision Note at chapter heading for En 1300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1302.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1300.html",
+  "prefLabel": "En 1302.14 Simple make-ready",
+  "recordType": "rule-section",
+  "ruleText": "En 1302.14 “Simple make-ready” means make-ready work where existing attachments in the communications space of a pole could be transferred without any reasonable expectation of a service outage or facility damage, and which does not require splicing of any existing communications attachment or relocation of any existing wireless attachment.\n\nSource. #13497, eff 12-1-22 (see Revision Note at chapter heading for En 1300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1300.html"
+}

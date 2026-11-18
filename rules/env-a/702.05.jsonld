@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/702.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "IV-d"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/702",
+  "definition": "General State Permit (GSP) Registration Fee for Emergency Generators",
+  "effectiveDate": "2025-03-22",
+  "historyNote": "#10747, eff 12-19-14; ss by #12649, eff 10-24-18; ss by #14216, eff 3-22-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 702.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a700.html",
+  "prefLabel": "Env-A 702.05 General State Permit (GSP) Registration Fee for Emergency Generators",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 702.05 General State Permit (GSP) Registration Fee for Emergency Generators.\n\n(a) For a general state permit (GSP) for the source category described in Env-A 610.04(b)(1), the owner or operator seeking to operate under the GSP shall submit a registration fee calculated in accordance with (b) or (c), below, together with the registration package required by Env-A 610.08(b).\n\n(b) For a GSP reestablished after the effective date of this rule, for the source category described in Env-A 610.04(b)(1), the owner or operator seeking to operate under the GSP shall submit a registration fee calculated by multiplying $400 by the number of years, or portion thereof, remaining until the GSP expires, inclusive of the year of registration and expiration.\n\n(c) The registration fee established in (b) above shall be adjusted each time a GSP is reestablished and shall be adjusted by the consumer price index multiplier, as defined in Env-A 705.04(a)(3), calculated at the time the GSP is reestablished.\n\n(d) The department shall not charge any additional registration fee to add a source or device to the list of sources or devices previously registered at a stationary source during the GSP term.\n\n(e) The department shall not refund any registration fee if a source or device is removed from the list of sources or devices previously registered at a stationary source during the GSP term.\n\nSource. #10747, eff 12-19-14; ss by #12649, eff 10-24-18; ss by #14216, eff 3-22-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a700.html"
+}

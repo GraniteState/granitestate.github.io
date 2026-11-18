@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "definition": "Med",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/med/100",
+    "https://granitestate.github.io/rules/med/200",
+    "https://granitestate.github.io/rules/med/300",
+    "https://granitestate.github.io/rules/med/400",
+    "https://granitestate.github.io/rules/med/500",
+    "https://granitestate.github.io/rules/med/600"
+  ],
+  "notation": "Med",
+  "prefLabel": "Med Med",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

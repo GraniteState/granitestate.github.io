@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/612.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/612",
+  "definition": "Aquaculture Operations Not Requiring a Permit",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 612.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 612.02 Aquaculture Operations Not Requiring a Permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 612.02 Aquaculture Operations Not Requiring a Permit.\n\n(a) An aquaculture operation licensed by NHF&G prior to the effective date of this rule shall not be required to apply for a permit.\n\n(b) An aquaculture operation not licensed by NHF&G prior to the effective date of this rule shall be considered minimum impact and not require a permit under RSA 482-A:3, provided the following conditions are met:\n\n(1) The owner or operator applies to NHF&G for a marine aquaculture license;\n\n(2) After reviewing a copy of the application received by the department pursuant to Fis 807.07(g), the department issues a written statement to NHF&G that it has no objection to issuance of the license;\n\n(3) NHF&G issues a license based on the application reviewed by the department;\n\n(4) The department confirms in a written statement to the owner or operator that it has no objection to the final license issued by NHF&G;\n\n(5) The operation does not include the culture of finfish; and\n\n(6) For marine bottom culture operations inland of the General Sullivan Bridge:\n\na. There is at least 150 feet between locations of adjacent marine bottom culture operations licensed by NHF&G; and\n\nb. The maximum size of the operation does not exceed 4.5 acres.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

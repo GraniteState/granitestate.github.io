@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2701.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2701",
+  "definition": "Scope",
+  "effectiveDate": "2018-08-01",
+  "historyNote": "#7701, eff 8-1-02; ss by #9722, eff 8-1-10; ss by #12565, eff 8-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2701.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2701.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2701.02 Scope. These rules shall apply to all insurers offering or issuing policies of health and dental insurance in the state of New Hampshire when the plan design and benefits include a provider network with differential payment or coverage associated with use of an in-network provider.\n\nSource. #7701, eff 8-1-02; ss by #9722, eff 8-1-10; ss by #12565, eff 8-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

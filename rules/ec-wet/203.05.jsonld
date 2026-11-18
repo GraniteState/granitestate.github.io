@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wet/203.05",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wet",
+  "authority": [
+    {
+      "citation": "21-O:5-a",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wet/203",
+  "definition": "Service List",
+  "effectiveDate": "2021-12-15",
+  "historyNote": "(see Revision Note at chapter heading for Ec-Wet 100) #13305, eff 12-15-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wet 203.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html",
+  "prefLabel": "Ec-Wet 203.05 Service List",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Wet 203.05 Service List.\n\n(a) The service list for each appeal shall identify the name and service contact information for each party to the appeal. Service contact information includes, at minimum, the party’s email address and physical mailing address.\n\n(b) A party may update its contact information in the service list at any time by filing a notice in accordance with Ec-Wet 203.04.\n\n(c) Any person may request from the appeals clerk a copy of the current service list for an appeal.\n\n(d) Timely delivery to a party at any contact information specified in the service list shall be deemed effective.\n\nSource. (see Revision Note at chapter heading for Ec-Wet 100) #13305, eff 12-15-21\n\nSource. (see Revision Note at chapter heading for Ec-Wet 100) #13305, eff 12-15-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html"
+}

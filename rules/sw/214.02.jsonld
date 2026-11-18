@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sw/214.02",
+  "@type": "Concept",
+  "agencyCode": "Sw",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/sw/214",
+  "definition": "Failure to Attend Hearing",
+  "effectiveDate": "2017-01-27",
+  "historyNote": "(See Revision Note at chapter heading for Sw 200) #12093, eff 1-27-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Sw 214.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw200.html",
+  "prefLabel": "Sw 214.02 Failure to Attend Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Sw 214.02 Failure to Attend Hearing. If any party to whom notice has been given in accordance with Sw 210.03 above fails to attend a hearing, the presiding officer shall declare that party to be in default and either:\n\n(a) Dismiss the case, if the party with the burden of proof fails to appear; or\n\n(b) Hear the testimony and receive the evidence offered by a party, if that party has the burden of proof in the case.\n\nSource. (See Revision Note at chapter heading for Sw 200) #12093, eff 1-27-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw200.html"
+}

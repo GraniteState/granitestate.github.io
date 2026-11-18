@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arch/105.01",
+  "@type": "Concept",
+  "agencyCode": "Arch",
+  "authority": [
+    {
+      "citation": "310-A:29",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/arch/105",
+  "definition": "Meetings",
+  "effectiveDate": "2021-10-02",
+  "historyNote": "#7942, eff 8-27-03; ss by #13271, eff 10-2-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arch 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html",
+  "prefLabel": "Arch 105.01 Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Arch 105.01 Meetings. Regular meetings shall be held at least 3 times each year. Special meetings shall be called by order of the chairperson or secretary. Each member of the board shall be notified in writing of each meeting and such notice shall contain the place, date, time, and subject of the meeting. Notice of meetings shall be posted in 2 conspicuous places, one of which shall be the board’s website.\n\nSource. #7942, eff 8-27-03; ss by #13271, eff 10-2-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html"
+}

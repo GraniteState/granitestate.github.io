@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3308.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "91-A:5",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:16",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:15",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "412:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3308",
+  "definition": "Confidentiality of Submission",
+  "effectiveDate": "2018-08-03",
+  "historyNote": "#9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3308.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html",
+  "prefLabel": "Ins 3308.02 Confidentiality of Submission",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3308.02 Confidentiality of Submission. Information submitted pursuant to Ins 3308.01 that is not part of the public rate filing pursuant to RSA 412:15, III and RSA 412:16 and that is identified by the insurer or any entity acting on behalf of the insurer as commercial or financial information or otherwise exempt from public disclosure under RSA 91-A:5 shall be afforded the same confidentiality protections provided to information obtained during an investigation as set forth in RSA 400-A:16.\n\nSource. #9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1809",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E:3",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-3",
+    "https://granitestate.github.io/rsa/141-E/141-E-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1800",
+  "definition": "SPECIFIC WORK PRACTICE REQUIREMENTS FOR DEMOLITION, ENCLOSURE AND ENCAPSULATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1809.01",
+    "https://granitestate.github.io/rules/env-a/1809.02",
+    "https://granitestate.github.io/rules/env-a/1809.03"
+  ],
+  "notation": "Env-A 1809",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1809 SPECIFIC WORK PRACTICE REQUIREMENTS FOR DEMOLITION, ENCLOSURE AND ENCAPSULATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 1809 SPECIFIC WORK PRACTICE REQUIREMENTS FOR DEMOLITION, ENCLOSURE AND ENCAPSULATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

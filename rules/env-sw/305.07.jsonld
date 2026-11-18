@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/305.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:11",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/149-M/149-M-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/305",
+  "definition": "Permit Termination",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 305.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 305.07 Permit Termination",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 305.07 Permit Termination.\n\n(a) A permittee may voluntarily request its facility permit be terminated or retired following completion of permanent closure in accordance with Env-Sw 1106.\n\n(b) The request for permit termination shall include:\n\n(1) Facility identification;\n\n(2) Permittee identification; and\n\n(3) Notification of closure completion as required in Env-Sw 1106.06.\n\n(c) If the department determines that all requirements for closure have been completed, it shall issue notice of permit termination to the former permittee the host municipality and host district.\n\n(d) A permit shall be deemed terminated under the following circumstances:\n\n(1) When the department issues a new individual permit to replace another individual permit for the same facility, such as might occur when a new permit-by-notification is issued to replace a prior version or a standard permit is issued to replace a permit-by-notification; and\n\n(2) When the department issues confirmation of authorization to construct, operate, and close a facility under a general permit in accordance with Env-Sw 308 to replace an individual permit for the same facility.\n\n(e) A terminated or retired permit shall not be eligible for use.\n\nSource. #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

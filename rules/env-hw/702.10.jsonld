@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/702.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/702",
+  "definition": "Groundwater Monitoring",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 702.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html",
+  "prefLabel": "Env-Hw 702.10 Groundwater Monitoring",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 702.10 Groundwater Monitoring.\n\n(a) An operator of a facility with a surface impoundment, landfill, or land treatment operation shall install and operate a groundwater monitoring/release detection system capable of detecting the potential migration in groundwater of hazardous waste or waste constituents outside the boundaries of the facility, as specified below:\n\n(1) Facilities that were in existence on July 1, 1980, shall implement a groundwater monitoring/ release detection program in accordance with 40 CFR 265 Subpart F;\n\n(2) Facilities that become subject to this chapter due to statutory or regulatory amendments shall implement a groundwater monitoring/release detection program in accordance with 40 CFR 265 Subpart F within one year of the effective date of the statutory or regulatory amendments; and\n\n(3) New facilities shall implement a groundwater monitoring/release detection program in accordance with 40 CFR 264 Subpart F.\n\n(b) Groundwater monitoring/release detection shall comply with RSA 485-C:13, Env-Or 700, and either 40 CFR 264 Subpart F or 40 CFR 265 Subpart F, as specified in (a), above, provided that in the case of a conflict, the more protective requirement shall apply.\n\n(c) Unless a release detection permit is required pursuant to RSA 485-C:13, the department shall waive any of the requirements of (b), above, if:\n\n(1) The operator requests such a waiver in writing as specified in Env-Hw 202; and\n\n(2) The operator provides documentation that the criteria for granting a waiver as specified in Env-Hw 202 are satisfied.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #7207-B, eff 2-26-00; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html"
+}

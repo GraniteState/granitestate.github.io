@@ -1,0 +1,72 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/100",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-D",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-J",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-N",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-R",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "PURPOSE; DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/101",
+    "https://granitestate.github.io/rules/env-a/102",
+    "https://granitestate.github.io/rules/env-a/103",
+    "https://granitestate.github.io/rules/env-a/104",
+    "https://granitestate.github.io/rules/env-a/105"
+  ],
+  "notation": "Env-A 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 100 PURPOSE; DEFINITIONS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 100 PURPOSE; DEFINITIONS\n\nStatutory Authority: RSA 125-C:4, I; RSA 541-A:16, I(b)\n\nREVISION NOTE #1:\n\nDocument #8256, effective 1-14-05, repealed, amended, and readopted with amendments and renumbered many definitions in Env-A 100, necessitating extensive renumbering of most of the remaining definitions, as indicated in the source notes referencing Document #8256 below.\n\nThe definitions repealed by Document #8256 include the following terms and phrases. The prior documents containing the definitions are identified in Document #8256 as follows:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

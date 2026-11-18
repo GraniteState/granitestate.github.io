@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/box/402",
+  "@type": "Concept",
+  "agencyCode": "Box",
+  "authority": [
+    {
+      "citation": "285:7",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "285:12",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/box/400",
+  "definition": "SUSPENSION, REVOCATION AND OTHER SANCTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/box/402.01",
+    "https://granitestate.github.io/rules/box/402.02"
+  ],
+  "notation": "Box 402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/box100-800.html",
+  "prefLabel": "Box 402 SUSPENSION, REVOCATION AND OTHER SANCTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Box 402 SUSPENSION, REVOCATION AND OTHER SANCTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/box100-800.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1114.15",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "189:1",
+      "source": "https://granitestate.github.io/rsa/189/189-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "189:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "189:24",
+      "source": "https://granitestate.github.io/rsa/189/189-24",
+      "via": "appendix"
+    },
+    {
+      "citation": "189:25",
+      "source": "https://granitestate.github.io/rsa/189/189-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/189/189-1",
+    "https://granitestate.github.io/rsa/189/189-24",
+    "https://granitestate.github.io/rsa/189/189-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1114",
+  "definition": "Calendar Requirements",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "(see Revision Note at chapter heading for Ed 1100) #9197, eff 6-28-08; ss by #12141, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 1114.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html",
+  "prefLabel": "Ed 1114.15 Calendar Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ed 1114.15 Calendar Requirements. Each private provider of special education or other non-LEA program shall provide a written annual school calendar identifying the instructional days per year and the instructional hours per day, in accordance with Ed 1113.14 and Ed 1113.15.\n\nSource. (see Revision Note at chapter heading for Ed 1100) #9197, eff 6-28-08; ss by #12141, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Sampling Requirements When Concentrations of Regulated Inorganics are Greater Than or Equal To 50% of the MCL",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.05 Sampling Requirements When Concentrations of Regulated Inorganics are Greater Than or Equal To 50% of the MCL",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.05 Sampling Requirements When Concentrations of Regulated Inorganics are Greater Than or Equal To 50% of the MCL.\n\n(a) Subject to (k), below, if the concentration of any regulated inorganic in a representative sample is greater than or equal to 50% of the applicable MCL listed in Env-Dw 704, the O/O shall collect a confirmation sample as specified in (b), below.\n\n(b) The confirmation sample shall be:\n\n(1) A new sample collected under the same contributing conditions and at the same sampling point as the original sample; and\n\n(2) Collected within 14 days of the original sample and analyzed for the regulated inorganic(s) that triggered the requirement to collect the confirmation sample.\n\n(c) The results of the confirmation sample shall be averaged with the initial sample results and the average shall be used to determine compliance with the MCL specified in Env-Dw 704.\n\n(d) If the average is less than 50% of the MCL listed in Env-Dw 704, the monitoring requirements for that sampling point shall be as specified in Env-Dw 711.04.\n\n(e) If the average is equal to or greater than 50% of the MCL, the monitoring frequency for that sampling point for that contaminant shall be revised to quarterly beginning in the next quarter.\n\n(f) The revised monitoring schedule for each source pursuant to (e), above, shall continue until the concentration of the particular regulated inorganic is determined by the department to be reliably and consistently below the MCL as defined in Env-Dw 100.\n\n(g) After a minimum of one year of quarterly sampling, the O/O may submit in writing a request to the department for the monitoring frequency to be reduced.\n\n(h) The written request shall include:\n\n(1) The name of the PWS;\n\n(2) The PWS identifier for the PWS;\n\n(3) A summary of all quarterly sampling results and results of any additional sampling undertaken by the O/O; and\n\n(4) An explanation of whether the PWS is operating any type of treatment to reduce the amount of regulated inorganics.\n\n(i) The department shall reinstate the monitoring frequency specified in Env-Dw 711.04 upon determining that:\n\n(1) Based on 4 consecutive quarterly samples, the concentration of the regulated inorganic is reliably and consistently below the MCL; and\n\n(2) The PWS is not operating any type of treatment to reduce the amount of the regulated inorganics.\n\n(j) If the monitoring frequency is reduced pursuant to (i), above, subsequent samples shall be collected during the quarter(s) which previously resulted in the highest analytical result.\n\n(k) If results from the sampling point or the contributing sources have historically demonstrated the presence of regulated inorganics, then:\n\n(1) A confirmation sample shall not be required; and\n\n(2) The monitoring frequency for the approved sampling point shall be increased to quarterly for that contaminant.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

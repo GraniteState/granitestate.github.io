@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Fabric Refresher",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "Fabric refresher",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#8439, eff 9-24-05; ss by #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.02 Fabric refresher",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.02 “Fabric refresher” means a product labeled to neutralize or eliminate odors on non-laundered fabric including, but not limited to, soft household surfaces, rugs, carpeting, draperies, bedding, automotive interiors, footwear, athletic equipment, clothing, or on household furniture or objects upholstered or covered with fabrics such as, but not limited to, wool, cotton, or nylon. The term does not include “anti-static product”, “carpet and upholstery cleaner”, “footwear or leather care product”, “spot remover”, “disinfectant”, or products labeled for application to both fabric and human skin.\n\nSource. #8439, eff 9-24-05; ss by #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

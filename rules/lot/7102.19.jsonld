@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7102.19",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "altLabel": "Role-Based Access Control",
+  "authority": [
+    {
+      "citation": "284:12",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:22-b",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "XVII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-J:3",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7201",
+  "definition": "Role-based access control",
+  "effectiveDate": "2024-03-22",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Lot 7100) #13068, eff 6-27-20; ss by #13913, eff 3-22-24 (formerly Lot 7102.16)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7102.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html",
+  "prefLabel": "Lot 7102.19 Role-based access control",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7102.19 “Role-based access control” means a principle by which developers create systems that limit access or restrict operations according to a user’s constructed role within a system. This system is used by businesses and organizations to ensure that unauthorized users do not gain access to privileged information within an IT architecture. Role-based access control is also known as role-based security.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Lot 7100) #13068, eff 6-27-20; ss by #13913, eff 3-22-24 (formerly Lot 7102.16)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html"
+}

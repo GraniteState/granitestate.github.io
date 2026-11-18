@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/404.11",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1-a",
+      "source": "https://granitestate.github.io/rsa/374/374-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:59",
+      "source": "https://granitestate.github.io/rsa/374/374-59",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-1-a",
+    "https://granitestate.github.io/rsa/374/374-59"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/404",
+  "definition": "Number Portability Notice",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 404.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 404.11 Number Portability Notice",
+  "recordType": "rule-section",
+  "ruleText": "En 404.11 Number Portability Notice. Before terminating any customer’s telephone service for any reason other than customer request or customer non-payment of amounts billed for prior services rendered, ELECs providing local service shall provide at least 10 days’ notice to the customer. This notice shall include a description of the process by which the customer may transfer the telephone number to another provider.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

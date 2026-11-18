@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Required Contact Information",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.04 Required Contact Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.04 Required Contact Information. The contact information required by Env-Dw 303.03(c) shall be as follows:\n\n(a) The legal name, mailing address, street address, billing address, daytime telephone number, and fax number of the laboratory and, if available, the e-mail address and web site address of the laboratory;\n\n(b) The name, daytime telephone number, extension number, if applicable, and e-mail address of the individual at the laboratory who is the contact for purposes of the application;\n\n(c) The name and title of the individual authorized by the laboratory to sign the application form;\n\n(d) The name and daytime telephone number including extension, if applicable, of the authorized agent;\n\n(e) The name and daytime telephone number including extension, if applicable, of the quality assurance officer; and\n\n(f) The name and daytime telephone number including extension, if applicable, of the lead technical manager and of each additional technical manager.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

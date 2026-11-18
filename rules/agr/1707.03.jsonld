@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1707.03",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "437:1",
+      "source": "https://granitestate.github.io/rsa/437/437-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437:8",
+      "source": "https://granitestate.github.io/rsa/437/437-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-1",
+    "https://granitestate.github.io/rsa/437/437-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1707",
+  "definition": "Abandonment of Application",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1707.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr.html",
+  "prefLabel": "Agr 1707.03 Abandonment of Application",
+  "recordType": "rule-section",
+  "ruleText": "Section Agr 1707.03 Abandonment of Application",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr.html"
+}

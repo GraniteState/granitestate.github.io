@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/710.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Frequency and Sample Location for Radionuclides",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/710",
+  "definition": "Frequency and Sampling Location for Radionuclides",
+  "effectiveDate": "2019-06-28",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19; ss by #12819, eff 6-28-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 710.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 710.04 Frequency and Sampling Location for Radionuclides",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 710.04 Frequency and Sampling Location for Radionuclides.\n\n(a) The O/O of a CWS shall collect a minimum of one water sample at each entry point to the distribution system and after any centralized radionuclide treatment, as specified in the sampling schedule established pursuant to Env-Dw 708.01, at the frequency specified in the sampling schedule.\n\n(b) The CWS O/O shall collect each sample at the specified sampling point unless the O/O requests, and the department approves, an alternative sampling point pursuant to Env-Dw 708.04.\n\n(c) If the CWS draws water from more than one source and the sources are combined before distribution, the CWS O/O shall sample the blended water, provided it meets the criteria established in Env‑Dw 708.05.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19; ss by #12819, eff 6-28-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

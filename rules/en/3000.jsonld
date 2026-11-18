@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/3000",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/12-P/12-P-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-P:15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-P/12-P-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en",
+  "definition": "COMPETITIVE NATURAL GAS SUPPLIER AND AGGREGATOR RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/en/3001",
+    "https://granitestate.github.io/rules/en/3002",
+    "https://granitestate.github.io/rules/en/3003",
+    "https://granitestate.github.io/rules/en/3004",
+    "https://granitestate.github.io/rules/en/3005",
+    "https://granitestate.github.io/rules/en/3006"
+  ],
+  "notation": "En 3000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html",
+  "prefLabel": "En 3000 COMPETITIVE NATURAL GAS SUPPLIER AND AGGREGATOR RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER En 3000 COMPETITIVE NATURAL GAS SUPPLIER AND AGGREGATOR RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html"
+}

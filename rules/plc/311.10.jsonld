@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/311.10",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:10",
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:12",
+      "source": "https://granitestate.github.io/rsa/310/310-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10",
+    "https://granitestate.github.io/rsa/310/310-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/311",
+  "definition": "Method for Determining Sanctions",
+  "effectiveDate": "2024-05-03",
+  "historyNote": "#13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 311.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 311.10 Method for Determining Sanctions",
+  "recordType": "rule-section",
+  "ruleText": "Plc 311.10 Method for Determining Sanctions.\n\n(a) To determine which sanction or combination of sanctions to impose, the applicable board shall:\n\n(1) Determine the nature of the act(s) or omission(s) constituting the misconduct committed by the licensee;\n\n(2) Determine whether any aggravating or mitigating circumstances are present, as provided in (b) and (c), below; and\n\n(3) Apply the standards in Plc 311.11.\n\n(b) The following shall be considered aggravating circumstances:\n\n(1) The rule or statute violated was clear as to what was required or prohibited;\n\n(2) The respondent has a record of disciplinary sanctions being imposed;\n\n(3) The respondent committed the misconduct intentionally or recklessly;\n\n(4) The respondent did not cooperate during the investigation and adjudicative proceeding; and\n\n(5) The misconduct caused actual harm or posed a material threat of harm to patients, clients, colleagues, or the public.\n\n(c) The following shall be considered mitigating circumstances:\n\n(1) The respondent does not have a record of prior discipline;\n\n(2) The respondent committed the misconduct negligently or inadvertently;\n\n(3) The respondent cooperated fully during the investigation and adjudicative proceeding;\n\n(4) The respondent acknowledged that the identified actions constituted violations; and\n\n(5) The rule or statute violated was arguably unclear.\n\nSource. #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

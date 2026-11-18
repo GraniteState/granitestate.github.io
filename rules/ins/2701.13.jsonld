@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2701.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2701",
+  "definition": "Enforcement",
+  "effectiveDate": "2018-08-01",
+  "historyNote": "#12565, eff 8-1-18 (formerly Ins 2701.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2701.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2701.13 Enforcement",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2701.13 Enforcement. If the commissioner determines that a health carrier has not contracted with a sufficient number of participating providers to assure that covered persons have accessible health care services in a geographic area or that a health carrier’s health care certification of compliance report does not assure reasonable access to covered benefits, the commissioner shall issue an order requiring the health carrier to institute a corrective action, or shall use other enforcement powers under RSA 420-J to ensure that covered persons have access to covered benefits.\n\nSource. #12565, eff 8-1-18 (formerly Ins 2701.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

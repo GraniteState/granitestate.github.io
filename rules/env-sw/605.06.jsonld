@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/605.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/605",
+  "definition": "Off-Specification Compost",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.06); ss by #10596, eff 7-1-14; ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22 (formerly Env-Sw 605.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 605.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 605.06 Off-Specification Compost",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 605.06 Off-Specification Compost.\n\n(a) Except as provided in (b) below, compost which does not meet the quality requirements in Env-Sw 605.04 or the maturity requirements in Env-Sw 605.05 shall be:\n\n(1) Deemed off-specification compost not certified for distribution and use pursuant to Env-Sw 1500, and\n\n(2) Managed by one of the following methods:\n\na. Reprocessed to meet the requirements of Env-Sw 605.04 and Env-Sw 605.05; or\n\nb. Managed as residual waste in accordance with the facility’s residual waste management plan pursuant to Env-Sw 1105.11.\n\n(b) An off-specification compost shall be certified for distribution and use as landfill cover material pursuant to Env-Sw 1500, provided that such off-specification compost meets the performance objectives specified in Env-Sw 806.03.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.06); ss by #10596, eff 7-1-14; ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22 (formerly Env-Sw 605.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

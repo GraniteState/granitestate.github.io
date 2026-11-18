@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4701.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:5",
+      "source": "https://granitestate.github.io/rsa/415/415-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:18",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415/415-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4701",
+  "definition": "Applicability and Scope",
+  "effectiveDate": "2024-05-29",
+  "historyNote": "#10681, eff 11-3-14; ss by #13989, eff 5-29-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4701.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html",
+  "prefLabel": "Ins 4701.02 Applicability and Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4701.02 Applicability and Scope.\n\n(a) This part shall apply to all blanket and group accident and health travel insurance policies delivered or issued for delivery in this state. Blanket and group accident and health travel insurance policies that meet the provisions of this part shall not be regulated as major medical coverage as set forth under RSA 420-G.\n\n(b) Blanket and group accident and health travel insurance policies issued under Ins 4701 may be written independently or in combination with personal inland marine travel insurance coverage.\n\n(c) When a blanket and group accident and health travel insurance policy is written in combination with personal inland marine travel insurance coverage:\n\n(1) A separate property and casualty filing shall be required for review and approval of the personal inland marine travel insurance coverage;\n\n(2) The property and casualty provisions of the policy shall meet the requirements of Ins 4703; and\n\n(3) The accident and health provisions of the policy shall meet the requirements of Ins 4701.\n\nSource. #10681, eff 11-3-14; ss by #13989, eff 5-29-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html"
+}

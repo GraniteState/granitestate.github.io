@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1302.26",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Initial Loan Documents",
+  "authority": [
+    {
+      "citation": "485-F",
+      "source": "https://granitestate.github.io/rsa/485-F",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-F"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1302",
+  "definition": "Initial loan documents",
+  "effectiveDate": "2019-10-23",
+  "historyNote": "#12903, eff 10-23-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1302.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html",
+  "prefLabel": "Env-Dw 1302.26 Initial loan documents",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1302.26 “Initial loan documents” means the initial financial assistance agreement between the state and a non-governmental recipient through which the state agrees to provide loan funds approved by the commission from the DWGTF to the recipient and the recipient promises to use the funds as specified in its application as approved by the commission and to repay the funds to the DWGTF.\n\nSource. #12903, eff 10-23-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1300.html"
+}

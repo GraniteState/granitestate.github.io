@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.23",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Reporting of Information Relating to the State IDR Process",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.23 Reporting of Information Relating to the State IDR Process",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.23 Reporting of Information Relating to the State IDR Process. Within 90 business days of the end of the calendar year, each certified IDR entity shall submit an annual report to the commissioner in a format as specified by the commissioner. The report shall include, but is not limited to, the following:\n\n(a) The number of IDR cases appointed to the certified IDR entity by the commissioner during the preceding calendar year;\n\n(b) The number of such cases where the case was withdrawn after being assigned to the IDR entity;\n\n(c) The number of times during the year that the out-of-network rate determined, or agreed to, under this section has exceeded the QPA;\n\n(d) With respect to each notice of IDR initiation for which such a determination was made, the following information:\n\n(1) A description of the qualified IDR items and services included with respect to the notification, including the relevant billing and service codes and number of batched claims, if applicable;\n\n(2) The amount of the offer submitted by the health carrier or plan and by the provider or facility expressed as a dollar amount and as a percentage of the QPA;\n\n(3) Whether the offer selected by the certified IDR entity was the offer submitted by the health carrier or plan or by the provider or facility;\n\n(4) The amount of the selected offer expressed as a dollar amount and as a percentage of the QPA;\n\n(5) The practice specialty or type of each provider or facility, respectively, involved in furnishing each qualified IDR item or service;\n\n(6) The number of business days elapsed between selection of the certified IDR entity and the determination of the out-of-network rate by the certified IDR entity; and\n\n(7) The total amount of certified IDR entity fees paid to the certified IDR entity during the preceding calendar year.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

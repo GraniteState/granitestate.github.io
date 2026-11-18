@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mur",
+  "@type": "Concept",
+  "agencyCode": "Mur",
+  "definition": "Municipal Records Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mur/300",
+    "https://granitestate.github.io/rules/mur/302",
+    "https://granitestate.github.io/rules/mur/303"
+  ],
+  "notation": "Mur",
+  "prefLabel": "Mur Municipal Records Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

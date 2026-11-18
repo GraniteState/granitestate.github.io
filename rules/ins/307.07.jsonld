@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/307.07",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:12",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/307",
+  "definition": "Application of the 2012 IAR Mortality Table",
+  "effectiveDate": "2016-12-31",
+  "historyNote": "#12034, eff 12-31-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 307.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 307.07 Application of the 2012 IAR Mortality Table",
+  "recordType": "rule-section",
+  "ruleText": "Ins 307.07 Application of the 2012 IAR Mortality Table. In using the 2012 IAR Mortality Table, the mortality rate for a person age x in years (2012+n) is calculated as follows:\n\nqx2012+n = qx2012(1 - G2x)n\n\nThe resulting qx2012+n shall be rounded to three decimal places per 1,000, e.g., 0.741 deaths per 1,000. Also, the rounding shall occur according to the formula above, starting at the 2012 period table rate.\n\nFor example, for a male age 30, qx2012 = 0.741:\n\n(a) qx2013 = 0.741 * (1 - 0.010) ^ 1 = 0.73359, which is rounded to 0.734; and\n\n(b) qx2014 = 0741 * (1 - 0.010) ^ 2 = 0.7262541, which is rounded to 0.726.\n\nA method leading to incorrect rounding would be to calculate qx2014 as qx2013 * (1 - 0.010), or\n\n0.734 * 0.99 = 0.727. It is incorrect to use the already rounded qx2013 to calculate qx2014.\n\nSource. #12034, eff 12-31-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

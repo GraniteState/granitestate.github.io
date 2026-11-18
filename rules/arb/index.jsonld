@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "definition": "New Motor Vehicle Arbitration Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/arb/100",
+    "https://granitestate.github.io/rules/arb/200"
+  ],
+  "notation": "Arb",
+  "prefLabel": "Arb New Motor Vehicle Arbitration Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

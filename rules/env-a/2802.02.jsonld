@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2802.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Affected Facility",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2802",
+  "definition": "Affected facility",
+  "effectiveDate": "2018-12-22",
+  "historyNote": "#9793, eff 10-1-10; ss by #12693, eff 12-22-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2802.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2800.html",
+  "prefLabel": "Env-A 2802.02 Affected facility",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2802.02 “Affected facility” means a non-metallic mineral processing plant other than the following:\n\n(a) A facility located in an underground mine;\n\n(b) A wet material processing operation;\n\n(c) A fixed non-metallic mineral processing plant with a capacity of 25 tons per hour or less;\n\n(d) A portable non-metallic mineral processing plant with a capacity of 150 tons per hour or less; and\n\n(e) A common clay plant or pumice plant with a capacity of 10 tons per hour or less.\n\nSource. #9793, eff 10-1-10; ss by #12693, eff 12-22-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2800.html"
+}

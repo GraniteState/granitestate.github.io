@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/303.08",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:8",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:15",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/303",
+  "definition": "Failure to Appear",
+  "effectiveDate": "2018-09-13",
+  "historyNote": "#6577, eff 9-13-97 (from Bar 404.01); ss by #7555, eff 9-12-01; ss by #9315, eff 11-5-08; ss by #9997-B, eff 9-16-11; ss by #12619, eff 9-13-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 303.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 303.08 Failure to Appear",
+  "recordType": "rule-section",
+  "ruleText": "Bar 303.08 Failure to Appear.\n\n(a) If an applicant fails without just cause, such as medical emergency, death in the family, or automobile accident, to take the examination they were scheduled for, the temporary permit shall terminate as required by RSA 313-A:18.\n\n(b) Upon the expiration of a permit the applicant shall not work in that profession. The applicant shall return the temporary permit to the board and reapply in accordance with Bar 301.07(b), if he or she still wishes to be licensed.\n\nSource. #6577, eff 9-13-97 (from Bar 404.01); ss by #7555, eff 9-12-01; ss by #9315, eff 11-5-08; ss by #9997-B, eff 9-16-11; ss by #12619, eff 9-13-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

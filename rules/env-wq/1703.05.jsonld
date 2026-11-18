@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Combined Sewer Overflows",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.05 Combined Sewer Overflows",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.05 Combined Sewer Overflows.\n\n(a) An applicant for a surface water discharge permit under RSA 485-A:13 who asserts that class B criteria cannot reasonably be met at all times in the receiving water due to combined sewer overflows shall conduct a use attainability analysis (UAA) in accordance with 40 CFR §131.10 and submit the UAA to the department.\n\n(b) If, after public notice and comment, the department determines, based on the UAA and any public comments received, that the UAA supports the establishment of less stringent criteria, the department shall recommend a change in the classification of the waterbody to the legislature.\n\n(c) Exceedances of class B criteria and uses due to combined sewer overflows shall be limited to those identified in the long-term combined sewer overflow plan developed in accordance with “EPA Combined Sewer Overflow (CSO) Control Policy”, EPA 830-B-94-001, dated April, 1994, available as noted in Appendix B, after full implementation of the control measures.\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

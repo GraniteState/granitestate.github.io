@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/703.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/703",
+  "definition": "MCLs and MCLGs for Radionuclide Contaminants",
+  "effectiveDate": "2019-06-28",
+  "historyNote": "#9699, eff 5-1-10; ss by #12665, eff 1-1-19; ss by #12819, eff 6-28-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 703.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 703.01 MCLs and MCLGs for Radionuclide Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 703.01 MCLs and MCLGs for Radionuclide Contaminants.\n\n(a) For a community water system, the MCLs and MCLGs for radionuclide contaminants shall be as stated in Table 703-1, below:\n\nTable 703-1: MCLs and MCLGs for Radionuclide Contaminants\n\nRadionuclide Contaminant | MCL | MCLG\n\nCompliance Gross Alpha | 15 pCi/L | 0 pCi/L\n\nRadium 226 + 228 | 5 pCi/L | 0 pCi/L\n\nUranium | 30 μg/L | 0 μg/L\n\nBeta Particle and Photon Radioactivity | 4 mrem/year | 0 mrem/year\n\n(b) Compliance with radionuclide contaminant MCLs shall be:\n\n(1) Calculated as specified in Env-Dw 710; and\n\n(2) Based on the monitoring as specified in Env-Dw 707, Env-Dw 708, and Env-Dw 710.\n\n(c) The combined radium-226 and radium-228 value shall be determined by the addition of the results of the analysis for radium-226 and the analysis for radium-228, provided both analyses are performed on samples collected on the same day.\n\nSource. #9699, eff 5-1-10; ss by #12665, eff 1-1-19; ss by #12819, eff 6-28-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

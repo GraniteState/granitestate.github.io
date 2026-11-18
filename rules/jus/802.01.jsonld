@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/802.01",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/802",
+  "definition": "Definitions",
+  "effectiveDate": "2000-05-03",
+  "historyNote": "#7129, eff 5-3-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 802.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html",
+  "prefLabel": "Jus 802.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Jus 802.01 Definitions.\n\n(a) “Agency” means “agency” as defined by RSA 541-A:1, II, namely, “each state board, commission, department, institution, officer, or any other state official or group, other than the legislature or the courts, authorized by law to make rules or determine contested cases.”\n\n(b) “Appearance” means a written notification to the agency that a party or a party’s representative intends to actively participate in a hearing.\n\n(c) “Hearing” means “adjudicative proceeding” as defined by RSA 541-A:1, I, namely, “the procedure to be followed in contested cases, as set forth in RSA 541-A:31 through RSA 541-A:36.”\n\n(d) “Motion” means a request to the presiding officer for an order or ruling directing some act to be done in favor of the party making the motion, including a statement of justification or reasons for the request.\n\n(e) “Natural person” means a human being.\n\n(f) “Party” means “party” as defined by RSA 541-A:1, XII, namely, “each person or agency named or admitted as a party, or properly seeking and entitled as a right to be admitted as a party.” The term “party” includes all intervenors in a proceeding, subject to any limitations established pursuant to RSA 541-A:32, III.\n\n(g) “Person” means “person” as defined by RSA 541-A:1, XIII, namely, “any individual, partnership, corporation, association, governmental subdivision, or public or private organization of any character other than an agency.”\n\n(h) “Presiding officer” means presiding officer as defined in RSA 541-A:1, XIV, namely, “that individual to whom the agency has delegated the authority to preside over a proceeding, if any; otherwise it shall mean the head of the agency.”\n\n(i) “Proof by a preponderance of the evidence” means a demonstration by admissible evidence that a fact or legal conclusion is more probable than not to be true.\n\nSource. #7129, eff 5-3-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html"
+}

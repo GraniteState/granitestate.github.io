@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bfc/104.01",
+  "@type": "Concept",
+  "agencyCode": "Bfc",
+  "altLabel": "Request for Information",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bfc/104",
+  "definition": "Requests for Information",
+  "effectiveDate": "2014-03-25",
+  "historyNote": "#10553-A, eff 3-25-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bfc 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bfc100.html",
+  "prefLabel": "Bfc 104.01 Requests for Information",
+  "recordType": "rule-section",
+  "ruleText": "Bfc 104.01 Requests for Information.\n\n(a) All requests for information shall be directed in writing to the board and mailed to:\n\nBoard of Fire Control\n\nc/o Department of Safety\n\n33 Hazen Drive\n\nConcord, NH 03305.\n\nThe board’s location is at 110 Smokey Bear Boulevard, Concord, NH.\n\n(b) Public records, not otherwise declared confidential by law, may be inspected and copied at the location stated in (a) above during regular business hours.\n\n(c) Persons desiring copies of public records shall pay the actual cost of the copies, as provided in RSA 91-A:4, IV.\n\nSource. #10553-A, eff 3-25-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bfc100.html"
+}

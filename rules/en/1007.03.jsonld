@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1007.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1007",
+  "definition": "Simplified Process Screen",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1007.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1007.03 Simplified Process Screen",
+  "recordType": "rule-section",
+  "ruleText": "En 1007.03 Simplified Process Screen. The utility shall evaluate the application to ensure the equipment is certified to current standards and the utility’s EDS is able to accommodate the facility. The utility shall utilize the following screens as applicable to each facility review:\n\n(a) For certified equipment screens, the applicant-facility shall utilize an inverter certified to Supplement SB as found in UL 1741, “Standard for Inverters, Converters, Controllers with Interconnection System Equipment for Use with Distributed Energy Resources” dated 4/22/2025 as available in Appendix B;\n\n(b) For minimum load screen for interconnection of a facility to a radial distribution circuit, the facility’s export capacity, aggregated with the export capacity of all other existing DERs on a line section, shall not exceed 100 percent of the line section’s relevant minimum load as most recently measured at the substation or calculated for the line section. If the utility does not have relevant minimum load data, 25 percent of the peak feeder load shall be used instead;\n\n(c) For shared secondary screens, if the facility is to be interconnected on a single-phase shared secondary, then the aggregate generation capacity on the shared secondary, including the facility’s export capacity, shall not exceed 25 kVA;\n\n(d) For service imbalance screens, if the facility is single-phase and is to be interconnected on a transformer center tap neutral of a 240-volt service, its addition shall not create an imbalance between the 2 sides of the 240-volt service of more than 20 percent of the nameplate rating of the service transformer; and\n\n(e) For network screens for interconnection of a facility within a spot network or area network, the export capacity shall be 15 kW or less, and the aggregate nameplate rating including the facility’s nameplate rating shall not exceed one fifteenth of the spot network or area network’s relevant minimum load. Alternately, if the utility does not have minimum load data for the spot or area network, the utility shall select any of the following methods to determine anticipated minimum load:\n\n(1) Five percent of the spot network or area network’s maximum load in the previous year;\n\n(2) The utility’s estimate, if provided in writing to the applicant along with an explanation why the utility cannot calculate or measure minimum load; or\n\n(3) If there is no existing meter or the existing metering in place cannot be used to determine the minimum load, then a meter capable of recording minimum loads shall be installed at the applicant’s expense as follows:\n\na. In such cases, the utility shall install an appropriate meter to measure 3 months of continuous customer load capturing the annual minimum load. The maximum time the utility-approved monitoring equipment shall be used to measure the minimum load is 9 months from the point of the time the analysis was commenced; and\n\nb. The utility shall remove the meter at the applicant’s expense if the applicant requests its removal provided the interval meter is not required to bill the rate on which the customer shall take service when the facility is interconnected.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

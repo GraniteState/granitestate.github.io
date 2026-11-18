@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.38",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Required Health Information",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Reporting of Other Illnesses",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.37)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.38",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.38 Reporting of Other Illnesses",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.38 Reporting of Other Illnesses. When an outbreak of suspected food poisoning or other unusual prevalence of any illness occurs in which headache, muscle stiffness, general malaise, fever, diarrhea, sore throat, vomiting, or jaundice is a prominent symptom, the licensed practitioner or camp director shall immediately report the existence of such an outbreak or disease as required by He-P 300.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.37)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

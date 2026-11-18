@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/202.19",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/202",
+  "definition": "Rulemaking",
+  "effectiveDate": "2005-04-23",
+  "historyNote": "#8334-A, eff 4-23-05 (from Ed 202.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 202.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html",
+  "prefLabel": "Ed 202.19 Rulemaking",
+  "recordType": "rule-section",
+  "ruleText": "Ed 202.19 \"Rulemaking\" means the process by which the board proposes and adopts an administrative rule.\n\nSource. #8334-A, eff 4-23-05 (from Ed 202.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html"
+}

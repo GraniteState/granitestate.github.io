@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/403.02",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "153:28",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-28",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-28",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/403",
+  "definition": "Required Supporting Materials",
+  "effectiveDate": "2026-02-13",
+  "expirationDate": "2036-02-13",
+  "historyNote": "#10848, eff 7-1-15; ss by #13771, eff 12-10-23 (formerly Saf-Mec 403.04) (see Revision Note at chapter heading for Mec 400); ss by #14446, eff 2-13-26, EXPIRES: 2-13-36 (formerly Mec 403.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mec 403.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec400.html",
+  "prefLabel": "Mec 403.02 Required Supporting Materials",
+  "recordType": "rule-section",
+  "ruleText": "Mec 403.02 Required Supporting Materials. Individual applicants for renewal licensure shall provide, or arrange for the OPLC to receive, the following documents supporting their applications:\n\n(a) Proof of continuing education supporting materials for each continuing education course taken within the licensing period as described in Mec 404;\n\n(b) For fuel gas trainees’, proof of enrollment in an approved board sanctioned training program for fuel gas fitting licensure described in Mec 308; and\n\n(c) For plumbing apprentice, proof of enrollment as described in Mec 304.04(c), in a United States Department of Labor approved apprenticeship program for plumbing or apprenticeship.\n\nSource. #10848, eff 7-1-15; ss by #13771, eff 12-10-23 (formerly Saf-Mec 403.04) (see Revision Note at chapter heading for Mec 400); ss by #14446, eff 2-13-26, EXPIRES: 2-13-36 (formerly Mec 403.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec400.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1901",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "427:38",
+      "source": "https://granitestate.github.io/rsa/427/427-38",
+      "via": "appendix"
+    },
+    {
+      "citation": "427:44",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/427/427-38"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1900",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1901.01"
+  ],
+  "notation": "Agr 1901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html",
+  "prefLabel": "Agr 1901 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1901 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html"
+}

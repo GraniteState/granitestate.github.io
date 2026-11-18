@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3503",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "437:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/437/437-9",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "437-B:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/437-B/437-B-1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-9",
+    "https://granitestate.github.io/rsa/437-B/437-B-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/3500",
+  "definition": "EMERGENCY VETERINARY TREATMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/3503.01"
+  ],
+  "notation": "Agr 3503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html",
+  "prefLabel": "Agr 3503 EMERGENCY VETERINARY TREATMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 3503 EMERGENCY VETERINARY TREATMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html"
+}

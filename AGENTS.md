@@ -113,14 +113,25 @@ These are in the source copies and are not concepts in `kb/` yet:
 Election law is Title LXIII, chapters 652 through 671, including chapter 664 (political expenditures and contributions). Title IV is also named Elections and was repealed; it has a title page and no sections. Other titles are not in this build.
 
 1. Read [`rsa/index.json`](rsa/index.json) for the address scheme, the titles, and every section.
-2. A citation `RSA 659:21` is `https://granitestate.github.io/rsa/659/659-21`. Chapter letters stay uppercase (`662-A`). Section letters stay lowercase (`659:20-a` is `rsa/659/659-20-a`). The colon becomes a hyphen. The section heading on the HTML page has `id="section"`, so a later administrative-rules page can link to `https://granitestate.github.io/rsa/659/659-21.html#section`. Paragraphs keep `id="p-I"` and the rest. The reverse link, rules that implement a section, will be a list at `id="implementing-rules"` on that same page. It is not filled in yet.
+2. A citation `RSA 659:21` is `https://granitestate.github.io/rsa/659/659-21`. Chapter letters stay uppercase (`662-A`). Section letters stay lowercase (`659:20-a` is `rsa/659/659-20-a`). The colon becomes a hyphen. The section heading on the HTML page has `id="section"`, so a rule page can link to `https://granitestate.github.io/rsa/659/659-21.html#section`. Paragraphs keep `id="p-I"` and the rest. Rules that implement the section are listed at `id="implementing-rules"` on that page.
 3. Fetch the identifier plus `.jsonld`. The human page is the same path plus `.html`. GitHub Pages does not rewrite the bare identifier to either file. A chapter is the directory `rsa/659/` (`index.jsonld`). A title is `rsa/title/LXIII/`.
 4. `statuteText` is the section body. `historyNote` is the source note. `sessionLaw` parses that note into year, chapter, section, and effective date when the note prints them. A time of day stays in `effectiveText`. A clause that does not match is kept as `citation` and not filled in. `1979, 436:1` is a session law, not an RSA section, and is not a link.
 5. A link with class `cite-internal` points at a section or chapter in this build. The site does not link to the General Court. A citation whose target is not a page here stays plain text and is listed in [`rsa/UNRESOLVED_CITATIONS.md`](rsa/UNRESOLVED_CITATIONS.md). Each page names the snapshot (`NH General Court RSA HTML`, the retrieval date, and `nh-rsa-data@` the pinned commit) and links to that commit's raw HTML on `github.com/GraniteState/nh-rsa-data`.
 6. `paragraph I` is linked only when that paragraph label is in the section the sentence is in, or when the sentence names the section (`paragraph I of RSA 659:13`). The anchor is `#p-I`.
 7. `related` points at a knowledge-base concept only for the rows applied in [`rsa/KB_LINKS.md`](rsa/KB_LINKS.md). Those KB files do not point back. RSA 662:1 is the U.S. House section; the plan record says the boundaries in force come from the 2022 court order.
 
-[`rsa/GC_AUGMENTATION.md`](rsa/GC_AUGMENTATION.md) records what gc.nh.gov serves for chaptered laws and, for a later build, administrative rules.
+[`rsa/GC_AUGMENTATION.md`](rsa/GC_AUGMENTATION.md) records what gc.nh.gov serves for chaptered laws. Administrative rules are a separate build, below.
+
+## Look up an administrative rule
+
+The Office of Legislative Services compilation is snapshotted in `GraniteState/adm-rules-data`. Elec is the Electricians' Board. Election rules of the Ballot Law Commission are Bal. Secretary of State rules are not in the snapshot: sos.nh.gov returned HTTP 403. That gap is stated on the rules index.
+
+1. Read [`rules/index.json`](rules/index.json) for the agency list and the address scheme. Gaps are in [`rules/KNOWN_GAPS.md`](rules/KNOWN_GAPS.md).
+2. A rule id `Elec 101.01` is `https://granitestate.github.io/rules/elec/101.01`. The agency segment is the lowercased prefix (`saf-mec`, `he-p`, `env-wq`). The number segment drops the prefix. Chapter `Elec 100` is `rules/elec/100`. Part `Elec 101` is `rules/elec/101`. A paragraph such as Elec 404.05(b) is the section page plus `#b`.
+3. Fetch the identifier plus `.jsonld`. The human page is the same path plus `.html`. GitHub Pages does not rewrite a bare path to either file. An agency is the directory `rules/elec/` (`index.jsonld`).
+4. `ruleText` is the heading through its Source. note. `authorizedBy` lists RSA concepts the rule implements. `authority` keeps the paragraph markers and whether the citation came from an appendix, a statutory-authority line, or a parent part or chapter. An RSA id with no page in this build is plain text on the rule and a row in [`rules/UNRESOLVED_CITATIONS.md`](rules/UNRESOLVED_CITATIONS.md).
+5. An RSA section's `implementedBy` list is the inverse, and only for the implements role. A citation inside a Source. note is not authority. The HTML list is `ul#implementing-rules`.
+6. Pages link to granitestate.github.io and to `github.com/GraniteState/adm-rules-data` at the commit in [`sources/provenance.json`](sources/provenance.json). Publisher URLs are text, not links. The online compilation is not the official version under RSA 541-A.
 
 ## Rebuild
 
@@ -129,7 +140,17 @@ python3 scripts/build_kb.py
 python3 scripts/validate_kb.py
 python3 scripts/build_rsa.py --self-test
 python3 scripts/validate_rsa.py
+python3 scripts/build_rules.py --self-test
+python3 scripts/validate_rules.py
 ```
+
+Administrative rules also need a checkout of `GraniteState/adm-rules-data` at the commit in `sources/provenance.json`:
+
+```sh
+python3 scripts/build_rules.py --source /path/to/adm-rules-data
+```
+
+Run it after `build_rsa.py`. It fills `#implementing-rules` on the RSA section pages. `--prefixes Elec,Bal` writes those prefixes and leaves other rule pages in place.
 
 RSA pages also need a checkout of `GraniteState/nh-rsa-data`:
 

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2506.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:13",
+      "paragraphs": [
+        "VI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2506",
+  "definition": "Calculation of Certificates for Production of Useful Thermal Energy",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2506.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2506.05 Calculation of Certificates for Production of Useful Thermal Energy",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2506.05 Calculation of Certificates for Production of Useful Thermal Energy.\n\n(a) Sources producing useful thermal energy, the independent monitor, or the designated representative shall report to GIS the useful thermal energy produced and the amount of RECs calculated pursuant to this part, as verified by the source’s independent monitor.\n\n(b) Useful thermal energy shall be expressed and reported in megawatt-hours where each 3,412,000 Btus of useful thermal energy is equivalent to one megawatt-hour.\n\n(c) Small thermal sources shall receive certificates based on the useful thermal energy produced as metered pursuant to Puc 2506.04(e) or (f) and discounted, as applicable, by the discount for meter accuracy pursuant to (e) below or as calculated pursuant to Puc 2506.04(h), (i), or (j).\n\n(d) Large thermal sources shall receive certificates based on the useful thermal energy calculated pursuant to Puc 2506.04(e) or (f), discounted by the sum of the percentage discount for meter accuracy pursuant to (e) below and the percentage discount for operating energy or parasitic load and thermal storage losses pursuant to (f) below.\n\n(e) The discount factor for meter accuracy referenced in (c) and (d) above shall be one of the following:\n\n(1) If the meters used to measure useful thermal energy output comply with the accuracy of the European Standard EN 1434 as provided in Puc 2506.04(e)(1) or the accuracy pursuant to Puc 2506.04(f)(1), there shall be no meter accuracy discount; or\n\n(2) If the meters used to measure useful thermal energy output do not comply with the accuracy of the European Standard EN 1434 as provided in Puc 2506.04(e)(1) or the accuracy pursuant to Puc 2506.04(f)(1), the applicable meter discount shall be the manufacturer’s guaranteed accuracy of the meters used or the accuracy of the alternative method approved pursuant to Puc 2506.06.\n\n(f) The discount factor for large thermal sources for operating energy or parasitic load and thermal energy losses referenced in paragraph (d) shall be one of the following:\n\n(1) For sources using solar thermal technology, the discount factor shall be 3.0% of the useful thermal energy produced as measured pursuant to Puc 2506.04;\n\n(2) For sources using geothermal technology, the discount factor shall be 3.6% of the useful thermal energy produced as measured pursuant to Puc 2506.04; or\n\n(3) For sources using thermal biomass renewable energy technology, the discount factor shall be 2.0% of the useful thermal energy produced as measured pursuant to Puc 2506.04.\n\nSource. #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

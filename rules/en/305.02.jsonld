@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.02",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Test and Calibration of Meters",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.02 Test and Calibration of Meters",
+  "recordType": "rule-section",
+  "ruleText": "En 305.02 Test and Calibration of Meters.\n\n(a) A utility shall test all watt-hour meters at loads and adjust to tolerances as follows:\n\n(1) At full load, the meter shall register within plus or minus 1%;\n\n(2) At light load, the meter shall register within plus or minus 1%; and\n\n(3) At power factor load, the meter shall register within plus or minus 2%.\n\n(b) A utility shall test mechanical meters for creep by visual inspection of the meter’s rotor or utilizing electronic test methods.\n\n(c) If the rotor does not move with rated voltage and no load current applied to the meter, it shall be considered to have passed the test required by (b) above.\n\n(d) If movement is detected in the rotor when rated voltage and no load currents are applied to the meter, the movement shall be timed, and if the results comply with the creep test guidelines of section 4.7.2.1. of ANSI C12.1-2022 “Code for Electricity Metering,” dated 6/9/2022, available as noted in Appendix B, it shall be considered to have passed the test required by (b) above.\n\n(e) Meters which fail the creep test shall not be placed into service.\n\n(f) A utility shall test and adjust all indicating and recording demand devices as follows:\n\n(1) The utility shall verify that any indicating demand device shall reset properly to zero when placed in service or allowed to remain in service without adjustment;\n\n(2) The utility shall, in order to determine the accuracy of each mechanical indicating demand device, conduct an up-scale test, meaning a test on the upper end or at the higher values of the scale of the meter, as follows:\n\na. According to the meter manufacturer’s specifications; or\n\nb. If the meter manufacturer does not provide specifications as to conducting an up-scale test, with a test conducted at a minimum of one demand interval cycle, at a point near 1/2 scale;\n\n(3) A utility shall not place in service or allow to remain in service after inspection any mechanical indicating demand device which has an error in indication of more than plus or minus 2% in full scale registration without adjustment; and\n\n(4) Recording demand devices shall conform to the in-service requirements of ANSI C12.1-2022 “Code for Electricity Metering,” dated 6/9/2022, available as noted in Appendix B.\n\n(g) To determine the accuracy of electronic indicating demand devices, each utility shall conduct a test at a load and time interval that will result in a demand reading with resolution sufficient to determine that the reading is within plus or minus 2% of the average load applied to the meter during the test. For shipments of new self-contained single phase or network demand meter purchases, the utility shall only be required to test a sample of meters, consistent with En 305.01(e)(2), to verify the demand related programming values are correct and that demand calculations are performed correctly.\n\n(h) A utility shall test all motors used to maintain a timing cycle in a mechanical indicating demand device to insure they are running at the proper speed, where such timing cycle directly affects meter registration.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

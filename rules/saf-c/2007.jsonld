@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2007",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "259:114",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:114",
+      "source": "https://granitestate.github.io/rsa/261/261-114",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/261/261-114"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2000",
+  "definition": "TRANSPORTERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/2007.01",
+    "https://granitestate.github.io/rules/saf-c/2007.02",
+    "https://granitestate.github.io/rules/saf-c/2007.03",
+    "https://granitestate.github.io/rules/saf-c/2007.04",
+    "https://granitestate.github.io/rules/saf-c/2007.05"
+  ],
+  "notation": "Saf-C 2007",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2007 TRANSPORTERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 2007 TRANSPORTERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

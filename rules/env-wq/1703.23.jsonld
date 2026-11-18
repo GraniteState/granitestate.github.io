@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.23",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Conversion Factors for Metals",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Conversion Factors For Metals",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.23 Conversion Factors For Metals",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.23 Conversion Factors For Metals.\n\n(a) Dissolved metal shall be determined by multiplying total recoverable metal by the conversion factor listed in Table 1703-2 for that metal, shown in equation form as follows:\n\nDissolved Metal = Total Recoverable Metal x Conversion Factor\n\n(b) Total recoverable metals shall be determined by dividing dissolved metals by the conversion factor listed in Table 1703-2, shown in equation form as follows:\n\nTotal Recoverable Metal = Dissolved Metal / Conversion Factor\n\n(c) The conversion factors in Table 1703-2 shall be used as translators to go from the dissolved metals criteria listed in Table 1703-1 to permit limits expressed as total recoverable metals by dividing dissolved metal by the conversion factor.\n\n(d) If the hardness of the receiving water is different than 20 mg/L, then aquatic life criteria for hardness-dependent metals shall be calculated as follows:\n\n(1) The equations in Env-Wq 1703.24(a) and (b) shall be used in conjunction with the coefficients shown in Table 1703-3 to calculate the total recoverable metal for freshwater;\n\n(2) The equations shown in (a) and (b), above, shall be used in conjunction with the factors shown in Table 1703-2 to convert total recoverable metal to dissolved metal or dissolved metal to total recoverable metal;\n\n(3) For hardness less than 20 mg/L, a hardness of 20 mg/L shall be used in the equations; and\n\n(4) For hardness values greater than 400 mg/L, a hardness of 400 mg/L shall be used in the equations.\n\n(e) Table 1703-2 shall be as follows, provided that the conversion factors for cadmium and lead shall be no greater than 1.0:\n\nTable 1703-2: Factors to Convert Total Recoverable Metals to Dissolved Metals\n\nFRESHWATER Conversion Factors | MARINE Conversion Factors\n\nAcute | Chronic | Acute | Chronic\n\nArsenic | 1.0 | 1.0 | 1.0 | 1.0\n\nCadmium | 1.136672 - [(Ln Hardness)(0.041838)] | 1.101672 - [(Ln Hardness)(0.041838)] | 0.994 | 0.994\n\nChromium (+3) | 0.316 | 0.860 | - | -\n\nChromium (+6) | 0.982 | 0.962 | 0.993 | 0.993\n\nCopper | 0.960 | 0.960 | 0.83 | 0.83\n\nLead | 1.46203 - [(Ln Hardness)(0.145712)] | 1.46203 - [(Ln Hardness)(0.145712)] | 0.951 | 0.951\n\nMercury | 0.85 | 0.85 | 0.85 | 0.85\n\nNickel | 0.998 | 0.997 | 0.990 | 0.990\n\nSelenium | - | - | 0.998 | 0.998\n\nSilver | 0.85 | - | 0.85 | -\n\nZinc | 0.978 | 0.986 | 0.946 | 0.946\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

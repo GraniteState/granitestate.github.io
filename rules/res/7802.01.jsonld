@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/7802.01",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/7802",
+  "definition": "Statement of Purpose",
+  "effectiveDate": "2014-03-01",
+  "historyNote": "#10534, eff 3-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 7802.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7800.html",
+  "prefLabel": "Res 7802.01 Statement of Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Res 7802.01 Statement of Purpose. The purpose of these rules is to provide direction from the commissioner of the department of resources and economic development for the determination of appropriate administrative fine amounts for various violations under Res 7300, Res 7400, and Res 8500. It is also to insure, to the fullest extent practicable, that generally comparable administrative fine amounts will be assessed throughout the DRED properties.\n\nSource. #10534, eff 3-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7800.html"
+}

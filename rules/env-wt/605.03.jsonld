@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/605.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/605",
+  "definition": "Impacts Requiring Compensatory Mitigation",
+  "effectiveDate": "2023-10-13",
+  "historyNote": "#12806, eff 12-15-19; ss by #13775, eff 10-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 605.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 605.03 Impacts Requiring Compensatory Mitigation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 605.03 Impacts Requiring Compensatory Mitigation. Subject to Env-Wt 313.04, compensatory mitigation shall be required for all impacts to tidal surface waters, tidal wetlands, the tidal buffer zone, or sand dunes, or any combination thereof, that are intended to remain when the proposed project is completed.\n\nSource. #12806, eff 12-15-19; ss by #13775, eff 10-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

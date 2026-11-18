@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/204.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:33",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/204",
+  "definition": "Failure to Appear or Respond",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#14184, eff 1-24-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 204.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 204.05 Failure to Appear or Respond",
+  "recordType": "rule-section",
+  "ruleText": "Puc 204.05 Failure to Appear or Respond. If a party to a commission proceeding fails to appear at a hearing or respond when required to a commission order, the commission shall conduct the scheduled hearing or decide the contested issue without that party’s input.\n\nSource. #14184, eff 1-24-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

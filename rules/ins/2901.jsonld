@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2901",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2900",
+  "definition": "REGULATION OF COMPANIES DEEMED TO BE IN HAZARDOUS FINANCIAL CONDITION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/2901.01",
+    "https://granitestate.github.io/rules/ins/2901.02",
+    "https://granitestate.github.io/rules/ins/2901.03",
+    "https://granitestate.github.io/rules/ins/2901.04",
+    "https://granitestate.github.io/rules/ins/2901.05"
+  ],
+  "notation": "Ins 2901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2900.html",
+  "prefLabel": "Ins 2901 REGULATION OF COMPANIES DEEMED TO BE IN HAZARDOUS FINANCIAL CONDITION",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 2901 REGULATION OF COMPANIES DEEMED TO BE IN HAZARDOUS FINANCIAL CONDITION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2900.html"
+}

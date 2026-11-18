@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4005.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4005",
+  "definition": "Performance Standard Test Procedures",
+  "effectiveDate": "2008-01-09",
+  "historyNote": "#8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4005.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4005.01 Performance Standard Test Procedures",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4005.01 Performance Standard Test Procedures.\n\n(a) Each manufacturer shall test to determine compliance with Env-A 4003.02 using the following test procedures:\n\n(1) “Test Method 510, Automatic Shut-Off Test Procedure for Spill-Proof Systems and Spill-Proof Spouts,” adopted by CARB on July 6, 2000, as amended on July 26, 2006; and\n\n(2) “Test Method 511, Automatic Closure Test Procedure for Spill-Proof Systems and Spill-Proof Spouts,” adopted by CARB on July 6, 2000.\n\n(b) In addition to the test procedures specified in (a), above, each manufacturer shall test to determine compliance with Env-A 4003.01 using the following test procedures:\n\n(1) TP-502, “Test Procedure for Determining Diurnal Emissions from Portable Fuel Containers,” adopted by CARB on July 26, 2006; and\n\n(2) “Test Method 513, Determination of Permeation Rate for Spill-Proof Systems,” adopted by CARB on July 6, 2000.\n\nSource. #8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

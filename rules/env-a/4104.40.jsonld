@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4104.40",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Sealant and Caulking Compound",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4104",
+  "definition": "Sealant and caulking compound",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4104.41)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4104.40",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4104.40 Sealant and caulking compound",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4104.40 “Sealant and caulking compound” means any product with adhesive properties that is designed to fill, seal, waterproof, or weatherproof gaps or joints between 2 surfaces. The term does not include any of the following:\n\n(a) Clear, paintable, and water resistant caulking compounds;\n\n(b) Floor seam sealers;\n\n(c) Insulating foams;\n\n(d) Products designed exclusively for automotive uses;\n\n(e) Removable caulking compounds;\n\n(f) Roof cements and roof sealants;\n\n(g) Sealers applied as continuous coatings; or\n\n(h) Units of product, less packaging, that weigh more than one pound and consist of more than 16 fluid ounces.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4104.41)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

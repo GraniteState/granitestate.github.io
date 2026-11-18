@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/605",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:29-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-29-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "278",
+      "source": "https://granitestate.github.io/rsa/278",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27-a",
+    "https://granitestate.github.io/rsa/153/153-29-a",
+    "https://granitestate.github.io/rsa/278"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/600",
+  "definition": "ONGOING REQUIREMENTS FOR MECHANICAL LICENSEES, FUEL GAS TRAINEES AND PLUMBING APPRENTICES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mec/605.01",
+    "https://granitestate.github.io/rules/mec/605.02",
+    "https://granitestate.github.io/rules/mec/605.03"
+  ],
+  "notation": "Mec 605",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html",
+  "prefLabel": "Mec 605 ONGOING REQUIREMENTS FOR MECHANICAL LICENSEES, FUEL GAS TRAINEES AND PLUMBING APPRENTICES",
+  "recordType": "rule-part",
+  "ruleText": "PART Mec 605 ONGOING REQUIREMENTS FOR MECHANICAL LICENSEES, FUEL GAS TRAINEES AND PLUMBING APPRENTICES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html"
+}

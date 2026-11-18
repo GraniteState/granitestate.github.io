@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mavs",
+  "@type": "Concept",
+  "agencyCode": "Mavs",
+  "definition": "Department of Military Affairs and Veterans Services (Formerly the Adjutant General. See rulemaking authority pursuant to RSA 541-A in RSA 110-B:62 by 2021, 207:1, VII, effective 7-1-21).",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mavs/100",
+    "https://granitestate.github.io/rules/mavs/200",
+    "https://granitestate.github.io/rules/mavs/300"
+  ],
+  "notation": "Mavs",
+  "prefLabel": "Mavs Department of Military Affairs and Veterans Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

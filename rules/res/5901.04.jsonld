@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/5901.04",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "X-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "227-G:10",
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-G/227-G-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/5901",
+  "definition": "Multiple Violations",
+  "effectiveDate": "2014-03-21",
+  "historyNote": "#10547, eff 3-21-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 5901.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html",
+  "prefLabel": "Res 5901.04 Multiple Violations",
+  "recordType": "rule-section",
+  "ruleText": "Res 5901.04 Multiple Violations. Multiple violations of the same offense resulting from a single incident shall be counted as one conviction for the purpose of assessing points. Violations of separate offenses resulting from a single incident shall be counted as separate convictions for the purpose of assessing points. For the purposes of this section, single incident means violation(s) of a timber harvesting operation occurring under the same intent to cut number required by RSA 79:10, or under the same property owner within a calendar year for those timber harvesting operations not requiring an intent to cut. It shall not be considered a single incident when a subsequent violation of the same offense occurs after a previous violation for which official action has already been taken.\n\nSource. #10547, eff 3-21-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html"
+}

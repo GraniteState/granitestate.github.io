@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/1020",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "SUSPENSION FOR IN-STATE RESIDENT’S DEFAULT OR FAILURE TO PAY A FINE",
+  "authority": [
+    {
+      "citation": "263:56-a",
+      "source": "https://granitestate.github.io/rsa/263/263-56-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/263/263-56-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/1000",
+  "definition": "SUSPENSION FOR IN-STATE RESIDENT'S DEFAULT OR FAILURE TO PAY A FINE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/1020.01",
+    "https://granitestate.github.io/rules/saf-c/1020.02",
+    "https://granitestate.github.io/rules/saf-c/1020.03",
+    "https://granitestate.github.io/rules/saf-c/1020.04"
+  ],
+  "notation": "Saf-C 1020",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1000.html",
+  "prefLabel": "Saf-C 1020 SUSPENSION FOR IN-STATE RESIDENT'S DEFAULT OR FAILURE TO PAY A FINE",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 1020 SUSPENSION FOR IN-STATE RESIDENT'S DEFAULT OR FAILURE TO PAY A FINE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1000.html"
+}

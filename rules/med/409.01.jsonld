@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/409.01",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "329:9",
+      "paragraphs": [
+        "VI",
+        "XV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:17",
+      "source": "https://granitestate.github.io/rsa/329/329-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329/329-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/409",
+  "definition": "Suspension Pending Completion of Disciplinary Proceedings",
+  "effectiveDate": "2020-01-10",
+  "historyNote": "(See Revision Note #1 at chapter heading for Med 500) #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 409.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 409.01 Suspension Pending Completion of Disciplinary Proceedings",
+  "recordType": "rule-section",
+  "ruleText": "Med 409.01 Suspension Pending Completion of Disciplinary Proceedings.\n\n(a) When the board receives information indicating that a licensee has engaged in or is likely to engage in professional conduct which poses an immediate danger to life or health, the board shall issue an order pursuant to RSA 329:18-b which sets forth the alleged misconduct and immediately suspends the license for up to 120 days pending completion of an adjudicatory proceeding on the specified issues, which hearing shall be commenced within 10 days.\n\n(b) No hearing date established in a disciplinary proceeding commenced under Med 409.01(a) shall be postponed at the request of the licensee unless the licensee also agrees to continue the suspension period pending issuance of the board's final decision.\n\n(c) To effectuate (b) above, the licensee may sign a preliminary agreement not to practice as proposed by hearing counsel which shall include the following stipulations:\n\n(1) The licensee recognizes that professional misconduct allegations are now pending against the licensee before the board; and\n\n(2) The licensee agrees that during the pendency of the investigation and until the board issues a further order, the licensee will not:\n\na. practice medicine;\n\nb. treat or see patients; or\n\nc. write prescriptions.\n\nSource. (See Revision Note #1 at chapter heading for Med 500) #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

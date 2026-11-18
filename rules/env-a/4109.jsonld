@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4109",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "INNOVATIVE PRODUCTS, ALTERNATIVE COMPLIANCE PLANS",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4100",
+  "definition": "INNOVATIVE PRODUCTS; ALTERNATIVE COMPLIANCE PLANS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4109.01",
+    "https://granitestate.github.io/rules/env-a/4109.02",
+    "https://granitestate.github.io/rules/env-a/4109.03"
+  ],
+  "notation": "Env-A 4109",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4109 INNOVATIVE PRODUCTS; ALTERNATIVE COMPLIANCE PLANS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4109 INNOVATIVE PRODUCTS; ALTERNATIVE COMPLIANCE PLANS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

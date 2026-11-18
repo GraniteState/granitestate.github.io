@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/303",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "153:36",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/300",
+  "definition": "EXCEPTIONS & NOTIFICATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-mec/303.01",
+    "https://granitestate.github.io/rules/saf-mec/303.02",
+    "https://granitestate.github.io/rules/saf-mec/303.03",
+    "https://granitestate.github.io/rules/saf-mec/303.04",
+    "https://granitestate.github.io/rules/saf-mec/303.05",
+    "https://granitestate.github.io/rules/saf-mec/303.06",
+    "https://granitestate.github.io/rules/saf-mec/303.07",
+    "https://granitestate.github.io/rules/saf-mec/303.08",
+    "https://granitestate.github.io/rules/saf-mec/303.09",
+    "https://granitestate.github.io/rules/saf-mec/303.10"
+  ],
+  "notation": "Saf-Mec 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec300.html",
+  "prefLabel": "Saf-Mec 303 EXCEPTIONS & NOTIFICATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-Mec 303 EXCEPTIONS & NOTIFICATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec300.html"
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2004.09",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2004",
+  "definition": "Customer Authorization Required for Aggregators Granted Agency Authority",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2004.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc.html",
+  "prefLabel": "Puc 2004.09 Customer Authorization Required for Aggregators Granted Agency Authority",
+  "recordType": "rule-section",
+  "ruleText": "Section Puc 2004.09 Customer Authorization Required for Aggregators Granted Agency Authority",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc.html"
+}

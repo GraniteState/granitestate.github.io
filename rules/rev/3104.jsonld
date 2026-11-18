@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3104",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "77:44",
+      "via": "appendix"
+    },
+    {
+      "citation": "77:48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3100",
+  "definition": "INTEREST AND PENALTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/3104.01",
+    "https://granitestate.github.io/rules/rev/3104.02"
+  ],
+  "notation": "Rev 3104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html",
+  "prefLabel": "Rev 3104 INTEREST AND PENALTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 3104 INTEREST AND PENALTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html"
+}

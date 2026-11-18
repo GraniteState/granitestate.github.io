@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.14",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Data Presentation: Reporting Detection Levels and Ranges; Rounding",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.14 Data Presentation: Reporting Detection Levels and Ranges; Rounding",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.14 Data Presentation: Reporting Detection Levels and Ranges; Rounding.\n\n(a) For contaminants subject to an MCL other than turbidity and total coliforms, the highest contaminant level used to determine compliance with Env-Dw 702 and Env-Dw 706 and the range of detected levels shall be calculated as follows:\n\n(1) When compliance with the MCL is determined annually or less than annually, the CCR shall identify the highest detected level at any sampling point and the range of detected levels expressed in the same units as the MCL;\n\n(2) When compliance with the MCL is determined by calculating a running annual average of all samples taken at a sampling point, the CCR shall identify the highest average of any of the sampling points and the range of all sampling points expressed in the same units as the MCL; and\n\n(3) When compliance with the MCL is determined on a system-wide basis by calculating a running annual average of all samples at all sampling points, the CCR shall identify the average and range of detection expressed in the same units as the MCL.\n\n(b) For the MCLs for TTHM and HAA5 in Env-Dw 715, the O/O shall include:\n\n(1) The highest locational running annual average for TTHM and HAA5 and the range of individual sample results for all monitoring locations expressed in the same units as the MCL. If more than one location exceeds the TTHM or HAA5 MCL, the system must include the locational running annual averages for all locations that exceed the MCL; and\n\n(2) Individual sample results for the IDSE conducted under Env-Dw 715.10 when determining the range of TTHM and HAA5 results to be reported for the calendar year that the IDSE samples were taken.\n\n(c) When rounding results to determine compliance with an MCL is allowed by rule, rounding shall be calculated prior to multiplying the results by the factor listed in Env-Dw 811.25, table 811-2.\n\n(d) The CCR shall identify the AL or MCL applicable to that contaminant, expressed as a number equal to or greater than 1.0.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

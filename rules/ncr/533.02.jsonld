@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/533.02",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-J:15",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-J/227-J-15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-J/227-J-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/533",
+  "definition": "Scale Slip",
+  "effectiveDate": "2025-12-06",
+  "expirationDate": "2035-12-06",
+  "historyNote": "#14243, INTERIM, eff 4-23-25; ss by #14452 (formerly Ncr 5303.02), eff 12-6-25, EXPIRES 12-6-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 533.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html",
+  "prefLabel": "Ncr 533.02 Scale Slip",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 533.02 Scale Slip. A scale slip shall contain the following information:\n\n(a) Species of wood product;\n\n(b) Board footage of each individual log when standard unit of measurement is per thousand board feet or tonnage or cordage when not sold on a per thousand board feet basis;\n\n(c) Gross scale, defect, and net scale;\n\n(d) Date wood was measured; and\n\n(e) Name of party scaling the wood.\n\nSource. #14243, INTERIM, eff 4-23-25; ss by #14452 (formerly Ncr 5303.02), eff 12-6-25, EXPIRES 12-6-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html"
+}

@@ -1,0 +1,75 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5916",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5900",
+  "definition": "EDUCATIONAL INSTITUTIONS AND TRAINING AGENCIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/5916.01",
+    "https://granitestate.github.io/rules/saf-c/5916.02",
+    "https://granitestate.github.io/rules/saf-c/5916.03",
+    "https://granitestate.github.io/rules/saf-c/5916.04",
+    "https://granitestate.github.io/rules/saf-c/5916.05",
+    "https://granitestate.github.io/rules/saf-c/5916.06",
+    "https://granitestate.github.io/rules/saf-c/5916.07",
+    "https://granitestate.github.io/rules/saf-c/5916.08",
+    "https://granitestate.github.io/rules/saf-c/5916.09",
+    "https://granitestate.github.io/rules/saf-c/5916.10",
+    "https://granitestate.github.io/rules/saf-c/5916.11",
+    "https://granitestate.github.io/rules/saf-c/5916.12",
+    "https://granitestate.github.io/rules/saf-c/5917.01",
+    "https://granitestate.github.io/rules/saf-c/5917.02",
+    "https://granitestate.github.io/rules/saf-c/5917.03",
+    "https://granitestate.github.io/rules/saf-c/5917.04",
+    "https://granitestate.github.io/rules/saf-c/5917.05",
+    "https://granitestate.github.io/rules/saf-c/5917.06",
+    "https://granitestate.github.io/rules/saf-c/5917.07",
+    "https://granitestate.github.io/rules/saf-c/5917.08",
+    "https://granitestate.github.io/rules/saf-c/5917.09",
+    "https://granitestate.github.io/rules/saf-c/5917.10",
+    "https://granitestate.github.io/rules/saf-c/5917.11",
+    "https://granitestate.github.io/rules/saf-c/5917.12",
+    "https://granitestate.github.io/rules/saf-c/5917.13",
+    "https://granitestate.github.io/rules/saf-c/5917.14",
+    "https://granitestate.github.io/rules/saf-c/5917.15",
+    "https://granitestate.github.io/rules/saf-c/5917.16",
+    "https://granitestate.github.io/rules/saf-c/5917.17",
+    "https://granitestate.github.io/rules/saf-c/5917.18"
+  ],
+  "notation": "Saf-C 5916",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5916 EDUCATIONAL INSTITUTIONS AND TRAINING AGENCIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 5916 EDUCATIONAL INSTITUTIONS AND TRAINING AGENCIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

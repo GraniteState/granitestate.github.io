@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4202.04 Required Data Elements for Submissions Made Pursuant to Ins 4202.03</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4202.04.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4200.html">Ins 4200</a> / <a href="/rules/ins/4202.html">Ins 4202</a> / Ins 4202.04</nav>
+  <header>
+    <h1 id="section">Ins 4202.04 Required Data Elements for Submissions Made Pursuant to Ins 4202.03</h1>
+    <p>Effective 2010-11-01.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4202.04.html">Ins 4202.04</a> Required Data Elements for Submissions Made Pursuant to Ins 4202.03.
+
+Hospitals and community health centers shall submit header and trailer records and uninsured patient encounter data set records using the following specifications in submitting their healthcare uninsured patient encounter data set:
+
+<span id="a">(a)</span> The file header record layout shall be submitted using the following data elements:
+
+<span id="1">(1)</span> HD001. This element is named &quot;record type&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as “HD”;
+
+<span id="2">(2)</span> HD002. This element is named &quot;type of file&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as “UP”;
+
+<span id="3">(3)</span> HD003. This element is named &quot;period beginning date&quot;. The data type of this element is integer. Its length is 6. Hospitals and community health centers shall code according to CCYYMM;
+
+<span id="4">(4)</span> HD004. This element is named &quot;period ending date&quot;. The data type of this element is integer. Its length is 6. Hospitals and community health centers shall code according to CCYYMM;
+
+<span id="5">(5)</span> HD005. This element is named &quot;record count&quot;. The data type of this element is integer. Its length is 10. Hospitals and community health centers shall code according to total number of records submitted in this file, with the header and trailer record excluded from the count; and
+
+<span id="6">(6)</span> HD006. This element is named &quot;comments&quot;. The data type of this element is text. Its length is 80. Hospitals and community health centers shall code according to their own option.
+
+<span id="b">(b)</span> The file header record layout shall conform to the following:
+
+Table 4200.1 File Header Record Layout
+
+Data Element # | Element | Type | Maximum Length | Description/Codes/Sources
+
+HD001 | Record Type | Text | 2 | HD
+
+HD002 | Type of File | Text | 2 | UP
+
+HD003 | Period Beginning Date | Integer | 6 | CCYYMM
+
+HD004 | Period Ending Date | Integer | 6 | CCYYMM
+
+HD005 | Record Count | Integer | 10 | Total number of records submitted in this file
+
+HD006 | Comments | Text | 80 | Submitter may use this code according to their own option
+
+<span id="c">(c)</span> The trailer header record layout shall be submitted using the following data elements:
+
+(1) TR001. This element is named &quot;record type&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as “TR”;
+
+(2) TR002. This element is named &quot;type of file&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as “UP”;
+
+(3) TR003. This element is named &quot;period beginning date&quot;. The data type of this element is integer. Its length is 6. Hospitals and community health centers shall code according to CCYYMM, beginning of period for services, beginning of month of first service;
+
+(4) TR004. This element is named &quot;period ending date&quot;. The data type of this element is integer. Its length is 6. Hospitals and community health centers shall code according to CCYYMM, end of period for services; and
+
+(5) TR005. This element is named &quot;date processed&quot;. The data type of this element is date. Its length is 8. Hospitals and community health centers shall code according to CCYYMMDD, the date the file was created.
+
+<span id="d">(d)</span> The trailer record layout shall conform to the following:
+
+Table 4200.2 Trailer Record Layout
+
+Data Element # | Element | Type | Maximum Length | Description/Codes/Sources
+
+TR001 | Record Type | Text | 2 | TR
+
+TR002 | Type of File | Text | 2 | UP
+
+TR003 | Period Beginning Date | Integer | 6 | CCYYMM
+
+TR004 | Period Ending Date | Integer | 6 | CCYYMM
+
+TR005 | Date Processed | Date | 8 | CCYYMMDD
+
+<span id="e">(e)</span> The uninsured patient encounter data set record layout shall be submitted using the following general specifications:
+
+(1) Filled Fields. All fields shall be filled where applicable. Non-applicable text and date fields shall be set to null. Non-applicable integer and decimal fields shall be filled with one zero and shall not include decimal points;
+
+(2) Position. All text fields shall be left justified. All integer and decimal fields shall be right justified; and
+
+(3) Signs. All signs (+ or -) shall appear in the left-most position of all integer and decimal fields. Over-punched signed integers or decimals shall not be utilized.
+
+<span id="f">(f)</span> The uninsured patient encounter data set shall be submitted using the following data elements for each service provided during a unique encounter (multiple lines per encounter as needed to describe all services provided during the encounter).
+
+(1) UP001. This element is named &quot;record type&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as “UP”;
+
+(2) UP002. This element is named &quot;insurance type&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as code “12”, uninsured;
+
+(3) UP003. This element is named &quot;encrypted patient last name&quot;. The data type of this element is text. Its length is 128;
+
+(4) UP004. This element is named &quot;encrypted patient first name&quot;. The data type of this element is text. Its length is 128;
+
+(5) UP005. This element is named &quot;encrypted patient middle initial&quot;. The data type of this element is text. Its length is 1;
+
+(6) UP006. This element is named &quot;unique member identification code&quot;. The data type of this element is text. Its length is 100. This element shall be assigned by each hospital and community health center and shall remain for each person for the entire period of service for that individual;
+
+<span id="7">(7)</span> UP007. This element is named &quot;medical record number&quot;. The data type of this element is text. Its length is 100. Hospitals and community health centers shall code according to the medical record number;
+
+<span id="8">(8)</span> UP008. This element is named &quot;gender&quot;. The data type of this element is text. Its length is one. Hospitals and community health centers shall code according to:
+
+a. M = Male;
+
+b. F = Female; and
+
+c. U = Unknown.
+
+<span id="9">(9)</span> UP009. This element is named &quot;uninsured person year and month of birth&quot;. The data type of this element is text. Its length is 6. Hospitals and community health centers shall code according to CCYYMM;
+
+<span id="10">(10)</span> UP010. This element is named &quot;uninsured person city name&quot;. The data type of this element is text. Its length is 30. Hospitals and community health centers shall code according to the city location of the member;
+
+<span id="11">(11)</span> UP011. This element is named &quot;uninsured person state or province&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as defined by the U.S. Postal Service;
+
+<span id="12">(12)</span> UP012. This element is named &quot;uninsured person zip code&quot;. The data type of this element is text. Its length is 11. Hospitals and community health centers shall code according to ZIP code of member, which may include non-US codes. Hospitals and community health centers shall not include the dash in the coding;
+
+<span id="13">(13)</span> UP013. This element is named &quot;Race 1&quot;. The data type of this element is text. Its length is 20. Coding for this element shall:
+
+a. Be based on the hospital&#x27;s code; or
+
+b. Be based on the community health center&#x27;s code; and
+
+c. The coding sourcebooks shall be submitted.
+
+d. Hospitals and community health centers may alternatively code as follows:
+
+1. R1 = American Indian/Alaskan Native;
+
+2. R2 = Asian;
+
+3. R3 = Black/African American;
+
+4. R4 = Native Hawaiian or other Pacific Islander;
+
+5. R5 = White;
+
+6. R7 = Refused/declined to provide;
+
+7. R8 = Unknown; and
+
+8. R9 = Other Race.
+
+<span id="14">(14)</span> UP014. This element is named &quot;Race 2&quot;. The data type of this element is text. Its length is 20. Hospitals and community health centers shall code in the same manner as UP013;
+
+<span id="15">(15)</span> UP015. This element is named &quot;Hispanic indicator&quot;. The data type of this element is text. Its length is one. Hospitals and community health centers shall code according to:
+
+a. Y = Yes Patient is Hispanic/Latino/Spanish
+
+b. N = No Patient is not Hispanic/Latino/Spanish; and
+
+c. U = Unknown.
+
+<span id="16">(16)</span> UP016. This element is named &quot;date service received&quot;. The data type of this element is date. Its length is 8. Hospitals and community health centers shall code according to CCYYMMDD. The date service is received shall be the unique encounter date;
+
+<span id="17">(17)</span> UP017. This element is named &quot;service provider tax ID number&quot;. The data type of this element is text. Its length is 10. Hospitals and community health centers shall code using the federal taxpayer&#x27;s identification number;
+
+<span id="18">(18)</span> UP018. This element is named &quot;national service provider ID&quot;. The data type of this element is text. Its length is 20. Hospitals and community health centers shall code using the appropriate federal national provider identification number;
+
+<span id="19">(19)</span> UP019. This element is named &quot;service provider location name&quot;. The data type of this element is text. Its length is 100. Hospitals and community health centers shall code according to the service provider location that is used to identify the service provider;
+
+<span id="20">(20)</span> UP020. This element is named &quot;service provider street address&quot;. The data type of this element is text. Its length is 100. Hospitals and community health centers shall code using the service provider&#x27;s street address;
+
+<span id="21">(21)</span> UP021. This element is named &quot;service provider city name&quot;. The data type of this element is text. Its length is 128. Hospitals and community health centers shall code according to the street address of the rendering provider and the practice location;
+
+<span id="22">(22)</span> UP022. This element is named &quot;service provider state&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code as defined by the US Postal Service;
+
+<span id="23">(23)</span> UP023. This element is named &quot;service provider ZIP Code&quot;. The data type of this element is text. Its length is 11. Hospitals and community health centers shall code according to ZIP code of provider, which may include non-US codes. Hospitals and community health centers shall not use the dash in coding;
+
+<span id="24">(24)</span> UP024. This element is named &quot;service provider organization name&quot;. The data type of this element is text. Its length is 100. Hospitals and community health centers shall code using the full name of the provider organization;
+
+<span id="25">(25)</span> UP025. This element is named &quot;service healthcare provider specialty&quot;. The data type of this element is text. Its length is 10. Hospitals and community health centers shall code for the specialty for the healthcare service provider;
+
+<span id="26">(26)</span> UP026. This element is named &quot;facility type professional&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code facility type according to the Medicare Claims Processing Manual Form, CMS-1500 data set;
+
+Table 4200.3 Facility Type
+
+Code | Facility
+
+18 | Unassigned
+
+19 | Unassigned
+
+20 | Urgent Care Facility Location, distinct from a hospital emergency room, an office, or a clinic, whose purpose is to diagnose and treat illness or injury for unscheduled, ambulatory patients seeking immediate medical attention
+
+21 | Inpatient Hospital A facility, other than psychiatric, which primarily provides diagnostic; therapeutic (both surgical and nonsurgical), and rehabilitation services by, or under, the supervision of physicians to patients admitted for a variety of medical conditions.
+
+22 | Outpatient Hospital A portion of a hospital which provides diagnostic, therapeutic (both surgical and nonsurgical), and rehabilitation services to sick or injured persons who do not require hospitalization or institutionalization
+
+23 | Emergency Room - Hospital A portion of a hospital where emergency diagnosis and treatment of illness or injury is provided
+
+24 | Ambulatory Surgical Center A freestanding facility, other than a physician&#x27;s office, where surgical and diagnostic services are provided on an ambulatory basis
+
+25 | Birthing Center A facility, other than a hospital&#x27;s maternity facilities or a physician&#x27;s office, which provides a setting for labor, delivery, and immediate postpartum care as well as immediate care of newborn infants
+
+26 | Military Treatment Facility A medical facility operated by one or more of the Uniformed Services, Military Treatment Facility (MTF) also refers to certain former U.S. Public Health Service (USPHS) facilities now designated as Uniformed Service Treatment Facilities (USTF)
+
+27 | Unassigned
+
+28 | Unassigned
+
+29 | Unassigned
+
+30 | Unassigned
+
+31 | Skilled Nursing Facility A facility which primarily provides inpatient skilled nursing care and related services to patients who require medical, nursing, or rehabilitative services but does not provide the level of care or treatment available in a hospital
+
+32 | Nursing Facility A facility which primarily provides to residents skilled nursing care and related services for the rehabilitation of injured, disabled, or sick persons, or, on a regular basis, health-related care services above the level of custodial care to other than mentally retarded individuals
+
+33 | Custodial Care Facility A facility which provides room, board and other personal assistance services, generally on a long-term basis, and which does not include a medical component
+
+34 | Hospice A facility, other than a patient&#x27;s home, in which palliative and supportive care for terminally ill patients and their families are provided
+
+35 | Unassigned
+
+36 | Unassigned
+
+37 | Unassigned
+
+38 | Unassigned
+
+39 | Unassigned
+
+40 | Unassigned
+
+41 | Ambulance - Land A land vehicle specifically designed, equipped and staffed for lifesaving and transporting the sick or injured
+
+42 | Ambulance - Air or Water An air or water vehicle specifically designed, equipped and staffed for lifesaving and transporting the sick or injured
+
+43 | Unassigned
+
+44 | Unassigned
+
+45 | Unassigned
+
+46 | Unassigned
+
+47 | Unassigned
+
+48 | Unassigned
+
+49 | Independent Clinic A location, not part of a hospital and not described by any other Place of Service code, that is organized and operated to provide preventive, diagnostic, therapeutic, rehabilitative, or palliative services to outpatients only
+
+50 | Federally Qualified Health Center A facility located in a medically underserved area that provides Medicare beneficiaries preventive primary medical care under the general direction of a physician
+
+51 | Inpatient Psychiatric Facility A facility that provides inpatient psychiatric services for the diagnosis and treatment of mental illness on a 24-hour basis, by or under the supervision of a physician
+
+52 | Psychiatric Facility-Partial Hospitalization A facility for the diagnosis and treatment of mental illness that provides a planned therapeutic program for patients who do not require full time hospitalization, but who need broader programs than are possible from outpatient visits to a hospital-based or hospital-affiliated facility
+
+53 | Community Mental Health Center A facility that provides the following services: outpatient services, including specialized outpatient services for children, the elderly, individuals who are chronically ill, and residents of the CMHC&#x27;s mental health services area who have been discharged from inpatient treatment at a mental health facility; 24 hour a day emergency care services; day treatment, other partial hospitalization services, or psychosocial rehabilitation services, screening for patients being considered for admission to State mental health facilities to determine the appropriateness of such admission; and consultation and education services
+
+54 | Intermediate Care Facility/Mentally Retarded A facility which primarily provides health-related care and services above the level of custodial care to mentally retarded individuals but does not provide the level of care or treatment available in a hospital or SNF
+
+55 | Residential Substance Abuse Treatment Facility A facility which provides treatment for substance (alcohol and drug) abuse to live-in residents who do not require acute medical care. Services include individual and group therapy and counseling, family counseling, laboratory tests, drugs and supplies, psychological testing, and room and board
+
+56 | Psychiatric Residential Treatment Center A facility or distinct part of a facility for psychiatric care which provides a total 24-hour therapeutically planned and professional staffed group living and learning environment
+
+57 | Non-residential Substance Abuse Treatment Facility A location which provides treatment for substance (alcohol and drug) abuse on an ambulatory basis. Services include individual and group therapy and counseling, family counseling, laboratory tests, drugs and supplies, and psychological testing
+
+58 | Unassigned
+
+59 | Unassigned
+
+60 | Mass Immunization Center A location where providers administer pneumococcal pneumonia and influenza virus vaccinations and submit these services as electronic media claims, paper claims, or using the roster billing method. This generally takes place in a mass immunization setting such as, a public health center, pharmacy, or mall but may include a physician office setting
+
+61 | Comprehensive Inpatient Rehabilitation Facility A facility that provides comprehensive rehabilitation services under the supervision of a physician to inpatients with physical disabilities. Services include physical therapy, occupational therapy, speech pathology, social or psychological services, and orthotics and prosthetics services
+
+62 | Comprehensive Outpatient Rehabilitation Facility A facility that provides comprehensive rehabilitation services under the supervision of a physician to outpatients with physical disabilities. Services include physical therapy, occupational therapy, and speech pathology services
+
+63 | Unassigned
+
+64 | Unassigned
+
+65 | End-State Renal Disease Treatment Facility A facility other than a hospital, which provides dialysis treatment, maintenance, and/or training to patients or caregivers on an ambulatory or home-care basis
+
+66 | Unassigned
+
+67 | Unassigned
+
+68 | Unassigned
+
+69 | Unassigned
+
+70 | Unassigned
+
+71 | State or Local Public Health Clinic A facility maintained by either State of local health departments that provides ambulatory primary medical care under the general direction of a physician
+
+72 | Rural Health Clinic A certified facility which is located in a rural medically underserved area that provides ambulatory primary medical care under the general direction of a physician
+
+73 | Unassigned
+
+74 | Unassigned
+
+75 | Unassigned
+
+76 | Unassigned
+
+77 | Unassigned
+
+78 | Unassigned
+
+79 | Unassigned
+
+80 | Unassigned
+
+81 | Independent Laboratory A laboratory certified to perform diagnostic and/or clinical tests independent of an institution or a physician&#x27;s office
+
+82 | Unassigned
+
+83 | Unassigned
+
+84 | Unassigned
+
+85 | Unassigned
+
+86 | Unassigned
+
+87 | Unassigned
+
+88 | Unassigned
+
+89 | Unassigned
+
+90 | Unassigned
+
+91 | Unassigned
+
+92 | Unassigned
+
+93 | Unassigned
+
+94 | Unassigned
+
+<span id="27">(27)</span> UP027. This element is named &quot;E-code&quot;. The data type of this element is text. Its length is 5. Where known, hospitals and community health centers shall use this code to describe an injury, poisoning or adverse effect, ICD-9-CM without coding decimal points;
+
+<span id="28">(28)</span> UP028. This element is named &quot;principal diagnosis&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code the principal diagnosis given on the claim header using ICD-9-CM without coding decimal points;
+
+<span id="29">(29)</span> UP029. This element is named &quot;other diagnosis – 1&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code using ICD-9-CM without coding decimal points;
+
+<span id="30">(30)</span> UP030. This element is named &quot;other diagnosis – 2&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code using ICD-9-CM without coding decimal points;
+
+<span id="31">(31)</span> UP031. This element is named &quot;other diagnosis – 3&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code using ICD-9-CM without coding decimal points;
+
+<span id="32">(32)</span> UP032. This element is named &quot;other diagnosis – 4&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code using ICD-9-CM without coding decimal points;
+
+<span id="33">(33)</span> UP033. This element is named &quot;other diagnosis – 5&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code using ICD-9-CM without coding decimal points;
+
+<span id="34">(34)</span> UP034. This element is named &quot;revenue code&quot;. The data type of this element is text. Its length is 4. For services rendered in facilities using national uniform billing committee codes hospitals and community health centers shall code using leading zeroes, left-justified, and four digits;
+
+<span id="35">(35)</span> UP035. This element is named &quot;procedure code&quot;. The data type of this element is text. Its length is 5. Hospitals and community health centers shall code according to the Health Care Common Procedural Coding System (HCPCS). This includes the CPT codes of the American Medical Association. When the hospital and community health center utilizes a local code system for procedure codes, a reference table shall be submitted;
+
+<span id="36">(36)</span> UP036. This element is named &quot;procedure modifier – 1&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code using a procedure modifier when a modifier clarifies or improves the reporting accuracy of the associated procedure code. When the hospital and community health center utilizes a local code system for procedure codes, a reference table shall be submitted;
+
+<span id="37">(37)</span> UP037. This element is named &quot;procedure modifier – 2&quot;. The data type of this element is text. Its length is 2. Hospitals and community health centers shall code using a procedure modifier required when a modifier clarifies or improves the reporting accuracy of the associated procedure code. When the hospital and community health center utilizes a local code system for procedure codes, a reference table shall be submitted;
+
+<span id="38">(38)</span> UP038. This element is named &quot;quantity&quot;. The data type of this element is integer. Its length is 3. Hospitals and community health centers shall code according to the count of services performed, which shall be set equal to one on all observation bed service lines and should be set equal to zero on all other room and board service lines, regardless of the length of stay;
+
+<span id="39">(39)</span> UP039. This element is named &quot;charge amount&quot;. The data type of this element is decimal. Its length is 10. Hospitals and community health centers shall code according to the charge prior to any uninsured discounts without coding decimal points;
+
+<span id="40">(40)</span> UP040. This element is named &quot;paid amount&quot;. The data type of this element is decimal. Its length is 10. This element includes all payments made by the uninsured person during the calendar year reported in the data set;
+
+<span id="41">(41)</span> UP041. This element is named &quot;record type&quot;. The data type of this element is text. Its length is 2. Its value is literally &quot;UP&quot;; and
+
+<span id="42">(42)</span> UP042. This element is named &quot;uninsured identification code&quot;. The data type of this element is text. Its length is 128. Hospitals and community health centers shall code according to the encrypted uninsured person social security number if available.
+
+<span id="g">(g)</span> The uninsured patient encounter data elements shall conform to the following:
+
+Table 4200.4 Data Elements
+
+Data Element # | Data Element Name | Type | Maximum Length | Description/Codes/Sources
+
+UP001 | Record Type | Text | 2 | UP
+
+UP002 | Insurance Type | Text | 2 | &quot;12&quot; Uninsured
+
+UP003 | Encrypted Patient Last Name | Text | 128 | Encrypted patient last name
+
+UP004 | Encrypted Patient First Name | Text | 128 | Encrypted patient first name
+
+UP005 | Encrypted Patient Middle Initial | Text | 1 | Encrypted patient middle initial
+
+UP006 | Unique Member Identification Code | Text | 100 | Unique member identification code
+
+UP007 | Medical Record Number | Text | 100 | Medical record number
+
+UP008 | Gender | Text | 1 | M = Male F = Female U = Unknown
+
+UP009 | Uninsured Person Year &amp; Month of Birth | Text | 6 | CCYYMM
+
+UP010 | Uninsured Person City Name | Text | 30 | City location
+
+UP011 | Uninsured Person State or Province | Text | 2 | US Postal Service code
+
+UP012 | Uninsured Person Zip Code | Text | 11 | ZIP Code
+
+UP013 | Race 1 | Text | 20 | Based on respective codes; or: R1 = American Indian/Alaskan Native R2 = Asian R3 = Black/African American R4 = Native Hawaiian or other Pacific Islander R5 = White R7 = Refused/declined to provide R8 = Unknown R9 = Other Race
+
+UP014 | Race 2 | Text | 20 | Same codes as UP013
+
+UP015 | Hispanic Indicator | Text | 1 | Y = Yes Patient is Hispanic/Latino/Spanish N = No Patient is not Hispanic/Latino/Spanish U = Unknown
+
+UP016 | Date Service Received | Date | 8 | CCYYMMDD
+
+UP017 | Service Provider Tax ID Number | Text | 10 | Federal taxpayer ID number
+
+UP018 | National Service Provider ID | Text | 20 | Federal national provider ID number
+
+UP019 | Service Provider Location Name | Text | 100
+
+UP020 | Service Provider Street Address | Text | 100 | Street address
+
+UP021 | Service Provider City Name | Text | 128
+
+UP022 | Service Provider State | Text | 2 | US Postal Service Code
+
+UP023 | Service Provider ZIP Code | Text | 11
+
+UP024 | Service Provider Organization Name | Text | 100
+
+UP025 | Service Healthcare Provider Specialty | Text | 10 | Specialty Code
+
+UP026 | Facility Type Professional | Text | 2 | CMS-1500 Data Set (Table 4100.3 Facility Type)
+
+UP027 | E-code | Text | 5 | ICD-9-CM
+
+UP028 | Principal Diagnosis | Text | 6 | ICD-9-CM
+
+UP029 | Other Diagnosis - 1 | Text | 5 | ICD-9-CM
+
+UP030 | Other Diagnosis - 2 | Text | 5 | ICD-9-CM
+
+UP031 | Other Diagnosis - 3 | Text | 5 | ICD-9-CM
+
+UP032 | Other Diagnosis - 4 | Text | 5 | ICD-9-CM
+
+UP033 | Other Diagnosis - 5 | Text | 5 | ICD-9-CM
+
+UP034 | Revenue Code | Text | 4 | National uniform billing committee codes
+
+UP035 | Procedure Code | Text | 5 | Health Care Common Procedural Coding System (HCPCS); CPT Codes - American Medical Association
+
+UP036 | Procedure Modifier - 1 | Text | 2
+
+UP037 | Procedure Modifier - 2 | Text | 2
+
+UP038 | Quantity | Text | 3
+
+UP039 | Charge Amount | Decimal | 10
+
+UP040 | Paid Amount | Decimal | 10
+
+UP041 | Record Type | Text | 2 | UP
+
+UP042 | Uninsured Identification Code | Text | 128 | Encrypted social security number
+
+Source. #9806, eff 11-1-10</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li>RSA 126-S:2 <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4200.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4202.04.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

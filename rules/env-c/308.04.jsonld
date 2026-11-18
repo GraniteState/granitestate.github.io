@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/308.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/308",
+  "definition": "Implementing SOPs",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 308.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 308.04 Implementing SOPs",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 308.04 Implementing SOPs.\n\n(a) The analyst shall use only the official version of the applicable laboratory SOP or a controlled copy of the official version of the SOP for all laboratory activities related to the analysis of compliance samples and any other sample analyses for which accreditation is required.\n\n(b) The laboratory shall maintain a record of each sample that is not analyzed as required by the SOPs.\n\n(c) The records required by (b), above, shall include:\n\n(1) Laboratory sample identification;\n\n(2) For each deviation from the SOP, the following:\n\na. A description of the deviation;\n\nb. The reason(s) for the deviation; and\n\nc. Client authorization or acknowledgment of the deviation; and\n\n(3) An analytical report that identifies all quality control failure qualifiers.\n\n(d) In order to be properly evaluated against quality control limits, each analytical SOP shall require that:\n\n(1) Quality control standard results are calculated and recorded as percent recovery or other applicable and valid statistical technique; and\n\n(2) Duplicate samples are calculated and recorded as a relative percent difference or other applicable and valid statistical technique.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1802.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXXIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IV-a",
+        "X",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:15-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1802",
+  "definition": "Definitions",
+  "effectiveDate": "2022-10-18",
+  "historyNote": "#13463, eff 10-18-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1802.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1802.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1802.01 Definitions.\n\n(a) “Drug preparation” means to prepare or approve a medication for dispensing when preparation is done according to manufacturer’s instructions provided in the current Federal Food and Drug approved package insert.\n\n(b) “Licensed advanced pharmacy technician” means a person licensed by the board who:\n\n(1) May perform all functions allowed by federal or state law and approved by the board, under the supervision of a licensed pharmacist who is physically on premises and holds an unrestricted license issued by the board;\n\n(2) May conduct product verification, process refills, verify repackaging of drugs, and perform other pharmacist tasks not required to be completed by a licensed pharmacist;\n\n(3) May perform duties allowed by either certified or registered pharmacy technicians;\n\n(4) Shall not interpret or evaluate a prescription or drug order, verify a compounded drug, or counsel or advise individuals related to the clinical use of a medication.\n\n(c) “Product verification” means the physical act of validating the correct drug, strength, and form of the drug product being dispensed.\n\n(d) “Verification error” means the dispensing of a prescribed medication that passes the product verification step with the incorrect drug, strength, or form.\n\nSource. #13463, eff 10-18-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

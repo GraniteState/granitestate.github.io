@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6009.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "151:6",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:4-a",
+      "source": "https://granitestate.github.io/rsa/153/153-4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:8-a",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/151/151-6",
+    "https://granitestate.github.io/rsa/153/153-4-a",
+    "https://granitestate.github.io/rsa/153/153-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6009",
+  "definition": "Testing Criteria",
+  "effectiveDate": "2020-08-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6009.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html",
+  "prefLabel": "Saf-C 6009.02 Testing Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6009.02 Testing Criteria. No unvented space heater shall be offered for sale in New Hampshire unless it has been listed by a nationally recognized laboratory whose testing criteria, at a minimum, meet Underwriters’ Laboratory Standard 647, \"Standard for Unvented Kerosene-Fired Room Heaters and Portable Heaters\", Edition 2, April 16, 2010, or ANSI Z21.11.2, \"Gas Fired Room Heaters\", 2013 edition, both available as noted in Appendix B.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Saf-C 6000) #13094, eff 8-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/714.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/714",
+  "definition": "Monitoring Requirements for Water Quality Parameters",
+  "effectiveDate": "2017-05-23",
+  "historyNote": "#9859, eff 2-8-11; ss by #12181, eff 5-23-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 714.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 714.09 Monitoring Requirements for Water Quality Parameters",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 714.09 Monitoring Requirements for Water Quality Parameters.\n\n(a) The O/O of a water system that is subject to this part shall comply with the monitoring requirements for water quality parameters specified in 40 CFR §141.87, 7-1-16 edition, as modified by Table 714-1, below, subject to the notes in (b), below:\n\nTable 714-1: Summary of Monitoring Requirements for Water Quality Parameters\n\nMonitoring period; Location | Parameters | Frequency\n\nInitial water quality monitoring:\n\n- Taps - Entry point(s) to distribution system | - pH - alkalinity - conductivity - water temperature - calcium A - orthophosphate B - silica C | As specified in 40 CFR §141.87, except that the frequency shall be twice in 90 days after the date of action level exceedance\n\nRoutine water quality monitoring:\n\n- Taps | - pH - alkalinity - calcium A - orthophosphate B - silica C | As specified in 40 CFR §141.87, except that the frequency shall be every 3 months for parameters to be reported twice during each monitoring period\n\n- Entry point(s) to distribution system | - pH - alkalinity D - inhibitor E | No less frequently than every 2 weeks\n\nOptimal water quality parameters:\n\n- Taps | - pH - alkalinity - calcium A orthophosphate B - silica C | Every 6 months\n\n- Entry points(s) to distribution system | - pH - alkalinity D - inhibitor E | No less frequently than every 2 weeks F\n\nReduced water quality monitoring:\n\n- Taps | - pH - alkalinity - calcium A - orthophosphate B - silica C | Every 6 months, annually or every 3 years; reduced number of sites\n\n- Entry point(s) to distribution system | - pH - alkalinity D - inhibitor E | No reductions; continues no less frequently than every 2 weeks F\n\n(b) The following notes shall apply to Table 714-1:\n\n(1) “A” means that calcium analysis is required only if calcium carbonate stabilization is used as part of corrosion control;\n\n(2) “B” means that orthophosphate analysis is required only if an inhibitor containing a phosphate compound is used;\n\n(3) “C” means that silica analysis is required only if an inhibitor containing a silicate compound is used;\n\n(4) “D” means that analysis of the dosage rate of the chemical used to adjust alkalinity and the alkalinity concentration is required only if alkalinity is adjusted as part of corrosion control;\n\n(5) “E” means that analysis of the dosage rate of the inhibitor used and the concentration of orthophosphate or silica, as applicable, is required only if a corrosion inhibitor is used as part of corrosion control; and\n\n(6) “F” means that the system O/O shall maintain a log which identifies, for each sample taken, the date the sample was taken, the sampling location, and the result.\n\nSource. #9859, eff 2-8-11; ss by #12181, eff 5-23-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

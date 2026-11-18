@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/asb/204.01",
+  "@type": "Concept",
+  "agencyCode": "Asb",
+  "altLabel": "Declaratory Ruling",
+  "authority": [
+    {
+      "citation": "21-J:14-b",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/asb/204",
+  "definition": "Declaratory ruling",
+  "effectiveDate": "2003-03-31",
+  "historyNote": "#7863-A, eff 3-31-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Asb 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html",
+  "prefLabel": "Asb 204.01 Declaratory ruling",
+  "recordType": "rule-section",
+  "ruleText": "Asb 204.01 \"Declaratory ruling\" means a written statement issued by the board in response to a petition from a person to interpret and apply board laws, rules or both to the person's specific set of facts regarding a proposed action.\n\nSource. #7863-A, eff 3-31-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html"
+}

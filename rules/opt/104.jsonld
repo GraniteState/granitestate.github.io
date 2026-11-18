@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/opt/104",
+  "@type": "Concept",
+  "agencyCode": "Opt",
+  "altLabel": "PUBLIC INFORMATION",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/opt/100",
+  "definition": "PUBLIC REQUESTS FOR INFORMATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/opt/104.01",
+    "https://granitestate.github.io/rules/opt/104.02"
+  ],
+  "notation": "Opt 104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html",
+  "prefLabel": "Opt 104 PUBLIC REQUESTS FOR INFORMATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Opt 104 PUBLIC REQUESTS FOR INFORMATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html"
+}

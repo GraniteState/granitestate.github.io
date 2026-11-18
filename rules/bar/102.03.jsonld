@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/102.03",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/102",
+  "definition": "Organization",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "#8223, eff 12-9-04; ss by #13810, eff 1-19-24 (formerly Bar 102.05) (see Revision Note #2 at chapter heading for Bar 100); ss by #14459, eff 1-1-26 (formerly Bar 102.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 102.03 Organization",
+  "recordType": "rule-section",
+  "ruleText": "Bar 102.03 Organization. The board shall hold at least 6 meetings per year and annually select a chairperson and vice-chairperson from its members. The chairperson shall preside at all meetings. In the absence of the chairperson, the vice-chairperson shall preside.\n\nSource. #8223, eff 12-9-04; ss by #13810, eff 1-19-24 (formerly Bar 102.05) (see Revision Note #2 at chapter heading for Bar 100); ss by #14459, eff 1-1-26 (formerly Bar 102.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

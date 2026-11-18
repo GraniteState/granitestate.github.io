@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/602.05",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:57",
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/602",
+  "definition": "Penalties For Violating Commission Orders",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "(See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 602.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 602.05 Penalties For Violating Commission Orders",
+  "recordType": "rule-section",
+  "ruleText": "Liq 602.05 Penalties For Violating Commission Orders. The presiding officer shall impose a penalty as provided in Liq 602.01(a), on any licensee who fails to comply with the requirements of a commission order.\n\nSource. (See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

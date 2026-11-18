@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tre/303",
+  "@type": "Concept",
+  "agencyCode": "Tre",
+  "authority": [
+    {
+      "citation": "471-C:42",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/tre/300",
+  "definition": "REPORT OF ABANDONED PROPERTY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tre/303.01",
+    "https://granitestate.github.io/rules/tre/303.02",
+    "https://granitestate.github.io/rules/tre/303.03",
+    "https://granitestate.github.io/rules/tre/303.04",
+    "https://granitestate.github.io/rules/tre/303.05",
+    "https://granitestate.github.io/rules/tre/303.06",
+    "https://granitestate.github.io/rules/tre/303.07",
+    "https://granitestate.github.io/rules/tre/303.08",
+    "https://granitestate.github.io/rules/tre/303.09",
+    "https://granitestate.github.io/rules/tre/303.10"
+  ],
+  "notation": "Tre 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre300.html",
+  "prefLabel": "Tre 303 REPORT OF ABANDONED PROPERTY",
+  "recordType": "rule-part",
+  "ruleText": "PART Tre 303 REPORT OF ABANDONED PROPERTY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre300.html"
+}

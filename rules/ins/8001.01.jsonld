@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/8001.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/8001",
+  "definition": "Applicability and Scope",
+  "effectiveDate": "2022-11-30",
+  "historyNote": "#13499, eff 11-30-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 8001.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins8000.html",
+  "prefLabel": "Ins 8001.01 Applicability and Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 8001.01 Applicability and Scope. Ins 8000 shall apply to all individual and group policies and certificates that provide coverage for family and medical leave wage replacement benefits (“FMLI”) issued for delivery in this state on and after the initial effective date of this part. Any policy or certificate of annuity or life, health, or accident and sickness insurance that provides benefits for family and medical leave wage replacement, by way of amendment, rider or otherwise, shall comply with this part.\n\nSource. #13499, eff 11-30-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins8000.html"
+}

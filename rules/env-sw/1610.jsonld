@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1610",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1600",
+  "definition": "CERTIFICATES; CERTIFIED OPERATOR RESPONSIBILITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1610.01",
+    "https://granitestate.github.io/rules/env-sw/1610.02",
+    "https://granitestate.github.io/rules/env-sw/1610.03",
+    "https://granitestate.github.io/rules/env-sw/1610.04"
+  ],
+  "notation": "Env-Sw 1610",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1610 CERTIFICATES; CERTIFIED OPERATOR RESPONSIBILITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 1610 CERTIFICATES; CERTIFIED OPERATOR RESPONSIBILITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

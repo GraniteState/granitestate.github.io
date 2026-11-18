@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/400",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "– PLC 400 INSPECTIONS",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "314-A:6",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc",
+  "definition": "titled “Body Art Rules” was subsequently renumbered as Chapter Plc 600 as an editorial change during the process pursuant to RSA 541-A:15, I of preparing the ru",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/401",
+    "https://granitestate.github.io/rules/plc/402",
+    "https://granitestate.github.io/rules/plc/403",
+    "https://granitestate.github.io/rules/plc/404",
+    "https://granitestate.github.io/rules/plc/405",
+    "https://granitestate.github.io/rules/plc/406"
+  ],
+  "notation": "Plc 400",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html",
+  "prefLabel": "Plc 400 titled “Body Art Rules” was subsequently renumbered as Chapter Plc 600 as an editorial change during the process pursuant to RSA 541-A:15, I of preparing the ru",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Plc 400 INSPECTIONS\n\nStatutory Authority: RSA 310:6, II",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html"
+}

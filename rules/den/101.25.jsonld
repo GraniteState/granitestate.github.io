@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.25",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Personally Evaluated",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Personally evaluated",
+  "effectiveDate": "2017-12-06",
+  "historyNote": "#12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.22)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.25 Personally evaluated",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.25 “Personally evaluated” means that a dentist with an active license performs an oral exam on the patient once in a 12 month period.\n\nSource. #12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.22)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

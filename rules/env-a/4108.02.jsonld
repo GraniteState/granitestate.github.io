@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4108.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4108",
+  "definition": "Test Methods",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4108.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4108.02 Test Methods",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4108.02 Test Methods.\n\n(a) Unless otherwise specified in (b) through (d), below, testing to determine compliance with the requirements of this chapter shall be performed using CARB Method 310, Determination of Volatile Organic Compounds (VOC) in Consumer Products, as amended on August 1, 2022, available as noted in Appendix B.\n\n(b) Testing to determine whether a product is a liquid or solid shall be performed using ASTM D4359-90, 2019 edition, available as noted in Appendix B.\n\n(c) Testing to determine compliance with the certification requirements for charcoal lighter material shall be performed using the procedures specified in the South Coast Air Quality Management District (SCAQMD) Test Protocol Rule 1174 Ignition Method Compliance Certification Protocol, dated February 28, 1991, available as noted in Appendix B.\n\n(d) Testing to determine distillation points of petroleum distillate‑based charcoal lighter materials shall be performed using ASTM D86-23ae1, 2024 edition, available as noted in Appendix B.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

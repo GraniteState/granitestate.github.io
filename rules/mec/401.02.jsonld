@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/401.02",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "altLabel": "Proof of Continuing Education Supporting Materials",
+  "authority": [
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/401",
+  "definition": "Proof of continuing education supporting materials",
+  "effectiveDate": "2023-12-10",
+  "historyNote": "#10848, eff 7-1-15; ss by #13771, eff 12-10-23 (formerly Saf-Mec 401.06) (see Revision Note at chapter heading for Mec 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mec 401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec400.html",
+  "prefLabel": "Mec 401.02 Proof of continuing education supporting materials",
+  "recordType": "rule-section",
+  "ruleText": "Mec 401.02 “Proof of continuing education supporting materials” means either a certificate of course completion, whether electronic or hard copy, including wallet cards, or a course roster certified by the approved seminar provider for the course.\n\nSource. #10848, eff 7-1-15; ss by #13771, eff 12-10-23 (formerly Saf-Mec 401.06) (see Revision Note at chapter heading for Mec 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec400.html"
+}

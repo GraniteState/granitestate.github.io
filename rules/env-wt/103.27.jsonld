@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/103.27",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Jurisdictional Area",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "483:8-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/483/483-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483/483-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/103",
+  "definition": "Jurisdictional area",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "(See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; renumbered by #13945 (formerly Env-Wt 103.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 103.27",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html",
+  "prefLabel": "Env-Wt 103.27 Jurisdictional area",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 103.27 “Jurisdictional area” means an area that is subject to regulation under RSA 482-A, including but not limited to surface waters, streams, lakes, rivers, ponds, wetlands, banks, flats, shores, sand dunes, upland tidal buffer zones, and duly-established 100-foot buffers.\n\nSource. (See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; renumbered by #13945 (formerly Env-Wt 103.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html"
+}

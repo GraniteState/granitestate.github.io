@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.35",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:3",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-3",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Retire",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14 (from Puc 2502.32); ss by #12473, eff 2-1-18 (formerly Puc 2502.33)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.35",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.35 Retire",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.35 “Retire” means to make no further use of a certificate for purposes of trading in the generation attributes associated with the certificate.\n\nSource. #10741, eff 12-5-14 (from Puc 2502.32); ss by #12473, eff 2-1-18 (formerly Puc 2502.33)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

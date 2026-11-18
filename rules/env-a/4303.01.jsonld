@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4303.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Emission Limits for Existing OSWI Units",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4303",
+  "definition": "Emission Limits For Existing OSWI Units",
+  "effectiveDate": "2025-05-20",
+  "expirationDate": "2035-05-20",
+  "historyNote": "#8787, eff 1-5-07; ss by #10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html",
+  "prefLabel": "Env-A 4303.01 Emission Limits For Existing OSWI Units",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4303.01 Emission Limits For Existing OSWI Units.\n\n(a) Subject to (b), below, the emission limits for existing OSWI units shall be as specified in Table 4303-1, below, for the listed air pollutants or parameters and all OSWI technologies:\n\nTable 4303-1: Emission Limits for All Existing OSWI Units\n\nPollutant/Parameter | Emission Limits a | Averaging Time | Compliance Determination b, c\n\nCadmium (Cd) | 18 micrograms per dry standard cubic meter (μg/dscm) | 3-run average (1 hour minimum sample run time) | EPA Method 29\n\nCarbon Monoxide (CO) | 40 parts per million dry volume (ppmdv) | 3-run average (1 hour minimum sample run time), and 12-hour rolling averages measured using CEMS | EPA Methods 10, 10A or 10B\n\nDioxins/Furans, total mass basis | 33 nanograms per dry standard cubic meter (ng/dscm) | 3-run average (1 hour minimum sample run time) | EPA Method 23\n\nHydrogen Chloride (HCl) | 15 ppmdv | 3-run average (1 hour minimum sample run time) | EPA Method 26A\n\nLead (Pb) | 226 μg/dscm | 3-run average (1 hour minimum sample run time) | EPA Method 29\n\nMercury (Hg) | 74 μg/dscm | 3-run average (1 hour minimum sample run time) | EPA Method 29\n\nOpacity | 10 percent | 6-minute average (observe over three 1-hour test runs) | EPA Method 9\n\nOxides of Nitrogen (NOx) | 103 ppmdv | 3-run average (1 hour minimum sample run time) | EPA Methods 7, 7A, 7C, 7D or 7E d\n\nParticulate Matter (PM) | 0.013 grains per dry standard cubic foot (gr/dscf) | 3-run average (1 hour minimum sample run time) | EPA Methods 5 or 29\n\nSulfur Dioxide (SO2) | 3.1 ppmdv | 3-run average (1 hour minimum sample run time) | EPA Method 6 or 6C e\n\n(b) The following notes shall apply to Table 4303-1:\n\n(1) The letter “a” shall indicate that all emission limits except opacity are measured at 7 percent oxygen, dry basis at standard conditions;\n\n(2) The letter “b” shall indicate that these methods are found in 40 CFR part 60, appendix A;\n\n(3) The letter “c” shall indicate that compliance with the CO emission limit is determined on a 12-hour rolling average basis using continuous emission monitoring system data;\n\n(4) The letter “d” shall indicate that ANSI/ASME PTC 19.10-1981-Part 10 is an acceptable alternative to Methods 7 and 7C only; and\n\n(5) The letter “e” shall indicate that ANSI/ASME PTC 19.10-1981-Part 10 is an acceptable alternative to Method 6 only.\n\nSource. #8787, eff 1-5-07; ss by #10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html"
+}

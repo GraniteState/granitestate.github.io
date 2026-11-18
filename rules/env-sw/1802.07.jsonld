@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1802.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:32",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1802",
+  "definition": "Purchaser",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3502.07); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1802.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html",
+  "prefLabel": "Env-Sw 1802.07 Purchaser",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1802.07 “Purchaser” means any person receiving a package or packaging component directly from the manufacturer or supplier of the package or packaging component who then sells or distributes the package or packaging component to a retail consumer.\n\nSource. #7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3502.07); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html"
+}

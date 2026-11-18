@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/203.05",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:10",
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:11",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/203",
+  "definition": "Exercising RSA 310:10, XIV-XV or RSA 310:11, VII-VIII",
+  "effectiveDate": "2025-05-22",
+  "historyNote": "#14133, INTERIM, eff 12-1-24, EXPIRES: 5-30-25; ss by #14241, eff 5-22-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 203.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 203.05 Exercising RSA 310:10, XIV-XV or RSA 310:11, VII-VIII",
+  "priorExpiration": "2025-05-30",
+  "recordType": "rule-section",
+  "ruleText": "Plc 203.05 Exercising RSA 310:10, XIV-XV or RSA 310:11, VII-VIII.\n\n(a) In any proceeding held pursuant to RSA 310 or RSA 541-A, a board shall exercise the authority conferred by RSA 310:10, XIV and RSA 310:11, VII, both reprinted in Appendix C, if the board, by majority vote, determines that doing so would expedite the matter or otherwise serve the interests of justice.\n\n(b) In acting under (a), above, a board shall determine the extent to which the presiding officer shall consult or otherwise coordinate with the board when making the determinations that have been delegated, namely making findings of fact, determining appropriate sanctions or actions, and denying or accepting settlement agreements.\n\n(c) In any proceeding held pursuant to RSA 310 or RSA 541-A, if a board cannot meet quorum then the executive director shall initiate proceedings under the authority of RSA 310:10, XV and RSA 310:11, VIII, both reprinted in Appendix C.\n\n(d) In any proceeding in which the provisions of RSA 310:10, XIV or XV or RSA 310:11, VII or VIII have been exercised, the term “board”, when used in any rule that applies to the proceeding and any document issued in the proceeding, shall mean the presiding officer.\n\nSource. #14133, INTERIM, eff 12-1-24, EXPIRES: 5-30-25; ss by #14241, eff 5-22-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

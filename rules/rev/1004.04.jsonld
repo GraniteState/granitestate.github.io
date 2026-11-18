@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1004.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:28",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-28",
+      "via": "appendix"
+    },
+    {
+      "citation": "78:10",
+      "source": "https://granitestate.github.io/rsa/78/78-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-28",
+    "https://granitestate.github.io/rsa/78/78-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1004",
+  "definition": "Payment Methods",
+  "effectiveDate": "2023-12-01",
+  "historyNote": "#10536, eff 3-6-14 (from Rev 1004.04); ss by #13817, eff 12-1-23 (formerly Rev 1005.04) (see Revision Note #2 at Chapter heading for Rev 1000)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1004.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1000.html",
+  "prefLabel": "Rev 1004.04 Payment Methods",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1004.04 Payment Methods.\n\n(a) Purchases of tax stamps shall be paid for by:\n\n(1) Charging the purchases to the wholesaler’s credit account; or\n\n(2) Immediate payment for the total amount of the order by presenting the department with:\n\na. Cash;\n\nb. A money order issued through a third-party payable to the state of New Hampshire;\n\nc. A cashier’s check payable to the state of New Hampshire; or\n\nd. A certified check payable to the state of New Hampshire.\n\n(b) Any purchase not paid in full in a timely manner shall, pursuant to RSA 21-J:28, accrue interest and penalties pursuant to RSA 21-J:33.\n\nSource. #10536, eff 3-6-14 (from Rev 1004.04); ss by #13817, eff 12-1-23 (formerly Rev 1005.04) (see Revision Note #2 at Chapter heading for Rev 1000)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1000.html"
+}

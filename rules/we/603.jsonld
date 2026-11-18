@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/603",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:15",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/we/600",
+  "definition": "WELL MAINTENANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/603.01",
+    "https://granitestate.github.io/rules/we/603.02",
+    "https://granitestate.github.io/rules/we/603.03",
+    "https://granitestate.github.io/rules/we/603.04",
+    "https://granitestate.github.io/rules/we/603.05"
+  ],
+  "notation": "We 603",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 603 WELL MAINTENANCE",
+  "recordType": "rule-part",
+  "ruleText": "PART We 603 WELL MAINTENANCE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

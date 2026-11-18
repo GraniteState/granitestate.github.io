@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/402.12",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Incumbent Local Exchange Carrier Operating as an Excepted Local Exchange Carrier (ILEC-ELEC)",
+  "authority": [
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "(b)",
+        "(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/402",
+  "definition": "\"Incumbent local exchange carrier operating as an excepted local exchange carrier (ILEC–ELEC)\" means an ILEC which also meets the definition of an ELEC",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 402.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 402.12 \"Incumbent local exchange carrier operating as an excepted local exchange carrier (ILEC–ELEC)\" means an ILEC which also meets the definition of an ELEC",
+  "recordType": "rule-section",
+  "ruleText": "Puc 402.12 \"Incumbent local exchange carrier operating as an excepted local exchange carrier (ILEC–ELEC)\" means an ILEC which also meets the definition of an ELEC.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

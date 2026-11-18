@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/601",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/600",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-mec/601.01",
+    "https://granitestate.github.io/rules/saf-mec/602.01"
+  ],
+  "notation": "Saf-Mec 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html",
+  "prefLabel": "Saf-Mec 601 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-Mec 601 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html"
+}

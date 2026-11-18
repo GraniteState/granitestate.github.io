@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/203.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310",
+      "source": "https://granitestate.github.io/rsa/310",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/203",
+  "definition": "Computation of Time",
+  "effectiveDate": "2022-08-04",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 203.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Plc 203.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time established in these rules shall begin with the day after the action that sets the time period in motion and include the last day of the period so computed.\n\n(c) For time periods not established in statute, if the last day of the period so computed does not fall on a working day, then the time period shall be extended to include the first working day following.\n\n(d) Time periods established in statute shall be determined as specified in the statute.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

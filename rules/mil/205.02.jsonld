@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/205.02",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/205",
+  "definition": "Disposition of Petition",
+  "effectiveDate": "2019-08-29",
+  "historyNote": "#7529, eff 7-12-01; ss by #12862-A, eff 8-29-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 205.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 205.02 Disposition of Petition",
+  "recordType": "rule-section",
+  "ruleText": "Mil 205.02 Disposition of Petition.\n\n(a) The board shall consider all petitions for rulemaking and proceed pursuant to RSA 541-A:4.\n\n(b) The board shall request additional data, or argument from the petitioner, or other interested persons to clarify the argument.\n\n(c) Such petitions shall be received and handled in the following manner:\n\n(1) Petitions shall be submitted to the board; and\n\n(2) Within 30 days of the receipt of the petition, the board shall take one of the following actions:\n\na. Commence rulemaking in accordance with RSA 541-A:3, if the requested action is:\n\n1. Within the board's authority; and\n\n2. Consistent with and best implements state statutes affecting the board; or\n\nb. Deny the petition, in writing, stating fully the reasons for denial.\n\nSource. #7529, eff 7-12-01; ss by #12862-A, eff 8-29-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

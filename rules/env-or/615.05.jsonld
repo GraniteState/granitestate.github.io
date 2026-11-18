@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/615.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:15",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:17-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-17-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:18",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-17-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/615",
+  "definition": "Fines Relating to Non-Aqueous Phase Liquid (NAPL) Notification",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "#14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 615.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 615.05 Fines Relating to Non-Aqueous Phase Liquid (NAPL) Notification",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 615.05 Fines Relating to Non-Aqueous Phase Liquid (NAPL) Notification. For failing to notify the department in violation of Env-Or 604.05, the proposed fine shall be $4,000 per violation.\n\nSource. #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/606.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-F:11",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:4",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-F/147-F-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/606",
+  "definition": "Site Geology and Hydrology",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 606.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 606.06 Site Geology and Hydrology",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 606.06 Site Geology and Hydrology. The site investigation report shall include a description of the geology and hydrogeology of the site including:\n\n(a) Groundwater potentiometric surface(s), hydraulic gradients, flow direction, hydraulic conductivity, and seepage velocity;\n\n(b) Soil types, distribution, and permeability;\n\n(c) When encountered and drilled, bedrock type and characteristics, including depths and contours;\n\n(d) Geologic cross-sections to describe the geology and hydrogeology of the site including the following:\n\n(1) One cross-section parallel to groundwater flow and one cross-section perpendicular to groundwater flow;\n\n(2) The horizontal and vertical scale of each cross-section;\n\n(3) Approximate ground surface elevations and inferred elevation of contacts between the major geologic units;\n\n(4) A complete textural description of the major soil and bedrock units, with geologic interpretation, such as fill, till, stratified drift, and weathered bedrock;\n\n(5) The location of all data sources, including soil borings, monitoring wells, test pits, and bedrock cores upon which the geologic interpretations are based;\n\n(6) The line of section referenced to an appropriate site plan;\n\n(7) The offset distance for all data points not located directly on the line of section;\n\n(8) The screened interval of all groundwater monitor wells and piezometers, with measured water level or potentiometric surface elevations;\n\n(9) The surveyed elevations of any surface water features intercepted by the line of section; and\n\n(10) Contaminant concentrations at each data point indicated on the cross-section;\n\n(e) A table of groundwater elevation data including:\n\n(1) Groundwater elevations;\n\n(2) Top of well casing elevations surveyed to the benchmark required under Env-Or 606.04(m)(4);\n\n(3) Measured depth to water table from top of casing;\n\n(4) If NAPL is present, measured depth to NAPL from top of casing; and\n\n(5) If NAPL is present, NAPL thickness;\n\n(f) A potentiometric surface plan indicating the groundwater flow direction, with multiple plans as needed to show groundwater flow in different aquifers; and\n\n(g) Any other information that is necessary to describe the geology and hydrogeology of the site.\n\nSource. (See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

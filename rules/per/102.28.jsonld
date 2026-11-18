@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/102.28",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Confidential Employee",
+  "authority": [
+    {
+      "citation": "273-A",
+      "paragraphs": [
+        "IX(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/273-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/273-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/102",
+  "definition": "Confidential employee",
+  "effectiveDate": "2025-12-01",
+  "historyNote": "#14434, eff 12-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 102.28",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 102.28 Confidential employee",
+  "recordType": "rule-section",
+  "ruleText": "Per 102.28 “Confidential employee” means an employee who formulates, develops, or implements management policies in the field of labor or personnel relations, an employee who assists in such activities, or an employee who has access to information subject to use by the employer in collective bargaining and who, as a result of such activities, is not considered a public employee under RSA 273-A:1, IX(c) and is therefore excluded from any bargaining unit.\n\nSource. #14434, eff 12-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

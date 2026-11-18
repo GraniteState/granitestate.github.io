@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1406.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1406",
+  "definition": "Calling a Financial Assurance Mechanism",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#14068, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1406.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1406.01 Calling a Financial Assurance Mechanism",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1406.01 Calling a Financial Assurance Mechanism. The department shall call a financial assurance mechanism when:\n\n(a) The permittee declares or files for bankruptcy;\n\n(b) The permittee does not replace their financial assurance mechanism in accordance with Env-Sw 1405.03;\n\n(c) The permittee fails to conduct closure obligations;\n\n(d) The facility’s permit is revoked or suspended in accordance with Env-Sw 306.04; or\n\n(e) One or more of the trigger events for closure as specified in Env-Sw 1006.01 exist.\n\nSource. #14068, eff 9-3-24\n\nAppendix a: state and federal statutes implemented\n\nAPPENDIX B: INCORPORATED REFERENCE\n\nRule | Reference (Date/Edition) | Obtain From (Cost)\n\nEnv-Sw 1403.01(b)(4)d. Env-Sw 1403.05(f) | Statement No. 18 of the Governmental Accounting Standards Board, Accounting for Municipal Solid Waste Landfill Closure and Postclosure Care Costs, NO. 101-A (August 1993) | Free online: https://gasb.org/page/ShowPdf?path=GASBS-18.pdf&title=GASB%20STATEMENT%20NO.%2018,%20ACCOUNTING%20FOR%20MUNICIPAL%20SOLID%20WASTE%20LANDFILL%20CLOSURE%20AND%20POSTCLOSURE%20CARE%20COSTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.09",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Class III Source",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Class III source",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.09); ss by #12473, eff 2-1-18 (formerly Puc 2502.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.09 Class III source",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.09 “Class III source” means a generation facility that began operation prior to January 1, 2006, and produces electricity from eligible electric biomass technologies having a gross nameplate capacity of 25 megawatts or less, or from methane gas, except as specified in RSA 362-F:4, III(b). Class III sources do not include, for electricity production commencing January 1, 2017, methane gas if the production is from a source or sources which began operation prior to January 1, 2006 and which source exceeds, or sources exceed, a total gross nameplate capacity of 10 megawatts in the aggregate located at any single landfill site, with all phases, stages, cells, lifts, expansions, and other landfill areas combined in determining the single landfill site gross nameplate capacity and only class III and potential class III eligible sources at any single landfill site are included in determining whether the 10 megawatt aggregate limitation has been exceeded.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.09); ss by #12473, eff 2-1-18 (formerly Puc 2502.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

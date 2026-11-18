@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rab/402",
+  "@type": "Concept",
+  "agencyCode": "Rab",
+  "altLabel": "REVOCATION, SUSPENSION, AND OTHER SANCTIONS",
+  "authority": [
+    {
+      "citation": "310-B:18",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/rab/400",
+  "definition": "revocation, suspension, and other sanctions",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rab/402.01",
+    "https://granitestate.github.io/rules/rab/402.02",
+    "https://granitestate.github.io/rules/rab/402.03",
+    "https://granitestate.github.io/rules/rab/402.04",
+    "https://granitestate.github.io/rules/rab/402.05",
+    "https://granitestate.github.io/rules/rab/402.06",
+    "https://granitestate.github.io/rules/rab/402.07"
+  ],
+  "notation": "Rab 402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rab100-500.html",
+  "prefLabel": "Rab 402 revocation, suspension, and other sanctions",
+  "recordType": "rule-part",
+  "ruleText": "PART Rab 402 revocation, suspension, and other sanctions",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rab100-500.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2104",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "363:38",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2100",
+  "definition": "DISCLOSURE AND INFORMATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/2104.01",
+    "https://granitestate.github.io/rules/puc/2104.02"
+  ],
+  "notation": "Puc 2104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html",
+  "prefLabel": "Puc 2104 DISCLOSURE AND INFORMATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Puc 2104 DISCLOSURE AND INFORMATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html"
+}

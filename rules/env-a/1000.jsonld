@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1000",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "PREVENTION, ABATEMENT, AND CONTROL OF OPEN SOURCE AIR POLLUTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1001",
+    "https://granitestate.github.io/rules/env-a/1002",
+    "https://granitestate.github.io/rules/env-a/1003"
+  ],
+  "notation": "Env-A 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1000.html",
+  "prefLabel": "Env-A 1000 PREVENTION, ABATEMENT, AND CONTROL OF OPEN SOURCE AIR POLLUTION",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 1000 PREVENTION, ABATEMENT, AND CONTROL OF OPEN SOURCE AIR POLLUTION\n\nStatutory Authority: RSA 125-C:4, I(a)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1000.html"
+}

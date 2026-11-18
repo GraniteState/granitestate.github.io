@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1008.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)",
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1008",
+  "definition": "Approval",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1008.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1008.06 Approval",
+  "recordType": "rule-section",
+  "ruleText": "En 1008.06 Approval. If the applicant passes the screens, the application shall be approved, and the utility shall provide the applicant with an executable IA within the following timeframes:\n\n(a) If the facility requires no EDS modifications by the utility, the utility shall provide the IA to the applicant at the same time that the utility provides the fast track or supplemental review results; or\n\n(b) If the facility requires EDS modifications, the utility shall provide the IA, along with an itemized, non-binding cost estimate and construction schedule for such upgrades, to the applicant within 15 business days after the fast track or supplemental review results. If the cost to generate the non-binding estimate exceeds $2,500, the utility shall invoice the applicant for the cost of the estimate. The applicant shall remit payment to proceed within 10 business days of receipt of the invoice or the application shall be deemed withdrawn.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

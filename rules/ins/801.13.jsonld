@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/801.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:17",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:25",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/801",
+  "definition": "Disclosure of Data",
+  "effectiveDate": "2026-02-07",
+  "expirationDate": "2036-02-07",
+  "historyNote": "#9053, eff 1-2-08; ss by #11008, eff 12-31-15 (from Ins 801.13); ss by #14505, eff 2-7-26, EXPIRES: 2-7-36 (formerly Ins 801.14)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 801.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins800.html",
+  "prefLabel": "Ins 801.13 Disclosure of Data",
+  "recordType": "rule-section",
+  "ruleText": "Ins 801.13 Disclosure of Data. When data submitted to the insurance department by a statistical agent identify individual insurers, appear likely to identify individual claimants or insureds, or are asserted by the statistical agent or a reporting insurer to be subject to protection from disclosure, such data shall not be publicly disclosed unless, prior to such disclosure:\n\n(a) The department notifies the statistical agent and any insurer which has asserted the data to be subject to protection from disclosure of the request for disclosure;\n\n(b) The department then provides a 30 day period for any insurer that reported data to the statistical agent to assert that its data are trade secret or are otherwise protected from disclosure. The 30 day period shall run from the time that the statistical agent receives notification from the department;\n\n(c) The department then provides insurers which have asserted their data to be trade secret or otherwise protected from disclosure with the opportunity to support their positions, which shall be governed by RSA 400-A:17 and Ins 200; and\n\n(d) After the applicable adjudicative process is complete, there is a final decision that the data are not trade secret and are not otherwise subject to protection from disclosure.\n\nSource. #9053, eff 1-2-08; ss by #11008, eff 12-31-15 (from Ins 801.13); ss by #14505, eff 2-7-26, EXPIRES: 2-7-36 (formerly Ins 801.14)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins800.html"
+}

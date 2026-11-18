@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.10",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "altLabel": "County Corrections Officer",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "County corrections officer",
+  "effectiveDate": "2000-06-08",
+  "historyNote": "#1534, eff 2-17-80; ss by #1988, eff 3-25-82; ss by #2783, eff 7-27-84; ss by #4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.10 County corrections officer",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.10 \"County corrections officer\" means an officer of a county department of corrections whose primary duty is the custody of prisoners at a county correctional institution and who is eligible to become a member of the group II retirement system.\n\nSource. #1534, eff 2-17-80; ss by #1988, eff 3-25-82; ss by #2783, eff 7-27-84; ss by #4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

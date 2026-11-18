@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/302.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/302",
+  "definition": "Applicability",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 302.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 302.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 302.02 Applicability. These rules shall apply to anyone intending to:\n\n(a) Develop a new production well for a large CWS, regardless of whether the well is a small production well or a large production well;\n\n(b) Develop a new large production well for any CWS;\n\n(c) Develop a new back-up large production well;\n\n(d) Replace an existing large production well with a new large production well;\n\n(e) Deepen or otherwise improve an existing large production well to increase its capacity; or\n\n(f) Reactivate an inactive large production well or a large production well that has been removed from monitoring responsibility in accordance with Env-Dw 708.11 or its predecessor rule, Env-Ws 321.17.\n\nSource. (See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

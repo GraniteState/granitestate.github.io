@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/606.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/606",
+  "definition": "Demonstration of Compliance with Ambient Air Quality Standards and Ambient Air Increment Values",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 606.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 606.03 Demonstration of Compliance with Ambient Air Quality Standards and Ambient Air Increment Values",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 606.03 Demonstration of Compliance with Ambient Air Quality Standards and Ambient Air Increment Values.\n\n(a) The owner or operator of a source shall demonstrate, using the air pollution dispersion modeling impact analysis required in this part, that the source will not:\n\n(1) Cause or contribute to a violation of any National Ambient Air Quality Standard (NAAQS) listed in Env-A 300 that is required to be included in the analysis pursuant to Env-A 606.06(b), (c), (d), or (e); or\n\n(2) Cause an increase in pollutant concentration over the baseline concentration that is greater than the value specified in 40 CFR §52.21(c) resulting from net emissions increases at the source after the baseline date determined pursuant to 40 CFR §52.21(a)(14), if applicable.\n\n(b) A source shall be considered to cause or contribute to a violation of a NAAQS when such source’s contribution would exceed the significance levels at any locality that does not or would not meet the applicable national standard, as shown in table 606-1 below:\n\nTable 606-1: NAAQS Significance Levels\n\nPollutant | Averaging Time and Significance Levels\n\nAnnual | 24-hour | 8-hour | 3-hour | 1-hour\n\nSO2 | 1.0 ug/m3 | 5 ug/m3 | 25 ug/m3\n\nPM10 | 1.0 ug/m3 | 5 ug/m3\n\nPM2.5 | 0.3 ug/m3 | 1.2 ug/m3\n\nNO2 | 1.0 ug/m3\n\nCO | 0.5 mg/m3 | 2 mg/m3\n\nSource. #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2400",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "V",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:47-i",
+      "source": "https://granitestate.github.io/rsa/318/318-47-i",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-47-i"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph",
+  "definition": "PHARMACIST INITIATION AND DISPENSING OF HORMONAL CONTRACEPTIVES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2401",
+    "https://granitestate.github.io/rules/ph/2402",
+    "https://granitestate.github.io/rules/ph/2403",
+    "https://granitestate.github.io/rules/ph/2404",
+    "https://granitestate.github.io/rules/ph/2405",
+    "https://granitestate.github.io/rules/ph/2406"
+  ],
+  "notation": "Ph 2400",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2400 PHARMACIST INITIATION AND DISPENSING OF HORMONAL CONTRACEPTIVES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ph 2400 PHARMACIST INITIATION AND DISPENSING OF HORMONAL CONTRACEPTIVES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

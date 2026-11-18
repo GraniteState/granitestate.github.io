@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m/305.01",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "authority": [
+    {
+      "citation": "126-U:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "135-C:57",
+      "paragraphs": [
+        "IV",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-57",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "135-C:61",
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/135-C/135-C-57",
+    "https://granitestate.github.io/rsa/135-C/135-C-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-m/305",
+  "definition": "Purpose",
+  "effectiveDate": "2016-12-28",
+  "historyNote": "#3095, eff 8-19-85; EXPIRED: 8-19-93 New. #5204, eff 8-22-91, EXPIRED: 8-22-97 New. #7183, eff 12-24-99, EXPIRED: 12-24-07 New. #9120, eff 4-3-08, EXPIRED: 4-3-16 New. #11102, INTERIM, eff 5-25-16, EXPIRED: 11-21-16 New. #12077, eff 12-28-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-M 305.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m300.html",
+  "prefLabel": "He-M 305.01 Purpose",
+  "priorExpiration": "2016-11-21",
+  "recordType": "rule-section",
+  "ruleText": "He-M 305.01 Purpose. The purpose of these rules is to define the circumstances in which, and mechanisms by which, involuntary emergency treatment, seclusion, or restraint can be provided in facilities serving adults and children with mental illness. These emergency interventions are designed to be effective, safe, and time-limited and utilized only after all less restrictive options have been exhausted.\n\nSource. #3095, eff 8-19-85; EXPIRED: 8-19-93\n\nNew. #5204, eff 8-22-91, EXPIRED: 8-22-97\n\nNew. #7183, eff 12-24-99, EXPIRED: 12-24-07\n\nNew. #9120, eff 4-3-08, EXPIRED: 4-3-16\n\nNew. #11102, INTERIM, eff 5-25-16, EXPIRED: 11-21-16\n\nNew. #12077, eff 12-28-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m300.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ath/102",
+  "@type": "Concept",
+  "agencyCode": "Ath",
+  "authority": [
+    {
+      "citation": "326-G:1",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-F:5",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ath/100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ath/102.01",
+    "https://granitestate.github.io/rules/ath/102.02",
+    "https://granitestate.github.io/rules/ath/102.03",
+    "https://granitestate.github.io/rules/ath/102.04",
+    "https://granitestate.github.io/rules/ath/102.05",
+    "https://granitestate.github.io/rules/ath/102.06",
+    "https://granitestate.github.io/rules/ath/102.07",
+    "https://granitestate.github.io/rules/ath/102.08"
+  ],
+  "notation": "Ath 102",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ath100-500.html",
+  "prefLabel": "Ath 102 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ath 102 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ath100-500.html"
+}

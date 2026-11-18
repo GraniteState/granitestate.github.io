@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/805.02",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "212:25",
+      "source": "https://granitestate.github.io/rsa/212/212-25",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14",
+    "https://granitestate.github.io/rsa/212/212-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/805",
+  "definition": "Non-Controlled Species – Release",
+  "effectiveDate": "2026-04-21",
+  "expirationDate": "2036-04-21",
+  "historyNote": "#9790-A. eff 1-1-11; ss by #10868, INTERIM, eff 6-25-15, EXPIRED: 12-22-15 New. #11029, eff 1-26-16; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36 (formerly Fis 805.011)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 805.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 805.02 Non-Controlled Species – Release",
+  "recordType": "rule-section",
+  "ruleText": "Fis 805.02 Non-Controlled Species – Release.\n\n(a) A permit to release wildlife shall not be required for any person to release wildlife designated as non-controlled as specified in (b) below.\n\n(b) For the purposes of this part, the following species or groups of wildlife shall be designated as non-controlled:\n\n(1) Pigeons and doves (Columbiformes), exotic; and\n\n(2) Feral pigeons (Columba domestica and C. livia).\n\nSource. #9790-A. eff 1-1-11; ss by #10868, INTERIM, eff 6-25-15, EXPIRED: 12-22-15\n\nNew. #11029, eff 1-26-16; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36 (formerly Fis 805.011)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

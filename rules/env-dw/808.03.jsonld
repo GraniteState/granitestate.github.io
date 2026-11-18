@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/808.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/808",
+  "definition": "Aldicarb (Temik)",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 808.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 808.03 Aldicarb (Temik)",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 808.03 Aldicarb (Temik). For aldicarb violations, the statement shall read as follows:\n\n“The United States Environmental Protection Agency (EPA) sets drinking water standards and has determined that aldicarb is a health concern at certain levels of exposure. Aldicarb is a widely used pesticide. Under certain soil and climate conditions (e.g. sandy soil and high rainfall), aldicarb may leach into groundwater after normal agricultural application to crops such as potatoes or peanuts or may enter drinking water supplies as a result of surface runoff. This chemical has been shown to damage the nervous system in laboratory animals such as rats and dogs exposed to high levels. EPA has set the drinking water standard for aldicarb at 0.003 parts per million (ppm) to protect against the risk of adverse health effects. Drinking water that meets the EPA standard is associated with little to none of this risk and is considered safe with respect to aldicarb.”\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

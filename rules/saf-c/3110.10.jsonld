@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3110.10",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "263:19",
+      "source": "https://granitestate.github.io/rsa/263/263-19",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:44",
+      "source": "https://granitestate.github.io/rsa/263/263-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "263:49",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/263/263-19",
+    "https://granitestate.github.io/rsa/263/263-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3110",
+  "definition": "Time on Driving Simulator",
+  "effectiveDate": "2018-04-05",
+  "historyNote": "#9568, eff 10-17-09 (from Saf-C 3113.08); ss by #12509, eff 4-5-18 (formerly Saf-C 3114.10) (See Revision Note at chapter heading for Saf-C 3100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3110.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html",
+  "prefLabel": "Saf-C 3110.10 Time on Driving Simulator",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3110.10 Time on Driving Simulator.\n\n(a) The time ratio for simulated driving shall be 4 hours of simulated experience to one hour of driving a dual control vehicle.\n\n(b) No more than 12 hours of simulated driving, which is equal to 3 hours of actual driving, shall be utilized to substitute for on-the-road experience.\n\n(c) Time on the simulator shall not be considered classroom instruction for the purposes of Saf-C 3110.04(b).\n\n(d) All time on a driving simulator shall be conducted by a certified driver education instructor.\n\nSource. #9568, eff 10-17-09 (from Saf-C 3113.08); ss by #12509, eff 4-5-18 (formerly Saf-C 3114.10) (See Revision Note at chapter heading for Saf-C 3100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3100.html"
+}

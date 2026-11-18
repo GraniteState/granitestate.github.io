@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/403",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "435:33",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "435:34",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/400",
+  "definition": "PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/403.01"
+  ],
+  "notation": "Agr 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr400.html",
+  "prefLabel": "Agr 403 PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 403 PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr400.html"
+}

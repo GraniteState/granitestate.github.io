@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/607",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "DREDGING ACTIVITIES",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/600",
+  "definition": "DREDGING ACTVITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/607.01",
+    "https://granitestate.github.io/rules/env-wt/607.02",
+    "https://granitestate.github.io/rules/env-wt/607.03",
+    "https://granitestate.github.io/rules/env-wt/607.04",
+    "https://granitestate.github.io/rules/env-wt/607.05",
+    "https://granitestate.github.io/rules/env-wt/607.06",
+    "https://granitestate.github.io/rules/env-wt/607.07",
+    "https://granitestate.github.io/rules/env-wt/607.08",
+    "https://granitestate.github.io/rules/env-wt/607.09",
+    "https://granitestate.github.io/rules/env-wt/607.10"
+  ],
+  "notation": "Env-Wt 607",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 607 DREDGING ACTVITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 607 DREDGING ACTVITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

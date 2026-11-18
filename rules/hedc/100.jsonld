@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/100",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc",
+  "definition": "ORGANIZATION OF THE AGENCY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/101",
+    "https://granitestate.github.io/rules/hedc/102"
+  ],
+  "notation": "Hedc 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html",
+  "prefLabel": "Hedc 100 ORGANIZATION OF THE AGENCY",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Hedc 100 ORGANIZATION OF THE AGENCY\n\nStatutory Authority: RSA 21-N:8-a",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html"
+}

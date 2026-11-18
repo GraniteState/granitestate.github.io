@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/502",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/500",
+  "definition": "MECHANICAL BUSINESS ENTITY FEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mec/502.01",
+    "https://granitestate.github.io/rules/mec/502.02",
+    "https://granitestate.github.io/rules/mec/502.03"
+  ],
+  "notation": "Mec 502",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec500.html",
+  "prefLabel": "Mec 502 MECHANICAL BUSINESS ENTITY FEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Mec 502 MECHANICAL BUSINESS ENTITY FEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec500.html"
+}

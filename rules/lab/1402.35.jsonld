@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/1402.35",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "altLabel": "Permit-Required Confined Space",
+  "authority": [
+    {
+      "citation": "281-A:64",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-64",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-64"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/1402",
+  "definition": "Permit-required confined space",
+  "effectiveDate": "2025-11-22",
+  "expirationDate": "2035-11-22",
+  "historyNote": "#14431, eff 11-22-25, EXPIRES: 11-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 1402.35",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1400.html",
+  "prefLabel": "Lab 1402.35 Permit-required confined space",
+  "recordType": "rule-section",
+  "ruleText": "Lab 1402.35 “Permit-required confined space” means a confined space that has one or more of the following characteristics:\n\n(a) Contains or has a potential to contain a hazardous atmosphere;\n\n(b) Contains a material that has the potential for engulfing an entrant;\n\n(c) Has an internal configuration such that an entrant could be trapped or asphyxiated by inwardly converging walls or by a floor which slopes downward and tapers to a smaller cross-section; or\n\n(d) Contains any other recognized serious safety or health hazard.\n\nSource. #14431, eff 11-22-25, EXPIRES: 11-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1400.html"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1807.08",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:17",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1805",
+  "definition": "Renewing or Reinstating a Certification After Expiration, Suspension, or Revocation",
+  "effectiveDate": "2025-09-22",
+  "expirationDate": "2035-09-22",
+  "historyNote": "#14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1807.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html",
+  "prefLabel": "Plc 1807.08 Renewing or Reinstating a Certification After Expiration, Suspension, or Revocation",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1807.08 Renewing or Reinstating a Certification After Expiration, Suspension, or Revocation. The procedures in Plc 312 shall govern the renewal or reinstatement of a certification after expiration, suspension, or revocation.\n\nSource. #14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html"
+}

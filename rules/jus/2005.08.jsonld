@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/2005.08",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "611:19",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/2005",
+  "definition": "Log of Unidentified Remains",
+  "effectiveDate": "2007-07-14",
+  "historyNote": "#8937, eff 7-14-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 2005.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus2000.html",
+  "prefLabel": "Jus 2005.08 Log of Unidentified Remains",
+  "recordType": "rule-section",
+  "ruleText": "Jus 2005.08 Log of Unidentified Remains.\n\n(a) The responding ME shall complete Form ME-7, “Log of Unidentified Remains” for each death investigation where multiple, potentially human remains are found but cannot be immediately identified.\n\n(b) The responding ME shall list as many different items on a single form as space allows, but shall use as many forms as necessary to document and describe each item taken into custody.\n\n(c) The responding ME shall record the following information for each death investigation in which potentially human remains are found but cannot be immediately identified:\n\n(1) The suspected body part found;\n\n(2) The body part identification number;\n\n(3) The date and time that the remains were found;\n\n(4) The location where the remains were found;\n\n(5) The disposition of the remains; and\n\n(6) The name of the responding ME.\n\nSource. #8937, eff 7-14-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus2000.html"
+}

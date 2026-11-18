@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/507.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O",
+      "source": "https://granitestate.github.io/rsa/12-O",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-O:73",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "135:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/507",
+  "definition": "Purpose and Applicability",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 507.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 507.01 Purpose and Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Bea 507.01 Purpose and Applicability.\n\n(a) The purpose of this section is to provide the framework for implementation of the housing infrastructure municipal (HIM) grant program pursuant to RSA 21-O:73, II.\n\n(b) Subject to available funding, the department shall make grants to HC designation municipalities for new construction or capacity increases for drinking water, sanitary sewer, stormwater, highway infrastructure, telecommunication, and electrical distribution infrastructure.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

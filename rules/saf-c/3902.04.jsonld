@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3902.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Incident Command System (ICS)",
+  "authority": [
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3902",
+  "definition": "“Incident Command System” (ICS) means a standardized approach to the command, control, and coordination of on-scene incident management, providing a common hier",
+  "effectiveDate": "2019-12-31",
+  "historyNote": "#10014, eff 10-25-11; ss by #12966, eff 12-31-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3902.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3900.html",
+  "prefLabel": "Saf-C 3902.04 “Incident Command System” (ICS) means a standardized approach to the command, control, and coordination of on-scene incident management, providing a common hier",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3902.04 “Incident Command System” (ICS) means a standardized approach to the command, control, and coordination of on-scene incident management, providing a common hierarchy within which personnel from multiple organizations can be effective. ICS is the combination of procedures, personnel, facilities, equipment, and communications operating within a common organizational structure, designed to aid in the management of on-scene resources during incidents. It is used for all kinds of incidents and is applicable to small, as well as large and complex, incidents, including planned events.\n\nSource. #10014, eff 10-25-11; ss by #12966, eff 12-31-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3900.html"
+}

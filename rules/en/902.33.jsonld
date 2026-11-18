@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/902.33",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Standard Net Metering Tariff",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/902",
+  "definition": "Standard net metering tariff",
+  "effectiveDate": "2026-04-27",
+  "expirationDate": "2036-04-27",
+  "historyNote": "#14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 902.33",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html",
+  "prefLabel": "En 902.33 Standard net metering tariff",
+  "recordType": "rule-section",
+  "ruleText": "En 902.33 “Standard net metering tariff” means the net energy metering tariff provisions as specified in RSA 362-A:9, as applicable to customer-generators receiving a utility net metering capacity allocation prior to September 1, 2017, and not in excess of the net metering cap applicable prior to commission adoption of the alternative net metering tariff.\n\nSource. #14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html"
+}

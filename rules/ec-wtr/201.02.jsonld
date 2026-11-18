@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wtr/201.02",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wtr",
+  "authority": [
+    {
+      "citation": "21-O:7",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-7",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wtr/201",
+  "definition": "Computation of Time and Deadlines",
+  "effectiveDate": "2024-04-11",
+  "historyNote": "(See Revision Note # 1 and Revision Note #2 at chapter heading for Ec-Wtr 200) #13923, eff 4-11-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wtr 201.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr200.html",
+  "prefLabel": "Ec-Wtr 201.02 Computation of Time and Deadlines",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Wtr 201.02 Computation of Time and Deadlines.\n\n(a) All time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion, and shall end at the close of council business on the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday, or state legal holiday, then the time period shall be extended to the close of council business on the first business day following the Saturday, Sunday, or state legal holiday.\n\n(d) Any filing not delivered to the council address before the close of council business hours on the last day of any time period computed under these rules shall be deemed untimely filed and shall not be considered by the council.\n\nSource. (See Revision Note # 1 and Revision Note #2 at chapter heading for Ec-Wtr 200) #13923, eff 4-11-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr200.html"
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6003",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "DESCRIPTION OF FIRE MARSHAL'S OFFICE",
+  "authority": [
+    {
+      "citation": "153:5",
+      "source": "https://granitestate.github.io/rsa/153/153-5",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "153:8-a",
+      "source": "https://granitestate.github.io/rsa/153/153-8-a",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "153:10-a",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "153:10-b",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "153:14",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-14",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "158:28",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-5",
+    "https://granitestate.github.io/rsa/153/153-8-a",
+    "https://granitestate.github.io/rsa/153/153-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6000",
+  "definition": "DESCRIPTION OF FIRE MARSHAL’S OFFICE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/6003.01",
+    "https://granitestate.github.io/rules/saf-c/6003.02",
+    "https://granitestate.github.io/rules/saf-c/6003.03",
+    "https://granitestate.github.io/rules/saf-c/6003.04"
+  ],
+  "notation": "Saf-C 6003",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html",
+  "prefLabel": "Saf-C 6003 DESCRIPTION OF FIRE MARSHAL’S OFFICE",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 6003 DESCRIPTION OF FIRE MARSHAL’S OFFICE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6000.html"
+}

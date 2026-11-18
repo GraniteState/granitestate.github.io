@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/815.01",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "207:14",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "212:25",
+      "source": "https://granitestate.github.io/rsa/212/212-25",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14",
+    "https://granitestate.github.io/rsa/212/212-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/815",
+  "definition": "Denial of a Permit to Import, Possess, Sell, Exhibit, or Release Wildlife",
+  "effectiveDate": "2026-04-21",
+  "expirationDate": "2036-04-21",
+  "historyNote": "#13513, eff 1-1-23; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 815.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 815.01 Denial of a Permit to Import, Possess, Sell, Exhibit, or Release Wildlife",
+  "recordType": "rule-section",
+  "ruleText": "Fis 815.01 Denial of a Permit to Import, Possess, Sell, Exhibit, or Release Wildlife.\n\n(a) Pursuant to RSA 207:14, I(a), a request for a permit to import, possess, sell, exhibit, or release wildlife shall be granted unless the chief of the fish and game department’s wildlife division denies such request due to risks of disease, genetic, ecological, environmental, health, safety, or welfare to persons, marine species, or other wildlife.\n\n(b) The chief of the wildlife division shall notify the applicant in writing of the reasons a permit has been denied. Such notice shall be given within 60 days of the request for a permit.\n\nSource. #13513, eff 1-1-23; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

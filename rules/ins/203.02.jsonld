@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/203.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/203",
+  "definition": "Withdrawal of Hearing Officer",
+  "effectiveDate": "2020-07-27",
+  "historyNote": "(See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html",
+  "prefLabel": "Ins 203.02 Withdrawal of Hearing Officer",
+  "recordType": "rule-section",
+  "ruleText": "Ins 203.02 Withdrawal of Hearing Officer.\n\n(a) Upon the hearing officer's own initiative or upon the motion or request of any party, a hearing officer shall, for good cause, withdraw from any appeal.\n\n(b) Good cause shall exist if a hearing officer has a direct interest in the outcome of the hearing or any connection with the parties that would be likely to improperly influence his or her judgment.\n\n(c) Mere knowledge of the issues, the parties, or any witness shall not constitute good cause for withdrawal.\n\nSource. (See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html"
+}

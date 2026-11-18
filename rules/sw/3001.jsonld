@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sw/3001",
+  "@type": "Concept",
+  "agencyCode": "Sw",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/sw/3000",
+  "definition": "NEW HAMPSHIRE POWERBALL GAME",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/sw/3001.01",
+    "https://granitestate.github.io/rules/sw/3001.02",
+    "https://granitestate.github.io/rules/sw/3001.03",
+    "https://granitestate.github.io/rules/sw/3001.04",
+    "https://granitestate.github.io/rules/sw/3001.05",
+    "https://granitestate.github.io/rules/sw/3001.06",
+    "https://granitestate.github.io/rules/sw/3001.07",
+    "https://granitestate.github.io/rules/sw/3001.08",
+    "https://granitestate.github.io/rules/sw/3001.09",
+    "https://granitestate.github.io/rules/sw/3001.10",
+    "https://granitestate.github.io/rules/sw/3001.11",
+    "https://granitestate.github.io/rules/sw/3001.12"
+  ],
+  "notation": "Sw 3001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw3000.html",
+  "prefLabel": "Sw 3001 NEW HAMPSHIRE POWERBALL GAME",
+  "recordType": "rule-part",
+  "ruleText": "PART Sw 3001 NEW HAMPSHIRE POWERBALL GAME",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw3000.html"
+}

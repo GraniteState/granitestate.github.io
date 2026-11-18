@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/304.06",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "XII-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "317-A:20",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12",
+    "https://granitestate.github.io/rsa/317-A/317-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/304",
+  "definition": "Administration of General Anesthesia or Sedation Exclusively by a Separate Dedicated Qualified Provider",
+  "effectiveDate": "2025-08-03",
+  "expirationDate": "2035-08-03",
+  "historyNote": "#12428, eff 12-6-17; ss by #14246, eff 8-3-25, EXPIRES: 8-3-35 (formerly Den 304.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 304.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 304.06 Administration of General Anesthesia or Sedation Exclusively by a Separate Dedicated Qualified Provider",
+  "recordType": "rule-section",
+  "ruleText": "Den 304.06 Administration of General Anesthesia or Sedation Exclusively by a Separate Dedicated Qualified Provider. Dentists shall not be obligated to obtain a sedation or anesthesia permit pursuant to this part if general anesthesia, deep sedation, or moderate sedation is being administered exclusively by a separate dedicated qualified provider, so long as the hosting dentist obtains an anesthesia facility permit or facility hosting permit as described in Den 304.03.\n\nSource. #12428, eff 12-6-17; ss by #14246, eff 8-3-25, EXPIRES: 8-3-35 (formerly Den 304.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

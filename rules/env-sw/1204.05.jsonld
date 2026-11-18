@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1204.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1204",
+  "definition": "Landfill Operating Requirements",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2904.05); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1204.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html",
+  "prefLabel": "Env-Sw 1204.05 Landfill Operating Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1204.05 Landfill Operating Requirements. The following requirements shall apply to operating all permit-by-notification landfills:\n\n(a) At all times during facility operations, the permittee shall maintain cover materials at the site in a quantity sufficient to comply with all daily and final cover requirements specified by the solid waste rules, except publicly owned facilities with an active life longer than 90 days may maintain the cover materials at other locations readily accessible to the site and permittee;\n\n(b) Only soil shall be used as cover material;\n\n(c) Waste shall be placed, compacted, and covered in a manner as to eliminate voids, limit settlement, and otherwise limit the potential for sink-holes or surface openings to develop; and\n\n(d) Waste shall be placed only within the vertical and lateral limits of the facility as identified on a plan submitted in the permit application pursuant to Env-Sw 311 and approved by the department by permit issuance.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1200) ss by #8459, eff 10-28-05 (formerly Env-Wm 2904.05); ss by #10595, eff 7-1-14; ss by #13865, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1200.html"
+}

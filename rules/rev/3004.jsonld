@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3004",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "478:17-g",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/478/478-17-g",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/478/478-17-g"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3000",
+  "definition": "FORMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/3004.01",
+    "https://granitestate.github.io/rules/rev/3004.02",
+    "https://granitestate.github.io/rules/rev/3004.03",
+    "https://granitestate.github.io/rules/rev/3004.04",
+    "https://granitestate.github.io/rules/rev/3004.05",
+    "https://granitestate.github.io/rules/rev/3004.06"
+  ],
+  "notation": "Rev 3004",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3000.html",
+  "prefLabel": "Rev 3004 FORMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 3004 FORMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3000.html"
+}

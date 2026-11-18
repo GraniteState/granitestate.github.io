@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emab/202.15",
+  "@type": "Concept",
+  "agencyCode": "Emab",
+  "authority": [
+    {
+      "citation": "91-A:6",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "282-A:117",
+      "source": "https://granitestate.github.io/rsa/282-A/282-A-117",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-6",
+    "https://granitestate.github.io/rsa/282-A/282-A-117"
+  ],
+  "broader": "https://granitestate.github.io/rules/emab/202",
+  "definition": "Confidentiality of Hearings",
+  "effectiveDate": "2013-08-09",
+  "historyNote": "#10394, eff 8-9-13",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emab 202.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emab200.html",
+  "prefLabel": "Emab 202.15 Confidentiality of Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Emab 202.15 Confidentiality of Hearings. At the hearing, the presiding member shall deny access to any person not a party nor a proper representative to the specific proceeding before the board, except upon agreement of the parties.\n\nSource. #10394, eff 8-9-13",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emab200.html"
+}

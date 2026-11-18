@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/302",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:129",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:131",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:132",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/300",
+  "definition": "QUALIFICATIONS OF APPLICANTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/geo/302.01",
+    "https://granitestate.github.io/rules/geo/302.02",
+    "https://granitestate.github.io/rules/geo/302.03",
+    "https://granitestate.github.io/rules/geo/302.04",
+    "https://granitestate.github.io/rules/geo/302.05",
+    "https://granitestate.github.io/rules/geo/302.06"
+  ],
+  "notation": "Geo 302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 302 QUALIFICATIONS OF APPLICANTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Geo 302 QUALIFICATIONS OF APPLICANTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

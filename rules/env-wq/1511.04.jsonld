@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1511.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1511",
+  "definition": "Conditions for Sheet Flow",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1511.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1511.04 Conditions for Sheet Flow",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1511.04 Conditions for Sheet Flow. Stormwater runoff emanating from panel drip edges shall be assumed to remain in a sheet flow condition provided the following conditions in (a) or (b) are met:\n\n(a) All of the following are met:\n\n(1) The panel drip edges are no more than 75 degrees from parallel to the post-construction land contour lines;\n\n(2) The drip edges of the panels are more than 1.5 feet and less than 10 feet above the land surface;\n\n(3) The stormwater runoff emanating from the panel drip edges flows over at least 25 feet of vegetated area before discharging to a wetland as defined by RSA 482-A; and\n\n(4) The land cover under the panels and in rows separating panels will consist of vegetation with at least 85% vegetative cover, uniformly distributed; or\n\n(b) A level spreader that collects the runoff from the panel drip edges which meets the following:\n\n(1) Runoff is directed to the level spreader through a channel that follows the contour of the slope such that the runoff entering the level spreader does not disturb the integrity of the level spreader;\n\n(2) No more than 6,000 square feet of panel area is directed to the level spreader, unless supporting calculations show that depth of runoff during a 2-year, 24-hour storm does not exceed 0.1 feet;\n\n(3) The level spreader lip is no less than 20 feet and no greater than 50 feet in length; and\n\n(4) The runoff from the level spreader is immediately distributed to a vegetated buffer that:\n\na. Does not have additional runoff directed to the vegetated buffer from upstream developed areas, other than the flow discharged from the level spreader;\n\nb. Is at least 50 feet long;\n\nc. Has a uniform slope that does not exceed 15%; and\n\nd. Is not an area of RSA 482-A jurisdiction.\n\nSource. #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

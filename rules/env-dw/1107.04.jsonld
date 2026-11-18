@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1107.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "486:14",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/486/486-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/486/486-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1107",
+  "definition": "Interest Rates Established",
+  "effectiveDate": "2021-01-20",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Dw 1100) #13160, eff 1-20-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1107.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1100.html",
+  "prefLabel": "Env-Dw 1107.04 Interest Rates Established",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1107.04 Interest Rates Established.\n\n(a) The interest rate charged on the outstanding balance of disbursed funds prior to the scheduled completion date or substantial completion date shall be equal to 1.0 % annually.\n\n(b) The interest rate charged on the outstanding balance of disbursed funds after the date of scheduled completion or substantial completion, whichever is earlier, shall be based on the repayment period selected by the applicant and the interest rate established in the applicable IUP (IUP rate) that is in effect at the time the loan agreement is transmitted to the loan recipient pursuant to Env-Dw 1107.02(b) or Env-Dw 1107.03(c), as applicable, as shown in (c), below.\n\n(c) Unless otherwise specified in the applicable IUP, and subject to adjustment pursuant to Env-Dw 1107.11, the interest rate based on the repayment period selected by the applicant shall be as shown in table 1107-1, below:\n\nTable 1107-1: Interest Rate Based On Repayment Period Selected by Applicant\n\nRepayment Period Selected | Interest Rate\n\n5 years | 25% of IUP rate\n\n10 years | 50% of IUP rate\n\n15 years | 75% of IUP rate\n\n20 years | 80% of IUP rate\n\nMore than 20 years, if available under the specific capitalization grant from which the funds are loaned | Calculated as specified in the applicable IUP\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Dw 1100) #13160, eff 1-20-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1100.html"
+}

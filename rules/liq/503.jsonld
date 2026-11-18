@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/503",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "178:20",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:21",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/178/178-21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178/178-21"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/500",
+  "definition": "ON-PREMISES RESTAURANT LICENSEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/503.01",
+    "https://granitestate.github.io/rules/liq/503.02",
+    "https://granitestate.github.io/rules/liq/503.03",
+    "https://granitestate.github.io/rules/liq/503.04"
+  ],
+  "notation": "Liq 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 503 ON-PREMISES RESTAURANT LICENSEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 503 ON-PREMISES RESTAURANT LICENSEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

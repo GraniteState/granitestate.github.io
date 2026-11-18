@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/inst",
+  "@type": "Concept",
+  "agencyCode": "Inst",
+  "definition": "Installation Standards Board (See RSA 205-D:20, pursuant to 2004, 191:1, effective 7-1-04.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/inst/100",
+    "https://granitestate.github.io/rules/inst/200",
+    "https://granitestate.github.io/rules/inst/300",
+    "https://granitestate.github.io/rules/inst/400",
+    "https://granitestate.github.io/rules/inst/500",
+    "https://granitestate.github.io/rules/inst/600",
+    "https://granitestate.github.io/rules/inst/700"
+  ],
+  "notation": "Inst",
+  "prefLabel": "Inst Installation Standards Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

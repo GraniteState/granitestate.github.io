@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Additional Requirements for Response to Releases",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.06 Additional Requirements for Response to Releases",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.06 Additional Requirements for Response to Releases.\n\n(a) In the event of a release of used oil, a used oil transporter shall comply with the requirements of Env-Hw 1405.04 and, as applicable:\n\n(1) An air, rail, highway, or water transporter that has discharged used oil shall:\n\na. Give notice, if required by 49 CFR 171.15, to the national response center by calling (800) 424–8802 or (202) 426–2675; and\n\nb. Report the discharge in writing as required by 49 CFR 171.16; and\n\n(2) A water transporter that has discharged used oil shall give notice as required by 33 CFR 153.203.\n\n(b) If a discharge of used oil occurs during transportation and an official, from state or local government or a federal agency, acting within the scope of official responsibilities determines that immediate removal of the used oil is necessary to protect human health or the environment, that official may authorize the removal of the used oil by transporters that do not have EPA identification numbers or current and valid New Hampshire hazardous waste transporter registrations.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

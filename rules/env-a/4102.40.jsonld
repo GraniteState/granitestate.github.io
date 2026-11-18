@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4102.40",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Contact Adhesive",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4102",
+  "definition": "Contact adhesive",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4102.40",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4102.40 Contact adhesive",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4102.40 “Contact adhesive” means a non-aerosol adhesive, other than rubber cements that are primarily intended for use on paper substrates, that:\n\n(a) Does not need sustained pressure or clamping of surfaces after the adhesive-coated surfaces have been brought together using sufficient momentary pressure to establish full contact between both surfaces;\n\n(b) Forms an immediate bond that is impossible, or difficult, to reposition after both adhesive-coated surfaces are placed in contact with each other;\n\n(c) Is allowed to dry before the 2 surfaces are placed in contact with each other; and\n\n(d) Is designed for application to both surfaces to be bonded together.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

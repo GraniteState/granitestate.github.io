@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tra/601",
+  "@type": "Concept",
+  "agencyCode": "Tra",
+  "authority": [
+    {
+      "citation": "236:84",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "236:88-a",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/tra/600",
+  "definition": "OFF PREMISE OUTDOOR ADVERTISING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tra/601.01",
+    "https://granitestate.github.io/rules/tra/601.02",
+    "https://granitestate.github.io/rules/tra/601.03",
+    "https://granitestate.github.io/rules/tra/601.04",
+    "https://granitestate.github.io/rules/tra/601.05",
+    "https://granitestate.github.io/rules/tra/601.06",
+    "https://granitestate.github.io/rules/tra/601.07",
+    "https://granitestate.github.io/rules/tra/601.08",
+    "https://granitestate.github.io/rules/tra/601.09",
+    "https://granitestate.github.io/rules/tra/601.10",
+    "https://granitestate.github.io/rules/tra/601.11",
+    "https://granitestate.github.io/rules/tra/601.12",
+    "https://granitestate.github.io/rules/tra/601.13",
+    "https://granitestate.github.io/rules/tra/601.14",
+    "https://granitestate.github.io/rules/tra/601.15"
+  ],
+  "notation": "Tra 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra600.html",
+  "prefLabel": "Tra 601 OFF PREMISE OUTDOOR ADVERTISING",
+  "recordType": "rule-part",
+  "ruleText": "PART Tra 601 OFF PREMISE OUTDOOR ADVERTISING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra600.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1902",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "427:38",
+      "source": "https://granitestate.github.io/rsa/427/427-38",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/427/427-38"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1900",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1902.01",
+    "https://granitestate.github.io/rules/agr/1902.02",
+    "https://granitestate.github.io/rules/agr/1902.03"
+  ],
+  "notation": "Agr 1902",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html",
+  "prefLabel": "Agr 1902 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1902 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html"
+}

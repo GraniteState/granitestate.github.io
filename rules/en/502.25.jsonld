@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/502.25",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Total Heating Value",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/502",
+  "definition": "Total heating value",
+  "effectiveDate": "2023-10-25",
+  "historyNote": "#13796, eff 10-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 502.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html",
+  "prefLabel": "En 502.25 Total heating value",
+  "recordType": "rule-section",
+  "ruleText": "En 502.25 \"Total heating value\" means the number of British thermal units (Btu) produced by the combustion, at constant pressure, of the amount of gas which would occupy a volume of one cubic foot at a temperature of 60 degrees Fahrenheit and under standard gravitational force with air of the same temperature and pressure as the gas, when the products of combustion are cooled to the initial temperature of the gas and air, and when the water formed by combustion is condensed to the liquid state.\n\nSource. #13796, eff 10-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html"
+}

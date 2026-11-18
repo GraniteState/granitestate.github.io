@@ -1,0 +1,1218 @@
+{
+  "_comment": "Inventory of administrative-rule pages. A rule id such as Elec 101.01 is https://granitestate.github.io/rules/elec/101.01. Fetch the identifier plus .jsonld. Humans open the .html file. An agency is the directory /rules/elec/. RSA authority that has no page in this build is listed in rules/UNRESOLVED_CITATIONS.md. Secretary of State rules are absent because sos.nh.gov returned HTTP 403.",
+  "addressScheme": "Elec 101.01 is https://granitestate.github.io/rules/elec/101.01. The agency segment is the lowercased rule prefix. The number segment omits the prefix. RSA 659:21 linked from a rule is https://granitestate.github.io/rsa/659/659-21.",
+  "agencies": [
+    {
+      "code": "Abfd",
+      "html": "rules/abfd/index.html",
+      "id": "https://granitestate.github.io/rules/abfd",
+      "jsonld": "rules/abfd/index.jsonld",
+      "name": "Committee on Architectural Barrier-Free Design of the Governor's Commission on Disability",
+      "sections": 73
+    },
+    {
+      "code": "Ac",
+      "html": "rules/ac/index.html",
+      "id": "https://granitestate.github.io/rules/ac",
+      "jsonld": "rules/ac/index.jsonld",
+      "name": "Board of Accountancy",
+      "sections": 93
+    },
+    {
+      "code": "Acp",
+      "html": "rules/acp/index.html",
+      "id": "https://granitestate.github.io/rules/acp",
+      "jsonld": "rules/acp/index.jsonld",
+      "name": "Board of Acupuncture Licensing",
+      "sections": 70
+    },
+    {
+      "code": "Adm",
+      "html": "rules/adm/index.html",
+      "id": "https://granitestate.github.io/rules/adm",
+      "jsonld": "rules/adm/index.jsonld",
+      "name": "Commissioner, Department of Administrative Services www.state.nh.us/das",
+      "sections": 213
+    },
+    {
+      "code": "Agr",
+      "html": "rules/agr/index.html",
+      "id": "https://granitestate.github.io/rules/agr",
+      "jsonld": "rules/agr/index.jsonld",
+      "name": "Commissioner, Department of Agriculture, Markets, and Food www.nh.gov/agric",
+      "sections": 703
+    },
+    {
+      "code": "Ahp",
+      "html": "rules/ahp/index.html",
+      "id": "https://granitestate.github.io/rules/ahp",
+      "jsonld": "rules/ahp/index.jsonld",
+      "name": "Board of Directors, Office of Licensed Allied Health Professionals",
+      "sections": 79
+    },
+    {
+      "code": "Alc",
+      "html": "rules/alc/index.html",
+      "id": "https://granitestate.github.io/rules/alc",
+      "jsonld": "rules/alc/index.jsonld",
+      "name": "Board of Licensing for Alcohol and Other Drug Use Professionals",
+      "sections": 128
+    },
+    {
+      "code": "App",
+      "html": "rules/app/index.html",
+      "id": "https://granitestate.github.io/rules/app",
+      "jsonld": "rules/app/index.jsonld",
+      "name": "State Apprenticeship Council",
+      "sections": 92
+    },
+    {
+      "code": "Arb",
+      "html": "rules/arb/index.html",
+      "id": "https://granitestate.github.io/rules/arb",
+      "jsonld": "rules/arb/index.jsonld",
+      "name": "New Motor Vehicle Arbitration Board",
+      "sections": 52
+    },
+    {
+      "code": "Arch",
+      "html": "rules/arch/index.html",
+      "id": "https://granitestate.github.io/rules/arch",
+      "jsonld": "rules/arch/index.jsonld",
+      "name": "Board of Architects www.state.nh.us/jtboard/home.htm",
+      "sections": 50
+    },
+    {
+      "code": "Asb",
+      "html": "rules/asb/index.html",
+      "id": "https://granitestate.github.io/rules/asb",
+      "jsonld": "rules/asb/index.jsonld",
+      "name": "Assessing Standards Board",
+      "sections": 43
+    },
+    {
+      "code": "Ath",
+      "html": "rules/ath/index.html",
+      "id": "https://granitestate.github.io/rules/ath",
+      "jsonld": "rules/ath/index.jsonld",
+      "name": "Governing Board of Athletic Trainers",
+      "sections": 59
+    },
+    {
+      "code": "Auc",
+      "html": "rules/auc/index.html",
+      "id": "https://granitestate.github.io/rules/auc",
+      "jsonld": "rules/auc/index.jsonld",
+      "name": "State Board of Auctioneers",
+      "sections": 41
+    },
+    {
+      "code": "Avi",
+      "html": "rules/avi/index.html",
+      "id": "https://granitestate.github.io/rules/avi",
+      "jsonld": "rules/avi/index.jsonld",
+      "name": "Aviation Users Advisory Board",
+      "sections": 37
+    },
+    {
+      "code": "Bal",
+      "html": "rules/bal/index.html",
+      "id": "https://granitestate.github.io/rules/bal",
+      "jsonld": "rules/bal/index.jsonld",
+      "name": "Ballot Law Commission",
+      "sections": 8
+    },
+    {
+      "code": "Ban",
+      "html": "rules/ban/index.html",
+      "id": "https://granitestate.github.io/rules/ban",
+      "jsonld": "rules/ban/index.jsonld",
+      "name": "Commissioner, Banking Department",
+      "sections": 77
+    },
+    {
+      "code": "Bar",
+      "html": "rules/bar/index.html",
+      "id": "https://granitestate.github.io/rules/bar",
+      "jsonld": "rules/bar/index.jsonld",
+      "name": "Board of Barbering, Cosmetology and Esthetics",
+      "sections": 140
+    },
+    {
+      "code": "Bcr",
+      "html": "rules/bcr/index.html",
+      "id": "https://granitestate.github.io/rules/bcr",
+      "jsonld": "rules/bcr/index.jsonld",
+      "name": "State Building Code Review Board",
+      "sections": 79
+    },
+    {
+      "code": "Bea",
+      "html": "rules/bea/index.html",
+      "id": "https://granitestate.github.io/rules/bea",
+      "jsonld": "rules/bea/index.jsonld",
+      "name": "Commissioner, Department of Business and Economic Affairs",
+      "sections": 214
+    },
+    {
+      "code": "Bfa",
+      "html": "rules/bfa/index.html",
+      "id": "https://granitestate.github.io/rules/bfa",
+      "jsonld": "rules/bfa/index.jsonld",
+      "name": "Business Finance Authority",
+      "sections": 55
+    },
+    {
+      "code": "Bfc",
+      "html": "rules/bfc/index.html",
+      "id": "https://granitestate.github.io/rules/bfc",
+      "jsonld": "rules/bfc/index.jsonld",
+      "name": "Board of Fire Control",
+      "sections": 37
+    },
+    {
+      "code": "Box",
+      "html": "rules/box/index.html",
+      "id": "https://granitestate.github.io/rules/box",
+      "jsonld": "rules/box/index.jsonld",
+      "name": "Boxing and Wrestling Commission",
+      "sections": 43
+    },
+    {
+      "code": "Cdfa",
+      "html": "rules/cdfa/index.html",
+      "id": "https://granitestate.github.io/rules/cdfa",
+      "jsonld": "rules/cdfa/index.jsonld",
+      "name": "Community Development Finance Authority",
+      "sections": 110
+    },
+    {
+      "code": "Ch",
+      "html": "rules/ch/index.html",
+      "id": "https://granitestate.github.io/rules/ch",
+      "jsonld": "rules/ch/index.jsonld",
+      "name": "Board of Chiropractic Examiners",
+      "sections": 88
+    },
+    {
+      "code": "Cla",
+      "html": "rules/cla/index.html",
+      "id": "https://granitestate.github.io/rules/cla",
+      "jsonld": "rules/cla/index.jsonld",
+      "name": "Board of Claims",
+      "sections": 86
+    },
+    {
+      "code": "Cmp",
+      "html": "rules/cmp/index.html",
+      "id": "https://granitestate.github.io/rules/cmp",
+      "jsonld": "rules/cmp/index.jsonld",
+      "name": "McAuliffe-Shepard Discovery Center Commission",
+      "sections": 58
+    },
+    {
+      "code": "Cor",
+      "html": "rules/cor/index.html",
+      "id": "https://granitestate.github.io/rules/cor",
+      "jsonld": "rules/cor/index.jsonld",
+      "name": "Commissioner, Department of Corrections",
+      "sections": 251
+    },
+    {
+      "code": "Crv",
+      "html": "rules/crv/index.html",
+      "id": "https://granitestate.github.io/rules/crv",
+      "jsonld": "rules/crv/index.jsonld",
+      "name": "Connecticut River Valley Resource Commission",
+      "sections": 12
+    },
+    {
+      "code": "Csp",
+      "html": "rules/csp/index.html",
+      "id": "https://granitestate.github.io/rules/csp",
+      "jsonld": "rules/csp/index.jsonld",
+      "name": "N.H. College Tuition Savings Plan Advisory Commission",
+      "sections": 103
+    },
+    {
+      "code": "Cub",
+      "html": "rules/cub/index.html",
+      "id": "https://granitestate.github.io/rules/cub",
+      "jsonld": "rules/cub/index.jsonld",
+      "name": "Chairman, Current Use Board",
+      "sections": 114
+    },
+    {
+      "code": "Cul-H",
+      "html": "rules/cul-h/index.html",
+      "id": "https://granitestate.github.io/rules/cul-h",
+      "jsonld": "rules/cul-h/index.jsonld",
+      "name": "Division of Historical Resources",
+      "sections": 96
+    },
+    {
+      "code": "Dec",
+      "html": "rules/dec/index.html",
+      "id": "https://granitestate.github.io/rules/dec",
+      "jsonld": "rules/dec/index.jsonld",
+      "name": "Nuclear Decommissioning Financing Committee",
+      "sections": 71
+    },
+    {
+      "code": "Den",
+      "html": "rules/den/index.html",
+      "id": "https://granitestate.github.io/rules/den",
+      "jsonld": "rules/den/index.jsonld",
+      "name": "Board of Dental Examiners",
+      "sections": 115
+    },
+    {
+      "code": "Diet",
+      "html": "rules/diet/index.html",
+      "id": "https://granitestate.github.io/rules/diet",
+      "jsonld": "rules/diet/index.jsonld",
+      "name": "Board of Licensed Dietitians",
+      "sections": 56
+    },
+    {
+      "code": "Ec-Air",
+      "html": "rules/ec-air/index.html",
+      "id": "https://granitestate.github.io/rules/ec-air",
+      "jsonld": "rules/ec-air/index.jsonld",
+      "name": "Air Resources Council",
+      "sections": 36
+    },
+    {
+      "code": "Ec-Wet",
+      "html": "rules/ec-wet/index.html",
+      "id": "https://granitestate.github.io/rules/ec-wet",
+      "jsonld": "rules/ec-wet/index.jsonld",
+      "name": "Wetlands Council",
+      "sections": 35
+    },
+    {
+      "code": "Ec-Wst",
+      "html": "rules/ec-wst/index.html",
+      "id": "https://granitestate.github.io/rules/ec-wst",
+      "jsonld": "rules/ec-wst/index.jsonld",
+      "name": "Waste Management Council",
+      "sections": 36
+    },
+    {
+      "code": "Ec-Wtr",
+      "html": "rules/ec-wtr/index.html",
+      "id": "https://granitestate.github.io/rules/ec-wtr",
+      "jsonld": "rules/ec-wtr/index.jsonld",
+      "name": "Water Council",
+      "sections": 36
+    },
+    {
+      "code": "Ed",
+      "html": "rules/ed/index.html",
+      "id": "https://granitestate.github.io/rules/ed",
+      "jsonld": "rules/ed/index.jsonld",
+      "name": "Board of Education",
+      "sections": 897
+    },
+    {
+      "code": "Elec",
+      "html": "rules/elec/index.html",
+      "id": "https://granitestate.github.io/rules/elec",
+      "jsonld": "rules/elec/index.jsonld",
+      "name": "Electricians' Board",
+      "sections": 65
+    },
+    {
+      "code": "Emab",
+      "html": "rules/emab/index.html",
+      "id": "https://granitestate.github.io/rules/emab",
+      "jsonld": "rules/emab/index.jsonld",
+      "name": "Unemployment Compensation Appellate Board for the Department of Employment Security",
+      "sections": 32
+    },
+    {
+      "code": "Emp",
+      "html": "rules/emp/index.html",
+      "id": "https://granitestate.github.io/rules/emp",
+      "jsonld": "rules/emp/index.jsonld",
+      "name": "Commissioner, Department of Employment Security www.nhes.nh.gov",
+      "sections": 257
+    },
+    {
+      "code": "En",
+      "html": "rules/en/index.html",
+      "id": "https://granitestate.github.io/rules/en",
+      "jsonld": "rules/en/index.jsonld",
+      "name": "Department of Energy",
+      "sections": 890
+    },
+    {
+      "code": "Eng",
+      "html": "rules/eng/index.html",
+      "id": "https://granitestate.github.io/rules/eng",
+      "jsonld": "rules/eng/index.jsonld",
+      "name": "Board of Professional Engineers www.state.nh.us/jtboard/home.htm",
+      "sections": 53
+    },
+    {
+      "code": "Env-A",
+      "html": "rules/env-a/index.html",
+      "id": "https://granitestate.github.io/rules/env-a",
+      "jsonld": "rules/env-a/index.jsonld",
+      "name": "Air Related Programs",
+      "sections": 2446
+    },
+    {
+      "code": "Env-C",
+      "html": "rules/env-c/index.html",
+      "id": "https://granitestate.github.io/rules/env-c",
+      "jsonld": "rules/env-c/index.jsonld",
+      "name": "Cross-Program Rules",
+      "sections": 294
+    },
+    {
+      "code": "Env-Dw",
+      "html": "rules/env-dw/index.html",
+      "id": "https://granitestate.github.io/rules/env-dw",
+      "jsonld": "rules/env-dw/index.jsonld",
+      "name": "Drinking Water Programs",
+      "sections": 1407
+    },
+    {
+      "code": "Env-Hw",
+      "html": "rules/env-hw/index.html",
+      "id": "https://granitestate.github.io/rules/env-hw",
+      "jsonld": "rules/env-hw/index.jsonld",
+      "name": "Hazardous Waste Programs",
+      "sections": 640
+    },
+    {
+      "code": "Env-Or",
+      "html": "rules/env-or/index.html",
+      "id": "https://granitestate.github.io/rules/env-or",
+      "jsonld": "rules/env-or/index.jsonld",
+      "name": "Oil and Remediation Programs",
+      "sections": 614
+    },
+    {
+      "code": "Env-Sw",
+      "html": "rules/env-sw/index.html",
+      "id": "https://granitestate.github.io/rules/env-sw",
+      "jsonld": "rules/env-sw/index.jsonld",
+      "name": "Solid Waste Programs",
+      "sections": 977
+    },
+    {
+      "code": "Env-WC",
+      "html": "rules/env-wc/index.html",
+      "id": "https://granitestate.github.io/rules/env-wc",
+      "jsonld": "rules/env-wc/index.jsonld",
+      "name": "Water Council",
+      "sections": 77
+    },
+    {
+      "code": "Env-Wm",
+      "html": "rules/env-wm/index.html",
+      "id": "https://granitestate.github.io/rules/env-wm",
+      "jsonld": "rules/env-wm/index.jsonld",
+      "name": "Env-Wm",
+      "sections": 0
+    },
+    {
+      "code": "Env-WMC",
+      "html": "rules/env-wmc/index.html",
+      "id": "https://granitestate.github.io/rules/env-wmc",
+      "jsonld": "rules/env-wmc/index.jsonld",
+      "name": "Waste Management Council",
+      "sections": 63
+    },
+    {
+      "code": "Env-Wq",
+      "html": "rules/env-wq/index.html",
+      "id": "https://granitestate.github.io/rules/env-wq",
+      "jsonld": "rules/env-wq/index.jsonld",
+      "name": "Water Quality and Quantity Programs",
+      "sections": 2305
+    },
+    {
+      "code": "Env-Wr",
+      "html": "rules/env-wr/index.html",
+      "id": "https://granitestate.github.io/rules/env-wr",
+      "jsonld": "rules/env-wr/index.jsonld",
+      "name": "Dam-Related Programs",
+      "sections": 173
+    },
+    {
+      "code": "Env-Wt",
+      "html": "rules/env-wt/index.html",
+      "id": "https://granitestate.github.io/rules/env-wt",
+      "jsonld": "rules/env-wt/index.jsonld",
+      "name": "Wetlands Programs",
+      "sections": 820
+    },
+    {
+      "code": "Eth",
+      "html": "rules/eth/index.html",
+      "id": "https://granitestate.github.io/rules/eth",
+      "jsonld": "rules/eth/index.jsonld",
+      "name": "Executive Branch Ethics Committee",
+      "sections": 83
+    },
+    {
+      "code": "Fam",
+      "html": "rules/fam/index.html",
+      "id": "https://granitestate.github.io/rules/fam",
+      "jsonld": "rules/fam/index.jsonld",
+      "name": "Board of Family Mediator Certification",
+      "sections": 165
+    },
+    {
+      "code": "Fire",
+      "html": "rules/fire/index.html",
+      "id": "https://granitestate.github.io/rules/fire",
+      "jsonld": "rules/fire/index.jsonld",
+      "name": "Fire Standards and Training Commission www.nh.gov/safety/divisions/fstems",
+      "sections": 111
+    },
+    {
+      "code": "Fis",
+      "html": "rules/fis/index.html",
+      "id": "https://granitestate.github.io/rules/fis",
+      "jsonld": "rules/fis/index.jsonld",
+      "name": "Executive Director, Fish and Game Department www.wildlife.state.nh.us",
+      "sections": 731
+    },
+    {
+      "code": "Fors",
+      "html": "rules/fors/index.html",
+      "id": "https://granitestate.github.io/rules/fors",
+      "jsonld": "rules/fors/index.jsonld",
+      "name": "Board of Licensing for Foresters",
+      "sections": 51
+    },
+    {
+      "code": "Frl",
+      "html": "rules/frl/index.html",
+      "id": "https://granitestate.github.io/rules/frl",
+      "jsonld": "rules/frl/index.jsonld",
+      "name": "State Board of Registration of Funeral Directors and Embalmers",
+      "sections": 104
+    },
+    {
+      "code": "Gal",
+      "html": "rules/gal/index.html",
+      "id": "https://granitestate.github.io/rules/gal",
+      "jsonld": "rules/gal/index.jsonld",
+      "name": "Guardian ad Litem Board",
+      "sections": 101
+    },
+    {
+      "code": "Gcd",
+      "html": "rules/gcd/index.html",
+      "id": "https://granitestate.github.io/rules/gcd",
+      "jsonld": "rules/gcd/index.jsonld",
+      "name": "Governor's Commission on Disability",
+      "sections": 95
+    },
+    {
+      "code": "Gen",
+      "html": "rules/gen/index.html",
+      "id": "https://granitestate.github.io/rules/gen",
+      "jsonld": "rules/gen/index.jsonld",
+      "name": "Governing Board of Genetic Counselors",
+      "sections": 110
+    },
+    {
+      "code": "Geo",
+      "html": "rules/geo/index.html",
+      "id": "https://granitestate.github.io/rules/geo",
+      "jsonld": "rules/geo/index.jsonld",
+      "name": "Board of Professional Geologists",
+      "sections": 66
+    },
+    {
+      "code": "Hab",
+      "html": "rules/hab/index.html",
+      "id": "https://granitestate.github.io/rules/hab",
+      "jsonld": "rules/hab/index.jsonld",
+      "name": "Housing Appeals Board",
+      "sections": 79
+    },
+    {
+      "code": "Hcp",
+      "html": "rules/hcp/index.html",
+      "id": "https://granitestate.github.io/rules/hcp",
+      "jsonld": "rules/hcp/index.jsonld",
+      "name": "Board of Hearing Care Providers",
+      "sections": 33
+    },
+    {
+      "code": "He-A",
+      "html": "rules/he-a/index.html",
+      "id": "https://granitestate.github.io/rules/he-a",
+      "jsonld": "rules/he-a/index.jsonld",
+      "name": "Former Office of Alcohol & Drug Abuse Prevention",
+      "sections": 272
+    },
+    {
+      "code": "He-C",
+      "html": "rules/he-c/index.html",
+      "id": "https://granitestate.github.io/rules/he-c",
+      "jsonld": "rules/he-c/index.jsonld",
+      "name": "Commissioner, Department of Health and Human Services",
+      "sections": 1154
+    },
+    {
+      "code": "He-E",
+      "html": "rules/he-e/index.html",
+      "id": "https://granitestate.github.io/rules/he-e",
+      "jsonld": "rules/he-e/index.jsonld",
+      "name": "Bureau of Aging and Adult Services",
+      "sections": 335
+    },
+    {
+      "code": "He-M",
+      "html": "rules/he-m/index.html",
+      "id": "https://granitestate.github.io/rules/he-m",
+      "jsonld": "rules/he-m/index.jsonld",
+      "name": "Former Division of Mental Health and Developmental Services",
+      "sections": 646
+    },
+    {
+      "code": "He-P",
+      "html": "rules/he-p/index.html",
+      "id": "https://granitestate.github.io/rules/he-p",
+      "jsonld": "rules/he-p/index.jsonld",
+      "name": "Former Division of Public Health Services",
+      "sections": 1735
+    },
+    {
+      "code": "He-W",
+      "html": "rules/he-w/index.html",
+      "id": "https://granitestate.github.io/rules/he-w",
+      "jsonld": "rules/he-w/index.jsonld",
+      "name": "Former Division of Human Services",
+      "sections": 1043
+    },
+    {
+      "code": "Hedc",
+      "html": "rules/hedc/index.html",
+      "id": "https://granitestate.github.io/rules/hedc",
+      "jsonld": "rules/hedc/index.jsonld",
+      "name": "Higher Education Commission",
+      "sections": 97
+    },
+    {
+      "code": "Home",
+      "html": "rules/home/index.html",
+      "id": "https://granitestate.github.io/rules/home",
+      "jsonld": "rules/home/index.jsonld",
+      "name": "Board of Home Inspectors",
+      "sections": 56
+    },
+    {
+      "code": "Hum",
+      "html": "rules/hum/index.html",
+      "id": "https://granitestate.github.io/rules/hum",
+      "jsonld": "rules/hum/index.jsonld",
+      "name": "Commission for Human Rights",
+      "sections": 140
+    },
+    {
+      "code": "Ins",
+      "html": "rules/ins/index.html",
+      "id": "https://granitestate.github.io/rules/ins",
+      "jsonld": "rules/ins/index.jsonld",
+      "name": "Commissioner, Insurance Department",
+      "sections": 1201
+    },
+    {
+      "code": "Inst",
+      "html": "rules/inst/index.html",
+      "id": "https://granitestate.github.io/rules/inst",
+      "jsonld": "rules/inst/index.jsonld",
+      "name": "Installation Standards Board",
+      "sections": 96
+    },
+    {
+      "code": "Int",
+      "html": "rules/int/index.html",
+      "id": "https://granitestate.github.io/rules/int",
+      "jsonld": "rules/int/index.jsonld",
+      "name": "Board of Licensing for Interpreters of the Deaf and Hard of Hearing",
+      "sections": 98
+    },
+    {
+      "code": "Jus",
+      "html": "rules/jus/index.html",
+      "id": "https://granitestate.github.io/rules/jus",
+      "jsonld": "rules/jus/index.jsonld",
+      "name": "Attorney General, Department of Justice",
+      "sections": 480
+    },
+    {
+      "code": "Juv",
+      "html": "rules/juv/index.html",
+      "id": "https://granitestate.github.io/rules/juv",
+      "jsonld": "rules/juv/index.jsonld",
+      "name": "Juvenile Parole Board",
+      "sections": 42
+    },
+    {
+      "code": "Lab",
+      "html": "rules/lab/index.html",
+      "id": "https://granitestate.github.io/rules/lab",
+      "jsonld": "rules/lab/index.jsonld",
+      "name": "Commissioner, Department of Labor",
+      "sections": 546
+    },
+    {
+      "code": "Lan",
+      "html": "rules/lan/index.html",
+      "id": "https://granitestate.github.io/rules/lan",
+      "jsonld": "rules/lan/index.jsonld",
+      "name": "Board of Licensure for Land Surveyors",
+      "sections": 74
+    },
+    {
+      "code": "Liq",
+      "html": "rules/liq/index.html",
+      "id": "https://granitestate.github.io/rules/liq",
+      "jsonld": "rules/liq/index.jsonld",
+      "name": "State Liquor Commission",
+      "sections": 380
+    },
+    {
+      "code": "Lot",
+      "html": "rules/lot/index.html",
+      "id": "https://granitestate.github.io/rules/lot",
+      "jsonld": "rules/lot/index.jsonld",
+      "name": "Lottery Commission",
+      "sections": 587
+    },
+    {
+      "code": "Lsa",
+      "html": "rules/lsa/index.html",
+      "id": "https://granitestate.github.io/rules/lsa",
+      "jsonld": "rules/lsa/index.jsonld",
+      "name": "Board of Landscape Architects",
+      "sections": 57
+    },
+    {
+      "code": "Man",
+      "html": "rules/man/index.html",
+      "id": "https://granitestate.github.io/rules/man",
+      "jsonld": "rules/man/index.jsonld",
+      "name": "Board of Manufactured Housing",
+      "sections": 85
+    },
+    {
+      "code": "Mavs",
+      "html": "rules/mavs/index.html",
+      "id": "https://granitestate.github.io/rules/mavs",
+      "jsonld": "rules/mavs/index.jsonld",
+      "name": "Department of Military Affairs and Veterans Services",
+      "sections": 51
+    },
+    {
+      "code": "Mec",
+      "html": "rules/mec/index.html",
+      "id": "https://granitestate.github.io/rules/mec",
+      "jsonld": "rules/mec/index.jsonld",
+      "name": "Mechanical Licensing Board",
+      "sections": 182
+    },
+    {
+      "code": "Med",
+      "html": "rules/med/index.html",
+      "id": "https://granitestate.github.io/rules/med",
+      "jsonld": "rules/med/index.jsonld",
+      "name": "Med",
+      "sections": 93
+    },
+    {
+      "code": "Mhp",
+      "html": "rules/mhp/index.html",
+      "id": "https://granitestate.github.io/rules/mhp",
+      "jsonld": "rules/mhp/index.jsonld",
+      "name": "Board of Mental Health Practice",
+      "sections": 74
+    },
+    {
+      "code": "Mid",
+      "html": "rules/mid/index.html",
+      "id": "https://granitestate.github.io/rules/mid",
+      "jsonld": "rules/mid/index.jsonld",
+      "name": "Midwifery Council",
+      "sections": 88
+    },
+    {
+      "code": "Mil",
+      "html": "rules/mil/index.html",
+      "id": "https://granitestate.github.io/rules/mil",
+      "jsonld": "rules/mil/index.jsonld",
+      "name": "Milk Sanitation Board",
+      "sections": 58
+    },
+    {
+      "code": "Mirt",
+      "html": "rules/mirt/index.html",
+      "id": "https://granitestate.github.io/rules/mirt",
+      "jsonld": "rules/mirt/index.jsonld",
+      "name": "Advisory Board of Medical Imaging and Radiation Therapy",
+      "sections": 6
+    },
+    {
+      "code": "Mtec",
+      "html": "rules/mtec/index.html",
+      "id": "https://granitestate.github.io/rules/mtec",
+      "jsonld": "rules/mtec/index.jsonld",
+      "name": "Board of Registration of Medical Technicians",
+      "sections": 75
+    },
+    {
+      "code": "Mur",
+      "html": "rules/mur/index.html",
+      "id": "https://granitestate.github.io/rules/mur",
+      "jsonld": "rules/mur/index.jsonld",
+      "name": "Municipal Records Board",
+      "sections": 12
+    },
+    {
+      "code": "Mvi",
+      "html": "rules/mvi/index.html",
+      "id": "https://granitestate.github.io/rules/mvi",
+      "jsonld": "rules/mvi/index.jsonld",
+      "name": "N.H. Motor Vehicle Industry Board",
+      "sections": 72
+    },
+    {
+      "code": "Nat",
+      "html": "rules/nat/index.html",
+      "id": "https://granitestate.github.io/rules/nat",
+      "jsonld": "rules/nat/index.jsonld",
+      "name": "Naturopathic Board of Examiners",
+      "sections": 85
+    },
+    {
+      "code": "Ncr",
+      "html": "rules/ncr/index.html",
+      "id": "https://granitestate.github.io/rules/ncr",
+      "jsonld": "rules/ncr/index.jsonld",
+      "name": "Commissioner, Department of Natural and Cultural Resources",
+      "sections": 304
+    },
+    {
+      "code": "Nuh",
+      "html": "rules/nuh/index.html",
+      "id": "https://granitestate.github.io/rules/nuh",
+      "jsonld": "rules/nuh/index.jsonld",
+      "name": "Board of Examiners of Nursing Home Administrators",
+      "sections": 53
+    },
+    {
+      "code": "Nur",
+      "html": "rules/nur/index.html",
+      "id": "https://granitestate.github.io/rules/nur",
+      "jsonld": "rules/nur/index.jsonld",
+      "name": "Board of Nursing",
+      "sections": 186
+    },
+    {
+      "code": "Occ",
+      "html": "rules/occ/index.html",
+      "id": "https://granitestate.github.io/rules/occ",
+      "jsonld": "rules/occ/index.jsonld",
+      "name": "Governing Board of Occupational Therapists",
+      "sections": 105
+    },
+    {
+      "code": "Odb",
+      "html": "rules/odb/index.html",
+      "id": "https://granitestate.github.io/rules/odb",
+      "jsonld": "rules/odb/index.jsonld",
+      "name": "Oil Fund Disbursement Board",
+      "sections": 126
+    },
+    {
+      "code": "Omb",
+      "html": "rules/omb/index.html",
+      "id": "https://granitestate.github.io/rules/omb",
+      "jsonld": "rules/omb/index.jsonld",
+      "name": "Office of the Ombudsman in the Department of Health and Human Services",
+      "sections": 23
+    },
+    {
+      "code": "Opt",
+      "html": "rules/opt/index.html",
+      "id": "https://granitestate.github.io/rules/opt",
+      "jsonld": "rules/opt/index.jsonld",
+      "name": "Board of Registration in Optometry",
+      "sections": 56
+    },
+    {
+      "code": "Par",
+      "html": "rules/par/index.html",
+      "id": "https://granitestate.github.io/rules/par",
+      "jsonld": "rules/par/index.jsonld",
+      "name": "Adult Parole Board",
+      "sections": 84
+    },
+    {
+      "code": "Pas",
+      "html": "rules/pas/index.html",
+      "id": "https://granitestate.github.io/rules/pas",
+      "jsonld": "rules/pas/index.jsonld",
+      "name": "Passenger Tramway Safety Board",
+      "sections": 93
+    },
+    {
+      "code": "Pda",
+      "html": "rules/pda/index.html",
+      "id": "https://granitestate.github.io/rules/pda",
+      "jsonld": "rules/pda/index.jsonld",
+      "name": "Pease Development Authority",
+      "sections": 302
+    },
+    {
+      "code": "Pdab",
+      "html": "rules/pdab/index.html",
+      "id": "https://granitestate.github.io/rules/pdab",
+      "jsonld": "rules/pdab/index.jsonld",
+      "name": "Prescription Drug Affordability Board",
+      "sections": 61
+    },
+    {
+      "code": "Per",
+      "html": "rules/per/index.html",
+      "id": "https://granitestate.github.io/rules/per",
+      "jsonld": "rules/per/index.jsonld",
+      "name": "Director of Personnel, Division of Personnel in the Department of Administrative Services das.nh.gov/hr/policy.html",
+      "sections": 290
+    },
+    {
+      "code": "Per-A",
+      "html": "rules/per-a/index.html",
+      "id": "https://granitestate.github.io/rules/per-a",
+      "jsonld": "rules/per-a/index.jsonld",
+      "name": "Personnel Appeals Board",
+      "sections": 71
+    },
+    {
+      "code": "Pes",
+      "html": "rules/pes/index.html",
+      "id": "https://granitestate.github.io/rules/pes",
+      "jsonld": "rules/pes/index.jsonld",
+      "name": "Pesticide Control Board",
+      "sections": 259
+    },
+    {
+      "code": "Ph",
+      "html": "rules/ph/index.html",
+      "id": "https://granitestate.github.io/rules/ph",
+      "jsonld": "rules/ph/index.jsonld",
+      "name": "N.H. Pharmacy Board",
+      "sections": 398
+    },
+    {
+      "code": "Phy",
+      "html": "rules/phy/index.html",
+      "id": "https://granitestate.github.io/rules/phy",
+      "jsonld": "rules/phy/index.jsonld",
+      "name": "Governing Board of Physical Therapists",
+      "sections": 142
+    },
+    {
+      "code": "Plc",
+      "html": "rules/plc/index.html",
+      "id": "https://granitestate.github.io/rules/plc",
+      "jsonld": "rules/plc/index.jsonld",
+      "name": "Executive Director, Office of Professional Licensure and Certification",
+      "sections": 1404
+    },
+    {
+      "code": "Plu",
+      "html": "rules/plu/index.html",
+      "id": "https://granitestate.github.io/rules/plu",
+      "jsonld": "rules/plu/index.jsonld",
+      "name": "State Board for the Licensing and Regulation of Plumbers",
+      "sections": 143
+    },
+    {
+      "code": "Pod",
+      "html": "rules/pod/index.html",
+      "id": "https://granitestate.github.io/rules/pod",
+      "jsonld": "rules/pod/index.jsonld",
+      "name": "Board of Podiatry",
+      "sections": 40
+    },
+    {
+      "code": "Pol",
+      "html": "rules/pol/index.html",
+      "id": "https://granitestate.github.io/rules/pol",
+      "jsonld": "rules/pol/index.jsonld",
+      "name": "Police Standards & Training Council",
+      "sections": 148
+    },
+    {
+      "code": "Pos",
+      "html": "rules/pos/index.html",
+      "id": "https://granitestate.github.io/rules/pos",
+      "jsonld": "rules/pos/index.jsonld",
+      "name": "Postsecondary Education Commission",
+      "sections": 259
+    },
+    {
+      "code": "Psyc",
+      "html": "rules/psyc/index.html",
+      "id": "https://granitestate.github.io/rules/psyc",
+      "jsonld": "rules/psyc/index.jsonld",
+      "name": "Board of Psychologists",
+      "sections": 103
+    },
+    {
+      "code": "Pub",
+      "html": "rules/pub/index.html",
+      "id": "https://granitestate.github.io/rules/pub",
+      "jsonld": "rules/pub/index.jsonld",
+      "name": "Public Employee Labor Relations Board",
+      "sections": 72
+    },
+    {
+      "code": "Puc",
+      "html": "rules/puc/index.html",
+      "id": "https://granitestate.github.io/rules/puc",
+      "jsonld": "rules/puc/index.jsonld",
+      "name": "Public Utilities Commission",
+      "sections": 778
+    },
+    {
+      "code": "Rab",
+      "html": "rules/rab/index.html",
+      "id": "https://granitestate.github.io/rules/rab",
+      "jsonld": "rules/rab/index.jsonld",
+      "name": "Real Estate Appraiser Board",
+      "sections": 75
+    },
+    {
+      "code": "Rea",
+      "html": "rules/rea/index.html",
+      "id": "https://granitestate.github.io/rules/rea",
+      "jsonld": "rules/rea/index.jsonld",
+      "name": "N.H. Real Estate Commission",
+      "sections": 74
+    },
+    {
+      "code": "Rec",
+      "html": "rules/rec/index.html",
+      "id": "https://granitestate.github.io/rules/rec",
+      "jsonld": "rules/rec/index.jsonld",
+      "name": "Advisory Board of Recreational Therapists",
+      "sections": 0
+    },
+    {
+      "code": "Rep",
+      "html": "rules/rep/index.html",
+      "id": "https://granitestate.github.io/rules/rep",
+      "jsonld": "rules/rep/index.jsonld",
+      "name": "Advisory Board of Court Reporters",
+      "sections": 0
+    },
+    {
+      "code": "Res",
+      "html": "rules/res/index.html",
+      "id": "https://granitestate.github.io/rules/res",
+      "jsonld": "rules/res/index.jsonld",
+      "name": "Commissioner, Department of Resources and Economic Development",
+      "sections": 396
+    },
+    {
+      "code": "Resp",
+      "html": "rules/resp/index.html",
+      "id": "https://granitestate.github.io/rules/resp",
+      "jsonld": "rules/resp/index.jsonld",
+      "name": "Advisory Board of Respiratory Care Practitioners",
+      "sections": 0
+    },
+    {
+      "code": "Ret",
+      "html": "rules/ret/index.html",
+      "id": "https://granitestate.github.io/rules/ret",
+      "jsonld": "rules/ret/index.jsonld",
+      "name": "Board of Trustees of the N.H. Retirement System",
+      "sections": 126
+    },
+    {
+      "code": "Rev",
+      "html": "rules/rev/index.html",
+      "id": "https://granitestate.github.io/rules/rev",
+      "jsonld": "rules/rev/index.jsonld",
+      "name": "Department of Revenue Administration www.nh.gov/revenue",
+      "sections": 1608
+    },
+    {
+      "code": "Rko",
+      "html": "rules/rko/index.html",
+      "id": "https://granitestate.github.io/rules/rko",
+      "jsonld": "rules/rko/index.jsonld",
+      "name": "Ombudsman, Office of the Right-to-Know Ombudsman. Office commenced operation on 1-27-23.",
+      "sections": 108
+    },
+    {
+      "code": "Saf-C",
+      "html": "rules/saf-c/index.html",
+      "id": "https://granitestate.github.io/rules/saf-c",
+      "jsonld": "rules/saf-c/index.jsonld",
+      "name": "Commissioner, Department of Safety",
+      "sections": 4567
+    },
+    {
+      "code": "Saf-Mec",
+      "html": "rules/saf-mec/index.html",
+      "id": "https://granitestate.github.io/rules/saf-mec",
+      "jsonld": "rules/saf-mec/index.jsonld",
+      "name": "Saf-Mec",
+      "sections": 186
+    },
+    {
+      "code": "Sep",
+      "html": "rules/sep/index.html",
+      "id": "https://granitestate.github.io/rules/sep",
+      "jsonld": "rules/sep/index.jsonld",
+      "name": "Board of Septic System Evaluators",
+      "sections": 50
+    },
+    {
+      "code": "Site",
+      "html": "rules/site/index.html",
+      "id": "https://granitestate.github.io/rules/site",
+      "jsonld": "rules/site/index.jsonld",
+      "name": "Site Evaluation Committee",
+      "sections": 133
+    },
+    {
+      "code": "Soil",
+      "html": "rules/soil/index.html",
+      "id": "https://granitestate.github.io/rules/soil",
+      "jsonld": "rules/soil/index.jsonld",
+      "name": "Board of Natural Scientists",
+      "sections": 59
+    },
+    {
+      "code": "Spe",
+      "html": "rules/spe/index.html",
+      "id": "https://granitestate.github.io/rules/spe",
+      "jsonld": "rules/spe/index.jsonld",
+      "name": "Governing Board of Speech-Language Pathologists and Hearing Care Providers",
+      "sections": 117
+    },
+    {
+      "code": "Sphc",
+      "html": "rules/sphc/index.html",
+      "id": "https://granitestate.github.io/rules/sphc",
+      "jsonld": "rules/sphc/index.jsonld",
+      "name": "Governing Board of Speech-Language Pathologists and Hearing Care Providers",
+      "sections": 28
+    },
+    {
+      "code": "Stra",
+      "html": "rules/stra/index.html",
+      "id": "https://granitestate.github.io/rules/stra",
+      "jsonld": "rules/stra/index.jsonld",
+      "name": "Director, Office of Strategic Initiatives",
+      "sections": 37
+    },
+    {
+      "code": "Sw",
+      "html": "rules/sw/index.html",
+      "id": "https://granitestate.github.io/rules/sw",
+      "jsonld": "rules/sw/index.jsonld",
+      "name": "Sw",
+      "sections": 130
+    },
+    {
+      "code": "Tax",
+      "html": "rules/tax/index.html",
+      "id": "https://granitestate.github.io/rules/tax",
+      "jsonld": "rules/tax/index.jsonld",
+      "name": "Board of Tax and Land Appeals www.state.nh.us/btla",
+      "sections": 201
+    },
+    {
+      "code": "Tra",
+      "html": "rules/tra/index.html",
+      "id": "https://granitestate.github.io/rules/tra",
+      "jsonld": "rules/tra/index.jsonld",
+      "name": "Commissioner, Department of Transportation",
+      "sections": 290
+    },
+    {
+      "code": "Tra-Ap",
+      "html": "rules/tra-ap/index.html",
+      "id": "https://granitestate.github.io/rules/tra-ap",
+      "jsonld": "rules/tra-ap/index.jsonld",
+      "name": "Appeals Board for the Department of Transportation",
+      "sections": 37
+    },
+    {
+      "code": "Tre",
+      "html": "rules/tre/index.html",
+      "id": "https://granitestate.github.io/rules/tre",
+      "jsonld": "rules/tre/index.jsonld",
+      "name": "State Treasurer www.state.nh.us/treasury",
+      "sections": 97
+    },
+    {
+      "code": "Un",
+      "html": "rules/un/index.html",
+      "id": "https://granitestate.github.io/rules/un",
+      "jsonld": "rules/un/index.jsonld",
+      "name": "Board of Trustees of the University System of New Hampshire",
+      "sections": 13
+    },
+    {
+      "code": "Ve-H",
+      "html": "rules/ve-h/index.html",
+      "id": "https://granitestate.github.io/rules/ve-h",
+      "jsonld": "rules/ve-h/index.jsonld",
+      "name": "Board of Managers of the N.H. Veterans' Home",
+      "sections": 93
+    },
+    {
+      "code": "Vet",
+      "html": "rules/vet/index.html",
+      "id": "https://granitestate.github.io/rules/vet",
+      "jsonld": "rules/vet/index.jsonld",
+      "name": "Board of Veterinary Medicine",
+      "sections": 69
+    },
+    {
+      "code": "We",
+      "html": "rules/we/index.html",
+      "id": "https://granitestate.github.io/rules/we",
+      "jsonld": "rules/we/index.jsonld",
+      "name": "Water Well Board",
+      "sections": 219
+    }
+  ],
+  "context": "https://granitestate.github.io/kb/context.jsonld",
+  "counts": {
+    "agencies": 149,
+    "chapters": 1271,
+    "droppedHeadings": 105,
+    "parts": 7278,
+    "rules": 50110,
+    "sections": 41561,
+    "unresolvedRows": 37199,
+    "unresolvedStatutes": 3624
+  },
+  "generatedFrom": {
+    "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",
+    "commitDate": "2026-11-18",
+    "note": "Pages link to this commit's files in adm-rules-data. Publisher URLs are text, not links.",
+    "path": "derived/",
+    "repo": "GraniteState/adm-rules-data",
+    "snapshot": "2026-11-15"
+  },
+  "scheme": "https://granitestate.github.io/rules/scheme"
+}

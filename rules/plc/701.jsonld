@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/701",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "PURPOSE AND APPICABILITY",
+  "authority": [
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "314:8",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/700",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/701.01",
+    "https://granitestate.github.io/rules/plc/701.02"
+  ],
+  "notation": "Plc 701",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 701 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 701 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

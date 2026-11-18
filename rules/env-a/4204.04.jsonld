@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4204.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4204",
+  "definition": "VOC Content",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4204.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4204.04 VOC Content",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4204.04 VOC Content. Each container of any AIM coating subject to this chapter shall display one or more of the following:\n\n(a) The VOC content limit for the applicable coating category from Env-A 4203.01(b), Table 4203-1;\n\n(b) The VOC content of the coating as supplied in grams of VOC per liter of coating, calculated in accordance with Env-A 4206; or\n\n(c) The VOC content of the coating as applied in grams of VOC per liter of coating, when thinned according to the manufacturer’s recommendations, calculated in accordance with Env-A 4206.\n\nSource. #8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

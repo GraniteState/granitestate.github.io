@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6103.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:6",
+      "source": "https://granitestate.github.io/rsa/415/415-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415/415-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6103",
+  "definition": "Requirements for Discontinuance of Individual Ancillary Health Coverage",
+  "effectiveDate": "2018-09-28",
+  "historyNote": "#12630, eff 9-28-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6103.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6103.03 Requirements for Discontinuance of Individual Ancillary Health Coverage",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6103.03 Requirements for Discontinuance of Individual Ancillary Health Coverage.\n\n(a) In order to discontinue a block of business, the insurer shall make such request in writing and through the System for Electronic Rate and Form Filings (SERFF) at https://www.serff.com/ to the commissioner 60 days prior to the date of discontinuance and include in such request:\n\n(1) The number of New Hampshire policies currently in force;\n\n(2) The total number of covered lives;\n\n(3) The total annual premium of the policies in force;\n\n(4) An explanation of the classification of risk involved therein to indicate that such classification is reasonable and nondiscriminatory; and\n\n(5) Statistical data sufficient to indicate that the cancellation or nonrenewal requested is reasonable and nondiscriminatory.\n\n(b) Where the insurer reserves the right to cancel, the provisions of RSA 415:6, II(8) shall be delineated in the policy.\n\nSource. #12630, eff 9-28-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

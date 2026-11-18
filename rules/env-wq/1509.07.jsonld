@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1509.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1509",
+  "definition": "Content and Format of Deadline Extension Requests",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1509.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1509.07 Content and Format of Deadline Extension Requests",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1509.07 Content and Format of Deadline Extension Requests.\n\n(a) The person requesting the deadline extension shall submit the following information to the department through NHEnviro:\n\n(1) The name of the requestor;\n\n(2) A brief description of the application to which the request relates, such as project name, town, and alteration of terrain application submission number;\n\n(3) The date of the notice of incompleteness or request for additional information in which the deadline for which an extension is being sought was established;\n\n(4) The deadline that was established;\n\n(5) A full explanation of why an extension is needed;\n\n(6) If the extension is not needed for all of the missing components or additional information, the specific item(s) to which the request applies; and\n\n(7) The alternative deadline proposed by the requestor.\n\n(b) If the deadline extension does not apply to all of the missing components or additional information, the applicant shall submit the item(s) to which the request does not apply by the deadline originally established.\n\n(c) The person(s) requesting the deadline extension shall sign the request as specified in Env-Wq 1503.10.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

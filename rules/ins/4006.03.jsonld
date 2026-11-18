@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4006.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4006",
+  "definition": "Included Records and Data Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4006.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4006.03 Included Records and Data Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4006.03 Included Records and Data Requirements.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers shall report health care claims data for all members meeting the criteria set forth in Ins 4005.01(b).\n\n(b) Records for medical, pharmacy, and dental claims file submissions shall be reported at the visit, service, or prescription level.\n\n(c) Medical, pharmacy, and dental claims files shall contain all of a claim’s payment and adjustment activity during the reporting month regardless of the date of service on the claim.\n\n(d) Claims where multiple parties have financial responsibility shall be included with all medical and pharmacy claims file submissions.\n\n(e) Co-payment or co-insurance amounts shall be reported in 2 separate fields in the medical, pharmacy, and dental claims file submissions.\n\n(f) Carriers, third-party administrators, and pharmacy benefit managers shall include records for services provided under alternative payment arrangements with zero paid amounts.\n\n(g) Carriers, third-party administrators, and pharmacy benefit managers shall include records for services provided by out of network providers and services provided after member exceeds benefits with complete patient liability paid.\n\n(h) Carriers, third-party administrators, and pharmacy benefit managers shall include all service lines associated with fully-processed claims that have gone through an accounts payable run and been booked to the health plan ledger in all medical, dental, and pharmacy claims file submissions.\n\nSource. #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

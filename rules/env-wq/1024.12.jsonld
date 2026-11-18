@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1024.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1024",
+  "definition": "Performance Testing",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1024.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1024.12 Performance Testing",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1024.12 Performance Testing.\n\n(a) Performance testing required pursuant to Env-Wq 1024.04(c)(2) shall be designed such that:\n\n(1) The amount and quality of data available on the proposed technology becomes sufficient to support claims of performance and operational reliability:\n\na. In conditions of weather and terrain that reasonably can be expected in the state; and\n\nb. Over a period of time such that the expected useful life of an ISDS using the technology can be estimated to be comparable to the expected useful life of conventional technology;\n\n(2) The complexity of the proposed technology does not interfere with the application of standard engineering judgment to evaluate claims of performance and operational reliability;\n\n(3) If the proposed technology could fail in ways that would be difficult to detect in the field by visual or olfactory observation, alternative methods to detect failure are developed that can be implemented in actual installations; and\n\n(4) The consequences of failure of the proposed technology can be compared to the consequences of failure of conventional technology.\n\n(b) Prior to undertaking performance testing, the ITA applicant shall submit a proposed testing protocol to the department in writing.\n\n(c) The department shall approve the proposed testing protocol if:\n\n(1) The testing will be performed on an ISDS installed in accordance with the manufacturer’s design manual, if the ITA applicant has specified that such installation is believed to be required in order for the proposed technology to meet the criteria specified in Env-Wq 1024.06(b);\n\n(2) The test ISDS will be installed in New Hampshire or in conditions of weather and terrain that reasonably can be expected in the state;\n\n(3) Effluent loading and quality will replicate effluent loading and quality typically found in the type of installation for which approval is sought, such as residential or commercial;\n\n(4) Groundwater sampling will be performed at least monthly, in locations that allow for evaluation of groundwater quality around, under, and at least 75 feet down-gradient of the test ISDS; and\n\n(5) The department will receive split samples of a representative number of groundwater samples, determined based on the number of sampling locations and frequency of sampling.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2404",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2400",
+  "definition": "NON-FERROUS FOUNDRIES, SMELTERS, OR INVESTMENT CASTINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/2404.01",
+    "https://granitestate.github.io/rules/env-a/2404.02",
+    "https://granitestate.github.io/rules/env-a/2404.03",
+    "https://granitestate.github.io/rules/env-a/2404.04"
+  ],
+  "notation": "Env-A 2404",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2400.html",
+  "prefLabel": "Env-A 2404 NON-FERROUS FOUNDRIES, SMELTERS, OR INVESTMENT CASTINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 2404 NON-FERROUS FOUNDRIES, SMELTERS, OR INVESTMENT CASTINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2400.html"
+}

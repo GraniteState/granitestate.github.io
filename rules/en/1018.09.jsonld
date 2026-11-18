@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1018.09",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1018",
+  "definition": "Operational Testing",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1018.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1018.09 Operational Testing",
+  "recordType": "rule-section",
+  "ruleText": "En 1018.09 Operational Testing. Once an interconnection has been approved under this chapter, a utility shall not require an interconnection customer to test its facility except that the utility may require any manufacturer-recommended testing and:\n\n(a) For the fast track process, the utility may require periodic testing to verify adherence to the interconnection requirements. The frequency of periodic testing shall be specified in the utility’s interconnection handbook or other appropriate documentation;\n\n(b) For the standard process, all interconnection-related protective functions and associated batteries shall be periodically tested at intervals specified by the manufacturer, system integrator, or authority having jurisdiction over the interconnection. Periodic test reports or a log for inspection shall be maintained; and\n\n(c) For functional software or firmware changes, hardware changes, protection settings, or function changes, or changes to operating modes, the utility may require retesting to ensure the facility still meets the requirements of IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018 as available in Appendix B. When required, the updated facility configuration and testing results shall be documented and submitted to the utility.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

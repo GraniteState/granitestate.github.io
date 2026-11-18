@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1405.30",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "Form for Placed in Services/Inspection Report for Liquid Petroleum Gas Meters",
+  "authority": [
+    {
+      "citation": "438:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "438:14-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:19-b",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-19-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-19-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1405",
+  "definition": "Form for Placed in Service/Inspection Report for Liquid Petroleum Gas Meters",
+  "effectiveDate": "2017-12-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Agr 1400) #12424, eff 12-1-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1405.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html",
+  "prefLabel": "Agr 1405.30 Form for Placed in Service/Inspection Report for Liquid Petroleum Gas Meters",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1405.30 Form for Placed in Service/Inspection Report for Liquid Petroleum Gas Meters.\n\n(a) In addition to other requirements set by rule, statute, or other law each registered service technician shall complete and submit “Placed in Service/Inspection Report Form LPG” Rev. 07/14 to the department.\n\n(b) A registered service technician shall furnish the following on “Placed in Service/Inspection Report Form LPG” Rev. 07/14:\n\n(1) Name of business;\n\n(2) Full address, including city, state, and zip code;\n\n(3) The following information about the liquid petroleum gas meter:\n\na. Make of meter;\n\nb. Serial number;\n\nc. Size;\n\nd. Minimum and maximum rated G.P.M.;\n\ne. Make of register;\n\nf. Register model number;\n\ng. Register serial number;\n\nh. Whether there is a temperature compensator;\n\ni. Thermometer well; and\n\nj. Vapor eliminator;\n\n(4) The following information about the test data:\n\na. Type of test;\n\nb. Flow rate;\n\nc. Meter temperature 35 gallon;\n\nd. Meter temperature 70 gallons;\n\ne. Tank pressure;\n\nf. Prover pressure;\n\ng. Prover temperature;\n\nh. Prover reading to nearest 0.05 gallon and\n\ni. Meter reading;\n\n(5) If an uncompensated run, the following:\n\na. Average meter temperature;\n\nb. Temperature difference;\n\nc. Temperature correction factor;\n\nd. Correction for temperature difference; and\n\ne. Temperature correction prover reading; and\n\n(6) If either an uncompensated or compensated run, the following:\n\na. Correction for prover pressure reading;\n\nb. Correction for prover temperature;\n\nc. Corrected prover reading;\n\nd. Meter reading; and\n\ne. Net meter error, in cubic inches if desired.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Agr 1400) #12424, eff 12-1-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html"
+}

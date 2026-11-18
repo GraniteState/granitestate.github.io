@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/juv",
+  "@type": "Concept",
+  "agencyCode": "Juv",
+  "definition": "Juvenile Parole Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/juv/100",
+    "https://granitestate.github.io/rules/juv/200",
+    "https://granitestate.github.io/rules/juv/300",
+    "https://granitestate.github.io/rules/juv/400"
+  ],
+  "notation": "Juv",
+  "prefLabel": "Juv Juvenile Parole Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7202.10",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "altLabel": "EGD Provider",
+  "authority": [
+    {
+      "citation": "287-D:1",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "XVII"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7202",
+  "definition": "EGD provider",
+  "effectiveDate": "2026-02-04",
+  "expirationDate": "2036-02-04",
+  "historyNote": "#14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7202.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7202.10 EGD provider",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7202.10 “EGD provider” means the entity that either manufactures the electronic gaming portion of the EGD or, in the case of HHR, provides the totalizator portion of the system.\n\nSource. #14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

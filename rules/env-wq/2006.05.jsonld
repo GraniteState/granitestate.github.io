@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2006.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "4-C:1",
+      "paragraphs": [
+        "II(i)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2006",
+  "definition": "Scoring Based on Consistency with Needs",
+  "effectiveDate": "2009-10-17",
+  "historyNote": "#9570, eff 10-17-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 2006.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2000.html",
+  "prefLabel": "Env-Wq 2006.05 Scoring Based on Consistency with Needs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 2006.05 Scoring Based on Consistency with Needs. Each application shall be scored on the project’s consistency with the needs identified in federal, state, regional, or local plans or studies as follows:\n\n(a) A project need that is specifically identified by one or more federal, state, regional, or local plans or studies shall receive 3 points;\n\n(b) A project need that is generally supported in concept by 2 or more federal, state, regional, or local plans or studies shall receive 2 points;\n\n(c) A project need that is generally supported in concept by one federal, state, regional, or local plan or study shall receive one point; and\n\n(d) A project that has no documented need shall receive no points.\n\nSource. #9570, eff 10-17-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2000.html"
+}

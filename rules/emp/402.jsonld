@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/402",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "broader": "https://granitestate.github.io/rules/emp/400",
+  "definition": "PAYMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/emp/402.01",
+    "https://granitestate.github.io/rules/emp/402.02",
+    "https://granitestate.github.io/rules/emp/402.03"
+  ],
+  "notation": "Emp 402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 402 PAYMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Emp 402 PAYMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

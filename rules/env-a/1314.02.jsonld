@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1314.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1314",
+  "definition": "CEM Requirements for NOx",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1315.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1314.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1314.02 CEM Requirements for NOx",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1314.02 CEM Requirements for NOx. The department shall require installation, operation, maintenance, and quality assurance testing of a CEM system for NOx which meets all applicable requirements specified in Env-A 800 if any of the following conditions exist:\n\n(a) A source uses air pollution control equipment in order to maintain compliance with a NOx emission limit, and continuous emission monitoring is necessary to ensure that the emission limit is not exceeded and that the control equipment is performing correctly;\n\n(b) A stationary source is otherwise subject to the CEM provisions of Env-A 800;\n\n(c) A stationary source or device generates emissions credits for the purpose of emission averaging pursuant to Env-A 1314.04; or\n\n(d) A stationary source or device uses seasonal emission control techniques, in accordance with Env-A 1314.06, in order to comply with NOx RACT.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1315.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

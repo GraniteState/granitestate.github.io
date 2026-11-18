@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1109",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "431:5",
+      "source": "https://granitestate.github.io/rsa/431/431-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/431/431-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1100",
+  "definition": "ORGANIC NITROGEN",
+  "effectiveDate": "2024-11-26",
+  "expirationDate": "2034-11-26",
+  "historyNote": "#10464, eff 11-26-13, EXPIRED: 11-26-23 New. #13947, eff 4-30-24, EXPIRED: 10-27-24 New. #14128, eff 11-26-24, EXPIRES: 11-26-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1109.01"
+  ],
+  "notation": "Agr 1109",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html",
+  "prefLabel": "Agr 1109 ORGANIC NITROGEN",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1109 ORGANIC NITROGEN\n\nAgr. 1109.01 Organic Nitrogen. If an amount of nitrogen is designated as organic then the water insoluble nitrogen or the slow release nitrogen guarantee shall not be less than 60% of the nitrogen so designated. Coated urea shall not be included in meeting the 60% requirement.\n\nSource. #10464, eff 11-26-13, EXPIRED: 11-26-23\n\nNew. #13947, eff 4-30-24, EXPIRED: 10-27-24\n\nNew. #14128, eff 11-26-24, EXPIRES: 11-26-34\n\nAppendix I\n\nAppendix II\n\nRule | Material Incorporated | How Material May be Obtained\n\nAgr 1104.01 | AAPFCO Official Publication, Edition No. 77 | Association of American Plant Control Officials www.aapfco.org. Cost is $75 (online only), $125 (hard copy and online copy), or $65 (hard copy only)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html"
+}

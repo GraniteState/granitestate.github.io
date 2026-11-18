@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/402.15",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Reportable Accident",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/402",
+  "definition": "Reportable accident",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 402.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 402.15 Reportable accident",
+  "recordType": "rule-section",
+  "ruleText": "Puc 402.15 \"Reportable accident\" means an accident occurring in New Hampshire in connection with the utility's property or facilities in which:\n\n(a) A fatality has occurred;\n\n(b) A serious injury has occurred;\n\n(c) Property damage over $100,000 has occurred, to the extent known by the utility;\n\n(d) An electrical contact has occurred;\n\n(e) A state highway has been closed; or\n\n(f) Consequences of a magnitude or severity comparable to those described in (a) through (e) above are involved.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

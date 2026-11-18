@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w/854.02",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "authority": [
+    {
+      "citation": "167",
+      "source": "https://granitestate.github.io/rsa/167",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:6",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/167",
+    "https://granitestate.github.io/rsa/167/167-4",
+    "https://granitestate.github.io/rsa/167/167-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-w/854",
+  "definition": "Income Computation",
+  "effectiveDate": "2016-11-19",
+  "historyNote": "#12050, eff 11-19-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-W 854.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html",
+  "prefLabel": "He-W 854.02 Income Computation",
+  "recordType": "rule-section",
+  "ruleText": "He-W 854.02 Income Computation.\n\n(a) In computing eligibility and benefits, if any subtraction results in a negative amount, the result shall be considered to be zero instead of the negative amount.\n\n(b) For individuals not living in nursing facilities who are applying for or receiving adult category medical assistance, and, if applicable, their applicant spouses, as defined in He-W 601.01(o), net income, as defined in He-W 601.05(v), shall be computed as follows:\n\n(1) The amount of the individual’s and the individual’s applicant spouse’s countable gross earned income, as defined in He-W 601.04(m)-(n), shall be determined;\n\n(2) For each individual, the earned income disregard for the adult category under which each individual is applying or receiving assistance, as specified in He-W 654.15, shall be computed and subtracted from each individual’s countable gross earned income to obtain each individual’s net earned income, as defined in He-W 601.05(u);\n\n(3) The individual net earned income amounts shall be added together to obtain the assistance group’s (AG’s) net earned income amount;\n\n(4) The countable gross unearned income, as defined in He-W 601.08(k), of each individual shall be added to the AG’s net earned income;\n\n(5) From the total in (4) above, the adult standard disregard, as specified in He-W 854.16, and allowable deductions, as specified in He-W 854.20 and He-W 654.21, shall be subtracted; and\n\n(6) The result shall be the AG’s net income.\n\n(c) For individuals not living in nursing facilities who are applying for or receiving APTD or OAA medical assistance, and who live with their nonapplicant spouses, as defined in He-W 601.05(x), net income, as defined in He-W 601.05(v), shall be computed as follows:\n\n(1) The countable gross earned incomes of the applicant and nonapplicant spouse shall be combined;\n\n(2) The earned income disregard shall be subtracted from the combined gross earned income determined in (1) above to obtain the AG’s net earned income, except as follows:\n\na. For APTD medical assistance applicants, allowable impairment related work expenses (IRWEs), as described in 20 CFR 416.1112, shall be subtracted from the gross earned income of the applicant only, and not subtracted from the gross earned income of the nonapplicant spouse; and\n\nb. For OAA medical assistance recipients, the IRWE deduction shall be subtracted only when the recipient’s case is transferred from APTD medical assistance to OAA medical assistance;\n\n(3) The countable gross unearned income, as defined in He-W 601.08(k), of all AG members shall be added to the AG’s net earned income amount determined in (2) above;\n\n(4) From the total in (3) above, the adult standard disregard, as specified in He-W 854.16, and allowable deductions, as specified in He-W 854.20 and He-W 654.21, shall be subtracted; and\n\n(5) The result shall be the AG’s net income as defined in He-W 601.05(v).\n\n(d) For individuals applying for or receiving ANB medical assistance who live with their nonapplicant spouses as defined in He-W 601.05(x), eligibility and level of benefits shall be computed as in (c) above, except that the individualized plan for employment work expenses subtracted from the applicant’s earned income shall be those described in He-W 654.15(d).\n\n(e) For individuals living in nursing facilities who are applying for or receiving OAA, APTD or ANB, gross income for purposes of determining categorical eligibility for nursing facility care, as defined in He-W 858.05, shall be computed by adding together the individual’s countable gross earned income and countable gross unearned income.\n\n(f) The amount of an individual’s net income for purposes of determining eligibility for nursing facility care as medically needy, as defined in He-W 858.05, shall be computed as follows:\n\n(1) The earned income disregard for the adult category under which the individual is applying for or receiving assistance, as defined in He-W 654.15, shall be subtracted from the individual’s countable gross earned income to obtain the individual’s net earned income;\n\n(2) The individual's countable gross unearned income shall be added to the net earned income; and\n\n(3) The allowable deductions, as specified in He-W 854.20 and He-W 654.21, shall be subtracted, in order, from the amount in (2) above to arrive at the individual’s net income as defined in He-W 601.05(v).\n\nSource. #12050, eff 11-19-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html"
+}

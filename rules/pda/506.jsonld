@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/506",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/500",
+  "definition": "MOORING PERMIT APPLICATIONS; PROCESSING OF INITIAL APPLICATIONS AND APPLICATIONS FOR EXISTING MOORINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/506.01",
+    "https://granitestate.github.io/rules/pda/506.02",
+    "https://granitestate.github.io/rules/pda/506.03",
+    "https://granitestate.github.io/rules/pda/506.04",
+    "https://granitestate.github.io/rules/pda/506.05",
+    "https://granitestate.github.io/rules/pda/506.06",
+    "https://granitestate.github.io/rules/pda/506.07",
+    "https://granitestate.github.io/rules/pda/506.08",
+    "https://granitestate.github.io/rules/pda/506.09",
+    "https://granitestate.github.io/rules/pda/506.10",
+    "https://granitestate.github.io/rules/pda/506.11"
+  ],
+  "notation": "Pda 506",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 506 MOORING PERMIT APPLICATIONS; PROCESSING OF INITIAL APPLICATIONS AND APPLICATIONS FOR EXISTING MOORINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 506 MOORING PERMIT APPLICATIONS; PROCESSING OF INITIAL APPLICATIONS AND APPLICATIONS FOR EXISTING MOORINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

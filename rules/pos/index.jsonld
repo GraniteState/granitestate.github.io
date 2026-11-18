@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pos",
+  "@type": "Concept",
+  "agencyCode": "Pos",
+  "definition": "Postsecondary Education Commission (Commission was abolished pursuant to 2011, 224:125, X, effective 7-1-11. Selected rules transferred to the Board of Education Ed and the Higher Education Commission Hedc pursuant to 2011, 224:149. Chapters Pos 600-900 and Pos 1600 were not transferred, and rulemaking authority was repealed by 2011, 224:125, IX and X.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pos/100",
+    "https://granitestate.github.io/rules/pos/200",
+    "https://granitestate.github.io/rules/pos/300",
+    "https://granitestate.github.io/rules/pos/600",
+    "https://granitestate.github.io/rules/pos/700",
+    "https://granitestate.github.io/rules/pos/800",
+    "https://granitestate.github.io/rules/pos/900",
+    "https://granitestate.github.io/rules/pos/1000",
+    "https://granitestate.github.io/rules/pos/1100",
+    "https://granitestate.github.io/rules/pos/1200",
+    "https://granitestate.github.io/rules/pos/1300",
+    "https://granitestate.github.io/rules/pos/1400",
+    "https://granitestate.github.io/rules/pos/1500",
+    "https://granitestate.github.io/rules/pos/1600",
+    "https://granitestate.github.io/rules/pos/1700"
+  ],
+  "notation": "Pos",
+  "prefLabel": "Pos Postsecondary Education Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

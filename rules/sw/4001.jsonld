@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sw/4001",
+  "@type": "Concept",
+  "agencyCode": "Sw",
+  "authority": [
+    {
+      "citation": "284:21-h",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/sw/4000",
+  "definition": "NEW HAMPSHIRE HOT LOTTO GAME",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/sw/4001.01",
+    "https://granitestate.github.io/rules/sw/4001.02",
+    "https://granitestate.github.io/rules/sw/4001.03",
+    "https://granitestate.github.io/rules/sw/4001.04",
+    "https://granitestate.github.io/rules/sw/4001.05",
+    "https://granitestate.github.io/rules/sw/4001.06",
+    "https://granitestate.github.io/rules/sw/4001.07",
+    "https://granitestate.github.io/rules/sw/4001.08",
+    "https://granitestate.github.io/rules/sw/4001.09",
+    "https://granitestate.github.io/rules/sw/4001.10"
+  ],
+  "notation": "Sw 4001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw4000.html",
+  "prefLabel": "Sw 4001 NEW HAMPSHIRE HOT LOTTO GAME",
+  "recordType": "rule-part",
+  "ruleText": "PART Sw 4001 NEW HAMPSHIRE HOT LOTTO GAME",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw4000.html"
+}

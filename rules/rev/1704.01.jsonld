@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1704.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Revenue from Taxes",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "36-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/36-A/36-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:7",
+      "source": "https://granitestate.github.io/rsa/79-A/79-A-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/36-A/36-A-5",
+    "https://granitestate.github.io/rsa/79-A/79-A-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1704",
+  "definition": "Revenue From Taxes",
+  "effectiveDate": "2022-11-15",
+  "historyNote": "#4940, eff 9-25-90; ss by #6335, eff 9-24-96 (from Rev 1706); ss by #8179, eff 9-24-04; ss by #10214, eff 10-24-12; ss by #13489, eff 11-15-22 (see Revision Note at chapter heading for Rev 1700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1704.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1700.html",
+  "prefLabel": "Rev 1704.01 Revenue From Taxes",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1704.01 Revenue From Taxes.\n\n(a) Account 3110, “Property Taxes,” shall be for compulsory charges levied on the assessed valuation of real and personal property located within the municipality.\n\n(b) Account 3120, “Land Use Change Taxes for General Fund,” shall be for taxes assessed and levied on the full and true value of land pursuant to RSA 79-A and deposited in the general fund.\n\n(c) Account 3121, “Land Use Change Taxes for Conservation Fund,” shall be for taxes assessed and levied on the full and true value of land pursuant to RSA 79-A and deposited in the conservation fund pursuant to RSA 36-A.\n\n(d) Account 3180, “Resident Taxes,” shall be for taxes assessed and levied on inhabitants of the municipality.\n\n(e) Account 3185, “Yield Taxes,” shall be for taxes assessed and levied on the stumpage value at the time of timber cutting.\n\n(f) Account 3186, “Payments in Lieu of Taxes,” shall be for payments:\n\n(1) Made in place of property taxes on privately owned property; and\n\n(2) From the general revenues of one government to another in place of taxes it would have had to pay, had its property or other tax base been subject to taxation by the recipient government on the same basis as privately owned property or other tax base.\n\n(g) Account 3187, “Excavation Tax,” shall be for taxes assessed and levied on excavated earth pursuant to RSA 72-B.\n\n(h) Account 3189, “Other Taxes,” shall be for taxes assessed and levied, not described in (a) through (g) above.\n\n(i) Account 3190, “Interest and Penalties on Delinquent Taxes,” shall be for:\n\n(1) Interest on delinquent taxes from their due date to the date of actual payment; and\n\n(2) Costs and penalties for the payment of taxes after their due date.\n\nSource. #4940, eff 9-25-90; ss by #6335, eff 9-24-96 (from Rev 1706); ss by #8179, eff 9-24-04; ss by #10214, eff 10-24-12; ss by #13489, eff 11-15-22 (see Revision Note at chapter heading for Rev 1700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1700.html"
+}

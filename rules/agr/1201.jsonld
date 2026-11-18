@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1201",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "435:19",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/435/435-19",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "435:21",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "435:23",
+      "source": "https://granitestate.github.io/rsa/435/435-23",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "435:25",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/435/435-19",
+    "https://granitestate.github.io/rsa/435/435-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1200",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1201.01"
+  ],
+  "notation": "Agr 1201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1200.html",
+  "prefLabel": "Agr 1201 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1201 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1200.html"
+}

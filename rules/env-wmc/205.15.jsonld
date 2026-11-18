@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/205.15",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/205",
+  "definition": "Decisions",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 205.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 205.15 Decisions",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 205.15 Decisions.\n\n(a) Unless an appeal is withdrawn pursuant to Env-WMC 206.06, the council shall issue a final decision in writing.\n\n(b) If a party has submitted proposed findings of fact, the council’s decision shall include a ruling upon each proposed finding.\n\n(c) The appeals clerk shall serve a copy of the council’s decision on each party in accordance with Env-WMC 204.09.\n\n(d) The appeals clerk shall keep a copy of each decision on file in the council’s public records for at least 5 years following the date of the final decision or the date of the decision on any appeal, unless the director of the division of records management and archives of the department of state sets a different retention period pursuant to rules adopted under RSA 5:40.\n\nSource. #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

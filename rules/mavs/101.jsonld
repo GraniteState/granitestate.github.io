@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mavs/101",
+  "@type": "Concept",
+  "agencyCode": "Mavs",
+  "authority": [
+    {
+      "citation": "110-B",
+      "source": "https://granitestate.github.io/rsa/110-B",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/110-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/mavs/100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mavs/101.01"
+  ],
+  "notation": "Mavs 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mavs100.html",
+  "prefLabel": "Mavs 101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Mavs 101 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mavs100.html"
+}

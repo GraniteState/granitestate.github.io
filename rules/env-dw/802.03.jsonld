@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/802.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/802",
+  "definition": "Required On-Going Notices",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 802.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 802.03 Required On-Going Notices",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 802.03 Required On-Going Notices. Except as provided in Env-Dw 802.04 or Env-Dw 802.05, as applicable, subsequent to giving initial notice the O/O shall give repeat notice of the existence of an exemption or violation of a condition of an exemption every 3 months for as long as the exemption remains in effect or the violation persists.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.07",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Use of Electronic Signature Devices (ESDs)",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.07 Use of Electronic Signature Devices (ESDs)",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.07 Use of Electronic Signature Devices (ESDs).\n\n(a) The signatory to whom an ESD has been issued pursuant to Env-C 214.05(d)(2) shall:\n\n(1) Read and understand this part prior to transmitting any electronic documents;\n\n(2) Not allow anyone else to use the ESD or the signatory’s access information;\n\n(3) Protect the ESD and the signatory’s access information from being compromised in any manner;\n\n(4) Report to the NHEDRS contact within one business day of discovering any evidence that the ESD has been compromised; and\n\n(5) Maintain the secrecy of the signatory’s access information, by:\n\na. Not divulging the access information to any other person;\n\nb. Not delegating the responsibility to file electronic documents using the NHEDRS to anyone;\n\nc. Not storing the access information in an unprotected location; and\n\nd. Not allowing the access information to be written into computer scripts to achieve automated log-in.\n\n(b) Proof that a particular ESD was used to create the electronic signature on an electronic document transmitted to the NHEDRS shall be sufficient to establish that the signatory to whom the ESD was issued used the ESD with the intent to sign and transmit the electronic document and was authorized by the reporter to do so.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

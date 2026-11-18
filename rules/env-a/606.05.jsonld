@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/606.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/606",
+  "definition": "Air Pollution Dispersion Modeling Impact Analysis Methods",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12 (from Env-A 606.04); ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 606.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 606.05 Air Pollution Dispersion Modeling Impact Analysis Methods",
+  "priorExpiration": "2011-10-24",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 606.05 Air Pollution Dispersion Modeling Impact Analysis Methods.\n\n(a) Except as provided in (b), below, an air pollution dispersion modeling impact analysis shall be conducted as specified in 40 CFR 51, Appendix W, using any model or methodology, as applicable, that the administrator has specified, referenced, or proposed for inclusion in 40 CFR 51, Appendix W.\n\n(b) Impacts within the property boundary from internal combustion engines and hot mix asphalt plants shall not be included in the air pollution dispersion modeling impact analysis provided that:\n\n(1) The engine or plant is located at a stationary source with a primary SIC classification of 1442 or 2951;\n\n(2) The facility at which the engine or plant is located is not a major stationary source as defined in Env-A 104; and\n\n(3) The engine or plant exhausts all emissions through a vertical and unobstructed exhaust stack.\n\nSource. #6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12 (from Env-A 606.04); ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

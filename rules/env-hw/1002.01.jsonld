@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1002.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1002",
+  "definition": "Fund Administration",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6385-B, eff 11-26-96; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1002.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1002.01 Fund Administration",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1002.01 Fund Administration.\n\n(a) Fees required by law to be deposited in the HWCF shall be deposited with the treasurer, state of New Hampshire as specified in RSA 147-B:3.\n\n(b) Expenditures of HWCF monies by the department shall be accounted for as specified in RSA 147-B:6, I-a through I-g.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; amd by #6385-B, eff 11-26-96; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

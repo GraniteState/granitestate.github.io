@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.36",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Communicable Diseases Isolation and Reporting",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Required Health Care Staffing: Off-Site Trips",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.35)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.36",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.36 Required Health Care Staffing: Off-Site Trips",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.36 Required Health Care Staffing: Off-Site Trips.\n\n(a) YRC staff supervising any off-site trip with campers shall carry a first aid kit equipped with such items as the YRC licensed practitioner deems necessary to address emergency situations that might occur.\n\n(b) At least one YRC staff member on an off-site trip with campers shall be certified in:\n\n(1) First aid or CPR; or\n\n(2) Wilderness and remote first aid.\n\n(c) Subject to (d), below, on any off-site trip with campers involving boating or swimming, at least one YRC staff member shall be:\n\n(1) Certified as a lifeguard by the American Red Cross; or\n\n(2) Certified in an equivalent nationally recognized course based on standards that are no less stringent than the lifeguard course offered by the American Red Cross.\n\n(d) Having a YRC staff member be a certified lifeguard shall not be required if a certified lifeguard engaged by the owner or operator of the boating or swimming site or facility is on duty at the site or facility when the campers are boating or swimming, as applicable.\n\n(e) Drinking water obtained during the trip from a source other than a public water system shall be considered as unsafe unless:\n\n(1) Disinfected by adding chlorine or iodine;\n\n(2) Filtered by the use of a drinking water filtration device intended to remove microorganisms; or\n\n(3) Disinfected by achieving a rolling boil for one minute.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.35)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

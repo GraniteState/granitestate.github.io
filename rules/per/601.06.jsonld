@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/601.06",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Temporary Fill-in Promotion Appointment",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "VI",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:53",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/601",
+  "definition": "Temporary Fill-in Promotion Assignment",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 601.05), eff 12-1-25, EXPIRES 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 601.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 601.06 Temporary Fill-in Promotion Assignment",
+  "recordType": "rule-section",
+  "ruleText": "Per 601.06 Temporary Fill-in Promotion Assignment.\n\n(a) An appointing authority may make a temporary fill-in assignment to a position for a duration of not more than 90 days when the assignment will be of temporary duration because:\n\n(1) The permanent incumbent of the position is on sick leave or military leave without pay;\n\n(2) The permanent incumbent of the position is on extended leave without pay; or\n\n(3) The position is vacant and under recruitment.\n\n(b) Prior to assignment, a temporary fill-in employee shall be required to meet the minimum qualifications for the fill-in assignment specified in Per 403.01.\n\n(c) If the appointing authority believes that it is necessary to extend a temporary fill-in assignment beyond 90 days based upon a continuation of the condition giving rise to the assignment, the appointing authority shall seek an extension of the temporary fill-in assignment from the director in writing.\n\n(d) If the conditions set forth in (a)(1) – (3) above continue to exist at the end of 90 days, the director shall grant an additional 90 day extension.\n\n(e) Persons assigned as temporary fill-in employees, regardless of the number of hours worked per week, shall not be entitled to:\n\n(1) Receive health or dental benefits;\n\n(2) Participate in the state retirement system; or\n\n(3) Accrue annual leave, sick leave, or floating holidays.\n\n(f) Notwithstanding paragraph (e), employees meeting the requirements of RSA 98-A shall receive the benefits specified therein.\n\n(g) If the permanent incumbent of the position does not return to work due to medical or personal reasons and the appointing authority wishes to fill the vacancy, the appointing authority shall recruit for the position by posting a notice of vacancy in accordance with Per 400.\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 601.05), eff 12-1-25, EXPIRES 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

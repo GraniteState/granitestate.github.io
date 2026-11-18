@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/203.03",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "541",
+      "source": "https://granitestate.github.io/rsa/541",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541",
+    "https://granitestate.github.io/rsa/541-A/541-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/203",
+  "definition": "Address and Filing Format",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#14184, eff 1-24-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 203.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 203.03 Address and Filing Format",
+  "recordType": "rule-section",
+  "ruleText": "Puc 203.03 Address and Filing Format.\n\n(a) All correspondence intended for the commission shall be addressed to the commission chairman. All written communications shall be sent to the commission’s clerk’s office at ClerksOffice@puc.nh.gov or\n\nNH Public Utilities Commission\n\n21 South Fruit Street, Suite 10\n\nConcord, N.H. 03301-2429\n\n(b) Electronic filings shall be made in searchable portable document format (PDF) and searchable excel files and reflect the same text and pagination as any submitted hardcopies.\n\n(c) Electronic submissions larger than 33 MB shall be submitted via the state of New Hampshire file transfer protocol. Instructions for the New Hampshire file transfer protocol (FTP) shall be listed on the commission’s website. USB flash drives and other electronic storage devices shall be rejected.\n\n(d) If unable to utilize the New Hampshire FTP, electronic submissions larger than 33 MB may be broken into multiple emails and sent to the commission’s clerk’s office at ClerksOffice@puc.nh.gov. The subject line of the emails must include sequential numbering and clearly articulate the number of parts that constitute a complete filing.\n\n(e) The business hours of the commission are Monday through Friday, except for state Holidays, from 8 am to 4:30 pm.\n\nSource. #14184, eff 1-24-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

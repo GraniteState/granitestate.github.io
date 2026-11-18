@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/509.02",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:72",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-72",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:73",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-73",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-72",
+    "https://granitestate.github.io/rsa/12-O/12-O-73",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/509",
+  "definition": "Funding Determinations",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 509.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 509.02 Funding Determinations",
+  "recordType": "rule-section",
+  "ruleText": "Bea 509.02 Funding Determinations.\n\n(a) The department shall review all applications for awards using the criteria specified in these rules.\n\n(b) The department shall notify each applicant in writing regarding whether or not a grant was awarded. If a grant was not awarded or fewer funds were awarded than requested, the written notice shall specify the reason(s) for the decision.\n\n(c) Applications that are not funded due to a lack of funds, but were valid and would have been otherwise funded, shall be retained for subsequent application rounds.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

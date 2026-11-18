@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/3101.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "77:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/3101",
+  "definition": "Payer",
+  "effectiveDate": "2010-04-02",
+  "historyNote": "#9689-B, eff 4-2-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 3101.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html",
+  "prefLabel": "Rev 3101.04 Payer",
+  "recordType": "rule-section",
+  "ruleText": "Rev 3101.04 “Payer” means an individual, entity, or agency conducting a game of chance from which gambling winnings are paid.\n\nSource. #9689-B, eff 4-2-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev3100.html"
+}

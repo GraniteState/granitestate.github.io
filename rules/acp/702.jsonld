@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/702",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "authority": [
+    {
+      "citation": "328-G:7",
+      "paragraphs": [
+        "XIV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-G:9-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/700",
+  "definition": "APPLICATION PROCEDURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/acp/702.01",
+    "https://granitestate.github.io/rules/acp/702.02"
+  ],
+  "notation": "Acp 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 702 APPLICATION PROCEDURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Acp 702 APPLICATION PROCEDURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

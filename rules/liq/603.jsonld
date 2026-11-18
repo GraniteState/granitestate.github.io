@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/603",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "126-K",
+      "source": "https://granitestate.github.io/rsa/126-K",
+      "via": "appendix"
+    },
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "179:57",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-K",
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/600",
+  "definition": "ADMINISTRATIVE PENALTIES AND FINE PROVISIONS FOR TOBACCO VIOLATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/603.01",
+    "https://granitestate.github.io/rules/liq/603.02"
+  ],
+  "notation": "Liq 603",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 603 ADMINISTRATIVE PENALTIES AND FINE PROVISIONS FOR TOBACCO VIOLATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 603 ADMINISTRATIVE PENALTIES AND FINE PROVISIONS FOR TOBACCO VIOLATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

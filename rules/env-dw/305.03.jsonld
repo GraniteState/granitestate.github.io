@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/305.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/305",
+  "definition": "Definitions",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 305.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 305.03 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 305.03 Definitions.\n\n(a) “New small production well” means a new production well that is a small production well.\n\n(b) “Small bedrock production well” means a small production well that is a bedrock well.\n\n(c) “Small overburden production well” means a small production well that is an overburden well.\n\n(d) “Small production well” means a production well having a permitted production volume of less than 57,600 gallons in any 24-hour period.\n\nSource. (See Revision Note #1 at part heading for Env-Dw 305) #9007, eff 10-19-07, ss by #11062, eff 4-1-16 (See Revision Note #2 at part heading for Env-Dw 305)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

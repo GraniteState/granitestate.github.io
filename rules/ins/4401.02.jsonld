@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4401.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-H:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-H:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4401",
+  "definition": "Definitions",
+  "effectiveDate": "2016-09-02",
+  "historyNote": "#9244, eff 9-2-08; ss by #11149, eff 9-2-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4400.html",
+  "prefLabel": "Ins 4401.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4401.02 Definitions.\n\n(a) \"Actuarial certification\" means \"actuarial certification\" as defined in RSA 415-H:2, I.\n\n(b) \"Attachment point\" means \"attachment point\" as defined in RSA 415-H:2, II.\n\n(c) \"Expected claims\" means \"expected claims\" as defined in RSA 415-H:2, III.\n\nSource. #9244, eff 9-2-08; ss by #11149, eff 9-2-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4400.html"
+}

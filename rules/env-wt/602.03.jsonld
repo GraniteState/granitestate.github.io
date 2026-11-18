@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/602.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Back Dune",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/602",
+  "definition": "Back dune",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 602.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 602.03 Back dune",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 602.03 “Back dune” means the secondary complex of ridges or mounds of sand that form from continued wind-blown sand transport through breaches in the fore dune and across the dune slack area, typically developing adjacent to a bordering surface water or wetland.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

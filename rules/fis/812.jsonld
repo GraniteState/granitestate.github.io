@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/812",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "212:25",
+      "source": "https://granitestate.github.io/rsa/212/212-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14",
+    "https://granitestate.github.io/rsa/212/212-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/800",
+  "definition": "WILDLIFE REHABILITATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/812.01",
+    "https://granitestate.github.io/rules/fis/812.02",
+    "https://granitestate.github.io/rules/fis/812.03",
+    "https://granitestate.github.io/rules/fis/812.04"
+  ],
+  "notation": "Fis 812",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 812 WILDLIFE REHABILITATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 812 WILDLIFE REHABILITATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

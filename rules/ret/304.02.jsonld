@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/304.02",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:4",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "100-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-4",
+    "https://granitestate.github.io/rsa/100-A/100-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/304",
+  "definition": "Definitions",
+  "effectiveDate": "2019-01-09",
+  "historyNote": "#7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09 New. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 304.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 304.02 Definitions",
+  "priorExpiration": "2009-10-10",
+  "recordType": "rule-section",
+  "ruleText": "Ret 304.02 Definitions. The following definitions shall apply for purposes of Ret 304:\n\n(a) “Contribution adjustment” means the process by which the NHRS calculates and assesses against a participating employer or member payments of unpaid employer or member contributions due the NHRS or refunds of employer or member contributions that have been paid with respect to compensation which is not earnable compensation, each in accordance with RSA 100-A:16 and Ret 304;\n\n(b) “Earnable compensation” means, for each payroll period which is the subject of a contribution adjustment, the member’s earnable compensation as defined in RSA 100-A:1, XVII for the applicable payroll period;\n\n(c) “Earnable compensation adjustment” means the process by which the NHRS removes earnable compensation credit that was incorrectly credited to a member, adds earnable compensation credit that was not properly credited to a member, or withholds earnable compensation credit that is not due a member in accordance with RSA 100-A:16 and Ret 304;\n\n(d) “Notice of contribution and earnable compensation adjustment” means the notice required pursuant to Ret 304.03; and\n\n(e) “Service adjustment” means the process by which the NHRS removes service credit that was incorrectly credited to a member, adds service credit that was not properly credited to a member, or withholds service credit that is not due a member in accordance with RSA 100-A:4 and Ret 304.\n\nSource. #7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09\n\nNew. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

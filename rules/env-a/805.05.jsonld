@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/805.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/805",
+  "definition": "Alternative CE Procedures for Control Devices Other Than Solvent Recovery Systems",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 805.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 805.05 Alternative CE Procedures for Control Devices Other Than Solvent Recovery Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 805.05 Alternative CE Procedures for Control Devices Other Than Solvent Recovery Systems.\n\n(a) If a source installs a PTE that meets EPA specifications as described in Method 204 and which directs all VOC to a control device, the CE shall be assumed to be 100%, and the source shall be exempt from the CE testing requirements described in this part. A source that has installed a PTE shall not be exempt from the compliance stack testing requirements of any control device required under these or any other rules.\n\n(b) A source choosing to demonstrate that it meets the criteria for a PTE shall submit the following to the department:\n\n(1) Documentation showing that all Method 204 criteria for a PTE were met during the testing for control efficiency of the add-on control device; or\n\n(2) For any time period other than during testing of the add-on control device for control efficiency, documentation which demonstrates that the operation of the control system occurred under the same conditions experienced during the control device compliance stack test.\n\n(c) The data quality objective (DQO) approach as specified in the GFDCE, Section 3.1, may be used as an alternative method for determining CE using the Method 204 through Method 204F test series, in conjunction with the additional criteria specified in Section 3.3 of the GFDCE and the reporting and recordkeeping requirements of Section 3.4 and 3.5 of the GFDCE.\n\n(d) The lower confidence limit (LCL) approach as specified in the GFDCE, Section 3.2, may be used as an alternative method for determining CE, using the following:\n\n(1) The Method 204 through Method 204F test series;\n\n(2) Additional criteria specified in Section 3.3 of the GFDCE; and\n\n(3) The reporting and recordkeeping requirements of Section 3.4 and 3.5 of the GFDCE.\n\n(e) Multiple line CE testing may be used if the requirements in the GFDCE, Section 4.0, are followed.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

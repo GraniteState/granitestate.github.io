@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.03",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Federal Definitions",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.03 Federal Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.03 Federal Definitions. For purposes of this part, the following terms shall be as defined in 40 CFR §3.3, reprinted in Appendix B:\n\n(a) “Authorized program”;\n\n(b) “Copy of record”;\n\n(c) “Electronic document”;\n\n(d) “Electronic document receiving system”;\n\n(e) “Electronic signature”;\n\n(f) “Electronic signature agreement”;\n\n(g) “Electronic signature device”;\n\n(h) “Federal program”;\n\n(i) “Federal reporting requirement”;\n\n(j) “Handwritten signature”;\n\n(k) “Subscriber agreement”;\n\n(l) “Transmit”; and\n\n(m) “Valid electronic signature”.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

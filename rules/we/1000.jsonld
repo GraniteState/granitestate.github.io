@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/1000",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:18",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/we",
+  "definition": "REGISTRY OF COMPLAINTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/1001",
+    "https://granitestate.github.io/rules/we/1002"
+  ],
+  "notation": "We 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 1000 REGISTRY OF COMPLAINTS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER We 1000 REGISTRY OF COMPLAINTS\n\nStatutory Authority: RSA 482-B:18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

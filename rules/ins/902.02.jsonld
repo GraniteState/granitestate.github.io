@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/902.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "412",
+      "source": "https://granitestate.github.io/rsa/412",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-A",
+      "source": "https://granitestate.github.io/rsa/420-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-B",
+      "source": "https://granitestate.github.io/rsa/420-B",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/412",
+    "https://granitestate.github.io/rsa/420-A",
+    "https://granitestate.github.io/rsa/420-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/902",
+  "definition": "Review of Rate Filings",
+  "effectiveDate": "2026-02-07",
+  "expirationDate": "2036-02-07",
+  "historyNote": "#4498(E), eff 9-30-88; ss by #4576, eff 2-6-89; ss by #5649, eff 7-1-93; ss by #7028, INTERIM, eff 7-1-99, EXPIRES: 10-29-99; ss by #7123, eff 10-29-99; ss by #8965, eff 9-1-07; ss by #10919, eff 9-1-15; ss by #14511, eff 2-7-26, EXPIRES: 2-7-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 902.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins900.html",
+  "prefLabel": "Ins 902.02 Review of Rate Filings",
+  "recordType": "rule-section",
+  "ruleText": "Ins 902.02 Review of Rate Filings. The commissioner shall, for the purpose of examining and analyzing rate filings, contract with a qualified actuary or actuarial firm employing qualified actuaries. The examination and analysis of any rate filing shall be undertaken by a contracting actuary or actuarial firm only when the insurance department is unable to provide the resources necessary to review such filings. The contracting actuary or actuarial firm shall provide advice to the commissioner on the rate filing and perform other actuarial services related to the rate filing as required.\n\nSource. #4498(E), eff 9-30-88; ss by #4576, eff 2-6-89; ss by #5649, eff 7-1-93; ss by #7028, INTERIM, eff 7-1-99, EXPIRES: 10-29-99; ss by #7123, eff 10-29-99; ss by #8965, eff 9-1-07; ss by #10919, eff 9-1-15; ss by #14511, eff 2-7-26, EXPIRES: 2-7-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins900.html"
+}

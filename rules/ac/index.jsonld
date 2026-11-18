@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "definition": "Board of Accountancy",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ac/100",
+    "https://granitestate.github.io/rules/ac/200",
+    "https://granitestate.github.io/rules/ac/300",
+    "https://granitestate.github.io/rules/ac/400",
+    "https://granitestate.github.io/rules/ac/500"
+  ],
+  "notation": "Ac",
+  "prefLabel": "Ac Board of Accountancy",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

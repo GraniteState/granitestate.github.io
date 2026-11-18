@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/501",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310-A:143",
+      "paragraphs": [
+        "I(f)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:152",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/500",
+  "definition": "ETHICAL STANDARDS AND PROFESSIONAL CONDUCT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lsa/501.01",
+    "https://granitestate.github.io/rules/lsa/501.02",
+    "https://granitestate.github.io/rules/lsa/501.03",
+    "https://granitestate.github.io/rules/lsa/501.04",
+    "https://granitestate.github.io/rules/lsa/501.05",
+    "https://granitestate.github.io/rules/lsa/501.06",
+    "https://granitestate.github.io/rules/lsa/501.07",
+    "https://granitestate.github.io/rules/lsa/501.08",
+    "https://granitestate.github.io/rules/lsa/501.09"
+  ],
+  "notation": "Lsa 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 501 ETHICAL STANDARDS AND PROFESSIONAL CONDUCT",
+  "recordType": "rule-part",
+  "ruleText": "PART Lsa 501 ETHICAL STANDARDS AND PROFESSIONAL CONDUCT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1502.05",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "215-A:21",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-21",
+    "https://granitestate.github.io/rsa/215-A/215-A-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1502",
+  "definition": "Checks",
+  "effectiveDate": "2018-07-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1502.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html",
+  "prefLabel": "Fis 1502.05 Checks",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1502.05 Checks.\n\n(a) Post-dated checks shall not be accepted.\n\n(b) Checks shall be for the exact amount due to the department.\n\n(c) No 2-party check shall be accepted;\n\n(e) No check shall be accepted which is dated more than 90 days prior to receipt; and\n\n(f) In the event a non-compliant check is presented for payment, the application for registration shall be rejected, and the applicant shall be notified in accordance with Fis 1502.04.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html"
+}

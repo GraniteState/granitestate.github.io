@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "definition": "Oil Fund Disbursement Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/odb/100",
+    "https://granitestate.github.io/rules/odb/200",
+    "https://granitestate.github.io/rules/odb/300",
+    "https://granitestate.github.io/rules/odb/400",
+    "https://granitestate.github.io/rules/odb/500",
+    "https://granitestate.github.io/rules/odb/600"
+  ],
+  "notation": "Odb",
+  "prefLabel": "Odb Oil Fund Disbursement Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

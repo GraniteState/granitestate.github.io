@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/401.11",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/401",
+  "definition": "Computation of Cash Values for Variable Annuities",
+  "effectiveDate": "2017-03-18",
+  "historyNote": "#8726, eff 9-18-06, EXPIRED: 9-18-14 New. #12126, eff 3-18-17 (from Ins 401.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 401.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html",
+  "prefLabel": "Ins 401.11 Computation of Cash Values for Variable Annuities",
+  "priorExpiration": "2014-09-18",
+  "recordType": "rule-section",
+  "ruleText": "Ins 401.11 Computation of Cash Values for Variable Annuities.\n\n(a) If the variable annuity policy does not include a table of figures for the options available, the policy shall provide that the company will furnish at least once in each policy year a statement showing the cash value as of a date no earlier than the prior policy anniversary.\n\n(b) The method of computation of cash values and other nonforfeiture benefits, as described either in the policy or in a statement filed with the commissioner of the jurisdiction in which the policy is delivered, shall be in accordance with actuarial procedures that recognize the variable nature of the policy.\n\n(c) The method of computation shall be such that, if the net investment return credited to the contract at all times from the date of issue should be equal to the assumed investment increment factor if the contract provides for such a factor or 3-1/2 percent if not, with premiums and benefits determined accordingly under the terms of the policy, the resulting cash values and other nonforfeiture benefits would be at least equal to the minimum values required by RSA 409 Standard Nonforfeiture Law for a fixed dollar policy with such premiums and benefits.\n\n(d) The method of computation may disregard incidental minimum guarantees as to the dollar amounts payable. Incidental minimum guarantees shall include, for example, but shall not be limited to, a guarantee under a policy that provides for an assumed investment increment factor that the amount payable at death or maturity shall be at least equal to the amount that otherwise would have been payable if the net investment return credited to the contract at all times from the date of issue had been equal to such factor.\n\nSource. #8726, eff 9-18-06, EXPIRED: 9-18-14\n\nNew. #12126, eff 3-18-17 (from Ins 401.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html"
+}

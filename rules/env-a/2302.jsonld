@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2302",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2300",
+  "definition": "EMISSION STANDARDS FOR MITIGATION OF REGIONAL HAZE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/2302.01",
+    "https://granitestate.github.io/rules/env-a/2302.02",
+    "https://granitestate.github.io/rules/env-a/2302.03"
+  ],
+  "notation": "Env-A 2302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html",
+  "prefLabel": "Env-A 2302 EMISSION STANDARDS FOR MITIGATION OF REGIONAL HAZE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 2302 EMISSION STANDARDS FOR MITIGATION OF REGIONAL HAZE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html"
+}

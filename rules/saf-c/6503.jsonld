@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6503",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "265-A:36",
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-36",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6500",
+  "definition": "APPROVAL OF INTERLOCK SERVICE PROVIDERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/6503.01",
+    "https://granitestate.github.io/rules/saf-c/6503.02",
+    "https://granitestate.github.io/rules/saf-c/6503.03"
+  ],
+  "notation": "Saf-C 6503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html",
+  "prefLabel": "Saf-C 6503 APPROVAL OF INTERLOCK SERVICE PROVIDERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 6503 APPROVAL OF INTERLOCK SERVICE PROVIDERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html"
+}

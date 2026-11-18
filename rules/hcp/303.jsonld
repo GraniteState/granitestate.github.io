@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hcp/303",
+  "@type": "Concept",
+  "agencyCode": "Hcp",
+  "authority": [
+    {
+      "citation": "137-F:6",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "137-F:15",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/hcp/300",
+  "definition": "TEMPORARY AUDIOLOGY LICENSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hcp/303.01"
+  ],
+  "notation": "Hcp 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hcp100-500.html",
+  "prefLabel": "Hcp 303 TEMPORARY AUDIOLOGY LICENSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Hcp 303 TEMPORARY AUDIOLOGY LICENSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hcp100-500.html"
+}

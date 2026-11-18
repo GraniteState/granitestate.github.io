@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/601.01",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "altLabel": "Administrative Units",
+  "authority": [
+    {
+      "citation": "281-A",
+      "source": "https://granitestate.github.io/rsa/281-A",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/601",
+  "definition": "Administrative units",
+  "effectiveDate": "2023-01-24",
+  "historyNote": "#13149, eff 12-29-20; ss by #13523, eff 1-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 601.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab600.html",
+  "prefLabel": "Lab 601.01 Administrative units",
+  "recordType": "rule-section",
+  "ruleText": "Lab 601.01 “Administrative units” means those entities regulated pursuant to RSA 194-C.\n\nSource. #13149, eff 12-29-20; ss by #13523, eff 1-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab600.html"
+}

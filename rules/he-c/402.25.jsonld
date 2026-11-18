@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/402.25",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126-X:6",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-X/126-X-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "126-X:7",
+      "source": "https://granitestate.github.io/rsa/126-X/126-X-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "126-X:8",
+      "paragraphs": [
+        "XVI(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-X/126-X-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-X/126-X-6",
+    "https://granitestate.github.io/rsa/126-X/126-X-7",
+    "https://granitestate.github.io/rsa/126-X/126-X-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/402",
+  "definition": "Confidentiality",
+  "effectiveDate": "2018-11-01",
+  "historyNote": "#10731, eff 11-25-14; ss by #12653, eff 11-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 402.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c400.html",
+  "prefLabel": "He-C 402.25 Confidentiality",
+  "recordType": "rule-section",
+  "ruleText": "He-C 402.25 Confidentiality.\n\n(a) All individually identifiable patient health or cannabis information which an ATC creates, receives, maintains, or transmits in an electronic form shall be deemed protected health care information for the purposes of the federal Health Insurance Portability and Accountability Act of 1996 as amended.\n\n(b) All information held by the ATC which identifies certifying providers, registered qualifying patients, and designated caregivers shall be confidential pursuant to RSA 126-X and shall not be released except as provided by (e) below.\n\n(c) The ATC shall have an electronic record keeping system that provides password protected restricted access to confidential information to only those ATC technicians who require access to perform the duties of their position.\n\n(d) The electronic record keeping system in (c) above shall at a minimum:\n\n(1) Be structured so that dispensing, data collection records, and any product effectiveness records shall be tracked according to qualifying patients’ registry identification numbers to protect their confidentiality; and\n\n(2) Have the capability of pairing the registry identification numbers with registered qualifying patient demographics when necessary to send reports to persons as identified by (e) below, such as providers.\n\n(e) Information held by the ATC about registered qualifying patients, designated caregivers, and certifying providers may be released by the ATC to:\n\n(1) The subject individual to whom the information applies, his or her designated caregiver, or his or her authorized representative;\n\n(2) Persons designated in writing by the registered qualifying patient;\n\n(3) Department staff for the purpose of carrying out official duties; and\n\n(4) An individual or entity pursuant to an order from a court of competent jurisdiction.\n\n(f) All ATC agents shall sign a statement of confidentiality that they have read and understand the policies required by He-C 402.09(b)(12) prior to the start of any duties within the ATC.\n\nSource. #10731, eff 11-25-14; ss by #12653, eff 11-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c400.html"
+}

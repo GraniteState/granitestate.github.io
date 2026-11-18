@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/605.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/605",
+  "definition": "Maturity Requirements",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "#5172, eff 7-1-91; amd by #5295, eff 12-24-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.05); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 605.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 605.05 Maturity Requirements",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 605.05 Maturity Requirements.\n\n(a) Except as provided in (b) below, compost shall be deemed mature when the final carbon-to-nitrogen (C:N) ratio is less than 25:1 and the compost meets or exceeds a maturity threshold for at least one test from group A and one test from group B as specified in Table 600-2 below, with test methods conducted in accordance with the “Test Method for Examination of Composting and Compost (TMECC),” April 2002, published by the US Composting Council, accessed as noted in Appendix B.\n\n(b) Compost distributed in bulk and used for agricultural crop production need not be mature as specified in (a) above, provided that the final carbon to nitrogen (C:N) ratio of the compost is less than 25:1 and the compost is otherwise suitable for the intended crop.\n\nTable 600-2: Compost Maturity Standards\n\nTest | Units | Maturity Threshold | Method\n\nGroup A | Specific Oxygen Uptake | mg O2 per g organic matter per hour | ≤ 1.5 | TMECC 05.08-A\n\nCO2 Evolution | mg CO2 per g organic matter per day | ≤ 8 | TMECC 05.08-B\n\nSolvita® CO2 | Index Value | ≥ 5 | Manufacturer's SOP\n\nDewar Self Heating Test | Temp. rise (⁰C) over ambient | ≤ 20 | TMECC 05.08-D\n\nGroup B | Ammonium to Nitrate Ratio (NH4-N:NO3-N) | n/a | ≤ 3 | TMECC 05.02-C\n\nTotal Ammonia (NH3-N) | ppm, dry basis | ≤ 500 | TMECC 04.02-C\n\nSolvita® NH3 | Index Value | ≥ 4 | Manufacturer's SOP\n\nPlant Trials | % of control | ≥ 80 | TMECC 05.05\n\nSource. #5172, eff 7-1-91; amd by #5295, eff 12-24-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 600); ss by #8459, eff 10-28-05 (formerly Env-Wm 2305.05); ss by #10596, eff 7-1-14; ss #13358, eff 4-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tre/101",
+  "@type": "Concept",
+  "agencyCode": "Tre",
+  "authority": [
+    {
+      "citation": "6:3-a",
+      "source": "https://granitestate.github.io/rsa/6/6-3-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/6/6-3-a",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/tre/100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tre/101.01",
+    "https://granitestate.github.io/rules/tre/101.02"
+  ],
+  "notation": "Tre 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre100.html",
+  "prefLabel": "Tre 101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Tre 101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre100.html"
+}

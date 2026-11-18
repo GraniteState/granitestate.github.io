@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/504.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/504",
+  "definition": "Storage Tank Inspection and Maintenance",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 504) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 504.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 504.09 Storage Tank Inspection and Maintenance",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 504.09 Storage Tank Inspection and Maintenance.\n\n(a) At least once every 5 years, the owner of a PWS shall have each water storage tank used by the system inspected to the maximum extent practical and evaluated for structural strength, corrosion, and other factors related to water quality and tank integrity.\n\n(b) Tanks with a capacity of 20,000 gallons or less, and less than 20 years in age, shall not be required to be inspected internally unless the tank shows any visible signs of diminished integrity or damage or might be adversely affecting water quality.\n\n(c) Metal storage tank surfaces shall be painted or otherwise protected as determined by the tank inspection report recommendations, using materials approved in accordance with Env-Dw 403.\n\n(d) The owner of a PWS shall maintain emergency access to the tank’s filler pipe.\n\nSource. (See Revision Note at part heading for Env-Dw 504) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

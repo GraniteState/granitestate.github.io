@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/704",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "178:3",
+      "source": "https://granitestate.github.io/rsa/178/178-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178/178-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/700",
+  "definition": "LICENSE RENEWALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/704.01",
+    "https://granitestate.github.io/rules/liq/704.02"
+  ],
+  "notation": "Liq 704",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 704 LICENSE RENEWALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 704 LICENSE RENEWALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5903.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:10",
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-10",
+    "https://granitestate.github.io/rsa/153-A/153-A-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5903",
+  "definition": "Types of Unit Licenses",
+  "effectiveDate": "2019-05-24",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5903.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5903.01 Types of Unit Licenses",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5903.01 Types of Unit Licenses.\n\n(a) A unit license shall be issued as a transport unit or non-transport unit.\n\n(b) “Transport unit” means an EMS service capable of transporting patients to a hospital or facility in an EMS vehicle; or\n\n(c) “Non-transport unit” means an EMS service which has no capability of transporting patients to a hospital or facility in an EMS vehicle.\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

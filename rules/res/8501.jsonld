@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/8501",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-A:1",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:3-a",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-C:1",
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-1",
+    "https://granitestate.github.io/rsa/215-A/215-A-3-a",
+    "https://granitestate.github.io/rsa/215-C/215-C-1",
+    "https://granitestate.github.io/rsa/215-C/215-C-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/8500",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/8501.01"
+  ],
+  "notation": "Res 8501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html",
+  "prefLabel": "Res 8501 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 8501 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html"
+}

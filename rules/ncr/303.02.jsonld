@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/303.02",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "217-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/303",
+  "definition": "Threatened Species",
+  "effectiveDate": "2020-01-24",
+  "historyNote": "(See Revision Note at chapter heading for Ncr 300) #12980, eff 1-24-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 303.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html",
+  "prefLabel": "Ncr 303.02 Threatened Species",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 303.02 Threatened Species.\n\n(a) The natural heritage inventory of threatened species shall contain the following types of species:\n\n(1) All species occurring in New Hampshire determined to be a threatened species pursuant to the Endangered Species Act;\n\n(2) Federal candidate species occurring in New Hampshire which are not contained in the natural heritage inventory of endangered species; or\n\n(3) Native plant species having 6 to 20 natural occurrences observed within the last 20 years or species with more than 20 occurrences which are, in the judgement of botanical experts, vulnerable to becoming endangered due to other rarity and endangerment factors.\n\n(b) Any plant found to comply with (a) above, for which a petition conforming to Ncr 304 has been submitted, shall be added to this natural heritage inventory.\n\nSource. (See Revision Note at chapter heading for Ncr 300) #12980, eff 1-24-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html"
+}

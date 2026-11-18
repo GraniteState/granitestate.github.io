@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/103.03",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/103",
+  "definition": "Response to Request for Records",
+  "effectiveDate": "2023-04-25",
+  "historyNote": "#13612, eff 4-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 103.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 103.03 Response to Request for Records",
+  "recordType": "rule-section",
+  "ruleText": "Liq 103.03 Response to Request for Records.\n\n(a) The commission shall respond to all requests for records in accordance with RSA 91-A.\n\n(b) When inspection of publicly available records is not immediately feasible, the requesting party and the commission shall agree upon a mutually convenient time and manner for such inspection.\n\n(c) By agreement between the requesting party and the commission, the commission shall send copies electronically to a valid email address provided by the requesting party.\n\nSource. #13612, eff 4-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

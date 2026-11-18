@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/704",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:61",
+      "source": "https://granitestate.github.io/rsa/186/186-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/700",
+  "definition": "HIGH SCHOOL EQUIVALENCY PROGRAM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/704.01",
+    "https://granitestate.github.io/rules/ed/704.02",
+    "https://granitestate.github.io/rules/ed/704.03"
+  ],
+  "notation": "Ed 704",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed700.html",
+  "prefLabel": "Ed 704 HIGH SCHOOL EQUIVALENCY PROGRAM",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 704 HIGH SCHOOL EQUIVALENCY PROGRAM\n\nStatutory Authority: RSA 186:61",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed700.html"
+}

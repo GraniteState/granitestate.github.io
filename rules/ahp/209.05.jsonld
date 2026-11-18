@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/209.05",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/209",
+  "definition": "Recording the Hearing",
+  "effectiveDate": "2010-12-15",
+  "historyNote": "#8078, eff 5-1-04; ss by #9833, eff 12-15-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 209.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 209.05 Recording the Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 209.05 Recording the Hearing.\n\n(a) Except in the circumstances described in (b) below, the presiding officer shall record the hearing by electronic recording or any other method that will provide a verbatim record.\n\n(b) A hearing on the immediate suspension of a license or certification pursuant to RSA 541-A:30, III shall be recorded by a certified shorthand court reporter provided by the board.\n\n(c) If any person requests a transcript of the verbatim recording of a hearing, the board shall:\n\n(1) Cause a transcript to be prepared; and\n\n(2) Upon receipt of payment for the cost of the transcription, provide a copy of the transcript to the person making the request.\n\nSource. #8078, eff 5-1-04; ss by #9833, eff 12-15-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

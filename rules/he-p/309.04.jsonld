@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/309.04",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "151:33",
+      "source": "https://granitestate.github.io/rsa/151/151-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:35",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/151/151-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/309",
+  "definition": "Central Line-Associated Blood Stream Infections (CLABSI)",
+  "effectiveDate": "2019-12-11",
+  "historyNote": "#9851, eff 1-14-11; amd by #10079, eff 1-26-12 (from He-P 309.03); ss by #12943, eff 12-11-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 309.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p300.html",
+  "prefLabel": "He-P 309.04 Central Line-Associated Blood Stream Infections (CLABSI)",
+  "recordType": "rule-section",
+  "ruleText": "He-P 309.04 Central Line-Associated Blood Stream Infections (CLABSI).\n\n(a) Hospitals shall comply with the United States Centers for Disease Control and Prevention National Healthcare Safety Network, “Central Line Bloodstream Infection (CLABSI) Event”, (January 2019 Edition), available as noted in Appendix A at http://www.cdc.gov/nhsn/PDFs/pscManual/4PSC_CLABScurrent.pdf, when submitting CLABSI data.\n\n(b) Hospitals shall monitor all adult, pediatric, and neonatal intensive care units for CLABSI events all 12 calendar months, and shall report data on CLABSI events quarterly via NHSN.\n\n(c) Hospitals shall provide data within 60 days of the close of each quarter to NHSN, as follows:\n\n(1) Quarter 1 data, from January 1st to March 31st, shall be reported on or before May 30th;\n\n(2) Quarter 2 data, from April 1st to June 30th, shall be reported on or before August 29th;\n\n(3) Quarter 3 data, from July 1st to September 30th, shall be reported on or before November 29th; and\n\n(4) Quarter 4 data, from October 1st to December 31st, shall be reported on or before March 1st of the following calendar year.\n\n(d) Specialty hospitals, ESRD centers, residential care facilities, assisted living residences, nursing homes, and veterans’ homes shall not be required to report CLABSI.\n\nSource. #9851, eff 1-14-11; amd by #10079, eff 1-26-12 (from He-P 309.03); ss by #12943, eff 12-11-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p300.html"
+}

@@ -1,0 +1,61 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/808",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/800",
+  "definition": "AQUATIC RESOURCE COMPENSATORY MITIGATION FUND",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/808.01",
+    "https://granitestate.github.io/rules/env-wt/808.02",
+    "https://granitestate.github.io/rules/env-wt/808.03",
+    "https://granitestate.github.io/rules/env-wt/808.04",
+    "https://granitestate.github.io/rules/env-wt/808.05",
+    "https://granitestate.github.io/rules/env-wt/808.06",
+    "https://granitestate.github.io/rules/env-wt/808.07",
+    "https://granitestate.github.io/rules/env-wt/808.08",
+    "https://granitestate.github.io/rules/env-wt/808.09",
+    "https://granitestate.github.io/rules/env-wt/808.10",
+    "https://granitestate.github.io/rules/env-wt/808.11",
+    "https://granitestate.github.io/rules/env-wt/808.12",
+    "https://granitestate.github.io/rules/env-wt/808.13",
+    "https://granitestate.github.io/rules/env-wt/808.14",
+    "https://granitestate.github.io/rules/env-wt/808.15",
+    "https://granitestate.github.io/rules/env-wt/808.16",
+    "https://granitestate.github.io/rules/env-wt/808.17",
+    "https://granitestate.github.io/rules/env-wt/808.18",
+    "https://granitestate.github.io/rules/env-wt/808.19",
+    "https://granitestate.github.io/rules/env-wt/808.20",
+    "https://granitestate.github.io/rules/env-wt/808.21"
+  ],
+  "notation": "Env-Wt 808",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 808 AQUATIC RESOURCE COMPENSATORY MITIGATION FUND",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 808 AQUATIC RESOURCE COMPENSATORY MITIGATION FUND",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

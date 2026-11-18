@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pod/302",
+  "@type": "Concept",
+  "agencyCode": "Pod",
+  "authority": [
+    {
+      "citation": "315:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "315:4",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pod/300",
+  "definition": "QUALIFICATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pod/302.01"
+  ],
+  "notation": "Pod 302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html",
+  "prefLabel": "Pod 302 QUALIFICATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pod 302 QUALIFICATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html"
+}

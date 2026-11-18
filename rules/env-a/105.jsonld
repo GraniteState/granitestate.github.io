@@ -1,0 +1,119 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/105",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/100",
+  "definition": "DEFINITIONS: S THROUGH Z",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/105.01",
+    "https://granitestate.github.io/rules/env-a/105.02",
+    "https://granitestate.github.io/rules/env-a/105.03",
+    "https://granitestate.github.io/rules/env-a/105.04",
+    "https://granitestate.github.io/rules/env-a/105.05",
+    "https://granitestate.github.io/rules/env-a/105.06",
+    "https://granitestate.github.io/rules/env-a/105.07",
+    "https://granitestate.github.io/rules/env-a/105.08",
+    "https://granitestate.github.io/rules/env-a/105.09",
+    "https://granitestate.github.io/rules/env-a/105.10",
+    "https://granitestate.github.io/rules/env-a/105.11",
+    "https://granitestate.github.io/rules/env-a/105.12",
+    "https://granitestate.github.io/rules/env-a/105.13",
+    "https://granitestate.github.io/rules/env-a/105.14",
+    "https://granitestate.github.io/rules/env-a/105.15",
+    "https://granitestate.github.io/rules/env-a/105.16",
+    "https://granitestate.github.io/rules/env-a/105.17",
+    "https://granitestate.github.io/rules/env-a/105.18",
+    "https://granitestate.github.io/rules/env-a/105.19",
+    "https://granitestate.github.io/rules/env-a/105.20",
+    "https://granitestate.github.io/rules/env-a/105.21",
+    "https://granitestate.github.io/rules/env-a/105.22",
+    "https://granitestate.github.io/rules/env-a/105.23",
+    "https://granitestate.github.io/rules/env-a/105.24",
+    "https://granitestate.github.io/rules/env-a/105.25",
+    "https://granitestate.github.io/rules/env-a/105.26",
+    "https://granitestate.github.io/rules/env-a/105.27",
+    "https://granitestate.github.io/rules/env-a/105.28",
+    "https://granitestate.github.io/rules/env-a/105.29",
+    "https://granitestate.github.io/rules/env-a/105.30",
+    "https://granitestate.github.io/rules/env-a/105.31",
+    "https://granitestate.github.io/rules/env-a/105.32",
+    "https://granitestate.github.io/rules/env-a/105.33",
+    "https://granitestate.github.io/rules/env-a/105.34",
+    "https://granitestate.github.io/rules/env-a/105.35",
+    "https://granitestate.github.io/rules/env-a/105.36",
+    "https://granitestate.github.io/rules/env-a/105.37",
+    "https://granitestate.github.io/rules/env-a/105.38",
+    "https://granitestate.github.io/rules/env-a/105.39",
+    "https://granitestate.github.io/rules/env-a/105.40",
+    "https://granitestate.github.io/rules/env-a/105.41",
+    "https://granitestate.github.io/rules/env-a/105.42",
+    "https://granitestate.github.io/rules/env-a/105.43",
+    "https://granitestate.github.io/rules/env-a/105.44",
+    "https://granitestate.github.io/rules/env-a/105.45",
+    "https://granitestate.github.io/rules/env-a/105.46",
+    "https://granitestate.github.io/rules/env-a/105.47",
+    "https://granitestate.github.io/rules/env-a/105.48",
+    "https://granitestate.github.io/rules/env-a/105.49",
+    "https://granitestate.github.io/rules/env-a/105.50",
+    "https://granitestate.github.io/rules/env-a/105.51",
+    "https://granitestate.github.io/rules/env-a/105.52"
+  ],
+  "notation": "Env-A 105",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 105 DEFINITIONS: S THROUGH Z",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 105 DEFINITIONS: S THROUGH Z",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

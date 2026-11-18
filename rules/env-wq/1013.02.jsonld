@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1013.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1013",
+  "definition": "Pump Chamber",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1013.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1013.02 Pump Chamber",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1013.02 Pump Chamber.\n\n(a) The pump chamber shall be water-tight and vented.\n\n(b) Venting shall be done directly or through the septic tank.\n\n(c) The capacity of the pump chamber shall be such that the pump or siphon can be set to dose each bed a minimum of 3 times per day.\n\n(d) If duplicate pumps are not provided, the dosing chamber shall be equipped with a high water alarm that signals in a centrally-located area at the building served if the pump fails for any reason.\n\n(e) Each pump chamber shall be accessible via a riser and cover that meet the requirements of Env-Wq 1010.05.\n\n(f) A duplex pump chamber shall be accessible via a riser with an access hatch. The permitted designer shall specify the load-bearing requirements for the access hatch.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

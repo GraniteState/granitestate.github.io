@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/215.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/215",
+  "definition": "Public Access and Participation",
+  "effectiveDate": "2015-03-18",
+  "historyNote": "#10798, eff 3-18-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-Mec 215.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec200.html",
+  "prefLabel": "Saf-Mec 215.02 Public Access and Participation",
+  "recordType": "rule-section",
+  "ruleText": "Saf-Mec 215.02 Public Access and Participation.\n\n(a) Public comment hearings shall be open to the public, and members of the public shall be entitled to testify, subject to the limitations of Saf-Mec 215.03.\n\n(b) People who wish to testify shall be asked to write on the speaker's list:\n\n(1) Their full names and addresses; and\n\n(2) The names and addresses of organizations, entities or other persons whom they represent, if any.\n\n(c) Written comments, which may be submitted in lieu of or in addition to oral testimony, shall be accepted for 10 days after the adjournment of a hearing or after the adjournment of a postponed or continued hearing.\n\nSource. #10798, eff 3-18-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec200.html"
+}

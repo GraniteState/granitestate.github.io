@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/102.34",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Carbon Dioxide",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/102",
+  "definition": "Carbon dioxide equivalent emissions (CO2e)",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#9839 eff 12-21-10; ss by #13105, eff 9-25-20 (formerly Env-A 101.35) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 102.34",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 102.34 Carbon dioxide equivalent emissions (CO2e)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 102.34 “Carbon dioxide equivalent emissions (CO2e)” means a measurement of the global warming potential of GHGs emitted, determined by multiplying the mass amount of emissions in tons per year (tpy) of each gas in the pollutant group GHGs by the associated global warming potential for that gas published at Table A-1 to subpart A of 40 CFR part 98, Global Warming Potentials, and adding the resultant values to compute a tpy CO2e for the GHGs.\n\nSource. #9839 eff 12-21-10; ss by #13105, eff 9-25-20 (formerly Env-A 101.35) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

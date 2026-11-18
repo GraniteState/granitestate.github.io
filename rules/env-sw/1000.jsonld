@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1000",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw",
+  "definition": "UNIVERSAL SOLID WASTE FACILITY REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1001",
+    "https://granitestate.github.io/rules/env-sw/1002",
+    "https://granitestate.github.io/rules/env-sw/1003",
+    "https://granitestate.github.io/rules/env-sw/1004",
+    "https://granitestate.github.io/rules/env-sw/1005",
+    "https://granitestate.github.io/rules/env-sw/1006"
+  ],
+  "notation": "Env-Sw 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html",
+  "prefLabel": "Env-Sw 1000 UNIVERSAL SOLID WASTE FACILITY REQUIREMENTS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Sw 1000 UNIVERSAL SOLID WASTE FACILITY REQUIREMENTS\n\nStatutory Authority: RSA 149-M:7\n\nDocument #8459, effective 10-28-05, readopted with amendments, renumbered, and redesignated former Chapter Env-Wm 2700 as Env-Sw 1000, pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. The source notes for each section of Env-Sw 1000 identify the former subtitle Env-Wm and number for the respective rule prior to Document #8459.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html"
+}

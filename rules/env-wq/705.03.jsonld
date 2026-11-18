@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/705.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/705",
+  "definition": "Sewage Pumping Station Design Requirements: Allowable Pump Types, Pump Controls, and Pump Size",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 705.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 705.03 Sewage Pumping Station Design Requirements: Allowable Pump Types, Pump Controls, and Pump Size",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 705.03 Sewage Pumping Station Design Requirements: Allowable Pump Types, Pump Controls, and Pump Size.\n\n(a) The following types of sewage pumping stations shall be allowed:\n\n(1) Dry well or wet well type designs with pumps and drives located in a separate dry chamber with flooded suctions;\n\n(2) Suction lift type with pumps and drives in a separate dry chamber; and\n\n(3) Submersible type with pumps submerged.\n\n(b) A minimum of 2 pumps, each designed to handle peak hourly flows, shall be provided.\n\n(c) Where 3 or more pumps are provided, they shall be designed such that, with any one unit out of service, the remaining units shall have the capacity to handle peak hourly sewage flows.\n\n(d) The use of jockey pumps shall be evaluated to optimize the efficiency of the pumping station operation.\n\n(e) All pumps shall be protected from damage due to large solid objects.\n\n(f) Sewage pumps, with the exception of grinder pumps, shall be capable of passing a 3-inch sphere. Pumps preceded by a grinder unit shall be capable of passing a 2.5-inch sphere.\n\n(g) Submersible pumps shall be capable of removal without disconnecting pipes or dewatering and reseating using non-corroding guide rails or cables.\n\n(h) Self-priming suction lift pump systems shall be designed such that:\n\n(1) The system’s reprime capacity is greater than the static suction head; and\n\n(2) The system’s available net positive suction head is at least 6 feet greater than the required net positive suction head.\n\n(i) Pumps shall be protected by check valves from being driven in the reverse direction.\n\n(j) Pump controls shall provide autostart of lag pump should lead pump fail to start.\n\n(k) Flooded suction pumping systems shall be designed such that:\n\n(1) Shut-off valves are provided in the suction piping;\n\n(2) Shut-off valves and check valves are provided in the discharge piping; and\n\n(3) Discharge shut-off valves are located downstream of the check valve.\n\n(l) Shut-off and check valves for submersible pumps shall be placed in a separate chamber for ease of maintenance.\n\n(m) Individual grinder pumps part of a pressure sewer system designed in accordance with Env-Wq 704.10 shall not be subject to the requirements of this subchapter.\n\n(n) Low-flow sewage pumping stations with a capacity of less than 120 gpm shall be grinder type submersible pumps with wet wells and pump controls designed to minimize wet well storage time and discourage septic conditions from developing within the sewerage system.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

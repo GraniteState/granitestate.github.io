@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/601",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/600",
+  "definition": "PURPOSE; DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/601.01",
+    "https://granitestate.github.io/rules/env-dw/601.02",
+    "https://granitestate.github.io/rules/env-dw/601.03",
+    "https://granitestate.github.io/rules/env-dw/601.04",
+    "https://granitestate.github.io/rules/env-dw/601.05",
+    "https://granitestate.github.io/rules/env-dw/601.06",
+    "https://granitestate.github.io/rules/env-dw/601.07"
+  ],
+  "notation": "Env-Dw 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw600.html",
+  "prefLabel": "Env-Dw 601 PURPOSE; DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 601 PURPOSE; DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw600.html"
+}

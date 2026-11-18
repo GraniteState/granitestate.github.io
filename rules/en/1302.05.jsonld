@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1302.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Complex Make-Ready",
+  "authority": [
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:34-a",
+      "source": "https://granitestate.github.io/rsa/374/374-34-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-34-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1301",
+  "definition": "Complex make-ready",
+  "effectiveDate": "2022-12-01",
+  "historyNote": "#13497, eff 12-1-22 (see Revision Note at chapter heading for En 1300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1302.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1300.html",
+  "prefLabel": "En 1302.05 Complex make-ready",
+  "recordType": "rule-section",
+  "ruleText": "En 1302.05 “Complex make-ready” means transfers and work within the communications space that would be reasonably likely to cause a service outage(s) or facility damage, including work such as splicing of any communications attachment or relocation of existing wireless attachments. Any and all wireless activities, including those involving mobile, fixed, and point-to-point wireless communications and wireless internet service providers, are considered complex.\n\nSource. #13497, eff 12-1-22 (see Revision Note at chapter heading for En 1300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1300.html"
+}

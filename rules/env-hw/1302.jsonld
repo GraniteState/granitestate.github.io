@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1302",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-B:8",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-8",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-B:9",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-B:11",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-11",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-8",
+    "https://granitestate.github.io/rsa/147-B/147-B-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1300",
+  "definition": "HAZARDOUS WASTE PHARMACEUTICALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/1302.01",
+    "https://granitestate.github.io/rules/env-hw/1302.02"
+  ],
+  "notation": "Env-Hw 1302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1300.html",
+  "prefLabel": "Env-Hw 1302 HAZARDOUS WASTE PHARMACEUTICALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 1302 HAZARDOUS WASTE PHARMACEUTICALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1300.html"
+}

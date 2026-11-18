@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/1006.02",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:21-h",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:21-i",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:21-s",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/1006",
+  "definition": "Lottery Retailer Bonus",
+  "effectiveDate": "2019-03-23",
+  "historyNote": "(See Revision Note at chapter heading for Lot 1000) #12747, eff 3-23-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 1006.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1000.html",
+  "prefLabel": "Lot 1006.02 Lottery Retailer Bonus",
+  "recordType": "rule-section",
+  "ruleText": "Lot 1006.02 Lottery Retailer Bonus. All lottery retailers, excluding the lottery sales offices and online retailers, who cash a winning instant lottery game ticket of $599.99 or under, shall receive as a cashing bonus, one percent of the cashed amount pursuant to RSA 284:21-s.\n\nSource. (See Revision Note at chapter heading for Lot 1000) #12747, eff 3-23-19\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1000.html"
+}

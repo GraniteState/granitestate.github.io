@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/847.01",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/847",
+  "definition": "Notification",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 847.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 847.01 Notification",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 847.01 Notification.\n\n(a) Following approval of a GIA agreement, the bureau chief shall forward to the applicant, one completely executed copy of the GIA agreement.\n\n(b) In the event a GIA application is denied, the reason for such denial shall be made in writing to the applicant.\n\nSource. #14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

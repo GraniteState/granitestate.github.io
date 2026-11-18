@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rea/403.02",
+  "@type": "Concept",
+  "agencyCode": "Rea",
+  "authority": [
+    {
+      "citation": "331-A:25",
+      "paragraphs": [
+        "V",
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/rea/403",
+  "definition": "Continuing Education Documentation and Audits",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#12213, eff 6-18-17; ss by #12977-B, eff 1-23-20; ss by #13464, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rea 403.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rea100-700.html",
+  "prefLabel": "Rea 403.02 Continuing Education Documentation and Audits",
+  "recordType": "rule-section",
+  "ruleText": "Rea 403.02 Continuing Education Documentation and Audits.\n\n(a) All active and inactive renewal applicants shall retain verification records for a period of at least 4 years.\n\n(b) Continuing education documentation shall be made available to the commission for random audit and verification purposes.\n\n(c) Documentation shall support continuing education hours claimed.\n\n(d) Failure to provide documentation for audit verification shall result in disciplinary action pursuant to Rea 200.\n\n(e) Not less than 5% of the licensees shall be randomly selected each year by the commission for compliance with the continuing education requirements outlined in Rea 403.01 and (a) through (d) above.\n\nSource. #12213, eff 6-18-17; ss by #12977-B, eff 1-23-20; ss by #13464, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rea100-700.html"
+}

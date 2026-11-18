@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wet",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wet",
+  "definition": "Wetlands Council (See RSA 21-O:5-a pursuant to 1996, 296:35, effective 8-9-96.) (formerly Env-WtC).",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ec-wet/100",
+    "https://granitestate.github.io/rules/ec-wet/200"
+  ],
+  "notation": "Ec-Wet",
+  "prefLabel": "Ec-Wet Wetlands Council",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/601.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:69",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-69",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:70",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-70",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-69",
+    "https://granitestate.github.io/rsa/12-O/12-O-70"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/601",
+  "definition": "Purpose",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14044, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 601.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea600.html",
+  "prefLabel": "Bea 601.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Bea 601.01 Purpose. The purpose of this chapter is to implement the InvestNH program and fund established pursuant to RSA 12-O:69 -70.\n\nSource. #14044, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea600.html"
+}

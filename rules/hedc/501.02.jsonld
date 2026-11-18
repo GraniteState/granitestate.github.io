@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/501.02",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "170-B:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "193:19",
+      "source": "https://granitestate.github.io/rsa/193/193-19",
+      "via": "appendix"
+    },
+    {
+      "citation": "193:21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/193/193-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/501",
+  "definition": "Definitions",
+  "effectiveDate": "2025-03-12",
+  "historyNote": "#10633, eff 7-2-14 (See Revision Note at chapter heading for Hedc 500); ss by #14213, eff 3-12-25 (formerly Hedc 501.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 501.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc500.html",
+  "prefLabel": "Hedc 501.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 501.02 Definitions.\n\n(a) \"Eligible student\" means a student, between the ages of 16 and 25, who is a legal resident of New Hampshire and whose mother or father served on active duty in the United States armed services during a period as set forth in RSA 193:19, and either died while on active duty or was a resident of New Hampshire at the time of death and died of a service-connected disability as certified by the U.S. Veterans Administration.\n\n(b) “New Hampshire institution of higher education” means an institution, public or private, that provides education to students beyond high school.\n\n(c) \"New Hampshire resident\" means a resident or inhabitant of the state as defined in RSA 21:6-a..\n\n(d) \"Service-connected disability\" means a disability that has been rated by the federal government as having been caused by service in the U.S. armed services.\n\nSource. #10633, eff 7-2-14 (See Revision Note at chapter heading for Hedc 500); ss by #14213, eff 3-12-25 (formerly Hedc 501.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc500.html"
+}

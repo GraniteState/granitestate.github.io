@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/405.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/405",
+  "definition": "Calculation of the Design Flow",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "#14158, eff 12-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 405.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html",
+  "prefLabel": "Env-Dw 405.11 Calculation of the Design Flow",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 405.11 Calculation of the Design Flow.\n\n(a) Subject to (c), below, the design flows for a CWS shall be the maximum daily water use and shall be determined using one or more of the following methods:\n\n(1) Using the values in Table 1008-1 in Env-Wq 1008.03; or\n\n(2) Using historical water use in accordance with (b) below.\n\n(b) Historical water use shall be determined using one of the following methods:\n\n(1) If at least 12 months of consecutive daily water meter readings are available, the water system’s design flow shall be the maximum reported value;\n\n(2) If at least 12 months of consecutive weekly water meter readings are available, the water system’s design flow shall be the daily average value multiplied by 2; or\n\n(3) If at least 12 months of consecutive monthly water meter readings are available, the water system’s design flow shall be the daily average value multiplied by 3.\n\n(c) Since design flows contained in Env-Wq 1008 do not include exterior water use, for those CWSs where watering lawns and gardens, filling swimming pools, supplying fire protection systems such as sprinklers, and other unusually high water demand situations are expected, the design flow shall be increased accordingly, subject to (d) below.\n\n(d) The CWS shall be designed for all expected uses. Any uses not accounted for in the design shall be explicitly prohibited in a legally enforceable document such as condominium bylaws.\n\nSource. #14158, eff 12-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html"
+}

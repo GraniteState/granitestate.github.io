@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1106",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-H:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-H:15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1100",
+  "definition": "PROCEDURES; DISCIPLINARY PROCEEDINGS; ADMINISTRATIVE FINES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1106.01",
+    "https://granitestate.github.io/rules/plc/1106.02",
+    "https://granitestate.github.io/rules/plc/1106.03"
+  ],
+  "notation": "Plc 1106",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html",
+  "prefLabel": "Plc 1106 PROCEDURES; DISCIPLINARY PROCEEDINGS; ADMINISTRATIVE FINES",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1106 PROCEDURES; DISCIPLINARY PROCEEDINGS; ADMINISTRATIVE FINES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html"
+}

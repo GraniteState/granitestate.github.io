@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/1103",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "178:27",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/1100",
+  "definition": "SHIPMENT AND FEE REPORTING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/1103.01",
+    "https://granitestate.github.io/rules/liq/1103.02",
+    "https://granitestate.github.io/rules/liq/1103.03"
+  ],
+  "notation": "Liq 1103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 1103 SHIPMENT AND FEE REPORTING",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 1103 SHIPMENT AND FEE REPORTING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

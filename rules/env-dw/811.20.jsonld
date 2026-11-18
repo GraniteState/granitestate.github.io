@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.20",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Exemption",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15 (from Env-Dw 811.18); ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.20 Exemption",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.20 Exemption. If a CWS O/O is operating under the terms of an exemption issued pursuant to Env-Dw 721, the CCR shall contain the information specified in Env-Dw 802.06.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15 (from Env-Dw 811.18); ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

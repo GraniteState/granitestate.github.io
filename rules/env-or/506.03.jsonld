@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/506.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "Vapor Recovery Notification Form",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/506",
+  "definition": "Vapor Recovery Notification Required Information",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 506.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 506.03 Vapor Recovery Notification Required Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 506.03 Vapor Recovery Notification Required Information. The information required to be submitted by Env-Or 506.02 shall be as follows:\n\n(a) The name, physical address, mailing address, main telephone number including area code, main fax number including area code, and site number of the gasoline distribution facility;\n\n(b) The name, mailing address, daytime telephone number including area code, fax number including area code, and email address of each owner of the gasoline distribution facility;\n\n(c) The name, mailing address, daytime telephone number including area code, fax number including area code, and email address of the individual who is responsible for the stage I system at the gasoline distribution facility;\n\n(d) A description of all stage I equipment at the gasoline distribution facility, including but not limited to the 2-point or coaxial stage I system and, if there is a 2-point system, a statement as to whether the dry break adaptor is located on the manifold or on the tank;\n\n(e) The number of gasoline storage tanks at the gasoline distribution facility and for each tank, the size of the tank and the grade of gasoline contained in the tank;\n\n(f) The date when construction, installation, or substantial modification of any stage I equipment at the gasoline distribution facility occurred.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

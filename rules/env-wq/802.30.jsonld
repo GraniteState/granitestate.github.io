@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/802.30",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Locally-Accessible Place",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/802",
+  "definition": "Locally-accessible place",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 802.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html",
+  "prefLabel": "Env-Wq 802.30 Locally-accessible place",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 802.30 “Locally-accessible place” means a location to which the public has access in the town or city where the sludge management activity is proposed, such as a town or city hall, public school building, selectman’s office, or public library that is open at least 4 hours a day at least 3 days each week, including either one weekend day or one day when the hours extend to 6 p.m. or later in the evening.\n\nSource. #10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html"
+}

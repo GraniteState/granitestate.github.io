@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4003.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4003",
+  "definition": "Annual Registration Requirement",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4003.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4003.01 Annual Registration Requirement",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4003.01 Annual Registration Requirement.\n\n(a) Each carrier, third party administrator and pharmacy benefit manager shall submit a completed NHCHIS registration form, available at https://nhchis.com/, to the department or its designee by March 15 of every calendar year.\n\n(b) Carriers, third party administrators, and pharmacy benefit managers shall notify the department or its designee within 30 days of changes to any of the annual NHCHIS registration information.\n\n(c) Carriers, third party administrators, and pharmacy benefit managers shall notify the department or its designee of any changes to the individual contact information submitted on the NHCHIS registration form as soon as possible, but no later than 30 days after a reassignment occurs.\n\nSource. #8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

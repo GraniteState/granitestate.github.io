@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2003.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2003",
+  "definition": "Particulate Emission Standards for Fuel Burning Devices Installed after May 13, 1970 but before January 1, 1985",
+  "effectiveDate": "2023-11-18",
+  "historyNote": "#10416, eff 9-24-13 (formerly Env-A 2002.07); ss by #13809, eff 11-18-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2003.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html",
+  "prefLabel": "Env-A 2003.02 Particulate Emission Standards for Fuel Burning Devices Installed after May 13, 1970 but before January 1, 1985",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2003.02 Particulate Emission Standards for Fuel Burning Devices Installed after May 13, 1970 but before January 1, 1985.\n\n(a) The maximum allowable particulate matter emission rate for fuel burning devices installed after May 13, 1970 but before January 1, 1985 shall be as specified in accordance with (b), below, where:\n\n(1) “E” means the maximum allowable particulate matter emission rate, measured as TSP in lb/million BTU; and\n\n(2) “I” means the maximum gross heat input rate in million BTU/hr.\n\n(b) No owner or operator shall cause or allow emissions of particulate matter from fuel burning devices installed after May 13, 1970, but before January 1, 1985, to exceed the specified value of E, where:\n\n(1) For devices for which I is less than 10, E shall be 0.60;\n\n(2) For devices for which I is equal to or greater than 250, E shall be 0.10; and\n\n(3) For devices for which I is equal to or greater than 10 but less than 250, E shall be calculated by raising I to the -0.234 power and multiplying the result by 1.028, as expressed mathematically in the formula below and illustrated in Figure 2003-2 below:\n\nE = 1.028 I -0.234\n\nFigure 2003-2 Maximum Allowable Particulate Matter Emission Rate for Fuel\n\nBurning Devices Installed after May 13, 1970, but before January 1, 1985.\n\nSource. #10416, eff 9-24-13 (formerly Env-A 2002.07); ss by #13809, eff 11-18-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html"
+}

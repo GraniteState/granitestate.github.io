@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/702.02",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "authority": [
+    {
+      "citation": "21-P:25",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-P:28",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-P:29",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/702",
+  "definition": "Acrophobia Test",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fire 702.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire.html",
+  "prefLabel": "Fire 702.02 Acrophobia Test",
+  "recordType": "rule-section",
+  "ruleText": "Section Fire 702.02 Acrophobia Test",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire.html"
+}

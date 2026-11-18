@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.09",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Alternative Testing Methods During a Test",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.09 Alternative Testing Methods During a Test",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.09 Alternative Testing Methods During a Test. The department shall approve deviations from the agreed-upon test method or pre-test protocol only if the following criteria are met:\n\n(a) The owner or operator informs department personnel assigned to the compliance stack test or RATA of the following:\n\n(1) The deviation from the testing method or planned operational mode of the source;\n\n(2) The reason(s) for the deviation; and\n\n(3) The implications of such a deviation; and\n\n(b) The owner or operator provides technical justification showing that allowance of such deviation will not affect the accuracy of the compliance stack test or RATA.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

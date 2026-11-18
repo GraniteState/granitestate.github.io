@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1511.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1511",
+  "definition": "Slope Plan",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1511.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1511.03 Slope Plan",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1511.03 Slope Plan. In addition to the requirements of Env-Wq 1504.09, applicants shall submit a slope plan, drawn at a scale of one inch equals 50 feet, or at a scale that provides greater detail, that depicts land slopes with the following color-coding:\n\n(a) Slopes less than or equal to 5% shall be shaded green;\n\n(b) Slopes greater than 5% and less than or equal to 8% shall be shaded yellow;\n\n(c) Slopes greater than 8% and less than 15% shall be shaded orange; and\n\n(d) Slopes greater than 15% shall be shaded red.\n\nSource. #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

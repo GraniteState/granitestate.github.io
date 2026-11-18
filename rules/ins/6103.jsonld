@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6103",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6100",
+  "definition": "DISCONTINUANCE OF INDIVIDUAL ANCILLARY HEALTH COVERAGE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/6103.01",
+    "https://granitestate.github.io/rules/ins/6103.02",
+    "https://granitestate.github.io/rules/ins/6103.03",
+    "https://granitestate.github.io/rules/ins/6103.04",
+    "https://granitestate.github.io/rules/ins/6103.05"
+  ],
+  "notation": "Ins 6103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6103 DISCONTINUANCE OF INDIVIDUAL ANCILLARY HEALTH COVERAGE",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 6103 DISCONTINUANCE OF INDIVIDUAL ANCILLARY HEALTH COVERAGE\n\nStatutory Authority: RSA 400-A:15, I; RSA 415:6, VII; RSA 415-A:2, I",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

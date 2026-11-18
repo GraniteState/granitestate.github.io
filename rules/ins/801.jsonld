@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/801",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "412:43",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/800",
+  "definition": "REPORTING REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/801.01",
+    "https://granitestate.github.io/rules/ins/801.02",
+    "https://granitestate.github.io/rules/ins/801.03",
+    "https://granitestate.github.io/rules/ins/801.04",
+    "https://granitestate.github.io/rules/ins/801.05",
+    "https://granitestate.github.io/rules/ins/801.06",
+    "https://granitestate.github.io/rules/ins/801.07",
+    "https://granitestate.github.io/rules/ins/801.08",
+    "https://granitestate.github.io/rules/ins/801.09",
+    "https://granitestate.github.io/rules/ins/801.10",
+    "https://granitestate.github.io/rules/ins/801.11",
+    "https://granitestate.github.io/rules/ins/801.12",
+    "https://granitestate.github.io/rules/ins/801.13",
+    "https://granitestate.github.io/rules/ins/801.14",
+    "https://granitestate.github.io/rules/ins/801.15",
+    "https://granitestate.github.io/rules/ins/801.16",
+    "https://granitestate.github.io/rules/ins/801.17"
+  ],
+  "notation": "Ins 801",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins800.html",
+  "prefLabel": "Ins 801 REPORTING REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 801 REPORTING REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins800.html"
+}

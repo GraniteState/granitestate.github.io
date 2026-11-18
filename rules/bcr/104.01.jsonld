@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bcr/104.01",
+  "@type": "Concept",
+  "agencyCode": "Bcr",
+  "authority": [
+    {
+      "citation": "155-A:10",
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bcr/104",
+  "definition": "Requests for Information",
+  "effectiveDate": "2003-12-12",
+  "historyNote": "#7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03 New. #8003, eff 12-12-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bcr 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html",
+  "prefLabel": "Bcr 104.01 Requests for Information",
+  "priorExpiration": "2003-03-13",
+  "recordType": "rule-section",
+  "ruleText": "Bcr 104.01 Requests for Information.\n\n(a) All requests for information shall be directed in writing to the board at:\n\nDepartment of Safety\n\n33 Hazen Drive\n\nConcord, NH 03305\n\n(b) Public records, not otherwise declared confidential by law, may be inspected and copied at the location stated in (a) above during regular business hours.\n\n(c) Persons desiring copies of public records shall pay the actual cost of the copies, as provided in RSA 91-A:4, IV.\n\nSource. #7760, INTERIM, eff 9-14-02, EXPIRED: 3-13-03\n\nNew. #8003, eff 12-12-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html"
+}

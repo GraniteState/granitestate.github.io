@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/302.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "AST Operator",
+  "authority": [
+    {
+      "citation": "146-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/302",
+  "definition": "AST operator",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "#14094, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 302.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html",
+  "prefLabel": "Env-Or 302.03 AST operator",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 302.03 “AST operator” means a person who has responsibility for the care, custody, and control of the daily operation of an AST facility. The term includes any entity that is under agreement with the owner to operate the facility and, where the context so requires, the individual who is on-site and immediately responsible for managing facility operations, including responding to alarms or other unusual operating conditions.\n\nSource. #14094, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html"
+}

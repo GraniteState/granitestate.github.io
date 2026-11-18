@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1505",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1500",
+  "definition": "REQUIREMENTS TO PROTECT WATER QUALITY DURING TERRAIN ALTERATION ACTIVITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1505.01",
+    "https://granitestate.github.io/rules/env-wq/1505.02",
+    "https://granitestate.github.io/rules/env-wq/1505.03",
+    "https://granitestate.github.io/rules/env-wq/1505.04",
+    "https://granitestate.github.io/rules/env-wq/1505.05",
+    "https://granitestate.github.io/rules/env-wq/1505.06"
+  ],
+  "notation": "Env-Wq 1505",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1505 REQUIREMENTS TO PROTECT WATER QUALITY DURING TERRAIN ALTERATION ACTIVITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1505 REQUIREMENTS TO PROTECT WATER QUALITY DURING TERRAIN ALTERATION ACTIVITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

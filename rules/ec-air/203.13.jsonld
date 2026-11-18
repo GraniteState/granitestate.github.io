@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-air/203.13",
+  "@type": "Concept",
+  "agencyCode": "Ec-Air",
+  "authority": [
+    {
+      "citation": "21-O:11",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-11",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-air/203",
+  "definition": "Exchange of Information",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Air 203.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html",
+  "prefLabel": "Ec-Air 203.13 Exchange of Information",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Air 203.13 Exchange of Information.\n\n(a) Unless otherwise agreed to at a prehearing conference, the parties shall exchange the following information not less than one week prior to the hearing in the appeal:\n\n(1) A list of witnesses expected to testify, including a brief description of each witness’s testimony; and\n\n(2) A list of all exhibits to be presented at the hearing.\n\n(b) Parties shall attempt in good faith to respond in a complete and timely manner to requests for relevant, nonprivileged information and documents in addition to the disclosures required under paragraph (a) above.\n\n(c) If good faith efforts to exchange information pursuant to paragraph (b) above fail, any party may request that the presiding officer issue a subpoena pursuant to RSA 21-M:3, X. A request for a subpoena shall comply with Ec-Air 203.04.\n\n(d) Within 7 days of receiving a request for a subpoena, the presiding officer shall:\n\n(1) Grant the request and issue a subpoena, if he or she determines that the information or document is relevant to the appeal and is not confidential, privileged, or excessively burdensome; or\n\n(2) Deny the request.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html"
+}

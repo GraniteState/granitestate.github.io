@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.16",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Rotogravure and Flexographic Printing and Graphics",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 804.14); ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.16 Rotogravure and Flexographic Printing and Graphics",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.16 Rotogravure and Flexographic Printing and Graphics.\n\n(a) For rotogravure and flexographic printing and graphics operations compliance shall be determined using the test methods specified in either (b) or (c), below.\n\n(b) For an operation using low solvent inks to achieve compliance with Env-A 1200, the applicable test method in Env-A 804.04 shall apply as follows:\n\n(1) Compliance shall be determined for each ink or each ink blend on an instantaneous basis; and\n\n(2) For ink blends containing multiple constituents, the average percentage VOC shall be determined as follows:\n\na. “VA” means the average volume percentage VOC content in the ink formulation used minus water and exempt VOC compounds;\n\nb. “n” means the number of different constituents, used in the ink formulation;\n\nc. “Vi” means the volume percentage VOC content in the ink constituent “i” minus water and exempt VOC compounds;\n\nd. “Fi” means the volume fraction of constituent “i” used in the ink formulation; and\n\ne. The VA shall be equal to the sum of the products of Fi and Vi for ink constituents one through n, as in the following equation:\n\n(c) For an operation using a control system to achieve compliance with Env-A 1200, the following test methods and procedures, as applicable, shall apply:\n\n(1) Env-A 802, Compliance Stack Testing for Stationary Sources;\n\n(2) Env-A 804.12 through Env-A 804.14, Compliance Stack Testing for VOCs;\n\n(3) Env-A 804.15, Mass Balance Alternative to Compliance Stack Testing for VOC; and\n\n(4) Env-A 805, Capture Efficiency.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 804.14); ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/103.03",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "309-B",
+      "source": "https://granitestate.github.io/rsa/309-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "309-B:4",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/309-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/103",
+  "definition": "Meeting Location",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "#6901, eff 12-4-98; ss by #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07 New. #9032, eff 11-21-07; ss by #10053, eff 1-1-12 (from Ac 102.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 103.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 103.03 Meeting Location",
+  "priorExpiration": "2007-07-25",
+  "recordType": "rule-section",
+  "ruleText": "Ac 103.03 Meeting Location. Board meetings are held at the place specified in the notice for the particular meeting.\n\nSource. #6901, eff 12-4-98; ss by #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07\n\nNew. #9032, eff 11-21-07; ss by #10053, eff 1-1-12 (from Ac 102.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

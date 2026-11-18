@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/509.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "XIII",
+        "XXVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/509",
+  "definition": "Certified Hazardous Waste Coordinator Requirements",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#10494, eff 1-1-14; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 509.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 509.04 Certified Hazardous Waste Coordinator Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 509.04 Certified Hazardous Waste Coordinator Requirements.\n\n(a) Unless exempt pursuant to Env-Hw 504.04(f), a small or large quantity generator shall, subject to (b), below, have at least one hazardous waste coordinator certified by the department pursuant to Env-Hw 515 on staff and physically at the facility where the hazardous waste is generated for an average, calculated on an annual basis, of no less than 30 hours per week or 75% of the generator’s standard work week if the generator’s standard work week is less than 40 hours.\n\n(b) A small or large quantity generator shall not be without a hazardous waste coordinator physically at the facility where the hazardous waste is generated, due to illness, vacation, or any other reason, for more than 30 consecutive working days or more than 45 total working days during any calendar year, exclusive of Saturdays, Sundays, or state and federal holidays.\n\n(c) A small or large quantity generator shall make available to the department upon request documentation to demonstrate that it is in compliance with (a) and (b), above.\n\n(d) For the purposes of (a) and (b), above, the certified hazardous waste coordinator may be an employee of the generator or a third-party contractor hired by the generator.\n\nSource. #10494, eff 1-1-14; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

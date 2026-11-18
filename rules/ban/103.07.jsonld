@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/103.07",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "383:7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "383:9",
+      "source": "https://granitestate.github.io/rsa/383/383-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383/383-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/103",
+  "definition": "Department Information",
+  "effectiveDate": "2024-10-03",
+  "historyNote": "#14096, eff 10-3-24 (formerly Ban 103.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ban 103.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html",
+  "prefLabel": "Ban 103.07 Department Information",
+  "recordType": "rule-section",
+  "ruleText": "Ban 103.07 Department Information.\n\n(a) The department’s office is:\n\n(1) Located at:\n\n53 Regional Drive, Suite 200\n\nConcord, New Hampshire; and\n\n(2) Open to the public between the hours of 8:00 A.M. and 4:30 P.M., Monday through Friday, except state of New Hampshire holidays.\n\n(b) The department’s mailing address is:\n\nNew Hampshire Banking Department\n\n53 Regional Drive Suite 200\n\nConcord, New Hampshire 03301.\n\n(c) The department may also be contacted by:\n\n(1) Telephone at (603) 271-3561;\n\n(2) TDD Access Relay at 1-800-735-2964; or\n\n(3) Electronic mail at nhbd@banking.nh.gov.\n\n(d) Other helpful information may be found on the department’s website at www.banking.nh.gov.\n\nSource. #14096, eff 10-3-24 (formerly Ban 103.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eth/211.02",
+  "@type": "Concept",
+  "agencyCode": "Eth",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(h)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/eth/211",
+  "definition": "Failure to Attend Hearing",
+  "effectiveDate": "2018-09-06",
+  "historyNote": "#12617-A, eff 9-6-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eth 211.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html",
+  "prefLabel": "Eth 211.02 Failure to Attend Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Eth 211.02 Failure to Attend Hearing.\n\n(a) If any party to whom notice has been given in accordance with Eth 208.03 fails to attend a hearing, the presiding officer shall, unless good cause is shown, declare that party to be in default, and hear the testimony and receive other evidence.\n\n(b) The defaulted party may file a motion to strike the default within 10 days.\n\n(c) The committee shall grant the motion if the committee finds that the non-appearing party has demonstrated in the motion that he or she failed to attend because of circumstances outside his or her control and had no ability to notify the committee, or have a third party notify the committee, prior to the hearing.\n\nSource. #12617-A, eff 9-6-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html"
+}

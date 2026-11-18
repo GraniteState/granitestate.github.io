@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.39",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Administration of Medication",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Required Health Information",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.38)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.39",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.39 Required Health Information",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.39 Required Health Information.\n\n(a) Each camper shall provide a health history and statement of health status to the camp director prior to entering the YRC. As specified in RSA 170-E:58, the examination on which the statement of health status is based may be conducted by a licensed practitioner.\n\n(b) The health history and statement of health status required by (a), above, shall include the following:\n\n(1) A certification that the physical examination was completed within 2 years prior to YRC entrance;\n\n(2) A description of any camp activities from which the camper is exempt from for health reasons;\n\n(3) Unless exempted in accordance with RSA 141-C:20-c, documentation of immunization as specified in He-P 301.14.\n\n(4) A list of all known or suspected allergies;\n\n(5) If the YRC will provide food, identification of all dietary restrictions and any food allergies not listed under (4), above;\n\n(6) A list of all prescribed or over-the-counter medications being taken by the camper; and\n\n(7) To the extent not covered by (2) - (6) above, a description of any current physical, mental, or psychological conditions that require medication, treatment, or special restrictions or considerations while at the YRC, including the need for specially trained personnel and proper equipment to meet camper’s needs.\n\n(c) The camp administrator or camp director shall retain all documentation required by (b) above for 2 years, which shall be made available to the department upon request.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.38)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

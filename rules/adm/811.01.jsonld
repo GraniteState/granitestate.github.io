@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/811.01",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/811",
+  "definition": "Debarment",
+  "effectiveDate": "2023-07-29",
+  "historyNote": "#13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 811.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm800.html",
+  "prefLabel": "Adm 811.01 Debarment",
+  "recordType": "rule-section",
+  "ruleText": "Adm 811.01 Debarment.\n\n(a) No individual or business entity shall submit a response to a solicitation issued by the division if that individual or entity, or any of its subsidiaries, affiliates or principal officers are subject to the prohibitions, limitations, or conditions listed in RSA 21-I:11-c, I(a).\n\n(b) All prospective lessors and licensors shall, as part of their proposal under Adm 807.01 provide a statement signed under penalty of unsworn falsification as described in RSA 21-I:11-c and further defined in Adm 604.08(d).\n\n(c) Failure to submit the signed statement noted in (b) above, the filing of a false statement, or the signing of a statement by an unauthorized person shall result in the automatic rejection of the proposal.\n\n(d) Individuals or entities which are identified on the list described in RSA 21-I:11-c, II shall be debarred from submitting proposals.\n\nSource. #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm800.html"
+}

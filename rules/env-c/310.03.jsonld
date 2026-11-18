@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/310.03",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "Payment for TPAO Assessments",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/310",
+  "definition": "Payment For TPAO Assessments",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 310.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 310.03 Payment For TPAO Assessments",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 310.03 Payment For TPAO Assessments.\n\n(a) The laboratory shall pay all costs associated with a third party assessment directly to the TPAO.\n\n(b) The laboratory shall pay all department expenses related to the review and processing of TPAO assessment support documentation, quality control observations, report(s), and laboratory corrective actions to the department per the fee schedule specified in Env-C 303.10.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

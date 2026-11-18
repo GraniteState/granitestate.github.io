@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/307.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/307",
+  "definition": "Reporting of Reliability Measures",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 307.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 307.06 Reporting of Reliability Measures",
+  "recordType": "rule-section",
+  "ruleText": "En 307.06 Reporting of Reliability Measures.\n\n(a) For purposes of this section, the following definitions shall apply:\n\n(1) “Customer average interruption duration index (CAIDI)” means the average interruption duration or average time to restore service per interrupted customer and shall be presented as the following ratio: Total sum of customer interruption durations/total number of customer interruptions;\n\n(2) “System average interruption frequency index (SAIFI)” means the average number of interruptions per customer and shall be presented in the following ratio: Total number of customer interruptions/average number of customers served;\n\n(3) “System average interruption duration index (SAIDI)” means the average duration of customer interruptions and shall be presented as the following calculation: SAIDI = CAIDI x SAIFI;\n\n(4) “CIII” means the average number of customers without power per interruption index as determined by dividing the number of customers interrupted by the number of interruptions;\n\n(5) “TMED” means the threshold value used to determine a major event day as defined in IEEE 1366-2022, Section 1.5 “Guide for Electric Power Distribution Reliability Indices,” dated 11/22/2022, available as noted in Appendix B; and\n\n(6) “Major event day” means a day during which a utility’s daily system SAIDI exceeds the TMED.\n\n(b) Within 45 days of the end of each calendar quarter, each utility shall file quarterly reports of reliability measures defined in (a)(1) - (4) above, and shall separately report the reliability measures by area work center and as aggregated for the whole company.\n\n(c) Each utility shall report the indices separately:\n\n(1) With all interruptions included in the data; and\n\n(2) With major event days excluded from the data.\n\n(d) The report shall depict the reliability measure information by distribution and transmission systems as applicable.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/802.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "374:48",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-48",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/802",
+  "definition": "Blasting",
+  "effectiveDate": "2017-02-08",
+  "historyNote": "#2050, eff 6-13-82; ss by #2912, eff 11-26-84, EXPIRED: 11-26-90 New. #5616, eff 4-20-93, EXPIRED: 4-20-99 New. #7259, INTERIM, eff 5-2-00, EXPIRES: 8-30-00; ss by #7350, eff 8-23-00; ss by #9226, INTERIM, eff 8-16-08; ss by #9318, eff 11-8-08; ss by #12102, eff 2-8-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 802.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc800.html",
+  "prefLabel": "Puc 802.01 Blasting",
+  "priorExpiration": "2000-08-30",
+  "recordType": "rule-section",
+  "ruleText": "Puc 802.01 “Blasting” means “blasting” as defined in RSA 374:48, VIII, namely, “excavation by means of explosives.”\n\nSource. #2050, eff 6-13-82; ss by #2912, eff 11-26-84, EXPIRED: 11-26-90\n\nNew. #5616, eff 4-20-93, EXPIRED: 4-20-99\n\nNew. #7259, INTERIM, eff 5-2-00, EXPIRES: 8-30-00; ss by #7350, eff 8-23-00; ss by #9226, INTERIM, eff 8-16-08; ss by #9318, eff 11-8-08; ss by #12102, eff 2-8-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc800.html"
+}

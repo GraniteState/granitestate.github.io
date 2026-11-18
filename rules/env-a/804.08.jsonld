@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.08",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Calculation of Daily-Weighted Average for Coating Lines with Bubble or Control Device",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Calculation of Daily-Weighted Average for Coating Lines With Bubble or Control Device",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.08 Calculation of Daily-Weighted Average for Coating Lines With Bubble or Control Device",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.08 Calculation of Daily-Weighted Average for Coating Lines With Bubble or Control Device. The owner or operator of a coating source that complies with Env-A 1200, by using add-on control equipment or a bubble and which is subject to a pounds VOC/gallon of coating solids standard shall demonstrate compliance with such standard by calculating a daily-weighted average in pounds VOC/gallon solids as follows:\n\n(a) “Pounds VOC per gallon of solids, daily-weighted (SW)” means the daily weighted average VOC content, as applied, of the coatings used on multiple coating lines or operation in units of lb VOC/gal of coating solids or kg/l of coating solids;\n\n(b) “n” means the number of different coatings and dilution solvents, as applied, used in a day on a coating line or operation;\n\n(c) “i” means the subscript denoting an individual coating or dilution solvent;\n\n(d) “Vi” means the volume of the coating or dilution solvent i as applied, used in a day on a coating line or operation in units of gal or l;\n\n(e) “Wi” means the weight fraction of VOC of the coating or dilution solvent i as applied, minus water and exempt VOC compounds, used in a day on a coating line or operation in units of lb VOC/lb coating, or kg VOC/kg coating as determined from Method 24 or 24A analysis;\n\n(f) “Di” means the density of the coating or dilution solvent i in units of lbs/gal coating or kg/l coating as determined from Method 24 or 24A analysis;\n\n(g) “Fi” means the volume fraction solids content of each coating i, as applied, used in a day on a coating line, in units of gal solids/gal coating or liter (l) solids/l coating as determined by calculation using the formulation; and\n\n(h) SW shall be equal to the sum of the products of Vi, Wi, and Di for coatings or dilution solvents one through n, divided by the sum of the products of Vi and Fi for coatings or dilution solvents one through n, as in the following equation:\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/703",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "VI",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/700",
+  "definition": "ENGINEERING DESIGN DOCUMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/703.01",
+    "https://granitestate.github.io/rules/env-wq/703.02",
+    "https://granitestate.github.io/rules/env-wq/703.03",
+    "https://granitestate.github.io/rules/env-wq/703.04",
+    "https://granitestate.github.io/rules/env-wq/703.05",
+    "https://granitestate.github.io/rules/env-wq/703.06",
+    "https://granitestate.github.io/rules/env-wq/703.07",
+    "https://granitestate.github.io/rules/env-wq/703.08",
+    "https://granitestate.github.io/rules/env-wq/703.09"
+  ],
+  "notation": "Env-Wq 703",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 703 ENGINEERING DESIGN DOCUMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 703 ENGINEERING DESIGN DOCUMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1001",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "426:1",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "426:2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "426:8",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "426:14",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "426:15",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1000",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1001.01",
+    "https://granitestate.github.io/rules/agr/1001.02"
+  ],
+  "notation": "Agr 1001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1000.html",
+  "prefLabel": "Agr 1001 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1001 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1000.html"
+}

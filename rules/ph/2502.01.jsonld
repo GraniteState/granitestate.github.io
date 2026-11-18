@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2502.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2502",
+  "definition": "Definitions",
+  "effectiveDate": "2022-12-19",
+  "historyNote": "#13465, eff 12-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2502.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2502.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2502.01 Definitions. Except where the context makes another meaning manifest, the following definitions shall apply:\n\n(a) “Automated dispensing system” means an automated pharmacy system that is a mechanical system that performs operations or activities, other than compounding or administration, relative to the storage, packaging, counting, labeling, and dispensing of medications, and which collects, controls, and maintains all transaction information. These do not include prepackaging or repacking devices;\n\n(b) “Provider pharmacy” means a pharmacy, licensed by the NH board of pharmacy, that provides pharmacy services by using an automated pharmacy system at a remote site or at the pharmacy site for use outside of pharmacy hours of operation in licensed pharmacy space;\n\n(c) “Remote site” means a NH licensed long-term care facility, hospice facility, hospital, or state or county correctional facility, or other health care facilities that is not located at the same location as the provider pharmacy, at which pharmacy services are provided using an automated pharmacy system.\n\nSource. #13465, eff 12-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

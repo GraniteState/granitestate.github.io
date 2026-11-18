@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/802.03",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:10",
+      "source": "https://granitestate.github.io/rsa/482-B/482-B-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B/482-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/802",
+  "definition": "Location Accuracy, Method of Reference, Street Address and Attachments",
+  "effectiveDate": "2017-03-01",
+  "historyNote": "#6449, eff 1-29-97; ss by #7307, eff 6-13-00; ss by #9179, eff 6-13-08; ss by #12083, eff 3-1-17 (See Revision Notes at Chapter headings for We 300 and We 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 802.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 802.03 Location Accuracy, Method of Reference, Street Address and Attachments",
+  "recordType": "rule-section",
+  "ruleText": "We 802.03 Location Accuracy, Method of Reference, Street Address and Attachments.\n\n(a) Well locations shall be geographically referenced using the World Geodetic System 1984 (WGS 84) datum or its successor, as required by RSA 482-B:10(c), in degrees, decimal minutes (hddd°mm.mmm) of latitude and longitude with at least three decimal places of precision, and recorded on the “Well Completion Report”.\n\n(b) Location coordinates shall be obtained from a United States global positioning systems receiver.\n\n(c) Location accuracy shall be equal to or greater than that obtained from a single global positioning systems receiver in autonomous mode.\n\n(d) Street address of the property shall be provided as listed on the enhanced 911 street address guide to the extent it is publicly available on the date of submission of the report.\n\n(e) When a technical driller files only one “Well Completion Report” for the deepest well in a well network, a hand drawing or site map shall be attached to the well completion report indicating the location of each monitoring well installed by the technical driller relative to significant permanent man-made or natural features at the site and relative to wells located with GPS coordinates.\n\n(f) If a technical driller submits “Well Completion Reports” to the water well board for all monitoring wells constructed at each property or place of business, the technical driller shall not be subject to the site map submission requirements set forth in subsection (e) of this section.\n\nSource. #6449, eff 1-29-97; ss by #7307, eff 6-13-00; ss by #9179, eff 6-13-08; ss by #12083, eff 3-1-17 (See Revision Notes at Chapter headings for We 300 and We 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

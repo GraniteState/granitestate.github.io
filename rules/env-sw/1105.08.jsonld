@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1105.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1105",
+  "definition": "Hours of Operation",
+  "effectiveDate": "2024-11-13",
+  "expirationDate": "2034-11-13",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1100); ss by #8459, eff 10-28-05 (formerly Env-Wm 2805.08); ss by #10598, eff 7-1-14; ss by #14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1105.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html",
+  "prefLabel": "Env-Sw 1105.08 Hours of Operation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1105.08 Hours of Operation.\n\n(a) Except as provided by (b) below, all active and routine facility operations, including waste disposal, facility inspections, maintenance, repairs, and monitoring, shall occur between 6:00 a.m. and 6:00 p.m. under normal non-emergency circumstances.\n\n(b) Regular operating hours outside of the normal 6:00 a.m. to 6:00 p.m. window specified by (a) above shall be allowed only if:\n\n(1) Approved by the department in the terms and conditions of the permit based on information provided in an application which demonstrates:\n\na. The facility will not successfully operate within the normal window; and\n\nb. The alternative hours will not result in problems relating to safety, access control, or nuisances; or\n\n(2) The facility is a limited private facility and receives no waste from off-site locations.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1100); ss by #8459, eff 10-28-05 (formerly Env-Wm 2805.08); ss by #10598, eff 7-1-14; ss by #14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html"
+}

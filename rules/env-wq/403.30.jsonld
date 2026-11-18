@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/403.30",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:21",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/403",
+  "definition": "Water Level Monitoring",
+  "effectiveDate": "2018-03-21",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Wq 403) #9569, eff 10-17-09; ss by #12493, eff 3-21-18 (formerly Env-Wq 403.28) (See Revision Note #2 at part heading for Env-Wq 403)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 403.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq400.html",
+  "prefLabel": "Env-Wq 403.30 Water Level Monitoring",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 403.30 Water Level Monitoring.\n\n(a) Any water level monitoring required pursuant to Env-Wq 403.26(c) shall be completed in accordance with (b) through (i), below.\n\n(b) For monitoring wells or test wells installed as part of the well site or permit monitoring program, the location and reference elevation for each well shall be established as follows:\n\n(1) The coordinate system for the horizontal location shall be referenced to the North American Datum of 1983 (NAD83) with an accuracy of no less than 0.1 foot;\n\n(2) The vertical reference point elevation shall be referenced to the North American Vertical Datum of 1988 (NAVD88) with an accuracy of no less than 0.1 foot; and\n\n(3) The location and elevation assigned pursuant to (1) and (2), above, shall be established by land survey conducted by a land surveyor licensed in accordance with RSA 310-A:51-74.\n\n(c) For groundwater withdrawals at private or other water supply wells, the location and reference elevation for each well shall be established as follows:\n\n(1) The horizontal location shall be established using global positioning system (GPS) technology referenced to NAD83 and reported in units of degrees and decimal minutes of latitude and longitude with at least 3 decimal places of precision, or an alternative map or method that provides a higher degree of accuracy; and\n\n(2) The vertical reference point elevation shall be established by estimation from a 1:24,000-scale USGS topographic map or an alternative map or method that provides a higher degree of accuracy.\n\n(d) For piezometers or staff gages installed as part of the well site or permit monitoring program, the location and reference elevation shall be established as follows:\n\n(1) The horizontal location shall be established using global positioning system (GPS) technology referenced to NAD83 and reported in units of degrees and decimal minutes of latitude and longitude with at least 3 decimal places of precision, or an alternative map or method that provides a higher degree of accuracy; and\n\n(2) The vertical reference point elevation shall be established by:\n\na. Reference to a surveyed vertical reference point when one is available at the well site or monitoring well network;\n\nb. Estimation from a 1:24,000-scale USGS topographic map, if no surveyed elevation is available; or\n\nc. An alternative map or method that provides a higher degree of accuracy.\n\n(e) The horizontal coordinates and reference point elevations established in accordance with (b) through (d), above, shall be provided in a table that specifies the coordinate system used and the associated units of measure.\n\n(f) The table created pursuant to (e), above, shall be provided to the department:\n\n(1) In the final report required by Env-Wq 403.20; or\n\n(2) Prior to initiation of the withdrawal when installation of an observation point is a condition of the permit issued in accordance with Env-Wq 403.22.\n\n(g) The vertical reference point for piezometers and staff gages established in accordance with (d), above, shall be checked annually against a surveyed reference point or other permanent reference mark, when available, and corrected to ensure that the reference point elevation has not changed over time.\n\n(h) Water level measurements collected from all monitoring points shall be recorded in feet or meters relative to the reference point elevation established in (b) through (d), above.\n\n(i) Recording of water levels in water supply wells that are included in the monitoring program shall be conducted in accordance with Env-Wq 403.16(d).\n\nSource. (See Revision Note #1 at part heading for Env-Wq 403) #9569, eff 10-17-09; ss by #12493, eff 3-21-18 (formerly Env-Wq 403.28) (See Revision Note #2 at part heading for Env-Wq 403)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq400.html"
+}

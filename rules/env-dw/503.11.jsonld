@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/503.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/503",
+  "definition": "PWS Operational and Maintenance Inspection Frequency",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 503.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 503.11 PWS Operational and Maintenance Inspection Frequency",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 503.11 PWS Operational and Maintenance Inspection Frequency.\n\n(a) The owner of a PWS shall inspect the PWS in accordance with the following:\n\n(1) Treatment processes with mechanical chemical addition or processes treating bacteria, nitrate, or nitrite shall be inspected at least once every 7 days;\n\n(2) Treatment processes without mechanical chemical addition shall be inspected at least once every 30 days;\n\n(3) Source pumping stations and booster stations with no treatment shall be inspected at least once every 30 days;\n\n(4) Water storage facilities with no treatment shall be inspected at least once every 30 days;\n\n(5) Facilities such as pressure reducing vaults and air release valves shall be inspected at least once every 6 months; and\n\n(6) Surface water filtration facilities shall be inspected each day.\n\n(b) The owner of a PWS who wishes to reduce the inspection frequencies specified in (a) above shall request a reduction of the inspection frequencies by filing by email a written request to the department that includes:\n\n(1) The name, PWS identifier, and location of the PWS;\n\n(2) The type of contaminant being treated;\n\n(3) The level of equipment duplication and backup;\n\n(4) The level of remote surveillance or monitoring;\n\n(5) The proposed inspection frequency;\n\n(6) Whether the reduction is requested for a fixed or indefinite period of time; and\n\n(7) Alternative methods of ensuring the continued integrity of the PWS and water quality, such as staffing levels or capabilities that provide increased routine scrutiny of the equipment or processes for which the reduction is sought.\n\n(c) If email is not feasible, the owner may submit the request specified in (b) above by postal mail, messenger, hand, or other means of delivery.\n\n(d) The department shall approve a reduced inspection frequency if the request demonstrates that the reduced frequency will not jeopardize the continued integrity of the PWS or the quality of water delivered to consumers.\n\n(e) If the department approves a reduced inspection frequency, the approval shall include such conditions as the department determines are reasonably necessary to ensure that the criteria specified in (d) above, are met.\n\n(f) If the department determines that a previously-approved reduced inspection frequency is jeopardizing the continued integrity of the PWS or the quality of water delivered to consumers, the department shall initiate an action to suspend or revoke the approval in accordance with RSA 541-A and the provisions of Env-C 200 applicable to adjudicative proceedings.\n\nSource. (See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/1607",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "318-E:1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/1600",
+  "definition": "WAIVERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/1607.01",
+    "https://granitestate.github.io/rules/jus/1607.02",
+    "https://granitestate.github.io/rules/jus/1607.03"
+  ],
+  "notation": "Jus 1607",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1600.html",
+  "prefLabel": "Jus 1607 WAIVERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 1607 WAIVERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1600.html"
+}

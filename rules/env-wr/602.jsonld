@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/602",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:87",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/600",
+  "definition": "DAM REMOVAL PROPOSALS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/602.01",
+    "https://granitestate.github.io/rules/env-wr/602.02",
+    "https://granitestate.github.io/rules/env-wr/602.03"
+  ],
+  "notation": "Env-Wr 602",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 602 DAM REMOVAL PROPOSALS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wr 602 DAM REMOVAL PROPOSALS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

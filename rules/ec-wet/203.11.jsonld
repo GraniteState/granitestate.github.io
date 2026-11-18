@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wet/203.11",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wet",
+  "authority": [
+    {
+      "citation": "21-O:5-a",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wet/203",
+  "definition": "Continuances and Extensions",
+  "effectiveDate": "2021-12-15",
+  "historyNote": "(see Revision Note at chapter heading for Ec-Wet 100) #13305, eff 12-15-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wet 203.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html",
+  "prefLabel": "Ec-Wet 203.11 Continuances and Extensions",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Wet 203.11 Continuances and Extensions.\n\n(a) Any party may request the continuance of a proceeding or the extension of a deadline by filing a motion with the presiding officer in accordance with Ec-Wet 203.09.\n\n(b) The presiding officer shall grant any motion for a continuance or extension if he or she determines that good cause has been demonstrated, including:\n\n(1) The unavailability of a party, witness, or attorney necessary for a proceeding;\n\n(2) The likelihood that a proceeding will not be necessary because the parties have reached or will imminently reach a settlement; or\n\n(3) Any other circumstances demonstrating that a continuance or extension would assist in resolving the appeal fairly.\n\n(c) An order granting a continuance or extension shall specify the new date of the proceeding or deadline.\n\nSource. (see Revision Note at chapter heading for Ec-Wet 100) #13305, eff 12-15-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/frl",
+  "@type": "Concept",
+  "agencyCode": "Frl",
+  "definition": "State Board of Registration of Funeral Directors and Embalmers",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/frl/100",
+    "https://granitestate.github.io/rules/frl/200",
+    "https://granitestate.github.io/rules/frl/300",
+    "https://granitestate.github.io/rules/frl/400",
+    "https://granitestate.github.io/rules/frl/500",
+    "https://granitestate.github.io/rules/frl/600",
+    "https://granitestate.github.io/rules/frl/700",
+    "https://granitestate.github.io/rules/frl/800",
+    "https://granitestate.github.io/rules/frl/900"
+  ],
+  "notation": "Frl",
+  "prefLabel": "Frl State Board of Registration of Funeral Directors and Embalmers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,63 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/8003",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "altLabel": "RACETRACK LICNESES",
+  "authority": [
+    {
+      "citation": "284:12",
+      "paragraphs": [
+        "I",
+        "III",
+        "IV",
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "284:12-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:15-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:16-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:17",
+      "via": "appendix"
+    },
+    {
+      "citation": "284:18",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/8000",
+  "definition": "RACETRACK LICENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/8003.01",
+    "https://granitestate.github.io/rules/lot/8003.02",
+    "https://granitestate.github.io/rules/lot/8003.03",
+    "https://granitestate.github.io/rules/lot/8003.04",
+    "https://granitestate.github.io/rules/lot/8003.05"
+  ],
+  "notation": "Lot 8003",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html",
+  "prefLabel": "Lot 8003 RACETRACK LICENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 8003 RACETRACK LICENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/311.04",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:43",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/311",
+  "definition": "Withdrawal Liability Calculation",
+  "effectiveDate": "2019-01-09",
+  "historyNote": "#11093, eff 5-12-16; ss by #12707, eff 1-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 311.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 311.04 Withdrawal Liability Calculation",
+  "recordType": "rule-section",
+  "ruleText": "Ret 311.04 Withdrawal Liability Calculation.\n\n(a) The method for allocating the unfunded accrued liability for a withdrawing employer shall be determined as follows:\n\n(1) The total amount of the unfunded accrued liability allocable to a withdrawn employer shall be equal to the sum of:\n\na. The unfunded present value of pension benefits that are attributable to retained participants’ service with the employer as of the most recent actuarial valuation accepted by the board of trustees, projected to the withdrawal date, as determined in Ret. 311.04(a)(2); and\n\nb. The unfunded present value of post-retirement medical subsidy, if any, attributable to retained participants’ service with the employer as of the most recent actuarial valuation accepted by the board of trustees, projected to the withdrawal date, as determined in Ret. 311.04(a)(4);\n\n(2) The unfunded present value of pension benefits that are attributable to retained participants’ service with the employer shall be equal to the product of:\n\na. The actuarial present value of accrued pension benefits that are attributable to retained participants’ service with the employer as of the most recent actuarial valuation accepted by the board of trustees, projected to the withdrawal date, determined using the assumptions and methods in (b); and\n\nb. The unfunded percentage described (3);\n\n(3) The unfunded percentage determined under this paragraph shall be equal to one minus a fraction that is not greater than one, determined as follows:\n\na. The numerator shall be the fair market value of pension assets for the specific NHRS member classification fund, in total as of the most recent actuarial valuation accepted by the board of trustees, projected to the withdrawal date; and\n\nb. The denominator of which shall be the present value of pension benefits of all the specific NHRS member classification fund’s participants as of the most recent actuarial valuation accepted by the board of trustees, determined using the assumptions and methods in (b) projected to the withdrawal date;\n\n(4) The unfunded present value of post-retirement medical subsidy, if any, attributable to retained participants’ service with the employer shall be equal to the product of:\n\na. The actuarial present value of the post-retirement medical subsidy that is attributable to retained participants’ service with the employer as of the most recent actuarial valuation accepted by the board of trustees projected to the withdrawal date, determined using the assumptions and methods in (b); and\n\nb. The unfunded percentage described in (5); and\n\n(5) The unfunded percentage under this paragraph shall equal one minus a fraction that is not greater than one or less than zero, determined as follows:\n\na. The numerator shall be the fair market value of medical subsidy assets for the specific NHRS member classification fund in total as of the most recent valuation date accepted by the board of trustees projected to the withdrawal date; and\n\nb. The denominator shall be the present value of post-retirement medical subsidy benefits of all the specific NHRS member classification fund’s participants as of the most recent valuation date accepted by the board of trustees, determined using the assumptions and methods in paragraph (b) projected to the withdrawal date.\n\n(b) The benefit liabilities shall be the present value of accrued benefits determined using the actuarial assumptions adopted by the board of trustees for calculating withdrawal liabilities.\n\nSource. #11093, eff 5-12-16; ss by #12707, eff 1-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

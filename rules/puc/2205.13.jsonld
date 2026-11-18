@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2205.13",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "53-E:7",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2205",
+  "definition": "Individual Customer Billing Information",
+  "effectiveDate": "2022-10-12",
+  "historyNote": "#13457, eff 10-12-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2205.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2200.html",
+  "prefLabel": "Puc 2205.13 Individual Customer Billing Information",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2205.13 Individual Customer Billing Information.\n\n(a) Once an individual utility customer has become a customer of a CPA, the utility shall provide to the CPA the following information, which may be provided through EDI access or otherwise, for each such customer, to the extent applicable:\n\n(1) Name and mailing address;\n\n(2) Utility account number or numbers;\n\n(3) Service address;\n\n(4) Utility rate class or code for each account;\n\n(5) Name key;\n\n(6) The meter reading date or utility reference number for the read cycle for each account;\n\n(7) The most recent 24 months, if available, or 12 months otherwise, of usage data in kWh for each monthly interval for accounts reported in monthly intervals for load settlement, and for each hourly interval for accounts reported in hourly intervals for load settlement;\n\n(8) ICAP capacity tag for the current power year, and for the next power year, when known and if readily available;\n\n(9) Whether the customer net meters and, if so, whether under original net energy metering terms available prior to September 1, 2017, or new alternative net metering terms and tariffs that have been available since September 1, 2017, or any subsequent successor terms and tariffs; and\n\n(10) Any other information typically made available to CEPS through the utility EDI.\n\n(b) Once an individual utility customer has become a customer of a CPA, the utility may provide to the CPA the following information, which may be provided through EDI access or otherwise, for each such customer, to the extent applicable, known, and readily available:\n\n(1) Name of customer contact, if different from customer name;\n\n(2) Home or company phone number;\n\n(3) Mobile phone number;\n\n(4) Email address;\n\n(5) Preferred billing and communication method;\n\n(6) Form or type of meter reading or meter model and communication module identifier;\n\n(7) The size in kW-AC of any such distributed generation located behind the customer’s meter;\n\n(8) Whether the customer is a group net metering host or member with on-bill crediting;\n\n(9) Whether the customer’s distributed generation facility has been determined to be a low-moderate income community solar project;\n\n(10) Whether the customer participates in any utility battery storage program;\n\n(11) Whether the customer is currently enrolled in the electric assistance program; and\n\n(12) Whether the customer is currently on a payment plan or a budget billing plan.\n\nSource. #13457, eff 10-12-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2200.html"
+}

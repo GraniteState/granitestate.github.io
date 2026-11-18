@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/403.04",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:62",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/403",
+  "definition": "Failure to Comply",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 403.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html",
+  "prefLabel": "Bea 403.04 Failure to Comply",
+  "recordType": "rule-section",
+  "ruleText": "Bea 403.04 Failure to Comply. Failure to provide any of the information as noted in Bea 404.05 shall result in denial of a BMGI grant in accordance with RSA 541-A:29.Source. #13515, INTERIM, eff 1-5-23, EXPIRES: 7-4-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html"
+}

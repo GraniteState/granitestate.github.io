@@ -1,0 +1,15 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "definition": "Waste Management Council (To be replaced by Ec-Wst .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wmc/200"
+  ],
+  "notation": "Env-WMC",
+  "prefLabel": "Env-WMC Waste Management Council",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

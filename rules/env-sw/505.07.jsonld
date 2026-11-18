@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/505.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/505",
+  "definition": "Management of Waste-Derived Products",
+  "effectiveDate": "2024-08-01",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2205.07); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 505.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html",
+  "prefLabel": "Env-Sw 505.07 Management of Waste-Derived Products",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 505.07 Management of Waste-Derived Products.\n\n(a) The waste-derived products produced by a P/T facility shall not be distributed and used except in accordance with certification granted pursuant to Env-Sw 1500.\n\n(b) Quality assurance or quality control procedures shall be implemented to assure that the quality of all waste-derived products distributed by the facility meet a specification identified in the permit based on certification pursuant to Env-Sw 1500.\n\n(c) A waste-derived product that does not meet a required specification shall be deemed to be an off-specification material, fully subject to regulation by the solid waste rules as a waste.\n\n(d) Off-specification materials shall be managed in the same manner as:\n\n(1) An incoming waste as prescribed by Env-Sw 505.03, if the waste will be reprocessed or retreated by the facility; or\n\n(2) A residual or bypass waste as prescribed by Env-Sw 505.04, if the waste will not be reprocessed or retreated by the facility.\n\n(e) When an off-specification material is produced by a P/T facility, the permittee shall:\n\n(1) Determine the likely cause and take appropriate steps to correct and avoid a recurrence of the problem;\n\n(2) If the problem is determined to be operational, make the appropriate processing or treatment adjustments to correct the problem before reprocessing or retreating the off-specification material; and\n\n(3) If the problem is due to characteristics of the waste feedstock that cannot be remedied by operational adjustments, manage the off-specification material and all unprocessed and untreated waste of similar characteristics as bypass waste pursuant to Env-Sw 505.04.\n\n(f) A P/T facility that produces waste-derived products for land application shall maintain records to identify the locations to which or persons to whom the materials are transferred.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 500); ss by #8459, eff 10-28-05 (formerly Env-Wm 2205.07); ss by #10596, eff 7-1-14; ss by #14025, eff 8-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw500.html"
+}

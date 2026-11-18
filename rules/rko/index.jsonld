@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "definition": "Ombudsman, Office of the Right-to-Know Ombudsman. Office commenced operation on 1-27-23. (See RSA 91-A:7-d pursuant to 2022, 250:3, effective 7-1-22)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rko/100",
+    "https://granitestate.github.io/rules/rko/200",
+    "https://granitestate.github.io/rules/rko/300"
+  ],
+  "notation": "Rko",
+  "prefLabel": "Rko Ombudsman, Office of the Right-to-Know Ombudsman. Office commenced operation on 1-27-23.",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

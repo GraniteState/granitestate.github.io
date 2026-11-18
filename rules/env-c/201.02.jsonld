@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/201.02",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/201",
+  "definition": "Applicability",
+  "effectiveDate": "2015-03-24",
+  "historyNote": "#4653, eff 7-27-89; ss by #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07; amd by #10802-A, eff 3-24-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 201.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 201.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 201.02 Applicability.\n\n(a) The definitions in Env-C 202 and rules in Env-C 203 shall apply to all administrative proceedings conducted by the department of environmental services as described in Env-C 204 through Env-C 212, and shall be in addition to applicable requirements of RSA 541-A and the rules set forth in Env-C 204 through Env-C 212 as applicable to a specific type of proceeding.\n\n(b) In the event that other department rules exist in sub-titles Env-A, Env-C, Env-Dw, Env-Hw, Env-Or, Env-Sw, Env-Wr, Env-Wq, or Env-Wt that establish procedures for specific programs or divisions, a rule in this chapter shall apply if the program-specific rules do not address the specific issue addressed by the rule in this chapter.\n\nSource. #4653, eff 7-27-89; ss by #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07; amd by #10802-A, eff 3-24-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/305",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:5",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/300",
+  "definition": "ASSIGNED RISK COVERAGE THROUGH THE NATIONAL COUNCIL ON COMPENSATION INSURANCE (NCCI)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/305.01"
+  ],
+  "notation": "Lab 305",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab300.html",
+  "prefLabel": "Lab 305 ASSIGNED RISK COVERAGE THROUGH THE NATIONAL COUNCIL ON COMPENSATION INSURANCE (NCCI)",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 305 ASSIGNED RISK COVERAGE THROUGH THE NATIONAL COUNCIL ON COMPENSATION INSURANCE (NCCI)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab300.html"
+}

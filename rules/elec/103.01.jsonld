@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec/103.01",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "authority": [
+    {
+      "citation": "319-C:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "319-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "319-C:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/elec/103",
+  "definition": "Composition of Board",
+  "effectiveDate": "2013-09-25",
+  "historyNote": "#10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Elec 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html",
+  "prefLabel": "Elec 103.01 Composition of Board",
+  "recordType": "rule-section",
+  "ruleText": "Elec 103.01 Composition of Board.\n\n(a) The board consists of 5 members plus the state fire marshal or designee, who as an ex-officio member does not vote in board determinations.\n\n(b) The composition of the board consists of 2 master electricians, one journeyman electrician, and 2 public members. Board members are appointed by the governor and council.\n\nSource. #10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html"
+}

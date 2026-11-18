@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.32",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:24",
+      "source": "https://granitestate.github.io/rsa/674/674-24",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/674/674-24"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Lot",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.32",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.32 Lot",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.32 “Lot” means “lot” as defined in RSA 674:24, namely, “a parcel of land at least sufficient in size to meet the minimum requirements for use, coverage and area and to provide required yards and other open spaces. An undersize lot is permissible if it passes state standards for soil conditions and substantially meets the requirements here and if in existence on the date of adoption of this ordinance.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

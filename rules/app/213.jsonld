@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/app/213",
+  "@type": "Concept",
+  "agencyCode": "App",
+  "authority": [
+    {
+      "citation": "541:3",
+      "source": "https://granitestate.github.io/rsa/541/541-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541/541-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/app/200",
+  "definition": "MOTION FOR REHEARING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/app/213.01",
+    "https://granitestate.github.io/rules/app/213.02",
+    "https://granitestate.github.io/rules/app/213.03",
+    "https://granitestate.github.io/rules/app/213.04",
+    "https://granitestate.github.io/rules/app/213.05"
+  ],
+  "notation": "App 213",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html",
+  "prefLabel": "App 213 MOTION FOR REHEARING",
+  "recordType": "rule-part",
+  "ruleText": "PART App 213 MOTION FOR REHEARING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/503.21",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:43",
+      "source": "https://granitestate.github.io/rsa/485/485-43",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/503",
+  "definition": "Prompt Repair and Maintenance Required",
+  "effectiveDate": "2024-06-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.13)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 503.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html",
+  "prefLabel": "Env-Dw 503.21 Prompt Repair and Maintenance Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 503.21 Prompt Repair and Maintenance Required.\n\n(a) Each owner of a PWS shall promptly repair and fully maintain the operational readiness of the PWS.\n\n(b) The actions required by (a) above, shall include:\n\n(1) The preparation and implementation of a preventative maintenance program, following the minimum guidelines established in Env-Dw 504; and\n\n(2) The prompt repair or replacement of PWS components that have failed or are otherwise not performing as intended.\n\nSource. (See Revision Note at part heading for Env-Dw 503) #10465, eff 12-2-13; ss by #14006, eff 6-25-24 (formerly Env-Dw 503.13)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw500.html"
+}

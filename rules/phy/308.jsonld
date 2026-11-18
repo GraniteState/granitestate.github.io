@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/phy/308",
+  "@type": "Concept",
+  "agencyCode": "Phy",
+  "authority": [
+    {
+      "citation": "328-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-A:5-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/phy/300",
+  "definition": "TEMPORARY LICENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/phy/308.01",
+    "https://granitestate.github.io/rules/phy/308.02"
+  ],
+  "notation": "Phy 308",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy300.html",
+  "prefLabel": "Phy 308 TEMPORARY LICENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Phy 308 TEMPORARY LICENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy300.html"
+}

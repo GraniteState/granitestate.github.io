@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/301.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "417:10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/301",
+  "definition": "Failure to Comply",
+  "effectiveDate": "2023-07-21",
+  "historyNote": "#9651, eff 2-5-10; ss by #12423, eff 2-5-18 (from Ins 301.07); 18; ss by #13691, eff 7-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 301.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 301.08 Failure to Comply",
+  "recordType": "rule-section",
+  "ruleText": "Ins 301.08 Failure to Comply. Failure of an insurer to provide or deliver a Buyer’s Guide, an in force illustration, a policy summary, and policy data as provided in Ins 301.04 shall constitute an omission which misrepresents the benefits, advantages, conditions, or terms of an insurance policy and be subject to the penalties contained in RSA 400-A:15 and RSA 417:10.\n\nSource. #9651, eff 2-5-10; ss by #12423, eff 2-5-18 (from Ins 301.07); 18; ss by #13691, eff 7-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

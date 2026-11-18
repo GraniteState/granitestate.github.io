@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Applicability",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.01 Applicability.\n\n(a) Except as provided in (b), below, this part shall apply to used oil transporters that transport used oil regulated under this chapter.\n\n(b) This part shall not apply to:\n\n(1) Onsite transportation of used oil;\n\n(2) A used oil generator, household DIY used oil collection center, commercial used oil collection center, or used oil aggregation point that self-transports used oil as specified in Env-Hw 1406.05(c) and (d); or\n\n(3) A household DIY used oil generator that self-transports its own used oil to a used oil generator, household DIY used oil collection center, commercial used oil collection center, used oil aggregation point, used oil processor/re-refiner, or used oil burner.\n\n(c) A transporter that imports used oil from abroad or exports used oil outside of the state of New Hampshire or the United States shall be subject to the requirements of this part from the time the used oil enters and until the time it exits New Hampshire.\n\n(d) Except as provided in (e), below, used oil that is transported in a tank truck that was previously used to transport hazardous waste shall be considered to have been mixed with hazardous waste and shall be regulated as a hazardous waste pursuant to Env-Hw 404.01, rather than as used oil under this chapter.\n\n(e) Used oil transported as described in (d), above, shall be subject to this chapter, and not regulated as hazardous waste, if:\n\n(1) The tank truck was emptied as described in Env-Hw 401.03(d) prior to transporting used oil; and\n\n(2) The mixture is determined not to be hazardous waste under the provisions of Env-Hw 1402.02 and Env-Hw 1402.03.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

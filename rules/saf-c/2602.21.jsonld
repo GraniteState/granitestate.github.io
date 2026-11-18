@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2602.21",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Retail",
+  "authority": [
+    {
+      "citation": "160-B:1",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/160-B/160-B-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "160-C:1",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/160-B/160-B-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2602",
+  "definition": "Sale",
+  "effectiveDate": "2015-02-13",
+  "historyNote": "#10784, eff 2-13-15 (from Saf-C 2602.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2602.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2600.html",
+  "prefLabel": "Saf-C 2602.21 Sale",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2602.21 “Sale” means “sale” as defined in RSA 160-B:1, VI and RSA 160- C:1, VII, and includes “sell”.\n\nSource. #10784, eff 2-13-15 (from Saf-C 2602.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2600.html"
+}

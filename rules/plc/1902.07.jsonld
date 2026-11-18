@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1902.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Qualifying Certification",
+  "authority": [
+    {
+      "citation": "310-A:222",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-222",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-222"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1902",
+  "definition": "Qualifying certification",
+  "effectiveDate": "2026-01-16",
+  "expirationDate": "2036-01-16",
+  "historyNote": "#14429, eff 1-16-26, EXPIRES 1-16-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1902.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html",
+  "prefLabel": "Plc 1902.07 Qualifying certification",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1902.07 “Qualifying certification” means a certification required to be eligible for state LSP certification, as listed in Plc 1903.06.\n\nSource. #14429, eff 1-16-26, EXPIRES 1-16-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html"
+}

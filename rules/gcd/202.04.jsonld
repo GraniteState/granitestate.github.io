@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gcd/202.04",
+  "@type": "Concept",
+  "agencyCode": "Gcd",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "V(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/gcd/202",
+  "definition": "Forms of Dispute Resolution",
+  "effectiveDate": "2013-05-17",
+  "historyNote": "#7635-A, eff 1-30-02; ss by #10339, eff 5-17-13",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Gcd 202.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html",
+  "prefLabel": "Gcd 202.04 Forms of Dispute Resolution",
+  "recordType": "rule-section",
+  "ruleText": "Gcd 202.04 Forms of Dispute Resolution. Disputes between any person and the commission shall be resolved by:\n\n(a) Agreement pursuant to Gcd 215.01;\n\n(b) Formal settlement pursuant to Gcd 215.02; or\n\n(c) Decision after hearing made pursuant to Gcd 211.08.\n\nSource. #7635-A, eff 1-30-02; ss by #10339, eff 5-17-13",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html"
+}

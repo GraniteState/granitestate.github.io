@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/104.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/104",
+  "definition": "Requests for Information or Access to Records",
+  "effectiveDate": "2024-12-01",
+  "historyNote": "#14135, eff 12-1-24 (formerly Plc 103.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 104.01 Requests for Information or Access to Records",
+  "recordType": "rule-section",
+  "ruleText": "Plc 104.01 Requests for Information or Access to Records.\n\n(a) Requests for access to governmental records pursuant to RSA 91-A:4 shall be made directly to the executive director by sending a request with the information specified in Plc 104.02 either:\n\n(1) Electronically, to righttoknow@oplc.nh.gov; or\n\n(2) By mail or other delivery to the address specified in Plc 103.03(c).\n\n(b) Requests for access to other records shall be addressed to the executive director or directly to the division that is responsible for the records being requested.\n\nSource. #14135, eff 12-1-24 (formerly Plc 103.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

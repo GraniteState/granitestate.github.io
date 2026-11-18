@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/804",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "147-F:10",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-F/147-F-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/800",
+  "definition": "ELIGIBILITY DETERMINATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/804.01",
+    "https://granitestate.github.io/rules/env-or/804.02",
+    "https://granitestate.github.io/rules/env-or/804.03"
+  ],
+  "notation": "Env-Or 804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html",
+  "prefLabel": "Env-Or 804 ELIGIBILITY DETERMINATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 804 ELIGIBILITY DETERMINATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html"
+}

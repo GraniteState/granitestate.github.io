@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4803.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O:26",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O:29",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4803",
+  "definition": "Quantity of CO2 Allowances Available",
+  "effectiveDate": "2024-05-23",
+  "historyNote": "#9284, INTERIM, eff 10-1-08, EXPIRED: 3-30-09 New. #9445, eff 4-3-09; ss by #10470, eff 1-1-14; ss by #13974, eff 5-23-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4803.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html",
+  "prefLabel": "Env-A 4803.05 Quantity of CO2 Allowances Available",
+  "priorExpiration": "2009-03-30",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4803.05 Quantity of CO2 Allowances Available.\n\n(a) Prior to the end of each control period, CO2 allowances in a quantity equal to the number of CO2 allowances allocated by the department to the NHAA in accordance with RSA 125-O:26 for such control period shall be made available for sale.\n\n(b) CO2 allowances shall be made available for sale by allocation year.\n\nSource. #9284, INTERIM, eff 10-1-08, EXPIRED: 3-30-09\n\nNew. #9445, eff 4-3-09; ss by #10470, eff 1-1-14; ss by #13974, eff 5-23-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html"
+}

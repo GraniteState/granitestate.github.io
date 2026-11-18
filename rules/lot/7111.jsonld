@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7111",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-E:18",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:25",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:25-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:26-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7100",
+  "definition": "WAIVER OF RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/711.01",
+    "https://granitestate.github.io/rules/lot/7111.01"
+  ],
+  "notation": "Lot 7111",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html",
+  "prefLabel": "Lot 7111 WAIVER OF RULES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7111 WAIVER OF RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html"
+}

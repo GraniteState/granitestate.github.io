@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emab/101.01",
+  "@type": "Concept",
+  "agencyCode": "Emab",
+  "altLabel": "Presiding Member",
+  "authority": [
+    {
+      "citation": "282-A:62",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I",
+        "(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/emab/101",
+  "definition": "Presiding member",
+  "effectiveDate": "2014-06-10",
+  "historyNote": "#10621, eff 6-10-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emab 101.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emab100.html",
+  "prefLabel": "Emab 101.01 Presiding member",
+  "recordType": "rule-section",
+  "ruleText": "Emab 101.01 “Presiding member” means the chair, or in the absence of the chair, the vice-chair of the unemployment compensation appellate board.\n\nSource. #10621, eff 6-10-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emab100.html"
+}

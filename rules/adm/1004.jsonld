@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1004",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "604-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/604-A/604-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "604-A:2-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/604-A/604-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1000",
+  "definition": "ELIGIBILITY FOR APPOINTED COUNSEL AND STATE PAYMENT FOR OTHER DEFENSE SERVICES AND EXPENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/1004.01",
+    "https://granitestate.github.io/rules/adm/1004.02"
+  ],
+  "notation": "Adm 1004",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1004 ELIGIBILITY FOR APPOINTED COUNSEL AND STATE PAYMENT FOR OTHER DEFENSE SERVICES AND EXPENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Adm 1004 ELIGIBILITY FOR APPOINTED COUNSEL AND STATE PAYMENT FOR OTHER DEFENSE SERVICES AND EXPENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.13",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Monitoring When the MCL for Asbestos is Exceeded",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.13 Monitoring When the MCL for Asbestos is Exceeded",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.13 Monitoring When the MCL for Asbestos is Exceeded.\n\n(a) The O/O of a PWS at which the MCL for asbestos specified in Env-Dw 704 is exceeded shall monitor for asbestos quarterly beginning in the next calendar quarter after the initial violation occurred.\n\n(b) The O/O may submit to the department a written request to reduce the asbestos monitoring frequency after:\n\n(1) A minimum of one year of quarterly sampling for surface water systems; and\n\n(2) A minimum of 2 quarters of sampling for groundwater systems.\n\n(c) A request submitted pursuant to (b), above, shall include:\n\n(1) The name of the PWS;\n\n(2) The PWS identifier for the PWS;\n\n(3) A summary of all quarterly sampling results; and\n\n(4) An explanation of whether the PWS is operating any type of treatment to reduce the amount of asbestos.\n\n(d) The department shall decrease the quarterly monitoring requirement to the frequency specified in Env-Dw 711.11 only if the department determines that:\n\n(1) The PWS is not operating any type of treatment to reduce the amount of asbestos; and\n\n(2) The amount of asbestos in the water being delivered to persons served by the system is reliably and consistently below the MCL as defined in Env-Dw 100.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

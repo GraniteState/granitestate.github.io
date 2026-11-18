@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/401.05",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "authority": [
+    {
+      "citation": "328-G:7",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-G:9",
+      "paragraphs": [
+        "II",
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/401",
+  "definition": "Denial of Renewal",
+  "effectiveDate": "2023-05-08",
+  "historyNote": "#7081, eff 8-26-99; ss by #7872, eff 4-14-03; ss by #10004, INTERIM, eff 9-22-11, EXPIRED: 3-20-12 New. #10158, eff 6-27-12; ss by #13578, eff 5-8-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Acp 401.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 401.05 Denial of Renewal",
+  "priorExpiration": "2012-03-20",
+  "recordType": "rule-section",
+  "ruleText": "Acp 401.05 Denial of Renewal. License renewal shall be denied if, after notice and an opportunity for hearing, there is a preponderance of the evidence to establish:\n\n(a) Noncompliance with the continuing education requirement of Acp 402.01, notwithstanding the provisions of Acp 402.03(a);\n\n(b) Failure to furnish complete or accurate information on the “Acupuncture Renewal Application Form”; or\n\n(c) That the requirements of RSA 328-G:9, II, and these rules relative to licensure and qualifications have not been, or no longer continue to be, met.\n\nSource. #7081, eff 8-26-99; ss by #7872, eff 4-14-03; ss by #10004, INTERIM, eff 9-22-11, EXPIRED: 3-20-12\n\nNew. #10158, eff 6-27-12; ss by #13578, eff 5-8-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

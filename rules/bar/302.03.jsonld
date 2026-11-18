@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/302.03",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:8",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:19",
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/302",
+  "definition": "Schools and Shops Square Footage",
+  "effectiveDate": "2017-11-01",
+  "historyNote": "#5308, eff 1-16-92; ss by #6046-b, eff 6-1-95; ss and moved by #6577, eff 9-13-97 (from Bar 303.03); ss by #7555, eff 9-12-01; ss by #8655, eff 6-9-06; amd by #9047, eff 12-12-07; para (b) EXPIRED: 6-9-14; para (a) EXPIRED: 12-12-15 New. #12085, INTERIM, eff 1-14-17, EXPIRED: 7-13-17 New. #12412, eff 11-1-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 302.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 302.03 Schools and Shops Square Footage",
+  "priorExpiration": "2017-07-13",
+  "recordType": "rule-section",
+  "ruleText": "Bar 302.03 Schools and Shops Square Footage.\n\n(a) Space allocated for a cosmetology school shall be at least 1,500 square feet, and esthetic, manicuring barbering and master barber school shall be at least 1,000 square feet used exclusively for teaching of cosmetology, esthetics, barbering master barber and/or manicuring.\n\n(b) A shop shall be at least 144 square feet including the lavatory area and reception area.\n\nSource. #5308, eff 1-16-92; ss by #6046-b, eff 6-1-95; ss and moved by #6577, eff 9-13-97 (from Bar 303.03); ss by #7555, eff 9-12-01; ss by #8655, eff 6-9-06; amd by #9047, eff 12-12-07; para (b) EXPIRED: 6-9-14; para (a) EXPIRED: 12-12-15\n\nNew. #12085, INTERIM, eff 1-14-17, EXPIRED: 7-13-17\n\nNew. #12412, eff 11-1-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

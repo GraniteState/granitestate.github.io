@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/802.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "374:48",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-48",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/802",
+  "definition": "Excavator",
+  "effectiveDate": "2017-02-08",
+  "historyNote": "#7350, eff 8-23-00; ss by #9226, INTERIM, eff 8-16-08; ss and moved by #9318, eff 11-8-08 (from Puc 802.05); ss by #12102, eff 2-8-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 802.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc800.html",
+  "prefLabel": "Puc 802.06 Excavator",
+  "recordType": "rule-section",
+  "ruleText": "Puc 802.06 “Excavator” means “excavator” as defined in RSA 374:48, IV, namely, “any person performing an excavation.”\n\nSource. #7350, eff 8-23-00; ss by #9226, INTERIM, eff 8-16-08; ss and moved by #9318, eff 11-8-08 (from Puc 802.05); ss by #12102, eff 2-8-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc800.html"
+}

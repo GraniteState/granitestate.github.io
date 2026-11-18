@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mhp/309",
+  "@type": "Concept",
+  "agencyCode": "Mhp",
+  "authority": [
+    {
+      "citation": "330-A:10",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/330-A/330-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "330-A:18-d",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/330-A/330-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/mhp/300",
+  "definition": "CONDITIONAL LICENSURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mhp/309.01",
+    "https://granitestate.github.io/rules/mhp/309.02",
+    "https://granitestate.github.io/rules/mhp/309.03"
+  ],
+  "notation": "Mhp 309",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html",
+  "prefLabel": "Mhp 309 CONDITIONAL LICENSURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Mhp 309 CONDITIONAL LICENSURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html"
+}

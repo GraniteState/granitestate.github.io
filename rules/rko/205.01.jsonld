@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/205.01",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "91-A:7-b",
+      "paragraphs": [
+        "IV(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/205",
+  "definition": "Computation of Time",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 205.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Rko 205.01 Computation of Time.\n\n(a) Unless otherwise specified, the unit of time for periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in this chapter shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) Unless otherwise specified in these rules, or by other applicable law relating to the period in which an action must be performed, if the last day of the period so computed falls on a Saturday, Sunday, or a federal or state legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday, or legal holiday.\n\n(d) Paragraph (c) above shall not apply to the time periods set forth in:\n\n(1) RSA 91-A:4,IV (b);\n\n(2) RSA 91-A:7-b,II;\n\n(3) RSA 91-A:7-b,V; or\n\n(4) Where calendar days are specified by law.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

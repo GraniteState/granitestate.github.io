@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3248.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "V",
+        "X",
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3248",
+  "definition": "Nonpayment of Fines",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "(See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15 New. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3248.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3248.04 Nonpayment of Fines",
+  "priorExpiration": "2016-01-12",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3248.04 Nonpayment of Fines.\n\n(a) In the event the department does not receive a fine payment by its due date, the department shall send notice to the inspection station to appear at an administrative hearing to show cause why all inspection station privileges should not be suspended or revoked for nonpayment of the administrative fine.\n\n(b) The hearing shall be scheduled no earlier than 14 days from the date of the notice in (a) above.\n\n(c) The hearing shall be limited to whether the administrative fine was paid.\n\n(d) In the event the hearings examiner finds that an inspection station has not paid its administrative fine, the inspection station’s privileges shall be suspended pending receipt by the department of the administrative fine paid in full.\n\nSource. (See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15\n\nNew. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

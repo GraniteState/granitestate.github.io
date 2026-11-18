@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/site/101.01",
+  "@type": "Concept",
+  "agencyCode": "Site",
+  "authority": [
+    {
+      "citation": "162-H:3",
+      "source": "https://granitestate.github.io/rsa/162-H/162-H-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/162-H/162-H-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/site/101",
+  "definition": "Purpose",
+  "effectiveDate": "2015-12-16",
+  "historyNote": "#9182, eff 6-17-08; ss by #10993, eff 12-16-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Site 101.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/site100-300.html",
+  "prefLabel": "Site 101.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Site 101.01 Purpose. The purpose of the rules of the site evaluation committee is to:\n\n(a) Describe the requirements and procedures of the site evaluation committee in reviewing and acting upon applications to construct energy facilities, requests for modification of facilities, determinations of jurisdiction and exemption, and similar or related business before the committee or any designated subcommittee; and\n\n(b) Describe the organization of the site evaluation committee and any designated subcommittee.\n\nSource. #9182, eff 6-17-08; ss by #10993, eff 12-16-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/site100-300.html"
+}

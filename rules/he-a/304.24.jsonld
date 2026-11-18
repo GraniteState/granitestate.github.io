@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/304.24",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "172:2-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "172:8-b",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/304",
+  "definition": "Drug Screens",
+  "effectiveDate": "2018-02-16",
+  "historyNote": "#12476, eff 2-16-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 304.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html",
+  "prefLabel": "He-A 304.24 Drug Screens",
+  "recordType": "rule-section",
+  "ruleText": "He-A 304.24 Drug Screens.\n\n(a) An OTP shall perform, or have performed, drug screens of clients as described in this section.\n\n(b) All new clients shall have a minimum of a drug screen upon admission and randomly every week thereafter for the first 3 months of treatment.\n\n(c) After the first 3 months of treatment, all clients shall have a minimum of one drug screen performed randomly every month.\n\n(d) All required drug screens shall include, at a minimum, the following substances or their metabolites:\n\n(1) Opiates;\n\n(2) Methadone;\n\n(3) Buprenorphine;\n\n(4) Amphetamines;\n\n(5) Cocaine;\n\n(6) Benzodiazepines;\n\n(7) Cannabis; and\n\n(8) Methamphetamine.\n\n(e) A drug screen shall be considered positive for illicit substances only if the substance identified is not being used under the supervision of and as directed by a licensed practitioner.\n\n(f) When a client disputes the results of a positive drug screen, the screen shall only be considered positive after confirmatory testing by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory.\n\nSource. #12476, eff 2-16-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html"
+}

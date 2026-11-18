@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/401",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/400",
+  "definition": "APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/401.01",
+    "https://granitestate.github.io/rules/hedc/401.02"
+  ],
+  "notation": "Hedc 401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html",
+  "prefLabel": "Hedc 401 APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Hedc 401 APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "definition": "Dam-Related Programs (Formerly had indicated Env-Wr rules of the former Division of Water Resources which had been assigned to the Division of Water.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/100",
+    "https://granitestate.github.io/rules/env-wr/200",
+    "https://granitestate.github.io/rules/env-wr/300",
+    "https://granitestate.github.io/rules/env-wr/400",
+    "https://granitestate.github.io/rules/env-wr/500",
+    "https://granitestate.github.io/rules/env-wr/600",
+    "https://granitestate.github.io/rules/env-wr/700",
+    "https://granitestate.github.io/rules/env-wr/800",
+    "https://granitestate.github.io/rules/env-wr/900"
+  ],
+  "notation": "Env-Wr",
+  "prefLabel": "Env-Wr Dam-Related Programs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

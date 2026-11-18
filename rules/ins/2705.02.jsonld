@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2705.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7-b",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-7-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-7-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2705",
+  "definition": "Scope",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2705.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2705.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2705.02 Scope.\n\n(a) These rules shall apply to:\n\n(1) All health carriers, health maintenance organizations, health services corporations, and preferred provider programs in the state of New Hampshire in connection with managed care coverage governed by RSA 420-J or when using a utilization review entity subject to RSA 420-E;\n\n(2) Any pharmacy benefits manager with which any of the aforementioned entities contracts to perform prior authorization services for prescription drug benefits; and\n\n(3) All utilization review entities.\n\n(b) These rules shall not apply to the Medicaid managed care program under RSA 126-A:5, XIX.\n\n(c) These rules shall not apply to drugs administered directly by a medical provider in a medical setting.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

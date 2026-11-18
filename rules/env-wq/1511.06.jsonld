@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1511.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1511",
+  "definition": "Slope Protection from Channelized Flow",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1511.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1511.06 Slope Protection from Channelized Flow",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1511.06 Slope Protection from Channelized Flow.\n\n(a) When the panel drip edges are more than 75 degrees from parallel to the post-construction land contour lines, channel design calculations in accordance with the National Engineering Handbook, Part 654 Stream Restoration Design, Chapter 8 Threshold Channel Design, August 2007, available as noted in Appendix B, shall be submitted when:\n\n(1) Flow paths exceed 300 feet for slopes of 8% or greater, but less than 15%; and\n\n(2) Flow paths exceed 100 feet for slopes greater than 15%.\n\n(b) The plans shall show protective lining of concentrated flow paths as necessary when calculated velocities exceed the velocities for a vegetated surface, as determined with the reference in (a), above.\n\nSource. #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1511.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

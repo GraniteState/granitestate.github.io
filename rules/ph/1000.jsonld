@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1000",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph",
+  "definition": "STANDARDS OF PRACTICE FOR MANUFACTURERS, WHOLESALERS AND DISTRIBUTORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/1001",
+    "https://granitestate.github.io/rules/ph/1002"
+  ],
+  "notation": "Ph 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1000 STANDARDS OF PRACTICE FOR MANUFACTURERS, WHOLESALERS AND DISTRIBUTORS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ph 1000 STANDARDS OF PRACTICE FOR MANUFACTURERS, WHOLESALERS AND DISTRIBUTORS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

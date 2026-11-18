@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/2103",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "205-D:3",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/2100",
+  "definition": "ADR AVAILABILITY AND IMPACT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/2103.01",
+    "https://granitestate.github.io/rules/plc/2103.02",
+    "https://granitestate.github.io/rules/plc/2103.03",
+    "https://granitestate.github.io/rules/plc/2103.04"
+  ],
+  "notation": "Plc 2103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc2100.html",
+  "prefLabel": "Plc 2103 ADR AVAILABILITY AND IMPACT",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 2103 ADR AVAILABILITY AND IMPACT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc2100.html"
+}

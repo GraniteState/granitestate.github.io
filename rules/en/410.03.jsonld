@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/410.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:22-p",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/374/374-22-p",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:59",
+      "source": "https://granitestate.github.io/rsa/374/374-59",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-22-p",
+    "https://granitestate.github.io/rsa/374/374-59"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/410",
+  "definition": "Basic Service",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 410.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html",
+  "prefLabel": "En 410.03 Basic Service",
+  "recordType": "rule-section",
+  "ruleText": "En 410.03 Basic Service.\n\n(a) An ILEC-ELEC shall not require a customer to purchase or subscribe to any other service, feature, or product, whether separate from or in combination with basic service, or on an unbundled or bundled basis with basic service, in order to obtain basic service offered by the ILEC-ELEC. This rule shall not preclude an ILEC-ELEC from charging a customer construction costs or other non-recurring costs on a non-discriminatory basis that would not discourage the customer from selecting residential basic service.\n\n(b) An ILEC-ELEC shall not require an existing or prospective basic service customer to waive, release, or otherwise relinquish any rights or remedies under the En 400 rules or the statutes implemented by these rules, including, but not limited to, the right to submit a complaint to the department pursuant to En 410.05.\n\n(c) An ILEC-ELEC shall not impose exit fees on a customer who cancels basic service.\n\n(d) An ILEC-ELEC that is unable to provide basic service to a current or prospective customer upon application therefor shall comply with the following provisions:\n\n(1) An ILEC-ELEC shall keep a record as to each instance in which it is not able to supply basic service to prospective customers within 10 days following the customer’s application for service;\n\n(2) The record required by (d)(1) above shall be provided to the department on request; and\n\n(3) The record shall include:\n\na. The name, address, and telephone number of each applicant who was not provided service within 10 days;\n\nb. The date of application for service;\n\nc. The class of service applied for; and\n\nd. The reason the ILEC-ELEC was unable to provide service within 10 days of the customer’s application.\n\nSource. #14015, eff 7-1-24 (see Revision Note at chapter heading for En 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en400.html"
+}

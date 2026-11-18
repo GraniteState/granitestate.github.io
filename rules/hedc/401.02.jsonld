@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/401.02",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "292:8-b",
+      "source": "https://granitestate.github.io/rsa/292/292-8-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "292:8-k",
+      "source": "https://granitestate.github.io/rsa/292/292-8-k",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/292/292-8-b",
+    "https://granitestate.github.io/rsa/292/292-8-k"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/401",
+  "definition": "Institutions Under Commission Jurisdiction",
+  "effectiveDate": "2025-10-15",
+  "expirationDate": "2035-10-15",
+  "historyNote": "#10429, eff 10-5-13 (See Revision Note at chapter heading for Hedc 400); ss by #13802, eff 11-2-23; ss by #14404, eff 10-15-25, EXPIRES: 10-15-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html",
+  "prefLabel": "Hedc 401.02 Institutions Under Commission Jurisdiction",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 401.02 Institutions Under Commission Jurisdiction. The following institutions shall be subject to the jurisdiction of the commission:\n\n(a) Institutions that have a physical presence in New Hampshire and seek to offer or currently offer credit bearing courses, programs, or associate, bachelor, master, or doctoral degrees in New Hampshire;\n\n(b) Institutions planning to establish or have an administrative office in New Hampshire;\n\n(c) Out-of-state institutions who are not members of NC-SARA seeking to offer open or closed credit-bearing internships, practicums, courses, programs, or degrees that have a physical presence in New Hampshire;\n\n(d) Previously approved international institutions, at the sole discretion of the institution; and\n\n(e) Teacher certification program(s) offered by approved New Hampshire institutions. These programs shall also fall under the provisions of RSA 186:11 and Ed 600.\n\nSource. #10429, eff 10-5-13 (See Revision Note at chapter heading for Hedc 400); ss by #13802, eff 11-2-23; ss by #14404, eff 10-15-25, EXPIRES: 10-15-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html"
+}

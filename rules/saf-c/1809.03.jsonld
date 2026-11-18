@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/1809.03",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "IV(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "263:97",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/263/263-97",
+      "via": "appendix"
+    },
+    {
+      "citation": "263:98",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/263/263-98",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/263/263-97",
+    "https://granitestate.github.io/rsa/263/263-98"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/1809",
+  "definition": "Notification of Traffic Violations by Court",
+  "effectiveDate": "2024-10-18",
+  "expirationDate": "2034-10-18",
+  "historyNote": "#8405, eff 8-2-05, (formerly Saf-C 1806.03); ss by #10523, eff 2-18-14, EXPIRED: 2-18-24 New. #13963, EMERGENCY RULE, eff 5-13-24; ss by #14100, eff 10-18-24, EXPIRES: 10-18-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 1809.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1800.html",
+  "prefLabel": "Saf-C 1809.03 Notification of Traffic Violations by Court",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 1809.03 Notification of Traffic Violations by Court.\n\n(a) Pursuant to RSA 263:97, I(a), the clerk of court having jurisdiction shall notify the department of the conviction of any resident or non-resident commercial driver.\n\n(b) For the purposes of (a) above, the clerk of court shall notify the department of the following:\n\n(1) Docket number;\n\n(2) Name of court;\n\n(3) Driver’s legal name and permanent address;\n\n(4) Date of violation;\n\n(5) Motor vehicle registration;\n\n(6) Description of vehicle;\n\n(7) Violation(s) committed;\n\n(8) RSA violated;\n\n(9) Name of complainant;\n\n(10) Plea;\n\n(11) Finding; and\n\n(12) Sentence imposed.\n\nSource. #8405, eff 8-2-05, (formerly Saf-C 1806.03); ss by #10523, eff 2-18-14, EXPIRED: 2-18-24\n\nNew. #13963, EMERGENCY RULE, eff 5-13-24; ss by #14100, eff 10-18-24, EXPIRES: 10-18-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c1800.html"
+}

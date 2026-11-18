@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/702.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/702",
+  "definition": "Other Monitoring",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 702.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html",
+  "prefLabel": "Env-Hw 702.11 Other Monitoring",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 702.11 Other Monitoring.\n\n(a) The department shall review the groundwater monitoring/release detection plan proposed pursuant to Env-Hw 702.10(b) and all resulting data.\n\n(b) The department shall review the design and operations of all hazardous waste facilities and transfer facilities other than those specified in Env-Hw 702.10(a) to determine whether the design and operation might allow any hazardous waste or constituent to migrate off-site.\n\n(c) The department shall require the installation and operation of a monitoring system, including monitoring of air emissions, groundwater contamination, and leachate detection as appropriate to the migration vectors identified by the department, for:\n\n(1) A facility identified in Env-Hw 702.10(a), if the groundwater monitoring/release detection plan proposed pursuant to Env-Hw 702.10(b) is not adequate to detect the off-site migration of all hazardous wastes or constituents; or\n\n(2) A facility or transfer facility not identified in Env-Hw 702.10(a) whose design and/or operation might allow a hazardous waste or constituent to migrate off site.\n\n(d) For a monitoring system specified in (c), above, the department shall specify in writing:\n\n(1) The monitoring system required;\n\n(2) The frequency of analysis required; and\n\n(3) The sampling and evaluation procedures and criteria to be used.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 700) ss by #9367, eff 1-28-09; ss by #12349, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html"
+}

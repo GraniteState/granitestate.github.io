@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "definition": "Board of Landscape Architects",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lsa/100",
+    "https://granitestate.github.io/rules/lsa/200",
+    "https://granitestate.github.io/rules/lsa/300",
+    "https://granitestate.github.io/rules/lsa/400",
+    "https://granitestate.github.io/rules/lsa/500"
+  ],
+  "notation": "Lsa",
+  "prefLabel": "Lsa Board of Landscape Architects",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

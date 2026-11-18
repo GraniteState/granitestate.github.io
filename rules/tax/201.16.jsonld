@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.16",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "641:1",
+      "source": "https://granitestate.github.io/rsa/641/641-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "641:2",
+      "source": "https://granitestate.github.io/rsa/641/641-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "641:3",
+      "source": "https://granitestate.github.io/rsa/641/641-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/641/641-1",
+    "https://granitestate.github.io/rsa/641/641-2",
+    "https://granitestate.github.io/rsa/641/641-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Signed Documents",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.16 Signed Documents",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.16 Signed Documents.\n\n(a) Every document shall be signed by the party or the party's attorney, agent, or municipal consultant. The document shall include the signer's name, address, and telephone number.\n\n(b) The signature on a document, whether it is an original or a facsimile, shall constitute a certification:\n\n(1) That the signer has read the document;\n\n(2) That the facts in the document are true to the best of the signer's knowledge formed after reasonable inquiry;\n\n(3) That no pertinent facts have been excluded;\n\n(4) That the party's position on any request is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and\n\n(5) That the document is not submitted for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the litigation costs.\n\n(c) RSA 641:1, RSA 641:2, and RSA 641:3 shall apply to all submitted documents.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

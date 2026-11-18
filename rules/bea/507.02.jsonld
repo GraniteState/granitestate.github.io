@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/507.02",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O",
+      "source": "https://granitestate.github.io/rsa/12-O",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/507",
+  "definition": "Funding Allocation",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 507.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 507.02 Funding Allocation",
+  "recordType": "rule-section",
+  "ruleText": "Bea 507.02 Funding Allocation.\n\n(a) The department shall determine what amount or percentage of authorized available funding will be awarded through the HIM grant program, dependent upon program demand, needs, and available resources.\n\n(b) The department shall set an award cap per applicant or utilize a competitive application review and award process based on scoring criteria provided in Bea 507.05(i), (j), (k) and (l). A cap will be no higher than half the funding available at the start of an application round.\n\n(c) Applications that do not receive an award due to lack of funds, but were valid and would have been otherwise funded, shall be retained for subsequent application rounds.\n\n(d) Total allocation for future rounds shall be determined by the department based on available funding. Funding priorities for additional rounds shall be determined by the department based on the amount of funding available and how grant funding will best serve the goals of the HIM grant program.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

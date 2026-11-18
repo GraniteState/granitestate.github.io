@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1003.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1003",
+  "definition": "Calculation of Grant Awards",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1003.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1003.08 Calculation of Grant Awards",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1003.08 Calculation of Grant Awards.\n\n(a) The following definitions shall apply to the calculation of grant awards:\n\n(1) “Base rate” means the grant funding rate, in dollars per person;\n\n(2) “MI” means a funding multiplier of 1.00 applicable to Type I projects;\n\n(3) “MII” means a funding multiplier of 1.25 applicable to Type II projects;\n\n(4) “MIII” means a funding multiplier of 1.75 applicable to Type III projects;\n\n(5) “MIV” means a funding multiplier of 2.00 applicable to Type IV projects;\n\n(6) “PI” means the population to be served by all Type I projects in a given fiscal year;\n\n(7) “PII” means the population to be served by all Type II projects in a given fiscal year;\n\n(8) “PIII” means the population to be served by all Type III projects in a given fiscal year;\n\n(9) “PIV” means the population to be served by all Type IV projects in a given fiscal year; and\n\n(10) “Total grant funds available” means the amount of fund money made available for HHW collection projects in accordance with Env-Hw 1003.07(a).\n\n(b) Each year the department shall determine the values for PI, PII, PIII, and PIV, based on the applications approved for funding in accordance with Env-Hw 1003.06.\n\n(c) Each year, the department shall calculate the base rate by dividing the total grant funds available by the sum of all of the following, as expressed in the formula below:\n\n(1) MI multiplied by PI;\n\n(2) MII multiplied by PII;\n\n(3) MIII multiplied by PIII; and\n\n(4) MIV multiplied by PIV.\n\nBase Rate = Total Grant Funds Available / ((MI x PI) + (MII x PII) + (MIII x PIII) + (MIV x PIV))\n\n(d) The amount of a grant award for a specific HHW collection project shall be calculated by multiplying together all of the following:\n\n(1) The “base rate” as determined pursuant to (c), above;\n\n(2) The funding multiplier that corresponds to the project type, as specified in (a)(2) - (5), above; and\n\n(3) The population to be served by the project.\n\nSource. #12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

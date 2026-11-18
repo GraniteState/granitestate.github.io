@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "definition": "Board of Nursing (Formerly the Board of Nursing Education and Nurse Registration)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/100",
+    "https://granitestate.github.io/rules/nur/200",
+    "https://granitestate.github.io/rules/nur/300",
+    "https://granitestate.github.io/rules/nur/400",
+    "https://granitestate.github.io/rules/nur/500",
+    "https://granitestate.github.io/rules/nur/600",
+    "https://granitestate.github.io/rules/nur/700",
+    "https://granitestate.github.io/rules/nur/800"
+  ],
+  "notation": "Nur",
+  "prefLabel": "Nur Board of Nursing",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2601",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "417:4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2600",
+  "definition": "ADVERTISEMENTS OF ACCIDENT AND HEALTH INSURANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/2601.01",
+    "https://granitestate.github.io/rules/ins/2601.02",
+    "https://granitestate.github.io/rules/ins/2601.03",
+    "https://granitestate.github.io/rules/ins/2601.04",
+    "https://granitestate.github.io/rules/ins/2601.05",
+    "https://granitestate.github.io/rules/ins/2601.06",
+    "https://granitestate.github.io/rules/ins/2601.07",
+    "https://granitestate.github.io/rules/ins/2601.08",
+    "https://granitestate.github.io/rules/ins/2601.09",
+    "https://granitestate.github.io/rules/ins/2601.10",
+    "https://granitestate.github.io/rules/ins/2601.11",
+    "https://granitestate.github.io/rules/ins/2601.12",
+    "https://granitestate.github.io/rules/ins/2601.13",
+    "https://granitestate.github.io/rules/ins/2601.14",
+    "https://granitestate.github.io/rules/ins/2601.15",
+    "https://granitestate.github.io/rules/ins/2601.16",
+    "https://granitestate.github.io/rules/ins/2601.17",
+    "https://granitestate.github.io/rules/ins/2601.18",
+    "https://granitestate.github.io/rules/ins/2601.19",
+    "https://granitestate.github.io/rules/ins/2601.20"
+  ],
+  "notation": "Ins 2601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2600.html",
+  "prefLabel": "Ins 2601 ADVERTISEMENTS OF ACCIDENT AND HEALTH INSURANCE",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 2601 ADVERTISEMENTS OF ACCIDENT AND HEALTH INSURANCE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2600.html"
+}

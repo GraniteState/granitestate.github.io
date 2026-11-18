@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4009.01 Member Eligibility Data Tables</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4009.01.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4009.html">Ins 4009</a> / Ins 4009.01</nav>
+  <header>
+    <h1 id="section">Ins 4009.01 Member Eligibility Data Tables</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4009.01.html">Ins 4009.01</a> Member Eligibility Data Tables.
+
+<span id="a">(a)</span> Use Table 4009.07(a) to determine member eligibility file mapping and formatting.
+
+<span id="b">(b)</span> Member File Header Record Layout:
+
+Table 4009.01(b) Member File Header Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+HD001 | Record Type | Text | 2 | HD
+
+HD002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+HD003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+HD004 | Type of File | Text | 2 | ME Member Eligibility
+
+HD005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+HD006 | Period Ending Date | Number | 6 | End of paid period for claims or end of month covered for eligibility
+
+HD007 | Comments | Text | 80 | Submitter may use to document this submission by assigning a filename, system source, etc.
+
+<span id="c">(c)</span> Member File Trailer Record Layout:
+
+Table 4009.01(c) Member File Trailer Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+TR001 | Record Type | Text | 2 | TR
+
+TR002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+TR003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+TR004 | Type of File | Text | 2 | ME Member Eligibility
+
+TR005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+TR006 | Period Ending Date | Number | 6 | End of paid period for claims or beginning of month covered for eligibility
+
+TR007 | Extraction Date | Date | 8 | Date file was created
+
+TR008 | Record Count | Number | 10 (0) | Total number of records submitted in this file
+
+<span id="d">(d)</span> Member File Detailed Specification:
+
+Table 4009.01(d) Member File Detailed Specification
+
+Column Position | Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+1 | ME001 | Payer | Text | 8 | Payer submitting payments NHID Submitter Code
+
+2 | ME002 | National Plan ID | Text | 30 | CMS National Plan ID
+
+3 | ME003 | Insurance Type Code/Product | Text | 2 | See Table 4009.06(a) Insurance Type/Product Code
+
+4 | ME004 | Start Year | Number | 4 (0) | Year for which eligibility is reported in this submission. CCYY format
+
+5 | ME005 | Start Month | Number | 2 (0) | Month for which eligibility is reported in this submission. MM format. Leading zero is required for reporting January through September files
+
+6 | ME006 | Insured Group or Policy Number | Text | 50 | Group or policy number (not the number that uniquely identifies the subscriber)
+
+7 | ME007 | Coverage Level Code | Text | 3 | Benefit Coverage Level
+
+CHD Children Only
+
+DEP Dependents Only
+
+ECH Employee and Children
+
+EMP Employee Only
+
+ESP Employee and Spouse
+
+FAM Family
+
+IND Individual
+
+SPC Spouse and Children
+
+SPO Spouse Only
+
+8 | ME008 | Placeholder
+
+9 | ME009 | Plan Specific Contract Number | Text | 50 | Plan assigned contract number. If this is a Medicaid member, provide Medicaid ID Must match the ID in the corresponding claim file (MC008, PC008 and DC008)
+
+10 | ME010 | Member Suffix or Sequence Number | Text | 20 | Unique number of the member. This column is the unique identifying column for membership and related medical, pharmacy, and dental claims. Only 1 record per insurance product type, per eligibility month. Must match MC009, PC009 and DC009.
+
+11 | ME011 | Placeholder
+
+12 | ME012 | Individual Relationship Code | Text | 2 | See Table 4009.06(b) Relationship Codes
+
+13 | ME013 | Member Gender | Text | 1 | M Male
+
+F Female
+
+U Unknown
+
+O Other
+
+14 | ME014 | Member Date of Birth | Date | 8 | Date of birth of member
+
+15 | ME015 | Member City Name | Text | 30 | City name of member
+
+16 | ME016 | Member State or Province | Text | 2 | As defined by the US Postal Service
+
+17 | ME017 | Member ZIP Code | Text | 9 | ZIP Code of member – may include non- US codes. Do not include dash.
+
+18 | ME018 | Medical Coverage | Text | 1 | Y Yes
+
+N No
+
+19 | ME019 | Prescription Drug Coverage | Text | 1 | Y Yes, member has prescription drug coverage in the period defined with this payer
+
+N No, member does not have prescription drug coverage in the period defined with this payer
+
+20 | ME020 | Dental Coverage | Text | 1 | Y Yes, member has dental coverage in the period defined with this payer
+
+N No, member does not have dental coverage in the period defined with this payer
+
+21 | ME021 | Race 1 | Text | 6 | See Table 4009.06(c) Race 1/Race 2
+
+22 | ME022 | Race 2 | Text | 6 | See Table 4009.06(c) Race 1/Race 2
+
+23 | ME023 | Placeholder
+
+24 | ME024 | Hispanic Indicator | Text | 1 | Y Yes, member is Hispanic/Latino/Spanish
+
+N No, member is not Hispanic/Latino/Spanish
+
+U Unknown
+
+25 | ME025 | Ethnicity 1 | Text | 6 | See Table 4009.06(d): Ethnicity 1/ Ethnicity 2
+
+26 | ME026 | Ethnicity 2 | Text | 6 | See Table 4009.06(d): Ethnicity 1/ Ethnicity 2
+
+27 | ME027 | Placeholder | 20
+
+28 | ME028 | Primary Insurance Indicator | Text | 1 | Y: Yes, this is the member’s primary insurance
+
+N: No, this is not the member’s primary insurance
+
+29 | ME029 | Coverage Type | Text | 3 | ASW Self-funded plans that are administered by a third party administrator, where the employer has purchased stop-loss, or group excess insurance coverage
+
+ASO Self-funded plans that are administered by a third party administrator, where the employer has not purchased stop-loss, or group excess insurance coverage
+
+STN Short-term non-renewable health insurance, as defined pursuant to <a class="cite-internal" href="/rsa/415/415-5.html">RSA 415:5</a>, III
+
+MCD Medicaid
+
+MCR Medicare
+
+UND Plans underwritten by the carrier
+
+OTH Any other plan. Carriers and third-party administrators using this code shall obtain prior approval from the N.H. Insurance Department
+
+30 | ME030 | Market Category | Text | 4 | Three or four digit character code for identifying market category. Employer size is based on the number of eligible employees in the group as defined in <a class="cite-internal" href="/rules/ins/4100.html">Ins 4100</a>, (<a class="cite-internal" href="/rules/ins/4103.03.html#g">Ins 4103.03(g)</a>) for the Small Group market, <a class="cite-internal" href="/rules/ins/4104.03.html#i">INS 4104.03(i)</a> for the Large Group market)
+
+IND Policies sold and issued directly to individuals, other than those sold on a franchise basis, as defined pursuant to <a class="cite-internal" href="/rsa/415/415-19.html">RSA 415:19</a>, or as group conversion Policies as defined pursuant to RSA 415:18 VII(a)
+
+FCH Policies sold and issued directly to individuals on a franchise basis as defined pursuant to <a class="cite-internal" href="/rsa/415/415-19.html">RSA 415:19</a>
+
+GCV Policies sold and issued directly to individuals as group conversion Policies as required pursuant to RSA 415:18 VII(a)
+
+GS1 Policies sold and issued directly to employers having exactly one employee
+
+GS2 Policies sold and issued directly to employers having between 2 and 9 employees
+
+GS3 Policies sold and issued directly to employers having between 10 and 25 employees
+
+GS4 Policies sold and issued directly to employers having between 26 and 50 employees
+
+GLG1 Policies sold and issued directly to employers having between 51 and 99 employees
+
+GLG2 Policies sold and issued directly to employers having 100 or more employees
+
+GSA Policies sold and issued directly to small employers through a qualified association trust
+
+OTH Policies sold to other types of entities. Carriers and third-party administrators using this market code shall obtain prior approval from the NH Insurance Department
+
+BLC Policies sold and issued as blanket health insurance Policies to a common carrier
+
+BLE Policies sold and issued as blanket health insurance Policies to an employer
+
+BLV Policies sold and issued as blanket health insurance Policies to a volunteer fire department, first aid, or other such volunteer group
+
+BLS Policies sold and issued as blanket health insurance Policies to a sports team or a camp
+
+BLT Policies sold and issued as blanket health insurance Policies to a travel agency, or other organization that provides travel-related services
+
+BLU Policies sold and issued as blanket health insurance Policies to a university or college
+
+SLG Policies sold and issued as student major medical expense large group coverage to enrolled students at an accredited college, university, or other educational institution
+
+STS Policies sold and issued as group short term student health insurance
+
+SMG Policies sold and issued as student major medical group health insurance
+
+SNM Policies sold and issued as student group health insurance that is not major medical coverage
+
+SIM Policies sold and issued as student individual major medical health insurance
+
+SIN Policies sold and issued as student individual health insurance that is not major medical coverage
+
+31 | ME031 | NH Health Protection Program | Text | 4 | For enrollees in the New Hampshire Health Protection Program (NHHPP), indicate if enrollee is part of the Premium Assistance Program (PAP) or Health Insurance Premium Payment (HIPP). Leave blank if enrollee is not a member of the NHHPP
+
+32 | ME032 | Group Name | Text | 90 | Name of the group that the member is covered by. If the member is part of a group of one or non-group, indicate “I” for individual.
+
+33 | ME101 | Subscriber Last Name | Text | 60
+
+34 | ME102 | Subscriber First Name | Text | 35
+
+35 | ME103 | Subscriber Middle Initial | Text | 1
+
+36 | ME104 | Member Last Name | Text | 60
+
+37 | ME105 | Member First Name | Text | 35
+
+38 | ME106 | Member Middle Initial | Text | 1
+
+39 | Placeholder
+
+40 | ME203 | Member’s Assigned PCP | Text | 10U | National Provider ID of the member’s Primary Care Physician as designated by healthcare claims processor.
+
+41 | ME204 | HIOS Plan ID | Text | 16 | The 16 character HIOS Plan ID (Standard component). Including a five digit issuer ID, two character state ID, three digit product number, four digit standard component number and two digit variant component ID. This field may not be available for all market segments;
+
+42 | ME205 | Plan Effective Date | Date | 8 | For the plan reported in ME204, report the date eligibility started for this member under this plan type. The purpose of this data element is to maintain an eligibility span for each member.
+
+43 | ME206 | Minimum Value | Number | 3 (0) | For the plan reported in ME204, report the Minimum Value as described in Part <a class="cite-internal" href="/rules/ins/4008.02.html#k">Ins 4008.02(k)</a>. This is reported as a percentage.
+
+44 | ME207 | Exchange Indicator | Text | 1 | The plan reported in ME204 was available on the Exchange Marketplace in the month and year reflected in ME004 and ME005
+
+Y: Yes
+
+N: No
+
+U: Unknown
+
+45 | ME208 | High deductible health plan | Text | 1 | The plan reported in ME204 meets the IRS definition of a HDHP
+
+Y: Yes
+
+N: No
+
+U: Unknown
+
+46 | ME209 | Active enrollment | Text | 1 | The plan reported in ME204 was open for enrollment in the year and month reflected in ME004 and ME005
+
+Y: Yes
+
+N: No
+
+47 | ME210 | New Coverage | Text | 1 | The plan reported in ME204 was being offered for the first time in the reporting year reflected in ME004
+
+Y: Yes
+
+N: No
+
+48 | ME211 | Placeholder
+
+49 | ME899 | Record Type | Text | 2 | ME
+
+50 | ME900 | Plan State | Text | 2 | State in which the plan is sold or used. State codes are maintained by the US Postal Service
+
+51 | ME901 | Advanced Premium Tax Credit | Number | 2(2) | Dollar value of Advanced Premium Tax Credit (APTC) subsidy
+
+52 | ME902 | NAIC Number | Text | 5 | Number that the National Association of Insurance Commissioners (NAIC) assigns to each individual underwriting company.
+
+53 | ME903 | Grandfather Plan indicator | Text | 1 | Indicates if a plan qualifies as a “Grandfathered” or “Transitional Plan” under the Affordable Care Act (ACA). Please see definition for “grandfathered” and “transitional” in HHS rules 45-CFR-147.140: https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-B/part-147/section-147.140 The values of the indicator are as follows: 1= Grandfathered; 2 = Non-Grandfathered; 3 =Transitional; 4 = Not Applicable
+
+54 | ME904 | Metal Level | Text | 10 | The metal representation of the plan reported in ME204 on the Exchange Marketplace
+
+Source. #10877, eff 7-10-15; ss by #13136, eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4010.01)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4009.01.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

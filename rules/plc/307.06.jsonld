@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/307.06",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/307",
+  "definition": "Inactive Status for Reserve Military Called to Active Duty",
+  "effectiveDate": "2024-05-03",
+  "historyNote": "#13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 307.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 307.06 Inactive Status for Reserve Military Called to Active Duty",
+  "recordType": "rule-section",
+  "ruleText": "Plc 307.06 Inactive Status for Reserve Military Called to Active Duty.\n\n(a) As provided in RSA 310:8, V, the OPLC shall place the license of a licensee who is a member of any reserve component of the armed forces of the United States or the national guard and is called to active duty on inactive status at the request of the licensee.\n\n(b) To request inactive status under this section, the licensee shall submit a completed “Request for Inactive Status - Military Activation” form dated March 2024 to CustomerSupport@oplc.nh.gov that contains the following information:\n\n(1) The licensee’s name as it appears on the license, license number, and profession;\n\n(2) Whether the licensee is in the national guard or is in a reserve component of the U.S. armed forces, and if the latter, which component;\n\n(3) The applicant’s social security number, as required by RSA 161-B:11, VI-a and 42 U.S.C. 666(a)(13);\n\n(4) The date the licensee is required to report for active duty;\n\n(5) If known, the estimated duration of active duty.\n\n(c) The licensee shall sign and date the request prior to submitting it to the OPLC.\n\n(d) The OPLC shall confirm that the license has been placed on inactive status in writing by email sent to the licensee’s designated email address.\n\nSource. #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/1000",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "276-A:8",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lab",
+  "definition": "YOUTH EMPLOYMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/1001",
+    "https://granitestate.github.io/rules/lab/1002",
+    "https://granitestate.github.io/rules/lab/1003",
+    "https://granitestate.github.io/rules/lab/1004"
+  ],
+  "notation": "Lab 1000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1000.html",
+  "prefLabel": "Lab 1000 YOUTH EMPLOYMENT",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Lab 1000 YOUTH EMPLOYMENT\n\nStatutory Authority: RSA 276-A:8\n\nREVISION NOTE:\n\nDocument #5492, eff 10-20-92 made extensive changes to the wording, format, structure, and numbering of rules in Chapter Lab 1000. The prior filings for former Chapter Lab 1000 include the following documents:\n\n#1537, eff 2-20-80\n\n#2515, eff 10-25-93\n\n#4018, eff 3-21-86, EXPIRED: 3-21-92",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1000.html"
+}

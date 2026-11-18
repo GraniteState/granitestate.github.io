@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/702",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/700",
+  "definition": "GENERAL REQUIREMENTS FOR FACILITY OPERATORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/702.01",
+    "https://granitestate.github.io/rules/env-hw/702.02",
+    "https://granitestate.github.io/rules/env-hw/702.03",
+    "https://granitestate.github.io/rules/env-hw/702.04",
+    "https://granitestate.github.io/rules/env-hw/702.05",
+    "https://granitestate.github.io/rules/env-hw/702.06",
+    "https://granitestate.github.io/rules/env-hw/702.07",
+    "https://granitestate.github.io/rules/env-hw/702.08",
+    "https://granitestate.github.io/rules/env-hw/702.09",
+    "https://granitestate.github.io/rules/env-hw/702.10",
+    "https://granitestate.github.io/rules/env-hw/702.11",
+    "https://granitestate.github.io/rules/env-hw/702.12",
+    "https://granitestate.github.io/rules/env-hw/702.13"
+  ],
+  "notation": "Env-Hw 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html",
+  "prefLabel": "Env-Hw 702 GENERAL REQUIREMENTS FOR FACILITY OPERATORS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 702 GENERAL REQUIREMENTS FOR FACILITY OPERATORS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw700.html"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "definition": "Naturopathic Board of Examiners (See RSA 328-E:10.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nat/100",
+    "https://granitestate.github.io/rules/nat/200",
+    "https://granitestate.github.io/rules/nat/300",
+    "https://granitestate.github.io/rules/nat/400",
+    "https://granitestate.github.io/rules/nat/500",
+    "https://granitestate.github.io/rules/nat/600",
+    "https://granitestate.github.io/rules/nat/700"
+  ],
+  "notation": "Nat",
+  "prefLabel": "Nat Naturopathic Board of Examiners",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

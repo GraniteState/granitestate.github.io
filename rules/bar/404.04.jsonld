@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/404.04",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "altLabel": "Who May Be Fined",
+  "authority": [
+    {
+      "citation": "313-A:7",
+      "paragraphs": [
+        "XVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:19",
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/404",
+  "definition": "Who May be Fined",
+  "effectiveDate": "2021-05-13",
+  "historyNote": "#6577, eff 9-13-97 (formerly Bar 503.01); ss by #7323, eff 7-26-00; ss by #9221, INTERIM, eff 7-30-08, ss by #9345, eff 12-10-08; ss by #10808, eff 4-2-15; ss by #13205, eff 5-13-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 404.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 404.04 Who May be Fined",
+  "recordType": "rule-section",
+  "ruleText": "Bar 404.04 Who May be Fined.\n\n(a) Fines shall be imposed upon any licensee who violated the provisions of RSA 313-A. Fines pursuant to Bar 404 shall be imposed for each offense upon the licensee who violates the provision of RSA 313-A or the administrative rules of the board. Fines shall be assessed to the shop owner where the violations occur.\n\n(b) Administrative fines shall be determined by the number of points the licensee has accumulated during that inspection. Points shall be issued as outlined in Bar 404.08, 404.09 and 404.10.\n\nSource. #6577, eff 9-13-97 (formerly Bar 503.01); ss by #7323, eff 7-26-00; ss by #9221, INTERIM, eff 7-30-08, ss by #9345, eff 12-10-08; ss by #10808, eff 4-2-15; ss by #13205, eff 5-13-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

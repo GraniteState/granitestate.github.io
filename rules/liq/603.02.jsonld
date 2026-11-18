@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/603.02",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "126-K",
+      "source": "https://granitestate.github.io/rsa/126-K",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:57",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-K",
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/603",
+  "definition": "Administrative Penalties",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "(See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 603.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 603.02 Administrative Penalties",
+  "recordType": "rule-section",
+  "ruleText": "Liq 603.02 Administrative Penalties. The penalties shall be as provided in Liq 602.01(a).\n\nSource. (See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

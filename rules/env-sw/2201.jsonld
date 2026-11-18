@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2201",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-R",
+      "source": "https://granitestate.github.io/rsa/149-R",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "149-R:2",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "149-R:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-R:6",
+      "source": "https://granitestate.github.io/rsa/149-R/149-R-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-R",
+    "https://granitestate.github.io/rsa/149-R/149-R-4",
+    "https://granitestate.github.io/rsa/149-R/149-R-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2200",
+  "definition": "SOLID WASTE MANAGEMENT FUND: PURPOSE AND DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/2201.01",
+    "https://granitestate.github.io/rules/env-sw/2201.02"
+  ],
+  "notation": "Env-Sw 2201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html",
+  "prefLabel": "Env-Sw 2201 SOLID WASTE MANAGEMENT FUND: PURPOSE AND DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 2201 SOLID WASTE MANAGEMENT FUND: PURPOSE AND DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2200.html"
+}

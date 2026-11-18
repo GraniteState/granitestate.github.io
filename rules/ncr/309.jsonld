@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/309",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "altLabel": "AGREEMENTS AND ACQUISTION OF REAL PROPERTY",
+  "authority": [
+    {
+      "citation": "217-A:6",
+      "paragraphs": [
+        "I",
+        "II",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/300",
+  "definition": "AGREEMENTS AND ACQUISITION OF REAL PROPERTY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/309.01",
+    "https://granitestate.github.io/rules/ncr/309.02"
+  ],
+  "notation": "Ncr 309",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html",
+  "prefLabel": "Ncr 309 AGREEMENTS AND ACQUISITION OF REAL PROPERTY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 309 AGREEMENTS AND ACQUISITION OF REAL PROPERTY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html"
+}

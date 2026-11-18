@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.56",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Low Vapor Pressure VOC (LVP-VOC)",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "Low vapor pressure VOC (LVP-VOC)",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4103.57)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.56",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.56 Low vapor pressure VOC (LVP-VOC)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.56 “Low vapor pressure VOC (LVP-VOC)” means a chemical compound or mixture that contains at least one carbon atom and meets one of the following:\n\n(a) Has a vapor pressure less than 0.1 mm Hg at 20oC, as determined by California Air Resources Board (CARB) Method 310;\n\n(b) Is a chemical compound with more than 12 carbon atoms, or a chemical mixture comprised solely of compounds with more than 12 carbon atoms and the vapor pressure is unknown;\n\n(c) Is a chemical compound with a boiling point greater than 216oC, as determined by CARB Method 310; or\n\n(d) Is the weight percent of a chemical mixture that boils above 216o C, as determined by CARB Method 310.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4103.57)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

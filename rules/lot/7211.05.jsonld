@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7211.05",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:22",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7211",
+  "definition": "Recurring Vulnerability Scans",
+  "effectiveDate": "2026-02-04",
+  "expirationDate": "2036-02-04",
+  "historyNote": "#14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7211.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7211.05 Recurring Vulnerability Scans",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7211.05 Recurring Vulnerability Scans.\n\n(a) Vulnerability scans shall be used to test and identify the vulnerabilities of internal network devices, applications, and network perimeter defenses, as well as adherence to security plans and standards.\n\n(b) The GOE shall:\n\n(1) Run internal and external network vulnerability scans at least quarterly and after any critical changes within the GPE; and\n\n(2) Submit verification of completion of the vulnerability scan to the commission and include a remediation plan and any risk mitigation plans for detected vulnerabilities not able to be resolved.\n\nSource. #14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

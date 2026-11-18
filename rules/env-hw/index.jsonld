@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "definition": "Hazardous Waste Programs",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/100",
+    "https://granitestate.github.io/rules/env-hw/200",
+    "https://granitestate.github.io/rules/env-hw/300",
+    "https://granitestate.github.io/rules/env-hw/400",
+    "https://granitestate.github.io/rules/env-hw/500",
+    "https://granitestate.github.io/rules/env-hw/600",
+    "https://granitestate.github.io/rules/env-hw/700",
+    "https://granitestate.github.io/rules/env-hw/800",
+    "https://granitestate.github.io/rules/env-hw/900",
+    "https://granitestate.github.io/rules/env-hw/1000",
+    "https://granitestate.github.io/rules/env-hw/1100",
+    "https://granitestate.github.io/rules/env-hw/1200",
+    "https://granitestate.github.io/rules/env-hw/1300",
+    "https://granitestate.github.io/rules/env-hw/1400"
+  ],
+  "notation": "Env-Hw",
+  "prefLabel": "Env-Hw Hazardous Waste Programs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

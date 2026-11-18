@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/601.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:12",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/601",
+  "definition": "Compliance Required; Designation of Agent Allowed",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 601.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 601.03 Compliance Required; Designation of Agent Allowed",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 601.03 Compliance Required; Designation of Agent Allowed.\n\n(a) The owner or operator of a stationary source, area source, or device shall comply with applicable statutory requirements in RSA 125-C and the requirements of this chapter relative to applying for, obtaining, and maintaining a permit.\n\n(b) The owner or operator may designate an agent to act as an applicant in order to comply with any application requirements found in this chapter.\n\nSource. #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/104.01",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/par/104",
+  "definition": "Existence of Parole Records",
+  "effectiveDate": "2017-04-07",
+  "historyNote": "#7148, eff 12-7-99 (from Par 103.01); ss by #12157, eff 4-7-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Par 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 104.01 Existence of Parole Records",
+  "recordType": "rule-section",
+  "ruleText": "Par 104.01 Existence of Parole Records. Complete records shall be kept on all parolees subject to the board’s supervision. A verbatim recording shall be made of all hearings. Those recordings shall be retained by the executive assistant for one year following the issuance of the board’s decision, and after such period they shall be destroyed. All requests for information concerning the board’s procedures or proceedings, and all submissions or other requests, shall be directed to the:\n\nExecutive Assistant\n\nAdult Parole Board\n\nPO Box 14\n\nConcord, NH 03302-0014\n\n(603) 271-2569\n\nSource. #7148, eff 12-7-99 (from Par 103.01); ss by #12157, eff 4-7-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

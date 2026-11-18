@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.18",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Letter of Concern",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Letter of concern",
+  "effectiveDate": "2017-12-06",
+  "historyNote": "#12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.15)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.18 Letter of concern",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.18 “Letter of concern” means a written letter from the board drawing the licensee’s attention to specific acts or omissions that could place the licensee at risk of future disciplinary action. A letter of concern is non-disciplinary and is sent to the licensee following a communication of alleged misconduct, complaint, or investigation.\n\nSource. #12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.15)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

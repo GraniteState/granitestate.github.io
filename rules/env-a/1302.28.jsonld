@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1302.28",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Manufacturing Process",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1302",
+  "definition": "Manufacturing process",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1302.27)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1302.28",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1302.28 Manufacturing process",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1302.28 “Manufacturing process” means any process directly related to the manufacturing of intermediate or finished goods or supplies, or any combination thereof, whose operations result in pollutant emissions to the ambient air from process or manufacturing equipment or machinery directly or through exhaust or ventilating systems, including elevated stacks.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1302.27)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

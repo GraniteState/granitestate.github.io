@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1002.11",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1002",
+  "definition": "Violations",
+  "effectiveDate": "2016-10-22",
+  "historyNote": "#12007, eff 10-22-16 (formerly Ph 309.14)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1002.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1002.11 Violations",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1002.11 Violations.\n\n(a) No manufacturer or wholesaler shall distribute prescription drugs directly to a consumer or a patient, or operate in such a manner as to endanger the public health.\n\n(b) Any person who manufactures, wholesales, or otherwise distributes prescription drugs, according to RSA 318:51-a and the provisions of Ph 1000, shall be subject to disciplinary action as provided in RSA 318:29.\n\nSource. #12007, eff 10-22-16 (formerly Ph 309.14)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/305.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/305",
+  "definition": "Secondary Containment for AST Piping Systems",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 305.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html",
+  "prefLabel": "Env-Or 305.09 Secondary Containment for AST Piping Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 305.09 Secondary Containment for AST Piping Systems.\n\n(a) All underground piping that is part of an AST piping system shall have secondary containment that is:\n\n(1) Double-wall piping meeting the requirements of Env-Or 305.04; or\n\n(2) An engineered piping trench system.\n\n(b) All AST piping system components that extend over the surface waters of the state that are not regulated by the U.S. Coast Guard pursuant to 33 CFR 154 shall have double-wall piping as secondary containment.\n\n(c) Any AST piping system with secondary containment shall be continuously pitched to direct any leakage from the primary piping to a liquid-tight containment sump that has leak monitoring as specified in Env-Or 305.12(d).\n\n(d) Each AST dispenser attached to an AST system that is supplied by underground or over-water piping shall be equipped with a liquid-tight containment sump that has leak monitoring as specified in Env-Or 305.12(d).\n\nSource. (See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html"
+}

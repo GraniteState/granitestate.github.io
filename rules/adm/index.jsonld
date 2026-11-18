@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "definition": "Commissioner, Department of Administrative Services www.state.nh.us/das",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/100",
+    "https://granitestate.github.io/rules/adm/200",
+    "https://granitestate.github.io/rules/adm/500",
+    "https://granitestate.github.io/rules/adm/600",
+    "https://granitestate.github.io/rules/adm/700",
+    "https://granitestate.github.io/rules/adm/800",
+    "https://granitestate.github.io/rules/adm/1000"
+  ],
+  "notation": "Adm",
+  "prefLabel": "Adm Commissioner, Department of Administrative Services www.state.nh.us/das",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/601",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "328-D:10",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/med/600",
+  "definition": "CHAPTER DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/med/601.01",
+    "https://granitestate.github.io/rules/med/601.02",
+    "https://granitestate.github.io/rules/med/601.03",
+    "https://granitestate.github.io/rules/med/601.04",
+    "https://granitestate.github.io/rules/med/601.05",
+    "https://granitestate.github.io/rules/med/601.06",
+    "https://granitestate.github.io/rules/med/601.07"
+  ],
+  "notation": "Med 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 601 CHAPTER DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Med 601 CHAPTER DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

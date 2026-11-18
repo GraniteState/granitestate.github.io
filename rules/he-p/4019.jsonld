@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4019",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II",
+        "IV",
+        "V"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4000",
+  "definition": "NOTICES, INSTRUCTIONS, AND REPORTS TO WORKERS; INSPECTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/4019.01",
+    "https://granitestate.github.io/rules/he-p/4019.02",
+    "https://granitestate.github.io/rules/he-p/4019.03",
+    "https://granitestate.github.io/rules/he-p/4019.04",
+    "https://granitestate.github.io/rules/he-p/4019.05",
+    "https://granitestate.github.io/rules/he-p/4019.06",
+    "https://granitestate.github.io/rules/he-p/4019.07",
+    "https://granitestate.github.io/rules/he-p/4019.08",
+    "https://granitestate.github.io/rules/he-p/4019.09"
+  ],
+  "notation": "He-P 4019",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html",
+  "prefLabel": "He-P 4019 NOTICES, INSTRUCTIONS, AND REPORTS TO WORKERS; INSPECTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 4019 NOTICES, INSTRUCTIONS, AND REPORTS TO WORKERS; INSPECTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html"
+}

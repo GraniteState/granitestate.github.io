@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1805.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:32",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1805",
+  "definition": "Availability of Certificate of Compliance",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.01); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1805.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html",
+  "prefLabel": "Env-Sw 1805.01 Availability of Certificate of Compliance",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1805.01 Availability of Certificate of Compliance.\n\n(a) Certificates of compliance shall be made available as prescribed by RSA 149-M:36, I.\n\n(b) If a supplier is unable to obtain a certificate of compliance from a manufacturer of a package or packaging component but has sufficient information to prepare the certificate, the supplier shall prepare the certificate based on that information.\n\n(c) If a supplier is unable to obtain a certificate of compliance from a manufacturer of a package or packaging component and does not have sufficient information to prepare the certificate, the supplier shall not be guilty of a failure to provide the certificate if the supplier has notified the department in accordance with (e) below that the certificate is unavailable from the manufacturer.\n\n(d) If a purchaser is unable to obtain a certificate of compliance from a manufacturer or supplier of a package or packaging component, the purchaser shall not be liable for failure to retain the certificate as required by RSA 149-M:36, I, if the purchaser has notified the department in accordance with (e) below that the certificate is unavailable from the manufacturer or supplier.\n\n(e) Notification under (c) or (d) above shall:\n\n(1) Be in writing; and\n\n(2) Include the following:\n\na. The name, address, and telephone number of the person filing the notification;\n\nb. The type of package or packaging component for which a certificate cannot be obtained;\n\nc. The name(s) and address(es) and, if available, the telephone number(s) of the manufacturer of the package or packaging component;\n\nd. If the notice is filed pursuant to (d) above, the name(s) and address(es) and, if available, the telephone number(s) of the supplier(s) of the package or packaging component; and\n\ne. A brief summary of the attempts made to obtain the certificate.\n\n(f) No person shall be held responsible for erroneous information in a certificate of compliance if all of the following are true:\n\n(1) The person is not the manufacturer of the package or packaging component;\n\n(2) The person did not prepare the certificate;\n\n(3) The person did not have any reason to believe the information in the certificate was erroneous; and\n\n(4) The person in good faith believed the information in the certificate to be true.\n\nSource. #7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.01); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html"
+}

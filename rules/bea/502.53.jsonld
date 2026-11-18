@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.53",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Wastewater Treatment Plant",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:2",
+      "paragraphs": [
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/485-A/485-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Wastewater treatment plant",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.53",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.53 Wastewater treatment plant",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.53 “Wastewater treatment plant” means “wastewater treatment plant,” as defined in RSA 485-A:2, XVI-a, namely “the treatment facility or group of treatment devices which treats domestic or combined domestic and industrial wastewater through alteration, alone or in combination, of the physical, chemical, or bacteriological quality of the wastewater and which dewaters and handles sludge removed from the wastewater.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

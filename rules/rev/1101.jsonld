@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1101",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21-J:34",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-34",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17",
+    "https://granitestate.github.io/rsa/21-J/21-J-34"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/1101.01",
+    "https://granitestate.github.io/rules/rev/1101.02",
+    "https://granitestate.github.io/rules/rev/1101.03",
+    "https://granitestate.github.io/rules/rev/1101.04",
+    "https://granitestate.github.io/rules/rev/1101.05",
+    "https://granitestate.github.io/rules/rev/1101.06",
+    "https://granitestate.github.io/rules/rev/1101.07",
+    "https://granitestate.github.io/rules/rev/1101.08",
+    "https://granitestate.github.io/rules/rev/1101.09",
+    "https://granitestate.github.io/rules/rev/1101.10",
+    "https://granitestate.github.io/rules/rev/1101.11",
+    "https://granitestate.github.io/rules/rev/1101.12",
+    "https://granitestate.github.io/rules/rev/1101.13",
+    "https://granitestate.github.io/rules/rev/1101.14",
+    "https://granitestate.github.io/rules/rev/1101.15",
+    "https://granitestate.github.io/rules/rev/1101.16",
+    "https://granitestate.github.io/rules/rev/1101.17",
+    "https://granitestate.github.io/rules/rev/1101.18",
+    "https://granitestate.github.io/rules/rev/1101.19",
+    "https://granitestate.github.io/rules/rev/1101.20"
+  ],
+  "notation": "Rev 1101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html",
+  "prefLabel": "Rev 1101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 1101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html"
+}

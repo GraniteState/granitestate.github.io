@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.08",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "When Electronic Signatures Are Required",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.08 When Electronic Signatures Are Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.08 When Electronic Signatures Are Required.\n\n(a) An electronic document to be transmitted using the NHEDRS shall bear a signatory’s valid electronic signature if the document in paper format would require the handwritten signature of a duly-authorized representative of the reporter prior to submittal.\n\n(b) If a document in paper format would not require the handwritten signature of a duly-authorized representative of the reporter prior to submittal, no electronic signature shall be required to transmit the corresponding electronic document.\n\n(c) For each electronic document received, the NHEDRS shall provide to the signatory, via email, a receipt that identifies the electronic document received and the date and time of receipt.\n\n(d) If the signatory does not receive a receipt pursuant to (c), above, the signatory shall notify the NHEDRS contact of such non-receipt within 5 business days of transmitting the electronic document.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

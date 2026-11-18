@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1802.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Assessing Professions",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1802",
+  "definition": "Assessing professions",
+  "effectiveDate": "2025-09-22",
+  "expirationDate": "2035-09-22",
+  "historyNote": "#14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1802.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html",
+  "prefLabel": "Plc 1802.07 Assessing professions",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1802.07 “Assessing professions” means the professions regulated under RSA 310-C and listed in RSA 310-C:4, I, namely building measurer and listers, assessor assistants, assessors, and assessor supervisors.\n\nSource. #14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/303.03",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:125",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-125",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-125"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/303",
+  "definition": "Exemption from Examinations",
+  "effectiveDate": "2017-03-24",
+  "historyNote": "#7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Geo 303.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 303.03 Exemption from Examinations",
+  "recordType": "rule-section",
+  "ruleText": "Geo 303.03 Exemption from Examinations. Pursuant to RSA 310-A:131, I, no examination shall be required for professional geologist candidates who are licensed by reciprocity provided the other state’s licensing requirements are substantially equivalent to or more stringent than those of this state, as determined by the board after reviewing the application.\n\nSource. #7526, eff 7-1-01; ss by #9439, eff 3-25-09; ss by #12152, eff 3-24-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

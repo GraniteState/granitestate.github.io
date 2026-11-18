@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4702.09",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:4-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4702",
+  "definition": "Claim Settlement",
+  "effectiveDate": "2024-05-29",
+  "historyNote": "#10681, eff 11-3-14; ss by #13989, eff 5-29-24 (formerly Ins 4702.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4702.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html",
+  "prefLabel": "Ins 4702.09 Claim Settlement",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4702.09 Claim Settlement. Individual accident and health travel insurance claims shall be subject to Ins 1001 on claim settlements.\n\nSource. #10681, eff 11-3-14; ss by #13989, eff 5-29-24 (formerly Ins 4702.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html"
+}

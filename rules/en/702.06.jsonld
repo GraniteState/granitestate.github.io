@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/702.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Septic Pumping",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362",
+      "source": "https://granitestate.github.io/rsa/362",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/702",
+  "definition": "Septic pumping",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13912, eff 3-21-24 (see Revision Note at chapter heading for En 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 702.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en700.html",
+  "prefLabel": "En 702.06 Septic pumping",
+  "recordType": "rule-section",
+  "ruleText": "En 702.06 \"Septic pumping\" means the removal of sludge and scum from a septic or holding tank system for transport to appropriate disposal facilities.\n\nSource. #13912, eff 3-21-24 (see Revision Note at chapter heading for En 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en700.html"
+}

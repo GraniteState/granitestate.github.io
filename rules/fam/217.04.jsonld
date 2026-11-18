@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fam/217.04",
+  "@type": "Concept",
+  "agencyCode": "Fam",
+  "authority": [
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/fam/217",
+  "definition": "Media Access",
+  "effectiveDate": "2018-10-02",
+  "historyNote": "#8369, eff 6-7-05; ss by #9668, eff 4-2-10 (formerly Mar 214.04); ss by #12633, eff 10-2-18 (formerly Fam 216.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fam 217.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html",
+  "prefLabel": "Fam 217.04 Media Access",
+  "recordType": "rule-section",
+  "ruleText": "Fam 217.04 Media Access. Public comment hearings on proposed rules shall be open to print and electronic media, subject to the following limitations when such limitations are necessary to allow a hearing to go forward:\n\n(a) Limitation on the placement of cameras to specific locations within the hearing room; or\n\n(b) Prohibition of interviews conducted within the hearing room before or during the hearing.\n\nSource. #8369, eff 6-7-05; ss by #9668, eff 4-2-10 (formerly Mar 214.04); ss by #12633, eff 10-2-18 (formerly Fam 216.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html"
+}

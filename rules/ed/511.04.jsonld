@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/511.04",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "altLabel": "Status of a Credential Pending Completion of Disciplinary Proceeding",
+  "authority": [
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189",
+      "source": "https://granitestate.github.io/rsa/189",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189:13-a",
+      "source": "https://granitestate.github.io/rsa/189/189-13-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189:13-b",
+      "source": "https://granitestate.github.io/rsa/189/189-13-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-11",
+    "https://granitestate.github.io/rsa/189",
+    "https://granitestate.github.io/rsa/189/189-13-a",
+    "https://granitestate.github.io/rsa/189/189-13-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/511",
+  "definition": "Disciplinary Hearings",
+  "effectiveDate": "2024-06-14",
+  "historyNote": "#2055, eff 6-16-82; ss by #2714, eff 5-16-84; ss by #4851, eff 6-25-90; EXPIRED: 6-25-96 New. #6349, eff 10-5-96; EXPIRED: 10-5-04 New. #8194, eff 10-26-04; ss by #10089, eff 2-23-12; ss and renumbered by #12661, eff 11-9-18 (formerly Ed 510.02) (see Revision Note at part heading for Ed 511); ss by #13999, eff 6-14-24 (formerly Ed 511.03) (see Revision Note at chapter heading for Ed 500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 511.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html",
+  "prefLabel": "Ed 511.04 Disciplinary Hearings",
+  "priorExpiration": "2004-10-05",
+  "recordType": "rule-section",
+  "ruleText": "Ed 511.04 Disciplinary Hearings.\n\n(a) A credential holder shall have 15 days from the receipt of the written proposed discipline to do one of the following:\n\n(1) Accept the proposed discipline by signing and returning to the department the proposed discipline letter; or\n\n(2) If the credential holder does not agree with the proposed disciplinary finding, request in writing to the department an adjudicatory hearing, which shall commence pursuant to Ed 200.\n\n(b) If after 15 days the credential holder has not completed one of the actions in (a) above, the department shall impose the proposed discipline.\n\n(c) The credential holder may file for an appeal pursuant to Ed 213.\n\nSource. #2055, eff 6-16-82; ss by #2714, eff 5-16-84; ss by #4851, eff 6-25-90; EXPIRED: 6-25-96\n\nNew. #6349, eff 10-5-96; EXPIRED: 10-5-04\n\nNew. #8194, eff 10-26-04; ss by #10089, eff 2-23-12; ss and renumbered by #12661, eff 11-9-18 (formerly Ed 510.02) (see Revision Note at part heading for Ed 511); ss by #13999, eff 6-14-24 (formerly Ed 511.03) (see Revision Note at chapter heading for Ed 500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/303.01",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "210",
+      "source": "https://granitestate.github.io/rsa/210",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "210:17",
+      "via": "appendix"
+    },
+    {
+      "citation": "210:23",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/210"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/303",
+  "definition": "Definitions",
+  "effectiveDate": "2018-07-25",
+  "historyNote": "#4155, eff 10-31-86; ss by #4858, eff 7-5-90, EXPIRED: 7-5-96 New. #6292, eff 7-20-96; ss by #8085, eff 5-26-04; ss by #10037, eff 11-29-11; ss by #10619, eff 6-2-14; ss by #12591, eff 7-25-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html",
+  "prefLabel": "Fis 303.01 Definitions",
+  "priorExpiration": "1996-07-05",
+  "recordType": "rule-section",
+  "ruleText": "Fis 303.01 Definitions.\n\n(a) \"Snare\" means a device made of wire, synthetic cord, or other material that is in the form of a noose with a slipknot, stop, swivel, or, eyelet holes and is designed or set with the intent of capturing an animal by the neck, leg or body. Snares include but are not limited to pole snare, neck snare and foot snare such as an Aldrich or Novack snare.\n\n(b) “Body gripping trap” means a trap, excluding snares, designed and constructed to hold an animal by the body.\n\nSource. #4155, eff 10-31-86; ss by #4858, eff 7-5-90, EXPIRED: 7-5-96\n\nNew. #6292, eff 7-20-96; ss by #8085, eff 5-26-04; ss by #10037, eff 11-29-11; ss by #10619, eff 6-2-14; ss by #12591, eff 7-25-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html"
+}

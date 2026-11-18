@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wc/102.12",
+  "@type": "Concept",
+  "agencyCode": "Env-WC",
+  "authority": [
+    {
+      "citation": "21-O:7",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-7",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wc/102",
+  "definition": "Person",
+  "effectiveDate": "2007-09-14",
+  "historyNote": "#8976, eff 9-14-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WC 102.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wc100.html",
+  "prefLabel": "Env-WC 102.12 Person",
+  "recordType": "rule-section",
+  "ruleText": "Env-WC 102.12 “Person” means:\n\n(a) For the purpose of general proceedings, any individual, partnership, joint venture, association, corporation, trust, agency, private or municipal corporation, any political subdivision of the state or of the United States, or any other private entity, governmental entity, including the division, or quasi-governmental entity; or\n\n(b) For the purpose of an appeal of a decision under a specific statute, “person” as defined by that statute.\n\nSource. #8976, eff 9-14-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wc100.html"
+}

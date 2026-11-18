@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/403.13",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "212:19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/403",
+  "definition": "Salmon (Salmo salar)",
+  "effectiveDate": "2025-10-22",
+  "expirationDate": "2035-10-22",
+  "historyNote": "#14418, eff 10-22-25, EXPIRES: 10-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 403.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis400.html",
+  "prefLabel": "Fis 403.13 Salmon (Salmo salar)",
+  "recordType": "rule-section",
+  "ruleText": "Fis 403.13 Salmon (Salmo salar). The daily limit for salmon taken in freshwaters of the state shall not exceed 2 fish whether taken from a single waterbody or several waterbodies. More restrictive limits specified in Parts Fis 406 and Fis 407 shall apply to specific waterbodies.\n\nSource. #14418, eff 10-22-25, EXPIRES: 10-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis400.html"
+}

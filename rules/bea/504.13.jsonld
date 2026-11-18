@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/504.13",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/504",
+  "definition": "Expiration and Renewal",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 504.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 504.13 Expiration and Renewal",
+  "recordType": "rule-section",
+  "ruleText": "Bea 504.13 Expiration and Renewal.\n\n(a) A New Hampshire HC designation shall be valid for 3 years from the date such designation is made.\n\n(b) A municipality may seek renewal of its New Hampshire HC designation for subsequent 3-year periods.\n\n(c) A municipality seeking to renew their New Hampshire HC designation shall submit a renewal application which shall include relevant information outlined in Bea 504.11(a), as well as the following information:\n\n(1) Any changes from the initial HC application including the substitution or addition of any new qualifications necessary for HC designation as detailed in Bea 504.05 through Bea 504.10;\n\n(2) Explanation as to how specific qualifications detailed in the initial HC application have resulted in additional permitting and production of workforce housing and other types of housing necessary for the economic development of the state;\n\n(3) Identification of additional improvements or steps taken that resulted in an increase from the municipality’s previous HC designation application score; and\n\n(4) Any additional information the department deems necessary to evaluate a municipality’s continued eligibility for HC designation.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

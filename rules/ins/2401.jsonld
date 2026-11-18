@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2401",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "410:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "410:13",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2400",
+  "definition": "GUIDELINES AND STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/2401.01",
+    "https://granitestate.github.io/rules/ins/2401.02",
+    "https://granitestate.github.io/rules/ins/2401.03",
+    "https://granitestate.github.io/rules/ins/2401.04",
+    "https://granitestate.github.io/rules/ins/2401.05",
+    "https://granitestate.github.io/rules/ins/2401.06",
+    "https://granitestate.github.io/rules/ins/2401.07",
+    "https://granitestate.github.io/rules/ins/2401.029"
+  ],
+  "notation": "Ins 2401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2400.html",
+  "prefLabel": "Ins 2401 GUIDELINES AND STANDARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 2401 GUIDELINES AND STANDARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2400.html"
+}

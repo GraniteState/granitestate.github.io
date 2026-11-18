@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fam/203",
+  "@type": "Concept",
+  "agencyCode": "Fam",
+  "authority": [
+    {
+      "citation": "328-C:4-a",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-C:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-C:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/fam/200",
+  "definition": "ALLEGATIONS AND COMPLAINTS OF MISCONDUCT AND INVESTIGATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fam/203.01",
+    "https://granitestate.github.io/rules/fam/203.02",
+    "https://granitestate.github.io/rules/fam/203.03",
+    "https://granitestate.github.io/rules/fam/203.04",
+    "https://granitestate.github.io/rules/fam/203.05",
+    "https://granitestate.github.io/rules/fam/203.06",
+    "https://granitestate.github.io/rules/fam/203.07",
+    "https://granitestate.github.io/rules/fam/203.08"
+  ],
+  "notation": "Fam 203",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html",
+  "prefLabel": "Fam 203 ALLEGATIONS AND COMPLAINTS OF MISCONDUCT AND INVESTIGATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Fam 203 ALLEGATIONS AND COMPLAINTS OF MISCONDUCT AND INVESTIGATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html"
+}

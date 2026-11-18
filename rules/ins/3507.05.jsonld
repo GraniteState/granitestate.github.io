@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3507.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "409:5-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "409:5-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "409:6-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3507",
+  "definition": "Applicability of the 2001 CSO Mortality Table",
+  "effectiveDate": "2022-10-24",
+  "historyNote": "#8144, eff 9-1-04; ss by #10194, eff 10-1-12; ss by #13471, eff 10-24-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3507.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3507.05 Applicability of the 2001 CSO Mortality Table",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3507.05 Applicability of the 2001 CSO Mortality Table.\n\n(a) The 2001 CSO Mortality Table may be used in the following manner, subject to the transition dates for use of the 2001 CSO Mortality Table in Ins 3507.03:\n\n(1) Ins 3502.01 (a)(1)b.2.: The net level reserve premium is based on the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(2) Ins 3503.01 (b): All calculations are made using the 2001 CSO Mortality Rate, and, if elected, the optional minimum mortality standard for deficiency reserves stipulated in Ins 3507.05 (a)(4). The value of \"qx+k+t-1\" is the valuation mortality rate for deficiency reserves in policy year k+t, but using the unmodified select mortality rates if modified select mortality rates are used in the computation of deficiency reserves.\n\n(3) Ins 3504.01: The 2001 CSO Mortality Table is the minimum standard for basic reserves.\n\n(4) Ins 3504.02: The 2001 CSO Mortality Table is the minimum standard for deficiency reserves. If select mortality rates are used, they may be multiplied by X percent for durations in the first segment, subject to the conditions specified in Ins 3504.02 (a)(3). In demonstrating compliance with those conditions, the demonstrations may not combine the results of tests that utilize the 1980 CSO Mortality Table with those tests that utilize the 2001 CSO Mortality Table, unless the combination is explicitly required by rule or necessary to be in compliance with relevant Actuarial Standards of Practice.\n\n(5) Ins 3505.03: The valuation mortality table used in determining the tabular cost of insurance shall be the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(6) Ins 3505.05 (a)(4): The calculations specified in Ins 3505.05 shall use the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(7) Ins 3505.06 (a)(4): The calculations specified in Ins 3505.06 shall use the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(8) Ins 3505.07 (a)(2): The calculations specified in Ins 3505.07 shall use the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(9) Ins 3506.01 (a)(2): The one-year valuation premium shall be calculated using the ultimate mortality rates in the 2001 CSO Mortality Table.\n\n(b) Nothing in this section shall be construed to expand the applicability of Ins 3500 to include life insurance policies exempted under Ins 3502.01.\n\nSource. #8144, eff 9-1-04; ss by #10194, eff 10-1-12; ss by #13471, eff 10-24-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

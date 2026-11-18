@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/301.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:8",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:13",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-8",
+    "https://granitestate.github.io/rsa/485-A/485-A-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/301",
+  "definition": "Signature Required",
+  "effectiveDate": "2023-05-22",
+  "historyNote": "(See Revision Note at part heading for Env-Wq 301) #10348, eff 5-22-13; ss by #13613, eff 5-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 301.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html",
+  "prefLabel": "Env-Wq 301.05 Signature Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 301.05 Signature Required.\n\n(a) The applicant and, if the applicant is other than the owner of the facility, the owner shall sign the application submitted pursuant to Env-Wq 301.04.\n\n(b) The signature(s) shall constitute certification that:\n\n(1) The information provided is true, complete, and not misleading to the knowledge and belief of the signer; and\n\n(2) The signer understands that any permit granted based on false, incomplete, or misleading information shall be subject to revocation.\n\nSource. (See Revision Note at part heading for Env-Wq 301) #10348, eff 5-22-13; ss by #13613, eff 5-22-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html"
+}

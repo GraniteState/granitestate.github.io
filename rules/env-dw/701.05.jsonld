@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/701.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/701",
+  "definition": "Chapter-Specific Definitions",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#10617, eff 6-1-14; ss by #12420, eff 11-18-17; ss by #12664, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 701.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 701.05 Chapter-Specific Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 701.05 Chapter-Specific Definitions.\n\n(a) “Clean compliance history” means a record, over the prior 12 months, of:\n\n(1) No MCL violations under Env-Dw 702;\n\n(2) No monitoring violations under Env-Dw 707 through Env-Dw 717, Env-Dw 719, and Env-Dw 723;\n\n(3) No coliform treatment technique trigger exceedances or treatment techniques violations under 40 CFR 141 Subpart Y, §§851-861;\n\n(4) No violations of the lead and copper requirements specified in Env-Dw 714;\n\n(5) No violations of public notification requirements specified in Env-Dw 800; and\n\n(6) As applicable, no violations of the:\n\na. Permit to operate requirements specified in Env-Dw 501;\n\nb. Certified operator requirements specified in Env-Dw 502;\n\nc. Public water system general operational requirements specified in Env-Dw 503; and\n\nd. Public water system maintenance requirements specified in Env-Dw 504.\n\n(b) “Systems” means all public water systems, including community water systems, non-transient non-community water systems, transient non-community water systems, and privately-owned redistribution systems.\n\nSource. #10617, eff 6-1-14; ss by #12420, eff 11-18-17; ss by #12664, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

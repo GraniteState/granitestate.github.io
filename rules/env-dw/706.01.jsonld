@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/706.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Regulate Secondary Contaminants SMCLs",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/706",
+  "definition": "Regulated Secondary Contaminants SMCLs",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9699, eff 5-1-10; ss by #12665, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 706.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 706.01 Regulated Secondary Contaminants SMCLs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 706.01 Regulated Secondary Contaminants SMCLs.\n\n(a) This part shall apply to contaminants in drinking water at concentrations that primarily affect aesthetic qualities relating to the public acceptance of drinking water, known as secondary contaminants. At considerably higher concentrations of secondary contaminants, health implications may also exist.\n\n(b) Subject to (c), below, the SMCLs for community water systems and non-transient non-community water systems shall be as stated in Table 706-1, below:\n\nTable 706-1: Secondary Maximum Contaminant Levels\n\nContaminant | SMCL\n\nAluminum | 0.05 - 0.2 mg/L\n\nChloride | 250 mg/L\n\nColor | 15 color units\n\nCopper | 1.0 mg/L\n\nCorrosivity | Non-corrosive\n\nFluoride | 2.0 mg/L\n\nFoaming Agents | 0.5 mg/L\n\nIron | 0.3 mg/L\n\nManganese | 0.05 mg/L\n\nMethyl tertiary-butyl ether (MtBE) | 0.020 mg/L\n\nOdor | 3 threshold odor number\n\npH | 6.5 - 8.5\n\nSilver | 0.1 mg/L\n\nSodium | 250 mg/L\n\nSulfate | 250 mg/L\n\nSulfide | 0.05 mg/L\n\nTotal Dissolved Solids (TDS) | 500 mg/L\n\nZinc | 5 mg/L\n\n(c) For aluminum, the SMCL based on color considerations shall be 0.05 mg/L and the SMCL based on treatment process considerations shall be 0.2 mg/L.\n\nSource. #9699, eff 5-1-10; ss by #12665, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

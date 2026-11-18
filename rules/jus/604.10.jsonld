@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/604.10",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "21-M:8-j",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/604",
+  "definition": "Reminders and Warnings",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#9553, eff 9-25-09, EXPIRED: 9-25-17 New. #12938, eff 12-9-19 (formerly Jus 604.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 604.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 604.10 Reminders and Warnings",
+  "priorExpiration": "2017-09-25",
+  "recordType": "rule-section",
+  "ruleText": "Jus 604.10 Reminders and Warnings. If the unit has not received the additional information and documents requested within 3 months after sending the “Acknowledgment of Receipt of Claim and Request for More Information Form,” or by the date specified in an extension granted pursuant to Jus 603.03(i), it shall send a reminder to the claimant that warns that a failure to provide such additional information and documents by the deadline shall result in the claim being dismissed without prejudice. Each such reminder shall request the same information as had been requested in the original request.\n\nSource. #9553, eff 9-25-09, EXPIRED: 9-25-17\n\nNew. #12938, eff 12-9-19 (formerly Jus 604.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

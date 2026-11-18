@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tre/216.05",
+  "@type": "Concept",
+  "agencyCode": "Tre",
+  "authority": [
+    {
+      "citation": "541-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tre/216",
+  "definition": "Opening the Hearing",
+  "effectiveDate": "2009-10-22",
+  "historyNote": "#9575-A, eff 10-22-09 (formerly 215.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tre 216.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre200.html",
+  "prefLabel": "Tre 216.05 Opening the Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Tre 216.05 Opening the Hearing. The presiding officer shall open the hearing by describing the purpose of the hearing and the procedures for providing testimony.\n\nSource. #9575-A, eff 10-22-09 (formerly 215.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre200.html"
+}

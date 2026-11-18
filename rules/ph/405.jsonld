@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/405",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "II",
+        "IV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/400",
+  "definition": "STANDARDS OF PRACTICE FOR NUCLEAR/RADIOLOGIC PHARMACY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/405.01",
+    "https://granitestate.github.io/rules/ph/405.02",
+    "https://granitestate.github.io/rules/ph/405.03",
+    "https://granitestate.github.io/rules/ph/405.04"
+  ],
+  "notation": "Ph 405",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 405 STANDARDS OF PRACTICE FOR NUCLEAR/RADIOLOGIC PHARMACY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 405 STANDARDS OF PRACTICE FOR NUCLEAR/RADIOLOGIC PHARMACY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

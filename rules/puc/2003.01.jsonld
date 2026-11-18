@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2003.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Initial Registration of Competitive Electric Power Suppliers",
+  "authority": [
+    {
+      "citation": "365",
+      "source": "https://granitestate.github.io/rsa/365",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "378:49",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/365"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2003",
+  "definition": "Environmental Disclosure",
+  "effectiveDate": "2026-05-13",
+  "expirationDate": "2036-05-13",
+  "historyNote": "#7758, eff 9-4-02; ss by #9774-A, eff 8-26-10 (from Puc 2004.04); ss by #12372, eff 11-1-17; ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2004.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2003.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html",
+  "prefLabel": "Puc 2003.01 Environmental Disclosure",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2003.01 Environmental Disclosure.\n\n(a) The CEPS shall provide environmental disclosure information using the format and methodology as required by this section.\n\n(b) The environmental disclosure label shall:\n\n(1) Identify the environmental characteristics of the sources’ energy mix for the service including at a minimum air emissions information for sulfur dioxide (SO2), nitrogen oxides (NOx), and carbon dioxide (CO2);\n\n(2) Compare the source and emission data of the source energy mix to the average energy mix of the power available from ISO-NE, as specified in the system mix report available from the New England Power Pool Generation Information System (GIS);\n\n(3) Present the energy sources used to generate the electricity, including, at a minimum, biomass, coal, hydro, imported power, landfill gas, municipal trash, natural gas, nuclear, oil, other renewable, solar, and wind, and their respective contributions, by percentage, to the total source energy mix for the service;\n\n(4) Contain explanatory language at the top of the label which states “Electric providers are required by the New Hampshire Public Utilities Commission to provide customers with an environmental disclosure label with information to evaluate services offered by competitive suppliers and electric utilities, and to provide information about the environmental and public health impacts of electric generation. Further information can be obtained by calling your electric utility or competitive electric supplier or by contacting the Public Utilities Commission. Additional information on disclosure labels is also available at http:/www.puc.nh.gov or on your electric provider’s website.”; and\n\n(5) Define the term “power sources” as “The electricity you consume comes from the New England power grid, which receives power from a variety of power plants and transmits the power as needed to meet the requirements of all customers in New England. When you choose a power supplier, that supplier is responsible for generating and purchasing power that is added to the power grid in an amount equivalent to your electricity use. “Known Resources” include resources that are owned by, or under contract to, the supplier. “System Power” represents power purchased in the regional electricity market. Electric suppliers are required to obtain a certain amount of renewable energy in accordance with RSA 362-F, the state’s renewable portfolio standard law. They may also choose to obtain amounts of renewable energy above their legal obligation.”\n\nSource. #7758, eff 9-4-02; ss by #9774-A, eff 8-26-10 (from Puc 2004.04); ss by #12372, eff 11-1-17; ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2004.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html"
+}

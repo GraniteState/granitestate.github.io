@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1410",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1400",
+  "definition": "ADDITIONAL STANDARDS FOR USED OIL FUEL MARKETERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-hw/1410.01",
+    "https://granitestate.github.io/rules/env-hw/1410.02",
+    "https://granitestate.github.io/rules/env-hw/1410.03",
+    "https://granitestate.github.io/rules/env-hw/1410.04",
+    "https://granitestate.github.io/rules/env-hw/1410.05",
+    "https://granitestate.github.io/rules/env-hw/1410.06",
+    "https://granitestate.github.io/rules/env-hw/1410.07"
+  ],
+  "notation": "Env-Hw 1410",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1410 ADDITIONAL STANDARDS FOR USED OIL FUEL MARKETERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Hw 1410 ADDITIONAL STANDARDS FOR USED OIL FUEL MARKETERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

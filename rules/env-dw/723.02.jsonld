@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/723.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/723",
+  "definition": "Request to Approve Non-Central Treatment",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "#10618, eff 6-1-14, EXPIRED 6-1-24 New. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 723.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 723.02 Request to Approve Non-Central Treatment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 723.02 Request to Approve Non-Central Treatment. To request approval to install and use non-central treatment devices, the PWS owner shall submit the following in writing to the department:\n\n(a) The name, location, and PWS identifier of the system;\n\n(b) Whether POE or POU devices are proposed to be used, and the contaminant(s) proposed to be treated by the devices;\n\n(c) An explanation, with supporting documentation, of the PWS owner’s attempts to locate alternate water sources;\n\n(d) An explanation, with supporting documentation, of why centralized treatment is not feasible;\n\n(e) If POE devices are proposed to be used:\n\n(1) An explanation of why POU devices are not feasible;\n\n(2) A rigorous engineering design review of the POE devices; and\n\n(3) A demonstration that:\n\na. The design and application considers the tendency for increase in heterotrophic bacteria concentrations in water treated with activated carbon; and\n\nb. Where necessary, requires the use of frequent backwashing, post-contactor disinfection, and heterotrophic plate count monitoring to ensure that the microbiological safety of the water is not compromised;\n\n(f) Certification under NSF/ANSI 53 Health Effects or equivalent alternative proof of performance to show that the non-central treatment device(s) proposed is effective in reducing the contaminant concentration to below the applicable MCL;\n\n(g) The results of field testing for POE devices conducted pursuant to 40 CFR 141.100, if applicable;\n\n(h) An operations and maintenance plan that explains how:\n\n(1) All devices will be operated, scheduled for media or cartridge replacement, and monitored for total flow treated; and\n\n(2) Records will be maintained to ensure all devices are operated correctly to ensure the contaminant is treated as proposed; and\n\n(i) Unless the certified operator is employed directly by the PWS, a contract with a certified operator that:\n\n(1) Specifies the operator’s obligations to maintain and sample all installed non-central treatment devices;\n\n(2) Is for an initial term of not less than one year; and\n\n(3) Is subject to renewal not more frequently than once each year.\n\nSource. #10618, eff 6-1-14, EXPIRED 6-1-24\n\nNew. #14119, eff 11-23-24, EXPIRES: 11-23-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

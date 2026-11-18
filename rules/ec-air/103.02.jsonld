@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-air/103.02",
+  "@type": "Concept",
+  "agencyCode": "Ec-Air",
+  "authority": [
+    {
+      "citation": "21-O:11",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-11",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-air/103",
+  "definition": "Council Responsibilities",
+  "effectiveDate": "2023-05-23",
+  "historyNote": "(See Revision Note at chapter heading for Ec-Air 100) #13642, eff 5-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Air 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html",
+  "prefLabel": "Ec-Air 103.02 Council Responsibilities",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Air 103.02 Council Responsibilities. The responsibilities of the council are as follows:\n\n(a) As required by RSA 21-O:11, III, the council shall consult with and advise the commissioner of the department of environmental services, or his or her designee, on a continuing basis with respect to the policy, programs, goals, and operations of the department as they relate to RSA 21-O:10, with particular emphasis on long-range planning for the department and on education of the public relative to the functions of the department;\n\n(b) As required by RSA 21-O:11, IV, the council shall hear all administrative appeals from department decisions made and shall decide all disputed issues of fact in such appeals, in accordance with RSA 21-O:14;\n\n(c) As required by RSA 21-O:11, V, the council shall consider all proposed rules of the commissioner relative to the department and shall present any objections to proposed rules to the commissioner in writing within 15 days;\n\n(d) As required by RSA 21-O:14, IV, the council shall adopt rules in accordance with the rulemaking provisions of RSA 541-A to govern its proceedings; and\n\n(e) The council shall perform any additional functions assigned to it by amendment to RSA 21-O:11.\n\nSource. (See Revision Note at chapter heading for Ec-Air 100) #13642, eff 5-23-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html"
+}

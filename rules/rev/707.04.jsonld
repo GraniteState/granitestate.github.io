@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/707.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:8",
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/707",
+  "definition": "Payment Procedures for Partial Payments",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#10714, eff 11-7-14 (from Rev 705.04); amd by #12907, eff 10-23-19; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 707.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 707.04 Payment Procedures for Partial Payments",
+  "recordType": "rule-section",
+  "ruleText": "Rev 707.04 Payment Procedures for Partial Payments.\n\n(a) Electronic fund transfers for partial payments shall be applied in accordance with the provisions of Rev 2903.05.\n\n(b) Electronic fund transfers for partial payments shall be debited to the operator’s account under the following schedule:\n\n(1) Transfers on timely returns shall be debited on the next business day following the return due date pursuant to RSA 78-A:8, III; and\n\n(2) Transfers on late or amended returns shall be debited on the next business day following the submission.\n\nSource. #10714, eff 11-7-14 (from Rev 705.04); amd by #12907, eff 10-23-19; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

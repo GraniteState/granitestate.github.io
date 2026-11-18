@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/207.01",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/207",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2004-05-01",
+  "historyNote": "#7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 207.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 207.01 Date of Issuance or Filing",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 207.01 Date of Issuance or Filing.\n\n(a) All written documents governed by this chapter shall be rebuttably presumed to have been issued on the date noted on the document.\n\n(b) All written documents governed by this chapter shall be rebuttably presumed to have been filed with the board on the date of receipt, as evidenced by a date placed on the document by the board or its staff in the normal course of business.\n\nSource. #7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

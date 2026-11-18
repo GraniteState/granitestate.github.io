@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gcd/403.05",
+  "@type": "Concept",
+  "agencyCode": "Gcd",
+  "authority": [
+    {
+      "citation": "275-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "466:8",
+      "source": "https://granitestate.github.io/rsa/466/466-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/466/466-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/gcd/403",
+  "definition": "Change of Residence",
+  "effectiveDate": "2023-11-23",
+  "historyNote": "#10341, eff 5-17-13; ss by #13811, eff 11-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Gcd 403.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html",
+  "prefLabel": "Gcd 403.05 Change of Residence",
+  "recordType": "rule-section",
+  "ruleText": "Gcd 403.05 Change of Residence. In cases of change of town of residency, the service animal owner shall re-register the dog at no cost. If the owner has elected to obtain a tag through the commission, the owner shall let the commission know of any change in town of residency.\n\nSource. #10341, eff 5-17-13; ss by #13811, eff 11-23-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html"
+}

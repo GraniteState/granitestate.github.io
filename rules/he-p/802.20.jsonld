@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/802.20",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "altLabel": "Patient Records",
+  "authority": [
+    {
+      "citation": "151:9",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/151/151-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/802",
+  "definition": "Patient Management",
+  "effectiveDate": "2024-09-25",
+  "expirationDate": "2034-09-25",
+  "historyNote": "#5846, eff 6-22-94, EXPIRED: 6-22-00 New. #9580, eff 10-24-09; ss by #12407, INTERIM, eff 10-24-17, EXPIRED: 4-22-18 New. #13166, eff 1-28-21; ss by #14081, eff 9-25-24, EXPIRES: 9-25-34 (formerly He-P 802.19)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 802.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html",
+  "prefLabel": "He-P 802.20 Patient Management",
+  "recordType": "rule-section",
+  "ruleText": "He-P 802.20 Patient Management.\n\n(a) Admission procedures shall include:\n\n(1) Completion of a health assessment and medical evaluation in accordance with the licensee’s policy which shall be documented for each patient accepted for care and treatment;\n\n(2) Provision of information concerning patient rights in a language the patient can understand, which might require a translator;\n\n(3) Provision of information in a clear concise manner to enable the patient to make appropriate treatment decisions;\n\n(4) Collection of specific patient medical and social history information as required by the licensee’s policy including information concerning advanced directives or alternative decision makers; and\n\n(5) Development of a treatment plan.\n\n(b) Discharge documentation shall include:\n\n(1) The date and time of discharge;\n\n(2) The status of the patient at the time of discharge; and\n\n(3) Any discharge planning or referrals that have been conducted for the patient.\n\nSource. #5846, eff 6-22-94, EXPIRED: 6-22-00\n\nNew. #9580, eff 10-24-09; ss by #12407, INTERIM, eff 10-24-17, EXPIRED: 4-22-18\n\nNew. #13166, eff 1-28-21; ss by #14081, eff 9-25-24, EXPIRES: 9-25-34 (formerly He-P 802.19)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html"
+}

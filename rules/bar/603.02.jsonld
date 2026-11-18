@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/603.02",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:1",
+      "paragraphs": [
+        "XI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:30",
+      "paragraphs": [
+        "I(f)",
+        "IV",
+        "I(c)",
+        "II",
+        "I(b)",
+        "(j)",
+        "I(j)",
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/603",
+  "definition": "Operator Requirements",
+  "effectiveDate": "2026-07-17",
+  "expirationDate": "2036-07-17",
+  "historyNote": "#8444, eff 10-06-05 amd by #9652, eff 2-3-10; paras. (a)-(g) EXPIRED: 10-6-13; ss by #10808, eff 4-2-15; ss by #10974, eff 11-13-15, EXPIRED: 11-13-25 New. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 603.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 603.02 Operator Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Bar 603.02 Operator Requirements.\n\n(a) All operators shall comply with RSA 313-A:30.\n\n(b) Operators shall have the consumer present their protective eyewear prior to each use to ensure the eyewear complies with Bar 603.01(h).\n\n(c) Operators shall not allow a consumer to use a tanning device if that consumer does not have the protective eyewear required by Bar 603.01(h).\n\n(d) A trained operator shall be present when a tanning device is operated.\n\n(e) The operator shall limit the exposure of the consumer to one tanning session daily. Session duration shall be determined by the certified operator using the Fitzpatrick scale to gradually increase exposure and shall not exceed the maximum timer interval established by the manufacturer.\n\n(f) When a tanning device is being used, no other person shall be allowed to remain in the tanning device area.\n\n(g) Operators shall be at least 18 years of age.\n\n(h) The licensee shall ensure that the operator requires the consumer to complete and sign a Fitzpatrick scale form. The operator shall total the points on the scale to estimate skin type and sign the form. Operators shall keep the completed forms with the client records. The Fitzpatrick scale questions shall not be altered or have points added.\n\n(i) The operator shall only permit tanning to individuals who present valid, government issued identification to verify their identity. Operators shall keep records of the identification provided.\n\nSource. #8444, eff 10-06-05 amd by #9652, eff 2-3-10; paras. (a)-(g) EXPIRED: 10-6-13; ss by #10808, eff 4-2-15; ss by #10974, eff 11-13-15, EXPIRED: 11-13-25\n\nNew. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

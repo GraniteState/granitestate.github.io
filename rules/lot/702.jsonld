@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/702",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:21-h",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/700",
+  "definition": "EMPLOYEE RECOGNITION PROGRAM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/702.01",
+    "https://granitestate.github.io/rules/lot/702.02",
+    "https://granitestate.github.io/rules/lot/702.03"
+  ],
+  "notation": "Lot 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot700.html",
+  "prefLabel": "Lot 702 EMPLOYEE RECOGNITION PROGRAM",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 702 EMPLOYEE RECOGNITION PROGRAM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot700.html"
+}

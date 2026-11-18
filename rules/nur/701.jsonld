@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/701",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "326-B:4-a",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:14",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-B/326-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/700",
+  "definition": "NURSING ASSISTANT REGISTRY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/701.01"
+  ],
+  "notation": "Nur 701",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 701 NURSING ASSISTANT REGISTRY",
+  "recordType": "rule-part",
+  "ruleText": "PART Nur 701 NURSING ASSISTANT REGISTRY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

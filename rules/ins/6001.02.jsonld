@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6001.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A",
+      "source": "https://granitestate.github.io/rsa/415-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6001",
+  "definition": "Applicability and Scope",
+  "effectiveDate": "2018-02-12",
+  "historyNote": "(See Revision Note at chapter heading for Ins 6000) #12478, eff 2-12-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6001.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6000.html",
+  "prefLabel": "Ins 6001.02 Applicability and Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6001.02 Applicability and Scope.\n\n(a) This part applies to all individual health insurance policies, group health policies and certificates, and blanket policies and certificates providing health insurance, unless otherwise specified, which provide coverages that are considered ancillary health insurance and are delivered or issued for delivery in this state on and after the effective date of this part, as provided in RSA 415-A, and that are not specifically exempted from this part.\n\n(b) This part shall not apply to:\n\n(1) Any policies subject to RSA 420-G;\n\n(2) Medicare supplement policies subject to RSA 415-F; or\n\n(3) Long-term care insurance policies subject to RSA 415-D.\n\n(c) The requirements contained in this part shall be in addition to any other applicable part previously adopted and still in effect.\n\nSource. (See Revision Note at chapter heading for Ins 6000) #12478, eff 2-12-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6000.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/705.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/705",
+  "definition": "Prohibitions",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#10596, eff 7-1-14; amd by #12627, eff 9-27-18; ss by #14067, eff 9-3-24; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 705.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw700.html",
+  "prefLabel": "Env-Sw 705.06 Prohibitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 705.06 Prohibitions. The following wastes shall not be incinerated:\n\n(a) Wet cell batteries, pursuant to RSA 149-M:27, II;\n\n(b) Leaf or yard waste, except as provided in RSA 149-M:27, III;\n\n(c) Video display devices, central processing units from computers, or non-mobile video game display media recorders or players, pursuant to RSA 149-M:27, IV;\n\n(d) Mercuric oxide batteries, pursuant to RSA 149-M:28, IV;\n\n(e) Mercury-added products, pursuant to RSA 149-M:58, I; and\n\n(f) Wood components of construction and demolition debris, or any mixture or derivation from said component, unless allowed under RSA 125-C:10-c, II.\n\nSource. #10596, eff 7-1-14; amd by #12627, eff 9-27-18; ss by #14067, eff 9-3-24; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw700.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.10",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Operating Conditions During a Stack Emissions Test or RATA",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Operating Conditions During a Compliance Stack Test or RATA",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.10 Operating Conditions During a Compliance Stack Test or RATA",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.10 Operating Conditions During a Compliance Stack Test or RATA.\n\n(a) A compliance stack test shall be conducted under one of the following operating conditions:\n\n(1) Between 90 and 100 percent, inclusive, of maximum production rate or rated capacity;\n\n(2) A production rate at which maximum emissions occur; or\n\n(3) At such operating conditions agreed upon during a pre-test meeting conducted pursuant to Env-A 802.05.\n\n(b) A RATA shall be conducted:\n\n(1) At a minimum of 50% of maximum production rate or rated capacity of the device on which the facility’s CEM system is installed; and\n\n(2) At any other condition if necessary to comply with an applicable federal requirement.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

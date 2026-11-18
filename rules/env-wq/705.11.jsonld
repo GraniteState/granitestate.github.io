@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/705.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/705",
+  "definition": "Sewage Pumping Station Emergency Operation",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 705.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 705.11 Sewage Pumping Station Emergency Operation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 705.11 Sewage Pumping Station Emergency Operation.\n\n(a) A sewage pumping station shall be designed to prevent the back-up, overflow, or other unpermitted discharge of wastewater from the sewage pumping station during electrical power failures.\n\n(b) An independent engine-generator type source of electric power shall be provided for electrically-driven pumps. This source shall be automatically activated by failure of any phase of power supply or upon any fluctuation in voltage, the amount or duration of which would cause damage to the motors. Installations shall comply with all applicable requirements of the NEC and the state fire code in Saf-C 6000 and NFPA 820, available as noted in Appendix B.\n\n(c) The emergency power generator shall be permanently secured in place, with provisions for removal to facilitate generator repair or replacement.\n\n(d) Provisions shall be made for automatic and manual start-up and cut-in. The controls shall be such that upon automatic start-up under emergency conditions, shut-down shall be accomplished automatically on restoration of utility power with controlled shut-down of unit. Manual shut down shall also be provided. Provision shall be made to allow pumps to run down before re-energizing on transfer of power.\n\n(e) The emergency power generator shall be sized to sequentially start and operate all pumps needed to handle design maximum waste flows, plus lighting, ventilation, controls, screening, and, if applicable, grinding.\n\n(f) The emergency power generator shall be located above grade with ventilation of exhaust gases.\n\n(g) All emergency power generation equipment shall be provided with instructions for routine exercising, load testing, and maintenance.\n\n(h) The generator engine controls shall be equipped with an automatic exerciser which can be set on any selected schedule to start the generator, run the generator under no-load or load conditions by selection, and shut the generator off without actuating the alarm system.\n\n(i) Subject to (j), below, the owner shall provide each emergency generator with enough fuel for the generator to run under full load or peak station flow for at least 48 hours or under normal operating conditions for at least 96 hours, whichever requires the greater amount of fuel.\n\n(j) Alternatives to a permanently installed emergency power generator may be provided in the following circumstances:\n\n(1) Sewage pumping stations with capacities of 120 gpm or less may use wet well storage over and above normal operating system storage provided that:\n\na. A suitable receptacle shall be included in the electrical supply panel for connection to a portable generator with manual transfer;\n\nb. The storage location of the portable generator or pumping equipment is identified in the operation manual;\n\nc. The operator, or a designated responsible maintenance person for a privately operated sewage pumping station, is knowledgeable in operation of the portable generator or pumping equipment and will be on call 24 hours per day, 7 days per week;\n\nd. The pump station wet well provides additional storage volume above the high-water level alarm and below all entering and existing pipes to allow for deployment of the portable generator or pumping equipment; and\n\ne. The additional wet well storage volume provides at least 6 hours detention at average daily flow; and\n\n(2) For sewage pumping stations with duplex pumps, a standby engine drive system which automatically starts on power loss to drive one pump may be furnished as an alternative to a permanent generator.\n\n(k) Sewage pumping station by-passes shall not discharge raw sewage either overland or to any water course.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

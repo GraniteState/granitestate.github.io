@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/702.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Electrology School",
+  "authority": [
+    {
+      "citation": "310-A",
+      "source": "https://granitestate.github.io/rsa/310-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314",
+      "source": "https://granitestate.github.io/rsa/314",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A",
+    "https://granitestate.github.io/rsa/314"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/702",
+  "definition": "Electrology school",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 702.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 702.07 Electrology school",
+  "recordType": "rule-section",
+  "ruleText": "Plc 702.07 “Electrology school” means an institution of learning that has for its purpose, in whole or in part, the teaching of the theory, practice, and modalities of electrolysis.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

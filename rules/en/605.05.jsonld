@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/605.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Customer’s Bill Adjustments",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/605",
+  "definition": "Customer's Bill Adjustments",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 605.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html",
+  "prefLabel": "En 605.05 Customer's Bill Adjustments",
+  "recordType": "rule-section",
+  "ruleText": "En 605.05 Customer's Bill Adjustments.\n\n(a) In meter tests made by the water utility or monitored by the department as provided by En 605.04, the correctness of registration of the meter and its performance in service shall be judged by its average error, determined in accordance with En 605.03.\n\n(b) Any adjustment of charges which is made in accordance with this section shall be based on the average error thus derived.\n\n(c) Whenever a meter is found to register in excess of 103% of the correct amount, the water utility shall refund to the customer an amount equal to the charge for the excess billed for the shorter of the following:\n\n(1) The previous 12 months;\n\n(2) A period equal to 1/2 of the time elapsed since the last test; or\n\n(3) The period of occupancy by the customer.\n\n(d) If the time when the error, referred to in (c) above, first developed or occurred can be definitely fixed, the amount to be refunded shall be based thereon.\n\n(e) Whenever a meter is found to under-register as outlined in En 605.03(d), the water utility may make a charge to the customer for the unbilled amount supplied for the shorter of:\n\n(1) The previous 12 months;\n\n(2) A period equal to 1/2 of the time elapsed since the last test; or\n\n(3) The period of occupancy by the customer.\n\n(f) If a meter or remote register is found which does not register properly, the bill for the period of improper registration shall be based upon information recorded by a meter or remote register, during a period during which the device is determined to accurately record use, prior or subsequent to the period of improper registration, and any other pertinent information supplied by the customer or known to the water utility.\n\n(g) The period for recovery of the difference between previously billed amounts and estimated actual consumption under (f) above shall not exceed 12 months.\n\nSource. #13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html"
+}

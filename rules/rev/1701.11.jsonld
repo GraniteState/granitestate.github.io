@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1701.11",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Generally Accepted Accounting Principles (GAAP)",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1701",
+  "definition": "Generally accepted accounting principles (GAAP)",
+  "effectiveDate": "2022-11-15",
+  "historyNote": "#13489, eff 11-15-22 (see Revision Note at chapter heading for Rev 1700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1701.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1700.html",
+  "prefLabel": "Rev 1701.11 Generally accepted accounting principles (GAAP)",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1701.11 \"Generally accepted accounting principles (GAAP)\" means the established body of theory and practice that acts as a general guide for accountants.\n\nSource. #13489, eff 11-15-22 (see Revision Note at chapter heading for Rev 1700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1700.html"
+}

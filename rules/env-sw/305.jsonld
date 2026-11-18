@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/305",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:11",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/149-M/149-M-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/300",
+  "definition": "APPLICATION DECISIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/305.01",
+    "https://granitestate.github.io/rules/env-sw/305.02",
+    "https://granitestate.github.io/rules/env-sw/305.03",
+    "https://granitestate.github.io/rules/env-sw/305.04",
+    "https://granitestate.github.io/rules/env-sw/305.05",
+    "https://granitestate.github.io/rules/env-sw/305.06",
+    "https://granitestate.github.io/rules/env-sw/305.07"
+  ],
+  "notation": "Env-Sw 305",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 305 APPLICATION DECISIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 305 APPLICATION DECISIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

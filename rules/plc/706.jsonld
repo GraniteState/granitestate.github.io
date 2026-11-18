@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/706",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310-A",
+      "source": "https://granitestate.github.io/rsa/310-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "314",
+      "source": "https://granitestate.github.io/rsa/314",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A",
+    "https://granitestate.github.io/rsa/314"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/700",
+  "definition": "PROCEDURES; DISCIPLINARY SANCTIONS; ADMINISTRATIVE FINES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/706.01",
+    "https://granitestate.github.io/rules/plc/706.02",
+    "https://granitestate.github.io/rules/plc/706.03"
+  ],
+  "notation": "Plc 706",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 706 PROCEDURES; DISCIPLINARY SANCTIONS; ADMINISTRATIVE FINES",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 706 PROCEDURES; DISCIPLINARY SANCTIONS; ADMINISTRATIVE FINES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

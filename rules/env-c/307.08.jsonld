@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/307.08",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/307",
+  "definition": "Proficiency Testing Study Results Review",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 307.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 307.08 Proficiency Testing Study Results Review",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 307.08 Proficiency Testing Study Results Review. If a laboratory receives a “not acceptable” result for any PT sample, the laboratory shall:\n\n(a) Review each “not acceptable” result to determine:\n\n(1) What caused the error; and\n\n(2) What corrective action(s) the laboratory needs to take to correct the problem;\n\n(b) Document in its own records the cause(s) and corrective action(s) the laboratory has taken to correct each problem that caused or contributed to the “not acceptable” result;\n\n(c) Submit the results of its own investigation and a corrective action report to the department within 30 calendar days of receiving the results; and\n\n(d) Initiate corrective action that is documented in a corrective action report submitted to the department before requesting a supplemental PT study.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

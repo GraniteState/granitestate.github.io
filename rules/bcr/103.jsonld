@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bcr/103",
+  "@type": "Concept",
+  "agencyCode": "Bcr",
+  "authority": [
+    {
+      "citation": "155-A:10",
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bcr/100",
+  "definition": "DESCRIPTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bcr/103.01",
+    "https://granitestate.github.io/rules/bcr/103.02"
+  ],
+  "notation": "Bcr 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html",
+  "prefLabel": "Bcr 103 DESCRIPTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Bcr 103 DESCRIPTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bcr100.html"
+}

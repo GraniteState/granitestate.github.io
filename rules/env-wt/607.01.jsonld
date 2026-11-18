@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/607.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/607",
+  "definition": "Applicability",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 607.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 607.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 607.01 Applicability. This part shall apply to:\n\n(a) Maintenance and improvement dredging of Federal Navigation Projects (FNPs);\n\n(b) New, improvement, and maintenance dredging associated with non-FNP projects that is in the direct interest of maintaining commerce for the well-being of the general public, such as shipping conveyance of fuel oil or road salt cargo and marinas; and\n\n(c) Dredging that is necessary to:\n\n(1) Remediate contaminated sites;\n\n(2) Restore storm-driven sediment depositions that threaten public safety or hinder navigation; and\n\n(3) Maintain intake and outflow infrastructure.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

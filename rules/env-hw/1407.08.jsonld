@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Recordkeeping and Reporting",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.08 Recordkeeping and Reporting",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.08 Recordkeeping and Reporting.\n\n(a) A used oil transporter shall comply with the recordkeeping requirements in Env-Hw 1405.02 and keep the following records for at least 3 years from the date of acceptance or delivery, as applicable:\n\n(1) A record of acceptance, in the form of a bill of lading, manifest, or other shipping document, for each shipment of used oil accepted for transport, including:\n\na. The name, address, and EPA identification number, if applicable, of the used oil handler that provided the used oil for transport;\n\nb. The quantity of used oil accepted;\n\nc. The date of acceptance; and\n\nd. The signature, dated upon receipt of the used oil, of a representative of the used oil handler that provided the used oil for transport, except that an intermediate rail transporter shall not be required to sign the record of acceptance;\n\n(2) A record of delivery, in the form of a bill of lading, manifest, or other shipping document, for each shipment of used oil delivered to another used oil transporter, a used oil burner, or a used oil processor/re-refiner, including:\n\na. The name, address, and EPA identification number of the receiving facility or used oil transporter;\n\nb. The quantity of used oil delivered;\n\nc. The date of delivery; and\n\nd. The signature, dated upon receipt of the used oil, of a representative of the receiving facility or transporter, except that an intermediate rail transporter shall not be required to sign the record of delivery; and\n\n(3) A record of delivery, as specified in (a)(2)a. through (a)(2)c., above, for each shipment of used oil exported to a foreign country.\n\n(b) The 3-year record retention period for the records specified in this section shall be extended automatically while any enforcement action is pending.\n\n(c) Pursuant to RSA 147-B:14, a transporter shall complete and submit Form HWM-11 “Annual Used Oil Transporter Report,” as amended August 2025, each year to report any used oil transported in the immediately preceding calendar year, as specified in (d) and (e), below.\n\n(d) A company official shall certify, as specified in Env-Hw 207, the report.\n\n(e) The report shall be submitted to the department by March 1 of the year immediately following the reporting year.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

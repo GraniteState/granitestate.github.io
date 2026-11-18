@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/206",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/200",
+  "definition": "RULEMAKING PUBLIC COMMENT HEARINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pdab/206.01",
+    "https://granitestate.github.io/rules/pdab/206.02",
+    "https://granitestate.github.io/rules/pdab/206.03",
+    "https://granitestate.github.io/rules/pdab/206.04",
+    "https://granitestate.github.io/rules/pdab/206.05",
+    "https://granitestate.github.io/rules/pdab/206.06",
+    "https://granitestate.github.io/rules/pdab/206.07",
+    "https://granitestate.github.io/rules/pdab/206.08",
+    "https://granitestate.github.io/rules/pdab/206.09"
+  ],
+  "notation": "Pdab 206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 206 RULEMAKING PUBLIC COMMENT HEARINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pdab 206 RULEMAKING PUBLIC COMMENT HEARINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

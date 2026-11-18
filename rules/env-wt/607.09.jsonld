@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/607.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/607",
+  "definition": "Sediment Transport and Disposal",
+  "effectiveDate": "2023-10-13",
+  "historyNote": "#12806, eff 12-15-19; ss by #13775, eff 10-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 607.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 607.09 Sediment Transport and Disposal",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 607.09 Sediment Transport and Disposal.\n\n(a) The applicant shall include in the application an explanation of how the dredged material will be transported and off-loaded to minimize dispersion of sediments.\n\n(b) The CFA report shall be considered when assessing the potential impact of proposed disposal locations and determining the least impacting disposal location.\n\n(c) Sediment disposal shall not negatively impact priority resource areas.\n\n(d) Any unavoidable negative impacts from sediment disposal shall require compensatory mitigation in accordance with Env-Wt 605.03 and Env-Wt 313.04.\n\n(e) The primary acceptable means of disposal for uncontaminated sediments shall be for beneficial use, such as beach nourishment, dune restoration, and shoal creation associated with living shorelines.\n\n(f) Near-shore disposal of dredged material with the intent of creating a berm to provide a sand source for a nearby sandy beach shall be considered beneficial use.\n\n(g) If dredged materials will not be beneficially used, the disposal location shall be:\n\n(1) Appropriate to the nature of the material; and\n\n(2) Identified in the application.\n\n(h) Contaminated sediment shall be disposed of at a facility authorized to accept such material.\n\n(i) For non-FNP requests to place dredged material in state waters, the applicant shall evaluate the site evaluation criteria developed for selection or designation of dredged material disposal sites in accordance with 40 CFR 228 and EPA’s ocean dumping program described for Region I at https://www.epa.gov/ocean-dumping/managing-ocean-dumping-epa-region-1.\n\nSource. #12806, eff 12-15-19; ss by #13775, eff 10-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

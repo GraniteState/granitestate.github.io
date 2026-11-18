@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/701.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:3",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "paragraphs": [
+        "I",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:15",
+      "paragraphs": [
+        "I-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-15",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11",
+    "https://granitestate.github.io/rsa/482-A/482-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/701",
+  "definition": "Definitions",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wt 700) #12807, eff 12-15-19; ss by #13946, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 701.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html",
+  "prefLabel": "Env-Wt 701.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 701.02 Definitions. For purposes of this chapter, the following definitions shall apply:\n\n(a) “Local authority” means the local body having authority to designate, map, and document prime wetlands pursuant to RSA 482-A:15, I(a), reprinted in Appendix D;\n\n(b) “Prime wetlands/buffer” means prime wetlands as defined in RSA 482-A:15, I-a and Env-Wt 100, or a duly-established 100-foot buffer as defined in Env-Wt 100, or both, as applicable in the context used; and\n\n(c) “Significant net loss” means a loss that is unlikely to be reversed through natural processes within one year.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wt 700) #12807, eff 12-15-19; ss by #13946, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2001.14",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:7",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2001",
+  "definition": "Confidentiality",
+  "effectiveDate": "2018-06-11",
+  "historyNote": "#5931, eff 12-5-94, EXPIRED: 12-5-00 New. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2001.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html",
+  "prefLabel": "Ins 2001.14 Confidentiality",
+  "priorExpiration": "2000-12-05",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2001.14 Confidentiality.\n\n(a) Each utilization review entity shall have written procedures for assuring that patient-specific information obtained during the process of utilization review shall be:\n\n(1) Kept confidential in accordance with applicable laws and rules;\n\n(2) Used solely for the purposes of utilization review, quality management, discharge planning, and case management;\n\n(3) Shared only with the claims administrator and other such persons who have authority to receive such information; and\n\n(4) Limited to the information necessary for the claims administrator to adjudicate the claim.\n\n(b) All data which provides sufficient information to allow identification of an individual patient, enrollee, or claimant shall be considered confidential medical information.\n\nSource. #5931, eff 12-5-94, EXPIRED: 12-5-00\n\nNew. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html"
+}

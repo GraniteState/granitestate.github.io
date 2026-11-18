@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/3002.08",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Confidential Customer Information",
+  "authority": [
+    {
+      "citation": "12-P:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/12-P/12-P-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "12-P:15",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-P/12-P-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/3002",
+  "definition": "Confidential customer information",
+  "effectiveDate": "2026-05-21",
+  "expirationDate": "2036-05-21",
+  "historyNote": "#14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 3002.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html",
+  "prefLabel": "En 3002.08 Confidential customer information",
+  "recordType": "rule-section",
+  "ruleText": "En 3002.08 “Confidential customer information” means information that is collected as part of providing natural gas services to a customer that can identify, singly or in combination, that specific customer, and includes the customer’s name, address, and account number and the quantity, characteristics, or time of consumption by the customer, and also includes specific customer payment, financial, banking, and credit information.\n\nSource. #14593, eff 5-21-26, EXPIRES: 5-21-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en3000.html"
+}

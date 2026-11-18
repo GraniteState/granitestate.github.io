@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/104.01",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/104",
+  "definition": "Availability of Records",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8456, eff 10-25-05; ss by #9917, eff 4-28-11; ss by #12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 104.01 Availability of Records",
+  "recordType": "rule-section",
+  "ruleText": "Odb 104.01 Availability of Records.\n\n(a) All board records of meetings and official actions shall be public records unless deemed confidential under RSA 91-A:3, II or RSA 91-A:5.\n\n(b) Board records of official actions under Odb 400 shall be available for public inspection on the internet through the department of environmental services One Stop Web Site http://www4.des.state.nh.us/DESOnestop/BasicSearch.aspx or successor systems. For all other official actions, meetings, and for the public without internet access, records shall be available through the department of environmental services during regular office hours, and with at least 48 hours’ notice.\n\n(c) Persons desiring copies of board records shall request the information being sought as clearly as possible.\n\n(d) Persons desiring a verbatim transcript of a board meeting recording shall agree to pay the costs incurred by the board for transcription.\n\nSource. #8456, eff 10-25-05; ss by #9917, eff 4-28-11; ss by #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

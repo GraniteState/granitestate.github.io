@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/512.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:8",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:11",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-8",
+    "https://granitestate.github.io/rsa/147-B/147-B-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/512",
+  "definition": "Additional Reporting",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 512.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 512.05 Additional Reporting",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 512.05 Additional Reporting. A generator that also operates a treatment, storage, or disposal facility at the same location shall submit additional biennial report information as required by Env-Hw 705.03.\n\nSource. #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

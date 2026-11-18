@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/1104.04",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:43",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:47",
+      "source": "https://granitestate.github.io/rsa/284/284-47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/284/284-47"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/1104",
+  "definition": "Betting Tickets",
+  "effectiveDate": "2017-10-27",
+  "historyNote": "#12412, eff 10-27-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 1104.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html",
+  "prefLabel": "Lot 1104.04 Betting Tickets",
+  "recordType": "rule-section",
+  "ruleText": "Lot 1104.04 Betting Tickets.\n\n(a) The betting ticket shall be a bearer instrument unless signed by the owner, and a prize may be claimed by anyone in possession of an unsigned, winning ticket.\n\n(b) Authorized employee may pay claims up to and including the sum of $599. Any claim of more than $599 shall be made on a claim form supplied by the commission. The procedure to be followed for claims of more than $599 and the rules and regulations governing each procedure shall be pursuant to Lot 600.\n\n(c) No more than one prize shall be paid on each bet placed.\n\nSource. #12412, eff 10-27-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html"
+}

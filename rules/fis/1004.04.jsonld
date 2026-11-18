@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1004.04",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "Signatures and Certification Required",
+  "authority": [
+    {
+      "citation": "212-A:9",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1004",
+  "definition": "Signatures and Certifications Required",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#13313, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1004.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html",
+  "prefLabel": "Fis 1004.04 Signatures and Certifications Required",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1004.04 Signatures and Certifications Required.\n\n(a) Each document, or group of documents intended as a single submission, that is submitted to the department, including but not limited to applications, requests, and reports, shall:\n\n(1) If submitted in paper format, be signed and dated by the applicant, owner or the agent of either, and show the typed or printed name and title, if applicable, of the individual who signed; or\n\n(2) If submitted in electronic format, be electronically signed and dated by the applicant, owner or the agent of either, and show the name and title, if applicable, of the individual who signed.\n\n(b) Each physical or electronic signature required by (a), above, shall constitute certification by the signer that:\n\n(1) The information contained in or otherwise submitted with the document is true, complete, and not misleading to the best of the signer’s knowledge and belief; and\n\n(2) The signer understands that the submission of false, incomplete, or misleading information shall constitute grounds, pursuant to Fis 1004.13, for the department to:\n\na. Suspend consultation pending submission of true, complete, and not misleading information;\n\nb. Terminate consultation;\n\nc. Withdraw any recommendations made to the referring state agency under this part; or\n\nd. Report the suspension, termination, or withdrawal of recommendations, and the full circumstances of the submission, to the referring state agency for action in the pending or completed request for a permit or other action.\n\nSource. #13313, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html"
+}

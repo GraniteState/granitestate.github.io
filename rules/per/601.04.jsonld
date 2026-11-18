@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/601.04",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:53",
+      "via": "appendix"
+    },
+    {
+      "citation": "98-A:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/601",
+  "definition": "Seasonal Appointment",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 601.03), eff 12-1-25, EXPIRES 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 601.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 601.04 Seasonal Appointment",
+  "recordType": "rule-section",
+  "ruleText": "Per 601.04 Seasonal Appointment.\n\n(a) In accordance with RSA 98-A:3, an appointing authority shall designate as seasonal those positions that can reasonably be anticipated as likely to recur each year for a period of 6 months or more, not necessarily consecutively, in any 12 month period.\n\n(b) Pursuant to RSA 98-A:3, a person assigned to a position under a seasonal or a temporary assignment who works the equivalent of 6 months or more, not necessarily consecutively, in any 12 month period in that position shall be determined to be either a permanent temporary employee or a permanent seasonal employee.\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 601.03), eff 12-1-25, EXPIRES 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

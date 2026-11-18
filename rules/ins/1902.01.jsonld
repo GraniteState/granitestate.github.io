@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1902.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-F:3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-F:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1902",
+  "definition": "Purpose",
+  "effectiveDate": "2026-07-23",
+  "expirationDate": "2036-07-23",
+  "historyNote": "#1900, eff 1-1-82; ss by #4287, eff 7-1-87; ss by #5656, eff 7-1-93, EXPIRED: 7-1-99 New. #8555, eff 2-1-06, EXPIRED: 2-1-14 New. #11014, eff 1-8-16; ss by #14661, eff 7-23-26, EXPIRES: 7-23-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1902.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html",
+  "prefLabel": "Ins 1902.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1902.01 Purpose. The purpose of this part is to provide for the reasonable standardization of coverage and simplification of benefits of Medicare supplement accident and sickness insurance policies and Medicare supplement subscriber contracts in order to facilitate the public understanding and comparison and to eliminate provisions contained in such policies or contracts which may be misleading or confusing in connection either with the purchase of such policies or with the settlement of claims and to provide for full disclosures in the sale of such coverage.\n\nSource. #1900, eff 1-1-82; ss by #4287, eff 7-1-87; ss by #5656, eff 7-1-93, EXPIRED: 7-1-99\n\nNew. #8555, eff 2-1-06, EXPIRED: 2-1-14\n\nNew. #11014, eff 1-8-16; ss by #14661, eff 7-23-26, EXPIRES: 7-23-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html"
+}

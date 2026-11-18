@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/321.08",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:9",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/321",
+  "definition": "Calculation of Design Capacity",
+  "effectiveDate": "2025-03-14",
+  "historyNote": "#8265, eff 1-22-05; ss by #10363, eff 6-15-13; ss by #13054, eff 6-12-20; ss by #14023, eff 7-12-24 ss by #14215, eff 3-14-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 321.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html",
+  "prefLabel": "Ed 321.08 Calculation of Design Capacity",
+  "recordType": "rule-section",
+  "ruleText": "Ed 321.08 Calculation of Design Capacity.\n\n(a) Design capacity shall be the projected enrollment determined by (b) below, divided by:\n\n(1) For elementary school buildings, 0.95;\n\n(2) For middle school buildings, 0.90; and\n\n(3) For high school buildings, 0.85.\n\n(b) The projected enrollment shall be the maximum published value in the 5-year projection using a statistically valid process and the most updated birth rates published by the New Hampshire division of vital records administration in the office of the secretary of state.\n\nSource. #8265, eff 1-22-05; ss by #10363, eff 6-15-13; ss by #13054, eff 6-12-20; ss by #14023, eff 7-12-24 ss by #14215, eff 3-14-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html"
+}

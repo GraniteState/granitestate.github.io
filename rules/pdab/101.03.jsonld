@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/101.03",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "altLabel": "Generic Drug",
+  "authority": [
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "514-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/101",
+  "definition": "Generic drug",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 101.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 101.03 Generic drug",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 101.03 \"Generic drug\" means a prescription drug, whether identified by its chemical, proprietary, or nonproprietary name, that is not a brand-name drug and is therapeutically equivalent to a brand-name drug in dosage, safety, strength, method of consumption, quality, performance, and intended use. The term \"generic drug\" includes a biosimilar product as defined by 42 U.S.C. § 262(i)(2).\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

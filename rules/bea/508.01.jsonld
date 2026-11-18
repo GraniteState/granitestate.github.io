@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/508.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Purpose and Applicability",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-O:73",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/508",
+  "definition": "Purpose and applicability",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 508.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 508.01 Purpose and applicability",
+  "recordType": "rule-section",
+  "ruleText": "Bea 508.01 Purpose and applicability.\n\n(a) The purpose of this section is to establish the framework for implementation of the housing infrastructure municipal (HIM) loan program pursuant to RSA 21-O:73, II.\n\n(b) Subject to available funding, the department shall make loans to HC designation municipalities for new construction or capacity increases for drinking water, sanitary sewer, stormwater, highway infrastructure, telecommunications, and electrical distribution infrastructure.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

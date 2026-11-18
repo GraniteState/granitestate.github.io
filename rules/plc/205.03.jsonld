@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/205.03",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:10",
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/205",
+  "definition": "Actions Upon Receipt of Investigation Report",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note 1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 205.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 205.03 Actions Upon Receipt of Investigation Report",
+  "recordType": "rule-section",
+  "ruleText": "Plc 205.03 Actions Upon Receipt of Investigation Report. Upon the receipt of an investigation report, the board shall:\n\n(a) Dismiss the action, if the investigation does not reveal that misconduct occurred;\n\n(b) Dismiss the action and issue a confidential letter of concern, if the investigation shows that:\n\n(1) The licensee’s actions constituted misconduct, but occurred under conditions that suggest the licensee would not, under normal circumstances, engage in the conduct and the actions have not been repeated; or\n\n(2) It might not be possible to prove in an adjudicative hearing that the licensee engaged in the actions, even though a reasonable person would conclude, based on the totality of the evidence, including evidence that might not be admissible at a hearing, that the licensee did engage in the actions; or\n\n(c) Commence an adjudicative proceeding to determine whether to impose disciplinary sanctions or non-disciplinary remedial measures.\n\nSource. (See Revision Note 1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

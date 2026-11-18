@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/103.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/103",
+  "definition": "Department Response",
+  "effectiveDate": "2020-02-01",
+  "historyNote": "#6967, eff 3-26-9999; ss by #7984, eff 11-10-03; ss by #12983, eff 2-1-20 (formerly Ins 103.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins100.html",
+  "prefLabel": "Ins 103.02 Department Response",
+  "recordType": "rule-section",
+  "ruleText": "Ins 103.02 Department Response.\n\n(a) The department shall respond to all requests for records as soon as practicable and in accordance with RSA 91-A.\n\n(b) When inspection of publicly available records is not immediately feasible, the requesting party and the department shall agree upon a mutually convenient time for such.\n\n(c) By agreement between the requesting party and the department, copies shall be electronically sent to a valid email address provided by the requesting party.\n\n(d) If copies are requested, the requesting party shall be charged a fee for the actual cost of the paper or electronic copies as assessed by the department.\n\nSource. #6967, eff 3-26-9999; ss by #7984, eff 11-10-03; ss by #12983, eff 2-1-20 (formerly Ins 103.03)\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins100.html"
+}

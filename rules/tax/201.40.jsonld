@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.40",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Waiver of Rules",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ; ss by #13687, eff 7-19-23 (formerly Tax 201.41)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.40",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.40 Waiver of Rules",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.40 Waiver of Rules.\n\n(a) Request for a waiver for failure to comply with a rule or board order shall not be routinely granted.\n\n(b) The board shall grant a waiver for failure to comply with a rule or board order when the failure was due to accident, mistake, or misfortune or when justice otherwise requires, provided that granting the waiver would not be contrary to any statute or supreme court case law.\n\n(c) Requests for a waiver shall:\n\n(1) Be in writing promptly upon discovery of the failure;\n\n(2) State the failure, the specific reasons why the waiver should be granted, and the facts supporting the request;\n\n(3) State that the party's failure has been corrected or state why the failure has not been corrected and, in such a case, when the failure will be corrected; and\n\n(4) Comply with all other rules applicable to filing documents, including sending a copy to the other party.\n\nSource. #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ; ss by #13687, eff 7-19-23 (formerly Tax 201.41)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/201.09",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:14",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/201",
+  "definition": "Failure to Comply with Rules",
+  "effectiveDate": "2019-01-09",
+  "historyNote": "#5880, eff 8-19-94, EXPIRED: 8-19-00 New. #7374, INTERIM, eff 10-13-00, EXPIRES: 4-11-01; ss by #7477, eff 4-10-01; ss by #7572, eff 10-10-01; ss by #12709, eff 1-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 201.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 201.09 Failure to Comply with Rules",
+  "priorExpiration": "2001-04-11",
+  "recordType": "rule-section",
+  "ruleText": "Ret 201.09 Failure to Comply with Rules. Failure to comply with the rules of this chapter without good cause shall result in the refusal to accept a non-compliant document for filing, the denial of a non-compliant petition or motion or the issuance of an order adverse to any non-compliant party. The non-compliant party shall be given 15 days from the date of the notice to demonstrate good cause. The presiding officer shall issue an order upon receipt of the moving party’s basis for good cause.\n\nSource. #5880, eff 8-19-94, EXPIRED: 8-19-00\n\nNew. #7374, INTERIM, eff 10-13-00, EXPIRES: 4-11-01; ss by #7477, eff 4-10-01; ss by #7572, eff 10-10-01; ss by #12709, eff 1-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

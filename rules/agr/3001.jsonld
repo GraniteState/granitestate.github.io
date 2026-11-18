@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3001",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "466:13-a",
+      "source": "https://granitestate.github.io/rsa/466/466-13-a",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/466/466-13-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/3000",
+  "definition": "IDENTIFICATION OF CATS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/3001.01"
+  ],
+  "notation": "Agr 3001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3000.html",
+  "prefLabel": "Agr 3001 IDENTIFICATION OF CATS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 3001 IDENTIFICATION OF CATS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3000.html"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/201.02",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "0:14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21",
+      "source": "https://granitestate.github.io/rsa/21",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "I",
+        "II",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/201",
+  "definition": "Applicability",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#4846, eff 6-21-90, EXPIRED: 6-21-96 New. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 201.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 201.02 Applicability",
+  "priorExpiration": "1996-06-21",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 201.02 Applicability.\n\n(a) The provisions of Env-WMC 202 and Env-WMC 203 shall apply to all proceedings of the council.\n\n(b) The provisions of Env-WMC 204 and 205 shall apply to all appeals allowed by law to be taken to the council.\n\n(c) Pursuant to RSA 21-0:14, I, this chapter shall not apply to any decision pertaining to rulemaking or declaratory rulings as provided for in RSA 541-A.\n\nSource. #4846, eff 6-21-90, EXPIRED: 6-21-96\n\nNew. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

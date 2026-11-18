@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1706.01",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "Occasional Operations",
+  "authority": [
+    {
+      "citation": "437:1",
+      "source": "https://granitestate.github.io/rsa/437/437-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1706",
+  "definition": "Turtle Size",
+  "effectiveDate": "2024-12-31",
+  "historyNote": "#10834, eff 5-21-15 (from Agr 1703.02); ss by #14164, eff 12-31-24 (formerly Agr 1705.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1706.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html",
+  "prefLabel": "Agr 1706.01 Turtle Size",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1706.01 Turtle Size. In accordance with 21 CFR 1240.62, no person shall sell a turtle that has a carapace less than 4 inches from front to rear.\n\nSource. #10834, eff 5-21-15 (from Agr 1703.02); ss by #14164, eff 12-31-24 (formerly Agr 1705.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html"
+}

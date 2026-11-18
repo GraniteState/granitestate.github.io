@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1502.38",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Low-Permeability Fill",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1502",
+  "definition": "Low-permeability fill",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1502.38",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1502.38 Low-permeability fill",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1502.38 “Low-permeability fill” means fill that is well graded, granular soil with high silt content that is free from foreign matter such as construction debris, trash, wood, roots, leaves, and other organic matter meeting one of the following:\n\n(a) Is a mixture meeting the following sieve analysis specification:\n\n(1) 100% by weight shall pass the 3-inch sieve;\n\n(2) From 80% to 100% by weight shall pass the number 4 sieve;\n\n(3) From 60% to 90% by weight shall pass the number 40 sieve;\n\n(4) From 40% to 60% by weight shall pass the number 100 sieve; and\n\n(5) From 25% to 45% by weight shall pass the number 200 sieve; or\n\n(b) Is a material having a hydraulic conductivity below 0.028 ft/day.\n\nSource. #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

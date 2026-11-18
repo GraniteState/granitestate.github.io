@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pub/201.16",
+  "@type": "Concept",
+  "agencyCode": "Pub",
+  "authority": [
+    {
+      "citation": "273-A:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/273-A/273-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "273-A:16",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/273-A/273-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/pub/201",
+  "definition": "Public Docket",
+  "effectiveDate": "2009-03-27",
+  "historyNote": "#9441-A, eff 3-27-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pub 201.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pub100-300.html",
+  "prefLabel": "Pub 201.16 Public Docket",
+  "recordType": "rule-section",
+  "ruleText": "Pub 201.16 Public Docket. The executive director of the board shall maintain a current public docket of all matters pending before the board and of all decisions rendered by the board.\n\nSource. #9441-A, eff 3-27-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pub100-300.html"
+}

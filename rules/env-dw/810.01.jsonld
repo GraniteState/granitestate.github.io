@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/810.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/810",
+  "definition": "Required Health Effects Language",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 810.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 810.01 Required Health Effects Language",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 810.01 Required Health Effects Language. The O/O shall use the statement(s) specified in this part, as applicable, as the statement required by Env-Dw 801.03(a)(3) to describe violations of groundwater monitoring and treatment requirements specified in Env-Dw 717.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

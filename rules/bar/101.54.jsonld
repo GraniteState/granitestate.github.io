@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/101.54",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/101",
+  "definition": "Threading",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "#14459, eff 1-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 101.54",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 101.54 Threading",
+  "recordType": "rule-section",
+  "ruleText": "Bar 101.54 \"Threading\" means a service provided by a master barber, cosmetologist, or esthetician that results in the removal of hair from its follicle from around the eyebrows and from other parts of the face with the use of a single strand of thread and an astringent. The meaning does not include the use of chemicals of any kind, wax, or any implements, instruments, or tools to remove hair.\n\nSource. #14459, eff 1-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

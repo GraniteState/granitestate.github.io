@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/102.03",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/102",
+  "definition": "Meetings",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14402, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html",
+  "prefLabel": "Hedc 102.03 Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 102.03 Meetings.\n\n(a) The commission shall meet at least 2 times per year.\n\n(b) Emergency meetings shall be called by the chair in accordance with RSA 91-A:2, II and III(b).\n\n(c) A majority of the current membership of the commission shall constitute a quorum.\n\n(d) Meetings of the commission shall follow the provisions of RSA 91-A and Robert’s Rules of Order.\n\n(e) Items requested to be placed on the meeting agenda by any individual shall be in writing to the chair and vice-chair for consideration, and shall meet the following requirements:\n\n(1) The nature of the business and appropriate background information shall be included with each separate item; and\n\n(2) Requests shall reach the commission no later than 2 weeks prior to the date of the meeting at which said items are to be considered.\n\n(f) Exceptions to the procedure in (e) above shall be made when, in the opinion of the chair or a quorum of the commission, the facts warrant such an exception.\n\nSource. #14402, eff 10-15-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html"
+}

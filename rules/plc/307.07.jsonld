@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/307.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/307",
+  "definition": "Reactivation from Inactive Status",
+  "effectiveDate": "2024-05-03",
+  "historyNote": "#13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 307.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 307.07 Reactivation from Inactive Status",
+  "recordType": "rule-section",
+  "ruleText": "Plc 307.07 Reactivation from Inactive Status.\n\n(a) As provided in RSA 310:8, V, the license may be reactivated within one year of the licensee’s release from active status by submitting a written request in accordance with (b), below, together with payment of the application-related fee for renewal and proof of completion of applicable continuing competence requirements if the license term of the license that was put on inactive status has expired.\n\n(b) To request the reactivation of a license that was put on inactive status under Plc 307.06, the licensee shall submit a completed “Request for License Reactivation” form dated March 2024 to CustomerSupport@oplc.nh.gov that provides the following information:\n\n(1) The licensee’s name as it appeared on the license, license number, and profession;\n\n(2) The date the licensee was released from active status; and\n\n(3) The licensee’s designated email address.\n\n(c) If the expiration date of the license that was placed on inactive status has passed, the licensee shall submit proof of completing required continuing competence activities and the application-related fees for renewal with the reactivation request.\n\n(d) The licensee shall sign and date the request prior to filing it with the OPLC.\n\n(e) Upon receipt of a reactivation request, the licensing bureau shall review the request and determine whether application-related fees for renewal and proof of continuing competence are required, provided that:\n\n(1) If a fee and proof of continuing competence are required but were not provided, the licensing bureau shall notify the licensee in writing sent to the designated email address that:\n\na. Identifies the information or fee, or both, that must be submitted before the license will be reactivated; and\n\nb. Establishes a deadline for submitting the required item(s), which shall be no sooner that 20 days from the date of the notification; or\n\n(2) If the inactive license has not expired, the licensing bureau shall reactivate the license and notify the licensee of the reactivation in writing sent to the designated email address.\n\nSource. #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

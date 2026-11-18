@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pod/105.01",
+  "@type": "Concept",
+  "agencyCode": "Pod",
+  "authority": [
+    {
+      "citation": "315:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pod/105",
+  "definition": "Meetings",
+  "effectiveDate": "2025-09-19",
+  "historyNote": "#5391, eff 5-8-92, EXPIRED: 5-8-98 New. #7816, eff 1-7-03; ss by 14372, eff 9-19-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pod 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html",
+  "prefLabel": "Pod 105.01 Meetings",
+  "priorExpiration": "1998-05-08",
+  "recordType": "rule-section",
+  "ruleText": "Pod 105.01 Meetings. The board shall meet quarterly and schedule such additional meetings as business requires.\n\nSource. #5391, eff 5-8-92, EXPIRED: 5-8-98\n\nNew. #7816, eff 1-7-03; ss by 14372, eff 9-19-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pod100-500.html"
+}

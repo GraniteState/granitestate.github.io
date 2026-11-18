@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1901",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1900",
+  "definition": "GENERAL DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/1901.01",
+    "https://granitestate.github.io/rules/rev/1901.02",
+    "https://granitestate.github.io/rules/rev/1901.03",
+    "https://granitestate.github.io/rules/rev/1901.04",
+    "https://granitestate.github.io/rules/rev/1901.05",
+    "https://granitestate.github.io/rules/rev/1901.06",
+    "https://granitestate.github.io/rules/rev/1901.07",
+    "https://granitestate.github.io/rules/rev/1901.08",
+    "https://granitestate.github.io/rules/rev/1901.09",
+    "https://granitestate.github.io/rules/rev/1901.10",
+    "https://granitestate.github.io/rules/rev/1901.11"
+  ],
+  "notation": "Rev 1901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html",
+  "prefLabel": "Rev 1901 GENERAL DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 1901 GENERAL DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1900.html"
+}

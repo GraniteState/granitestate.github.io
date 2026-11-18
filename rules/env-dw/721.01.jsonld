@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/721.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:42",
+      "source": "https://granitestate.github.io/rsa/485/485-42",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/721",
+  "definition": "Definitions",
+  "effectiveDate": "2014-06-01",
+  "historyNote": "#10617, eff 6-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 721.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 721.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 721.01 Definitions.\n\n(a) “Exemption” means an exception from compliance to allow a public water system extra time to comply with a new national primary drinking water regulation, as described in 42 U.S.C. 300g-5.\n\n(b) “Unreasonable risk to health” means a situation where:\n\n(1) The MCL for E. coli, nitrate, or nitrite would be exceeded;\n\n(2) The MCL for any other contaminant would be exceeded by a factor of 5 or more; or\n\n(3) If no MCL has been established, the health risk posed by the expected conditions would exceed a reasonable risk as determined using epidemiological studies.\n\nSource. #10617, eff 6-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

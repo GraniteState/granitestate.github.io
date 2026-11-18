@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.37",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Reporting of Other Illnesses",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Communicable Diseases Prevention, Isolation, and Reporting",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.36)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.37",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.37 Communicable Diseases Prevention, Isolation, and Reporting",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.37 Communicable Diseases Prevention, Isolation, and Reporting.\n\n(a) As required by He-P 301.03, any case or suspected case of a reportable disease, as listed in He-P 301.02, shall be reported by:\n\n(1) The licensed practitioner who assessed, diagnosed, or treated the individual believed to have or suspected of having a reportable disease; or\n\n(2) When no licensed practitioner is present, the camp director.\n\n(b) The report identified in (a), above, shall include all of the information required by He-P 301.03, including the name and home address of the individual known to have or suspected of having the reportable disease.\n\n(c) An individual with a communicable disease at a residence camp shall be placed in isolation and not leave or be removed from strict isolation without permission of the YRC licensed practitioner.\n\n(d) The YRC shall have and implement written policies and procedures for YRC staff for the prevention, control, and reporting of infectious and communicable diseases.\n\n(e) The written policies and procedures shall include:\n\n(1) Proper hand washing techniques;\n\n(2) The utilization of universal precautions;\n\n(3) The management of campers with infectious or contagious diseases or illnesses;\n\n(4) The handling, storage, transportation, and disposal of those items identified as infectious waste in Env-Sw 904; and\n\n(5) The reporting of infectious and communicable diseases as required in (a) and (b) above.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.36)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

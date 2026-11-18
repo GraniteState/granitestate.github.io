@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "358-T:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "417:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "417-F",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J",
+      "source": "https://granitestate.github.io/rsa/420-J",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "paragraphs": [
+        "XII(b)"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Purpose",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.01 Purpose. The purpose of this part is to implement the provisions of RSA 420-J, RSA 417-F, RSA 358-T, RSA 358-A:2, XIX, and RSA 417:4, XV(a)(15) wherein the general court, through Chapter 143 of the laws of 2024, has addressed surprise medical bills by creating standards and procedures for the protection of health insurance consumers and for dispute resolution between a health carrier and a nonparticipating provider or emergency facility regarding the fair value of health care items or services.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

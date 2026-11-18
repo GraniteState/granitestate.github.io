@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/304.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:40",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/304",
+  "definition": "Water Quality Sampling Program",
+  "effectiveDate": "2018-01-01",
+  "historyNote": "#9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 304.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 304.04 Water Quality Sampling Program",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 304.04 Water Quality Sampling Program.\n\n(a) The water quality sampling program required by Env-Dw 304.03(b)(4) shall be as specified in (b) through (f), below.\n\n(b) The owner of the source shall use a laboratory accredited under Env-C 300 to perform the specified tests.\n\n(c) Subject to (d), below, the owner of the source shall submit all analytical results to the department within 14 days of the completion of the analysis.\n\n(d) The owner of the source shall submit analytical results to the department immediately whenever:\n\n(1) Any result exceeds the maximum contaminant level established in Env-Dw 700; or\n\n(2) Any lead or copper result exceeds the action levels established in Env-Dw 714.\n\n(e) Analytical analysis shall use methods that achieve laboratory reporting limits that are at or below:\n\n(1) The maximum contaminant levels established in Env-Dw 700; and\n\n(2) The action levels established in Env-Dw 714.\n\n(f) The parameters tested and testing frequency shall be as follows:\n\n(1) Testing once each calendar month for the absence or presence of total coliform;\n\n(2) Testing once every 3 years for the following inorganic compounds:\n\na. Antimony;\n\nb. Arsenic;\n\nc. Asbestos;\n\nd. Barium;\n\ne. Beryllium;\n\nf. Cadmium;\n\ng. Chromium;\n\nh. Copper;\n\ni. Cyanide;\n\nj. Fluoride;\n\nk. Lead;\n\nl. Mercury;\n\nm. Selenium; and\n\nn. Thallium;\n\n(3) Testing once each calendar year for nitrate and nitrite; and\n\n(4) Testing once every 3 years for the following volatile organic compounds:\n\na. Benzene;\n\nb. Carbon tetrachloride;\n\nc. cis-1,2-Dichloroethylene;\n\nd. 1,2-Dichloroethane;\n\ne. para-Dichlorobenzene (1,4-Dichlorobenzene);\n\nf. 1,1-Dichloroethylene;\n\ng. Dichloromethane (Methylene chloride);\n\nh. Ethylbenzene;\n\ni. 1,2-Dichloropropane;\n\nj. Methyl tertiary-butyl ether (MtBE);\n\nk. Monochlorobenzene (chlorobenzene);\n\nl. o-Dichlorobenzene;\n\nm. Styrene;\n\nn. Tetrachloroethylene;\n\no. Toluene;\n\np. trans-1,2-Dichloroethylene;\n\nq. Trichlorobenzene;\n\nr. 1,1,1-Trichloroethane;\n\ns. 1,1,2-Trichloroethane;\n\nt. Trichloroethylene;\n\nu. Vinyl chloride; and\n\nv. Xylene.\n\nSource. #9577, eff 10-23-09; ss by #12444, eff 1-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

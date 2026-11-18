@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/102.01",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "188-F:22",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/102",
+  "definition": "Scope of Council Authority",
+  "effectiveDate": "2000-06-08",
+  "historyNote": "#1534, eff 2-17-80; ss by #1988, eff 3-25-82; ss by #2783, eff 7-27-84; ss by #4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 102.01 Scope of Council Authority",
+  "recordType": "rule-section",
+  "ruleText": "Pol 102.01 Scope of Council Authority. The council shall carry out the responsibilities delegated to it in RSA 188-F:26, and shall require hiring authorities to submit reports, documentation and information pertinent to the efficient functioning of the council, as described in these rules.\n\nSource. #1534, eff 2-17-80; ss by #1988, eff 3-25-82; ss by #2783, eff 7-27-84; ss by #4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

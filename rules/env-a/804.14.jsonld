@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.14",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Test Methods for Compliance Stack Testing for VOCs",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.14 Test Methods for Compliance Stack Testing for VOCs",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.14 Test Methods for Compliance Stack Testing for VOCs.\n\n(a) The owner or operator of a stationary source performing compliance stack testing in order to demonstrate compliance with Env-A 1200 shall use the following test methods, as applicable:\n\n(1) Methods 1-4 in 40 CFR 60, Appendix A, for determining flow rates; and\n\n(2) Methods 18, 25, 25A or 25B in 40 CFR 60, Appendix A, for determining gaseous organic concentrations.\n\n(b) For purposes of this section, parts per million by volume (ppmv) shall be expressed:\n\n(1) In terms of the calibration gas used during the stack test or as the actual constituent measured; and\n\n(2) On the same basis as the outlet concentration.\n\n(c) Measurements made pursuant to this section may be on a wet or dry basis but shall be consistent with the basis of all concentration and volumetric flow values used in the formula in (d), below.\n\n(d) The removal efficiency of the add-on control system shall be determined, as applicable, by simultaneously measuring the inlet and outlet gas-phase VOC concentrations and gas volumetric flow rates using the testing methods specified above and the following formula:\n\n(1) “RE” means the VOC removal efficiency of the control device in percentage;\n\n(2) “Qi” means the volumetric flow rate of the inlet gas flowing into the control device, in standard cubic feet per hour (SCFH);\n\n(3) “Ci” means the concentration of VOC flowing into the control device, in ppmv;\n\n(4) “n” means the number of input gaseous streams feeding the control device;\n\n(5) “Qo” means the volumetric flow rate of the outlet gas exiting the control device, in SCFH;\n\n(6) “Co” means the concentration of VOC exiting the control device, in ppmv;\n\n(7) “m” means the number of emission vents leaving the control device; and\n\n(8) RE shall be equal to the sum of the products of Qi and Ci for input gaseous streams one through n, minus the sum of the products of Qo and Co for emission vents one through m, divided by the sum of the products of Qi and Ci for input gaseous streams one through n, the entire quantity multiplied by 100 to convert to percentage, as in the following equation:\n\nRE= x100\n\n(e) The owner or operator of a stationary source that achieves compliance with Env-A 1200 through the operation of an add-on control system shall also perform capture efficiency testing as applicable in accordance with Env-A 805.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

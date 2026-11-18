@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/302.22",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/302",
+  "definition": "Wellhead Protection Area Refinement",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 302.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 302.22 Wellhead Protection Area Refinement",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 302.22 Wellhead Protection Area Refinement.\n\n(a) The applicant shall refine the estimated wellhead protection area presented in the preliminary report using one of the methods described in Env-Dw 302.11 or an alternate method described pursuant to (d), below, as explained in the preliminary report.\n\n(b) If the applicant wishes to change the refinement method described in the preliminary report, the applicant shall submit a written request to the department that includes a detailed description of the requested change and the reason(s) why the change is being requested.\n\n(c) The department shall approve a request to alter the refinement method if the method as proposed to be changed results in a wellhead protection area that is technically equal to, or more conservative than, the wellhead protection area that the original method would have produced.\n\n(d) An alternative wellhead protection area refinement method shall be an analytical or numerical model that incorporates aquifer parameter values derived from the pumping test, provided that model’s assumptions are not violated and conservative estimates of aquifer parameter values are used. The use of models that rely on porous media assumptions shall be allowed only for use with a bedrock production well if those assumptions are demonstrated to be valid for the well site.\n\nSource. (See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

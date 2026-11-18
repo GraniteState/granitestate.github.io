@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.32",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:33",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Return of Exhibits",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #6762, eff 7-1-98; ss by #7153, eff 12-10-99; ss by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.32",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.32 Return of Exhibits",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.32 Return of Exhibits.\n\n(a) In eminent domain proceedings, exhibits shall be available for pick up once the board’s just compensation report is issued. Exhibits not picked up within 90 days of the board’s just compensation report shall be destroyed.\n\n(b) In all other proceedings, upon written request, exhibits shall be available for pick up 45 days after decision becomes final. Exhibits not picked up within 90 days of the date a decision becomes final shall be destroyed.\n\nSource. #5638, eff 9-1-93; ss by #6762, eff 7-1-98; ss by #7153, eff 12-10-99; ss by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

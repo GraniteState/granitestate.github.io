@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1401",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:6",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1400",
+  "definition": "PURPOSE AND APPLICABILITY; DEFINITION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1401.01",
+    "https://granitestate.github.io/rules/env-a/1401.02",
+    "https://granitestate.github.io/rules/env-a/1401.03"
+  ],
+  "notation": "Env-A 1401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1401 PURPOSE AND APPLICABILITY; DEFINITION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 1401 PURPOSE AND APPLICABILITY; DEFINITION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

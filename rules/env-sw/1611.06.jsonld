@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1611.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1611",
+  "definition": "Renewal Certification Expiration; Adjustment of Expiration Date",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "#10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1611.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html",
+  "prefLabel": "Env-Sw 1611.06 Renewal Certification Expiration; Adjustment of Expiration Date",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1611.06 Renewal Certification Expiration; Adjustment of Expiration Date.\n\n(a) The expiration date for a renewed certification shall be one year from the expiration date of the certification being renewed, regardless of the date it is actually issued.\n\n(b) At the time of filing an application for renewal, an operator whose certification has not expired or been suspended or revoked may request a change in the expiration date of the renewal certificate by submitting a written request with the renewal application that includes an explanation of why the operator wishes to change the date.\n\n(c) The department shall adjust the expiration date in response to a request that complies with (b), above, if:\n\n(1) The date requested for renewal is no more than one year from the current renewal date; and\n\n(2) The operator has not been or will not be working at a facility, whether for pay or as a volunteer, for 6 months or more due to illness, injury, family requirements, military deployment, or other such reason.\n\nSource. #10600, eff 7-1-14; ss by #13623, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1600.html"
+}

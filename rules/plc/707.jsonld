@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/707",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "OFFICE, SCHOOL, AND PRACTIVE REQUIREMENTS; SANITATION; INSPECTIONS",
+  "authority": [
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "314:8",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/700",
+  "definition": "OFFICE, SCHOOL, AND PRACTICE REQUIREMENTS; SANITATION; INSPECTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/707.01",
+    "https://granitestate.github.io/rules/plc/707.02",
+    "https://granitestate.github.io/rules/plc/707.03",
+    "https://granitestate.github.io/rules/plc/707.04",
+    "https://granitestate.github.io/rules/plc/707.05",
+    "https://granitestate.github.io/rules/plc/707.06",
+    "https://granitestate.github.io/rules/plc/707.07",
+    "https://granitestate.github.io/rules/plc/707.08",
+    "https://granitestate.github.io/rules/plc/707.09"
+  ],
+  "notation": "Plc 707",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 707 OFFICE, SCHOOL, AND PRACTICE REQUIREMENTS; SANITATION; INSPECTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 707 OFFICE, SCHOOL, AND PRACTICE REQUIREMENTS; SANITATION; INSPECTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

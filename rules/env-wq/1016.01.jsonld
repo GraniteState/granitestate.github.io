@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1016.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Bed Size For All EDAs",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1016",
+  "definition": "Bed Size for all EDAs",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "#14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1016.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1016.01 Bed Size for all EDAs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1016.01 Bed Size for all EDAs. Unless otherwise specified in this part or in a manual that has been approved by the department in accordance with Env-Wq 1024, EDA sizing shall be:\n\n(a) For residential use only, the bed size for the flow of the use listed in Table 1008-1;\n\n(b) For commercial use only, the bed size for the flow of the use listed in Table 1008-1;\n\n(c) For combined residential and commercial uses, the bed size shall be the bed size for the residential flow plus the bed size for the commercial flow; and\n\n(d) For a one-bedroom residence, the bed size shall be half of the bed size that is required for a 3 bedroom residence.\n\nSource. #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

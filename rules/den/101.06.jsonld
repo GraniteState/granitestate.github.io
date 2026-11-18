@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.06",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Certification",
+  "effectiveDate": "2003-10-10",
+  "historyNote": "#7969, eff 10-10-03; renumbered by #14140 (formerly Den 101.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.06 Certification",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.06 “Certification” means the process attesting that an individual has met certain predetermined standards specified by the certifying body.\n\nSource. #7969, eff 10-10-03; renumbered by #14140 (formerly Den 101.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

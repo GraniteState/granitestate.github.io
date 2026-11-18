@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/103.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:5",
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:6",
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/103",
+  "definition": "OPLC Organizational Structure",
+  "effectiveDate": "2024-12-01",
+  "historyNote": "#14135, eff 12-1-24 (formerly Plc 102.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 103.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 103.04 OPLC Organizational Structure",
+  "recordType": "rule-section",
+  "ruleText": "Plc 103.04 OPLC Organizational Structure. The OPLC comprises:\n\n(a) The office of the executive director, described in Plc 103.05;\n\n(b) The division of licensing and board administration, described in Plc 103.06; and\n\n(c) The division of enforcement, described in Plc 103.07.\n\nSource. #14135, eff 12-1-24 (formerly Plc 102.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

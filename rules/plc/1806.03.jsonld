@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1806.03",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:17",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1805",
+  "definition": "Certificant Responsibilities for Renewal",
+  "effectiveDate": "2025-09-22",
+  "expirationDate": "2035-09-22",
+  "historyNote": "#14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1806.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html",
+  "prefLabel": "Plc 1806.03 Certificant Responsibilities for Renewal",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1806.03 Certificant Responsibilities for Renewal. Each certificant shall:\n\n(a) Know when the certificant’s certification is due to expire; and\n\n(b) File an application for renewal prior to the expiration of the current certification in accordance with Plc 1807 if the certificant wishes to continue to work as an assessing professional in New Hampshire and does not yet qualify to be certified in a higher classification.\n\nSource. #14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html"
+}

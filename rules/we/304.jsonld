@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/304",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "altLabel": "RECIPROCITY",
+  "authority": [
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:5",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/we/300",
+  "definition": "EXAMINATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/304.01",
+    "https://granitestate.github.io/rules/we/304.02",
+    "https://granitestate.github.io/rules/we/304.03",
+    "https://granitestate.github.io/rules/we/304.04"
+  ],
+  "notation": "We 304",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 304 EXAMINATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART We 304 EXAMINATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

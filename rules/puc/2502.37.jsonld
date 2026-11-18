@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.37",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Small Thermal Source",
+  "authority": [
+    {
+      "citation": "362-F:2",
+      "paragraphs": [
+        "XV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-2",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Small thermal source",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.35)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.37",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.37 Small thermal source",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.37 “Small thermal source” means a source with a total gross nameplate heating capacity of its REC eligible units, combined, of 1,000,000 Btu per hour or less of heat input.\n\nSource. #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.35)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/104.05",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "II(d)",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/104",
+  "definition": "Unavailability of Public Records",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "#10053, eff 1-1-12 (from Ac 103.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 104.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 104.05 Unavailability of Public Records",
+  "recordType": "rule-section",
+  "ruleText": "Ac 104.05 Unavailability of Public Records. If the board is unable to make a governmental public record available for immediate inspection and photocopying, then it shall, within 5 business days of request:\n\n(a) Make such record available;\n\n(b) Deny the request in writing with reasons; or\n\n(c) Furnish written acknowledgment of receipt of the request and a statement of the time reasonably necessary to determine whether the request will be granted or denied.\n\nSource. #10053, eff 1-1-12 (from Ac 103.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

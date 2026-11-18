@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.19",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Immediate Family Member",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#9553, eff 9-25-09, EXPIRED: 9-25-17 New. #12938, eff 12-9-19 (formerly Jus 602.16)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.19 Immediate Family Member",
+  "priorExpiration": "2017-09-25",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.19 “Immediate Family Member” means a person who has one of the following relationships with the victim:\n\n(a) Parent, stepparent, or domestic partner of a parent;\n\n(b) Child or stepchild;\n\n(c) Sibling or stepsibling;\n\n(d) Spouse;\n\n(e) Domestic partner; or\n\n(f) Any other person either legally obligated to provide financial support or having previously provided substantial support to a victim.\n\nSource. #9553, eff 9-25-09, EXPIRED: 9-25-17\n\nNew. #12938, eff 12-9-19 (formerly Jus 602.16)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

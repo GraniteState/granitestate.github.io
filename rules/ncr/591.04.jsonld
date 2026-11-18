@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/591.04",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "X-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "227-G:10",
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-G/227-G-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/591",
+  "definition": "Multiple Violations",
+  "effectiveDate": "2025-12-06",
+  "expirationDate": "2035-12-06",
+  "historyNote": "#14243, INTERIM, eff 4-23-25; ss by #14452 (formerly Ncr 5901.04), eff 12-6-25, EXPIRES 12-6-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 591.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html",
+  "prefLabel": "Ncr 591.04 Multiple Violations",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 591.04 Multiple Violations.\n\n(a) Multiple violations of the same offense resulting from a single incident shall be counted as one conviction for the purpose of assessing points. Violations of separate offenses resulting from a single incident shall be counted as separate convictions for the purpose of assessing points.\n\n(b) For the purposes of this section, single incident means violation(s) of a timber harvesting operation occurring under the same intent to cut number required by RSA 79:10, or under the same property owner within a calendar year for those timber harvesting operations not requiring an intent to cut. It shall not be considered a single incident when a subsequent violation of the same offense occurs after a previous violation for which official action has already been taken.\n\nSource. #14243, INTERIM, eff 4-23-25; ss by #14452 (formerly Ncr 5901.04), eff 12-6-25, EXPIRES 12-6-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html"
+}

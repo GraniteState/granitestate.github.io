@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/301",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/300",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pas/301.01",
+    "https://granitestate.github.io/rules/pas/301.02",
+    "https://granitestate.github.io/rules/pas/301.03",
+    "https://granitestate.github.io/rules/pas/301.04",
+    "https://granitestate.github.io/rules/pas/301.05",
+    "https://granitestate.github.io/rules/pas/301.06",
+    "https://granitestate.github.io/rules/pas/301.07",
+    "https://granitestate.github.io/rules/pas/301.08",
+    "https://granitestate.github.io/rules/pas/301.09",
+    "https://granitestate.github.io/rules/pas/301.10",
+    "https://granitestate.github.io/rules/pas/301.11",
+    "https://granitestate.github.io/rules/pas/301.12",
+    "https://granitestate.github.io/rules/pas/301.13",
+    "https://granitestate.github.io/rules/pas/301.14",
+    "https://granitestate.github.io/rules/pas/301.15"
+  ],
+  "notation": "Pas 301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 301 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pas 301 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

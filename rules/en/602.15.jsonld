@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/602.15",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Water Utility",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362",
+      "source": "https://granitestate.github.io/rsa/362",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/601",
+  "definition": "Water utility",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 602.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html",
+  "prefLabel": "En 602.15 Water utility",
+  "recordType": "rule-section",
+  "ruleText": "En 602.15 \"Water utility\" means any \"public utility\" as defined in RSA 362:2 and RSA 362:4 owning, operating, or managing any plant or equipment or any part of the same for supplying of water to the public, or engaged in the transmission or sale of water ultimately sold to the public within New Hampshire except:\n\n(a) Municipal corporations operating within their corporate limits;\n\n(b) Municipal corporations which are exempt pursuant to RSA 362:4, to the extent of any such exemption;\n\n(c) Any landlord supplying water to tenants which service is included in a rental fee; or\n\n(d) Any association of residents supplying water to themselves.\n\nSource. #13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html"
+}

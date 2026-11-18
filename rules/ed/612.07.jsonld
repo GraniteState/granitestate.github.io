@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/612.07",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N",
+      "source": "https://granitestate.github.io/rsa/21-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N",
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/612",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 612.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html",
+  "prefLabel": "Ed 612.07",
+  "recordType": "rule-section",
+  "ruleText": "Ed 612.07\n\n#2055, eff 6-16-82\n\n#2714, eff 5-16-84, EXPIRED 5-16-90\n\n#4851, eff 6-25-90, EXPIRED 6-25-96\n\n#6366, eff 10-30-96, paragraphs (b)-(h) EXPIRED: 10-30-04\n\n#8024, eff 7-1-04\n\n#8229, eff 12-17-04\n\n#9157, eff 7-1-08\n\n#9991, eff 9-16-11, EXPIRED: 9-16-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html"
+}

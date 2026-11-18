@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7212",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:20",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:22",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "FINANCIAL RECORDKEEPING, REPORTING, AND PAYMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7212.01",
+    "https://granitestate.github.io/rules/lot/7212.02",
+    "https://granitestate.github.io/rules/lot/7212.03",
+    "https://granitestate.github.io/rules/lot/7212.04",
+    "https://granitestate.github.io/rules/lot/7212.05",
+    "https://granitestate.github.io/rules/lot/7212.06",
+    "https://granitestate.github.io/rules/lot/7212.07",
+    "https://granitestate.github.io/rules/lot/7212.08",
+    "https://granitestate.github.io/rules/lot/7212.09"
+  ],
+  "notation": "Lot 7212",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7212 FINANCIAL RECORDKEEPING, REPORTING, AND PAYMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7212 FINANCIAL RECORDKEEPING, REPORTING, AND PAYMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

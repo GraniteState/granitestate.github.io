@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/308.01",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "217-A:2",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "217-A:6",
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "217-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5",
+    "https://granitestate.github.io/rsa/217-A/217-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/308",
+  "definition": "Conservation Programs",
+  "effectiveDate": "2020-01-24",
+  "historyNote": "(See Revision Note at chapter heading for Ncr 300) #12980, eff 1-24-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 308.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html",
+  "prefLabel": "Ncr 308.01 Conservation Programs",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 308.01 Conservation Programs.\n\n(a) The natural heritage bureau shall establish programs for the protection of species listed under RSA 217-A:6 and for exemplary natural communities.\n\n(b) Functions of conservation programs shall be at a minimum, but are not limited to:\n\n(1) Acquisition of land and interests in land;\n\n(2) Agreements with federal agencies, other states, agencies or political subdivisions of New Hampshire, or with individuals or private organizations for administration and management of any program; and\n\n(3) Receipt and expenditure of funds, donations, grants, or other moneys, gifts, or bequests not exceeding $5,000, or exceeding $5,000 with the approval of the governor and council.\n\nSource. (See Revision Note at chapter heading for Ncr 300) #12980, eff 1-24-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html"
+}

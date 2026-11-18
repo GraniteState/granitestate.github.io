@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/307",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:4",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/300",
+  "definition": "SERVICE CREDITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ret/307.01",
+    "https://granitestate.github.io/rules/ret/307.02",
+    "https://granitestate.github.io/rules/ret/307.03",
+    "https://granitestate.github.io/rules/ret/307.04",
+    "https://granitestate.github.io/rules/ret/307.05",
+    "https://granitestate.github.io/rules/ret/307.06"
+  ],
+  "notation": "Ret 307",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 307 SERVICE CREDITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ret 307 SERVICE CREDITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4606.10",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:20",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4606",
+  "definition": "Determination of Voluntary Renewable Energy Purchases",
+  "effectiveDate": "2020-01-01",
+  "historyNote": "#10468, eff 1-1-14 (from Env-A 4606.07); ss by #12967, eff 1-1-20 (from Env-A 4606.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4606.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4600.html",
+  "prefLabel": "Env-A 4606.10 Determination of Voluntary Renewable Energy Purchases",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4606.10 Determination of Voluntary Renewable Energy Purchases.\n\n(a) For purposes of this section, “voluntary renewable energy purchase” means a purchase of electricity from renewable energy generation or renewable energy attribute credits by a retail electricity customer on a voluntary basis.\n\n(b) The renewable energy generation or renewable energy attribute credits related to purchases of voluntary renewable energy shall not be used by the generator or purchaser to meet any regulatory mandate, such as a renewable portfolio standard.\n\n(c) In order to be considered under the voluntary renewable energy credit (VREC) set-aside program, information as specified in (d), below, shall be submitted to the department no later than the July 30th for the prior calendar year.\n\n(d) Information regarding the purchase of VREC submitted pursuant to (c), above, shall be verifiable, and include the following:\n\n(1) Documentation of the number of VREC purchases by retail customers in New Hampshire, by customer class;\n\n(2) Certification that the VREC purchases by retail customers in New Hampshire will not be resold;\n\n(3) Specification of the time period during which each retail purchase was made;\n\n(4) Identification of the state in which the electricity was generated or the renewable energy attribute credit was created, including facility name, unique generator identification number, and fuel type; and\n\n(5) Specification of the time period during which the electricity was generated or the renewable energy attribute credit was created.\n\n(e) Based on information received pursuant to (c), above, the department shall quantify the VREC purchases in New Hampshire during the prior calendar year by multiplying the megawatt-hours (MWh) of voluntary REC purchases in the prior year (MWhREC) by the most current marginal CO2 emissions rate (MER), in tons of CO2 per MWh, as reported by the Independent System Operator of New England, as shown in the following equation:\n\nVREC purchases = MWhREC X MER\n\nSource. #10468, eff 1-1-14 (from Env-A 4606.07); ss by #12967, eff 1-1-20 (from Env-A 4606.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4600.html"
+}

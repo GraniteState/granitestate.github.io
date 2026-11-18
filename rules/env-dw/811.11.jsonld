@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Data Presentation: Format",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.11 Data Presentation: Format",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.11 Data Presentation: Format.\n\n(a) The CCR shall contain the contaminant information specified in Env-Dw 811.09 and Env-Dw 811.10 in a table format.\n\n(b) If a CWS O/O chooses to include data not required by this part to be reported in the CCR, a separate table shall be used for such data.\n\n(c) If a CWS distributes water from multiple hydraulically-independent distribution systems that are fed by different raw water sources, the CCR shall contain, in table form:\n\n(1) A separate column for each service area; and\n\n(2) The identity of each separate distribution system.\n\n(d) The CCR shall be based on data collected during the previous calendar year that was used to determine compliance with EPA’s monitoring and analytical requirements as specified in 40 CFR 141 and 40 CFR 143, and the department’s monitoring and analytical requirements as specified in Env-Dw 700, except that:\n\n(1) Where a CWS O/O is required to monitor for a regulated contaminant less frequently than once a year, the CCR shall:\n\na. Include the date and results of the most recent sampling period;\n\nb. Include a brief statement indicating that the data presented in the CCR is from the most recent sampling period in accordance with department rules; and\n\nc. Not include any data older than 5 years; and\n\n(2) Results of monitoring in compliance with Env-Dw 703, Env-Dw 705, and Env-Dw 706 shall only be included for 5 years from the date of the last sample or until any of the detected contaminants becomes regulated and subject to routine monitoring requirements, whichever comes first.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/504.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:6-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5",
+    "https://granitestate.github.io/rsa/147-A/147-A-6-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/504",
+  "definition": "Notification Determination for an EPA Identification Number",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 504.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html",
+  "prefLabel": "Env-Hw 504.03 Notification Determination for an EPA Identification Number",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 504.03 Notification Determination for an EPA Identification Number.\n\n(a) If the generator has not provided all of the information required by Env-Hw 504.02(a) or (d), as applicable, and the fee required by Env-Hw 504.02(f), the department shall notify the generator in writing of each deficiency.\n\n(b) If the generator does not respond to the department’s written notice of deficiencies and correct the deficiencies identified therein within 30 days of such notice, then no EPA identification number shall be assigned and the generator shall submit a new notification prior to engaging in any activities regulated by the hazardous waste rules.\n\n(c) If a notification is complete in that it includes all information required by Env-Hw 504.02(a) or (d), as applicable, and the fee required by Env-Hw 504.02(f), the department shall assign an EPA identification number.\n\n(d) An EPA identification number shall remain valid until the department receives a request from the generator to:\n\n(1) Inactivate the number, as specified in Env-Hw 505.02; or\n\n(2) Declassify the number, as specified in Env-Hw 505.04.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12347, eff 8-14-17; ss by #14280, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw500.html"
+}

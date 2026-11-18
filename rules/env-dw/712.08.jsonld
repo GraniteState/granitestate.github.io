@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/712.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/712",
+  "definition": "Compliance Determination for VOC Contaminants",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 712.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 712.08 Compliance Determination for VOC Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 712.08 Compliance Determination for VOC Contaminants.\n\n(a) Compliance with Env-Dw 705.01 shall be determined based on the analytical results obtained at each sampling point identified in the sampling schedule established pursuant to Env-Dw 708.01.\n\n(b) For a PWS at which monitoring is conducted at a frequency greater than annually, the following shall apply:\n\n(1) The department shall determine compliance based on a running annual average, as defined in Env-Dw 100, of all samples collected at each sampling point;\n\n(2) If the running annual average of any sampling point is greater than the MCL, the PWS shall be out of compliance; and\n\n(3) If any sample result is more than 4 times the MCL at any sample point, the PWS shall be out of compliance.\n\n(c) For purposes of determining the running annual average, any sample below the detection limit shall be calculated as zero.\n\n(d) If monitoring is conducted annually or less frequently, the PWS shall be out of compliance if the level of a VOC contaminant at any sampling point is greater than the MCL. If confirmation samples are required by Env-Dw 712.04, the determination of compliance shall be based on the average of the initial and confirmation samples.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4043.08",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4043",
+  "definition": "Additional Requirements for Closed-Beam RGDs",
+  "effectiveDate": "2025-08-08",
+  "expirationDate": "2035-08-08",
+  "historyNote": "#14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4043.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html",
+  "prefLabel": "He-P 4043.08 Additional Requirements for Closed-Beam RGDs",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4043.08 Additional Requirements for Closed-Beam RGDs.\n\n(a) The radiation source, sample or object, detector, and analyzing crystal, if used, shall be enclosed in a chamber or coupled chambers that cannot be entered by any part of the body during normal operation.\n\n(b) All doors and panels accessing the RGDs shall be interlocked.\n\n(c) The system enclosure shall be interlocked with either the x–ray tube high voltage supply or a shutter in the primary beam, or both, so that no x-ray beam can enter the sample or object chamber while it is open unless the interlock has been conspicuously and deliberately defeated.\n\n(d) Adequate administrative controls shall be exercised to ensure operations will not continue without a proper functioning interlock.\n\n(e) The radiation emission for all closed beam RGDs shall not exceed a dose rate of 0.005 mSv (0.5 mrem) in one hour at 5 centimeters outside any accessible surface.\n\n(f) Baggage units shall be provided with means to ensure operator presence at the control area in a position which permits surveillance of the openings and doors during generation of x-radiation. The operator shall also be provided with means to:\n\n(1) Enable the operator to terminate the exposure or preset succession of exposures at any time during an exposure or preset succession of exposures of one-half second or greater duration; and\n\n(2) Allow completion of the exposure in progress but enable the operator to prevent additional exposures during an exposure or preset succession of exposures of less than one-half second duration.\n\nSource. #14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html"
+}

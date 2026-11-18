@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/802.05",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-B:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-B/78-B-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-B:1-a",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-B:2",
+      "source": "https://granitestate.github.io/rsa/78-B/78-B-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-B:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-B/78-B-1",
+    "https://granitestate.github.io/rsa/78-B/78-B-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/802",
+  "definition": "Transfers of Interests in Real Estate Holding Companies",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#1169, eff 5-23-78; ss by #2154, eff 10-11-82; ss by #2822, eff 8-17-84; ss by #5300, eff 12-26-91; ss by #6691, eff 2-21-98, EXPIRED: 2-21-06 New. #8579, eff 3-8-06; ss by #10665, eff 9-9-14; amd by #10882, eff 7-11-15; amd by #11022, eff 1-21-16; ss by 14071, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 802.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev800.html",
+  "prefLabel": "Rev 802.05 Transfers of Interests in Real Estate Holding Companies",
+  "priorExpiration": "2006-02-21",
+  "recordType": "rule-section",
+  "ruleText": "Rev 802.05 Transfers of Interests in Real Estate Holding Companies.\n\n(a) In instances where an interest in a real estate holding company is granted, sold, or transferred in any manner by the owner to another person or entity:\n\n(1) Such action, unless specifically exempted under RSA 78-B:2, shall create a taxable transfer of the real estate or the interest in real estate; and\n\n(2) The consideration subject to tax shall be determined in accordance with Rev 805.01, as in the following example:\n\nMember A and Member B each own 50% of Real Estate Holding Company, LLC. Real Estate Holding Company, LLC owns New Hampshire real estate with a fair market value of $1 million. Member A sells the 50% ownership interest in Real Estate Holding Company, LLC to New Member C for $250,000. No additional consideration is exchanged. Under RSA 78-B, the sale between Member A and New Member C shall be deemed a taxable sale, granting, or transfer. The amount of consideration shall be $500,000 in accordance with Rev 805.01. There shall not be a taxable sale, granting, or transfer with respect to Member B or Real Estate Holding Company, LLC.\n\n(b) A contribution of New Hampshire real estate, which is already subject to tax under RSA 78-B:1, I(a), to a real estate holding company shall not be subject to the real estate transfer tax on the transfer of an interest in a real estate holding company.\n\n(c) A distribution of New Hampshire real estate, which is already subject to tax under RSA 78-B:1, I(a), from a real estate holding company to one of its interest holders shall not be subject to the real estate transfer tax on the transfer of an interest in a real estate holding company.\n\n(d) A sale, granting, or transfer of an interest in an entity that holds, either directly or indirectly, an interest in a real estate holding company, shall be considered to be a sale, granting, or transfer of an interest in the real estate holding company to the extent of the ownership interest of the entity in the real estate holding company. However, such a sale, granting, or transfer shall be exempt from tax under RSA 78-B if the transfer of the interest has a de minimis impact on the overall ownership interest of the real estate holding company based on the number of owners and the interests held by each, as in the following example:\n\nTrust ABC invests in a hedge fund, which owns a small number of shares of Apartment REIT. Apartment REIT is a publicly-traded real estate holding company with thousands of shareholders. Apartment REIT owns real estate within and without New Hampshire. Trust ABC cashes out of the hedge fund. The sale is a taxable sale, granting, or transfer under RSA 78-B. However, the sale is exempt pursuant to Rev 802.05(d), because the sale has a de minimus impact on the overall ownership of Apartment REIT based on the number of owners of Apartment REIT, the interests of the owners in Apartment REIT, including the hedge fund, and the interest of Trust ABC in the hedge fund.\n\nSource. #1169, eff 5-23-78; ss by #2154, eff 10-11-82; ss by #2822, eff 8-17-84; ss by #5300, eff 12-26-91; ss by #6691, eff 2-21-98, EXPIRED: 2-21-06\n\nNew. #8579, eff 3-8-06; ss by #10665, eff 9-9-14; amd by #10882, eff 7-11-15; amd by #11022, eff 1-21-16; ss by 14071, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev800.html"
+}

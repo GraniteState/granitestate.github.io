@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/3002.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/3002",
+  "definition": "Aggregator",
+  "effectiveDate": "2026-06-05",
+  "expirationDate": "2036-06-05",
+  "historyNote": "#7811, eff 12-28-02; ss by #9796-A, eff 9-25-10; ss by #12757, eff 6-1-19 (from Puc 3002.02); ss by #14613, eff 6-5-26, EXPIRES: 6-5-36 (formerly Puc 3002.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 3002.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html",
+  "prefLabel": "Puc 3002.02 Aggregator",
+  "recordType": "rule-section",
+  "ruleText": "Puc 3002.02 “Aggregator” means any person or entity that aggregates natural gas load but takes no ownership of the natural gas supplies needed to meet that aggregated load. The term includes, but is not limited to, any person or entity that facilitates or otherwise arranges for the purchase or sale of natural gas between customers and approved competitive natural gas suppliers. The term does not include any employee aggregating load on behalf of her or his employer.\n\nSource. #7811, eff 12-28-02; ss by #9796-A, eff 9-25-10; ss by #12757, eff 6-1-19 (from Puc 3002.02); ss by #14613, eff 6-5-26, EXPIRES: 6-5-36 (formerly Puc 3002.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html"
+}

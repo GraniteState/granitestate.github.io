@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Calculation of Daily-Weighted Average for a Coating Line Using Multiple Coatings",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#6087, eff 8-31-95; ss by #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.06 Calculation of Daily-Weighted Average for a Coating Line Using Multiple Coatings",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.06 Calculation of Daily-Weighted Average for a Coating Line Using Multiple Coatings. The owner or operator of a coating source subject to a pounds VOC/gallon coating standard as specified in Env-A 1200, using multiple coatings on a single line, may choose to demonstrate compliance with such standard by calculating a daily-weighted average as follows:\n\n(a) “Pounds per gallon of coating, daily-weighted (PW)” means the daily‑weighted average VOC content of the coatings, as applied, used on a coating line or operation in units of lb VOC per gal of coating or kg VOC per l of coating, minus water and exempt VOC compounds;\n\n(b) “n” means the number of different coatings or diluents, as applied, used each day on a coating line or operation;\n\n(c) “i” means the subscript denoting an individual coating or diluent;\n\n(d) “Vi” means the volume of the coating or diluent i, as applied, used each day on a coating line or operation in units of gal or l, minus water and exempt VOC compounds;\n\n(e) “Ci” means the VOC content of the coating or diluent i, as applied, used each day on a coating line or operation in units of lb VOC/gal of coating, or kg VOC/l of coating less water and exempt VOC compounds, as determined from the Method 24 or 24A analysis and the calculation procedures in section 2.2 of EPA-340/1-86-016, A Guideline for Surface Coating Calculations, July, 1986;\n\n(f) “VT” means the total volume of all coatings, as applied, used each day on a coating line or operation in units of gal or l, minus water and exempt VOC compounds; and\n\n(g) The PW shall be equal to the sum of the products of Vi and Ci for coatings or diluents one through n, divided by VT , as in the following equation:\n\nSource. #6087, eff 8-31-95; ss by #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

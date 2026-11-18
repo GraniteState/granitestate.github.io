@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb/201",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "authority": [
+    {
+      "citation": "357-D:5",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/arb/200",
+  "definition": "SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/arb/201.01",
+    "https://granitestate.github.io/rules/arb/201.02"
+  ],
+  "notation": "Arb 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html",
+  "prefLabel": "Arb 201 SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Arb 201 SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html"
+}

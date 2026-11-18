@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3308.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-c",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-10-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-10-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3308",
+  "definition": "Operating Practices",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3308.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3308.02 Operating Practices",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3308.02 Operating Practices. A large MWC facility combusting PWR shall:\n\n(a) Combust PWR only from November 15 through the following April 15;\n\n(b) Combust no more than 10,000 tons of PWR during the time period specified in (a), above; and\n\n(c) Use, for combustion purposes, only PWR obtained from PWR suppliers that meet the requirements in Env-A 3308.04.\n\nSource. #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

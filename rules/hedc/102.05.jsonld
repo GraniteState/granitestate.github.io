@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/102.05",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/102",
+  "definition": "Public Access to Records",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14402, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 102.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html",
+  "prefLabel": "Hedc 102.05 Public Access to Records",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 102.05 Public Access to Records.\n\n(a) Pursuant to RSA 91-A:4, members of the public may inspect and copy those records of the commission, including meeting minutes, which are public records and not exempt from disclosure under RSA 91-A:5 or other applicable law.\n\n(b) Public records shall be inspected and copied at the office of the commission at the location stated in Hedc 102.04(a) during regular business hours.\n\n(c) Persons desiring copies of public records shall reasonably describe the information being sought and pay the actual cost of the copies.\n\n(d) If records are requested which contain both public and confidential information, the commission shall delete the confidential information and provide the remaining information.\n\nSource. #14402, eff 10-15-25\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html"
+}

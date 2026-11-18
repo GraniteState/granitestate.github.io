@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/502",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:11",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:37",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-37",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10",
+    "https://granitestate.github.io/rsa/326-B/326-B-37"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/500",
+  "definition": "OPIOID PRESCRIBING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/502.01",
+    "https://granitestate.github.io/rules/nur/502.02",
+    "https://granitestate.github.io/rules/nur/502.03",
+    "https://granitestate.github.io/rules/nur/502.04",
+    "https://granitestate.github.io/rules/nur/502.05",
+    "https://granitestate.github.io/rules/nur/502.06",
+    "https://granitestate.github.io/rules/nur/502.07"
+  ],
+  "notation": "Nur 502",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 502 OPIOID PRESCRIBING",
+  "recordType": "rule-part",
+  "ruleText": "PART Nur 502 OPIOID PRESCRIBING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

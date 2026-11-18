@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.24",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "21-J:28-b",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "71-B:11",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:16-a",
+      "source": "https://granitestate.github.io/rsa/76/76-16-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:17",
+      "source": "https://granitestate.github.io/rsa/76/76-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/79-A/79-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+    "https://granitestate.github.io/rsa/76/76-16-a",
+    "https://granitestate.github.io/rsa/76/76-17",
+    "https://granitestate.github.io/rsa/79-A/79-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Filing with Board and Superior Court",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.24 Filing with Board and Superior Court",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.24 Filing with Board and Superior Court.\n\n(a) Where the applicable statute authorizes an appeal to the board or the superior court, taking an appeal to one tribunal shall be a waiver of the right to appeal to the other tribunal in accordance with RSA 21-J:28-b, IV, RSA 71-B:11, RSA 76:16-a, RSA 76:17, and RSA 79-A:9, VI.\n\n(b) If a party has appealed to both the board and the superior court, the board shall:\n\n(1) Order the taxpayer to inform the board when the superior court appeal was taken;\n\n(2) Either:\n\na. Dismiss the board appeal if the taxpayer first appealed to the superior court; or\n\nb. Retain jurisdiction of the board appeal if the taxpayer first appealed to the board and notify the superior court of the taxpayer’s dual appeal; and\n\n(3) Take such other actions it deems appropriate to preserve the taxpayer’s right to appeal to one tribunal, such as transferring an appeal to the superior court or accepting an appeal from the superior court.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

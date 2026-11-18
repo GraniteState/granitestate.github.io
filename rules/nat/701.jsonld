@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/701",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "authority": [
+    {
+      "citation": "328-E:10",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-E:16",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/nat/700",
+  "definition": "FORMULARY COUNCIL PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nat/701.01",
+    "https://granitestate.github.io/rules/nat/701.02"
+  ],
+  "notation": "Nat 701",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 701 FORMULARY COUNCIL PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Nat 701 FORMULARY COUNCIL PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

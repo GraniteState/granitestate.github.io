@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4008.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4008",
+  "definition": "Subscriber and Member Identification Data Elements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136 eff 11-24-20 (formerly Ins 4009.02); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4008.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4008.01 Subscriber and Member Identification Data Elements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4008.01 Subscriber and Member Identification Data Elements.\n\n(a) The following table lists the subscriber and member identifiers that shall be identical when reporting information about a subscriber or a member:\n\nTable 1: Matching Requirements for Subscriber/Member Identifiers Across Files\n\nData Element Name* | Subscriber and Member Identifiers\n\nMember Eligibility | Medical Claims** | Dental Claims | Pharmacy Claims\n\nPlan Specific Contract Number | ME009 | MC008, MC20 | DC008, DC202 | PC008, PC204\n\nMember Suffix or Sequence Number | ME010 | MC009 | DC009 | PC009\n\nSubscriber Last Name | ME101 | MC101 | DC101 | PC101\n\nSubscriber First Name | ME102 | MC102 | DC102 | PC102\n\nSubscriber Middle Initial | ME103 | MC103 | DC103 | PC103\n\nMember Last Name | ME104 | MC104 | DC104 | PC104\n\nMember First Name | ME105 | MC105 | DC105 | PC105\n\nMember Middle Initial | ME106 | MC106 | DC106 | PC106\n\n*The NHCHIS preprocessor hashes these data elements as part of the file encryption and transmission process.\n\n**Also pertains to Behavioral Health.\n\n(b) The NHCHIS preprocessor application will hash all subscriber and member identification codes and names before data are transmitted to the department’s designee. To ensure consistent hashing, subscriber and member identifiers shall not be encrypted or hashed on the initial extract loaded into the preprocessor:\n\n(1) The discrete two-digit suffix shall also be used with the certificate or contract number. This data element is de-identified by the NHCHIS preprocessor application.\n\n(2) The certificate or contract number with the two-digit suffix shall be at least 11, but no more than 30 characters in length. This data element is de-identified by the NHCHIS preprocessor application.\n\nSource. #10877, eff 7-10-15; ss by #13136 eff 11-24-20 (formerly Ins 4009.02); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

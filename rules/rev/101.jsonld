@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/101",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/100",
+  "definition": "TITLE DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/101.01",
+    "https://granitestate.github.io/rules/rev/101.02"
+  ],
+  "notation": "Rev 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev100.html",
+  "prefLabel": "Rev 101 TITLE DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 101 TITLE DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev100.html"
+}

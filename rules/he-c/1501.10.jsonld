@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/1501.10",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126:25",
+      "source": "https://granitestate.github.io/rsa/126/126-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126:27",
+      "source": "https://granitestate.github.io/rsa/126/126-27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126/126-25",
+    "https://granitestate.github.io/rsa/126/126-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/1501",
+  "definition": "Non-Compliant Data Submission",
+  "effectiveDate": "2022-04-20",
+  "historyNote": "# 9436, eff 3-21-09, EXPIRED: 3-21-17 New. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17 New. #13369, eff 4-20-22 (formerly He-C 1503.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 1501.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html",
+  "prefLabel": "He-C 1501.10 Non-Compliant Data Submission",
+  "priorExpiration": "2017-09-18",
+  "recordType": "rule-section",
+  "ruleText": "He-C 1501.10 Non-Compliant Data Submission.\n\n(a) Each health care facility shall be notified when data submissions do not meet the standards described in this rule, including the specific file and the data elements that do not meet the standards.\n\n(b) Each health care facility notified of a non-compliant data submission shall respond within 30 days of the notification by making the changes necessary to meet the standards and resubmit the entire data submission.\n\nSource. # 9436, eff 3-21-09, EXPIRED: 3-21-17\n\nNew. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17\n\nNew. #13369, eff 4-20-22 (formerly He-C 1503.12)\n\nPARTS He-C 1502 – He-C 1549 – RESERVED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html"
+}

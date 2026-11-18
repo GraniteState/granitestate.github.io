@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1710.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1710",
+  "definition": "Form ARD-8, Information Required for Permits for Stationary Hot Mix Asphalt Plants",
+  "effectiveDate": "2020-01-06",
+  "historyNote": "#8130, eff 7-28-04, EXPIRED: 7-28-12 New. #12965, eff 1-6-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1710.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html",
+  "prefLabel": "Env-A 1710.01 Form ARD-8, Information Required for Permits for Stationary Hot Mix Asphalt Plants",
+  "priorExpiration": "2012-07-28",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1710.01 Form ARD-8, Information Required for Permits for Stationary Hot Mix Asphalt Plants. In addition to Form ARD-1, an applicant for a permit for a stationary hot mix asphalt plant shall complete and submit Form ARD-8, “Information Required for Permits for Stationary Hot Mix Asphalt Plants” dated September 9, 2019.\n\nSource. #8130, eff 7-28-04, EXPIRED: 7-28-12\n\nNew. #12965, eff 1-6-20\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html"
+}

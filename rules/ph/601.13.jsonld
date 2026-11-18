@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/601.13",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "IV-a",
+        "V",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:51-b",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/601",
+  "definition": "Access to Drug Supply",
+  "effectiveDate": "2017-07-22",
+  "historyNote": "#8572, eff 2-23-06; ss by #9139-B, eff 4-25-08 EXPIRED: 4-25-16 New. #12335, eff 7-22-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 601.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 601.13 Access to Drug Supply",
+  "priorExpiration": "2016-04-25",
+  "recordType": "rule-section",
+  "ruleText": "Ph 601.13 Access to Drug Supply.\n\n(a) Only the pharmacist, physician, advanced registered nurse practitioner, physician assistant or registered nurse, as identified in RSA 318:42 shall have access to the drug supply.\n\n(b) In the case of methadone maintenance/detoxification facilities, access to the drug storage area may also be extended to licensed practical nurses provided such authorization is granted, in writing, according to the provisions of 21 CFR 1301.72(d) of the federal law.\n\n(c) Methadone maintenance/detoxification facilities shall supply the board with a list of all individuals that have been granted access to the drug supply, and, should this list change, the board shall be notified, in writing, within 72 hours of such changes.\n\nSource. #8572, eff 2-23-06; ss by #9139-B, eff 4-25-08 EXPIRED: 4-25-16\n\nNew. #12335, eff 7-22-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

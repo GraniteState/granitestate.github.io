@@ -1,0 +1,67 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1101",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "431:5",
+      "source": "https://granitestate.github.io/rsa/431/431-5",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:6",
+      "source": "https://granitestate.github.io/rsa/431/431-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:7",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:8",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:9",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:10",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "431:13",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/431/431-5",
+    "https://granitestate.github.io/rsa/431/431-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1101.01",
+    "https://granitestate.github.io/rules/agr/1101.02",
+    "https://granitestate.github.io/rules/agr/1101.03",
+    "https://granitestate.github.io/rules/agr/1101.04",
+    "https://granitestate.github.io/rules/agr/1101.05",
+    "https://granitestate.github.io/rules/agr/1101.06",
+    "https://granitestate.github.io/rules/agr/1101.07",
+    "https://granitestate.github.io/rules/agr/1101.08",
+    "https://granitestate.github.io/rules/agr/1101.09",
+    "https://granitestate.github.io/rules/agr/1101.10",
+    "https://granitestate.github.io/rules/agr/1101.11",
+    "https://granitestate.github.io/rules/agr/1101.12",
+    "https://granitestate.github.io/rules/agr/1101.13",
+    "https://granitestate.github.io/rules/agr/1101.14"
+  ],
+  "notation": "Agr 1101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html",
+  "prefLabel": "Agr 1101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html"
+}

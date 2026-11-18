@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1510.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1510",
+  "definition": "Spill Prevention Measures and Spill Mitigation",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1510.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1510.07 Spill Prevention Measures and Spill Mitigation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1510.07 Spill Prevention Measures and Spill Mitigation.\n\n(a) Fuel and other regulated substances shall be managed as required by Env-Wq 401.04.\n\n(b) Personnel working at the blast site shall be trained in how to respond to a spill of the regulated substances being used at the site.\n\nSource. #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

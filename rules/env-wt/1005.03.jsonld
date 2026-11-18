@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/1005.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/1005",
+  "definition": "Processing of Registration Renewal Requests",
+  "effectiveDate": "2021-12-21",
+  "historyNote": "#13210, INTERIM, eff 6-15-21; ss by #13314, eff 12-21-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 1005.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt1000.html",
+  "prefLabel": "Env-Wt 1005.03 Processing of Registration Renewal Requests",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 1005.03 Processing of Registration Renewal Requests. Renewal requests shall be processed in accordance with Env-Wt 1004.\n\nSource. #13210, INTERIM, eff 6-15-21; ss by #13314, eff 12-21-21\n\nappendix: State Statutes implemented",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt1000.html"
+}

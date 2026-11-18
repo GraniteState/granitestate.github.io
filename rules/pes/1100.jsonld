@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/1100",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:31",
+      "paragraphs": [
+        "IV(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes",
+  "definition": "WORKER PROTECTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pes/1101",
+    "https://granitestate.github.io/rules/pes/1102",
+    "https://granitestate.github.io/rules/pes/1103"
+  ],
+  "notation": "Pes 1100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes1100.html",
+  "prefLabel": "Pes 1100 WORKER PROTECTION",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Pes 1100 WORKER PROTECTION\n\nStatutory Authority: RSA 430:31, IV",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes1100.html"
+}

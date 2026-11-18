@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3301.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:15",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3301",
+  "definition": "Scope",
+  "effectiveDate": "2018-08-03",
+  "historyNote": "#7658, eff 9-1-02; ss by #8052, eff 7-1-04; ss by #9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3301.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html",
+  "prefLabel": "Ins 3301.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3301.02 Scope.\n\n(a) This chapter shall apply to any property and casualty insurer that is:\n\n(1) Licensed to write private passenger automobile and homeowners insurance;\n\n(2) Required to submit rate, rule, and policy form filings to the commissioner; and\n\n(3) Using an insurance score or information obtained from a consumer report for underwriting purposes, including declinations, or rating purposes.\n\n(b) For the purposes of this chapter, homeowners insurance shall include dwelling insurance for owner occupied one-family to 4-family buildings.\n\nSource. #7658, eff 9-1-02; ss by #8052, eff 7-1-04; ss by #9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html"
+}

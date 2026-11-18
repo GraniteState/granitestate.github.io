@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1202.12",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Medical Emergency",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "363-B",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1202",
+  "definition": "Medical emergency",
+  "effectiveDate": "2024-05-30",
+  "historyNote": "#13986, eff 5-30-24 (see Revision Note at chapter heading for En 1200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1202.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1200.html",
+  "prefLabel": "En 1202.12 Medical emergency",
+  "recordType": "rule-section",
+  "ruleText": "En 1202.12 \"Medical emergency\" means a situation where a utility customer or member of the customer’s household has a physical or mental health condition that would become a danger to the customer’s or household member’s physical or mental health in the absence of utility service as certified to the utility by a licensed physician, advanced practice registered nurse, physician’s assistant or mental health practitioner as defined in RSA 330-A:2, VII.\n\nSource. #13986, eff 5-30-24 (see Revision Note at chapter heading for En 1200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1200.html"
+}

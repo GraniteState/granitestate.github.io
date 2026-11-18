@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/303.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/303",
+  "definition": "Determination of Attainment of PM Standards",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#120, eff 8-31-73; ss by #461, eff 4-20-74; ss by #1333, eff 4-1-79; amd by #1614, eff 7-30-80; ss by #1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 303.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 303.02 Determination of Attainment of PM Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 303.02 Determination of Attainment of PM Standards. The department shall determine the attainment of primary and secondary standards for PM specified in Env-A 303.01 as follows:\n\n(a) For particulate matter measured in the ambient air as PM10, the 24-hour primary and secondary ambient air quality standards shall be deemed to be attained when the expected number of days per calendar year with a 24-hour average concentration above 150 μg/m3, as determined in accordance with 40 CFR 50 Appendix K, is equal to or less than one; and\n\n(b) For particulate matter measured in the ambient air as PM2.5:\n\n(1) The annual primary ambient air quality standard shall be deemed to be attained when the annual arithmetic mean concentration, as determined in accordance with 40 CFR 50 Appendix N, is less than or equal to 12.0 μg/m3;\n\n(2) The annual secondary ambient air quality standard shall be deemed to be attained when the annual arithmetic mean concentration, as determined in accordance with 40 CFR 50 Appendix N, is less than or equal to 15.0 μg/m3; and\n\n(3) The 24-hour primary and secondary ambient air quality standards shall be deemed to be attained when the 98th percentile 24-hour concentration, as determined in accordance with 40 CFR 50 Appendix N, is less than or equal to 35 μg/m3.\n\nSource. #120, eff 8-31-73; ss by #461, eff 4-20-74; ss by #1333, eff 4-1-79; amd by #1614, eff 7-30-80; ss by #1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

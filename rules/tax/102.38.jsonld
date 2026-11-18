@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.38",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "21-J:28-b",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "71-B:5",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-28-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "Tax appeal",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7152, eff 12-10-99 (formerly Tax 101.34); ss by 8985, eff 9-24-07 (from Tax 102.38); ss by #10623, eff 6-26-14 (from Tax 102.40); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.38",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.38 Tax appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.38 “Tax appeal” means any appeal from any state or local tax.\n\nSource. #7152, eff 12-10-99 (formerly Tax 101.34); ss by 8985, eff 9-24-07 (from Tax 102.38); ss by #10623, eff 6-26-14 (from Tax 102.40); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

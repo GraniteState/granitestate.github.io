@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4202.60",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Specialty Primer, Sealer, or Undercoater",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4202",
+  "definition": "Specialty primer, sealer, or undercoater",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#8695, eff 7-27-06, ss by #10736, eff 1-1-15 (formerly Env-A 4202.01(bh)); ss by #14202, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4202.60",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4202.60 Specialty primer, sealer, or undercoater",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4202.60 “Specialty primer, sealer, or undercoater” means a coating that is formulated and labeled for application to a substrate to seal fire, smoke, or water damage, to block stains, or to condition excessively chalky surfaces, meaning those surfaces that have a chalk rating of 4 or less as determined by its manufacturer or producer using ASTM test method D4214-98.\n\nSource. #8695, eff 7-27-06, ss by #10736, eff 1-1-15 (formerly Env-A 4202.01(bh)); ss by #14202, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

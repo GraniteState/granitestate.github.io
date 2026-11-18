@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1009",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1000",
+  "definition": "SEWER LINES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1009.01",
+    "https://granitestate.github.io/rules/env-wq/1009.02",
+    "https://granitestate.github.io/rules/env-wq/1009.03",
+    "https://granitestate.github.io/rules/env-wq/1009.04",
+    "https://granitestate.github.io/rules/env-wq/1009.05",
+    "https://granitestate.github.io/rules/env-wq/1009.06",
+    "https://granitestate.github.io/rules/env-wq/1009.07"
+  ],
+  "notation": "Env-Wq 1009",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1009 SEWER LINES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1009 SEWER LINES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

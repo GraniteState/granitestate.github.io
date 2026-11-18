@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mirt",
+  "@type": "Concept",
+  "agencyCode": "Mirt",
+  "definition": "Advisory Board of Medical Imaging and Radiation Therapy (formerly the Board of Medical Imaging and Radiation Therapy, with rulemaking authority transferred to the Executive Director of the Office of Professional Licensure and Certification. See RSA 328-J:7 pursuant to 2022, 104:5, effective 7-26-22. See Plc 1500 .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mirt/100",
+    "https://granitestate.github.io/rules/mirt/200",
+    "https://granitestate.github.io/rules/mirt/300",
+    "https://granitestate.github.io/rules/mirt/400",
+    "https://granitestate.github.io/rules/mirt/500"
+  ],
+  "notation": "Mirt",
+  "prefLabel": "Mirt Advisory Board of Medical Imaging and Radiation Therapy",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

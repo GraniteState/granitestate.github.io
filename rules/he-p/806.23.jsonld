@@ -1,0 +1,204 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/806.23",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "altLabel": "Emergency Preparedness",
+  "authority": [
+    {
+      "citation": "141-C",
+      "source": "https://granitestate.github.io/rsa/141-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:7",
+      "source": "https://granitestate.github.io/rsa/141-C/141-C-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:2",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151",
+      "source": "https://granitestate.github.io/rsa/151",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2",
+      "source": "https://granitestate.github.io/rsa/151/151-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:6-a",
+      "source": "https://granitestate.github.io/rsa/151/151-6-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:7-a",
+      "source": "https://granitestate.github.io/rsa/151/151-7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:8",
+      "source": "https://granitestate.github.io/rsa/151/151-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9",
+      "paragraphs": [
+        "I(a)",
+        "(f)",
+        "(h)",
+        "(l)",
+        "(o)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:29",
+      "via": "appendix"
+    },
+    {
+      "citation": "155:66",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:10",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:46",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:49",
+      "via": "appendix"
+    },
+    {
+      "citation": "169-C",
+      "source": "https://granitestate.github.io/rsa/169-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "328",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430",
+      "source": "https://granitestate.github.io/rsa/430",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:29",
+      "paragraphs": [
+        "XXVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430:33",
+      "source": "https://granitestate.github.io/rsa/430/430-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-C",
+    "https://granitestate.github.io/rsa/141-C/141-C-7",
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/151",
+    "https://granitestate.github.io/rsa/151/151-2",
+    "https://granitestate.github.io/rsa/151/151-6-a",
+    "https://granitestate.github.io/rsa/151/151-7-a",
+    "https://granitestate.github.io/rsa/151/151-8",
+    "https://granitestate.github.io/rsa/151/151-9",
+    "https://granitestate.github.io/rsa/151/151-21",
+    "https://granitestate.github.io/rsa/155-A/155-A-1",
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/169-C",
+    "https://granitestate.github.io/rsa/430",
+    "https://granitestate.github.io/rsa/430/430-33",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/806",
+  "definition": "Fire Safety",
+  "effectiveDate": "2024-05-30",
+  "historyNote": "#9655, eff 2-13-10, EXPIRED: 2-13-18 New. #12674, INTERIM, eff 11-19-18, EXPIRED: 5-20-19 New. #12795, eff 5-30-19 (formerly provisions of He-P 806.21); ss by #13987, eff 5-30-24 (formerly He-P 806.22)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 806.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html",
+  "prefLabel": "He-P 806.23 Fire Safety",
+  "priorExpiration": "2019-05-20",
+  "recordType": "rule-section",
+  "ruleText": "He-P 806.23 Fire Safety.\n\n(a) All NEWCCs shall meet the appropriate chapters of NFPA 101, the appropriate chapters of the state fire code pursuant to RSA 153:5 and the appropriate chapters of the state building code.\n\n(b) An emergency and fire safety program shall be developed and implemented and reviewed annually, and revised as needed, to provide for the safety of patients and personnel.\n\n(c) The NEWCC shall have at least one UL listed ABC type fire extinguisher on every level or every 75 feet of corridor as required by NFPA 10 and shall:\n\n(1) Be inspected either manually or by means of an electronic monitoring device or system at least once per calendar month, at intervals not exceeding 31 days;\n\n(2) Have records for manual inspection or electronic monitoring kept to demonstrate that at least 12 monthly inspections have been performed for the most recent 12-month period;\n\n(3) Have annual maintenance performed on each extinguisher by trained personnel, and each extinguisher shall have a tag or label securely attached that indicates that maintenance was performed; and\n\n(4) Have the components of the electronic monitoring device or system tested and maintained annually in accordance with the manufacturer’s listed maintenance manual.\n\n(d) The NEWCC shall have an approved carbon monoxide monitor on every level.\n\n(e) The NEWCC shall immediately notify the department by phone, fax, or electronic mail within 24 hours, and in writing within 72 hours, of any fire or emergency situation, excluding a false alarm, that requires either an emergency response to the NEWCC or the evacuation of the licensed premises.\n\n(f) The written notification required by (e) above shall include:\n\n(1) The date and time of the incident;\n\n(2) A description of the location and extent of the incident, including any injuries to patients or personnel or damage sustained by the NEWCC;\n\n(3) A description of events preceding and following the incident;\n\n(4) The name of any personnel or patients who were evacuated as a result of the incident, if applicable;\n\n(5) The name of any personnel or patient who required medical treatment as a result of the incident, if applicable; and\n\n(6) The name of the individual the licensee wishes the department to contact if additional information is required.\n\n(g) For the use and storage of oxygen and other related gases, NEWCCs shall comply with NFPA 99, health care facilities code including, but not limited to, the following:\n\n(1) All freestanding compressed gas cylinders shall be firmly secured to the adjacent wall or secured in a stand or rack;\n\n(2) Storage locations shall be outdoors in an enclosure or within an enclosed interior space of noncombustible or limited-combustible construction, with doors, or with gates if outdoors, that can be secured against unauthorized entry;\n\n(3) Oxidizing gases, such as oxygen and nitrous oxide, shall:\n\na. Not be stored with any flammable gas, liquid, or vapor;\n\nb. Be separated from combustibles or incompatible materials by:\n\n1. A minimum distance of 20 ft or 6.1 m;\n\n2. A minimum distance of 5 ft or 1.5 m if the entire storage location is protected by an automatic sprinkler system designed in accordance with NFPA 13, Standard for the installation of sprinkler systems; or\n\n3. An enclosed cabinet of noncombustible construction having a minimum fire protection rating of 1/2 hour; and\n\nc. Shall be secured in an upright position, such as with racks or chains;\n\n(4) A precautionary sign, readable from a distance of 5 ft or 1.5 m, shall be conspicuously displayed on each door or gate of the storage room or enclosure, and shall include, at a minimum, the following: “CAUTION, OXIDIZING GAS(ES) STORED WITHIN - NO SMOKING”;\n\n(5) Precautionary signs, readable from a distance of 5 ft or 1.5 m, and with language such as “OXYGEN IN USE, NO SMOKING”, shall be conspicuously displayed wherever supplemental oxygen is in use and in aisles and walkways leading to the area of use, and shall be attached to adjacent doorways or to building walls or be supported by other appropriate means; and\n\n(6) Must comply with NH department of transportation requirements with regard to oxygen transport, storage, and use.\n\n(h) Flammable gases and liquids shall be stored in metal fire retardant cabinets.\n\n(i) A written plan for fire safety, evacuation, and emergencies shall be adopted and posted in multiple locations throughout the facility.\n\n(j) Evacuation drills shall include the transmission of a fire alarm signal, and simulation of emergency fire condition.\n\n(k) Evacuation drills shall be quarterly.\n\n(l) All staff shall participate in at least one drill annually.\n\n(m) For NEWCCs located within a retail store or pharmacy, the fire drill shall consist of a required review of all fire safety procedures and evacuation protocols for the retail store or pharmacy. All personnel on duty shall participate fully in each drill held by the retail store or pharmacy in which the NEWCC may be located.\n\n(n) At no time shall a staff member who has not participated in an evacuation drill be the only staff member on duty within the facility.\n\n(o) The facility shall conduct an evacuation drill in the presence of a representative of the department, state fire marshal’s office, or the local fire department upon request.\n\n(p) All emergency and evacuation drills shall be documented and include the following information:\n\n(1) The names and titles of the personnel involved in the evacuation;\n\n(2) The number of people, including patients, personnel, and visitors involved in the evacuation;\n\n(3) The time, including AM or PM, date, month, and year the drill was conducted and if the actual fire system was used;\n\n(4) The location of the exits utilized;\n\n(5) The total time necessary to evacuate the NEWCC;\n\n(6) The time needed to complete the drill; and\n\n(7) Any problems encountered and corrective actions taken to rectify problems.\n\nSource. #9655, eff 2-13-10, EXPIRED: 2-13-18\n\nNew. #12674, INTERIM, eff 11-19-18, EXPIRED: 5-20-19\n\nNew. #12795, eff 5-30-19 (formerly provisions of He-P 806.21); ss by #13987, eff 5-30-24 (formerly He-P 806.22)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html"
+}

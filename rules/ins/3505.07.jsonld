@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3505.07",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3505",
+  "definition": "Exemption from Unitary Reserves for Certain n-Year Renewable Term Life Insurance Policies",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3505.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3505.07 Exemption from Unitary Reserves for Certain n-Year Renewable Term Life Insurance Policies",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3505.07 Exemption from Unitary Reserves for Certain n-Year Renewable Term Life Insurance Policies.\n\n(a) Unitary basic reserves and unitary deficiency reserves need not be calculated for a policy if the following conditions are met:\n\n(1) The policy consists of a series of n-year periods, including the first period and all renewal periods, where n is the same for each period, except that for the final renewal period, n may be truncated or extended to reach the expiry age, provided that this final renewal period is less than 10 years and less than twice the size of the earlier n-year periods, and for each period, the premium rates on both the initial current premium scale and the guaranteed maximum premium scale are level;\n\n(2) The guaranteed gross premiums in all n-year periods are not less than the corresponding net premiums based upon the 1980 CSO Table with or without the ten-year select mortality factors; and\n\n(3) There are no cash surrender values in any policy year.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

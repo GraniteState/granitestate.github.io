@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/808",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "212:25",
+      "source": "https://granitestate.github.io/rsa/212/212-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/212/212-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/800",
+  "definition": "REGULATED SHOOTING AREAS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/808.01",
+    "https://granitestate.github.io/rules/fis/808.02",
+    "https://granitestate.github.io/rules/fis/808.03",
+    "https://granitestate.github.io/rules/fis/808.04",
+    "https://granitestate.github.io/rules/fis/808.05",
+    "https://granitestate.github.io/rules/fis/808.06",
+    "https://granitestate.github.io/rules/fis/808.07",
+    "https://granitestate.github.io/rules/fis/808.08",
+    "https://granitestate.github.io/rules/fis/808.09",
+    "https://granitestate.github.io/rules/fis/808.10"
+  ],
+  "notation": "Fis 808",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 808 REGULATED SHOOTING AREAS",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 808 REGULATED SHOOTING AREAS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/212.02",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/212",
+  "definition": "Motions to Compel Production of Information and Documents",
+  "effectiveDate": "2004-05-01",
+  "historyNote": "#8078, eff 5-1-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 212.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 212.02 Motions to Compel Production of Information and Documents",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 212.02 Motions to Compel Production of Information and Documents.\n\n(a) Any party or intervenor may make a motion seeking an order for compliance with an information or document request. The motion shall be filed at least 20 days before the date scheduled for the hearing and in any event as soon as possible after receiving the notice of the hearing and failing in an attempt to obtain the requested information or documents through voluntary production.\n\n(b) The motion to compel shall:\n\n(1) Set forth in detail those facts which justify the request for information or documents; and\n\n(2) List with specificity the information or documents being sought.\n\n(c) Objections to motions to compel shall be filed within 10 days of the delivery of the motion.\n\n(d) The presiding officer shall grant the motion to compel if its proponent has demonstrated that an order for compliance is necessary for a full and fair presentation of evidence at the hearing.\n\nSource. #8078, eff 5-1-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

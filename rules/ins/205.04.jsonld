@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/205.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:19",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:33",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/205",
+  "definition": "Computation of Time",
+  "effectiveDate": "2020-07-27",
+  "historyNote": "(See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 205.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html",
+  "prefLabel": "Ins 205.04 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Ins 205.04 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in this chapter shall begin with the day after the action which sets the time period in motion and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday, or legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday, or legal holiday.\n\n(d) Except where the time has been fixed by statute, the hearing officer shall for good cause, upon request or upon the hearing officer's own initiative, lengthen or shorten the time provided for the filing of any document. Good cause shall include the unavailability of information, parties, witnesses, or attorneys necessary for the filing of the document, the likelihood that the filing will not be necessary because the parties anticipate a settlement, or any other circumstances that demonstrate that a postponement would assist in resolving the case fairly.\n\nSource. (See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html"
+}

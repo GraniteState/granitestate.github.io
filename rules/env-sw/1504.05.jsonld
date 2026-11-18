@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1504.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "V",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1504",
+  "definition": "Product Quality and Quality Control",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3204.05); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1504.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html",
+  "prefLabel": "Env-Sw 1504.05 Product Quality and Quality Control",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1504.05 Product Quality and Quality Control. The applicant shall demonstrate that the production process meets the following requirements:\n\n(a) Production of the waste-derived product shall not:\n\n(1) Cause a violation of any requirement in Env-Sw 1000; or\n\n(2) Pose a greater risk to the environment, public health and safety than does the production of an existing comparable non-waste-derived product or, if no comparable non-waste-derived product exists, by directly disposing of the waste in accordance with the solid waste rules;\n\n(b) The physical and analytical characteristics of the waste used to produce the product shall be defined in a written specification;\n\n(c) The physical and analytical characteristics of the waste-derived product shall be defined in a written specification; and\n\n(d) The production process shall include QA/QC procedures to assure the defined specifications shall be met through the production process.\n\nSource. #6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3204.05); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html"
+}

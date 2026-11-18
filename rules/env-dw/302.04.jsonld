@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/302.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/302",
+  "definition": "Pre-Approval Required",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 302.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 302.04 Pre-Approval Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 302.04 Pre-Approval Required.\n\n(a) A person shall obtain approval from the department in accordance with Env-Dw 302.05 through Env-Dw 302.31 prior to:\n\n(1) Developing a new production well for a large CWS, regardless of whether the well is a small production well or a large production well;\n\n(2) Requesting an increase in the permitted production volume of an existing well currently connected to a large CWS; or\n\n(3) Requesting an increase in the permitted production volume of an existing small production well connected to any CWS if the increase would result in a permitted production volume of equal to or greater than 57,600 gallons in a 24-hour period.\n\n(b) Any person proposing to construct a back-up production well for a large CWS and any person proposing to construct a back-up well for a small CWS where the well would qualify as a large production well shall submit a request to the department in accordance with Env-Dw 302.34.\n\n(c) Any person proposing to replace a large production well shall submit a request to the department in accordance with Env-Dw 302.35.\n\nSource. (See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

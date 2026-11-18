@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1405.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Annual Updates",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1405",
+  "definition": "Updates",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3105.02); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1405.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1405.02 Updates",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1405.02 Updates.\n\n(a) A permittee shall submit at least one update of the facility’s closure cost estimate to the department no later than March 31 of the third calendar year after submitting an initial closure cost estimate or the most recent updated closure cost estimate, as applicable.\n\n(b) During the years in which submittal of a closure cost estimate is not required by (a), above, lined landfills subject to 40 CFR 258 operated on or after October 9, 1993, collection, storage, and transfer facilities with an unlimited service area as defined in Env-Sw 104, and processing/treatment facilities as defined in Env-Sw 104, shall obtain an updated cost estimate and place it in the facility’s operating record.\n\n(c) If a permittee obtains an updated closure cost estimate that exceeds both the most recent estimate and the total cost is greater $15,000, the permittee shall modify its financial assurance mechanism in an amount consistent with the most recent closure cost estimate, pursuant to Env-Sw 1405.01.\n\n(d) If a permittee obtains an updated closure cost estimate that exceeds the most recent estimate, but the total cost is below $15,000, the permittee shall continue to complete and submit updated closure cost estimates in accordance with Env-Sw 1405.02, but is not subject to the financial assurance provisions in Env-Sw 1403.03.\n\n(e) A local government using the state approved local government financial test shall:\n\n(1) Annually update and place in the facility’s operating record all documentation required by Env-Sw 1403.01(b)(4) within 180 days following the close of the local government's fiscal year; and\n\n(2) Produce its financial records for inspection by the department upon request.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3105.02); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

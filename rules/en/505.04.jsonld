@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/505.04",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/505",
+  "definition": "Test Schedule for Gas Meters",
+  "effectiveDate": "2023-10-25",
+  "historyNote": "#13796, eff 10-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 505.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html",
+  "prefLabel": "En 505.04 Test Schedule for Gas Meters",
+  "recordType": "rule-section",
+  "ruleText": "En 505.04 Test Schedule for Gas Meters.\n\n(a) Utilities shall not be required to test meters with a purchase year which indicates an age of 10 years or less provided that the meters belong to a group identified in En 505.03(e) demonstrating an accuracy rate of 96 percent or better, and the utility has the manufacturer's proof test on file.\n\n(b) Each utility shall, on an annual basis, calculate an accuracy rate for each group of meters identified in Table 505.1 of En 505.03(e) by calculating the percentage of slow, fast and accurate meters in the group for purposes of determining the number of meters to be brought in for testing in the subsequent year.\n\n(c) Each utility shall, on an annual basis, examine the previous year's tested meter accuracy data for each group of meters identified in Table 505.1 of En 505.03(e) to determine the sampling plan for the current year.\n\n(d) Each utility shall use accuracy data derived in the previous year's testing for the establishment of the minimum quantity of meters to be tested per group for the current year.\n\n(e) The applicable accuracy rate shall determine the minimum number of meters to be tested according to Table 505-2 as follows:\n\nTable 505-2 Minimum Number of Meters to be Tested at Accuracy Rates\n\nper Group Identified in En 505.04(d)\n\nNumber of Meters Active in Meter Group | Accuracy Rates\n\n96 to 100% | 93 to 95% | 90 to 92% | 87 to 89% | less than 87%\n\n2 to 8 | 5 | 5 | 5 | 8 | Testing as provided in En 505.04(g)\n\n9 to 15 | 5 | 5 | 8 | 13\n\n16 to 25 | 5 | 8 | 13 | 20\n\n26 to 50 | 8 | 13 | 20 | 32\n\n51 to 90 | 13 | 20 | 32 | 50\n\n91 to 150 | 20 | 32 | 50 | 80\n\n151 to 280 | 32 | 50 | 80 | 125\n\n281 to 500 | 50 | 80 | 125 | 200\n\n501 to 1,200 | 80 | 125 | 200 | 500\n\n1,201 to 3,200 | 125 | 200 | 500 | 1,000\n\n3,201 to 10,000 | 200 | 500 | 1,000 | 2,000\n\n10,001 to 35,000 | 500 | 1,000 | 2,000 | 3,000\n\n35,001 to 100,000 | 1,000 | 2,000 | 3,000 | 4,000\n\nGreater than 100,000\n\n(f) For any group of meters with accuracy rates of 95% or less, the utility shall randomly select the meters to test as follows:\n\n(1) The utility shall select 80% of those meters for testing from the group of meters that have operated for the longest period of time without being tested; and\n\n(2) The utility shall select 20% of those meters for testing from the group of meters removed from service for non-use or load change.\n\n(g) For any group of meters with accuracy rates of 87% or less, the utility shall attempt to determine the defect responsible for failure and, if the utility cannot identify the defect, or, if the defect is due to the manufacturer, the entire group of meters shall be removed from service.\n\n(h) Utilities shall conduct calibration and accuracy tests of rotary and turbine meters either in the field or at a meter shop and in accordance with manufacturer-recommended procedures and performance standards.\n\nSource. #13796, eff 10-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html"
+}

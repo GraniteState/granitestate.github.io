@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/409.01",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "authority": [
+    {
+      "citation": "318:14-a",
+      "source": "https://granitestate.github.io/rsa/318/318-14-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-14-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/nat/409",
+  "definition": "Preparing Drugs and Homeopathic Drugs",
+  "effectiveDate": "2020-11-26",
+  "historyNote": "#13140, eff 11-26-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nat 409.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 409.01 Preparing Drugs and Homeopathic Drugs",
+  "recordType": "rule-section",
+  "ruleText": "Nat 409.01 Preparing Drugs and Homeopathic Drugs. Naturopathic doctors engaged in compounding shall comply with the requirements of the United State Pharmacopeia Chapter 797, as required by board of pharmacy rule Ph 404.01. Failure to do so shall result in the board determining whether sanctions are appropriate under Nat 404.05.\n\nSource. #13140, eff 11-26-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

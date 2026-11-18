@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/805.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/805",
+  "definition": "Landfill Subgrade and Base Grade Standards",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.03); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 805.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 805.03 Landfill Subgrade and Base Grade Standards",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 805.03 Landfill Subgrade and Base Grade Standards.\n\n(a) The landfill subgrade shall:\n\n(1) Underlie the base identified in (d) and (e) below;\n\n(2) Be graded and prepared for landfill construction; and\n\n(3) Have sufficient structural integrity to support the facility under all anticipated loading conditions during all phases of construction, operation, and closure.\n\n(b) Engineering measures shall be incorporated in the design when necessary to ensure stability of the landfill during all phases of construction, operation, and closure.\n\n(c) Stability analyses shall be submitted with the application to demonstrate compliance with requirements in (a) above and to support the facility design, including measures incorporated pursuant to (b) above, if any.\n\n(d) For geomembrane lined facilities, the base below the liner and above the subgrade shall:\n\n(1) Be prepared to a depth of not less than 12 inches, except as provided in (e) below, and provide a uniform and consistent bedding layer which shall be stable under loading;\n\n(2) Contain no stones greater than one inch in diameter, and no sharp or angular materials;\n\n(3) Be compacted to 95% of the maximum dry density as determined by ASTM International (ASTM) D698-12(2021) (Standard Effort) or ASTM D1557-12(2021) (Modified Effort) as available in Appendix B; and\n\n(4) Consist of a soil with a saturated hydraulic conductivity of 1 x 10-4 cm/sec or less.\n\n(e) Where undisturbed in-situ soils are not present, or where Env-Sw 804.02(d) is not met, the base shall be prepared in accordance with (d) above to a depth of 24 inches instead of 12 inches.\n\n(f) Facility grades shall be sloped to facilitate compliance with Env-Sw 805.06 and Env-Sw 806.05.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2505.03); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

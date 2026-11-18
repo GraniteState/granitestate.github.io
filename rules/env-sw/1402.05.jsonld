@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1402.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Total Revenues",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1402",
+  "definition": "Local government",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3102.05); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24 (formerly Env-Sw 1402.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1402.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1402.05 Local government",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1402.05 “Local government” means a legally-recognized political subdivision in the state of New Hampshire, including solid waste districts.\n\nSource. #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 1400); ss by #8459, eff 10-28-05 (formerly Env-Wm 3102.05); ss by #10599, eff 7-1-14; ss by #14068, eff 9-3-24 (formerly Env-Sw 1402.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

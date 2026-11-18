@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/504.02",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:29-a",
+      "source": "https://granitestate.github.io/rsa/318/318-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:36-a",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/318/318-29-a",
+    "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+    "https://granitestate.github.io/rsa/329/329-13-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/504",
+  "definition": "Use of Approved Providers",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#13971, eff 7-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 504.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html",
+  "prefLabel": "Plc 504.02 Use of Approved Providers",
+  "recordType": "rule-section",
+  "ruleText": "Plc 504.02 Use of Approved Providers.\n\n(a) Only program agreements that are offered by approved providers shall be recognized by an applicable board as an acceptable vehicle for coordinating rehabilitation and monitoring services for a licensee for purposes of disciplinary orders or other agreements between an applicable board and a licensee.\n\n(b) Approval of a provider under Plc 503.03 shall not constitute approval of the appropriateness of a specific program agreement for any given licensee, which shall be determined by the approved provider based on the licensee’s specific circumstances.\n\nSource. #13971, eff 7-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html"
+}

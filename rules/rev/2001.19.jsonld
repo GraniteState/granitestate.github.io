@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2001.19",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Uniform Chart of Accounts",
+  "authority": [
+    {
+      "citation": "21:47",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2001",
+  "definition": "Uniform chart of accounts",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2001.14); ss by #14072, eff 9-10-24 (formerly Rev 2001.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2001.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2001.19 Uniform chart of accounts",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2001.19 \"Uniform chart of accounts\" means the account titles, descriptions, and numbering classification system expressed in this chapter established by the department in accordance with RSA 21-J:13, III.\n\nSource. #10675, eff 9-24-14 (from Rev 2001.14); ss by #14072, eff 9-10-24 (formerly Rev 2001.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

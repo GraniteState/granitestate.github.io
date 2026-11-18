@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/507.09",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O",
+      "source": "https://granitestate.github.io/rsa/12-O",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/507",
+  "definition": "Matching Requirements",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 507.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 507.09 Matching Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Bea 507.09 Matching Requirements.\n\n(a) Municipalities shall provide at least a 25 percent funding match for all HIM grant projects. A municipality may meet the funding matching requirement with any combination of municipal funds, funding from other state or federal programs, subject to the rules of the specific funding source, contributions of services or property, or third-party contributions of cash.\n\n(b) In order for the value of municipal contributions to be counted towards the cost matching requirement, all funds and contributions shall:\n\n(1) Be verifiable from the municipality’s records, such as municipal financial records or documentation of a contract or award letter;\n\n(2) Not be paid for by a funding source which is also being used to make up part of the municipality’s funding match. For example, if the funding itself is counted, the services paid for by that funding source may not be double counted;\n\n(3) Be necessary and reasonable for the accomplishment of the project; and\n\n(4) Be provided for in the approved project budget.\n\n(c) The value for municipal employee services shall be valued at the employee’s regular rate of pay, and fringe benefits may be counted at the value of the benefits the employee would normally receive in proportion to the time spent by the employee on the project.\n\n(d) The value of municipal property supplied by the municipality shall be the lesser of:\n\n(1) The value of the remaining life of the property recorded in the municipality’s accounting records at the time of contribution; or\n\n(2) The current fair market value.\n\n(e) Donated property from third parties such as land, equipment, and supplies may be counted as cost sharing or matching if the property is an integral and necessary part of a proposed or approved project. Value assessed to donated property included in cost sharing or matching shall not exceed the fair market value of the property at the time of the donation.\n\n(f) If the purpose of the award is to help the municipality in the acquisition of property, then the aggregate value of the donated property shall be claimed as cost sharing or matching.\n\n(g) If the purpose of the award is to support activities that require the use of property, or the property is loaned for a limited time, only the depreciation charge or fair market rental value of the property shall be claimed as cost sharing or matching.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

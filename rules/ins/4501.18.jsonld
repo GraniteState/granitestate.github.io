@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4501.18",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:36-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-A:20",
+      "source": "https://granitestate.github.io/rsa/420-A/420-A-20",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-A:22",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-B:9",
+      "source": "https://granitestate.github.io/rsa/420-B/420-B-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-D:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-F:9",
+      "source": "https://granitestate.github.io/rsa/420-F/420-F-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-36",
+    "https://granitestate.github.io/rsa/420-A/420-A-20",
+    "https://granitestate.github.io/rsa/420-B/420-B-9",
+    "https://granitestate.github.io/rsa/420-F/420-F-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4501",
+  "definition": "Canadian and British Companies",
+  "effectiveDate": "2016-12-31",
+  "historyNote": "#11171, eff 12-31-16 (from Ins 4501.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4501.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html",
+  "prefLabel": "Ins 4501.18 Canadian and British Companies",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4501.18 Canadian and British Companies.\n\n(a) In the case of Canadian and British insurers, the annual audited financial report shall be defined as the annual statement of total business on the form filed by such companies with their supervision authority duly audited by an independent chartered accountant.\n\n(b) For such insurers, the letter required in Ins 4501.05 (b) shall state that the accountant is aware of the requirements relating to the annual audited financial report filed with the commissioner pursuant to Ins 4501.03 and shall affirm that the opinion expressed is in conformity with those requirements.\n\nSource. #11171, eff 12-31-16 (from Ins 4501.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html"
+}

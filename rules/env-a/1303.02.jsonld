@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1303.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1303",
+  "definition": "Definitions: Startup, Shutdown, and Low-Load Operation Periods",
+  "effectiveDate": "2023-03-21",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18; ss by #13581, eff 3-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1303.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1303.02 Definitions: Startup, Shutdown, and Low-Load Operation Periods",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1303.02 Definitions: Startup, Shutdown, and Low-Load Operation Periods. For purposes of this part, the following definitions shall apply:\n\n(1) “Startup” means the period beginning when fuel is first fired in a boiler and ending when the ammonia injection permissive temperature is met in the selective catalytic reduction (SCR);\n\n(2) “Shutdown” means the period beginning when the SCR temperature first drops below the ammonia injection permissive temperature and ending when fuel is no longer fired in the boiler; and\n\n(3) “Low-load operation” means the operation of a boiler during relative accuracy test audits, conducted pursuant to 40 CFR 75, Appendix A, section 6.5, at load levels that result in flue gas temperature at the SCR inlet below the SCR functioning temperature.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18; ss by #13581, eff 3-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

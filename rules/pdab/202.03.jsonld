@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/202.03",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/202",
+  "definition": "Board Proceedings Relative to Assessments and Registration",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 202.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 202.03 Board Proceedings Relative to Assessments and Registration",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 202.03 Board Proceedings Relative to Assessments and Registration.\n\n(a) A person or party may request an appeal of the board’s notice requiring:\n\n(1) Registration of the person or party with the board; or\n\n(2) Annual assessment amounts including the board’s denial of a waiver of an assessment.\n\n(b) A person or party appealing a notice in accordance with this part shall provide any additional evidence to the board that the person or party believes is relevant to determining the merits of the appeal.\n\n(c) The board shall, after the person or party has had an opportunity to present evidence and be heard, determine, based upon a preponderance of the evidence, whether the notice was:\n\n(1) Required by RSA 126-BB in cases of appeals of notice of registration; or\n\n(2) Not in compliance with due process as required by RSA 126-BB in cases of appeals related to denials of assessment waivers.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

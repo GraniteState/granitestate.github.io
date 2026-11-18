@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/403.07",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/403",
+  "definition": "Application for Carrier Specific Hospital Tiering",
+  "effectiveDate": "2009-07-10",
+  "historyNote": "#9511, eff 7-10-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 403.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html",
+  "prefLabel": "Ins 403.07 Application for Carrier Specific Hospital Tiering",
+  "recordType": "rule-section",
+  "ruleText": "Ins 403.07 Application for Carrier Specific Hospital Tiering.\n\n(a) A carrier may submit an application to the department to use carrier specific hospital tiering.\n\n(b) The application for carrier specific tiering shall establish that carrier specific deviations from the department's tiering will result in reduced expenditures to the carrier based on the carrier's payment for specific services, admissions to hospitals, utilization of specific services and quality measures.\n\n(c) The application shall contain:\n\n(1) Historical data as well as current information on contract reimbursement levels;\n\n(2) A detailed explanation of the methodology used, including:\n\na. The time frame of the data;\n\nb. The membership included; and\n\nc. A description of the analytic tools used including:\n\n1. Case-mix adjustment;\n\n2. The number of observations;\n\n3. The weighting used relative to outpatient and inpatient services;\n\n4. Contact information for the analyst preparing the application; and\n\n5. Hospital specific relative rankings for each hospital for which a tier change is requested; and\n\n(3) The application may include a request for tier changes to out of state as well as in state hospitals.\n\n(d) A carrier seeking approval for carrier specific hospital tiering shall submit the application to the department no more than 7 days following the publication date of the department's tiering.\n\nSource. #9511, eff 7-10-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html"
+}

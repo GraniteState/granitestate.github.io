@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/736",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/730",
+  "definition": "MEMORIAL POLICY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/736.01",
+    "https://granitestate.github.io/rules/ncr/736.02",
+    "https://granitestate.github.io/rules/ncr/736.03"
+  ],
+  "notation": "Ncr 736",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html",
+  "prefLabel": "Ncr 736 MEMORIAL POLICY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 736 MEMORIAL POLICY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html"
+}

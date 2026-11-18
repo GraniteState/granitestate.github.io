@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Monitoring Location for Regulated Inorganics for Groundwater Systems",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.02 Monitoring Location for Regulated Inorganics for Groundwater Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.02 Monitoring Location for Regulated Inorganics for Groundwater Systems.\n\n(a) The sampling point for a PWS using groundwater (groundwater system) shall be at each entry point to the distribution system, as specified in the sampling schedule established pursuant to Env-Dw 708.01, so as to be representative of each well after treatment.\n\n(b) The O/O of a groundwater system shall collect each sample at the specified sampling point. If the O/O believes that conditions make another sampling point more representative of each source or treatment plant, the O/O shall request a change in sampling point pursuant to Env-Dw 708.04.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

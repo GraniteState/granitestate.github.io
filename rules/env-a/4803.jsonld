@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4803",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:26",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:29",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4800",
+  "definition": "CO2 ALLOWANCE AUCTIONS: GENERAL REQUIREMENTS; FREQUENCY; QUANTITY; RESERVE PRICE; BIDDING; UNSOLD ALLOWANCES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4803.01",
+    "https://granitestate.github.io/rules/env-a/4803.02",
+    "https://granitestate.github.io/rules/env-a/4803.03",
+    "https://granitestate.github.io/rules/env-a/4803.04",
+    "https://granitestate.github.io/rules/env-a/4803.05",
+    "https://granitestate.github.io/rules/env-a/4803.06",
+    "https://granitestate.github.io/rules/env-a/4803.07",
+    "https://granitestate.github.io/rules/env-a/4803.08",
+    "https://granitestate.github.io/rules/env-a/4803.09",
+    "https://granitestate.github.io/rules/env-a/4803.10",
+    "https://granitestate.github.io/rules/env-a/4803.11"
+  ],
+  "notation": "Env-A 4803",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html",
+  "prefLabel": "Env-A 4803 CO2 ALLOWANCE AUCTIONS: GENERAL REQUIREMENTS; FREQUENCY; QUANTITY; RESERVE PRICE; BIDDING; UNSOLD ALLOWANCES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4803 CO2 ALLOWANCE AUCTIONS: GENERAL REQUIREMENTS; FREQUENCY; QUANTITY; RESERVE PRICE; BIDDING; UNSOLD ALLOWANCES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html"
+}

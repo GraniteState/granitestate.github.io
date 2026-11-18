@@ -1,0 +1,25 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "definition": "Pesticide Control Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pes/100",
+    "https://granitestate.github.io/rules/pes/200",
+    "https://granitestate.github.io/rules/pes/300",
+    "https://granitestate.github.io/rules/pes/400",
+    "https://granitestate.github.io/rules/pes/500",
+    "https://granitestate.github.io/rules/pes/600",
+    "https://granitestate.github.io/rules/pes/700",
+    "https://granitestate.github.io/rules/pes/800",
+    "https://granitestate.github.io/rules/pes/900",
+    "https://granitestate.github.io/rules/pes/1000",
+    "https://granitestate.github.io/rules/pes/1100"
+  ],
+  "notation": "Pes",
+  "prefLabel": "Pes Pesticide Control Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

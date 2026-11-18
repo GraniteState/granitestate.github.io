@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3210",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-J:2-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3200",
+  "definition": "EMISSIONS MONITORING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/3210.01",
+    "https://granitestate.github.io/rules/env-a/3210.02",
+    "https://granitestate.github.io/rules/env-a/3210.03",
+    "https://granitestate.github.io/rules/env-a/3210.04",
+    "https://granitestate.github.io/rules/env-a/3210.05",
+    "https://granitestate.github.io/rules/env-a/3210.06",
+    "https://granitestate.github.io/rules/env-a/3210.07",
+    "https://granitestate.github.io/rules/env-a/3210.08",
+    "https://granitestate.github.io/rules/env-a/3210.09",
+    "https://granitestate.github.io/rules/env-a/3210.10",
+    "https://granitestate.github.io/rules/env-a/3210.11",
+    "https://granitestate.github.io/rules/env-a/3210.12",
+    "https://granitestate.github.io/rules/env-a/3210.13"
+  ],
+  "notation": "Env-A 3210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html",
+  "prefLabel": "Env-A 3210 EMISSIONS MONITORING",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 3210 EMISSIONS MONITORING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html"
+}

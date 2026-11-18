@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/crv/103.05",
+  "@type": "Concept",
+  "agencyCode": "Crv",
+  "altLabel": "Attendance at Meetings by Members of the Public",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:3",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/91-A/91-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/crv/103",
+  "definition": "Attendance at Meetings By Members of the Public",
+  "effectiveDate": "2001-09-28",
+  "historyNote": "#7567, eff 9-28-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Crv 103.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html",
+  "prefLabel": "Crv 103.05 Attendance at Meetings By Members of the Public",
+  "recordType": "rule-section",
+  "ruleText": "Crv 103.05 Attendance at Meetings By Members of the Public. Pursuant to RSA 91-A:2, II, members of the public may attend and record commission meetings, except for those parts of the meetings which are nonpublic sessions as defined in RSA 91-A:3.\n\nSource. #7567, eff 9-28-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html"
+}

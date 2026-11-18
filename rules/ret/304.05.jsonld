@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/304.05",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:4",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "100-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-4",
+    "https://granitestate.github.io/rsa/100-A/100-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/304",
+  "definition": "Calculation of the Contribution Adjustment Payment Amount",
+  "effectiveDate": "2019-01-09",
+  "historyNote": "#7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09 New. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 304.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 304.05 Calculation of the Contribution Adjustment Payment Amount",
+  "priorExpiration": "2009-10-10",
+  "recordType": "rule-section",
+  "ruleText": "Ret 304.05 Calculation of the Contribution Adjustment Payment Amount.\n\n(a) The contribution adjustment payment amount shall consist of the sum of the member contribution adjustment payment and the employer contribution adjustment payment and shall be due the NHRS in accordance with RSA 100-A:16 and Ret 304.05.\n\n(b) To calculate the member contribution adjustment, the NHRS shall:\n\n(1) Calculate the difference between the amount of member contributions that were remitted for the service period at issue and the amount that should have been remitted; and\n\n(2) In the case of an underpayment, increase the amount in (1) by interest, at the applicable member rate under RSA 100-A:16, II(g), from the date the member’s contribution was originally required to be remitted to the NHRS to the date the member contribution adjustment payment is received by the NHRS.\n\n(c) Member contributions shall be paid by the member with after tax funds and may not be paid by the employer on behalf of the member except in cases where the employer withheld the member contribution at the time the compensation was paid but failed to remit the contributions in a timely manner.\n\n(d) To calculate the employer contribution adjustment, the NHRS shall:\n\n(1) Calculate the difference between the amount of employer contributions that were remitted for the service period at issue and the contributions that should have been remitted; and\n\n(2) In the case of an underpayment, increase the amount in (1) by interest from the date the employer’s contribution was originally required to be remitted to the NHRS to the date the employer contribution adjustment payment is received by the NHRS. For contributions with respect to compensation paid on or after July 1, 2011, the interest rate shall be the applicable member rate under RSA 100-A:16, II(g). For contributions with respect to compensation paid before July 1, 2011, the interest rate shall be the assumed actuarial rate of return established by the board of trustees.\n\nSource. #7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09\n\nNew. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

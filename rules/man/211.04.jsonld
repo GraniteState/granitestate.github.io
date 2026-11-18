@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/man/211.04",
+  "@type": "Concept",
+  "agencyCode": "Man",
+  "authority": [
+    {
+      "citation": "541-A:3",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "677:2",
+      "source": "https://granitestate.github.io/rsa/677/677-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-3",
+    "https://granitestate.github.io/rsa/677/677-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/man/211",
+  "definition": "Appeal",
+  "effectiveDate": "2005-02-16",
+  "historyNote": "#8286-A, eff 2-16-05",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Man 211.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html",
+  "prefLabel": "Man 211.04 Appeal",
+  "recordType": "rule-section",
+  "ruleText": "Man 211.04 Appeal. Any person aggrieved by the board's decision to deny a rehearing or by the board's decision after rehearing may appeal to the Superior Court in accordance with RSA 205-A:28, II and the procedures set forth in RSA 677:2 through RSA 677:14.\n\nSource. #8286-A, eff 2-16-05",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html"
+}

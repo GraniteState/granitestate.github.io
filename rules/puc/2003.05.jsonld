@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2003.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365",
+      "source": "https://granitestate.github.io/rsa/365",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "378:49",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/365"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2003",
+  "definition": "Registration of Aggregators",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2003.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc.html",
+  "prefLabel": "Puc 2003.05 Registration of Aggregators",
+  "recordType": "rule-section",
+  "ruleText": "Section Puc 2003.05 Registration of Aggregators",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc.html"
+}

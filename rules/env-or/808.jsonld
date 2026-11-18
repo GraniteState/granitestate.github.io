@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/808",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "147-F:13",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-F:15",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-F:17",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-F/147-F-13",
+    "https://granitestate.github.io/rsa/147-F/147-F-15",
+    "https://granitestate.github.io/rsa/147-F/147-F-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/800",
+  "definition": "SUBDIVISION OF BROWNFIELDS COVENANT PROGRAM PROPERTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/808.01",
+    "https://granitestate.github.io/rules/env-or/808.02",
+    "https://granitestate.github.io/rules/env-or/808.03"
+  ],
+  "notation": "Env-Or 808",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html",
+  "prefLabel": "Env-Or 808 SUBDIVISION OF BROWNFIELDS COVENANT PROGRAM PROPERTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 808 SUBDIVISION OF BROWNFIELDS COVENANT PROGRAM PROPERTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html"
+}

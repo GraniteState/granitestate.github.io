@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2302.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2302",
+  "definition": "Emission Standards Applicable to Spreader Stoker Type, Biomass Boilers",
+  "effectiveDate": "2021-08-25",
+  "historyNote": "#13254, eff 8-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2302.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html",
+  "prefLabel": "Env-A 2302.03 Emission Standards Applicable to Spreader Stoker Type, Biomass Boilers",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2302.03 Emission Standards Applicable to Spreader Stoker Type, Biomass Boilers. For any spreader stoker type, biomass boiler subject to this chapter, the following emission rates shall apply:\n\n(a) NOx emissions shall not exceed 0.085 lb. per million BTUs on a 24-hr calendar day average basis, as recorded by a CEMS as specified in Env-A 2303; and\n\n(b) NOx emissions shall not exceed 0.075 lb. per million BTUs on a 30-day rolling average basis, as recorded by a CEMS as specified in Env-A 2303.\n\nSource. #13254, eff 8-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1402.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483-B:4",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B:17",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483-B/483-B-4",
+    "https://granitestate.github.io/rsa/483-B/483-B-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1402",
+  "definition": "Footprint",
+  "effectiveDate": "2016-12-17",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1402.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html",
+  "prefLabel": "Env-Wq 1402.11 Footprint",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1402.11 “Footprint” means:\n\n(a) When used in RSA 483-B:11, I, the area of land surface that lies directly beneath the limits of the exterior walls of a structure, whether the structure rests directly on the ground or is raised above the ground surface; and\n\n(b) For all other purposes, the area outlined by the vertical projection of an impervious surface onto the ground surface where it is or will be located.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html"
+}

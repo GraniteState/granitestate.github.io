@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/901",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/900",
+  "definition": "PURPOSE; APPLICABILITY; EXEMPTIONS; INCORPORATED DEFINITIONS; ABBREVIATIONS AND ACRONYMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/901.01",
+    "https://granitestate.github.io/rules/env-wt/901.02",
+    "https://granitestate.github.io/rules/env-wt/901.03",
+    "https://granitestate.github.io/rules/env-wt/901.04"
+  ],
+  "notation": "Env-Wt 901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 901 PURPOSE; APPLICABILITY; EXEMPTIONS; INCORPORATED DEFINITIONS; ABBREVIATIONS AND ACRONYMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 901 PURPOSE; APPLICABILITY; EXEMPTIONS; INCORPORATED DEFINITIONS; ABBREVIATIONS AND ACRONYMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

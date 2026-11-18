@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1003.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1003",
+  "definition": "Eligible Applicants; Match Required",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1003.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1003.03 Eligible Applicants; Match Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1003.03 Eligible Applicants; Match Required.\n\n(a) Municipalities and approved local or regional entities that are in compliance with the hazardous waste rules shall be eligible to apply for HWCF monies for HHW collection projects.\n\n(b) A municipality may participate in multiple HHW collection projects, however a municipality’s population shall be counted toward only one grant application per year for purposes of calculating grant awards pursuant to Env-Hw 1003.08.\n\n(c) As required by RSA 147-B:6, I-a, recipients shall provide matching funds, on a dollar-for-dollar basis, equal to the total amount of HWCF monies received.\n\nSource. #12352, eff 8-14-17; ss by #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

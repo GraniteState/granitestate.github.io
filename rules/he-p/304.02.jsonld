@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/304.02",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "141-B:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-B:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "141-B:10",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/304",
+  "definition": "Reporting Requirements",
+  "effectiveDate": "2016-03-15",
+  "historyNote": "#4055, eff 5-27-86, EXPIRED: 5-27-92 New. #5601, eff 3-24-93; amd by #6075, eff 8-5-95; ss by #7406, eff 11-21-00; ss by #9046, eff 12-5-07; ss by #11054, eff 3-15-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 304.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p300.html",
+  "prefLabel": "He-P 304.02 Reporting Requirements",
+  "priorExpiration": "1992-05-27",
+  "recordType": "rule-section",
+  "ruleText": "He-P 304.02 Reporting Requirements.\n\n(a) In accordance with RSA 141-B:7, all facilities shall report diagnosis or treatment of a reportable cancer to the SCR in accordance with the rules specified below, and using the means described in He-P 304.02(f), (g) and (h). SCR may be contacted through http://geiselmed.dartmouth.edu/nhscr/contact.\n\n(b) Pursuant to (a) above, all facilities shall include information and data in each report describing cancer diagnosis or treatment according to one of the following standards, as applicable:\n\n(1) The North American Association of Central Cancer Registries (NAACCR), “Standards for Cancer Registries, Volume II/Data Standards and Data Dictionary, 19th Edition, Record Layout Version 15,” (January 1, 2015) Edited by Monica Thornton, Revised (February, 27, 2015.), as listed in Appendix A and available as a free document at www.naaccr.org;\n\n(2) The North American Association of Central Cancer Registries (NAACCR), “Standards for Cancer Registries/Volume V: “Pathology Laboratory Electronic Reporting, Version 4.0.” Klein Wt., Havener L (eds.), Springfield (IL); North American Association of Central Cancer Registries, Inc., April, 2011, as listed in Appendix A and available as a free electronic document at www.naaccr.org; or\n\n(3) The National Center for Chronic Disease Prevention and Health Promotion Division of Cancer Prevention and Control, “Implementation Guide for Ambulatory Healthcare Provider Reporting to Central Cancer Registries HL7 Clinical Document Architecture (CDA) Release 1.1” (March, 2014), as listed in Appendix A and available as a free electronic document in PDF format at http://cdc.gov/cancer/npcr/ehrmeaningfuluse/cancer.htm.\n\n(c) Each report shall contain information or data required by the appropriate standard in (b) above, as listed in elements (1)-(10) below, and include any supporting information, as follows:\n\n(1) Item numbers defining demographics;\n\n(2) Item numbers defining cancer identification;\n\n(3) Item numbers defining hospital-specific information;\n\n(4) Item numbers defining stage prognostic factors;\n\n(5) Item numbers defining the first course of treatment;\n\n(6) Item numbers defining follow-up, recurrence, and death;\n\n(7) Item numbers defining confidential patient information;\n\n(8) Item numbers defining confidential hospital information;\n\n(9) Item numbers defining other confidential information; and\n\n(10) Item numbers defining diagnosis.\n\n(d) Of the item numbers specified in (b) and (c) above, the following shall require rapid reporting as defined in He-P 304.01(l) and described in He-P 304.03(b) and (c):\n\n(1) Item numbers defining demographics;\n\n(2) Item numbers defining cancer identification;\n\n(3) Item numbers defining hospital-specific information;\n\n(4) Item numbers defining confidential patient information; and\n\n(5) Item numbers defining other confidential information.\n\n(e) The items listed in (c) above shall require definitive reporting as defined in He-P 304.01(e), and described in He-P 304.03(a), He-P 304.03(d), He-P 304.04(a), and He-P 304.06(a) and (b).\n\n(f) All facilities making an electronic report to the SCR in accordance with (a) above, shall submit through a secure internet-based encrypted mechanism, such as a direct file transfer, or a web-based reporting form supported by the SCR.\n\n(g) All facilities reporting electronically shall format reports as specified by one of the following standards, as applicable:\n\n(1) The North American Association of Central Cancer Registries (NAACCR), “Standards for Cancer Registries, Volume II/Data Standards and Data Dictionary, 19th Edition, Record Layout Version 15.” (January 1, 2015) Edited by Monica Thornton, Revised (February, 27, 2015), as listed in Appendix A and available as a free document at http://www.naaccr.org;\n\n(2) The North American Association of Central Cancer Registries (NAACCR), “Standards for Cancer Registries/Volume V: Pathology Laboratory Electronic Reporting, Version 4.0.” Klein Wt., Havener L. (eds.) Springfield (IL); North American Association of Central Cancer Registries, Inc., (April, 2011), as listed in Appendix a and available as a free electronic document at http://www.naaccr.org; or\n\n(3) The National Center for Chronic Disease Prevention and Health Promotion Division of Cancer Prevention and Control, “Implementation Guide for Ambulatory Healthcare Provider Reporting to Central Cancer Registries HL7 Clinical Document Architecture (CDA) Release 1.1” (March, 2014), as listed in Appendix A and available as a free electronic document in PDF format at http://cdc.gov/cancer/npcr/ehrmeaningfuluse/cancer.htm.\n\n(h) Where electronic reporting is not feasible, facilities shall complete and file the New Hampshire State Cancer Registry (NHSCR) “Cancer Report Form” (July, 2015) provided by the SCR and faxed or mailed by the facilities to the SCR, via regular mail or a courier service.\n\nSource. #4055, eff 5-27-86, EXPIRED: 5-27-92\n\nNew. #5601, eff 3-24-93; amd by #6075, eff 8-5-95; ss by #7406, eff 11-21-00; ss by #9046, eff 12-5-07; ss by #11054, eff 3-15-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p300.html"
+}

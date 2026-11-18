@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/613.06",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:13",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-13",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/613",
+  "definition": "Use of Property",
+  "effectiveDate": "2023-07-29",
+  "historyNote": "#8310, eff 5-11-05; ss by #10364, eff 7-1-13; ss by #13422, eff 7-30-22; ss by #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 613.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm600.html",
+  "prefLabel": "Adm 613.06 Use of Property",
+  "recordType": "rule-section",
+  "ruleText": "Adm 613.06 Use of Property. An applicant shall acquire and use federal surplus property only for the purposes set forth in 41 CFR 102-37.435.\n\nSource. #8310, eff 5-11-05; ss by #10364, eff 7-1-13; ss by #13422, eff 7-30-22; ss by #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm600.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/205.01",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/205",
+  "definition": "Petition for Rulemaking",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 205.01 Petition for Rulemaking",
+  "recordType": "rule-section",
+  "ruleText": "Mil 205.01 Petition for Rulemaking.\n\n(a) Any person may request the board to commence a proceeding for the purpose of adopting, amending, or repealing a rule by filing a written petition that contains:\n\n(1) A statement of the petitioner's request for the proposed rule;\n\n(2) The text of the proposed rule or a statement of the particular results intended by the petitioner's interest in the subject matter of the proposed rule;\n\n(3) An identification of the particular rule sought to be amended or repealed;\n\n(4) Any data or argument the petitioner believes would be useful to the board in deciding whether to commence a rulemaking proceeding; and\n\n(5) Name, address, signature of petitioner and date of the petition request.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

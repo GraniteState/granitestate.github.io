@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/204.16",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/204",
+  "definition": "Withdrawal of Appeal",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 204.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 204.16 Withdrawal of Appeal",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 204.16 Withdrawal of Appeal.\n\n(a) The appellant may withdraw the appeal at any time prior to a final decision being made by the council.\n\n(b) To withdraw the appeal, the appellant shall submit a written notice of withdrawal to the appeals clerk stating that the appeal is being withdrawn and shall serve a copy on all other parties to the appeal pursuant to Env-WMC 204.09. If the appeal was resolved by a settlement, the appellant shall attach a copy of the settlement to the notice of withdrawal.\n\nSource. #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

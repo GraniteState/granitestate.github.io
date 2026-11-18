@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/801",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/800",
+  "definition": "PURPOSE; APPLICABILITY; DETERMINATION OF APPROPRIATE MITIGATION; ABBREVIATIONS AND ACRONYMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/801.01",
+    "https://granitestate.github.io/rules/env-wt/801.02",
+    "https://granitestate.github.io/rules/env-wt/801.03",
+    "https://granitestate.github.io/rules/env-wt/801.04"
+  ],
+  "notation": "Env-Wt 801",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt.html",
+  "prefLabel": "Env-Wt 801 PURPOSE; APPLICABILITY; DETERMINATION OF APPROPRIATE MITIGATION; ABBREVIATIONS AND ACRONYMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 801 PURPOSE; APPLICABILITY; DETERMINATION OF APPROPRIATE MITIGATION; ABBREVIATIONS AND ACRONYMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/6510.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "265-A:36",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-36",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/6510",
+  "definition": "Availability of Reports",
+  "effectiveDate": "2022-09-20",
+  "historyNote": "(See Revision Note at chapter heading for Saf-C 6500) #13448, eff 9-20-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 6510.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html",
+  "prefLabel": "Saf-C 6510.01 Availability of Reports",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 6510.01 Availability of Reports. Interlock service providers shall make monitoring and violation reports available upon demand via the internet portal at all times, upon calibration and as violations occur, respectively, within the following timeframes:\n\n(a) An electronic violation alert shall be provided daily to the division within 24 hours of a violation;\n\n(b) Violation reports shall be available to the division within 15 days; and\n\n(c) Monitoring reports shall also be provided to the division within 24 hours of any calibration and every 60 days thereafter.\n\nSource. (See Revision Note at chapter heading for Saf-C 6500) #13448, eff 9-20-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c6500.html"
+}

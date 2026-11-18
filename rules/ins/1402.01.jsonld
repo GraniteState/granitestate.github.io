@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1402.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "259",
+      "source": "https://granitestate.github.io/rsa/259",
+      "via": "appendix"
+    },
+    {
+      "citation": "264",
+      "source": "https://granitestate.github.io/rsa/264",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "404-C",
+      "source": "https://granitestate.github.io/rsa/404-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/259",
+    "https://granitestate.github.io/rsa/264",
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/404-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1402",
+  "definition": "Service",
+  "effectiveDate": "2021-01-25",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html",
+  "prefLabel": "Ins 1402.01 Service",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1402.01 Service.\n\n(a) All insurers authorized to write automobile insurance in this state shall issue to any eligible risk a policy of automobile insurance covering private passenger automobiles.\n\n(b) Every participating insurer and producer shall provide to any eligible risk seeking automobile insurance covering private passenger automobiles the same level of service regardless of whether the person is or becomes a risk which is ceded to the facility.\n\n(c) The policy shall be of the type afforded by such insurer to the public, and utilizing the premium payment plans, rules, and classification systems then in effect for such insurer, and shall provide the coverages and coverage limits as requested by the insured and as required under the provisions of Ins 1403.03(a).\n\nSource. (See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html"
+}

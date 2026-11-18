@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb/203.11",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "authority": [
+    {
+      "citation": "357-D:5",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "V(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/arb/203",
+  "definition": "Discovery",
+  "effectiveDate": "2007-09-28",
+  "historyNote": "#6994, eff 5-7-99; amd by #7188, eff 1-5-00; amd by #8882, INTERIM, eff 5-5-07, EXPIRES: 11-1-07; ss by 8996, eff 9-28-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arb 203.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html",
+  "prefLabel": "Arb 203.11 Discovery",
+  "priorExpiration": "2007-11-01",
+  "recordType": "rule-section",
+  "ruleText": "Arb 203.11 Discovery.\n\n(a) All parties shall be provided with all documents and records requested relative to the issues raised in the demand for arbitration no later than 5 working days prior to the date of the scheduled hearing.\n\n(b) All discovery requests shall be in writing and shall be honored unless the board rules that the request is not relevant to an issue subject to arbitration.\n\n(c) All documents provided by the manufacturer pursuant to Arb 203.03 shall be presumed to be relevant to any claim for arbitration considered by the board.\n\nSource. #6994, eff 5-7-99; amd by #7188, eff 1-5-00; amd by #8882, INTERIM, eff 5-5-07, EXPIRES: 11-1-07; ss by 8996, eff 9-28-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html"
+}

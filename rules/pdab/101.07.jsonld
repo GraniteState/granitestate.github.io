@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/101.07",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "altLabel": "Wholesale Acquisition Cost",
+  "authority": [
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "514-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/101",
+  "definition": "Wholesale acquisition cost",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 101.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 101.07 Wholesale acquisition cost",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 101.07 \"Wholesale acquisition cost\" means a manufacturer's listed price for sale to a wholesale drug distributor or other entity that purchases a prescription drug directly from the manufacturer, not including any price concessions.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

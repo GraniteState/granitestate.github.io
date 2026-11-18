@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/624",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:10-b",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/600",
+  "definition": "PERMITS FOR THE COMBUSTION OF NON-EXEMPT FUEL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/624.01",
+    "https://granitestate.github.io/rules/env-a/624.02",
+    "https://granitestate.github.io/rules/env-a/624.03",
+    "https://granitestate.github.io/rules/env-a/624.04",
+    "https://granitestate.github.io/rules/env-a/624.05",
+    "https://granitestate.github.io/rules/env-a/624.06",
+    "https://granitestate.github.io/rules/env-a/624.07",
+    "https://granitestate.github.io/rules/env-a/624.08",
+    "https://granitestate.github.io/rules/env-a/624.09",
+    "https://granitestate.github.io/rules/env-a/624.10",
+    "https://granitestate.github.io/rules/env-a/624.11",
+    "https://granitestate.github.io/rules/env-a/624.12"
+  ],
+  "notation": "Env-A 624",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 624 PERMITS FOR THE COMBUSTION OF NON-EXEMPT FUEL",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 624 PERMITS FOR THE COMBUSTION OF NON-EXEMPT FUEL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.10",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Audit Requirements for Opacity CEM Systems",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19 (from Env-A 808.11)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.10 Audit Requirements for Opacity CEM Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.10 Audit Requirements for Opacity CEM Systems.\n\n(a) The owner or operator of an opacity CEM system required to meet the criteria of 40 CFR 60, Appendix B, Performance Specification 1, shall follow the audit procedure specified in 40 CFR 60, Appendix F, Procedure 3.\n\n(b) For a source that is required to install and operate a certified opacity CEM system that is not otherwise required by a federal rule, the system shall comply with 40 CFR 60, Appendix B, Performance Specification 1, and shall follow the audit procedure specified in 40 CFR 60, Appendix F, Procedure 3.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19 (from Env-A 808.11)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/vet/801.02",
+  "@type": "Concept",
+  "agencyCode": "Vet",
+  "authority": [
+    {
+      "citation": "332-B:7-a",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/332-B/332-B-7-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/332-B/332-B-7-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/vet/801",
+  "definition": "Testing",
+  "effectiveDate": "2023-05-15",
+  "historyNote": "#13577, eff 5-15-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Vet 801.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html",
+  "prefLabel": "Vet 801.02 Testing",
+  "recordType": "rule-section",
+  "ruleText": "Vet 801.02 Testing.\n\n(a) Anyone who has graduated from an AVMA accredited veterinary technology or veterinary nursing program shall be eligible to take the VTNE offered by the American Association of Veterinary State Boards (AAVSB).\n\n(b) Anyone who has a bachelor’s degree with a concentration in pre-veterinary medicine and has 2 years of on-the-job training covering the tasks listed in Vet 802 and verified by a letter from a licensed supervising veterinarian shall be eligible to take the VTNE offered by the AAVSB until May 1, 2026. Anyone who wishes to take the VTNE after May 1, 2026 shall comply with (a) above.\n\n(c) Anyone who has obtained 4 years of on-the-job training covering the tasks listed in Vet 802 and verified by a letter from a supervising veterinarian shall be eligible to take the VTNE offered by the AAVSB until May 1, 2026. Anyone who wishes to take the VTNE after May 1, 2026 shall comply with (a) above.\n\nSource. #13577, eff 5-15-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html"
+}

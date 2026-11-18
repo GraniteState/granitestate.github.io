@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mid/101",
+  "@type": "Concept",
+  "agencyCode": "Mid",
+  "authority": [
+    {
+      "citation": "326-D:2",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/326-D/326-D-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-D/326-D-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/mid/100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mid/101.01"
+  ],
+  "notation": "Mid 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html",
+  "prefLabel": "Mid 101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Mid 101 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/403.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/403",
+  "definition": "Standard for Approval of Tier Change",
+  "effectiveDate": "2009-07-10",
+  "historyNote": "#9511, eff 7-10-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 403.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html",
+  "prefLabel": "Ins 403.08 Standard for Approval of Tier Change",
+  "recordType": "rule-section",
+  "ruleText": "Ins 403.08 Standard for Approval of Tier Change. The department shall grant approval for carrier specific tiers when the department finds based on substantial evidence that the requested tier change is cost effective to the carrier requesting the change.\n\nSource. #9511, eff 7-10-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html"
+}

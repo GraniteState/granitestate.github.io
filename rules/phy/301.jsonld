@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/phy/301",
+  "@type": "Concept",
+  "agencyCode": "Phy",
+  "authority": [
+    {
+      "citation": "328-A:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/phy/300",
+  "definition": "SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/phy/301.01"
+  ],
+  "notation": "Phy 301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy300.html",
+  "prefLabel": "Phy 301 SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Phy 301 SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy300.html"
+}

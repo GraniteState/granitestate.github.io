@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/103.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/103",
+  "definition": "Document Requests",
+  "effectiveDate": "2020-02-01",
+  "historyNote": "#6967, eff 3-26-9999; ss by #7984, eff 11-10-03; ss by #12983, eff 2-1-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins100.html",
+  "prefLabel": "Ins 103.01 Document Requests",
+  "recordType": "rule-section",
+  "ruleText": "Ins 103.01 Document Requests.\n\n(a) Requests for copies of department documents or records shall be made pursuant to RSA 91-A.\n\n(b) All requests for copies of department documents or records shall be in a manner that would give the department notice of exactly what records the requestor is seeking, including the period of time from which the records are sought.\n\n(c) Requests may be delivered to the department:\n\n(1) By U.S. mail to:\n\nThe New Hampshire Insurance Department\n\n21 South Fruit Street, Suite 14\n\nConcord, NH 03301;\n\n(2) By email to requests@ins.nh.gov;\n\n(3) By facsimile transmission to 603-271-1402;\n\n(4) By telephone at 603-271-2261; or\n\n(5) In person.\n\nSource. #6967, eff 3-26-9999; ss by #7984, eff 11-10-03; ss by #12983, eff 2-1-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins100.html"
+}

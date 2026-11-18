@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/105.01",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/105",
+  "definition": "Procedure for Making a Claim of Confidentiality",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 105.01 Procedure for Making a Claim of Confidentiality",
+  "recordType": "rule-section",
+  "ruleText": "Odb 105.01 Procedure for Making a Claim of Confidentiality.\n\n(a) Any person claiming that information submitted to the board under Odb 200 or Odb 400 is CBI, shall assert that claim at the time the information is initially submitted by stamping or otherwise marking each page of such information with the notation “confidential” or “confidential business information”. If the claimant believes that only part of the information on a page is CBI, the claimant shall identify all portions to which the claim applies at the time of submission and shall designate only that portion of the page as “confidential” or “confidential business information”.\n\n(b) If the board receives information from another agency of the state or federal government that is designated as CBI, the board shall exercise the same degree of confidentiality for the information as is exercised by the sending agency to the extent authorized by New Hampshire law.\n\n(c) If a claim of confidentiality is made for any information that falls within any category identified in Odb 105.02, the information shall not be treated as confidential.\n\nSource. #8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

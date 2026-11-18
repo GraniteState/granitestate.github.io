@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/801",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "PURPOSE AND APPLICABILITY",
+  "authority": [
+    {
+      "citation": "212-A:9",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "217-A:7",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/800",
+  "definition": "Purpose and Applicability",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-c/801.01",
+    "https://granitestate.github.io/rules/env-c/801.02"
+  ],
+  "notation": "Env-C 801",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c800.html",
+  "prefLabel": "Env-C 801 Purpose and Applicability",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-C 801 Purpose and Applicability",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c800.html"
+}

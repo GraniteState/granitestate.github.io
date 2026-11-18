@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/4402.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Accountable Product/Motor Fuel",
+  "authority": [
+    {
+      "citation": "21-P:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-A:11-b",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:38",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/4402",
+  "definition": "Accountable product/motor fuel",
+  "effectiveDate": "2020-04-20",
+  "historyNote": "#5808, eff 4-14-94; ss by #7221, INTERIM, eff 4-14-00, EXPIRES: 8-12-00; ss by #7288, eff 5-24-00, EXPIRED: 5-24-08 New. #9377, eff 1-30-09; ss by #10021, eff 11-9-11; ss by #13038, eff 4-20-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 4402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4400.html",
+  "prefLabel": "Saf-C 4402.01 Accountable product/motor fuel",
+  "priorExpiration": "2008-05-24",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 4402.01 “Accountable product/motor fuel” means any product which is subject to the reporting requirement of a state, regardless of its intended use or taxability.\n\nSource. #5808, eff 4-14-94; ss by #7221, INTERIM, eff 4-14-00, EXPIRES: 8-12-00; ss by #7288, eff 5-24-00, EXPIRED: 5-24-08\n\nNew. #9377, eff 1-30-09; ss by #10021, eff 11-9-11; ss by #13038, eff 4-20-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4400.html"
+}

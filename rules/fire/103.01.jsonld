@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/103.01",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/103",
+  "definition": "Requests for Information",
+  "effectiveDate": "2017-06-28",
+  "historyNote": "#7331, eff 8-1-00; amd by #9319-A, eff 11-12-08; ss by #12225-A, eff 6-28-17 (See Revision Note at chapter heading for Fire 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fire 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html",
+  "prefLabel": "Fire 103.01 Requests for Information",
+  "recordType": "rule-section",
+  "ruleText": "Fire 103.01 Requests for Information.\n\n(a) Requests for information from the commission shall be sent to the:\n\nDirector, Division of Fire Standards and Training and Emergency Medical Services\n\n33 Hazen Drive\n\nConcord, NH 03305.\n\n(b) Public records, not otherwise declared confidential by law, shall be available for inspection by appointment.\n\n(c) A person who receives copies of documents in response to a request pursuant to (a) above, shall be assessed the fee, as provided in RSA 91-A:4, IV.\n\nSource #7331, eff 8-1-00; amd by #9319-A, eff 11-12-08; ss by #12225-A, eff 6-28-17 (See Revision Note at chapter heading for Fire 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html"
+}

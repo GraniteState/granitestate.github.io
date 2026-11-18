@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/605.04",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:11",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:14-e",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-11",
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/605",
+  "definition": "Full Statistical Revaluation of the Cyclical Inspection",
+  "effectiveDate": "2024-03-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Rev 600) #10581, eff 5-1-14; ss by #13916, eff 3-28-24 (see Revision Note #2 at chapter heading for Rev 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 605.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html",
+  "prefLabel": "Rev 605.04 Full Statistical Revaluation of the Cyclical Inspection",
+  "recordType": "rule-section",
+  "ruleText": "Rev 605.04 Full Statistical Revaluation of the Cyclical Inspection. The full statistical revaluation of the cyclical inspection appraisal data shall be performed as specified in Rev 602 and Rev 603.\n\nSource. (See Revision Note #1 at chapter heading for Rev 600) #10581, eff 5-1-14; ss by #13916, eff 3-28-24 (see Revision Note #2 at chapter heading for Rev 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Treatment of Batched Items and Services",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.13 Treatment of Batched Items and Services",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.13 Treatment of Batched Items and Services.\n\n(a) In general, batched items and services may be submitted and considered jointly as part of one payment determination only if the qualified IDR items and services meet the following requirements:\n\n(1) The qualified IDR items and services are billed by the same provider or group of providers or the same facility. Items and services are billed by the same provider or group of providers or the same facility, if the items or services are billed with the same NPI or TIN;\n\n(2) Payment for the qualified IDR items and services is required to be made by the same health carrier or plan.\n\na. For group or individual health insurance coverage, this requirement is satisfied if the same health carrier or plan is required to make payment for the qualified IDR items and services, even if the qualified IDR items and services relate to claims from different group health plans or individual market policies;\n\nb. For self-insured group health plans that have opted into the state IDR process, this requirement is satisfied if the same self-insured group health plan is required to make payment for the qualified IDR items and services, including when the plan makes payments through a third party administrator; and\n\nc. The requirement is not satisfied if multiple self-insured group health plans are required to make payments for the qualified IDR items and services, even if those group health plans make payments through the same third party administrator;\n\n(3) The qualified IDR items and services meet any of the following criteria under which multiple qualified IDR items and services relate to the treatment of a similar condition and therefore are permitted to be considered jointly as a single payment determination for purposes of encouraging efficiencies, including minimizing costs, in the state IDR process:\n\na. The qualified IDR items or services were furnished to a single patient during the same patient encounter. For purposes of this section, a “single patient encounter” means a patient encounter on one or more consecutive days during which the qualified IDR items or services were furnished to the same patient and billed on the same claim form;\n\nb. The qualified IDR items and services were furnished to one or more patients and were billed under the same service code or a comparable code under a different procedural coding system, such as Current Procedural Terminology (CPT) codes with modifiers, if applicable, Healthcare Common Procedure Coding System (HCPCS) codes with modifiers, if applicable, or Diagnosis-Related Group (DRG) codes with modifiers, if applicable;\n\nc. For anesthesiology, radiology, pathology, and laboratory qualified IDR items and services, the qualified IDR items and services were furnished to one or more patients and were billed under service codes belonging to the same Category I CPT code range, as specified in guidance published by the federal secretary of Health and Human Services; or\n\nd. All the qualified IDR items and services were furnished within the same 30-business-day period.\n\n(b) A certified IDR entity may consider up to 25 qualified IDR items and services jointly as batched items and services subject to a single fee. Batched items and services submitted and considered jointly shall be treated as a batched determination and subject to the fee schedule for batched determinations under this section. The fee for batched determinations may consist of a fixed batched fee for a batch of up to 25 line items and a fixed tiered fee for every additional 25 line items within a batched dispute beginning with the 26th line item.\n\n(c) In the case of qualified IDR items and services billed by a provider or facility as part of a bundled payment arrangement relating to a single episode of care, or where a health carrier or plan makes or denies an initial payment as a bundled payment, the qualified IDR items and services may be submitted as part of one payment determination. Bundled payment arrangements submitted under this paragraph shall be subject to the rules for batched determinations and the certified IDR entity fee for single, batched determinations.\n\n(d) Within 5 business days of the date of appointment, the appointed certified IDR entity shall review the information submitted in the notice of IDR initiation to determine whether qualified IDR items and services may properly be considered jointly as part of one payment determination as batched items and services or whether these items and services have been improperly batched under this section.\n\n(e) If the certified IDR entity determines that items and services have been improperly batched, the entity shall notify the parties within the 5 business day review period, and the provider or facility shall have 5 business days to resubmit amended notice(s) of IDR initiation to the commissioner.\n\n(f) The date of submission of the amended notice of IDR initiation to the commissioner shall be treated as the new IDR initiation date for purposes of the time periods in this part except that, upon determination by the commissioner that the amended notice of IDR initiation is eligible for resolution through the state IDR process under RSA 420-J, RSA 417-F, RSA 417:4 XV(a)(15) and in accordance with the provisions of this part, the commissioner shall immediately reassign the case to the IDR entity originally selected.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

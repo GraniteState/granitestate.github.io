@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/802",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "153:27",
+      "source": "https://granitestate.github.io/rsa/153/153-27",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/800",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mec/802.01",
+    "https://granitestate.github.io/rules/mec/802.02",
+    "https://granitestate.github.io/rules/mec/802.03"
+  ],
+  "notation": "Mec 802",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec800.html",
+  "prefLabel": "Mec 802 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Mec 802 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec800.html"
+}

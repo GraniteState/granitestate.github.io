@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2503.04",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:6",
+      "paragraphs": [
+        "II-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-6",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2503",
+  "definition": "Net-Metering Credit",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2503.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2503.04 Net-Metering Credit",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2503.04 Net-Metering Credit.\n\n(a) A provider of electricity shall receive Class I and Class II certificate credits for the production of electricity at customer-sited sources that is net-metered to a distribution utility pursuant to RSA 362-A:9 and Puc 900 provided that:\n\n(1) The customer-sited source is eligible to produce Class I or Class II certificates;\n\n(2) The commission has not certified the customer-sited source for the production of Class I or Class II certificates; and\n\n(3) The certificates or generation attributes have not been used for compliance with any similar requirements of another non-federal jurisdiction, or otherwise sold, retired, claimed, or represented as part of any other electrical energy output, thermal energy output, portfolio, or sale.\n\n(b) On or before February 1 of each year, distribution utilities shall submit to the commission the following:\n\n(1) A list of customer-sited sources eligible for Class I certification that meet the requirements of Puc 2503.04(a)(1), including the owner of the source, the location of the source, the type of renewable energy used by the source, the nameplate rated capacity or system design capacity in alternating current of the generator in kilowatts (kW), and the date the source became operational;\n\n(2) A list of customer-sited sources eligible for Class II certification that meet the requirements of Puc 2503.04 (a)(1), including the owner of the source, the location of the source, the nameplate rated capacity or system design capacity of the inverters in alternating current, and the date the source became operational;\n\n(3) Total annual electricity sales in kWh for the preceding year; and\n\n(4) Total default service sales in kWh or equivalent for the preceding year.\n\n(c) The commission shall estimate the total yearly production for Class I and Class II customer-sited sources identified pursuant to paragraph (b) using a capacity factor rating of 20 percent for each installation.\n\n(d) By February 28 of each year, the commission shall compute and make public credit percentages that are equal to the estimated production for the prior year in each class divided by the total amount of electricity supplied to end-use customers in the prior year, with the results converted to a percentage.\n\n(e) Each provider of electricity may, at the time of filing its annual report pursuant to Puc 2503.03, claim a Class I and a Class II certificate credit equal to the credit percentage for each class multiplied by the total megawatt-hours of electricity supplied by the provider to its end-use customers in the preceding year.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

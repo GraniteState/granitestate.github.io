@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wtr/203.08",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wtr",
+  "authority": [
+    {
+      "citation": "21-O:7",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-7",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wtr/203",
+  "definition": "Intervenors",
+  "effectiveDate": "2024-04-11",
+  "historyNote": "(See Revision Note # 1 and Revision Note #2 at chapter heading for Ec-Wtr 200) #13923, eff 4-11-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wtr 203.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr200.html",
+  "prefLabel": "Ec-Wtr 203.08 Intervenors",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Wtr 203.08 Intervenors.\n\n(a) A request to intervene shall conform to the requirements of RSA 541-A:32 and Ec-Wtr 203.04.\n\n(b) The presiding officer shall rule on all petitions for intervention in accordance with RSA 541-A:32.\n\n(c) Once a petition to intervene is granted, the intervenor shall be entitled to participate in the proceeding as a party, subject to any limitations imposed upon the intervention pursuant to RSA 541-A:32, III.\n\nSource. (See Revision Note # 1 and Revision Note #2 at chapter heading for Ec-Wtr 200) #13923, eff 4-11-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr200.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/606.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/606",
+  "definition": "Specific Sources, Devices, and Emissions Included in an Air Pollution Dispersion Modeling Impact Analysis",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12 (from Env-A 606.05); ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 606.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 606.06 Specific Sources, Devices, and Emissions Included in an Air Pollution Dispersion Modeling Impact Analysis",
+  "priorExpiration": "2011-10-24",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 606.06 Specific Sources, Devices, and Emissions Included in an Air Pollution Dispersion Modeling Impact Analysis.\n\n(a) An air pollution dispersion modeling impact analysis for sources subject to Env-A 606.02(a)(1), (2), or (3) shall include emissions from the following:\n\n(1) Each source or device at the stationary source required to do the air pollution dispersion modeling impact analysis that meets or exceeds any applicable threshold in Env-A 607.01 and which is not exempt from inclusion pursuant to the Env-A 606.02(c); and\n\n(2) All sources identified as nearby in accordance with 40 CFR 51, Appendix W, that are listed in the department’s inventory of sources that meet the applicability thresholds of this part.\n\n(b) Except as provided in (c), below, an air pollution dispersion modeling impact analysis for a source subject to Env-A 606.02(a)(1), (2), or (3)a. shall be performed for nitrogen oxides, sulfur dioxide, carbon monoxide, and PM10 emitted from the device(s) being analyzed.\n\n(c) The following emissions, if from sources or devices located at facility that is not a major source as defined in Env-A 619, are not required to be included in an air pollution dispersion modeling analysis:\n\n(1) Nitrogen oxides emissions from sources or devices that achieve Reasonably Available Control Technology standards specified in Env-A 1300 for nitrogen oxide;\n\n(2) Sulfur dioxide emissions from sources or devices with a sulfur dioxide emission rate equal to or less than 0.025 lb/MMBtu of heat input; and\n\n(3) PM10 emissions from sources or devices with the following:\n\na. A PM emission rate equal to or less than 0.10 lb/MMBtu; or\n\nb. A PM control device which achieves a PM capture and control efficiency of at least 95%.\n\n(d) An air pollution dispersion modeling impact analysis for sources subject to Env-A 619 shall include emissions of PM2.5. For purposes of this analysis, nearby sources of PM2.5 shall be identified in accordance with 40 CFR 51, Appendix W, and selected from the department’s inventory of sources that are classified as major sources pursuant to Env-A 619.\n\n(e) An air pollution dispersion modeling impact analysis for sources subject only to Env-A 606.02(a)(3)b. shall be performed for carbon monoxide only.\n\n(f) Except as provided in (g), below, an air pollution dispersion modeling impact analysis for sources subject to Env-A 606.02(a)(4) shall include emissions from each source or device at the stationary source which emits the same regulated toxic air pollutant for which the analysis is being performed.\n\n(g) An air pollution dispersion modeling impact analysis for sources subject to Env-A 606.02(a)(4) shall not include emissions from any exempt device or process as specified in Env-A 1402.\n\nSource. #6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12 (from Env-A 606.05); ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/4802.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Accountable Product/Motor Fuel",
+  "authority": [
+    {
+      "citation": "21-P:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-A:11-b",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-B:12",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:38",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-b",
+    "https://granitestate.github.io/rsa/147-B/147-B-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/4802",
+  "definition": "Accountable product/motor fuel",
+  "effectiveDate": "2020-04-20",
+  "historyNote": "#13039, eff 4-20-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 4802.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4800.html",
+  "prefLabel": "Saf-C 4802.01 Accountable product/motor fuel",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 4802.01 “Accountable product/motor fuel” means any product which is subject to the reporting requirement of a state, regardless of its intended use or taxability.\n\nSource. #13039, eff 4-20-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c4800.html"
+}

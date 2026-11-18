@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/408.06",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:5-d",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-5-d",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "281-A:60",
+      "paragraphs": [
+        "I(r)"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-60",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-5-d",
+    "https://granitestate.github.io/rsa/281-A/281-A-60"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/408",
+  "definition": "Written Agreement Necessary",
+  "effectiveDate": "2019-06-26",
+  "historyNote": "#7142, eff 11-24-99, EXPIRED: 11-24-07 New. #9878-A eff 2-25-11, EXPIRED: 2-25-19 New. #12815, eff 6-26-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 408.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html",
+  "prefLabel": "Lab 408.06 Written Agreement Necessary",
+  "priorExpiration": "2019-02-25",
+  "recordType": "rule-section",
+  "ruleText": "Lab 408.06 Written Agreement Necessary.\n\n(a) A TPA shall not act on behalf of a self-insurer without a written agreement with that self-insurer.\n\n(b) A TPA shall complete and submit “Notice of Contract Between Third Party Administrator and Self-Insurer” form WC-TPA-CBP (3/2019). The form may be obtained at https://www.nh.gov/labor/documents/tpa-contract.pdf.\n\n(c) In addition to the “Notice of Contract Between Third Party Administrator and Self-Insurer” form, a TPA shall submit the following documents to the department:\n\n(1) A copy of the contract between the administrators and insurers; and\n\n(2) A copy of the notification which will be sent to policyholders informing them of this arrangement.\n\nSource. #7142, eff 11-24-99, EXPIRED: 11-24-07\n\nNew. #9878-A eff 2-25-11, EXPIRED: 2-25-19\n\nNew. #12815, eff 6-26-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html"
+}

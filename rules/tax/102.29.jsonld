@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.29",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "altLabel": "LUCT Appeal",
+  "authority": [
+    {
+      "citation": "79-A:7",
+      "source": "https://granitestate.github.io/rsa/79-A/79-A-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:10",
+      "source": "https://granitestate.github.io/rsa/79-A/79-A-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/79-A/79-A-7",
+    "https://granitestate.github.io/rsa/79-A/79-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "LUCT appeal",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7152, eff 12-10-99 (formerly Tax 101.27); ss by 8985, eff 9-24-07 (from Tax 102.30); ss by #10623, eff 6-26-14 (from Tax 102.32); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.29 LUCT appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.29 “LUCT appeal” means an RSA 79-A:10 appeal of a land use change tax assessed under RSA 79-A:7.\n\nSource. #7152, eff 12-10-99 (formerly Tax 101.27); ss by 8985, eff 9-24-07 (from Tax 102.30); ss by #10623, eff 6-26-14 (from Tax 102.32); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/1603",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "130-A:2",
+      "paragraphs": [
+        "I(j)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:10",
+      "paragraphs": [
+        "XII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/1200",
+  "definition": "LABORATORY STANDARDS AND REPORTING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/1603.01",
+    "https://granitestate.github.io/rules/he-p/1603.02",
+    "https://granitestate.github.io/rules/he-p/1603.03",
+    "https://granitestate.github.io/rules/he-p/1603.04"
+  ],
+  "notation": "He-P 1603",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html",
+  "prefLabel": "He-P 1603 LABORATORY STANDARDS AND REPORTING",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 1603 LABORATORY STANDARDS AND REPORTING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html"
+}

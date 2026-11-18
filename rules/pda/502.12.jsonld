@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/502.12",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "altLabel": "Mean High-Water Mark",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "III",
+        "VI"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "12-G:50",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/502",
+  "definition": "Mean high-water mark",
+  "effectiveDate": "2019-12-24",
+  "historyNote": "#8775, eff 12-16-06; ss by #9975, eff 8-20-11 (formerly Pda 502.15) (See Revision Note at chapter heading for Pda 500); ss by #12958, eff 12-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pda 502.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 502.12 Mean high-water mark",
+  "recordType": "rule-section",
+  "ruleText": "Pda 502.12 “Mean high-water mark” means “mean high water” as determined by the United States National Geodetic Survey, and indicated on maps of the United States National Geodetic Survey.\n\nSource. #8775, eff 12-16-06; ss by #9975, eff 8-20-11 (formerly Pda 502.15) (See Revision Note at chapter heading for Pda 500); ss by #12958, eff 12-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

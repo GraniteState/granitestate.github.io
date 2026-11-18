@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/501.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362:2",
+      "source": "https://granitestate.github.io/rsa/362/362-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/501",
+  "definition": "Application of Rules",
+  "effectiveDate": "2023-10-25",
+  "historyNote": "#13796, eff 10-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 501.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html",
+  "prefLabel": "En 501.01 Application of Rules",
+  "recordType": "rule-section",
+  "ruleText": "En 501.01 Application of Rules.\n\n(a) En 503 through En 510 shall apply to every utility as defined by En 502.27, with the exception of liquefied petroleum gas (\"LPG\") operators and landfill gas operators.\n\n(b) En 511 and En 512 shall apply only to landfill gas operators and LPG operators as defined in En 502.13 and En 502.16.\n\nSource. #13796, eff 10-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en500.html"
+}

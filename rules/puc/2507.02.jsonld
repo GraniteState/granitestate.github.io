@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2507.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-6",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2507",
+  "definition": "Prohibited Relationships",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2506.02); #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2507.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2507.02 Prohibited Relationships",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2507.02 Prohibited Relationships.\n\n(a) An aggregator shall not aggregate certificates from a customer-sited source, a source producing useful thermal energy, or a facility producing biodiesel, if the aggregator has a prohibited relationship to an independent monitor for such source or facility.\n\n(b) For purposes of this part, “prohibited relationship” means:\n\n(1) A direct or indirect ownership interest comprising at least ten percent of the stock or other equity of an entity;\n\n(2) Common direct or indirect ownership of at least ten percent;\n\n(3) Membership in the same household or immediate family; or\n\n(4) Service as an officer, director, partner, employee, agent, or fiduciary.\n\n(c) If a prohibited relationship pursuant to (b) exists between an independent monitor and any member of an aggregator’s household or immediate family, then the aggregator shall also be deemed to have such a prohibited relationship pursuant to this section.\n\nSource. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2506.02); #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

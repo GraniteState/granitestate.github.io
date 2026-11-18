@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/608",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "IX",
+        "X(d)"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/600",
+  "definition": "RECONSIDERATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/608.01",
+    "https://granitestate.github.io/rules/pda/608.02",
+    "https://granitestate.github.io/rules/pda/608.03"
+  ],
+  "notation": "Pda 608",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 608 RECONSIDERATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 608 RECONSIDERATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Stack Testing And RATA Requirements",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Stack Testing and RATA Requirements",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98 New. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99 New. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.02 Stack Testing and RATA Requirements",
+  "priorExpiration": "1999-03-26",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.02 Stack Testing and RATA Requirements.\n\n(a) A compliance stack emissions test or RATA shall conform to the following:\n\n(1) The general requirements of 40 CFR 60.8(a), (b), (d), (e), and (f); and\n\n(2) The test methods contained in 40 CFR 60, Appendix A, 40 CFR 51, Appendix M, or any other stack test method promulgated by the U.S. Environmental Protection Agency (EPA), or any alternative, conditional or other test method approved by the EPA, or any alternative method approved by the department in accordance with Env-A 809.\n\n(b) An owner or operator shall sample emissions at locations and sampling points that will provide representative measurements of the actual emissions during source operation at the time of the test.\n\n(c) The owner or operator shall perform a stratification check at each measurement location where a determination of a gas concentration is required following the method specified in 40 CFR 60, Appendix A, Method 7E, section 8.1.2.\n\n(d) Prior to each compliance stack test or RATA that includes a measurement of stack volumetric flow rate, the owner or operator shall perform a verification of the absence of cyclonic flow following the method and acceptance criteria specified in 40 CFR 60, Appendix A, Method 1.\n\n(e) In order to optimize the performance of a CEM system prior to conducting a RATA, the owner or operator may perform preliminary trial runs, which include routine and non-routine calibration adjustments, as described in section 2.1.3 of Appendix B of 40 CFR 75, at the zero or upscale calibration gas levels, provided that:\n\n(1) If any other corrective maintenance, repair, re-linearization, or reprogramming of the CEM system is conducted the CEM system shall be considered out-of-control as defined in Env-A 808.01(j); and\n\n(2) All emission data from the CEM system shall be considered invalid from the hour the corrective maintenance, repair, re-linearization, or reprogramming is conducted until a successful RATA is completed.\n\n(f) If during a trial run prior to conducting a RATA the relative accuracy criteria specified in 40 CFR 60 or 40 CFR 75, as applicable, are not met, then:\n\n(1) The trial run shall be counted as an aborted RATA attempt;\n\n(2) The CEM system shall be considered out-of-control as defined in Env-A 808.01(j); and\n\n(3) All emission data from the CEM system from the hour in which the RATA relative accuracy criteria is not met until a successful RATA is completed shall be invalid.\n\nSource. (See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98\n\nNew. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99\n\nNew. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1808.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E:3",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-3",
+    "https://granitestate.github.io/rsa/141-E/141-E-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1808",
+  "definition": "Work Area Ventilation",
+  "effectiveDate": "2024-11-01",
+  "expirationDate": "2034-11-01",
+  "historyNote": "(See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1808.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1808.04 Work Area Ventilation",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1808.04 Work Area Ventilation.\n\n(a) Prior to the disturbance of asbestos, the owner or operator shall establish proper work area ventilation as required by (b) through (e), below, in the containment area established pursuant to Env-A 1808.03(a)(3).\n\n(b) The work area shall be served by a sufficient number of negative pressure ventilation units with HEPA filtration to provide one containment area air change every 15 minutes.\n\n(c) The unit(s) shall be operated to maintain a minimum static pressure differential of 0.02 inches of water from the time that barrier construction is completed through the time acceptable final clean air monitoring results are obtained.\n\n(d) The negative pressure ventilation units shall exhaust filtered air to the outside of the facility wherever practical.\n\n(e) If exhausted to interior spaces, the exhaust shall be monitored for fiber release by:\n\n(1) Using a continuous, direct reading instrument equipped with a data recorder located at the exhaust to record the concentration of fibers in the air being measured; or\n\n(2) Taking daily air samples at the exhaust and having them analyzed to determine fiber concentration in the known volume of air that was sampled using one of the techniques specified in Env-A 1813.03, as expeditiously as practical but no more than 24 hours after sampling.\n\nSource. (See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

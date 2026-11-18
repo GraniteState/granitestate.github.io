@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eng/104.01",
+  "@type": "Concept",
+  "agencyCode": "Eng",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/eng/104",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Eng 100) #5397, eff 5-20-92; ss by #6752, Interim, eff 5-20-98, EXPIRED: 9-17-98 New. #6910, eff 12-15-98; ss by #10043, eff 1-1-12",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eng 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng100.html",
+  "prefLabel": "Eng 104.01 Record of Board Actions",
+  "priorExpiration": "1998-09-17",
+  "recordType": "rule-section",
+  "ruleText": "Eng 104.01 Record of Board Actions. Minutes shall be kept of board meetings and of official actions taken by the board. Minutes of board actions which are not confidential under RSA 91-A:3, II or RSA 91-A:5 shall be a governmental record and shall be available for inspection during the board’s ordinary office hours within 5 days from the close the meeting or vote in questions unless the 72 hours availability requirement of RSA 91-A:3, III is applicable.\n\nSource. (See Revision Note at chapter heading for Eng 100) #5397, eff 5-20-92; ss by #6752, Interim, eff 5-20-98, EXPIRED: 9-17-98\n\nNew. #6910, eff 12-15-98; ss by #10043, eff 1-1-12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eng100.html"
+}

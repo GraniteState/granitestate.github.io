@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/714.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/714",
+  "definition": "Exceedance of Lead Action Level; Exceedance of Copper Action Level",
+  "effectiveDate": "2017-05-23",
+  "historyNote": "#9859, eff 2-8-11; ss by #12181, eff 5-23-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 714.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 714.03 Exceedance of Lead Action Level; Exceedance of Copper Action Level",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 714.03 Exceedance of Lead Action Level; Exceedance of Copper Action Level.\n\n(a) As specified in 40 CFR §141.80(c)(1), 7-1-16 edition, the lead action level shall be deemed exceeded if the concentration of lead in more than 10% of tap water samples collected in accordance with Env-Dw 714.08 during any monitoring period is greater than 0.015 mg/L, that is, if the 90th percentile as computed pursuant to (c), below, is greater than 0.015 mg/L.\n\n(b) As specified in 40 CFR §141.80(c)(2), 7-1-16 edition, the copper action level shall be deemed exceeded if the concentration of copper in more than 10% of tap water samples collected in accordance with Env-Dw 714.08 during any monitoring period is greater than 1.3 mg/L, that is, if the 90th percentile as computed pursuant to (c), below, is greater than 1.3 mg/L.\n\n(c) The 90th percentile lead and copper levels shall be computed as specified in 40 CFR §141.80(c)(3)(i) through (v), 7-1-16 edition.\n\nSource. #9859, eff 2-8-11; ss by #12181, eff 5-23-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/802",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:10",
+      "source": "https://granitestate.github.io/rsa/482-B/482-B-10",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B/482-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/800",
+  "definition": "MONITORING WELL COMPLETION REPORT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/802.01",
+    "https://granitestate.github.io/rules/we/802.02",
+    "https://granitestate.github.io/rules/we/802.03",
+    "https://granitestate.github.io/rules/we/802.04"
+  ],
+  "notation": "We 802",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 802 MONITORING WELL COMPLETION REPORT",
+  "recordType": "rule-part",
+  "ruleText": "PART We 802 MONITORING WELL COMPLETION REPORT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/resp",
+  "@type": "Concept",
+  "agencyCode": "Resp",
+  "definition": "Advisory Board of Respiratory Care Practitioners (formerly the Governing Board of Respiratory Care Practitioners, with rulemaking authority transferred to the Executive Director of the Office of Professional Licensure and Certification. See RSA 326-E:2 and RSA 326-E:3, II, pursuant to 2022, 72:12 and 72:14, effective 7-19-22. Rules will eventually be renumbered “Plc”.) (See also Ahp .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/resp/100",
+    "https://granitestate.github.io/rules/resp/200",
+    "https://granitestate.github.io/rules/resp/300",
+    "https://granitestate.github.io/rules/resp/400",
+    "https://granitestate.github.io/rules/resp/500"
+  ],
+  "notation": "Resp",
+  "prefLabel": "Resp Advisory Board of Respiratory Care Practitioners",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

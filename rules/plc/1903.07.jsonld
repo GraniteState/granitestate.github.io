@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1903.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Applying for Initial LSP Certification",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:222",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-222",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-8",
+    "https://granitestate.github.io/rsa/310-A/310-A-222"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1903",
+  "definition": "Applying for Initial State LSP Certification",
+  "effectiveDate": "2026-01-16",
+  "expirationDate": "2036-01-16",
+  "historyNote": "#14429, eff 1-16-26, EXPIRES 1-16-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1903.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html",
+  "prefLabel": "Plc 1903.07 Applying for Initial State LSP Certification",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1903.07 Applying for Initial State LSP Certification. Any individual who meets the qualifications specified in Plc 1903.06 who wishes to be a state-certified LSP in New Hampshire in order to receive direct Medicaid reimbursement shall apply by complying with Plc 304.01, subject to the following:\n\n(a) The applicant shall provide a copy of the applicant’s qualifying certification with the application;\n\n(b) No criminal background check shall be required; and\n\n(c) The fee shall be the application processing and licensing fee specified in Plc 1002.55, provided that an applicant who is applying as active military or a military spouse shall not pay the fee.\n\nSource. #14429, eff 1-16-26, EXPIRES 1-16-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html"
+}

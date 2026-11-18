@@ -1,0 +1,62 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-air/201",
+  "@type": "Concept",
+  "agencyCode": "Ec-Air",
+  "authority": [
+    {
+      "citation": "21-O:11",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-11",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-air/200",
+  "definition": "GENERAL PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ec-air/201.01",
+    "https://granitestate.github.io/rules/ec-air/201.02",
+    "https://granitestate.github.io/rules/ec-air/201.03",
+    "https://granitestate.github.io/rules/ec-air/201.04",
+    "https://granitestate.github.io/rules/ec-air/201.05",
+    "https://granitestate.github.io/rules/ec-air/201.06",
+    "https://granitestate.github.io/rules/ec-air/201.07",
+    "https://granitestate.github.io/rules/ec-air/201.08"
+  ],
+  "notation": "Ec-Air 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html",
+  "prefLabel": "Ec-Air 201 GENERAL PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Ec-Air 201 GENERAL PROCEDURES\n\nStatutory Authority: RSA 21-O:11, IV; RSA 21-O:14, IV; RSA 541-A:16, I(b)–(d); RSA 541-A:30-a",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-air100-200.html"
+}

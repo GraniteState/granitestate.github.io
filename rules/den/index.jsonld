@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "definition": "Board of Dental Examiners",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/den/100",
+    "https://granitestate.github.io/rules/den/200",
+    "https://granitestate.github.io/rules/den/300",
+    "https://granitestate.github.io/rules/den/400",
+    "https://granitestate.github.io/rules/den/500"
+  ],
+  "notation": "Den",
+  "prefLabel": "Den Board of Dental Examiners",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

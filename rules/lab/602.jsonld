@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/602",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A",
+      "source": "https://granitestate.github.io/rsa/281-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/600",
+  "definition": "SAFETY PROGRAMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/602.01",
+    "https://granitestate.github.io/rules/lab/602.02"
+  ],
+  "notation": "Lab 602",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab600.html",
+  "prefLabel": "Lab 602 SAFETY PROGRAMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 602 SAFETY PROGRAMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab600.html"
+}

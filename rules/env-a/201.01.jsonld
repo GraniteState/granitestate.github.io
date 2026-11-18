@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/201.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/201",
+  "definition": "Purpose",
+  "effectiveDate": "2022-11-19",
+  "historyNote": "#1710, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6057-B, eff 6-30-95; EXPIRED: 6-30-03 New. #8128, eff 7-28-04; ss by #10187, eff 9-25-12; ss by #13491, eff 11-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html",
+  "prefLabel": "Env-A 201.01 Purpose",
+  "priorExpiration": "2003-06-30",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 201.01 Purpose.\n\n(a) The purpose of this chapter is to establish uniform procedures for providing public notice of hearings and public comment periods conducted by the department on matters relating to air pollution control. These rules are intended to supplement the procedures established by RSA 541-A and Env-C 200.\n\n(b) The purposes of any proceeding governed by this chapter are to enable the department to acquire sufficient information to make a reasoned decision and to afford persons who may be affected by decisions of the department relative to air pollution control the opportunity to present data and argument prior to the decision being made.\n\nSource. #1710, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6057-B, eff 6-30-95; EXPIRED: 6-30-03\n\nNew. #8128, eff 7-28-04; ss by #10187, eff 9-25-12; ss by #13491, eff 11-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html"
+}

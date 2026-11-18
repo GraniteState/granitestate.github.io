@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/214.01",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "V(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/214",
+  "definition": "Settlement of Disciplinary Issues",
+  "effectiveDate": "2012-06-07",
+  "historyNote": "#8079, eff 5-1-04; EXPIRED: 5-1-12 New. #10143-A, eff 6-7-12",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 214.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 214.01 Settlement of Disciplinary Issues",
+  "priorExpiration": "2012-05-01",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 214.01 Settlement of Disciplinary Issues.\n\n(a) Any licensee and governing board having a dispute over a disciplinary matter shall have the opportunity to settle some or all of the issues if there is no dispute between them about the material facts underlying the issues.\n\n(b) To be effective, an agreement to settle shall be:\n\n(1) In writing;\n\n(2) Signed by the licensee; and\n\n(3) After the signing by the licensee, finalized as an order issued by the governing board.\n\n(c) The signing by the licensee of an agreement to settle shall constitute a waiver of the licensee's right to a hearing of the issues resolved by the agreement.\n\nSource. #8079, eff 5-1-04; EXPIRED: 5-1-12\n\nNew. #10143-A, eff 6-7-12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

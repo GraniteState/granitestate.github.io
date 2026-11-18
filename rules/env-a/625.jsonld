@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/625",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/600",
+  "definition": "LIMITATIONS ON POTENTIAL TO EMIT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/625.01",
+    "https://granitestate.github.io/rules/env-a/625.02",
+    "https://granitestate.github.io/rules/env-a/625.03",
+    "https://granitestate.github.io/rules/env-a/625.04",
+    "https://granitestate.github.io/rules/env-a/625.05",
+    "https://granitestate.github.io/rules/env-a/625.06",
+    "https://granitestate.github.io/rules/env-a/625.07",
+    "https://granitestate.github.io/rules/env-a/625.08",
+    "https://granitestate.github.io/rules/env-a/625.09"
+  ],
+  "notation": "Env-A 625",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 625 LIMITATIONS ON POTENTIAL TO EMIT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 625 LIMITATIONS ON POTENTIAL TO EMIT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

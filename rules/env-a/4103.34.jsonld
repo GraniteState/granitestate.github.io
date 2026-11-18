@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.34",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Hair Styling Product",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "Hair styling product",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.34",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.34 Hair styling product",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.34 “Hair styling product” means a consumer product manufactured on or after January 1, 2009, that is designed or labeled for the application to wet, damp or dry hair to aid in defining, shaping, lifting, styling and sculpting of the hair. The term includes, but is not limited to, hair balm, clay, cream, creme, curl straightener, gel, liquid, lotion, paste, pomade, putty, root lifter, serum, spray gel, stick, temporary hair straightener, wax, spray products that aid in styling but do not provide finishing of a hairstyle, and leave-in volumizers, detanglers or conditioners that make styling claims. The term does not include hair mousse, hair shine, hair spray, or shampoos or conditioners that are rinsed from the hair prior to styling.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

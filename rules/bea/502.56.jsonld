@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.56",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Zoning Ordinances",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:16",
+      "source": "https://granitestate.github.io/rsa/674/674-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/674/674-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Zoning ordinances",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.56",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.56 Zoning ordinances",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.56 “Zoning ordinances” means an ordinance, whether newly enacted or amended, which divides a municipality into zones where different land uses are permitted and regulates different land uses, which complies with RSA 674:16 through RSA 674:18.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1002.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1002",
+  "definition": "Safety",
+  "effectiveDate": "2024-02-06",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; amd by #7225, eff 3-31-00; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2702.04); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1002.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html",
+  "prefLabel": "Env-Sw 1002.04 Safety",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1002.04 Safety.\n\n(a) Facilities and practices shall not cause concentrations of explosive gases such as methane to exceed 25% of the lower explosive limit of the gases in any structure, excluding facility-related gas recovery equipment, or to exceed 50% of the lower explosive limit of the gases in the soil at the property boundary.\n\n(b) Facilities shall be designed, constructed, operated, and closed in a manner that minimizes the risk of fires and provides the ability to deal with them effectively if they occur.\n\n(c) Facilities that manage putrescible waste and are located within 10,000 feet (3,048 meters) of any airport runway used by turbojet aircraft or within 5,000 feet (1,524 meters) of any airport runway used by only piston-type aircraft shall be designed, constructed, operated, and closed in a manner that minimizes the risk of attracting birds that may be hazardous to aircraft.\n\n(d) Facilities and practices shall comply with the rules adopted by the New Hampshire department of labor relative to employee safety and health, Lab 1400.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; amd by #7225, eff 3-31-00; (See Revision Note at chapter heading for Env-Sw 1000); ss by #8459, eff 10-28-05 (formerly Env-Wm 2702.04); ss by #10598, eff 7-1-14; ss by #13864, eff 2-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1000.html"
+}

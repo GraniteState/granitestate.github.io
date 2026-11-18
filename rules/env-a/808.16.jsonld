@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.16",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Emission Reports for Sources Not Subject to 40 CFR 60",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Use of CEM System Data",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#9802, eff 10-31-10 (from Env-A 808.13) ); ss by #12762, eff 5-1-19 (from Env-A 808.19)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.16 Use of CEM System Data",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.16 Use of CEM System Data. The department shall use CEM system data either directly or indirectly for the following:\n\n(a) Compliance determinations;\n\n(b) Air quality impact analysis;\n\n(c) Air pollution dispersion modeling;\n\n(d) Control technology review; and\n\n(e) Emissions inventory.\n\nSource. #9802, eff 10-31-10 (from Env-A 808.13) ); ss by #12762, eff 5-1-19 (from Env-A 808.19)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

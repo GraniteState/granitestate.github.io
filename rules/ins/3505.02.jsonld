@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3505.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3505",
+  "definition": "Calculation of Deficiency Reserves",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3505.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3505.02 Calculation of Deficiency Reserves",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3505.02 Calculation of Deficiency Reserves.\n\n(a) The deficiency reserve at any duration shall be calculated:\n\n(1) On a unitary basis if the corresponding basic reserve determined by Ins 3505.01 is unitary;\n\n(2) On a segmented basis if the corresponding basic reserve determined by Ins 3505.01 is segmented; or\n\n(3) On the segmented basis if the corresponding basic reserve determined by Ins 3506.01 is equal to both the segmented reserve and the unitary reserve.\n\n(b) This subsection shall apply to any policy for which the guaranteed gross premium at any duration is less than the corresponding net premium calculated by the method used in determining the basic reserves, but using the minimum valuation standards of mortality (specified in Ins 3504.01) and rate of interest.\n\n(c) Deficiency reserves, if any, shall be calculated for each policy as the excess, if greater than zero, for the current and all remaining periods, of the quantity A over the basic reserve, where A is obtained as indicated in Ins 3504.01.\n\n(d) For deficiency reserves determined on a segmented basis, the quantity A is determined using segment lengths equal to those determined for segmented basic reserves.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/807.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/807",
+  "definition": "Implementation of Remediation Plan",
+  "effectiveDate": "2023-10-13",
+  "historyNote": "#8911, eff 6-20-07; ss by #11000, eff 2-1-16 (formerly Env-Wt 806.05); ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 807.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 807.06 Implementation of Remediation Plan",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 807.06 Implementation of Remediation Plan.\n\n(a) Upon being notified by the certified wetland scientist or qualified professional who is monitoring the mitigation project that the mitigation project is not likely to achieve its objectives after the number of growing seasons specified in the monitoring plan, the permittee shall:\n\n(1) Submit a remediation plan to the department within 45 days of the notification; or\n\n(2) Request the department to accept an in-lieu mitigation payment to compensate for the portions of the project that failed to meet the performance standards.\n\n(b) A remediation plan submitted pursuant to (a)(1), above, shall identify:\n\n(1) The problem(s) limiting the success of the mitigation site;\n\n(2) Measures which need to be taken to address the problem(s); and\n\n(3) A time schedule on which the permittee will implement the corrective measures.\n\n(c) The department shall approve the proposed remediation plan if the department determines that the plan has a reasonable probability, within 3 full growing seasons following implementation of the remediation plan, of resolving the problem(s) that have caused the mitigation project to be unsuccessful.\n\n(d) Following department approval of the remediation plan, the permittee shall implement the plan and submit reports following each of the next 3 full growing seasons to demonstrate the success of the remedial measures.\n\nSource. #8911, eff 6-20-07; ss by #11000, eff 2-1-16 (formerly Env-Wt 806.05); ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

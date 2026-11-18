@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eth/103.07",
+  "@type": "Concept",
+  "agencyCode": "Eth",
+  "authority": [
+    {
+      "citation": "21-G:31",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:2",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:3",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/91-A/91-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/eth/103",
+  "definition": "Attendance at Meetings By Members of the Public",
+  "effectiveDate": "2018-09-06",
+  "historyNote": "#12617-A, eff 9-6-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eth 103.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html",
+  "prefLabel": "Eth 103.07 Attendance at Meetings By Members of the Public",
+  "recordType": "rule-section",
+  "ruleText": "Eth 103.07 Attendance at Meetings By Members of the Public. Pursuant to RSA 91-A:2, II, members of the public may attend and record committee meetings except for those parts of the meetings which are nonpublic sessions pursuant to RSA 91-A:3 and RSA 21-G:31, V.\n\nSource. #12617-A, eff 9-6-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html"
+}

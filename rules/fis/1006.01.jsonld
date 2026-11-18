@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1006.01",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "212-A:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "212-A:16",
+      "source": "https://granitestate.github.io/rsa/212-A/212-A-16",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/212-A/212-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1006",
+  "definition": "Purpose",
+  "effectiveDate": "2022-09-28",
+  "historyNote": "#13451, eff 9-28-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1006.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html",
+  "prefLabel": "Fis 1006.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1006.01 Purpose. The purpose of this part is to establish the criteria for the disbursement of funds that facilitate a net conservation benefit to threatened and endangered species from the threatened and endangered species compensatory mitigation fund, as established and required by RSA 212-A:16.\n\nSource. #13451, eff 9-28-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html"
+}

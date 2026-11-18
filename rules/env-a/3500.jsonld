@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3500",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "HOSPITAL/MEDICAL/INFECTIOUS WASTE INCINERATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/3501",
+    "https://granitestate.github.io/rules/env-a/3502",
+    "https://granitestate.github.io/rules/env-a/3503",
+    "https://granitestate.github.io/rules/env-a/3504",
+    "https://granitestate.github.io/rules/env-a/3505",
+    "https://granitestate.github.io/rules/env-a/3506",
+    "https://granitestate.github.io/rules/env-a/3507",
+    "https://granitestate.github.io/rules/env-a/3508",
+    "https://granitestate.github.io/rules/env-a/3509",
+    "https://granitestate.github.io/rules/env-a/3510",
+    "https://granitestate.github.io/rules/env-a/3511",
+    "https://granitestate.github.io/rules/env-a/3512",
+    "https://granitestate.github.io/rules/env-a/3513",
+    "https://granitestate.github.io/rules/env-a/3514"
+  ],
+  "notation": "Env-A 3500",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3500 HOSPITAL/MEDICAL/INFECTIOUS WASTE INCINERATION",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 3500 HOSPITAL/MEDICAL/INFECTIOUS WASTE INCINERATION\n\nStatutory Authority: RSA 125-C:4, I",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

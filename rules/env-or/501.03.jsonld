@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/501.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/501",
+  "definition": "Cargo Trucks at Bulk Facilities",
+  "effectiveDate": "2022-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 501.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 501.03 Cargo Trucks at Bulk Facilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 501.03 Cargo Trucks at Bulk Facilities. The owner or operator of any cargo truck that receives gasoline from a bulk gasoline loading terminal as defined in Env-A 1202.22 or that delivers gasoline to or receives gasoline from a bulk gasoline plant as defined in Env-A 1202.23 shall comply with the vapor recovery requirements in Env-A 1217.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

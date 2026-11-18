@@ -1,0 +1,25 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/204",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/200",
+  "definition": "NON-ADJUDICATIVE PUBLIC HEARINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/204.01",
+    "https://granitestate.github.io/rules/env-dw/204.02"
+  ],
+  "notation": "Env-Dw 204",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw200.html",
+  "prefLabel": "Env-Dw 204 NON-ADJUDICATIVE PUBLIC HEARINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 204 NON-ADJUDICATIVE PUBLIC HEARINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw200.html"
+}

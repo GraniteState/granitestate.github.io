@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3222.06",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Exemptions From Rejection Criteria",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59-b",
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3222",
+  "definition": "Exemptions from Rejection Criteria",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "#7731, eff 7-26-02 (See Revision Note #2 at Chapter Heading for Saf-C 3200) (formerly Saf-C 3223.06); ss and renumbered by #9184, eff 6-20-08 (from Saf-C 3222.05); ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3222.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3222.06 Exemptions from Rejection Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3222.06 Exemptions from Rejection Criteria.\n\n(a) The following vehicles shall not be rejected for inspection due to “readiness” status as set forth in Saf-C 3222.03(d)(6):\n\n(1) All new vehicles with an odometer reading of less than 1000 miles;\n\n(2) All vehicles whose model year is the current calendar year minus one or newer; and\n\n(3) Vehicles with known readiness issues, as identified in the Environmental Protection Agency’s “OBD Readiness Testability Issues”, EPA-420-B-12-044, June 2012, that are recommended to be tested without regard to monitor readiness.\n\n(b) The vehicles set forth in (a) above are subject to all other OBD inspection requirements set forth in Saf-C 3222.03.\n\nSource. #7731, eff 7-26-02 (See Revision Note #2 at Chapter Heading for Saf-C 3200) (formerly Saf-C 3223.06); ss and renumbered by #9184, eff 6-20-08 (from Saf-C 3222.05); ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

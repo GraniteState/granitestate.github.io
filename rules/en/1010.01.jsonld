@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1010.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374:2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1010",
+  "definition": "Applicant Options Meeting",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1010.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1010.01 Applicant Options Meeting",
+  "recordType": "rule-section",
+  "ruleText": "En 1010.01 Applicant Options Meeting.\n\n(a) If the utility determines that an application that has gone through the simplified process, the fast track process, or supplemental review requires review using the standard process, the utility shall provide the applicant the option of proceeding to standard process review or of participating in an applicant options meeting with the utility to review the screening analysis and related results and possible application modifications to determine what further study is needed for the facility to proceed with interconnection to the EDS.\n\n(b) The applicant shall request either an applicant options meeting or notify the utility that it shall proceed with the standard process within 10 business days of receipt of screen results or the application shall be deemed withdrawn. If the applicant requests an applicant options meeting, the utility shall offer to convene the meeting at a mutually agreeable time within 15 business days of the applicant’s request.\n\n(c) After the applicant options meeting, the applicant may choose within 10 business days to either amend the application or proceed with the standard process pursuant to the following process:\n\n(1) If the applicant chooses to amend the application to address the specific failed screens, the applicant shall have one opportunity to submit an updated application including all necessary redesigns that address screen failures within 10 business days;\n\n(2) If the applicant makes any material modifications that do not directly correct the screen failure(s), it shall result in the application losing its queue position and being placed at the end of the queue; or\n\n(3) If the applicant fails to either amend the application or proceed with the standard process within 10 business days of receiving the notification from the utility of the results of the evaluation described in (d) below in this section, the application shall be deemed withdrawn.\n\n(d) Within 20 business days of receiving the updated application, the utility shall evaluate whether the redesign addresses the screen failure(s) and notify the applicant of the results of this evaluation.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

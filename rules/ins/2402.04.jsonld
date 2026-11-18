@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2402.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2402",
+  "definition": "Actuarial Opinion Summary",
+  "effectiveDate": "2019-04-01",
+  "historyNote": "#9892, eff 4-1-11; ss by #12705, eff 4-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2402.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2400.html",
+  "prefLabel": "Ins 2402.04 Actuarial Opinion Summary",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2402.04 Actuarial Opinion Summary.\n\n(a) Every property and casualty insurance company domiciled in this state that is required to submit a statement of actuarial opinion shall:\n\n(1) Annually submit an actuarial opinion summary, written by the company's appointed actuary;\n\n(2) File the opinion summary in accordance with the appropriate NAIC property and casualty annual statement instructions; and\n\n(3) Consider the opinion summary as a document supporting the actuarial opinion required in Ins 2402.03.\n\n(b) A company licensed but not domiciled in this state shall provide the actuarial opinion summary upon request.\n\nSource. #9892, eff 4-1-11; ss by #12705, eff 4-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2400.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/709.22",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/709",
+  "definition": "Coliform Assessment Triggers and Required Actions",
+  "effectiveDate": "2025-08-22",
+  "expirationDate": "2035-08-22",
+  "historyNote": "#10771, eff 2-1-15; ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 709.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 709.22 Coliform Assessment Triggers and Required Actions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 709.22 Coliform Assessment Triggers and Required Actions.\n\n(a) A PWS owner shall conduct an assessment in accordance with Env-Dw 720.07 if an assessment is triggered as specified in (b) or (c) below.\n\n(b) The level 1 assessment shall be triggered if:\n\n(1) For a PWS collecting fewer than 40 samples per month, the system has 2 or more total coliform-positive samples in the same month;\n\n(2) For a PWS collecting 40 or more samples per month, more than 5.0% of the samples collected during a month are total coliform-positive; or\n\n(3) The PWS fails to take every required repeat sample after any single total coliform-positive sample result.\n\n(c) The level 2 assessment shall be triggered if:\n\n(1) An E. coli MCL violation as specified in Env-Dw 702.02 occurs; or\n\n(2) A second level 1 assessment is triggered within 12 months of a prior level 1 or level 2 assessment, unless the department has:\n\na. Identified a likely reason that the samples that caused the first level 1 treatment technique trigger were total coliform-positive; and\n\nb. Determined that the owner has corrected the problem.\n\nSource. #10771, eff 2-1-15; ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

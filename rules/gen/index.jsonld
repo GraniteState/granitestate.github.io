@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gen",
+  "@type": "Concept",
+  "agencyCode": "Gen",
+  "definition": "Governing Board of Genetic Counselors (See RSA 326-K:9 pursuant to 2013, 271, effective 7-1-13. See also Ahp .)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/gen/100",
+    "https://granitestate.github.io/rules/gen/200",
+    "https://granitestate.github.io/rules/gen/300",
+    "https://granitestate.github.io/rules/gen/400",
+    "https://granitestate.github.io/rules/gen/500"
+  ],
+  "notation": "Gen",
+  "prefLabel": "Gen Governing Board of Genetic Counselors",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

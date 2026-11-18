@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6204.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I(n)"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "paragraphs": [
+        "XXV-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6204",
+  "definition": "Definitions",
+  "effectiveDate": "2021-01-25",
+  "historyNote": "#13163, eff 1-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6204.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html",
+  "prefLabel": "Ins 6204.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6204.02 Definitions.\n\n(a) “Home health care agency” means an agency that:\n\n(1) Is approved under Medicare; or\n\n(2) Is licensed to provide home health care under applicable state law.\n\n(b) “Hospice care” means a provider licensed, certified, or registered in accordance with New Hampshire law that provides a formal program of care that is:\n\n(1) For terminally ill patients whose life expectancy is 6 months or less;\n\n(2) Provided on an in-patient, out-patient, or in-home basis; and\n\n(3) Directed by a physician.\n\n(c) “Major organ failure” means failure or loss of one or more organs requiring a surgical transplant of a partial or full human organ.\n\n(d) “Medical necessity” means “medical necessity” as defined in RSA 420-J:3, XXV-b.\n\n(e) “Specified disease coverage” means a policy or certificate of insurance that pays benefits for the diagnosis and treatment of a specifically named disease or diseases, including critical illnesses and named conditions.\n\nSource. #13163, eff 1-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html"
+}

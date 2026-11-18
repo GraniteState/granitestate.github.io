@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/705.05",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:8",
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/705",
+  "definition": "Credit Card and In-House Charges",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#10714, eff 11-7-14 (from Rev 703.06); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34 (formerly Rev 705.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 705.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 705.05 Credit Card and In-House Charges",
+  "recordType": "rule-section",
+  "ruleText": "Rev 705.05 Credit Card and In-House Charges. Operators who accept credit cards or in-house charges may demand and collect the tax imposed under RSA 78-A in cash at the time the bill is signed by the patron.\n\nSource. #10714, eff 11-7-14 (from Rev 703.06); ss by #14105, eff 10-29-24, EXPIRES: 10-29-34 (formerly Rev 705.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

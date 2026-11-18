@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/307.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/307",
+  "definition": "Employees and PT Sample Security",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 307.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 307.04 Employees and PT Sample Security",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 307.04 Employees and PT Sample Security.\n\n(a) An analyst employed at more than one laboratory shall:\n\n(1) Before analyzing any PT sample, inform the department, in writing, that the analyst is employed at more than one laboratory;\n\n(2) Declare to the department the date on which each laboratory plans to analyze the PT sample;\n\n(3) Analyze the PT sample in only one laboratory; and\n\n(4) Not analyze any PT sample for that round of testing after analyzing the first PT sample.\n\n(b) Laboratory personnel, including corporate personnel, shall meet the PT sample security requirements of Volume 1, Module 1, Section 4.1.5 of the TNI standards.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/401.02",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/401",
+  "definition": "General Requirements for Renewal Documentation",
+  "effectiveDate": "2025-09-15",
+  "expirationDate": "2035-09-15",
+  "historyNote": "#1972, eff 2-28-82; ss by #2475, eff 9-13-83; ss by #3061, eff 7-18-85, EXPIRED: 7-18-91 New. #5365, eff 3-27-92; ss by #6721, INTERIM, eff 3-27-98, EXPIRED: 7-25-98 New. #6904, eff 12-4-98, EXPIRED: 12-4-06 New. #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07 New. #9051, eff 12-27-07; ss by #10746, eff 1-1-15; ss by #14322, eff 9-15-25, EXPIRES: 9-15-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 401.02 General Requirements for Renewal Documentation",
+  "recordType": "rule-section",
+  "ruleText": "Ac 401.02 General Requirements for Renewal Documentation. All forms and other documents submitted to the OPLC as part of an application for renewal shall be in English unless the original document is in another language, in which case a copy of the document in its original language shall be accompanied by a translation that has been attested to by the person who translated the document as being accurate and complete.\n\nSource. #1972, eff 2-28-82; ss by #2475, eff 9-13-83; ss by #3061, eff 7-18-85, EXPIRED: 7-18-91\n\nNew. #5365, eff 3-27-92; ss by #6721, INTERIM, eff 3-27-98, EXPIRED: 7-25-98\n\nNew. #6904, eff 12-4-98, EXPIRED: 12-4-06\n\nNew. #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07\n\nNew. #9051, eff 12-27-07; ss by #10746, eff 1-1-15; ss by #14322, eff 9-15-25, EXPIRES: 9-15-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

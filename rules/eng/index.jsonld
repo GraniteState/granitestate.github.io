@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eng",
+  "@type": "Concept",
+  "agencyCode": "Eng",
+  "definition": "Board of Professional Engineers www.state.nh.us/jtboard/home.htm",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/eng/100",
+    "https://granitestate.github.io/rules/eng/200",
+    "https://granitestate.github.io/rules/eng/300",
+    "https://granitestate.github.io/rules/eng/400",
+    "https://granitestate.github.io/rules/eng/500"
+  ],
+  "notation": "Eng",
+  "prefLabel": "Eng Board of Professional Engineers www.state.nh.us/jtboard/home.htm",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1002.02",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Affected System",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:2",
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-2",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9",
+    "https://granitestate.github.io/rsa/374-F/374-F-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1002",
+  "definition": "Affected system",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1002.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1002.02 Affected system",
+  "recordType": "rule-section",
+  "ruleText": "En 1002.02 “Affected system” means any distribution or transmission electric power system other than the utility electric power system (EPS), for which the stability, reliability, or operating characteristics might be significantly affected by the proposed facility.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

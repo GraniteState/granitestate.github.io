@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/1002.01",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "78:2",
+      "source": "https://granitestate.github.io/rsa/78/78-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:19-a",
+      "source": "https://granitestate.github.io/rsa/178/178-19-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:19-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:19-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78/78-2",
+    "https://granitestate.github.io/rsa/178/178-19-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/1002",
+  "definition": "License Required",
+  "effectiveDate": "2017-01-06",
+  "historyNote": "#6668, eff 1-1-98, EXPIRED: 1-1-06 New. #12082, eff 1-6-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 1002.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 1002.01 License Required",
+  "priorExpiration": "2006-01-01",
+  "recordType": "rule-section",
+  "ruleText": "Liq 1002.01 License Required. An applicant for a Tobacco Sampling License, Tobacco Vending Machine License or Retail Tobacco License shall follow the application process as described in Liq 700-705 and shall provide all information required in Liq 706.01.\n\nSource. #6668, eff 1-1-98, EXPIRED: 1-1-06\n\nNew. #12082, eff 1-6-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

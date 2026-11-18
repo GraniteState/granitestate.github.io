@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1004.01",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "604-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/604-A/604-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "604-A:2-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/604-A/604-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1004",
+  "definition": "Determination of Ineligibility",
+  "effectiveDate": "2020-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Adm 1000) #8697, eff 8-3-06; ss by #10728, eff 11-25-14; ss by #13050, eff 7-1-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 1004.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1004.01 Determination of Ineligibility",
+  "recordType": "rule-section",
+  "ruleText": "Adm 1004.01 Determination of Ineligibility.\n\n(a) Unless otherwise ordered by the presiding judge, a defendant shall be ineligible for state payment of defense services and expenses on the basis of the defendant's ability to borrow funds, as further set forth in (b) below.\n\n(b) Unless otherwise ordered by the presiding judge, the defendant shall be deemed able to borrow funds if the net value of the defendant's real estate exceeds the value for the most serious crime or delinquency charged, as set forth in table 1004.1.\n\nTable 1004.1\n\nCrime or Delinquency With Which the Defendant is Charged | Net Value of Defendant's Real Estate\n\nHomicide | $40,000\n\nSupreme Court appeal | $20,000\n\nAggravated felonious sexual assault; felonious sexual assault; first degree assault | $20,000\n\nNegligent homicide | $20,000\n\nFelony | $20,000\n\nMisdemeanor appeal | $20,000\n\nMisdemeanor, jury trial | $10,000\n\nMisdemeanor | $10,000\n\nJuvenile | $10,000\n\nOther | $10,000\n\n(c) Unless otherwise ordered by the presiding judge, a defendant shall be ineligible for state payment of defense services and expenses if the funds available to the defendant exceed the value permitted for the most serious crime or delinquency charged, as set forth in table 1004.2.\n\nTable 1004.2\n\nCrime or Delinquency With Which the Defendant is Charged | Funds Available to Defendant\n\nHomicide | $10,000 or more\n\nSupreme Court appeal | $4,000 or more\n\nAggravated felonious sexual assault; felonious sexual assault; first degree assault | $4,000 or more\n\nNegligent homicide | $4,000 or more\n\nFelony | $4,000 or more\n\nMisdemeanor appeal | $4,000 or more\n\nMisdemeanor, jury trial | $1,500 or more\n\nMisdemeanor | $1,500 or more\n\nJuvenile | $2,000 or more\n\nOther | $2,000 or more\n\nSource. (See Revision Note at chapter heading for Adm 1000) #8697, eff 8-3-06; ss by #10728, eff 11-25-14; ss by #13050, eff 7-1-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

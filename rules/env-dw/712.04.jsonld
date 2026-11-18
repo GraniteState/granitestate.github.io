@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/712.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:41",
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/712",
+  "definition": "Confirmation Sampling for VOC Contaminants",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 712.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 712.04 Confirmation Sampling for VOC Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 712.04 Confirmation Sampling for VOC Contaminants.\n\n(a) If a VOC contaminant is detected in a representative sample at a level greater than or equal to the detection limit of 0.0005 mg/L, the O/O shall:\n\n(1) Collect a confirmation sample under the same contributing conditions within 14 days of being notified of the result; and\n\n(2) Have the sample analyzed for the contaminant(s) detected.\n\n(b) If the concentration of the VOC contaminant in the confirmation sample is greater than or equal to the detection limit of 0.0005 mg/L, the monitoring requirement for those sources shall be that stated in Env-Dw 712.05.\n\n(c) If the concentration of the VOC contaminant in the confirmation sample is below the detection limit, the monitoring requirements for those sources shall be that stated in Env-Dw 712.02.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

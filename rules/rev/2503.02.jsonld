@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2503.02",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Withdrawal from ACH Credit Participation",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2503",
+  "definition": "Withdrawal From ACH Credit Participation",
+  "effectiveDate": "2023-08-18",
+  "historyNote": "#6639, eff 11-27-97, EXPIRED 11-27-05 New. #8495, eff 11-30-05; ss by #10484, eff 12-5-13; ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2503.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html",
+  "prefLabel": "Rev 2503.02 Withdrawal From ACH Credit Participation",
+  "priorExpiration": "2005-11-27",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2503.02 Withdrawal From ACH Credit Participation.\n\n(a) A participant shall submit a request in writing at least 60 days prior to the last non-ACH credit payment due date, to the department, to withdraw from ACH credit participation by including the following:\n\n(1) Name;\n\n(2) Taxpayer identification number;\n\n(3) The effective date of the removal request;\n\n(4) The last due date for ACH credit payment;\n\n(5) A dated and signed statement providing the reason for withdrawal from ACH credit participation; and\n\n6) Any other information the participant believes is applicable to withdrawal.\n\n(b) A withdrawal request shall be granted by the department upon receipt of the request to withdraw provided:\n\n(1) The information required in (a) above has been submitted; and\n\n(2) The taxpayer’s tax liability is below any statutory threshold for participation.\n\n(c) A withdrawal request shall be denied by the department due to not meeting the requirements listed in (b) above.\n\nSource. #6639, eff 11-27-97, EXPIRED 11-27-05\n\nNew. #8495, eff 11-30-05; ss by #10484, eff 12-5-13; ss by #13724, eff 8-18-23 (see Revision Note at chapter heading for Rev 2500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/610.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/610",
+  "definition": "Source Categories for General State Permits",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #8129, eff 7-28-04; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 610.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 610.04 Source Categories for General State Permits",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 610.04 Source Categories for General State Permits.\n\n(a) Source categories shall be established by the department using the criteria in Env-A 610.05(b)(3).\n\n(b) The following shall be source categories for general state permits:\n\n(1) An internal combustion engine used as an emergency generator or other engines used for mechanical power in emergencies, such as fire pump engines, that operates no more than 500 hours per year during any consecutive 12-month period;\n\n(2) A paper, fabric, film or foil substrate coating source subject to Env-A 1207 with theoretical potential VOC emissions less than 25 tpy;\n\n(3) A miscellaneous metal and plastic parts and products coating source subject to Env-A 1212 with theoretical potential VOC emissions less than 50 tpy;\n\n(4) A rotogravure and flexographic printing source subject to Env-A 1215 with theoretical potential VOC emissions less than 50 tpy;\n\n(5) A flexible-packaging printing source subject to Env-A 1215 with theoretical potential VOC emissions less than 25 tpy;\n\n(6) An offset lithographic or letterpress printing source subject to Env-A 1216 with theoretical potential VOC emissions less than 25 tpy; and\n\n(7) A miscellaneous industrial adhesives source subject to Env-A 1220 with theoretical potential VOC emissions less than 50 tpy.\n\nSource. #6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #8129, eff 7-28-04; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

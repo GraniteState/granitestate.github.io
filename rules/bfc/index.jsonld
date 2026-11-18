@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bfc",
+  "@type": "Concept",
+  "agencyCode": "Bfc",
+  "definition": "Board of Fire Control (See RSA 153:5, II, effective 6-18-12, pursuant to 2012, 242:5.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bfc/100",
+    "https://granitestate.github.io/rules/bfc/200"
+  ],
+  "notation": "Bfc",
+  "prefLabel": "Bfc Board of Fire Control",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

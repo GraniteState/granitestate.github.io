@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2003.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2003",
+  "definition": "Particulate Emission Standards for Fuel Burning Devices Installed on or after January 1, 1985",
+  "effectiveDate": "2023-11-18",
+  "historyNote": "#10416, eff 9-24-13 (formerly Env-A 2002.08); ss by #13809, eff 11-18-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2003.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html",
+  "prefLabel": "Env-A 2003.03 Particulate Emission Standards for Fuel Burning Devices Installed on or after January 1, 1985",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2003.03 Particulate Emission Standards for Fuel Burning Devices Installed on or after January 1, 1985.\n\n(a) The maximum allowable particulate matter emission rate for fuel burning devices installed on or after January 1, 1985 shall be as specified in (b), below, where:\n\n(1) “E” means the maximum allowable particulate matter emission rate, measured as TSP in lb/million BTU; and\n\n(2) “I” means the maximum gross heat input rate in million BTU/hr.\n\n(b) No owner or operator shall cause or allow emissions of particulate matter from fuel burning devices installed on or after January 1, 1985, to exceed the specified value of E, where:\n\n(1) For devices for which I is less than 100, E shall be 0.30;\n\n(2) For devices for which I is equal to or greater than 100 but less than 250, E shall be 0.15; and\n\n(3) For devices for which I is equal to or greater than 250, E shall be 0.10.\n\nSource. #10416, eff 9-24-13 (formerly Env-A 2002.08); ss by #13809, eff 11-18-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html"
+}

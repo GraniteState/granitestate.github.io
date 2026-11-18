@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cmp",
+  "@type": "Concept",
+  "agencyCode": "Cmp",
+  "definition": "McAuliffe-Shepard Discovery Center Commission (Formerly the Christa McAuliffe Planetarium Commission.) (See RSA 12-L:7.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cmp/100",
+    "https://granitestate.github.io/rules/cmp/200",
+    "https://granitestate.github.io/rules/cmp/300"
+  ],
+  "notation": "Cmp",
+  "prefLabel": "Cmp McAuliffe-Shepard Discovery Center Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

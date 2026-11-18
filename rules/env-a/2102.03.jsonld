@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2102.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2102",
+  "definition": "Emission Standards for Particulate Matter",
+  "effectiveDate": "2023-07-22",
+  "historyNote": "#8215, eff 11-24-04 (from Env-A 2103); ss by #10314, eff 4-23-13; ss by #13693, eff 7-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2100.html",
+  "prefLabel": "Env-A 2102.03 Emission Standards for Particulate Matter",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2102.03 Emission Standards for Particulate Matter.\n\n(a) For any stationary source or device installed after February 18, 1972, the owner or operator shall not cause or allow the emission of particulate matter at such source or device to exceed the emission standards specified for “New Devices” as listed in Table 2102-1, in (c), below.\n\n(b) For any stationary source or device installed prior to or on February 18, 1972, the owner or operator shall not cause or allow the emission of particulate matter at such source or device to exceed the emission standards specified for “Existing Devices” as listed in Table 2102-1, in (c), below.\n\n(c) Particulate matter emission standards shall be as set forth in Table 2102-1, below:\n\nTable 2102-1 Particulate Matter Emission Standards\n\nProcess Weight Rate (tons per hour) | Emission Standard for “New Devices” (pounds per hour) | Emission Standard for “Existing Devices” (pounds per hour)\n\n0.025 | 0.36 | 0.43\n\n0.05 | 0.55 | 0.68\n\n0.25 | 1.53 | 1.99\n\n0.5 | 2.58 | 3.17\n\n2.5 | 7.58 | 9.35\n\n5 | 12.0 | 14.85\n\n10 | 19.2 | 23.62\n\n30 | 40.0 | 49.31\n\n40 | 42.5 | 51.03\n\n60 | 46.3 | 55.55\n\n90 | 49.0 | 58.88\n\n100 | 51.2 | 61.53\n\n500 | 69.0 | 82.75\n\n1,000 | 77.6 | 93.11\n\nSource. #8215, eff 11-24-04 (from Env-A 2103); ss by #10314, eff 4-23-13; ss by #13693, eff 7-22-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2100.html"
+}

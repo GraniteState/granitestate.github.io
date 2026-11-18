@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/alc/103.06",
+  "@type": "Concept",
+  "agencyCode": "Alc",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:3",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:5",
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/91-A/91-A-3",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/alc/103",
+  "definition": "Public Access to Minutes",
+  "effectiveDate": "2026-06-01",
+  "historyNote": "#8169, eff 9-21-04; ss by 9417, eff 3-14-09 (from Alc 103.07); ss by #14585, eff 6-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Alc 103.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html",
+  "prefLabel": "Alc 103.06 Public Access to Minutes",
+  "recordType": "rule-section",
+  "ruleText": "Alc 103.06 Public Access to Minutes.\n\n(a) Minutes of board actions which are not exempt from disclosure under RSA 91-A:3, III or RSA 91-A:5 shall be public records.\n\n(b) Pursuant to RSA 91-A:2, II and RSA 91-A:3, III, the minutes shall be available for inspection during the office of professional licensure and certification’s (OPLC)ordinary office hours .\n\nSource. #8169, eff 9-21-04; ss by 9417, eff 3-14-09 (from Alc 103.07); ss by #14585, eff 6-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html"
+}

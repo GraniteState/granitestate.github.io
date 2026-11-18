@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/504",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "III",
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "12-G:50",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/500",
+  "definition": "SETTING OF MOORINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/504.01",
+    "https://granitestate.github.io/rules/pda/504.02"
+  ],
+  "notation": "Pda 504",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 504 SETTING OF MOORINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 504 SETTING OF MOORINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

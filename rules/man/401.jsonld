@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/man/401",
+  "@type": "Concept",
+  "agencyCode": "Man",
+  "authority": [
+    {
+      "citation": "205-A:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "205-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "205-A:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "205-A:25",
+      "source": "https://granitestate.github.io/rsa/205-A/205-A-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/205-A/205-A-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/man/400",
+  "definition": "BOARD OF MANUFACTURED HOUSING COMPLAINT FORM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/man/401.01",
+    "https://granitestate.github.io/rules/man/401.02",
+    "https://granitestate.github.io/rules/man/401.03",
+    "https://granitestate.github.io/rules/man/401.04",
+    "https://granitestate.github.io/rules/man/401.05",
+    "https://granitestate.github.io/rules/man/401.06",
+    "https://granitestate.github.io/rules/man/401.07",
+    "https://granitestate.github.io/rules/man/401.08"
+  ],
+  "notation": "Man 401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html",
+  "prefLabel": "Man 401 BOARD OF MANUFACTURED HOUSING COMPLAINT FORM",
+  "recordType": "rule-part",
+  "ruleText": "PART Man 401 BOARD OF MANUFACTURED HOUSING COMPLAINT FORM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/212.02",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "altLabel": "Appeals to the Board",
+  "authority": [
+    {
+      "citation": "541-A:6",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:11",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/212",
+  "definition": "Appeal to the Board",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 216.02); ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 212.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 212.02 Appeal to the Board",
+  "recordType": "rule-section",
+  "ruleText": "Tax 212.02 Appeal to the Board.\n\n(a) The board shall hear appeals from municipal decisions denying, in whole or in part, an application made pursuant to RSA 75:11 to appraise a residence at its current use as a residence in an industrial or commercial zone.\n\n(b) A taxpayer shall, within the statutory period outlined in RSA 75:14, file an appeal document and the proper filing fee under Tax 501.01 with the board after the municipality’s decision or lack of a decision.\n\n(c) Each appeal document shall include the following:\n\n(1) The taxpayer’s name, address, and telephone number;\n\n(2) If the taxpayer is not the owner, a statement of the taxpayer’s standing for appealing;\n\n(3) The property or properties being appealed, identified by street address and tax map and lot number;\n\n(4) The assessment on the property or properties, and if available, the assessment broken down by land and building; and\n\n(5) A complete and specific statement of the grounds supporting the appeal, with the comparables relied on by the taxpayer.\n\n(d) If the appeal document is incorrectly completed or lacks sufficient specificity, the board shall declare the taxpayer in default. The board shall then order the taxpayer to file a completed appeal document or to amend the appeal document within 10 days of the clerk’s date. If the taxpayer fails to comply with such order, the board shall dismiss the appeal.\n\nSource. #7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 216.02); ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

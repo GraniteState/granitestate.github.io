@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/5002",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "167:63",
+      "source": "https://granitestate.github.io/rsa/167/167-63",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/167/167-63"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/5000",
+  "definition": "UNCOMPENSATED CARE FUND REPORTING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-c/5002.01",
+    "https://granitestate.github.io/rules/he-c/5002.02"
+  ],
+  "notation": "He-C 5002",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c5000.html",
+  "prefLabel": "He-C 5002 UNCOMPENSATED CARE FUND REPORTING",
+  "recordType": "rule-part",
+  "ruleText": "PART He-C 5002 UNCOMPENSATED CARE FUND REPORTING\n\nREVISION NOTE:\n\nDocument #13165, effective 1-26-21, readopted with amendments the “Annual Medicaid Uncompensated Care Cost Data Request Form” pursuant to the expedited revisions to agency forms process in RSA 541-A:19-c. The “Annual Medicaid Uncompensated Care Cost Data Request Form” is incorporated by reference in He-C 5002.01(a) and also referenced in He-C 5002.01(b). Document #13165 contained only the amended form, giving it a new effective date. Since Document #13165 updated the revision date on the form from “(January 2019 Edition)” to “(January 2021 Edition)”, the revision date was subsequently updated editorially in He-C 5002.01(a) and (b) to “(January 2021 edition)”. The prior filing affecting rule He-C 5002.01 was Document #12719, effective 1-29-19, and the effective date of the rule remained unchanged by Document #13165.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c5000.html"
+}

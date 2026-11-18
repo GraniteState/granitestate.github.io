@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6201",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:6",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/415/415-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:2",
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415/415-6",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6200",
+  "definition": "ANCILLARY HEALTH MINIMUM STANDARDS GENERAL PROVISIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/6201.01",
+    "https://granitestate.github.io/rules/ins/6201.02",
+    "https://granitestate.github.io/rules/ins/6201.03",
+    "https://granitestate.github.io/rules/ins/6201.04",
+    "https://granitestate.github.io/rules/ins/6201.05",
+    "https://granitestate.github.io/rules/ins/6201.06",
+    "https://granitestate.github.io/rules/ins/6201.07"
+  ],
+  "notation": "Ins 6201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html",
+  "prefLabel": "Ins 6201 ANCILLARY HEALTH MINIMUM STANDARDS GENERAL PROVISIONS",
+  "recordType": "rule-part",
+  "ruleText": "Part Ins 6201 had been based on the former rules Ins 1901.06(a)(1), (3), (5)-(10), and (14), Ins 1901.07(a)(1)-(3), (5)-(13), (15)-(18), (23), and (24), Ins 1901.07(b)(1), (2), (4), and (5), and Ins 1901.07(f). The former Ins 1901.06 had been titled “Accident and Health Minimum Standards for Benefits” and the former Ins 1901.07 had been titled “Required Disclosure Provisions.” Both the former Ins 1901.06 and the former Ins 1901.07 had expired 4-17-14. Part Ins 6201 replaces the provisions cited above in the former Ins 1901.06 and former Ins 1901.07.\n\nThe filings affecting the former Ins 1901.06 included the following documents:\n\n#1900, effective 1-1-82\n\n#4287, effective 7-1-87\n\n#4811, effective 5-4-90\n\n#5656, effective 7-1-93\n\n#7017, INTERIM, effective 7-1-99, EXPIRED 10-29-99\n\n#8609, effective 4-17-06, EXPIRED 4-17-14\n\nThe filings affecting the former Ins 1901.07 included the following documents:\n\n#1900, effective 1-1-82\n\n#4287, effective 7-1-87\n\n#5656, effective 7-1-93\n\n#7017, INTERIM, effective 7-1-99, EXPIRED 10-29-99\n\n#8609, effective 4-17-06, EXPIRED 4-17-14\n\nREVISION NOTE #2:\n\nDocument #12659, effective 11-5-18, adopted Part Ins 6202 titled “Ancillary Health Minimum Standards for Hospital Confinement Fixed Indemnity and Other Fixed Indemnity Coverage.”",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html"
+}

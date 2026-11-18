@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/301.03",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:18",
+      "source": "https://granitestate.github.io/rsa/318/318-18",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-18"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/301",
+  "definition": "Required Examinations",
+  "effectiveDate": "2016-01-29",
+  "historyNote": "#6181-B, eff 2-5-96; ss by #6933, eff 2-1-99, EXPIRED: 2-1-07 New. #10702, INTERIM, eff 10-23-14, EXPIRED: 4-21-15 New. #11031, eff 1-29-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 301.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 301.03 Required Examinations",
+  "priorExpiration": "2015-04-21",
+  "recordType": "rule-section",
+  "ruleText": "Ph 301.03 Required Examinations. The examinations required for pharmacist licensure in New Hampshire shall be the National Association of Boards of Pharmacy Licensure Examination (NAPLEX) and the New Hampshire Multistate Pharmacy Jurisprudence Examination (NH MPJE) administered the National Association of Boards of Pharmacy (NABP).\n\nSource. #6181-B, eff 2-5-96; ss by #6933, eff 2-1-99, EXPIRED: 2-1-07\n\nNew. #10702, INTERIM, eff 10-23-14, EXPIRED: 4-21-15\n\nNew. #11031, eff 1-29-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

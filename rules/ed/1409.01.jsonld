@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1409.01",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "51-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "193-E:2-a",
+      "paragraphs": [
+        "V(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1409",
+  "definition": "Complaints and Investigations",
+  "effectiveDate": "2024-04-12",
+  "historyNote": "#13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 1409.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html",
+  "prefLabel": "Ed 1409.01 Complaints and Investigations",
+  "recordType": "rule-section",
+  "ruleText": "Ed 1409.01 Complaints and Investigations.\n\n(a) Complaints shall be submitted in writing to the department identifying one or more of, but not limited to, the following circumstances which the complainant alleges:\n\n(1) The sponsor organization committed a material violation of any of the conditions, standards, or procedures set forth in its application;\n\n(2) The sponsor organization failed to disclose or violated its disclosed criminal history records check policy;\n\n(3) The sponsor organization made a material misrepresentation in its application;\n\n(4) The sponsor organization became insolvent; or\n\n(5) The sponsor organization violates a law and the violation undermines the purpose of the program.\n\n(b) All complaints shall be investigated, and, upon receipt of the complaint, the department shall notify the sponsor organization within 15 days of receipt of the complaint that an investigation has been opened.\n\n(c) After completion of an investigation, the department shall present its findings to the state board at the next regularly scheduled state board meeting.\n\n(d) If the board determines that the sponsor organization has not met one or more of the circumstances enumerated in (a) above, the sponsor organization shall be notified in writing within 10 days of the board's finding.\n\nSource. #13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html"
+}

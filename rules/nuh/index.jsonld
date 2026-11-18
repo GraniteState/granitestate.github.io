@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nuh",
+  "@type": "Concept",
+  "agencyCode": "Nuh",
+  "definition": "Board of Examiners of Nursing Home Administrators",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nuh/100",
+    "https://granitestate.github.io/rules/nuh/200",
+    "https://granitestate.github.io/rules/nuh/300",
+    "https://granitestate.github.io/rules/nuh/400",
+    "https://granitestate.github.io/rules/nuh/500"
+  ],
+  "notation": "Nuh",
+  "prefLabel": "Nuh Board of Examiners of Nursing Home Administrators",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

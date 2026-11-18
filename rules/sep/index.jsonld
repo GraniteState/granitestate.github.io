@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sep",
+  "@type": "Concept",
+  "agencyCode": "Sep",
+  "definition": "Board of Septic System Evaluators (See RSA 310-A:207 pursuant to 2016, 266:2, effective 1-1-17.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/sep/100",
+    "https://granitestate.github.io/rules/sep/200",
+    "https://granitestate.github.io/rules/sep/300",
+    "https://granitestate.github.io/rules/sep/400",
+    "https://granitestate.github.io/rules/sep/500",
+    "https://granitestate.github.io/rules/sep/600",
+    "https://granitestate.github.io/rules/sep/700"
+  ],
+  "notation": "Sep",
+  "prefLabel": "Sep Board of Septic System Evaluators",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

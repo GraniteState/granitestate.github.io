@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/702.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "78-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:3",
+      "paragraphs": [
+        "XXV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:6",
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "78-A:7",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/78-A/78-A-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78-A/78-A-6",
+    "https://granitestate.github.io/rsa/78-A/78-A-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/702",
+  "definition": "Inclusive Tax Calculation",
+  "effectiveDate": "2024-10-29",
+  "expirationDate": "2034-10-29",
+  "historyNote": "#2205, eff 12-12-82; ss by #2504, eff 10-12-83; ss by #3181, eff 1-22-86; ss by #4061, eff 5-29-86; ss by #5399, eff 5-21-92; ss by #5912, eff 10-14-94; ss by #6750, eff 5-19-06, EXPIRED: 5-19-06 New. #8653, eff 6-8-06; ss by #10714, eff 11-7-14; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 702.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html",
+  "prefLabel": "Rev 702.01 Inclusive Tax Calculation",
+  "recordType": "rule-section",
+  "ruleText": "Rev 702.01 Inclusive Tax Calculation. When the tax is included in the price of taxable meals, as referenced in RSA 78-A:7, I(a), the tax shall be equal to 7.834% of such charge.\n\nSource. #2205, eff 12-12-82; ss by #2504, eff 10-12-83; ss by #3181, eff 1-22-86; ss by #4061, eff 5-29-86; ss by #5399, eff 5-21-92; ss by #5912, eff 10-14-94; ss by #6750, eff 5-19-06, EXPIRED: 5-19-06\n\nNew. #8653, eff 6-8-06; ss by #10714, eff 11-7-14; ss by #14105, eff 10-29-24, EXPIRES: 10-29-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev700.html"
+}

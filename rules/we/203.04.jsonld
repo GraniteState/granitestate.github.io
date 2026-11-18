@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/203.04",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/203",
+  "definition": "Investigations by the Department",
+  "effectiveDate": "2008-06-13",
+  "expirationDate": "2016-06-13",
+  "historyNote": "#7307, eff 6-13-00; ss by #9178-B, eff 6-13-08, EXPIRED: 6-13-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 203.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 203.04 Investigations by the Department",
+  "recordType": "rule-section",
+  "ruleText": "We 203.04 Investigations by the Department. Upon investigation and recommendation of the department, the board shall consider refusal, suspension or revocation as provided by RSA 482-B:8,I and We 203.02.\n\nSource. #7307, eff 6-13-00; ss by #9178-B, eff 6-13-08, EXPIRED: 6-13-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

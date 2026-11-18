@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/105.01",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-G:6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/105",
+  "definition": "Meetings",
+  "effectiveDate": "1999-08-26",
+  "historyNote": "#7080, eff 8-26-99",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Acp 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 105.01 Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Acp 105.01 Meetings. The board shall meet no less than twice a year, and at such additional times as the board chair, or a majority of the board, shall designate. The time and place of the meetings shall be noticed to the public in accordance with RSA 91-A:2.\n\nSource. #7080, eff 8-26-99",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

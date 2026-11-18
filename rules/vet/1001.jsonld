@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/vet/1001",
+  "@type": "Concept",
+  "agencyCode": "Vet",
+  "authority": [
+    {
+      "citation": "332-B:7-a",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/332-B/332-B-7-a",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/332-B/332-B-7-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/vet/1000",
+  "definition": "OPIOID MANAGEMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/vet/1001.01"
+  ],
+  "notation": "Vet 1001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html",
+  "prefLabel": "Vet 1001 OPIOID MANAGEMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Vet 1001 OPIOID MANAGEMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html"
+}

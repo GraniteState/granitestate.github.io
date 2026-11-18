@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/607.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/607",
+  "definition": "Other Application Requirements",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 607.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 607.04 Other Application Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 607.04 Other Application Requirements.\n\n(a) Prior to finalizing a dredge proposal, the applicant shall conduct an existing conditions bathymetric survey and submit it with the application to the department.\n\n(b) Prior to finalizing a dredge proposal, the applicant shall submit information regarding the current and historic presence of submerged aquatic vegetation, as documented by the CFA in Env-Wt 603.04, within and adjacent to the proposed dredging footprint.\n\n(c) As specified in RSA 482-A:3, X(b), the application fee for dredging in tidal waters/wetlands for the purpose of improving navigation for a municipality, as sponsored by DP&H, shall not exceed $10,000.\n\n(d) The application fee for all projects not covered by (c), above, shall be as specified in RSA 482-A:3, I(a)(3).\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

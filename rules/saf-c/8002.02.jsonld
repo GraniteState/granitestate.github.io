@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/8002.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/8002",
+  "definition": "Commissioner",
+  "effectiveDate": "2007-07-21",
+  "expirationDate": "2014-07-21",
+  "historyNote": "#8954, eff 7-21-07, renumbered by #9542 (from Saf-C 8002.01); EXPIRED: 7-21-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 8002.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c8000.html",
+  "prefLabel": "Saf-C 8002.02 Commissioner",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 8002.02 “Commissioner” means the commissioner of the department of safety or his designee.\n\nSource. #8954, eff 7-21-07, renumbered by #9542 (from Saf-C 8002.01); EXPIRED: 7-21-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c8000.html"
+}

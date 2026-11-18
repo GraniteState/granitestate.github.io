@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1510",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-C:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1500",
+  "definition": "BEST MANAGEMENT PRACTICES FOR BLASTING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1510.01",
+    "https://granitestate.github.io/rules/env-wq/1510.02",
+    "https://granitestate.github.io/rules/env-wq/1510.03",
+    "https://granitestate.github.io/rules/env-wq/1510.04",
+    "https://granitestate.github.io/rules/env-wq/1510.05",
+    "https://granitestate.github.io/rules/env-wq/1510.06",
+    "https://granitestate.github.io/rules/env-wq/1510.07",
+    "https://granitestate.github.io/rules/env-wq/1510.08"
+  ],
+  "notation": "Env-Wq 1510",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1510 BEST MANAGEMENT PRACTICES FOR BLASTING",
+  "recordType": "rule-part",
+  "ruleText": "Env-Wq 1510 BEST MANAGEMENT PRACTICES FOR BLASTING\n\nREVISION NOTE #4:\n\nDocument #13758, effective 9-28-23, adopted, repealed, readopted with amendment, or readopted with amendment and renumbered various rules in Chapter Env-Wq 1500. The adoptions and repeals necessitated the renumbering of other existing rules in Chapter Env-Wq 1500 that were not in Document #13758. The former rule numbers for the renumbered rules are indicated in the source notes.\n\nThe new rules adopted by Document #13758 included the following definitions in Part Env-Wq 1502:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

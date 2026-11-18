@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/902",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "126:6-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:5-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "128:10",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/900",
+  "definition": "HEALTH OFFICER APPOINTMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/902.01",
+    "https://granitestate.github.io/rules/he-p/902.02",
+    "https://granitestate.github.io/rules/he-p/902.03"
+  ],
+  "notation": "He-P 902",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p900.html",
+  "prefLabel": "He-P 902 HEALTH OFFICER APPOINTMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 902 HEALTH OFFICER APPOINTMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p900.html"
+}

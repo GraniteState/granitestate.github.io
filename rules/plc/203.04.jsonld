@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/203.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310",
+      "source": "https://granitestate.github.io/rsa/310",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/203",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (formerly Plc 203.03) (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 203.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 203.04 Date of Issuance or Filing",
+  "recordType": "rule-section",
+  "ruleText": "Plc 203.04 Date of Issuance or Filing.\n\n(a) All orders, decisions, notices, or other written correspondence or documents issued by or at the direction of the OPLC or a board shall be deemed to have been issued on the date noted on the document.\n\n(b) All correspondence, petitions, applications, requests for findings of fact and conclusions of law, motions, petitions for rehearing, and any other written documents shall be deemed to have been filed with or received by the OPLC or board or, for filings in an adjudicative proceeding, the presiding officer to which it is addressed, on the actual date of receipt by the addressee, as evidenced by a date stamp placed on the document by the addressee in the normal course of business or the date the addressee receives the electronic filing.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (formerly Plc 203.03) (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

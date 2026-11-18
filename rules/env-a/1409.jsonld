@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1409",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:4",
+      "source": "https://granitestate.github.io/rsa/125-I/125-I-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-I/125-I-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1400",
+  "definition": "DETERMINATION OF 24-HOUR AMBIENT AIR LIMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1409.01",
+    "https://granitestate.github.io/rules/env-a/1409.02"
+  ],
+  "notation": "Env-A 1409",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1409 DETERMINATION OF 24-HOUR AMBIENT AIR LIMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 1409 DETERMINATION OF 24-HOUR AMBIENT AIR LIMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

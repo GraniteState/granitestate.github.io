@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/603.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "483:8-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/483/483-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483/483-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/603",
+  "definition": "Vulnerability Assessment",
+  "effectiveDate": "2020-10-23",
+  "historyNote": "#12806, eff 12-15-19; amd by 13124, eff 10-23-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 603.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 603.05 Vulnerability Assessment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 603.05 Vulnerability Assessment. In accordance with the NH Coastal Risk and Hazards Commission Science and Technical Advisory Panel (STAP) Report, Sea-level Rise, Storm Surges, and Extreme Precipitation in Coastal New Hampshire: Analysis of Past and Projected Future Trends, available at http://www.nhcrhc.org/stap-report/, as updated by the 2019-2020 New Hampshire Coastal Flood Risk Summary Part I: Science, available at https://scholars.unh.edu/ersc/210/, and Part II: Guidance for Using Scientific Projections, available at https://scholars.unh.edu/ersc/211/, Laws of 2016, 195:1, and best available science for projects located in coastal areas, the applicant shall:\n\n(a) Determine the time period over which the proposed project is designed to serve;\n\n(b) Identify the proposed project’s relative risk tolerance to flooding and potential damage or loss likely to result from the flooding, to:\n\n(1) Buildings and infrastructure; and\n\n(2) Salt marshes, sand dunes, and other valuable coastal resource areas;\n\n(c) Reference the projected sea-level rise from the 2019-2020 STAP report, Part I: Science, available at https://scholars.unh.edu/ersc/210/, and Part II: Guidance for Using Scientific Projections, available at https://scholars.unh.edu/ersc/211/, and use the best available science and more recent available projected sea-level rise information that most closely matches the end of the project design life and the project’s tolerance to risk or loss;\n\n(d) Identify areas of the proposed project site subject to flooding from the selected sea-level rise projection;\n\n(e) Identify areas that are currently located within the 100-year floodplain and subject to coastal flood risk;\n\n(f) Describe how the project will consider and address selected sea-level rise within the project design life, including in the design plans; and\n\n(g) Where there are conflicts between the project’s purpose and the vulnerability assessment results, schedule a pre-application meeting with the department to evaluate design alternatives, engineering approaches, and use of the best available science and the STAP report in (c), above, that consider and address the selected sea-level rise.\n\nSource. #12806, eff 12-15-19; amd by 13124, eff 10-23-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

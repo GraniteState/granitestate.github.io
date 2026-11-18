@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4006.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4006",
+  "definition": "General Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4006.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4006.01 General Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4006.01 General Requirements.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers shall comply with all the technical specifications contained in Ins 4008 and shall include all data elements contained in Ins 4009, including required formats, definitions, and sources.\n\n(b) Carriers, third-party administrators, and pharmacy benefit managers shall utilize a data transmission tool provided by the department or its designee to assign a unique identification code to each member’s and subscriber’s record in every file, transform direct identifiers, encrypt the files, and securely transmit the files to the department or its designee.\n\n(c) Upon an amendment to this chapter, carriers, third-party administrators, and pharmacy benefit managers shall submit data that conforms to the updated specifications no later than 180 days after the effective date of the amendment(s) to this chapter.\n\n(d) If the department or its designee identifies technical deficiencies in data submitted by a carrier, third-party administrator, or pharmacy benefit manager, the carrier, third-party administrator, or pharmacy benefit manager shall respond to the department within 10 days with a corrective action plan that will remove the deficiencies.\n\nSource. #8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

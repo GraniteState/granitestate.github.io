@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/1101",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:31",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-31",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/1100",
+  "definition": "SCOPE AND PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pes/1101.01",
+    "https://granitestate.github.io/rules/pes/1101.02"
+  ],
+  "notation": "Pes 1101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes1100.html",
+  "prefLabel": "Pes 1101 SCOPE AND PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Pes 1101 SCOPE AND PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes1100.html"
+}

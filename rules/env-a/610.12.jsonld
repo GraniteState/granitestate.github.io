@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/610.12",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/610",
+  "definition": "List of Sources Covered by General State Permits",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 610.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 610.12 List of Sources Covered by General State Permits",
+  "priorExpiration": "2011-10-24",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 610.12 List of Sources Covered by General State Permits.\n\n(a) The department shall maintain and update a list of sources covered by each general state permit established by the department.\n\n(b) The list shall include the following information:\n\n(1) The name of the source;\n\n(2) The location of the source;\n\n(3) The issuance date of the letter of approval for the general state permit; and\n\n(4) The number of devices covered by the general state permit(s) for each source category located at the source.\n\nSource. #6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

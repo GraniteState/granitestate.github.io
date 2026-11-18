@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/1604",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "130-A:2",
+      "paragraphs": [
+        "I(i)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:10",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "130-A:11",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/1200",
+  "definition": "INVESTIGATIVE PROCESS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/1604.01",
+    "https://granitestate.github.io/rules/he-p/1604.02",
+    "https://granitestate.github.io/rules/he-p/1604.03",
+    "https://granitestate.github.io/rules/he-p/1604.04",
+    "https://granitestate.github.io/rules/he-p/1604.05"
+  ],
+  "notation": "He-P 1604",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html",
+  "prefLabel": "He-P 1604 INVESTIGATIVE PROCESS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 1604 INVESTIGATIVE PROCESS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1600.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1210",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "I",
+        "III",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1200",
+  "definition": "INSPECTIONS AND ASSESSMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/1210.01"
+  ],
+  "notation": "Env-Dw 1210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html",
+  "prefLabel": "Env-Dw 1210 INSPECTIONS AND ASSESSMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 1210 INSPECTIONS AND ASSESSMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1200.html"
+}

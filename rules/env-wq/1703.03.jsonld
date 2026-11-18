@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "General Water Quality Criteria",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.03 General Water Quality Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.03 General Water Quality Criteria.\n\n(a) The presence of pollutants in the surface waters shall not justify further introduction of pollutants from point or nonpoint sources, alone or in any combination.\n\n(b) Once classified, state surface waters shall retain their legislated classification until such time as they are reclassified in accordance with RSA 485-A:10, even if they fail to meet any or all of the general, class-specific, or toxic criteria contained in this part.\n\n(c) The following physical, chemical, and biological criteria shall apply to all surface waters:\n\n(1) All surface waters shall be free from substances in kind or quantity that:\n\na. Settle to form harmful benthic deposits;\n\nb. Float as foam, debris, scum, or other visible substances;\n\nc. Produce odor, color, taste, or turbidity that is not naturally occurring and would render the surface water unsuitable for its designated uses;\n\nd. Result in the dominance of nuisance species; or\n\ne. Interfere with recreational activities;\n\n(2) The level of radioactive materials in all surface waters shall not be in concentrations or combinations that would:\n\na. Be harmful to human, animal, or aquatic life or the most sensitive designated use;\n\nb. Result in radionuclides in aquatic life exceeding the recommended limits for consumption by humans; or\n\nc. Exceed limits specified in EPA’s national drinking water regulations or subtitle Env-Dw, whichever are more stringent; and\n\n(3) Tainting substances shall not be present in concentrations that individually or in combination are detectable by taste and odor tests performed on the edible portions of aquatic organisms.\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

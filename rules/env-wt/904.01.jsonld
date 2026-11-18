@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/904.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "General Design Considerations",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 904.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 904.01 General Design Considerations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 904.01 General Design Considerations.\n\n(a) All stream crossings, whether over tidal or non-tidal waters, shall be designed and constructed so as to:\n\n(1) Not be a barrier to sediment transport;\n\n(2) Not restrict high flows and maintain existing low flows;\n\n(3) Not obstruct or otherwise substantially disrupt the movement of aquatic organisms indigenous to the waterbody beyond the actual duration of construction;\n\n(4) Not cause an increase in the frequency of flooding or overtopping of banks;\n\n(5) Maintain or enhance geomorphic compatibility by:\n\na. Minimizing the potential for inlet obstruction by sediment, wood, or debris; and\n\nb. Preserving the natural alignment of the stream channel;\n\n(6) Preserve watercourse connectivity where it currently exists;\n\n(7) Restore watercourse connectivity where:\n\na. Connectivity previously was disrupted as a result of human activity(ies); and\n\nb. Restoration of connectivity will benefit aquatic organisms upstream or downstream of the crossing, or both;\n\n(8) Not cause erosion, aggradation, or scouring upstream or downstream of the crossing; and\n\n(9) Not cause water quality degradation.\n\n(b) For stream crossings over tidal waters, the stream crossing shall be designed to:\n\n(1) Match the velocity, depth, cross-sectional area, and substrate of the natural stream; and\n\n(2) Be of sufficient size to not restrict bi-directional tidal flow over the natural tide range above, below, and through the crossing.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

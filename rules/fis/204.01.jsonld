@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/204.01",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/204",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2010-01-12",
+  "historyNote": "#1670, eff l1-20-80; ss by #2079, eff 7-5-82; ss by #2839, eff 8-31-84; ss by #4856, eff 7-3-90; ss by #6276, INTERIM, eff 6-26-96, EXPIRED: 10-24-96 New. #7382, eff 10-25-00, EXPIRED: 10-25-08 New. #9332, INTERIM, eff 11-27-08, EXPIRED: 5-26-09 New. #9636-A, eff 1-12-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis200.html",
+  "prefLabel": "Fis 204.01 Date of Issuance or Filing",
+  "priorExpiration": "2009-05-26",
+  "recordType": "rule-section",
+  "ruleText": "Fis 204.01 Date of Issuance or Filing. All written documents governed by these rules shall be rebuttably presumed to have been issued on the date noted on the document and to have been filed with the department on the actual date of receipt by the department, as evidenced by a date stamp placed on the document by the department in the normal course of business.\n\nSource. #1670, eff l1-20-80; ss by #2079, eff 7-5-82; ss by #2839, eff 8-31-84; ss by #4856, eff 7-3-90; ss by #6276, INTERIM, eff 6-26-96, EXPIRED: 10-24-96\n\nNew. #7382, eff 10-25-00, EXPIRED: 10-25-08\n\nNew. #9332, INTERIM, eff 11-27-08, EXPIRED: 5-26-09\n\nNew. #9636-A, eff 1-12-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis200.html"
+}

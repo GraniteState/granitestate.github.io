@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/605",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "altLabel": "CLAIM EVALUATION CRITERIA AND AWARDS LIMITS",
+  "authority": [
+    {
+      "citation": "21-M:8-h",
+      "source": "https://granitestate.github.io/rsa/21-M/21-M-8-h",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-M:8-j",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-M/21-M-8-h"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/600",
+  "definition": "claim evaluation criteria and awards limits",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/605.01",
+    "https://granitestate.github.io/rules/jus/605.02",
+    "https://granitestate.github.io/rules/jus/605.03",
+    "https://granitestate.github.io/rules/jus/605.04",
+    "https://granitestate.github.io/rules/jus/605.05",
+    "https://granitestate.github.io/rules/jus/605.06",
+    "https://granitestate.github.io/rules/jus/605.07",
+    "https://granitestate.github.io/rules/jus/605.08",
+    "https://granitestate.github.io/rules/jus/605.09",
+    "https://granitestate.github.io/rules/jus/605.10",
+    "https://granitestate.github.io/rules/jus/605.11",
+    "https://granitestate.github.io/rules/jus/605.12",
+    "https://granitestate.github.io/rules/jus/605.13"
+  ],
+  "notation": "Jus 605",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 605 claim evaluation criteria and awards limits",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 605 claim evaluation criteria and awards limits",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

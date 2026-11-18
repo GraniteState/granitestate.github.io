@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/1501",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "PURPOSE AND SCOPE",
+  "authority": [
+    {
+      "citation": "126:25",
+      "source": "https://granitestate.github.io/rsa/126/126-25",
+      "via": "appendix"
+    },
+    {
+      "citation": "126:27",
+      "source": "https://granitestate.github.io/rsa/126/126-27",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126/126-25",
+    "https://granitestate.github.io/rsa/126/126-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/1500",
+  "definition": "DATA SUBMISSION OF HEALTH CARE FACILITY DISCHARGE DATA",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-c/1501.01",
+    "https://granitestate.github.io/rules/he-c/1501.02",
+    "https://granitestate.github.io/rules/he-c/1501.03",
+    "https://granitestate.github.io/rules/he-c/1501.04",
+    "https://granitestate.github.io/rules/he-c/1501.05",
+    "https://granitestate.github.io/rules/he-c/1501.06",
+    "https://granitestate.github.io/rules/he-c/1501.07",
+    "https://granitestate.github.io/rules/he-c/1501.08",
+    "https://granitestate.github.io/rules/he-c/1501.09",
+    "https://granitestate.github.io/rules/he-c/1501.10"
+  ],
+  "notation": "He-C 1501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html",
+  "prefLabel": "He-C 1501 DATA SUBMISSION OF HEALTH CARE FACILITY DISCHARGE DATA",
+  "recordType": "rule-part",
+  "ruleText": "PART He-C 1501 DATA SUBMISSION OF HEALTH CARE FACILITY DISCHARGE DATA",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html"
+}

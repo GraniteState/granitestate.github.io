@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/845.03",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/845",
+  "definition": "Winter Snowmobile Application for Grant-in-Aid",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 845.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 845.03 Winter Snowmobile Application for Grant-in-Aid",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 845.03 Winter Snowmobile Application for Grant-in-Aid. Snowmobile clubs and political subdivisions applying for GIA for winter snowmobile operations and parking lot snow removal shall complete, and submit the “Winter Snowmobile Application for Grant-In-Aid” form, 2025 June.\n\nSource. #14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

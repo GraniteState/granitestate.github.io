@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cor/101.08",
+  "@type": "Concept",
+  "agencyCode": "Cor",
+  "altLabel": "Custody Grades",
+  "authority": [
+    {
+      "citation": "21-H:2",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-H/21-H-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-H/21-H-2",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/cor/101",
+  "definition": "Custody grades",
+  "effectiveDate": "2018-03-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Cor 100) #7446, eff 2-6-01; ss by #12500, eff 3-23-18 (formerly Cor 101.06) (See Revision Note #2 at chapter heading for Cor 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Cor 101.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cor100-700.html",
+  "prefLabel": "Cor 101.08 Custody grades",
+  "recordType": "rule-section",
+  "ruleText": "Cor 101.08 “Custody grades” means the custody and security classification assigned to incarcerated persons under departmental control in due consideration of their escape potential and the level of their threat to both public and institutional safety pursuant to Cor 400.\n\nSource. (See Revision Note #1 at chapter heading for Cor 100) #7446, eff 2-6-01; ss by #12500, eff 3-23-18 (formerly Cor 101.06) (See Revision Note #2 at chapter heading for Cor 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cor100-700.html"
+}

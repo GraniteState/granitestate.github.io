@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/203.21",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "appendix"
+    },
+    {
+      "citation": "641:2",
+      "source": "https://granitestate.github.io/rsa/641/641-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-31",
+    "https://granitestate.github.io/rsa/641/641-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/203",
+  "definition": "Obstructing Justice",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#8657-A, eff 6-10-06 New. #14184, eff 1-24-25 (formerly Puc 202.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 203.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 203.21 Obstructing Justice",
+  "recordType": "rule-section",
+  "ruleText": "Puc 203.21 Obstructing Justice. The commission shall refer for prosecution, pursuant to RSA 641:1 and RSA 641:2, any person who:\n\n(a) Testifies falsely to any material matter wherein the person has given their oath or affirmation, and has good reason to believe the testimony to be untrue; or\n\n(b) Willfully falsifies any account, book, record, financial statement, or other information regarding any material matter, believing the content to be untrue, with the intent to mislead or deceive any commissioner, presiding officer, or commission staff member.\n\nSource. #8657-A, eff 6-10-06\n\nNew. #14184, eff 1-24-25 (formerly Puc 202.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

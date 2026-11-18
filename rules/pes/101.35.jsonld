@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.35",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "altLabel": "Supervisory Registration Certificates",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "Supervisory registration certificates",
+  "effectiveDate": "1996-05-02",
+  "historyNote": "#150, eff 1-9-74; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.35",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 101.35 Supervisory registration certificates",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.35 \"Supervisory registration certificates\" means certificates issued to persons engaged in the commercial application of pesticides who are responsible for deciding whether or not pesticides are to be employed, how they are to be used, and the methods of application and precautions to be taken in the use of such pesticides.\n\nSource. #150, eff 1-9-74; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

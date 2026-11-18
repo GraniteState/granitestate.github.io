@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/610.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:6",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/610",
+  "definition": "Background Investigations",
+  "effectiveDate": "2017-08-14",
+  "historyNote": "#7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 600) ss by #9367, eff 1-28-09; ss by #12348, eff 8-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 610.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html",
+  "prefLabel": "Env-Hw 610.01 Background Investigations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 610.01 Background Investigations. The department shall conduct a background investigation of a registrant or applicant to determine whether the registrant or applicant has sufficient reliability, expertise, integrity, and competence to transport hazardous waste in and through New Hampshire.\n\nSource. #7333, eff 8-1-00; ss by #9215, INTERIM, eff 8-1-08; (See Revision Note #1 at chapter heading for Env-Hw 600) ss by #9367, eff 1-28-09; ss by #12348, eff 8-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw600.html"
+}

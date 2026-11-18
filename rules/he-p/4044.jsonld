@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4044",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:21",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4000",
+  "definition": "RADIATION REQUIREMENTS FOR PARTICLE ACCELERATORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/4044.01",
+    "https://granitestate.github.io/rules/he-p/4044.02",
+    "https://granitestate.github.io/rules/he-p/4044.03",
+    "https://granitestate.github.io/rules/he-p/4044.04",
+    "https://granitestate.github.io/rules/he-p/4044.05",
+    "https://granitestate.github.io/rules/he-p/4044.06",
+    "https://granitestate.github.io/rules/he-p/4044.07",
+    "https://granitestate.github.io/rules/he-p/4044.08",
+    "https://granitestate.github.io/rules/he-p/4044.09",
+    "https://granitestate.github.io/rules/he-p/4044.10",
+    "https://granitestate.github.io/rules/he-p/4044.11",
+    "https://granitestate.github.io/rules/he-p/4044.12"
+  ],
+  "notation": "He-P 4044",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html",
+  "prefLabel": "He-P 4044 RADIATION REQUIREMENTS FOR PARTICLE ACCELERATORS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 4044 RADIATION REQUIREMENTS FOR PARTICLE ACCELERATORS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html"
+}

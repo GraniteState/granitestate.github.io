@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3308.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-c",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-10-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-10-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3308",
+  "definition": "Fuel Supplier Requirements",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3308.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3308.04 Fuel Supplier Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3308.04 Fuel Supplier Requirements. A large MWC facility combusting PWR shall obtain PWR only from suppliers that:\n\n(a) Produce PWR in compliance with all requirements of 40 CFR 241.4(a)(5) and this part;\n\n(b) Collect 3 random representative grab samples for each 250 tons of PWR produced, which shall be composited into a single well mixed sample for each 1000 tons of PWR produced;\n\n(c) Have the composite sample analyzed as specified in Env-A 3308.06; and\n\n(d) Pass an independent third-party inspection in accordance with Env-A 3308.05 prior to November 15th of each year in which PWR will be offered to a large MWC facility for combustion.\n\nSource. #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

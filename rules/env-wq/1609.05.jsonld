@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1609.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483",
+      "source": "https://granitestate.github.io/rsa/483",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483",
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1609",
+  "definition": "Facility Permit Fee",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1609.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html",
+  "prefLabel": "Env-Wq 1609.05 Facility Permit Fee",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1609.05 Facility Permit Fee.\n\n(a) Subject to (b) and (c) below, a nonrefundable fee in the amount of $1,000 shall be paid with each application for issuance or renewal of a facility permit.\n\n(b) Any New Hampshire political subdivision that applies for a facility permit shall be exempt from the fee specified in (a) above.\n\n(c) The fee, if paid by check or money order, shall be made payable to “Treasurer - State of NH.”\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html"
+}

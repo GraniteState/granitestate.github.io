@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.16",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Additional Information for Fluoridated Public Water Supplies",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.16 Additional Information for Fluoridated Public Water Supplies",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.16 Additional Information for Fluoridated Public Water Supplies. The O/O of a PWS whose public water supply is fluoridated shall include the following statement in the CCR:\n\n“Your public water supply is fluoridated. According to the Centers for Disease Control and Prevention, if your child under the age of 6 months is exclusively consuming infant formula reconstituted with fluoridated water, there may be an increased chance of dental fluorosis. Consult your child’s health care provider for more information.”\n\nSource. #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/int/210",
+  "@type": "Concept",
+  "agencyCode": "Int",
+  "authority": [
+    {
+      "citation": "326-I:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-I:15",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/int/200",
+  "definition": "REHEARING AND STAY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/int/210.01",
+    "https://granitestate.github.io/rules/int/210.02",
+    "https://granitestate.github.io/rules/int/210.03"
+  ],
+  "notation": "Int 210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/int100-500.html",
+  "prefLabel": "Int 210 REHEARING AND STAY",
+  "recordType": "rule-part",
+  "ruleText": "PART Int 210 REHEARING AND STAY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/int100-500.html"
+}

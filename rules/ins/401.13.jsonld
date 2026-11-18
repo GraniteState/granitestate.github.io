@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/401.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:37",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-37",
+      "via": "appendix"
+    },
+    {
+      "citation": "408-D:17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-37"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/401",
+  "definition": "Life Settlement Filings",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12882, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 401.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html",
+  "prefLabel": "Ins 401.13 Life Settlement Filings",
+  "recordType": "rule-section",
+  "ruleText": "Ins 401.13 Life Settlement Filings.\n\n(a) The commissioner shall, for the purpose of examining and analyzing life settlement filings, contract with an attorney or law firm. The examination and analysis of any life settlement filing shall be undertaken by a contracting attorney or law firm only when the insurance department is unable to provide the resources necessary to review such filings. The contracting attorney or law firm shall provide advice to the commissioner on the life settlement filing and perform other legal services related to the life settlement filing as required.\n\n(b) The expense of the life settlement review required by this part, and all other expenses associated with any legal services performed related to a life settlement filing, shall be borne by the insurer or life settlement provider submitting the life settlement filing, in accordance with RSA 400-A:37, III(d).\n\nSource. #12882, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html"
+}

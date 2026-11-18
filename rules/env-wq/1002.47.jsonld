@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1002.47",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Mounding Analysis",
+  "authority": [
+    {
+      "citation": "485-A:2",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-2",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1002",
+  "definition": "Mounding analysis",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "#14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1002.47",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1002.47 Mounding analysis",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1002.47 “Mounding analysis” means a calculation that demonstrates how much the groundwater below an EDA will rise up into the unsaturated zone, and is used to determine if the groundwater mound will decrease the separation distance from the bed bottom of the EDA to the seasonal high-water table.\n\nSource. #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

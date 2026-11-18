@@ -1,0 +1,68 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/610",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/600",
+  "definition": "PROTECTED TIDAL ZONE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/610.01",
+    "https://granitestate.github.io/rules/env-wt/610.02",
+    "https://granitestate.github.io/rules/env-wt/610.03",
+    "https://granitestate.github.io/rules/env-wt/610.04",
+    "https://granitestate.github.io/rules/env-wt/610.05",
+    "https://granitestate.github.io/rules/env-wt/610.06",
+    "https://granitestate.github.io/rules/env-wt/610.07",
+    "https://granitestate.github.io/rules/env-wt/610.08",
+    "https://granitestate.github.io/rules/env-wt/610.09",
+    "https://granitestate.github.io/rules/env-wt/610.10",
+    "https://granitestate.github.io/rules/env-wt/610.11",
+    "https://granitestate.github.io/rules/env-wt/610.12",
+    "https://granitestate.github.io/rules/env-wt/610.13",
+    "https://granitestate.github.io/rules/env-wt/610.14",
+    "https://granitestate.github.io/rules/env-wt/610.15",
+    "https://granitestate.github.io/rules/env-wt/610.16",
+    "https://granitestate.github.io/rules/env-wt/610.17"
+  ],
+  "notation": "Env-Wt 610",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 610 PROTECTED TIDAL ZONE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 610 PROTECTED TIDAL ZONE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

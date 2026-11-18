@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.20",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Fixed-Roof VOC Storage Tanks",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Fixed-roof VOC Storage Tanks",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 804.18); ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.20 Fixed-roof VOC Storage Tanks",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.20 Fixed-roof VOC Storage Tanks. When performing a visual inspection of the internal floating roof and its closure seal(s) as required by Env-A 1200, the owner or operator of a fixed-roof VOC storage tank shall inspect for all of the following:\n\n(a) The cover shall be uniformly floating on or above the liquid;\n\n(b) The surface of the cover shall have no visible defects;\n\n(c) The cover shall have no accumulated liquid; and\n\n(d) The seal shall be intact and uniformly in place around the circumference of the cover between the cover and tank wall.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 804.18); ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

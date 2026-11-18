@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/418",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:33",
+      "source": "https://granitestate.github.io/rsa/72/72-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:38-a",
+      "source": "https://granitestate.github.io/rsa/72/72-38-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-33",
+    "https://granitestate.github.io/rsa/72/72-38-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/400",
+  "definition": "TAX DEFERRAL FOR ELDERLY AND DISABLED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/418.01",
+    "https://granitestate.github.io/rules/rev/418.02"
+  ],
+  "notation": "Rev 418",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 418 TAX DEFERRAL FOR ELDERLY AND DISABLED",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 418 TAX DEFERRAL FOR ELDERLY AND DISABLED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

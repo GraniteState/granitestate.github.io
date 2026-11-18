@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/902.20",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/902",
+  "definition": "Large Customer-Generator",
+  "effectiveDate": "2020-09-14",
+  "historyNote": "#10757, eff 1-8-15 (from Puc 902.19); ss by#13080, eff 9-14-20 (formerly Puc 902.15)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 902.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc900.html",
+  "prefLabel": "Puc 902.20 Large Customer-Generator",
+  "recordType": "rule-section",
+  "ruleText": "Puc 902.20 “Large Customer-Generator” means a customer-generator whose facility has a total maximum generating capacity greater than 100 kilowatts alternating current up to and including one megawatt.\n\nSource. #10757, eff 1-8-15 (from Puc 902.19); ss by#13080, eff 9-14-20 (formerly Puc 902.15)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc900.html"
+}

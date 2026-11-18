@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arch/402.02",
+  "@type": "Concept",
+  "agencyCode": "Arch",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:12",
+      "source": "https://granitestate.github.io/rsa/310/310-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:32",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:47",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/arch/402",
+  "definition": "Administrative Fines",
+  "effectiveDate": "2026-03-24",
+  "expirationDate": "2036-03-24",
+  "historyNote": "#10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36 (formerly Arch 402.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arch 402.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html",
+  "prefLabel": "Arch 402.02 Administrative Fines",
+  "recordType": "rule-section",
+  "ruleText": "Arch 402.02 Administrative Fines.\n\n(a) Adjudicative procedures seeking the assessment of an administrative fine shall be commenced against any person subject to such fines or other disciplinary action under RSA 310:12, I-a and Arch 100 – Arch 500 when the board is presented with evidence indicating that a violation might have occurred.\n\n(b) When persons subject to the board’s disciplinary authority are directed to pay fines in accordance with Arch 402.01(d), such fines shall be assessed in accordance with the factors stated in Arch 402.01(e) and (f).\n\n(c) Administrative fines shall be assessed in accordance with the factors in Plc 311.10 and Plc 311.11.\n\nSource. #10904, eff 8-5-15; ss by #14492, eff 3-24-26, EXPIRES: 3-24-36 (formerly Arch 402.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html"
+}

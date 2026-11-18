@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7205",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:5",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "APPROVAL OF AN APPLICATION FOR LICENSURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7205.01",
+    "https://granitestate.github.io/rules/lot/7205.02",
+    "https://granitestate.github.io/rules/lot/7205.03",
+    "https://granitestate.github.io/rules/lot/7205.04",
+    "https://granitestate.github.io/rules/lot/7205.05",
+    "https://granitestate.github.io/rules/lot/7205.06"
+  ],
+  "notation": "Lot 7205",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7205 APPROVAL OF AN APPLICATION FOR LICENSURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7205 APPROVAL OF AN APPLICATION FOR LICENSURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

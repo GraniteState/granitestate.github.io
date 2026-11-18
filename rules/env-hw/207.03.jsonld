@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/207.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/207",
+  "definition": "Methods of Certification",
+  "effectiveDate": "2026-02-28",
+  "historyNote": "#12344-B, eff 8-14-17; ss by #14523, eff 2-28-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 207.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html",
+  "prefLabel": "Env-Hw 207.03 Methods of Certification",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 207.03 Methods of Certification.\n\n(a) When making a certification as part of completing a department form, the signer shall sign and date the form beneath a certification statement describing the requirements of Env-Hw 207.02 and any other relevant certifications.\n\n(b) When making a certification as part of a written application, letter, or any other submission to the department other than a form described in (a) above, the signer shall certify the contents of the application by signing and dating under a statement containing a citation to Env-Hw 207.02 and any law or rule containing any additional certifications.\n\nSource. #12344-B, eff 8-14-17; ss by #14523, eff 2-28-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw200.html"
+}

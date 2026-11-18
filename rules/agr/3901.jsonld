@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3901",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "FARM INSPECTIONS",
+  "authority": [
+    {
+      "citation": "426-A:6",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/3900",
+  "definition": "FARM INSPECTONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/3901.01",
+    "https://granitestate.github.io/rules/agr/3901.02",
+    "https://granitestate.github.io/rules/agr/3901.03",
+    "https://granitestate.github.io/rules/agr/3901.04",
+    "https://granitestate.github.io/rules/agr/3901.05",
+    "https://granitestate.github.io/rules/agr/3901.06",
+    "https://granitestate.github.io/rules/agr/3901.07",
+    "https://granitestate.github.io/rules/agr/3901.08",
+    "https://granitestate.github.io/rules/agr/3901.09"
+  ],
+  "notation": "Agr 3901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3900.html",
+  "prefLabel": "Agr 3901 FARM INSPECTONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 3901 FARM INSPECTONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3900.html"
+}

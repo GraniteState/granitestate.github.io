@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/401.26",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Service-connected Death",
+  "authority": [
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:61",
+      "source": "https://granitestate.github.io/rsa/72/72-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/401",
+  "definition": "Service-connected death",
+  "effectiveDate": "2016-10-28",
+  "historyNote": "#12027, eff 10-28-16; renumbered by #12925 (formerly Rev 401.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 401.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 401.26 Service-connected death",
+  "recordType": "rule-section",
+  "ruleText": "Rev 401.26 “Service-connected death” means a death:\n\n(a) Suffered while on active duty as established by United States Department of Defense Form 1300 (DD Form 1300); or\n\n(b) Determined by the United States Department of Veterans Affairs to have resulted from an injury, illness, or disability incurred in or aggravated by military service.\n\nSource. #12027, eff 10-28-16; renumbered by #12925 (formerly Rev 401.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

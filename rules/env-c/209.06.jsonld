@@ -1,0 +1,194 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/209.06",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "13",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-A:11-c",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:4",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:6",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "332-E:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:29",
+      "source": "https://granitestate.github.io/rsa/482/482-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:31",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:3",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX-b",
+        "IX-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:26",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-26",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:35",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-35",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:36",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-36",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:47",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:6-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:13",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-4",
+    "https://granitestate.github.io/rsa/147-A/147-A-4",
+    "https://granitestate.github.io/rsa/147-A/147-A-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/482/482-29",
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-26",
+    "https://granitestate.github.io/rsa/485-A/485-A-29",
+    "https://granitestate.github.io/rsa/485-A/485-A-35",
+    "https://granitestate.github.io/rsa/485-A/485-A-36",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/209",
+  "definition": "License Conditions",
+  "effectiveDate": "2007-03-25",
+  "historyNote": "#7562, eff 9-26-01; ss by #8851-A, eff 3-25-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 209.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 209.06 License Conditions",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 209.06 License Conditions.\n\n(a) The department shall include conditions in a license whenever it determines that such conditions are necessary to:\n\n(1) Provide greater assurance that the license holder will comply with applicable requirements; or\n\n(2) Minimize the potential for harm to public health or the environment from any violations of applicable requirements.\n\n(b) Any conditions so added shall relate directly to the site, facility, or activity for which the license is issued and shall be no more than reasonably necessary to achieve the criteria in (a), above.\n\n(c) The determination of whether such conditions are reasonably necessary shall be made based on:\n\n(1) The nature and scope of the license being issued; and\n\n(2) The compliance history of the applicant, including whether the applicant is a chronic non-complier.\n\n(d) The license holder may appeal any conditions included in a license pursuant to this section in accordance with existing appeal routes established under the statute which authorizes the department to issue the license to which the conditions were attached.\n\nSource. #7562, eff 9-26-01; ss by #8851-A, eff 3-25-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

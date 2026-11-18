@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gcd/403",
+  "@type": "Concept",
+  "agencyCode": "Gcd",
+  "authority": [
+    {
+      "citation": "275-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "466:8",
+      "source": "https://granitestate.github.io/rsa/466/466-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/466/466-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/gcd/400",
+  "definition": "PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/gcd/403.01",
+    "https://granitestate.github.io/rules/gcd/403.02",
+    "https://granitestate.github.io/rules/gcd/403.03",
+    "https://granitestate.github.io/rules/gcd/403.04",
+    "https://granitestate.github.io/rules/gcd/403.05",
+    "https://granitestate.github.io/rules/gcd/403.06"
+  ],
+  "notation": "Gcd 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html",
+  "prefLabel": "Gcd 403 PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Gcd 403 PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gcd100-400.html"
+}

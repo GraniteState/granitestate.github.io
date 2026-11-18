@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/4003.28",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "altLabel": "Fire Safety Inspections and Compliance",
+  "authority": [
+    {
+      "citation": "126-U",
+      "source": "https://granitestate.github.io/rsa/126-U",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:53-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:54",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:56",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/170-E/170-E-56",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "170-E:67",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-U",
+    "https://granitestate.github.io/rsa/170-E/170-E-56"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/4003",
+  "definition": "Notification to Emergency Responders",
+  "effectiveDate": "2025-05-23",
+  "expirationDate": "2035-05-23",
+  "historyNote": "#12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20 New. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.27)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 4003.28",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html",
+  "prefLabel": "He-C 4003.28 Notification to Emergency Responders",
+  "recordType": "rule-section",
+  "ruleText": "He-C 4003.28 Notification to Emergency Responders.\n\n(a) Subject to (d), below, the camp administrator, camp director, or designee shall notify the local police, fire, and rescue departments regarding their operating dates in accordance with the following:\n\n(1) Annually for year-round camps; and\n\n(2) Immediately prior to opening for seasonal camps.\n\n(b) The notification required by (a), above, shall:\n\n(1) Be in writing;\n\n(2) Include the opening and closing dates for seasonal camps; and\n\n(3) Be delivered in hand or sent via private delivery service, U.S. Postal Service, or email.\n\n(c) The YRC owner, camp administrator, or designee, shall:\n\n(1) Retain a paper copy of the notification; and\n\n(2) Provide it upon request to unit personnel.\n\n(d) For any YRC located within an area that is served by full-time, non-volunteer emergency response personnel even when the YRC is not in operation, notice as specified in (a) above shall be required only if requested by the local emergency response agencies.\n\nSource. #12981, INTERIM, eff 1-24-20, EXPIRED: 7-22-20\n\nNew. #13073, eff 7-23-20; ss by #14256, eff 5-23-25, EXPIRES: 5-23-35 (formerly He-C 4003.27)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c4000.html"
+}

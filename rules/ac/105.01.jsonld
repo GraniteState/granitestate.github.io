@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/105.01",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "309-B:4",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/105",
+  "definition": "Meetings",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "#10053, eff 1-1-12; ss by #13995, eff -8-9-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 105.01 Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Ac 105.01 Meetings. Regular meetings shall be held at least 6 times per year, provided that there is board business to be conducted. Special meetings shall be called by order of the chairperson or secretary. Each member of the board shall be provided notice of each meeting and such notice shall contain the place, date, time, and subject of the meeting. Notice of meetings shall be posted in accordance with RSA 91-A:2.\n\nSource. #10053, eff 1-1-12; ss by #13995, eff -8-9-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

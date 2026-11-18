@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6100",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "altLabel": "DISCONTINUANCE AND REPLACEMENT OF ANCILLARY HEALTH AND BLANKET COVERAGE",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins",
+  "definition": "had formerly been numbered as Part Ins 1906 titled “Discontinuance and Replacement of Group Accident and Health Coverage” in Chapter Ins 1900 titled “Accident a",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/6101",
+    "https://granitestate.github.io/rules/ins/6102",
+    "https://granitestate.github.io/rules/ins/6103"
+  ],
+  "notation": "Ins 6100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6100 had formerly been numbered as Part Ins 1906 titled “Discontinuance and Replacement of Group Accident and Health Coverage” in Chapter Ins 1900 titled “Accident a",
+  "recordType": "rule-chapter",
+  "ruleText": "Chapter Ins 6100 had formerly been numbered as Part Ins 1906 titled “Discontinuance and Replacement of Group Accident and Health Coverage” in Chapter Ins 1900 titled “Accident and Health Insurance.” Former Part Ins 1906 expired 6-12-14. The filing affecting the former Ins 1906 was Document #8646, effective 6-12-06.\n\nREVISION NOTE #2:\n\nDocument #12560, effective 6-25-18, adopted Part Ins 6102 titled “Replacement of Ancillary Health Coverage”.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

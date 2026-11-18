@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/209.02",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/209",
+  "definition": "Response to Request for Explanation",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 209.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 209.02 Response to Request for Explanation",
+  "recordType": "rule-section",
+  "ruleText": "Plc 209.02 Response to Request for Explanation.\n\n(a) The executive director or the board that adopted the rule, as applicable, shall provide a written response within 90 days of receiving a request in accordance with Plc 209.01 if no board meeting is required or within 60 days of the board’s first meeting after receiving the petition.\n\n(b) The response required by (a), above, shall:\n\n(1) Concisely state the meaning of the rule adopted;\n\n(2) Concisely state the principal reasons for and against the adoption of the rule in its final form; and\n\n(3) State why the executive director or board overruled any arguments and considerations presented against the rule, if any were presented.\n\n(c) For a policy-autonomous board, the board’s response shall reflect the consensus of a quorum of the board’s members.\n\n(d) If the executive director determines that the technical expertise of an advisory board is needed to respond to a request for explanation, the executive director shall consult with the advisory board prior to responding to the request.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

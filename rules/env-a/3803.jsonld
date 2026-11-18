@@ -1,0 +1,25 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3803",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-L",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3800",
+  "definition": "GHG VOLUNTARY EMISSIONS REDUCTIONS REGISTRATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/3803.01",
+    "https://granitestate.github.io/rules/env-a/3803.02"
+  ],
+  "notation": "Env-A 3803",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3800.html",
+  "prefLabel": "Env-A 3803 GHG VOLUNTARY EMISSIONS REDUCTIONS REGISTRATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 3803 GHG VOLUNTARY EMISSIONS REDUCTIONS REGISTRATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3800.html"
+}

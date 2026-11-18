@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/605.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/605",
+  "definition": "Additional Requirements for Projects In or Adjacent to Tidal Waters/Wetlands and Tidal Buffer Zones",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 605.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 605.02 Additional Requirements for Projects In or Adjacent to Tidal Waters/Wetlands and Tidal Buffer Zones",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 605.02 Additional Requirements for Projects In or Adjacent to Tidal Waters/Wetlands and Tidal Buffer Zones. An applicant for a permit for work in or adjacent to tidal waters/wetlands or the tidal buffer zone also shall demonstrate that the following have been avoided or minimized as required by Env-Wt 313.04:\n\n(a) Adverse impacts to beach or tidal flat sediment replenishment;\n\n(b) Adverse impacts to the movement of sediments along a shore;\n\n(c) Adverse impacts on a tidal wetland’s ability to dissipate wave energy and storm surge; and\n\n(d) Adverse impacts of project runoff on salinity levels in tidal environments.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

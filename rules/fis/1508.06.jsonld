@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1508.06",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "Instructor Re-Certification",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:39",
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1508",
+  "definition": "Instructor Re-certification",
+  "effectiveDate": "2018-07-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1508.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html",
+  "prefLabel": "Fis 1508.06 Instructor Re-certification",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1508.06 Instructor Re-certification.\n\n(a) Prior to the expiration date of volunteer instructor certification, an instructor shall be notified by the executive director or his designee that such certification will expire.\n\n(b) A certified instructor seeking recertification shall verify in writing by filing a letter with the law enforcement division that all information already provided previously by the applicant remains accurate, including the person’s address and telephone number, and the absence of any convictions for a felony, misdemeanor, or fish and game law or rule violation since the date of the original application or last recertification.\n\n(c) Recertification shall be granted upon request unless the volunteer instructor has:\n\n(1) Been convicted of a felony, misdemeanor, or fish and game law or rule violation since the date of the original application or last recertification; or\n\n(2) Failed to abide by the requirements of Fis 1508.05.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html"
+}

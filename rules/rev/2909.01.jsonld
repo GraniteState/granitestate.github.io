@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2909.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2909",
+  "definition": "Definitions",
+  "effectiveDate": "2023-06-21",
+  "historyNote": "#10680, eff 10-2-14; ss by #13660, eff 6-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2909.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html",
+  "prefLabel": "Rev 2909.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2909.01 Definitions.\n\n(a) “Settlement agreement” means a written agreement between a taxpayer and the department’s collection’s division where the department agrees to accept some amount less than the full amount of taxes, interest, and penalties owed by the taxpayer to the department in full settlement of the taxpayer’s tax obligation to the department.\n\n(b) “Settlement agreement offer” means a taxpayer’s submission of a completed Form CD-410, “Settlement Agreement Offer”, to the department’s collection’s division in order to obtain a settlement agreement\n\nSource. #10680, eff 10-2-14; ss by #13660, eff 6-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2900.html"
+}

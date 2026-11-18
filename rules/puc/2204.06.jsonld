@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2204.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "53-E:7",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2204",
+  "definition": "Use of Electronic Data Interchange",
+  "effectiveDate": "2022-10-12",
+  "historyNote": "#13457, eff 10-12-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2204.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2200.html",
+  "prefLabel": "Puc 2204.06 Use of Electronic Data Interchange",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2204.06 Use of Electronic Data Interchange.\n\n(a) Prior to the mailing to customers required under RSA 53-E:7, III, each CPA planning to use a CEPS to serve CPA customer loads shall confirm with the CEPS and each utility serving the CPA service area the CEPS’s ability to use EDI for enrollment of default service customers in the CPA service area, excluding those that opt-out of the CPA, during the CPA commencement month.\n\n(b) Each CPA that will serve customer loads as an LSE, or its contracted service provider for customer enrollment, shall:\n\n(1) Apply to and successfully complete the testing required to use each utility’s EDI in the same manner and on the same terms as a CEPS; and\n\n(2) If the CPA will provide service on an opt-out basis, demonstrate the ability to use EDI for enrollment of default service customers in the CPA service area, excluding those customers that opt-out, during the CPA commencement month.\n\nSource. #13457, eff 10-12-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2200.html"
+}

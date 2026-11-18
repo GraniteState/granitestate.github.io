@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eth",
+  "@type": "Concept",
+  "agencyCode": "Eth",
+  "definition": "Executive Branch Ethics Committee (See RSA 21-G:32 pursuant to 2006, 21:3, effective 6-2-06.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/eth/100",
+    "https://granitestate.github.io/rules/eth/200"
+  ],
+  "notation": "Eth",
+  "prefLabel": "Eth Executive Branch Ethics Committee",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

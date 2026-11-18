@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/410",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "EXEMPTION FOR IMMPROVEMENTS TO ASSIST PERSONS WITH DISABILITIES",
+  "authority": [
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:37-b",
+      "source": "https://granitestate.github.io/rsa/72/72-37-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/72/72-37-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/400",
+  "definition": "EXEMPTION FOR IMPROVEMENTS TO ASSIST PERSONS WITH DISABILITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/410.01",
+    "https://granitestate.github.io/rules/rev/410.02",
+    "https://granitestate.github.io/rules/rev/410.03"
+  ],
+  "notation": "Rev 410",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 410 EXEMPTION FOR IMPROVEMENTS TO ASSIST PERSONS WITH DISABILITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 410 EXEMPTION FOR IMPROVEMENTS TO ASSIST PERSONS WITH DISABILITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

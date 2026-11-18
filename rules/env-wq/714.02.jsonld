@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/714.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/714",
+  "definition": "Trickling Filters: Size Requirements",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 714.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 714.02 Trickling Filters: Size Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 714.02 Trickling Filters: Size Requirements.\n\n(a) Trickling filters treating domestic wastes shall be sized according to Table 714-1 below, subject to the notes in (b) below:\n\nTable 714-1: Trickling Filter Design Criteria\n\nDesign Parameter | Roughing | Carbon Oxidizing (cBOD5 removal) | cBOD5 and Nitrification | Nitrification\n\nMedia typically used | Vertical Flow | Rock, cross-flow or vertical flow | Rock, cross-flow or vertical flow | Cross-flow\n\nMedia-specific surface area, sf/cf | 31 to 40 | 14 to 68 | 14 to 68 | 30 to 68\n\nWastewater Source | Primary effluent | Primary effluent | Primary effluent | Secondary effluent\n\nHydraulic loading, gpm/sf | 0.9 to 2.9 | 0.25 to 1.5 | 0.25 to 1.5 | 0.6 to 1.5\n\nLb BOD5/d-1000 cf | 100 to 220 | 20 to 60 | 5 to 15 | not applicable\n\nLb NH3 -N/d-1000 cf | not applicable | not applicable | 0.04 to 0.2 | 0.1 to 1.5\n\nEffluent quality, mg/L unless noted | 50 to 75% filtered cBOD5 conversion | 15 to 30 cBOD5 and TSS | <10 cBOD5 <3 NH3 –N A | 0.5 to 3 NH3 –N\n\nPredation | No appreciable growth | Beneficial | Detrimental (nitrifying biofilm) | Detrimental\n\nFilter flies | No appreciable growth | No appreciable growth | No appreciable growth | No appreciable growth\n\nDepth | 3 to 20 | 5 to 40 | 5 to 40 | 5 to 40\n\n(b) In Table 714-1, the letter “A” means the concentration remaining in the clarifier effluent stream.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

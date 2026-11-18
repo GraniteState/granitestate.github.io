@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/808.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-A/147-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/808",
+  "definition": "Transporter Requirements",
+  "effectiveDate": "2026-02-28",
+  "expirationDate": "2036-02-28",
+  "historyNote": "#5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #7578, eff 10-13-01; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12350, eff 8-14-17 (formerly Env-Hw 808.02); ss by #12922, eff 11-23-19; ss by #14526, eff 2-28-26, EXPIRES: 2-28-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 808.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw800.html",
+  "prefLabel": "Env-Hw 808.03 Transporter Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 808.03 Transporter Requirements. Any person who transports recyclable materials used for precious metal recovery shall comply with:\n\n(a) The notification requirements of Env-Hw 602;\n\n(b) The manifest requirements of Env-Hw 604;\n\n(c) The delivery requirements of Env-Hw 606;\n\n(d) The registration requirements of Env-Hw 609; and\n\n(e) For precious metals exported to or imported from other countries for recovery, 40 CFR 262 Subpart H and 40 CFR 265.12.\n\nSource. #5053, eff 1-24-91; ss by #5886, eff 8-26-94; ss by #7333, eff 8-1-00; ss by #7578, eff 10-13-01; ss by #9215, INTERIM, eff 8-1-08; ss by #9367, eff 1-28-09; ss by #12350, eff 8-14-17 (formerly Env-Hw 808.02); ss by #12922, eff 11-23-19; ss by #14526, eff 2-28-26, EXPIRES: 2-28-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw800.html"
+}

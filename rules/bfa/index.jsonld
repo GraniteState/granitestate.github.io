@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bfa",
+  "@type": "Concept",
+  "agencyCode": "Bfa",
+  "definition": "Business Finance Authority (Exempt from RSA 541-A since 10-1-97 pursuant to 1997, 329:12 and 1997, 329:16. See RSA 162-A:28, RSA 162-S:3, V, and RSA 541-A:21 , I(u) and (jj).) www.state.nh.us/bfa/bfa.htm",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bfa/100",
+    "https://granitestate.github.io/rules/bfa/200",
+    "https://granitestate.github.io/rules/bfa/300",
+    "https://granitestate.github.io/rules/bfa/400",
+    "https://granitestate.github.io/rules/bfa/500"
+  ],
+  "notation": "Bfa",
+  "prefLabel": "Bfa Business Finance Authority",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

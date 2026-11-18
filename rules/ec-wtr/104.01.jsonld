@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wtr/104.01",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wtr",
+  "authority": [
+    {
+      "citation": "21-O:7",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "91",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-7",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wtr/104",
+  "definition": "Request for Access to Records",
+  "effectiveDate": "2024-04-11",
+  "historyNote": "(See Revision Note at chapter heading for Ec-Wtr 100) #13923, eff 4-11-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wtr 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr100.html",
+  "prefLabel": "Ec-Wtr 104.01 Request for Access to Records",
+  "recordType": "rule-section",
+  "ruleText": "Ec-Wtr 104.01 Request for Access to Records.\n\n(a) Any person requesting access to council records under RSA 91-A shall direct a request as specified in (b) below.\n\n(b) A request to access council records shall be in writing and:\n\n(1) Identify as particularly as possible the information being sought;\n\n(2) Include a statement whereby the requestor agrees to pay a copying fee of $0.25 per page, if applicable; and\n\n(3) Be sent to the council secretary at the address specified in Ec-Wtr 103.01(a).\n\nSource. (See Revision Note at chapter heading for Ec-Wtr 100) #13923, eff 4-11-24\n\nAPPENDIX\n\nRule | Statute\n\nEc-Wtr 101 | RSA 21-O:7; RSA 21-O:14; RSA 541-A:16, I(a)\n\nEc-Wtr 102 | RSA 21-O:7; RSA 21-O:14; RSA 541-A:16, I(a)\n\nEc-Wtr 103 | RSA 21-O:7; RSA 21-O:14; RSA 541-A:16, I(a)\n\nEc-Wtr 104 | RSA 21-O:7; RSA 21-O:14; RSA 541-A:16, I(a); RSA 91‑A",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wtr100.html"
+}

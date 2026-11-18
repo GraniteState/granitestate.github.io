@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.10",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Class IV Source",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Class IV source",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.10); ss by #12473, eff 2-1-18 (formerly Puc 2502.09)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.10 Class IV source",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.10 “Class IV source” means a hydroelectric generation facility that began operation prior to January 1, 2006, that has a gross nameplate capacity of 5 megawatts or less, and that meets the requirements of RSA 362-F:4, IV.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.10); ss by #12473, eff 2-1-18 (formerly Puc 2502.09)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

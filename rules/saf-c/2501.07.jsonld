@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2501.07",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Lasting Medical Necessity",
+  "authority": [
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:61-a",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/260/260-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2501",
+  "definition": "Lasting medical necessity",
+  "effectiveDate": "2025-09-20",
+  "expirationDate": "2035-09-20",
+  "historyNote": "#14382, eff 9-20-25, EXPIRES: 9-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2501.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2500.html",
+  "prefLabel": "Saf-C 2501.07 Lasting medical necessity",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2501.07 “Lasting medical necessity” means after market tinting that will alleviate a medical condition defined in Saf-C 2501.08, the latter of which is likely to last for at least 4 years.\n\nSource. #14382, eff 9-20-25, EXPIRES: 9-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2500.html"
+}

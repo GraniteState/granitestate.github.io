@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7006",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-E:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:13-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7000",
+  "definition": "GAME OPERATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7006.01",
+    "https://granitestate.github.io/rules/lot/7006.02",
+    "https://granitestate.github.io/rules/lot/7006.03",
+    "https://granitestate.github.io/rules/lot/7006.04",
+    "https://granitestate.github.io/rules/lot/7006.05",
+    "https://granitestate.github.io/rules/lot/7006.06",
+    "https://granitestate.github.io/rules/lot/7006.07"
+  ],
+  "notation": "Lot 7006",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7000.html",
+  "prefLabel": "Lot 7006 GAME OPERATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7006 GAME OPERATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7000.html"
+}

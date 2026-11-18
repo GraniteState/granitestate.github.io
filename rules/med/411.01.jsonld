@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/411.01",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "altLabel": "Liability for Fines",
+  "authority": [
+    {
+      "citation": "329:2",
+      "paragraphs": [
+        "II(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "329:17",
+      "source": "https://granitestate.github.io/rsa/329/329-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329/329-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/411",
+  "definition": "Liability For Fines",
+  "effectiveDate": "2016-03-02",
+  "historyNote": "(See Revision Note #1 at chapter heading for Med 500) #8945, eff 7-18-07, EXPIRED: 7-18-15 New. #10925, INTERIM, eff 9-4-15, EXPIRES: 3-2-16; ss by #11048, eff 3-2-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 411.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 411.01 Liability For Fines",
+  "priorExpiration": "2016-03-02",
+  "recordType": "rule-section",
+  "ruleText": "Med 411.01 Liability For Fines.\n\n(a) Adjudicative procedures seeking the assessment of an administrative fine shall be commenced against any person subject to such fines or penalties under any provision of RSA 329:9, XV, when the board possesses evidence indicating that a violation has occurred.\n\nSource. (See Revision Note #1 at chapter heading for Med 500) #8945, eff 7-18-07, EXPIRED: 7-18-15\n\nNew. #10925, INTERIM, eff 9-4-15, EXPIRES: 3-2-16; ss by #11048, eff 3-2-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

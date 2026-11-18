@@ -1,0 +1,204 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/806.17",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "altLabel": "Patient Records",
+  "authority": [
+    {
+      "citation": "141-C",
+      "source": "https://granitestate.github.io/rsa/141-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-C:7",
+      "source": "https://granitestate.github.io/rsa/141-C/141-C-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:2",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151",
+      "source": "https://granitestate.github.io/rsa/151",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2",
+      "source": "https://granitestate.github.io/rsa/151/151-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:2-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:6-a",
+      "source": "https://granitestate.github.io/rsa/151/151-6-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:7-a",
+      "source": "https://granitestate.github.io/rsa/151/151-7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:8",
+      "source": "https://granitestate.github.io/rsa/151/151-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9",
+      "paragraphs": [
+        "I(a)",
+        "(f)",
+        "(h)",
+        "(l)",
+        "(o)"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:9-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/151/151-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:21-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "151:29",
+      "via": "appendix"
+    },
+    {
+      "citation": "155:66",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "155-A:10",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:46",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-F:49",
+      "via": "appendix"
+    },
+    {
+      "citation": "169-C",
+      "source": "https://granitestate.github.io/rsa/169-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "328",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430",
+      "source": "https://granitestate.github.io/rsa/430",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:29",
+      "paragraphs": [
+        "XXVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "430:33",
+      "source": "https://granitestate.github.io/rsa/430/430-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-C",
+    "https://granitestate.github.io/rsa/141-C/141-C-7",
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/151",
+    "https://granitestate.github.io/rsa/151/151-2",
+    "https://granitestate.github.io/rsa/151/151-6-a",
+    "https://granitestate.github.io/rsa/151/151-7-a",
+    "https://granitestate.github.io/rsa/151/151-8",
+    "https://granitestate.github.io/rsa/151/151-9",
+    "https://granitestate.github.io/rsa/151/151-21",
+    "https://granitestate.github.io/rsa/155-A/155-A-1",
+    "https://granitestate.github.io/rsa/155-A/155-A-10",
+    "https://granitestate.github.io/rsa/169-C",
+    "https://granitestate.github.io/rsa/430",
+    "https://granitestate.github.io/rsa/430/430-33",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/806",
+  "definition": "Personnel",
+  "effectiveDate": "2024-05-30",
+  "historyNote": "#9655, eff 2-13-10, EXPIRED: 2-13-18 New. #12674, INTERIM, eff 11-19-18, EXPIRED: 5-20-19 New. #12795, eff 5-30-19; ss by #13987, eff 5-30-24 (formerly He-P 806.16)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 806.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html",
+  "prefLabel": "He-P 806.17 Personnel",
+  "priorExpiration": "2019-05-20",
+  "recordType": "rule-section",
+  "ruleText": "He-P 806.17 Personnel.\n\n(a) Each NEWCC shall be staffed with at least one licensed practitioner on site during all hours of operation.\n\n(b) The licensee shall ensure that sufficient numbers of qualified personnel are present in the NEWCC to meet the needs of the patients at all times.\n\n(c) The licensee shall develop a job description for each position in the NEWCC containing:\n\n(1) Position title;\n\n(2) Duties of the position;\n\n(3) Physical requirements of the position; and\n\n(4) Qualifications and educational requirements of the position.\n\n(d) For all applicants for employment, for all volunteers, for all independent contractors who will provide direct care or personal care services to clients or who will be unaccompanied by an employee while performing non-direct care or non-personal care services within the facility, the licensee shall:\n\n(1) Obtain and review a criminal records check in accordance with RSA 151:2-d which shall include criminal history from the state of New Hampshire;\n\n(2) Review the results of the criminal records check in accordance with He-P 806.17(e);\n\n(3) Verify the qualifications and licenses, as applicable, of all applicants prior to employment; and\n\n(4) Verify that the applicant is not on the BEAS registry maintained by the department’s bureau of elderly and adult services in accordance with RSA 161-F:49.\n\n(e) Unless a waiver is granted in accordance with He-P 806.11 and He-P 806.17(f), the licensee shall not offer employment, contract with, or engage a person in He-P 806.17(d) if the person:\n\n(1) Has been convicted of any felony in this or any other state;\n\n(2) Has been convicted of a sexual assault, other violent crime, assault, fraud, theft, abuse, neglect, or exploitation in this or any other state;\n\n(3) Has had a finding by the department or any administrative agency in this or any other state for assault, fraud, theft, abuse, neglect, or exploitation of any person; or\n\n(4) Otherwise poses a threat to the health, safety, or well-being of patients.\n\n(f) If the information identified in (e) above regarding any person in (d) above is learned after the person is hired, contracted with, or engaged, the licensee shall immediately notify the department and either:\n\n(1) Cease employing, contracting with, or engaging the person; or\n\n(2) Request a waiver of (e) above.\n\n(g) If a waiver of (e) above is requested, the department shall review the information and the underlying circumstances in (e) above and shall either:\n\n(1) Notify the licensee that the person cannot or can no longer be employed, contracted with, or engaged by the licensee; or\n\n(2) Grant a waiver of (e) above if, after investigation, it determines that the person does not pose a current threat to the health, safety, or well-being of a patient(s).\n\n(h) The licensee shall check the names of the persons in He-P 806.17(d) against the bureau of elderly and adult services (BEAS) state registry, maintained pursuant to RSA 161-F:49, prior to employing, contracting with, or engaging them.\n\n(i) The licensee shall:\n\n(1) Not employ, contract with, or engage any person in (d) above who is listed on the BEAS state registry unless a waiver is granted by BEAS; and\n\n(2) Only employ, contract with, or engage board of nursing licensees who are listed on the licensing site with the NH board of nursing or are licensed with a reciprocal multi-compact state.\n\n(j) In lieu of (d) and (h) above, the licensee may accept from independent agencies contracted by the licensee or by an individual patient to provide direct care or personal care services a signed statement that the agency’s employees have complied with (d) and (h) above and do not meet the criteria in (e) above.\n\n(k) Prior to having contact with patients or food, personnel shall:\n\n(1) Receive a tour of the NEWCC;\n\n(2) Receive a copy of the job description for their position at the NEWCC containing:\n\na. Position title;\n\nb. Duties of the position;\n\nc. Physical requirements of the position; and\n\nd. Education and experience requirements of the position;\n\n(3) Meet the educational qualifications of the position as listed on their job description;\n\n(4) Be licensed, registered, or certified as required by state statute;\n\n(5) Receive an orientation prior to the assumption of duties that includes:\n\na. The NEWCC’s policy on patient rights and responsibilities and complaint procedures as required by RSA 151:20;\n\nb. The duties and responsibilities of the position they were hired for;\n\nc. The NEWCC’s policies, procedures, and guidelines;\n\nd. The NEWCC’s infection control program policies and procedures;\n\ne. The NEWCC’s fire, evacuation, and emergency plans which outline the responsibilities and educational requirements of personnel in an emergency;\n\nf. The mandatory reporting requirements such as RSA 161-F:46-48 and RSA 169-C:29-31;\n\ng. The NEWCC complaint procedures; and\n\nh. The medical emergency procedures;\n\n(6) Complete mandatory annual in-service education, which includes a review of the NEWCC’s:\n\na. Policies and procedures on patient rights and responsibilities, and complaints pursuant to RSA 151;\n\nb. Infection control program;\n\nc. Education program on fire, evacuation, and emergency procedures; and\n\nd. Mandatory reporting requirements such as RSA 161-F:46-48 and RSA 169-C:29-31;\n\n(7) Be at least 18 years of age unless they are:\n\na. A licensed nursing assistant working under the supervision of a registered nurse in accordance with RSA 326-B:13; or\n\nb. Part of an established educational program working under the supervision of a registered nurse;\n\n(8) Prior to contact with patients, submit to the NEWCC the results of a physical examination or pre-employment health screening performed by a licensed nurse or a licensed practitioner and submit to the licensee the results of a 2-step tuberculosis test, Mantoux method, or other method approved by the Centers for Disease Control, conducted not more than 12 months prior to employment;\n\n(9) Be allowed to work while waiting for the results of the second step of the TB test when the results of the first test are negative for TB; and\n\n(10) Comply with the requirements of the Centers for Disease control and Prevention “Guidelines for Preventing the Transmission of M. tuberculosis in Health-Care Settings” (2005 edition), available as noted in Appendix A, if the person has either a positive TB test, or has had direct contact or potential for occupational exposure to M. tuberculosis through shared air space with persons with infectious tuberculosis.\n\n(l) The licensee shall inform personnel of the line of authority at the NEWCC.\n\n(m) Current, separate, and complete employee files shall be maintained and stored in a secure and confidential manner in one location, for example, hospital human resources department or on site of NEWCC.\n\n(n) The licensee shall maintain a separate employee file for each employee, which shall include the following:\n\n(1) A completed application for employment or a resume;\n\n(2) Proof that the individual meets the minimum age requirements;\n\n(3) A signed statement by each individual acknowledging the receipt of the licensee’s policy setting forth the patient’s rights and responsibilities, and acknowledging training and implementation of the licensee’s policy as required by RSA 151:20;\n\n(4) A job description signed by the individual that identifies the:\n\na. Position title;\n\nb. Qualifications and experience; and\n\nc. Duties required by the position;\n\n(5) A record of satisfactory completion of the orientation program required by (k)(5) above;\n\n(6) A copy of each current New Hampshire license, registration, or certification in health care field and CPR certification, if applicable;\n\n(7) Documentation that the required physical examination, health screenings, TB test results, and radiology reports of chest x-rays, if required, have been completed by the appropriate health professionals;\n\n(8) Record of satisfactory completion of all required education programs and demonstrated competencies that are signed and dated by the employee;\n\n(9) Documentation of an annual performance review;\n\n(10) Information as to the general content and length of all in-service or educational programs attended;\n\n(11) A statement, which shall be signed at the time the initial offer of employment, contract, or engagement is made and then annually thereafter, stating that they:\n\na. Do not have a felony conviction in this or any other state;\n\nb. Have not been convicted of a sexual assault, other violent crime, assault, fraud, theft, abuse, neglect, or exploitation or pose a threat to the health, safety, or well-being of a patient in this or any other state; and\n\nc. Have not had a finding by the department or any administrative agency in this or any other state for assault, fraud, theft, abuse, neglect, or exploitation of any person in this or any other state;\n\n(12) Documentation of the criminal records check; and\n\n(13) The results of the registry checks in (h) above.\n\n(o) The licensee shall maintain the records, but not necessarily a separate file, for all volunteers and for all independent contractors who provide direct care or personal care services to patients or who will be unaccompanied by an employee while performing non-direct care or non-personal care services within the facility, as follows:\n\n(1) For volunteers, the information in He-P 806.17(n)(1), (2), (3), (5), (6), (7), (8), (11), (12) and (13); and\n\n(2) For independent contractors, the information in He-P 806.17(n)(2), (3), (5), (6), (7), (8), (11), (12), and (13), except that the letter in He-P 806.17(j) above may be substituted for (n) (12) and (13), if applicable.\n\n(p) An individual need not re-disclose any of the matters in He-P 806.17(e) if the documentation is available and the department has previously reviewed the material and granted a waiver so that the individual can continue employment.\n\n(q) Personnel shall not be impaired while on the job by any substances including, but not limited to, legally prescribed medication, therapeutic cannabis, or alcohol.\n\nSource. #9655, eff 2-13-10, EXPIRED: 2-13-18\n\nNew. #12674, INTERIM, eff 11-19-18, EXPIRED: 5-20-19\n\nNew. #12795, eff 5-30-19; ss by #13987, eff 5-30-24 (formerly He-P 806.16)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p800.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/203.02",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/203",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2007-03-25",
+  "historyNote": "#5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 203.02 Date of Issuance or Filing",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 203.02 Date of Issuance or Filing.\n\n(a) All orders, decisions, notices, or other written correspondence or documents issued by or at the direction of the department shall be deemed to have been issued on the date noted on the document.\n\n(b) All correspondence, petitions, applications, requests for findings of fact and conclusions of law, motions, requests for reconsideration, and any other written documents shall be deemed to have been filed with or received by the department on the actual date of receipt by the department, as evidenced by a date stamp placed on the document by the department in the normal course of business.\n\nSource. #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

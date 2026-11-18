@@ -1,0 +1,70 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3226",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:7",
+      "source": "https://granitestate.github.io/rsa/266/266-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "266:27",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3200",
+  "definition": "TRUCKS AND BUSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/3226.01",
+    "https://granitestate.github.io/rules/saf-c/3226.02",
+    "https://granitestate.github.io/rules/saf-c/3226.03",
+    "https://granitestate.github.io/rules/saf-c/3226.04",
+    "https://granitestate.github.io/rules/saf-c/3226.05",
+    "https://granitestate.github.io/rules/saf-c/3226.06",
+    "https://granitestate.github.io/rules/saf-c/3226.07",
+    "https://granitestate.github.io/rules/saf-c/3226.08",
+    "https://granitestate.github.io/rules/saf-c/3226.09",
+    "https://granitestate.github.io/rules/saf-c/3226.10",
+    "https://granitestate.github.io/rules/saf-c/3226.11",
+    "https://granitestate.github.io/rules/saf-c/3226.12",
+    "https://granitestate.github.io/rules/saf-c/3226.13",
+    "https://granitestate.github.io/rules/saf-c/3226.14",
+    "https://granitestate.github.io/rules/saf-c/3226.15",
+    "https://granitestate.github.io/rules/saf-c/3226.16",
+    "https://granitestate.github.io/rules/saf-c/3226.17",
+    "https://granitestate.github.io/rules/saf-c/3226.18",
+    "https://granitestate.github.io/rules/saf-c/3226.19",
+    "https://granitestate.github.io/rules/saf-c/3226.20",
+    "https://granitestate.github.io/rules/saf-c/3226.21",
+    "https://granitestate.github.io/rules/saf-c/3226.22",
+    "https://granitestate.github.io/rules/saf-c/3226.23",
+    "https://granitestate.github.io/rules/saf-c/3226.24",
+    "https://granitestate.github.io/rules/saf-c/3226.25",
+    "https://granitestate.github.io/rules/saf-c/3226.26",
+    "https://granitestate.github.io/rules/saf-c/3226.27",
+    "https://granitestate.github.io/rules/saf-c/3226.28",
+    "https://granitestate.github.io/rules/saf-c/3226.29"
+  ],
+  "notation": "Saf-C 3226",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3226 TRUCKS AND BUSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 3226 TRUCKS AND BUSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/201.05",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "altLabel": "Waivers and Suspension or Rules",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(j)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/201",
+  "definition": "Waivers and Suspension of Rules",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 201.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 201.05 Waivers and Suspension of Rules",
+  "recordType": "rule-section",
+  "ruleText": "Rko 201.05 Waivers and Suspension of Rules.\n\n(a) Upon the petition of any party or intervenor pursuant to Part Rko 223, or acting sua sponte, the ombudsman shall waive or suspend any provision of these rules if the ombudsman concludes that the waiver or suspension is necessary:\n\n(1) To comply with the law relative to the topics set forth in the matter;\n\n(2) To advance the purposes of RSA 91-A:7-b; or\n\n(3) To lend effect to the provisions of RSA 91-A.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1609.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Expiration of Facility Permit",
+  "authority": [
+    {
+      "citation": "483",
+      "source": "https://granitestate.github.io/rsa/483",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483",
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1609",
+  "definition": "Expiration of a Facility Permit",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1609.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html",
+  "prefLabel": "Env-Wq 1609.03 Expiration of a Facility Permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1609.03 Expiration of a Facility Permit.\n\n(a) A facility permit and any associated waivers issued or renewed by the department after December 31, 2023, shall expire 5 years from the date on which the permit is issued.\n\n(b) All facilities must submit a closure plan to the department no later than one year following the issuance or renewal of the permit and implement the approved closure plan no later than the date of the permit expiration.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html"
+}

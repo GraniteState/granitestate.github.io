@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/709.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Frequency of Standard Monitoring for Total Coliforms for CWS",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/709",
+  "definition": "Frequency of Standard Monitoring for Total Coliforms for Community Water Systems",
+  "effectiveDate": "2025-08-22",
+  "expirationDate": "2035-08-22",
+  "historyNote": "#9700, eff 5-1-10; ss by #10771, eff 2-1-15; ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 709.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 709.05 Frequency of Standard Monitoring for Total Coliforms for Community Water Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 709.05 Frequency of Standard Monitoring for Total Coliforms for Community Water Systems.\n\n(a) Subject to (b) below, and Env-Dw 709.06, the minimum number of total coliform samples taken per month by a CWS shall be based on the population served by the CWS, as specified in Table 709-1 below:\n\nTable 709-1: Frequency of Standard Sampling for CWSs\n\nPopulation Served Lower Limit Upper Limit | Minimum number of samples per month\n\n25 to 1,000 | 1\n\n1,001 to 2,500 | 2\n\n2,501 to 3,300 | 3\n\n3,301 to 4,100 | 4\n\n4,101 to 4,900 | 5\n\n4,901 to 5,800 | 6\n\n5,801 to 6,700 | 7\n\n6,701 to 7,600 | 8\n\n7,601 to 8,500 | 9\n\n8,501 to 12,900 | 10\n\n12,901 to 17,200 | 15\n\n17,201 to 21,500 | 20\n\n21,501 to 25,000 | 25\n\n25,001 to 33,000 | 30\n\n33,001 to 41,000 | 40\n\n41,001 to 50,000 | 50\n\n50,001 to 59,000 | 60\n\n59,001 to 70,000 | 70\n\n70,001 to 83,000 | 80\n\n83,001 to 96,000 | 90\n\n96,001 to 130,000 | 100\n\n130,001 to 220,000 | 120\n\n220,001 to 320,000 | 150\n\n320,001 to 450,000 | 180\n\n450,001 to 600,000 | 210\n\n600,001 to 780,000 | 240\n\n780,001 to 970,000 | 270\n\n970,001 to 1,230,000 | 300\n\n1,230,001 to 1,520,000 | 330\n\n1,520,001 to 1,850,000 | 360\n\n(b) The owner of a CWS for which the population varies seasonally, such as a community having a large influx of summer residents or a college community, shall average the daily population over each sampling period to determine the number of samples required in each sampling period.\n\nSource. #9700, eff 5-1-10; ss by #10771, eff 2-1-15; ss by 14343, eff 8-22-25, EXPIRES: 8-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

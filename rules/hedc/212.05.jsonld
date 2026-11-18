@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/212.05",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/212",
+  "definition": "Decision on Motion for Rehearing",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14403, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 212.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html",
+  "prefLabel": "Hedc 212.05 Decision on Motion for Rehearing",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 212.05 Decision on Motion for Rehearing. The commission shall grant or deny a motion for rehearing or suspend the order or decision pending further consideration within 10 days of the filing of the motion for rehearing.\n\nSource. #14403, eff 10-15-25\n\nAPPENDIX\n\nRule | Statute\n\nHedc 200 | RSA 541-A:16, I(b); RSA 541-A:30-a",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html"
+}

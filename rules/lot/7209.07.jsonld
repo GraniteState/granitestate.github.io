@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7209.07",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:6",
+      "paragraphs": [
+        "I(g)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:14",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:17",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:18",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7209",
+  "definition": "Accounting and Occurrence Meter Requirements",
+  "effectiveDate": "2026-02-04",
+  "expirationDate": "2036-02-04",
+  "historyNote": "#14341, EMERGENCY, eff 8-21-25; ss by #14503, eff 2-4-26, EXPIRES: 2-4-36 (formerly Lot 7209.03(l))",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7209.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7209.07 Accounting and Occurrence Meter Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7209.07 Accounting and Occurrence Meter Requirements.\n\n(a) Accounting meters and related reporting for EGDs shall track and comply with the following:\n\n(1) Coin in, which shall accumulate the total value of all wagers, whether the wagered amount results from the insertion of bills or vouchers or deduction from a credit meter;\n\n(2) Coin out, which shall accumulate the total value of all amounts directly paid by the EGD as a result of winning wagers, whether the payback is made to a credit meter or any other means;\n\n(3) Attendant paid jackpot, which shall accumulate the total value of credits paid by an attendant resulting from a single wager, the amount of which is not capable of being paid by the EGD itself;\n\n(4) Attendant paid canceled credit, which shall accumulate the total value paid by an attendant resulting from a patron-initiated cash-out that exceeds the physical or configured capability of the EGD to make the proper payout amount;\n\n(5) Bill in, which shall accumulate the total value of currency accepted. Each EGD shall have a specific occurrence meter for each denomination of currency accepted that records the number of bills accepted of each denomination;\n\n(6) Voucher in, which shall accumulate the total value of all vouchers accepted by the device;\n\n(7) Voucher out, which shall accumulate the total value of all vouchers issued by the device;\n\n(8) Cashless account transfer in, or wagering account transfer (WAT) in , which accumulates the total value of cashable credits electronically transferred to the gaming device from a wagering account by means of an external connection between the device and a cashless wagering system;\n\n(9) Cashless account transfer out, or WAT out, which shall accumulate the total value of cashable credits electronically transferred from the gaming device to a wagering account by means of an external connection between the device and a cashless wagering system;\n\n(10) Non-cashable electronic promotion (NCEP) in , which shall accumulate the total value of non-cashable credits electronically transferred to the gaming device from a promotional account by means of an external connection between the device and a cashless wagering system from vouchers accepted by the EGD;\n\n(11) Cashable electronic promotion (CEP) in , which shall accumulate the total value of cashable credits electronically transferred to the gaming device from a promotional account by means of an external connection between the device and cashless wagering system;\n\n(12) Non-cashable electronic promotion (NCEP) out , which shall accumulate the total value of non-cashable credits electronically transferred from the gaming device to a promotional account by means of an external connection between the device and a cashless wagering system;\n\n(13) Cashable electronic promotion (CEP) out , which shall accumulate the total value of cashable credits electronically transferred from the gaming device to a promotional account by means of an external connection between the device and a cashless wagering system;\n\n(14) Coupon promotion in, which shall accumulate the total value of all gaming device promotional non-cashable coupons accepted by the device;\n\n(15) Coupon cashable in, which shall accumulate the total value of all gaming device promotional cashable coupons accepted by the device; and\n\n(16) Coupon promotion out, which shall accumulate the total value of all gaming device promotional non-cashable coupons issued by the device.\n\n(b) Additional required occurrence meters shall be as follows:\n\n(1) Cashable promotional credits wagered, which shall accumulate the total value of promotional cashable credits that are wagered. This shall include credits that are transferred to the machine electronically or through the acceptance of a coupon or voucher;\n\n(2) Non-cashable promotional credits wagered, which shall accumulate the total value of promotional non-cashable credits that are wagered. This shall include credits that are transferred to the machine electronically or through the acceptance of a coupon or voucher;\n\n(3) Games wagered, which shall accumulate the number of wagers placed; and\n\n(4) Games won, which shall accumulate the number of wagers resulting in a win to the patron.\n\n(c) Electronic accounting meters shall maintain and calculate data to at least 10 digits in length.\n\n(d) Electronic accounting meters shall be maintained in credit units equal to the denomination or in dollars and cents.\n\n(e) If the electronic accounting meter is maintained in dollars and cents, 8 digits shall be used for the dollar amount and 2 digits shall be used for the cents amount.\n\n(f) Devices configured for multi-denomination wagers shall always display the units in dollars and cents.\n\n(g) Any time the meter exceeds a value it is not capable of supporting, the meter shall roll over to zero.\n\n(h) Occurrence meters shall be at least 8 digits in length but shall not be required to automatically roll over.\n\n(i) Meters shall be identified so that they can be clearly understood in accordance with their function.\n\n(j) Meters may be on the server instead of the EGD.\n\nSource. #14341, EMERGENCY, eff 8-21-25; ss by #14503, eff 2-4-26, EXPIRES: 2-4-36 (formerly Lot 7209.03(l))",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

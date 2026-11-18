@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4009.02 Member Claims Data Tables</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4009.02.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4009.html">Ins 4009</a> / Ins 4009.02</nav>
+  <header>
+    <h1 id="section">Ins 4009.02 Member Claims Data Tables</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4009.02.html">Ins 4009.02</a> Member Claims Data Tables.
+
+<span id="a">(a)</span> Medical Eligibility File Mapping and Format Information. Use Table 4009.07(b) to determine medical eligibility file mapping and formatting.
+
+<span id="b">(b)</span> Medical Claims File Header Record Layout:
+
+Table 4009.02(b) Medical Claims File Header Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+HD001 | Record Type | Text | 2 | HD
+
+HD002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+HD003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+HD004 | Type of File | Text | 2 | MC Medical Claims
+
+HD005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+HD006 | Period Ending Date | Number | 6 | End of paid period for claims or end of month covered for eligibility
+
+HD007 | Comments | Text | 80 | Submitter may use to document this submission by assigning a filename, system source, etc.
+
+<span id="c">(c)</span> Medical Claims Files Trailer Record Layout:
+
+Table 4009.02(c) Medical Claims File Trailer Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+TR001 | Record Type | Text | 2 | TR
+
+TR002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+TR003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+TR004 | Type of File | Text | 2 | MC Medical Claims
+
+TR005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+TR006 | Period Ending Date | Number | 6 | End of paid period for claims or beginning of month covered for eligibility
+
+TR007 | Extraction Date | Date | 8 | Date file was created
+
+TR008 | Record Count | Number | 10 (0) | Total number of records submitted in this file
+
+<span id="d">(d)</span> Medical Claims File Detailed Specifications:
+
+Table 4009.02(d) Medical Claims File Detailed Specifications
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+MC001 | Payer | Text | 8 | Payer submitting payments NHID Submitter Code
+
+MC002 | National Plan ID | Text | 30 | CMS National Plan ID
+
+MC003 | Insurance Type/Product Code | Text | 2 | Table 4009.6(a) Insurance Type/Product Code
+
+MC004 | Payer Claim Control Number | Text | 35 | Shall apply to the entire claim and be unique within the payer&#x27;s system
+
+MC005 | Line Counter | Text | 4 | Line number for this service. The line counter begins with 1 and is incremented by 1 for each additional service line of a claim
+
+MC005A | Version Number | Number | 4 (0) | Version number of this claim service line. The version number begins with 0 and is incremented by 1 for each subsequent version of that service line. There shall be only one version number per claim line. The most recent version of the claim shall have the highest version number.
+
+MC006 | Insured Group or Policy Number | Text | 50 | Group or policy number (not the number that uniquely identifies the subscriber)
+
+MC007 | Placeholder
+
+MC008 | Plan Specific Contract Number | Text | 50 | Plan assigned contract number. Leave blank if Plan Specific Contract If this is a Medicaid claim, provide Medicaid ID. Shall match the ID in ME009, PC008, and DC008
+
+MC009 | Member Suffix or Sequence Number | Text | 20 | Unique number of the member. This column is the unique identifying column for membership and related medical, pharmacy, and dental claims. Only 1 record per insurance product type, per eligibility month. Shall match ME010, PC009 and DC009.
+
+MC010 | Placeholder
+
+MC011 | Individual Relationship Code | Text | 2 | See Table 4009.06(b) Relationship Codes
+
+MC012 | Member Gender | Text | 1 | M Male
+
+F Female
+
+U Unknown
+
+O Other
+
+MC013 | Member Date of Birth | Date | 8 | Date of birth of member
+
+MC014 | Member City Name | Text | 30 | City name of member
+
+MC015 | Member State or Province | Text | 2 | As defined by the US Postal Service
+
+MC016 | Member ZIP Code | Text | 9 | ZIP Code of member – may include non- US codes. Do not include dash.
+
+MC017 | Paid Date (AP Date) | Date | 8 | Date the claim was adjudicated for reversals and denials Date the provider was paid via EFT or date the paper check was mailed for paid claims.
+
+MC018 | Admission Date | Date | 8 | Required for all inpatient claims.
+
+MC019 | Admission Hour | Text | 2 (0) | Required for all inpatient claims. Time is expressed in military time – HH
+
+MC020 | Admission Type | Text | 1 | Required for all inpatient claims (SOURCE: National Uniform Billing Data Element Specifications):
+
+1 = Emergency
+
+2 = Urgent
+
+3 = Elective
+
+4 = Newborn
+
+5 = Trauma Center
+
+9 = Information not available
+
+MC021 | Admission Source | Text | 1 | See Table 4009.06(h) Point of Origin Codes
+
+MC022 | Discharge Hour | Text | 2 (0) | Required for all inpatient claims. Time is expressed in military time – HH
+
+MC023 | Discharge Status | Text | 2 | See Table 4009.06(c): Discharge Status
+
+MC024 | Service Provider Number | Text | 30 | Payer assigned servicing provider number by the payer for internal identification purposes
+
+MC025 | Service Provider Tax ID Number | Text | 10 | Federal taxpayer’s identification number – if the tax id is a provider’s social security number, use ‘SSN’ and ‘NA’ if unavailable
+
+MC026 | National Service Provider ID | Text | 10 | Provider NPI.
+
+MC027 | Service Provider Entity Type Qualifier | Text | 1 | HIPAA provider taxonomy classifies provider groups (clinicians who bill as a group practice or under a corporate name, even if that group is composed of one provider) as “Person”.
+
+1 Person
+
+2 Non-Person Entity
+
+MC028 | Service Provider First Name | Text | 35 | Individual first name. Leave blank if provider is a facility or organization
+
+MC029 | Service Provider Middle Name | Text | 25 | Individual middle name or initial. Leave blank if provider is a facility or organization
+
+MC030 | Servicing Provider Last Name or Organization Name | Text | 60 | Report the name of the organization or last name of the individual provider. MC027 determines if this is an organization or Individual Name reported here.
+
+MC031 | Service Provider Suffix | Text | 10 | Suffix to individual name. Leave blank if provider is a facility or organization. Should be used to capture the generation of the individual clinician (e.g., Jr. Sr., III), if applicable, rather than the clinician’s degree [e.g., ‘MD’, ‘LICSW’].
+
+MC032 | Service Provider Specialty | Text | 10 | National Uniform Claims Committee (NUCC) standard code that defines this provider for this line of service. Taxonomy values allow for the reporting of nurses, assistants and laboratory technicians, where applicable, as well as Physicians, Medical Groups, Facilities, etc.
+
+MC033 | Service Provider City Name | Text | 30 | City name of rendering provider - practice location
+
+MC034 | Service Provider State | Text | 2 | As defined by the US Postal Service
+
+MC035 | Service Provider ZIP Code | Text | 9 | ZIP Code of provider - may include non-US codes.
+
+MC036 | Type of Bill – Institutional | Text | 3 | For facility claims only submitted using UB04 forms Type of Facility - First Digit
+
+1 Hospital
+
+2 Skilled Nursing
+
+3 Home Health
+
+4 Christian Science Hospital
+
+5 Christian Science Extended Care
+
+6 Intermediate Care
+
+7 Clinic
+
+8 Special Facility
+
+Bill Classification - Second Digit if First Digit = 1-6
+
+1 Inpatient (Including Medicare Part A)
+
+2 Inpatient (Medicare Part B Only)
+
+3 Outpatient
+
+4 Other (for hospital referenced diagnostic services
+
+or home health not under a plan of treatment)
+
+5 Nursing Facility Level I
+
+6 Nursing Facility Level II
+
+7 Intermediate Care - Level III Nursing Facility
+
+8 Swing Beds
+
+Bill Classification - Second Digit if First Digit = 7
+
+1 Rural Health
+
+2 Hospital Based or Independent Renal Dialysis Center
+
+3 Free Standing Outpatient Rehabilitation Facility (ORF)
+
+5 Comprehensive Outpatient Rehabilitation Facility (ORF)
+
+6 Community Mental Health Center
+
+9 Other
+
+Bill Classification – Second Digit if First Digit = 8
+
+1 Hospice (Non Hospital Based)
+
+2 Hospice (Hospital-Based)
+
+3 Ambulatory Surgery Center
+
+4 Free Standing Birthing Center
+
+9 Other
+
+Frequency – Third Digit
+
+0 Non-Payment/Zero
+
+1 Admit Through Discharge
+
+2 Interim – First Claim
+
+3 Interim - Continuing Claims
+
+4 – Interim – Last Claim
+
+5 – Late Charge Only
+
+7 – Replacement of Prior Claim
+
+8 – Void/Cancel of a Prior Claim
+
+9 – Final Claim for a Home Health PPS Episode
+
+MC037 | Place of Service – Professional | Text | 2 | For professional claims only, such as those submitted using CMS1500 forms See Table 4009.06(f) Place of Service -- Professional
+
+MC038 | Service Line Status | Text | 2 | Describes the payment status of the specific service line record
+
+01 Processed as primary
+
+02 Processed as secondary
+
+03 Processed as tertiary
+
+04 Denied
+
+06 Approved as amended
+
+19 Processed as primary, forwarded to additional payer(s)
+
+20 Processed as secondary, forwarded to additional payer(s)
+
+21 Processed as tertiary, forwarded to additional payer(s)
+
+22 Reversal of previous payment
+
+26 Documentation Claim – No Payment Associated
+
+28 Repriced
+
+MC039 | Admitting Diagnosis | Text | 7 | ICD-CM Diagnosis Codes. Required on all inpatient admission claims and encounters. Do not include decimals.
+
+MC040 | E-Code | Text | 7 | ICD-CM Diagnosis Codes. Describes an injury, poisoning or adverse effect ICD-CM.
+
+MC041 | Principal Diagnosis | Text | 7 | ICD-CM Diagnosis Codes. Principal Diagnosis should be the principal diagnosis given on the claim header. Do not include decimals.
+
+MC042 | Other Diagnosis -1 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC043 | Other Diagnosis -2 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC044 | Other Diagnosis -3 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC045 | Other Diagnosis -4 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC046 | Other Diagnosis -5 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC047 | Other Diagnosis -6 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC048 | Other Diagnosis -7 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC049 | Other Diagnosis -8 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC050 | Other Diagnosis -9 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC051 | Other Diagnosis -10 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC052 | Other Diagnosis -11 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC053 | Other Diagnosis -12 | Text | 7 | ICD-CM Diagnosis Codes. Do not include decimals.
+
+MC054 | Revenue Code | Text | 4 | National Uniform Billing Committee Codes. Code using leading zeroes, left-justified, and four digits.
+
+MC055 | Procedure Code | Text | 5 | Health Care Common Procedural Coding System (HCPCS). This includes the CPT codes of the American Medical Association
+
+MC056 | Procedure Modifier – 1 | Text | 2 | Procedure modifier required when a modifier clarifies/improves the reporting accuracy of the associated procedure code
+
+MC057 | Procedure Modifier – 2 | Text | 2 | Procedure modifier required when a modifier clarifies/improves the reporting accuracy of the associated procedure code
+
+MC058 | ICD-9/10-CM Procedure Code | Text | 7 | Primary ICD-9/10-CM code given on the claim header.
+
+MC059 | Date of Service – From | Date | 8 | First date of service for this service line.
+
+MC060 | Date of Service – Thru | Date | 8 | Last date of service for this service line
+
+MC061 | Quantity | Number | 12 (0) | Count of services performed.
+
+MC062 | Charge Amount | Number | 10 (2) | The full, undiscounted total and service-specific charges billed by the provider. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC063 | Paid Amount | Number | 10 (2) | Includes any withhold amounts. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC064 | Fee for Service Equivalent | Number | 10 (2) | For capitated services, the fee for service equivalent amount.
+
+MC065 | Copay Amount | Number | 10 (2) | The preset, fixed dollar amount for which the individual is responsible. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC066 | Coinsurance Amount | Number | 10 (2) | Coinsurance, dollar amount. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC067 | Deductible Amount | Number | 10 (2) | Amount in dollars met by the patient/family in a deductible plan. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC068 | Patient Account/Control Number | Text | 20
+
+MC069 | Discharge Date | Date | 8 | Required for all inpatient(s)
+
+MC070 | Service Provider Country Name | Text | 30
+
+MC071 | DRG | Text | 7 | Carriers, pharmacy benefit managers, and third-party administrators shall code using the CMS methodology when available. Precedence shall be given to DRGs transmitted from the hospital provider. When the CMS methodology for DRGs is not available, but the All Payer DRG system is available, then that system shall be used. If the All Payer DRG system is used, the carrier shall format the DRG and the complexity level within the same field with an &quot;A&quot; prefix, and with a hyphen separating the DRG and the complexity level (e.g. AXXX-XX)
+
+MC072 | DRG Version | Text | 2 | This element is the version number of the grouper used.
+
+MC073 | APC | Text | 4 | Carriers, pharmacy benefit managers, and third-party administrators shall code using CMS methodology. Precedence shall be given to APCs transmitted from the health care provider
+
+MC074 | APC Version | Text | 2 | This element is the version number of the grouper used
+
+MC075 | Drug Code | Text | 11 | NDC Code Used only when a medication is paid for as part of a medical claim. The NDC shall be the 11 digit code with no dashes. The NDC shall be reported when a HCPCS J code (MC055) is reported for hospital administered drugs.
+
+MC076 | Billing Provider Number | Text | 30 | Payer assigned billing provider number. This number should be the identifier used by the payer for internal identification purposes and does not routinely change
+
+MC077 | National Billing Provider Number ID | Text | 10 | This is the NPI for the billing provider
+
+MC078 | Billing Provider Organization or Last Name | Text | 60
+
+MC101 | Subscriber Last Name | Text | 60
+
+MC102 | Subscriber First Name | Text | 35
+
+MC103 | Subscriber Middle Initial | Text | 1
+
+MC104 | Member Last Name | Text | 60
+
+MC105 | Member First Name | Text | 35
+
+MC106 | Member Middle Initial | Text | 1
+
+MC200 | ICD Indicator | Text | 1 | Report the value that defines whether the diagnoses on claim are ICD9 or ICD10.
+
+0 ICD-9
+
+1 ICD-10
+
+MC202 | Other ICD-CM Procedure Code - 2 | Text | 7 | ICD Secondary Procedure Code
+
+MC203 | Other ICD-CM Procedure Code - 3 | Text | 7 | ICD Secondary Procedure Code
+
+MC204 | Other ICD-CM Procedure Code - 4 | Text | 7 | ICD Secondary Procedure Code
+
+MC205 | Other ICD-CM Procedure Code - 5 | Text | 7 | ICD Secondary Procedure Code
+
+MC206 | Other ICD-CM Procedure Code - 6 | Text | 7 | ICD Secondary Procedure Code
+
+MC207 | Carrier Identifier | Text | 20 | If you are a TPA that processes claims and are submitting files on behalf of a carrier, indicate the carrier name here. Shall use the full legal name of company, no acronyms. Else, leave blank.
+
+MC208 | Carrier Plan Specific Contract Number | Text | 128 | When a TPA processes claims on behalf of the carrier, for each claim, report the carrier specific contract number. Optional if all medical claims processed by a TPA under contract to a carrier for carved-out services are submitted by the carrier with unified member IDs in all files.
+
+MC209 | Practitioner Group Practice | Text | 60 | Name of group practice to which a practitioner is affiliated if different from MC078
+
+MC210 | Coordination of Benefits/Third Party Liability Amount | Number | 10 (2) | Coordination of Benefits (COB)/Third Party Liability (TPL) is the dollar amount paid from a prior payer (e.g. auto claim, workers comp, dual medical coverage). Report 0 if there is no COB/TPL amount. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC211 | Cross Reference Claims ID | Text | 35 | The original Payer Claim Control Number (MC004). Used when a new Payer Claim Control Number is assigned to an adjusted claim and a Version Number (MC005A) is not used.
+
+MC212 | Allowed Amount | Number | 10 (2) | Report the maximum dollar amount contractually allowed and that a carrier will pay to a provider for a particular procedure or service. This will vary by provider contract and most often it is less than or equal to the fee charged by the provider. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+MC215 | Service Line Type | Text | 1 | Report the code that defines the claim line status in terms of adjudication
+
+O Original
+
+V Void
+
+R Replacement
+
+B Back Out
+
+A Amendment
+
+MC216 | Payment Arrangement Type | Text | 1 | Defines the contracted payment methodology for this claim line
+
+1 Capitation
+
+2 Fee for service
+
+3 Percent of charges
+
+4 DRG
+
+5 Pay for Performance
+
+6 Global Payment
+
+7 Other
+
+8 Bundled payment
+
+MC217 | Pay for Performance Flag | Text | 1 | Does this provider have pay-for-performance bonuses or year-end withhold returns based on performance for at least one service performed by this provider within the month? Required when MP005 = 1, 2, or 3
+
+Y: Yes
+
+N: No
+
+MC218 | Claim Processing Level Indicator | Text | 1 | 1 Claim Level
+
+2 Service Line level
+
+MC219 | Denied Claim Indicator | Text | 1 | 1 Fully Paid – the entire claim was paid at the allowed amount
+
+2 Partially denied – some of the claims lines were paid at the allowed amount
+
+3 Encounter claim – this claim records a service provided that is paid under a non Fee For Service (FFS) payment arrangement such as capitation
+
+4 No payment – no payment made for reasons other than non FFS payment arrangement
+
+MC220 | Denial Reason | Text | 4 | Denial reason code. Required when Service Line Status (MC038) = 2 or 4. The denial reason code must correspond with federal CARC/RARC codes. See <a class="cite-internal" href="/rules/ins/4008.04.html">Ins 4008.04</a>
+
+MC221 | Procedure Modifier – 3 | Text | 2 | Procedure modifier required when a modifier clarifies/improves the reporting accuracy of the associated procedure code
+
+MC222 | Procedure Modifier – 4 | Text | 2 | Procedure modifier required when a modifier clarifies/improves the reporting accuracy of the associated procedure code
+
+MC223 | HIOS Plan ID | Text | 16 | The 16 character HIOS Plan ID (Standard component), including a 5 digit issuer ID, 2 character state ID, 3 digit product number, 4 digit standard component number, and 2 digit variant component ID. This field may not be available for all market segments. Leave blank if not available
+
+MC899 | Record Type | Text | 2 | MC
+
+MC900 | In Network Indicator | Text | 1 | A yes/no indicator that specifies that the provider (not the benefit) is within the health plan network. Valid codes: Y=Yes, N=No
+
+MC901 | Unit of Measure | Text | 2 | Type of units reported in MC061. Codes accepted DA=days, MN=minutes, UN=units. If MC061 is not reported, MC901=NA
+
+MC902 | Claim Source | Text | 1 | What form the claim was received in: E: Electronic P: Paper
+
+MC903 | Claim Received Date | Date | 8 | Date that the claim was received from the provider and it shall be in CCYYMMDD format.
+
+MC904 | Insurance Group Name | Text | 30 | Name of the Insurance Group whose Insured Group or Policy Number was listed in MC006. The name shall match ME032
+
+MC905 | Prior Authorization | Text | 1 | If that claim required a prior authorization Y: Yes N: No
+
+MC906 | TPA Identifier | Text | 20 | If you are a carrier whose claims were processed by a TPA and you are submitting the files, please indicate the TPA here. The full legal name of company, no acronyms shall be used. Else, leave blank.
+
+Source. #10877, eff 7-10-15; ss by #13136, eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4010.02)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4009.02.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

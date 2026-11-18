@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/604",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "21-M:8-j",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/600",
+  "definition": "FORMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/604.01",
+    "https://granitestate.github.io/rules/jus/604.02",
+    "https://granitestate.github.io/rules/jus/604.03",
+    "https://granitestate.github.io/rules/jus/604.04",
+    "https://granitestate.github.io/rules/jus/604.05",
+    "https://granitestate.github.io/rules/jus/604.06",
+    "https://granitestate.github.io/rules/jus/604.07",
+    "https://granitestate.github.io/rules/jus/604.08",
+    "https://granitestate.github.io/rules/jus/604.09",
+    "https://granitestate.github.io/rules/jus/604.10",
+    "https://granitestate.github.io/rules/jus/604.11",
+    "https://granitestate.github.io/rules/jus/604.12"
+  ],
+  "notation": "Jus 604",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 604 FORMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 604 FORMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/alc/104.01",
+  "@type": "Concept",
+  "agencyCode": "Alc",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/alc/104",
+  "definition": "Office Location, Mailing Address, Telephone and Fax Numbers",
+  "effectiveDate": "2026-06-01",
+  "historyNote": "#8169, eff 9-21-04; ss by 9417, eff 3-14-09; ss by #14585, eff 6-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Alc 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html",
+  "prefLabel": "Alc 104.01 Office Location, Mailing Address, Telephone and Fax Numbers",
+  "recordType": "rule-section",
+  "ruleText": "Alc 104.01 Office Location, Mailing Address, Telephone and Fax Numbers.\n\n(a) The board’s office location and mailing address is:\n\nBoard of Licensing for Alcohol and Other Drug Use Professionals\n\n7 Eagle Square\n\nConcord, NH 03301\n\n(b) The board’s telephone number is 603-271-2152.\n\n(c) Access for in-state TTY/TDD users is through Relay New Hampshire by dialing 711 or by dialing 1-800-735-2964.\n\n(d) Correspondence, filings, and other communications intended for the board shall be mailed to the attention of the “Board of Licensing for Alcohol and Other Drug Use Professionals” at the address in paragraph (a).\n\nSource. #8169, eff 9-21-04; ss by 9417, eff 3-14-09; ss by #14585, eff 6-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html"
+}

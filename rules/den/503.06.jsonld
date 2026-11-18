@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/503.06",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "VI",
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:41",
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12",
+    "https://granitestate.github.io/rsa/318-B/318-B-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/503",
+  "definition": "Medication Assisted Treatment",
+  "effectiveDate": "2025-03-07",
+  "historyNote": "#11130, eff 6-29-16; ss by #12061, eff 1-1-17; renumbered by #12167, eff 3-7-25 (formerly Den 503.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 503.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 503.06 Medication Assisted Treatment",
+  "recordType": "rule-section",
+  "ruleText": "Den 503.06 Medication Assisted Treatment. Prescribing licensees who prescribe medication assisted treatment shall adhere to the principles outlined in the American Society of Addiction Medicine’s National Practice Guideline For the Use of Medications in the Treatment of Addiction Involving Opioid Use (2015) found at http://www.asam.org/quality-practice/guidelines-and-consensus-documents/npg/complete-guideline as cited in Appendix II.\n\nSource. #11130, eff 6-29-16; ss by #12061, eff 1-1-17; renumbered by #12167, eff 3-7-25 (formerly Den 503.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

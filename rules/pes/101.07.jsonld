@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.07",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "altLabel": "Common Chemical Name",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "Common chemical name",
+  "effectiveDate": "1996-05-02",
+  "historyNote": "#4867, eff 7-19-90; ss by #4867, eff 7-19-90; ss and moved by #6239, eff 5-2-96 (from Pes 101.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 101.07 Common chemical name",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.07 \"Common chemical name\" means a well-known, simple name of a pesticide accepted by the pesticide regulation division of the Environmental Protection Agency or those adopted by the American National Standards Institute (ANSI).\n\nSource. #4867, eff 7-19-90; ss by #4867, eff 7-19-90; ss and moved by #6239, eff 5-2-96 (from Pes 101.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

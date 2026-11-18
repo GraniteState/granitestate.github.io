@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.27",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Land Use Regulations and Ordinances",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:16",
+      "source": "https://granitestate.github.io/rsa/674/674-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:21",
+      "source": "https://granitestate.github.io/rsa/674/674-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:35",
+      "source": "https://granitestate.github.io/rsa/674/674-35",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:43",
+      "source": "https://granitestate.github.io/rsa/674/674-43",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/674/674-16",
+    "https://granitestate.github.io/rsa/674/674-21",
+    "https://granitestate.github.io/rsa/674/674-35",
+    "https://granitestate.github.io/rsa/674/674-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Land use regulations and ordinances",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.27",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.27 Land use regulations and ordinances",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.27 “Land use regulations and ordinances” means rules regulating how land might be used, including, but is not limited to, zoning ordinances adopted pursuant to RSA 674:16, innovative land use controls adopted pursuant to RSA 674:21, subdivision regulations adopted pursuant to RSA 674:35, and site plan regulations adopted pursuant to RSA 674:43.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

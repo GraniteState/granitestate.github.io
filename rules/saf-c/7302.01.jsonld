@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7302.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "altLabel": "Allowable Costs",
+  "authority": [
+    {
+      "citation": "21-G:9",
+      "paragraphs": [
+        "II(b)",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-G/21-G-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-G/21-G-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7302",
+  "definition": "Allowable costs",
+  "historyNote": "(See Revision Note at chapter heading for Saf-C 5900) #13168, 2-19-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7302.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7300.html",
+  "prefLabel": "Saf-C 7302.01 Allowable costs",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7302.01 “Allowable costs” means funds provided to local government to assist with exceptional costs due to the presidentially declared disaster identified in the preliminary damage assessment (PDA) completed by the state and the Federal Emergency Management Agency (FEMA) for that particular disaster declaration.\n\nSource. (See Revision Note at chapter heading for Saf-C 5900) #13168, 2-19-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7300.html"
+}

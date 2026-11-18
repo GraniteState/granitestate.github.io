@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fors",
+  "@type": "Concept",
+  "agencyCode": "Fors",
+  "definition": "Board of Licensing for Foresters",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fors/100",
+    "https://granitestate.github.io/rules/fors/200",
+    "https://granitestate.github.io/rules/fors/300",
+    "https://granitestate.github.io/rules/fors/400",
+    "https://granitestate.github.io/rules/fors/500"
+  ],
+  "notation": "Fors",
+  "prefLabel": "Fors Board of Licensing for Foresters",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

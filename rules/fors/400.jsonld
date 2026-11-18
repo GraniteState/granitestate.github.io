@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fors/400",
+  "@type": "Concept",
+  "agencyCode": "Fors",
+  "authority": [
+    {
+      "citation": "310-A:102",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:108",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:109",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:110",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/fors",
+  "definition": "CONTINUED STATUS, LICENSEE DISCIPLINE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fors/401",
+    "https://granitestate.github.io/rules/fors/402",
+    "https://granitestate.github.io/rules/fors/403"
+  ],
+  "notation": "Fors 400",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html",
+  "prefLabel": "Fors 400 CONTINUED STATUS, LICENSEE DISCIPLINE",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Fors 400 CONTINUED STATUS, LICENSEE DISCIPLINE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html"
+}

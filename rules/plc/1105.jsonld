@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1105",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-H:8",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-H:9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1100",
+  "definition": "CONTINUED STATUS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1105.01",
+    "https://granitestate.github.io/rules/plc/1105.02",
+    "https://granitestate.github.io/rules/plc/1105.03",
+    "https://granitestate.github.io/rules/plc/1105.04",
+    "https://granitestate.github.io/rules/plc/1105.05",
+    "https://granitestate.github.io/rules/plc/1105.06",
+    "https://granitestate.github.io/rules/plc/1105.07",
+    "https://granitestate.github.io/rules/plc/1105.08"
+  ],
+  "notation": "Plc 1105",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html",
+  "prefLabel": "Plc 1105 CONTINUED STATUS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1105 CONTINUED STATUS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html"
+}

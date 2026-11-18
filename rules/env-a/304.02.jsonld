@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/304.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/304",
+  "definition": "Determination of Attainment of SO2 Standards",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#120, eff 8-31-73; ss by #721.3, eff 12-7-75; ss by #1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 304.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 304.02 Determination of Attainment of SO2 Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 304.02 Determination of Attainment of SO2 Standards. The department shall determine attainment of the primary and secondary standards for SO2 specified in Env-A 304.01 as follows:\n\n(a) The primary ambient air quality standard for SO2 shall be deemed to be attained when the 3-year average of the annual 99th percentile of the daily maximum 1-hour average concentrations, as determined in accordance with 40 CFR 50 Appendix T, is less than or equal to 75 ppb; and\n\n(b) The secondary ambient air quality standard for SO2 shall be deemed to be attained when the 3-hour average concentration exceeds 0.5 ppm not more than once per calendar year.\n\nSource. #120, eff 8-31-73; ss by #721.3, eff 12-7-75; ss by #1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90; ss by #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

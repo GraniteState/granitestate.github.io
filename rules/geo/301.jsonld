@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/geo/301",
+  "@type": "Concept",
+  "agencyCode": "Geo",
+  "authority": [
+    {
+      "citation": "310-A:121",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:124",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:125",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-125",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-125"
+  ],
+  "broader": "https://granitestate.github.io/rules/geo/300",
+  "definition": "APPLICATION REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/geo/301.01",
+    "https://granitestate.github.io/rules/geo/301.02"
+  ],
+  "notation": "Geo 301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html",
+  "prefLabel": "Geo 301 APPLICATION REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Geo 301 APPLICATION REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/geo100-500.html"
+}

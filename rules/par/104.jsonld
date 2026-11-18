@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/104",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/par/100",
+  "definition": "RECORDS OF THE ADULT PAROLE BOARD",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/104.01",
+    "https://granitestate.github.io/rules/par/104.02",
+    "https://granitestate.github.io/rules/par/104.03",
+    "https://granitestate.github.io/rules/par/104.04",
+    "https://granitestate.github.io/rules/par/104.05"
+  ],
+  "notation": "Par 104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 104 RECORDS OF THE ADULT PAROLE BOARD",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 104 RECORDS OF THE ADULT PAROLE BOARD",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

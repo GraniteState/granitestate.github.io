@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3205.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-J:2-a",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3205",
+  "definition": "Allowance Allocation Methodology",
+  "effectiveDate": "2026-06-25",
+  "expirationDate": "2036-06-25",
+  "historyNote": "#11001, eff 1-1-16; ss by #14632, eff 6-25-26, EXPIRES: 6-25-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3205.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html",
+  "prefLabel": "Env-A 3205.03 Allowance Allocation Methodology",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3205.03 Allowance Allocation Methodology.\n\n(a) By April 30 of each year, the department shall calculate NOx allowance allocations for each budget source for each subsequent control period in accordance with (c), (d), (e), and (f) below.\n\n(b) The department shall submit to the NATS administrator the NOx allowance allocations for the control period that is one year after the applicable deadline for submission.\n\n(c) To calculate the number of allowances to be allocated to electric generation budget sources for the purposes of (d) below, the following shall apply:\n\n(1) EO(y-2) means a unit’s EO in MWh for the control period 2 years prior to y;\n\n(2) EO(y-3) means a unit’s EO in MWh for the control period 3 years prior to y;\n\n(3) TO(y-2) means a unit’s TO in MMBtuout for the control period 2 years prior to y;\n\n(4) TO(y-3) means a unit’s TO in MMBtuout for the control period 3 years prior to y;\n\n(5) UAA(y) means a unit’s allocation for year y adjusted so the total control period allocation does not exceed the NOx budget; and\n\n(6) UUA(y) means a unit’s unadjusted allocation for year y.\n\n(d) To calculate the adjusted allocation for electric generation budget sources, for each control period:\n\n(1) The unit’s average EO in MW-hrs for the control periods 2 and 3 years prior to the current control period shall be multiplied by 1.5 lbs per MW-hr and divided by 2,000 lb/ton and added to the unit’s average TO in MMBtu for the control periods 2 and 3 years prior to the current control period multiplied by 0.22 lb/MMBtu and divided by 2,000 lb/ton to calculate the unit’s unadjusted allocation for the current control period, as in the formula below:\n\nUUA(y) = ((EO(y-2) + EO(y-3))/2) x 1.5 lbs/MW-hr) + ((TO(y-2) + TO(y-3))/2) x 0.22 lb/MMBtu)\n\n2,000 lb/ton 2,000 lb/ton\n\n(2) The product, as calculated in (d)(1) above, shall be multiplied by 2,400 and divided by the sum of all budget sources’ unadjusted allocations, as in the formula below:\n\nUAA(y) = UUA(y) x 2,400\n\nsum of all budget sources’ UUA(y)\n\n(e) The department shall determine heat input in accordance with Env-A 3210 and 40 CFR 75, Appendix F.\n\n(f) Using the best available data as reported by the budget source to the Energy Information Administration and to the department no later than April 15 of each year, the department shall determine the net thermal and electric output for the budget source.\n\nSource. #11001, eff 1-1-16; ss by #14632, eff 6-25-26, EXPIRES: 6-25-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html"
+}

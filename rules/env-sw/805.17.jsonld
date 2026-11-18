@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/805.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/805",
+  "definition": "Vertical Expansion of Landfills",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 805.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 805.17 Vertical Expansion of Landfills",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 805.17 Vertical Expansion of Landfills.\n\n(a) No permit or permit modification shall be granted for vertical expansion of a landfill, as defined in Env-Sw 104.61 unless:\n\n(1) The existing landfill is equipped with a liner system meeting the requirements of Env-Sw 805;\n\n(2) The proposed vertical expansion incorporates a liner system meeting the requirements of Env-Sw 805 over the existing landfill; or\n\n(3) For landfills receiving MSW, the existing landfill is equipped with a double liner system permitted prior to the 2024 readoption of this chapter, and there is no evidence of release(s) of contaminants through the liner system(s) to the environment or other damage to the liner system(s).\n\n(b) Stability and settlement assessments required pursuant to Env-Sw 805.11 shall be performed, at a minimum, for the existing landfill prior to vertical expansion, for the combined existing landfill and vertical expansion during construction and operation, and for the combined existing landfill and vertical expansion at full capacity.\n\nSource. #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

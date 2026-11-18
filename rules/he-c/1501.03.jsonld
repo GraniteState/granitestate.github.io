@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c/1501.03",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "authority": [
+    {
+      "citation": "126:25",
+      "source": "https://granitestate.github.io/rsa/126/126-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126:27",
+      "source": "https://granitestate.github.io/rsa/126/126-27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126/126-25",
+    "https://granitestate.github.io/rsa/126/126-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-c/1501",
+  "definition": "Licensed Health Care Facilities Required to Submit Discharge Data Sets",
+  "effectiveDate": "2022-04-20",
+  "historyNote": "#4074, eff 6-27-86; EXPIRED 6-27-92 New. #5844, eff 7-1-94, EXPIRED: 7-1-00 New. # 9436, eff 3-21-09, EXPIRED: 3-21-17 New. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17 New. #13369, eff 4-20-22 (formerly He-C 1503.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-C 1501.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html",
+  "prefLabel": "He-C 1501.03 Licensed Health Care Facilities Required to Submit Discharge Data Sets",
+  "priorExpiration": "2017-09-18",
+  "recordType": "rule-section",
+  "ruleText": "He-C 1501.03 Licensed Health Care Facilities Required to Submit Discharge Data Sets. All hospital-based health care facilities defined in He-C 1501.02(g) shall be required to submit discharge data sets for all inpatient discharges and outpatient encounters.\n\nSource. #4074, eff 6-27-86; EXPIRED 6-27-92\n\nNew. #5844, eff 7-1-94, EXPIRED: 7-1-00\n\nNew. # 9436, eff 3-21-09, EXPIRED: 3-21-17\n\nNew. #12139, INTERIM, eff 3-22-17, EXPIRED: 9-18-17\n\nNew. #13369, eff 4-20-22 (formerly He-C 1503.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-c1500.html"
+}

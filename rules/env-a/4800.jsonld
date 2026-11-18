@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4800",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:29",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "CARBON DIOXIDE (CO2) ALLOWANCE AUCTION PROGRAM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4801",
+    "https://granitestate.github.io/rules/env-a/4802",
+    "https://granitestate.github.io/rules/env-a/4803",
+    "https://granitestate.github.io/rules/env-a/4804",
+    "https://granitestate.github.io/rules/env-a/4805"
+  ],
+  "notation": "Env-A 4800",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html",
+  "prefLabel": "Env-A 4800 CARBON DIOXIDE (CO2) ALLOWANCE AUCTION PROGRAM",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 4800 CARBON DIOXIDE (CO2) ALLOWANCE AUCTION PROGRAM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html"
+}

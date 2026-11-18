@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/315.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/315",
+  "definition": "Applicability",
+  "effectiveDate": "2024-11-23",
+  "expirationDate": "2034-11-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #12404, eff 10-21-17; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 315.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html",
+  "prefLabel": "Env-Sw 315.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 315.01 Applicability.\n\n(a) Except as specified in (b) and (c), below, this part shall apply to modifying facility permits issued pursuant to RSA 149-M and the solid waste rules, including action to transfer a permit and renew an expiring permit.\n\n(b) This part shall not apply to:\n\n(1) Transferring a permit-by-notification, as specified by Env-Sw 311.02(c);\n\n(2) Permit modifications initiated by the department pursuant to Env-Sw 306; or\n\n(3) General permits established pursuant to Env-Sw 308.\n\n(c) A permit-by-notification shall not be modified, except if the modification is a type III or type V modification pursuant to (d) below or a permit transfer pursuant to Env-Sw 1202.06(d). Any other modification of a permit-by-notification facility shall be authorized only by issuance of a new permit-by-notification for the modified facility.\n\n(d) Only the following types of modifications are applicable to a permit-by-notification:\n\n(1) Type III modifications identified in Env-Sw 315.02(d)(2), (6), (8), and (9); and\n\n(2) Type V modifications identified in Env-Sw 315.02(f).\n\nSource. (See Revision Note #1 at chapter heading for Env-Sw 300) #8462-B, eff 10-28-05; ss by #10595, eff 7-1-14; ss by #12404, eff 10-21-17; ss by #14124, eff 11-23-24, EXPIRES: 11-23-34 (see Revision Note #2 at chapter heading for Env-Sw 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw300.html"
+}

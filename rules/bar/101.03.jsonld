@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/101.03",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/101",
+  "definition": "Appliance",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "(See Revision Note #1 at chapter heading for Bar 100) #6046-a, eff 6-1-95, EXPIRED: 6-1-03 New. #7932, eff 8-3-03; ss by #10412-A, eff 9-19-13; renumbered by #13810 (formerly Bar 101.03); renumbered by #14459, eff 1-1-26 (formerly Bar 101.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 101.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 101.03 Appliance",
+  "priorExpiration": "2003-06-01",
+  "recordType": "rule-section",
+  "ruleText": "Bar 101.03 “Appliance” means a barbering, cosmetology, esthetics, or manicuring device that is operated by electricity, such as a curling iron or electric clipper.\n\nSource. (See Revision Note #1 at chapter heading for Bar 100) #6046-a, eff 6-1-95, EXPIRED: 6-1-03\n\nNew. #7932, eff 8-3-03; ss by #10412-A, eff 9-19-13; renumbered by #13810 (formerly Bar 101.03); renumbered by #14459, eff 1-1-26 (formerly Bar 101.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

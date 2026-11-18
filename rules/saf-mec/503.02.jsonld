@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/503.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "153:28",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-28"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/503",
+  "definition": "Calculation of Inspection Fees and Re-Inspection Fees",
+  "effectiveDate": "2015-07-01",
+  "historyNote": "#10849, eff 7-1-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-Mec 503.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec500.html",
+  "prefLabel": "Saf-Mec 503.02 Calculation of Inspection Fees and Re-Inspection Fees",
+  "recordType": "rule-section",
+  "ruleText": "Saf-Mec 503.02 Calculation of Inspection Fees and Re-Inspection Fees.\n\n(a) The inspection fee shall be calculated on the basis of the total contracted cost of repairing or installing the fuel gas fitting or plumbing to be inspected, including the cost of the equipment installed or being installed, whether or not such equipment is provided by the fuel gas fitter or plumber doing the work.\n\n(b) The fee shall be calculated by using the steps in (c) below, provided that it shall not be less than $75.00.\n\n(c) The calculations of the inspections shall be:\n\n(1) The first $0.01 to $100,000.00 of the total contracted cost shall be multiplied by 1.2%;\n\n(2) The next $100,000.01 to $300,000.00 of the total contracted cost shall be multiplied by 0.5%, with the resultant number added to the sum calculated in accordance with (c)(1); and\n\n(3) The next $300,000.01 and higher of the total contracted cost shall be multiplied by 0.3%, with the resultant number added to the sums calculated in accordance with (c)(1) and (c)(2).\n\n(d) The fee for a re-inspection shall be 10% of the fee calculated in accordance with (c) above, provided that the fee shall not be less than $100.00 nor more than $500.00.\n\nSource. #10849, eff 7-1-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec500.html"
+}

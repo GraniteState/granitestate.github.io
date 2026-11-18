@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/8001",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:2",
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/8000",
+  "definition": "MINIMUM STANDARDS FOR FAMILY AND MEDICAL LEAVE WAGE REPLACEMENT COVERAGE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/8001.01",
+    "https://granitestate.github.io/rules/ins/8001.02",
+    "https://granitestate.github.io/rules/ins/8001.03",
+    "https://granitestate.github.io/rules/ins/8001.04",
+    "https://granitestate.github.io/rules/ins/8001.05",
+    "https://granitestate.github.io/rules/ins/8001.06",
+    "https://granitestate.github.io/rules/ins/8001.07",
+    "https://granitestate.github.io/rules/ins/8001.08",
+    "https://granitestate.github.io/rules/ins/8001.09",
+    "https://granitestate.github.io/rules/ins/8001.10"
+  ],
+  "notation": "Ins 8001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins8000.html",
+  "prefLabel": "Ins 8001 MINIMUM STANDARDS FOR FAMILY AND MEDICAL LEAVE WAGE REPLACEMENT COVERAGE",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 8001 MINIMUM STANDARDS FOR FAMILY AND MEDICAL LEAVE WAGE REPLACEMENT COVERAGE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins8000.html"
+}

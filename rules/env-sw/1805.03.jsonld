@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1805.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:32",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1805",
+  "definition": "Requests for Certificate of Compliance",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.03); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1805.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html",
+  "prefLabel": "Env-Sw 1805.03 Requests for Certificate of Compliance",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1805.03 Requests for Certificate of Compliance.\n\n(a) Requests for copies of certificates of compliance shall be made in accordance with RSA 149-M:39.\n\n(b) The manufacturer or supplier who receives a request for a certificate of compliance in accordance with RSA 149-M:39 shall provide a copy of the written request to the department with the copy of its response required by RSA 149-M:39.\n\nSource. #7343, eff 8-12-00; (See Revision Note at chapter heading for Env-Sw 1800); ss by #8459, eff 10-28-05 (formerly Env-Wm 3505.03); ss by #10601, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1800.html"
+}

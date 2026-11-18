@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/304.03",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:3",
+      "source": "https://granitestate.github.io/rsa/77-A/77-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "77-A:15",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/77-A/77-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/304",
+  "definition": "Payroll Factor",
+  "effectiveDate": "2025-04-03",
+  "expirationDate": "2035-04-03",
+  "historyNote": "#2012, eff 5-5-82; ss by #2722, eff 5-23-84; ss by #4192, eff 12-23-86; ss by #5490, eff 10-19-92; ss by #6853, eff 9-23-98; ss by #8709, eff 8-25-06 (formerly Rev 304.04); ss by #10758, eff 1-16-15; ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 304.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html",
+  "prefLabel": "Rev 304.03 Payroll Factor",
+  "recordType": "rule-section",
+  "ruleText": "Rev 304.03 Payroll Factor.\n\n(a) The total amount of compensation paid to employees shall be determined based on:\n\n(1) The basis of the business organization's method of accounting; or\n\n(2) The wages reported on the various state unemployment tax returns.\n\n(b) The method selected under paragraph (a), above, shall be used in a consistent manner.\n\n(c) Business organizations making a change under (a), above, from one method to another, shall make all adjustments required in order to prevent the inclusion of the identical wages in the payroll factor for more than one taxable period.\n\n(d) An employer and employee relationship shall exist before compensation is included in the payroll apportionment factor.\n\n(e) The employer and employee relationship shall exist when the individual for whom the services are to be performed has the right to:\n\n(1) Control and direct the individual performing the activities in areas greater than the overall results of the work; or\n\n(2) Determine the methods and individuals used in performing the activity.\n\n(f) Payment made to, or on behalf of, independent contractors shall not be includible in a business organization's payroll apportionment factor.\n\n(g) A designation of employee or independent contractor adopted by the individuals but not factually supported shall not change the relationship that actually exists for purposes of RSA 77-A:3, I(a)(1)(B).\n\n(h) Business organizations includible in a combined group shall eliminate all intergroup payments for the use of another group member's employees with only the compensation actually paid to the employee being included.\n\n(i) An employee's compensation shall be included in a state's numerator when:\n\n(1) The employee's base of operations is located in that state;\n\n(2) The employee's activities are controlled from within that state in instances where there is no base of operations; or\n\n(3) That state is the employee's state of residency in instances where:\n\na. There is no base of operations; and\n\nb. The location from which the employee's activities are controlled cannot be determined.\n\nSource. #2012, eff 5-5-82; ss by #2722, eff 5-23-84; ss by #4192, eff 12-23-86; ss by #5490, eff 10-19-92; ss by #6853, eff 9-23-98; ss by #8709, eff 8-25-06 (formerly Rev 304.04); ss by #10758, eff 1-16-15; ss by #14231, eff 4-3-25, EXPIRES 4-3-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev300.html"
+}

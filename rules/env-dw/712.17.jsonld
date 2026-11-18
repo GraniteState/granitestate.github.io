@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/712.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/712",
+  "definition": "PCB Monitoring",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.16)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 712.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 712.17 PCB Monitoring",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 712.17 PCB Monitoring.\n\n(a) The O/O of a CWS or NTNC that is vulnerable to PCB contamination due to the current or historical presence of electrical transformers in which PCBs may be present shall collect one sample from the source during the pump test required by Env-Dw 301 or Env-Dw 302, as applicable, and analyze each sample using method 505 or 508 specified in 40 CFR 141.24.\n\n(b) If PCBs, as one of 7 Aroclors, are detected in an initial pump test sample, the O/O shall reanalyze the sample using method 508A specified in 40 CFR 141.24.\n\n(c) The department shall determine compliance with the PCB MCL based on the quantitative results of analyses using method 508A.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.16)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

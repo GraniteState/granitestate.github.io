@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/722.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/722",
+  "definition": "Best Available Technology (BAT) for Microbiological",
+  "effectiveDate": "2019-06-28",
+  "historyNote": "#10617, eff 6-1-14; ss by #12820, eff 6-28-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 722.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 722.01 Best Available Technology (BAT) for Microbiological",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 722.01 Best Available Technology (BAT) for Microbiological.\n\n(a) The best available technology (BAT), treatment techniques, or other means available for achieving compliance with the total coliform rules as specified in Env-Dw 702 shall be as specified in 40 CFR 141.63(e) and (f).\n\n(b) The granting of an exemption from the requirements of Env-Dw 716 concerning surface water filtration and disinfection shall be as specified in 40 CFR 141.170(d) as incorporated by reference at Env-Dw 716.08(a) and 40 CFR 141.500(b) as incorporated by reference at Env-Dw 716.08(b).\n\nSource. #10617, eff 6-1-14; ss by #12820, eff 6-28-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

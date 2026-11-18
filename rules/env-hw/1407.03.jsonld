@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1407.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "I",
+        "IV",
+        "VI",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:14",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-14",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1407",
+  "definition": "Allowable Processing Activities",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1407.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html",
+  "prefLabel": "Env-Hw 1407.03 Allowable Processing Activities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1407.03 Allowable Processing Activities.\n\n(a) A used oil transporter may consolidate or aggregate loads of used oil for purposes of transportation.\n\n(b) Except as provided in (c), below, a used oil transporter shall not process used oil unless the transporter also complies with the requirements for used oil processor/re-refiners in Env-Hw 1408.\n\n(c) A used oil transporter shall not be subject to the requirements for used oil processor/re-refiners in Env-Hw 1408 for conducting the following activities:\n\n(1) Incidental processing operations during the normal course of used oil transportation, including settling and water separation, but that are not designed to produce, or make used oil more amenable for production of, used oil derived products; or\n\n(2) Transporting used oil that is removed from oil bearing electrical transformers and turbines and filtered by the transporter or at a transfer facility prior to being returned to its original use.\n\nSource. #14282, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1400.html"
+}

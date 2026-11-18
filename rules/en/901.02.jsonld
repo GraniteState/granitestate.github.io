@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/901.02",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/901",
+  "definition": "Applicability",
+  "effectiveDate": "2026-04-27",
+  "expirationDate": "2036-04-27",
+  "historyNote": "#14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 901.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html",
+  "prefLabel": "En 901.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "En 901.02 Applicability.\n\n(a) Where expressly noted, the provisions of En 900 shall apply only to customer-generators subject to the standard net metering tariff or only to customer-generators subject to the alternative net metering tariff as outlined by the commission.\n\n(b) Interconnection of net metering customer-generators shall be governed by the rules established in En 1000.\n\n(c) Unless otherwise noted, En 900 shall be applicable to rural electric cooperatives for which a certificate of deregulation is on file with the commission with respect to customer-generators subject to the standard net metering tariff up to 3.16 megawatt (MW).\n\nSource. #14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hum/220.01",
+  "@type": "Concept",
+  "agencyCode": "Hum",
+  "authority": [
+    {
+      "citation": "354-A:21",
+      "paragraphs": [
+        "II(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/354-A/354-A-21",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/354-A/354-A-21",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hum/220",
+  "definition": "Scheduling",
+  "effectiveDate": "2007-02-03",
+  "expirationDate": "2015-02-03",
+  "historyNote": "(See Revision Note at chapter heading for Hum 200) #8814, eff 2-3-07, EXPIRED: 2-3-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hum 220.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hum100-300.html",
+  "prefLabel": "Hum 220.01 Scheduling",
+  "recordType": "rule-section",
+  "ruleText": "Hum 220.01 Scheduling.\n\n(a) After a complaint is filed, commission staff shall establish deadline(s) for submission by the parties of the statements and documents described in Hum 207.01 and Hum 207.02.\n\n(b) The deadline(s) established pursuant to (a) above shall be within 6 weeks of the date(s) of the request(s) for the statements and documents.\n\n(c) The investigator shall schedule all interviews with parties and witnesses and the submission of additional information and documents during the investigation.\n\nSource. (See Revision Note at chapter heading for Hum 200) #8814, eff 2-3-07, EXPIRED: 2-3-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hum100-300.html"
+}

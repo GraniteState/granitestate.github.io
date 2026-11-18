@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/juv/201.09",
+  "@type": "Concept",
+  "agencyCode": "Juv",
+  "authority": [
+    {
+      "citation": "169-B:34",
+      "source": "https://granitestate.github.io/rsa/169-B/169-B-34",
+      "via": "appendix"
+    },
+    {
+      "citation": "170-G:8-a",
+      "source": "https://granitestate.github.io/rsa/170-G/170-G-8-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "170-H:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/169-B/169-B-34",
+    "https://granitestate.github.io/rsa/170-G/170-G-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/juv/201",
+  "definition": "Hearings Closed to Public",
+  "effectiveDate": "2003-03-06",
+  "historyNote": "(See Revision Note at chapter heading for Juv 200) #7843-A, eff 3-6-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Juv 201.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html",
+  "prefLabel": "Juv 201.09 Hearings Closed to Public",
+  "recordType": "rule-section",
+  "ruleText": "Juv 201.09 Hearings Closed to Public.\n\n(a) Hearings shall not be open to the public, pursuant to RSA 169-B:34 and 35 and RSA 170-G:8-a.\n\n(b) The hearing officer or presiding officer shall exclude witnesses from the hearing room when they are not testifying if the presence of the witness in the hearing room will jeopardize the credibility of the witness.\n\nSource. (See Revision Note at chapter heading for Juv 200) #7843-A, eff 3-6-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html"
+}

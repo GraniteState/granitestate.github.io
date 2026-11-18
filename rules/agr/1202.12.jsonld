@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1202.12",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "435:21",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "435:23",
+      "source": "https://granitestate.github.io/rsa/435/435-23",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/435/435-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1202",
+  "definition": "Veterinary Feed Directive",
+  "effectiveDate": "2019-05-23",
+  "historyNote": "#12788, eff 5-23-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1202.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1200.html",
+  "prefLabel": "Agr 1202.12 Veterinary Feed Directive",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1202.12 Veterinary Feed Directive.\n\n(a) Under the authority provided by RSA 435:27, manufacturers of animal feeds shall comply with the definitions of animal drugs for use in animal feeds as published in the Title 21, Code of Federal Regulations, §558.3(b).\n\n(b) Under the authority provided by RSA 435:27, manufacturers of animal feeds shall comply with requirements prescribing veterinary feed directive drugs as published in Title 21, Code of Federal Regulations, §558.6.\n\nSource. #12788, eff 5-23-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1200.html"
+}

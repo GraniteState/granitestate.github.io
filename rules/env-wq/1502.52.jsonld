@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1502.52",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Public Water System",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1502",
+  "definition": "Public water system",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.44); renumbered by #13758 (formerly Env-Wq 1502.51); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; renumbered by #14656, eff 8-6-26, EXPIRES: 8-6-36 (formerly Env-Wq 1502.50)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1502.52",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1502.52 Public water system",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1502.52 “Public water system” means “public water system” as defined in RSA 485:1-a, XV, as reprinted in Appendix C.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.44); renumbered by #13758 (formerly Env-Wq 1502.51); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; renumbered by #14656, eff 8-6-26, EXPIRES: 8-6-36 (formerly Env-Wq 1502.50)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

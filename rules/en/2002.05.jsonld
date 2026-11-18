@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/2002.05",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/2002",
+  "definition": "Applicant",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 2002.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html",
+  "prefLabel": "En 2002.05 Applicant",
+  "recordType": "rule-section",
+  "ruleText": "En 2002.05 “Applicant” means any person or entity who has filed an application for registration or renewal as a CEPS or an aggregator with the department pursuant to En 2003.\n\nSource. #14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec/105.01",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "authority": [
+    {
+      "citation": "319-C:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "319-C:6-a",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/elec/105",
+  "definition": "Meetings",
+  "effectiveDate": "2019-03-07",
+  "historyNote": "#10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13; ss by #12735, eff 3-7-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Elec 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html",
+  "prefLabel": "Elec 105.01 Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Elec 105.01 Meetings. Regular meetings shall be held at least 4 times each year. Special meetings shall be called by order of the chairperson or secretary. Each member of the board shall be notified in writing of each meeting and such notice shall contain the place, date, time, and subject of the meeting. Notice of meetings shall be posted at the board office and on the board website, located at https://www.oplc.nh.gov/electricians/index.htm.\n\nSource. #10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13; ss by #12735, eff 3-7-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html"
+}

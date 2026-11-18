@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/202.02",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "184:87",
+      "via": "appendix"
+    },
+    {
+      "citation": "184:90-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "184:91",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/202",
+  "definition": "Notice of Hearing",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 202.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 202.02 Notice of Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Mil 202.02 Notice of Hearing. The notice commencing a hearing shall contain the following:\n\n(a) A statement of the time, place, and nature of the hearing;\n\n(b) A statement of the legal authority under which the hearing is to be held;\n\n(c) A reference to particular statutes and rules involved, including this chapter;\n\n(d) A short and plain statement of the issues presented; and\n\n(e) A statement that each party has the right to have an attorney present to represent the party at the party’s expense.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

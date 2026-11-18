@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/8008",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:12",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "284:13",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/8000",
+  "definition": "ARCI STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/8008.01",
+    "https://granitestate.github.io/rules/lot/8008.02",
+    "https://granitestate.github.io/rules/lot/8008.03"
+  ],
+  "notation": "Lot 8008",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html",
+  "prefLabel": "Lot 8008 ARCI STANDARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 8008 ARCI STANDARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html"
+}

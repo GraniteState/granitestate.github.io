@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Calculation of Emission Standard for Sources Complying with VOC RACT Using Either a Bubble or Add-On Controls",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#6087, eff 8-31-95 (formerly Env-A 804.05); ss by #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.07 Calculation of Emission Standard for Sources Complying with VOC RACT Using Either a Bubble or Add-On Controls",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.07 Calculation of Emission Standard for Sources Complying with VOC RACT Using Either a Bubble or Add-On Controls. For a coating source that uses add-on control equipment or a bubble to achieve compliance with Env-A 1200, the overall emission standard shall be calculated as follows:\n\n(a) “Pounds VOC per gallon of solids, emission standard (S)” means the VOC emission standard in terms of lb VOC/gal of coating solids, or kg VOC/l of coating solids, as applied;\n\n(b) “Pounds VOC per gallon of coating, emission standard (Ec)” means the VOC emission standard in terms of lb VOC/gal of coating, or kg VOC/l of coating, as applied, minus water and exempt compounds, obtained from the appropriate section of Env-A 1200;\n\n(c) “dA” means the actual mass density of the VOC in the applied surface coating formulation in terms of lb/gal or kg/l. For those stationary sources that have multiple coating lines feeding the add-on control equipment, dA means the weighted average actual mass density of the VOC in the applied surface coatings in terms of lb/gal or kg/l; and\n\n(d) S shall be equal to Ec divided by the difference between one and the quotient of Ec and dA, as in the following equation:\n\nSource. #6087, eff 8-31-95 (formerly Env-A 804.05); ss by #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

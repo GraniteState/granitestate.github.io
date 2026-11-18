@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/203.04",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "76:1-a",
+      "source": "https://granitestate.github.io/rsa/76/76-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:16",
+      "source": "https://granitestate.github.io/rsa/76/76-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:16-a",
+      "source": "https://granitestate.github.io/rsa/76/76-16-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/76/76-1-a",
+    "https://granitestate.github.io/rsa/76/76-16",
+    "https://granitestate.github.io/rsa/76/76-16-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/203",
+  "definition": "Filing Deadlines in Property Tax Appeals",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#2256, eff 1-2-83; ss by #2943, eff 12-31-84; EXPIRED: 12-31-90 New. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 203.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 203.04 Filing Deadlines in Property Tax Appeals",
+  "priorExpiration": "1990-12-31",
+  "recordType": "rule-section",
+  "ruleText": "Tax 203.04 Filing Deadlines in Property Tax Appeals.\n\n(a) The filing deadlines for property tax appeals shall be as stated in RSA 76:16 and RSA 76:16-a.\n\n(b) An abatement application filed with a municipality or an appeal document filed with the board shall be untimely if it is filed:\n\n(1) After the statutory deadlines; or\n\n(2) On or before the notice of tax date.\n\n(c) The board shall not extend statutory timelines except as stated in (d) below, and the board shall dismiss appeals when the abatement application was not timely filed with the municipality. In accordance with Appeal of Gillin, 132 N.H. 311, 313 (1989) and Daniel v. B & J Realty, 134 N.H. 174, 176 (1991), taxpayers shall timely file an abatement application as a jurisdictional prerequisite for the board to hear the appeal.\n\n(d) If a taxpayer's abatement application was untimely filed, the board shall treat the abatement application as timely filed only if the taxpayer demonstrates all of the following:\n\n(1) The municipality supplied the taxpayer with the incorrect filing deadline;\n\n(2) The taxpayer was unaware of the correct filing deadline;\n\n(3) The municipality should have known the taxpayer would rely on the municipality's information; and\n\n(4) The taxpayer detrimentally relied on the municipality's information such as missing the deadline for filing the abatement application with the municipality in accordance with City of Concord v. Tompkins, 124 N.H. 463, 467-68 (1984).\n\nSource. #2256, eff 1-2-83; ss by #2943, eff 12-31-84; EXPIRED: 12-31-90\n\nNew. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

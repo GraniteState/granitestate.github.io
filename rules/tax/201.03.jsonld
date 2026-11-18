@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.03",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "21:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "21:35",
+      "source": "https://granitestate.github.io/rsa/21/21-35",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:28-b",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:16-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "80:55",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/80/80-55",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21/21-35",
+    "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+    "https://granitestate.github.io/rsa/80/80-55"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Computation of Time",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#2256, eff 1-2-83; ss by #2943, eff 12-31-84; amd by #4589, eff 3-24-89; ss by #5638, eff 9-1-93; amd by #6762, eff 7-1-98; amd by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.03 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.03 Computation of Time.\n\n(a) In computing any period of time prescribed or allowed by these rules and any statute governing the board, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, a federal or state legal holiday, or any day on which the filing office, whether the board or a municipality’s office, is officially closed for the day or not open during the office’s normal hours in accordance with RSA 21:35, RSA 21-J:28-b, VII, RSA 76:16-e, and RSA 80:55, III.\n\n(b) Upon determination of accident, mistake, or misfortune, the board shall order the period enlarged for complying with deadlines imposed by these rules or board order. Unless authorized by statute, the board shall not enlarge time periods prescribed by statute.\n\n(c) Unless otherwise specified by law, rule, or order, when a party is required to act within a certain number of days, that period shall begin on the day after the clerk's certification date written on the order or on the day after the date written on any other communication from the board in accordance with RSA 21:35. The date a party receives the order or other communication shall not be the starting date. The clerk shall mail all orders or other communications on the date indicated on the document.\n\n(d) If a document, tax appeal, or abatement application is filed and the envelope in which the document was sent is not available to review the cancellation mark or the cancellation mark is illegible, the document shall be treated as having been mailed 3 days before its receipt by the board unless there is evidence showing a different mailing date in accordance with RSA 80:55, I(b).\n\nSource. #2256, eff 1-2-83; ss by #2943, eff 12-31-84; amd by #4589, eff 3-24-89; ss by #5638, eff 9-1-93; amd by #6762, eff 7-1-98; amd by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

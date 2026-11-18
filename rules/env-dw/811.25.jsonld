@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.25",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Converting MCL Water Quality Compliance Values",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12675, eff 1-1-19; amd by #12838, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.25 Converting MCL Water Quality Compliance Values",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.25 Converting MCL Water Quality Compliance Values.\n\n(a) The MCL, MRDL, MCLG, and MRDLG for a contaminant shall be expressed in identical units as a number equal to or greater than 1.0, as specified in table 811-2, below, subject to the notes in (b), below:\n\nTable 811-2: Converting MCL Water Quality Compliance Values\n\nContaminant | Traditional MCL in compliance units (mg/L) | To convert to a whole number, Multiply by ... | MCL in CCR units | MCLG in Whole Numbers\n\nMicrobiological Contaminants\n\nTotal Coliform Bacteria | TT | TT | 0\n\nTurbidity | TT | TT (NTU) | n/a\n\nE. coli | Routine and repeat samples are total coliform-positive and either is E. coli-positive or system fails to take repeat samples following E. coli-positive routine sample or system fails to analyze total coliform-positive repeat sample for E. coli | Routine and repeat samples are total coliform-positive and either is E. coli-positive or system fails to take repeat samples following E. coli-positive routine sample or system fails to analyze total coliform-positive repeat sample for E. coli | 0\n\nTotal Organic Carbon | TT | TT (ppm) | n/a\n\nRadioactive Contaminants\n\nBeta/photon emitters | 4 mrem/yr | 4 mrem/yr | 0\n\nAlpha emitters | 15 pCi/L | 15 pCi/L | 0\n\nCombined radium | 5 pCi/L | 5 pCi/L | 0\n\nUranium | 30 ug/L | 30 ug/L | 0\n\nInorganic Contaminants\n\nAntimony | 0.006 | 1,000 | 6 ppb | 6\n\nArsenic | 0.010 | 1,000 | 10 ppb | 0\n\nAsbestos | 7 MFL | 7 MFL | 7\n\nBarium | 2 | 2 ppm | 2\n\nBeryllium | 0.004 | 1,000 | 4 ppb | 4\n\nBromate | 0.010 | 1,000 | 10 ppb | 0\n\nCadmium | 0.005 | 1,000 | 5 ppb | 5\n\nChloramines | MRDL = 4 | MRDL = 4 ppm | MRDLG = 4\n\nChlorine | MRDL = 4 | MRDL = 4 ppm | MRDLG = 4\n\nChlorine dioxide | MRDL = 0.8 | 1,000 | MRDL = 800 ppb | MRDLG = 800\n\nChlorite | 1 | 1 ppm | 0.8\n\nChromium | 0.1 | 1,000 | 100 ppb | 100\n\nCopper | AL=1.3 | AL=1.3 ppm | 1.3\n\nCyanide | 0.2 | 1,000 | 200 ppb | 200\n\nFluoride | 4.0 | 4.0 ppm | 4.0\n\nLead | AL=0.015 | 1,000 | AL=15 ppb | 0\n\nMercury (inorganic) | 0.002 | 1,000 | 2 ppb | 2\n\nNitrate (as Nitrogen) | 10 | 10 ppm | 10\n\nNitrite (as Nitrogen) | 1 | 1 ppm | 1\n\nSelenium | 0.05 | 1,000 | 50 ppb | 50\n\nThallium | 0.002 | 1,000 | 2 ppb | 0.5\n\nSynthetic Organic Contaminants, including Pesticides and Herbicides\n\n2,4-D | 0.07 | 1,000 | 70 ppb | 70\n\n2,4,5-TP (Silvex) | 0.05 | 1,000 | 50 ppb | 50\n\nAcrylamide | TT | TT (ppm) | 0\n\nAlachlor | 0.002 | 1,000 | 2 ppb | 0\n\nAtrazine | 0.003 | 1,000 | 3 ppb | 3\n\nBenzo(a)pyrene (PAH) | 0.0002 | 1,000,000 | 200 ppt | 0\n\nCarbofuran | 0.04 | 1,000 | 40 ppb | 40\n\nChlordane | 0.002 | 1,000 | 2 ppb | 0\n\nDalapon | 0.2 | 1,000 | 200 ppb | 200\n\nDi(2-ethylhexyl) adipate | 0.4 | 1,000 | 400 ppb | 400\n\nDi(2-ethylhexyl) phthalate | 0.006 | 1,000 | 6 ppb | 0\n\nDibromochloropropane | 0.0002 | 1,000,000 | 200 ppt | 0\n\nDinoseb | 0.007 | 1,000 | 7 ppb | 7\n\nDiquat | 0.02 | 1,000 | 20 ppb | 20\n\nDioxin [2,3,7,8-TCDD] | 0.00000003 | 1,000,000,000 | 30 ppq | 0\n\nEndothall | 0.1 | 1,000 | 100 ppb | 100\n\nEndrin | 0.002 | 1,000 | 2 ppb | 2\n\nEpichlorohydrin | TT | TT (ppm) | 0\n\nEthylene dibromide | 0.00005 | 1,000,000 | 50 ppt | 0\n\nGlyphosate | 0.7 | 1,000 | 700 ppb | 700\n\nHeptachlor | 0.0004 | 1,000,000 | 400 ppt | 0\n\nHeptachlor epoxide | 0.0002 | 1,000,000 | 200 ppt | 0\n\nHexachlorobenzene | 0.001 | 1,000 | 1 ppb | 0\n\nHexachlorocyclopenta-diene | 0.05 | 1,000 | 50 ppb | 50\n\nLindane | 0.0002 | 1,000,000 | 200 ppt | 200\n\nMethoxychlor | 0.04 | 1,000 | 40 ppb | 40\n\nOxamyl [Vydate] | 0.2 | 1,000 | 200 ppb | 200\n\nPCBs [Polychlorinated biphenyls] | 0.0005 | 1,000,000 | 500 ppt | 0\n\nPentachlorophenol | 0.001 | 1,000 | 1 ppb | 0\n\nPicloram | 0.5 | 1,000 | 500 ppb | 500\n\nSimazine | 0.004 | 1,000 | 4 ppb | 4\n\nToxaphene | 0.003 | 1,000 | 3 ppb | 0\n\nVolatile Organic Contaminants\n\nBenzene | 0.005 | 1,000 | 5 ppb | 0\n\nCarbon tetrachloride | 0.005 | 1,000 | 5 ppb | 0\n\nChloramines | MRDL = 4 | ………… | MRDL = 4 ppm | MRDLG = 4\n\nChlorine | MRDL = 4 | ………… | MRDL = 4 ppm | MRDLG = 4\n\nChlorite | 1 | ……….. | 1 ppm | 0.8\n\nChlorine dioxide | MRDL = 0.8 | 1,000 | MRDL = 800 ppb | MRDLG = 800\n\nChlorobenzene | 0.1 | 1,000 | 100 ppb | 100\n\no-Dichlorobenzene | 0.6 | 1,000 | 600 ppb | 600\n\np-Dichlorobenzene | 0.075 | 1,000 | 75 ppb | 75\n\n1,2-Dichloroethane | 0.005 | 1,000 | 5 ppb | 0\n\n1,1-Dichloroethylene | 0.007 | 1,000 | 7 ppb | 7\n\ncis-1,2-Dichloroethylene | 0.07 | 1,000 | 70 ppb | 70\n\ntrans-1,2-Dichloroethylene | 0.1 | 1,000 | 100 ppb | 100\n\nDichloromethane | 0.005 | 1,000 | 5 ppb | 0\n\n1,2-Dichloropropane | 0.005 | 1,000 | 5 ppb | 0\n\nEthylbenzene | 0.7 | 1,000 | 700 ppb | 700\n\nHaloacetic Acids (HAA) | 0.060 | 1,000 | 60 ppb | n/a\n\nMtBE | 0.013 | 1,000 | 13 ppb | 13\n\nStyrene | 0.1 | 1,000 | 100 ppb | 100\n\nTetrachloroethylene | 0.005 | 1,000 | 5 ppb | 0\n\n1,2,4-Trichlorobenzene | 0.07 | 1,000 | 70 ppb | 70\n\n1,1,1-Trichloroethane | 0.2 | 1,000 | 200 ppb | 200\n\n1,1,2-Trichloroethane | 0.005 | 1,000 | 5 ppb | 3\n\nTrichloroethylene | 0.005 | 1,000 | 5 ppb | 0\n\nTTHMs [Total trihalomethanes] | 0.10/0.080 | 1,000 | 100/80 ppb | n/a\n\nToluene | 1 | 1 ppm | 1\n\nVinyl Chloride | 0.002 | 1,000 | 2 ppb | 0\n\nXylenes, Total | 10 | 10 ppm | 10\n\nPer- and Polyfluoroalkyl Substances (PFAS) Contaminants\n\nPerfluorohexane sulfonic acid (PFHxS) | 0.000018 | 1,000,000 | 18 ppt | 0\n\nPerfluorononanoic acid (PFNA) | 0.000011 | 1,000,000 | 11 ppt | 0\n\nPerfluorooctane sulfonic acid (PFOS) | 0.000015 | 1,000,000 | 15 ppt | 0\n\nPerfluorooctanoic acid (PFOA) | 0.000012 | 1,000,000 | 12 ppt | 0\n\n(b) The follow abbreviations shall apply to table 811-2:\n\n(1) “AL” means action level;\n\n(2) “MRDL” means maximum residual disinfectant level;\n\n(3) “MFL” means million fibers per liter;\n\n(4) “NTU” means nephelometric turbidity unit;\n\n(5) “ppb” means parts per billion;\n\n(6) “ppm” means parts per million;\n\n(7) “ppq” means parts per quadrillion;\n\n(8) “ppt” means parts per trillion;\n\n(9) “pCi/L” means picocuries per liter; and\n\n(10) “TT” means treatment technique.\n\nSource. #12675, eff 1-1-19; amd by #12838, eff 9-30-19\n\nAppendix A - Statutes/Regulations Implemented",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

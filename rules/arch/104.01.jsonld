@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arch/104.01",
+  "@type": "Concept",
+  "agencyCode": "Arch",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:29",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/310-A/310-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/arch/104",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "#6378, eff 11-22-96; ss by #7942, eff 8-27-03; ss by #13769, eff 10-7-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arch 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html",
+  "prefLabel": "Arch 104.01 Record of Board Actions",
+  "recordType": "rule-section",
+  "ruleText": "Arch 104.01 Record of Board Actions. Minutes shall be kept of board meetings and of official actions taken by the board. Minutes of board actions which are not confidential under RSA 91-A:3, II or RSA 91-A:5 shall be public records and shall be available for inspection during the board’s ordinary office hours within 5 days from the close the meeting or vote in questions.\n\nSource. #6378, eff 11-22-96; ss by #7942, eff 8-27-03; ss by #13769, eff 10-7-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arch100-500.html"
+}

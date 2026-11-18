@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1509.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "V",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1509",
+  "definition": "Good Cause",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3209.03); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1509.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html",
+  "prefLabel": "Env-Sw 1509.03 Good Cause",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1509.03 Good Cause. The following shall provide good cause to revoke or suspend certification:\n\n(a) The certification was issued based on false, incomplete, or misleading information which, if known at the time the application was being processed, would have prohibited issuance of the certification based on the criteria for certification in Env-Sw 1504;\n\n(b) New information, not available to the department prior to issuance of the certification, becomes available and shows that the waste-derived product does not in fact meet the criteria for certification in Env-Sw 1504;\n\n(c) For a proprietary product, the proprietor meets the criteria for permit denial pursuant to RSA 149-M:9, IX; or\n\n(d) For a proprietary product, the facility producing the product is not in compliance with the solid waste rules and the terms and conditions for facility operation or closure as provided in the facility permit or permit exemption as the case may be.\n\nSource. #6619-B, eff 10-29-97; amd by #6894-B, eff 12-1-98; (See Revision Note at chapter heading for Env-Sw 1500); ss by #8459, eff 10-28-05 (formerly Env-Wm 3209.03); ss by #10599, eff 7-1-14; ss by #14067, eff 9-3-24\n\nAppendix A: State Statutes Implemented\n\nAppendix B: Incorporated Reference\n\nRule (Env-Sw) | Reference (Date/Edition) | Obtain From (Cost)\n\nEnv-Sw 1503.07(c)(1) | Standard Specification for Lightweight Aggregates for Concrete (ASTM C331/C331M-10) July 2023 | ASTM International Cost is $55 https://www.astm.org/c0331_c0331m-23.html\n\nEnv-Sw 1503.10(b) | Manual of Best Management Practices (BMPs) for Agriculture in New Hampshire: Nutrient Best Management Practices for Agriculture Nonpoint Source Pollution (2019) | New Hampshire Department of Agriculture, Markets & Food. Free online at: https://www.agriculture.nh.gov/publications-forms/documents/best-management-practices-bmp-manual.pdf",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1500.html"
+}

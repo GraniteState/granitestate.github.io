@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/782.05",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/782",
+  "definition": "Administrative Fine Payments",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14059 EMERGENCY, EXPIRED: 2-15-25 New. #14287, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 782.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html",
+  "prefLabel": "Ncr 782.05 Administrative Fine Payments",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 782.05 Administrative Fine Payments.\n\n(a) Any person who provides the director with an administrative plea to consent to the charge of a violation pursuant to Ncr 782.04(e), shall also pay the administrative fine, received within 20 days from the date of the notice of violation. If paying by check or money order, the fine shall be made payable to treasurer, state of New Hampshire.\n\n(b) Administrative fine payments shall be mailed or hand-delivered to:\n\nDepartment of Natural and Cultural Resources\n\nDivision of Forests and Lands or Division of Parks and Recreation (as appropriate)\n\nAdministrative Fines\n\n172 Pembroke Road\n\nConcord, NH 03301\n\nSource. #14059 EMERGENCY, EXPIRED: 2-15-25\n\nNew. #14287, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html"
+}

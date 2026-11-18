@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/csp/103.02",
+  "@type": "Concept",
+  "agencyCode": "Csp",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/csp/103",
+  "definition": "Copies of Records",
+  "effectiveDate": "2016-03-02",
+  "historyNote": "#7082, eff 8-26-99; ss by #9583, eff 11-2-09; ss by 11047, eff 3-2-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Csp 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/csp100-700.html",
+  "prefLabel": "Csp 103.02 Copies of Records",
+  "recordType": "rule-section",
+  "ruleText": "Csp 103.02 Copies of Records. Persons desiring copies of written records shall submit a request that identifies as particularly as possible the information being sought. There shall be no charge for the first 10 pages of copied records. The commission shall charge a reasonable amount for copying with respect to each page over 10, not to exceed the actual cost for providing such copies. If records are requested which contain both public and confidential information, the commission shall delete the confidential information and provide the remaining information.\n\nSource. #7082, eff 8-26-99; ss by #9583, eff 11-2-09; ss by 11047, eff 3-2-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/csp100-700.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w/405.01",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "authority": [
+    {
+      "citation": "161-B:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/161-B/161-B-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-B:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/161-B/161-B-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-w/405",
+  "definition": "Annual Fee for Services",
+  "effectiveDate": "2018-08-23",
+  "historyNote": "#9029, eff 11-17-07; renumbered by #9206 (formerly He-W 405.02); ss by #10955, eff 10-22-15; amd by #12612, eff 8-23-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-W 405.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w400.html",
+  "prefLabel": "He-W 405.01 Annual Fee for Services",
+  "recordType": "rule-section",
+  "ruleText": "He-W 405.01 Annual Fee for Services.\n\n(a) In all never-assistance cases where DCSS has collected and disbursed at least $550.00 of support, DCSS shall impose an annual fee of $35.00 pursuant to RSA 161-B:3, IV.\n\n(b) The fee shall be retained by DCSS from the support collected on behalf of the payee, but not from the first $550.00 so collected.\n\n(c) DCSS shall distribute to the payee the portion of the amount so collected that remains after withholding the fee in accordance with He-W 403.01.\n\n(d) In all cases where the annual fee is retained from a support collection, the payor’s child support account shall be credited for the entire amount of the collected support payment.\n\nSource. #9029, eff 11-17-07; renumbered by #9206 (formerly He-W 405.02); ss by #10955, eff 10-22-15; amd by #12612, eff 8-23-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w400.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2005.09",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "FUNCTION: Capital Outlay",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "52:4-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2005",
+  "definition": "Function: Capital Outlay",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2006.09); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2005.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2005.09 Function: Capital Outlay",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2005.09 Function: Capital Outlay. Expenditures related to capital outlays shall be classified into the following accounts:\n\n(a) Account 4901, land and improvements, classification shall be for expenditures related to:\n\n(1) The acquisition of land for future use; or\n\n(2) Land purchased for conservation purposes not allocated to other functions;\n\n(b) Account 4902, machinery, vehicles, and equipment, classification shall be for expenditures related to the acquisition of:\n\n(1) Vehicles; and\n\n(2) Equipment not allocated to other functions;\n\n(c) Account 4903, buildings, classification shall be for expenditures for public buildings not allocated to other functions related to the:\n\n(1) Acquisition;\n\n(2) Repair;\n\n(3) Renovation;\n\n(4) Reconstruction; or\n\n(5) Construction; and\n\n(d) Account 4909, improvements other than buildings, classification shall be for expenditures related to capital project activity that is not otherwise classified.\n\nSource. #10675, eff 9-24-14 (from Rev 2006.09); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

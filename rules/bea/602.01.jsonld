@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/602.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Accessory Dwelling Unit",
+  "authority": [
+    {
+      "citation": "12-O:70",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-70",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:71",
+      "via": "appendix"
+    },
+    {
+      "citation": "674:73",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-70"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/602",
+  "definition": "Accessory dwelling unit",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14044, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 602.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea600.html",
+  "prefLabel": "Bea 602.01 Accessory dwelling unit",
+  "recordType": "rule-section",
+  "ruleText": "Bea 602.01 “Accessory dwelling unit” means “accessory dwelling unit” as defined in RSA 674:71, namely, “a residential living unit that is within or attached to a single-family dwelling, and that provides independent living facilities for one or more persons, including provisions for sleeping, eating, cooking, and sanitation on the same parcel of land as the principal dwelling unit it accompanies.” This term includes “detached accessory dwelling units” as described in RSA 674:73.\n\nSource. #14044, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea600.html"
+}

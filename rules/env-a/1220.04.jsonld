@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1220.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1220",
+  "definition": "Application Methods",
+  "effectiveDate": "2019-10-17",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1220.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html",
+  "prefLabel": "Env-A 1220.04 Application Methods",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1220.04 Application Methods. A source that is subject to Env-A 1220.02 shall use one of the following application methods:\n\n(a) Electrostatic spray;\n\n(b) HVLP spray;\n\n(c) Flow coat, roll coat, or hand application, including non-spray application methods similar to hand or mechanically powered caulking gun, brush, or direct hand application;\n\n(d) Dip coat, including electrodeposition;\n\n(e) Airless spray;\n\n(f) Air-assisted airless spray; or\n\n(g) Other adhesive application methods capable of achieving a transfer efficiency equivalent to or better than that achieved by HVLP spraying.\n\nSource. (See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html"
+}

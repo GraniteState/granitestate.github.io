@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/602.14",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Small Water System",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362",
+      "source": "https://granitestate.github.io/rsa/362",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/601",
+  "definition": "Small water system",
+  "effectiveDate": "2024-03-21",
+  "historyNote": "#13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 602.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html",
+  "prefLabel": "En 602.14 Small water system",
+  "recordType": "rule-section",
+  "ruleText": "En 602.14 \"Small water system\" means any water distribution system serving fewer than 600 customers:\n\n(a) Which has received a franchise and established an initial revenue requirement pursuant to Puc 1600;\n\n(b) Which is not interconnected with any other water distribution system owned, operated by, or affiliated with the same individual or entity; and\n\n(c) Whose revenue requirement is established based on the value of the assets used to serve only those customers served by that water distribution system.\n\nSource. #13911, eff 3-21-24 (see Revision Note at chapter heading for En 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en600.html"
+}

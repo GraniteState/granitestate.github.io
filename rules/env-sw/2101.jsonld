@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/2101",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "XVIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/2100",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/2101.01",
+    "https://granitestate.github.io/rules/env-sw/2101.02"
+  ],
+  "notation": "Env-Sw 2101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2100.html",
+  "prefLabel": "Env-Sw 2101 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Sw 2101 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw2100.html"
+}

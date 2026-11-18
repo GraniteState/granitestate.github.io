@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/804.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/804",
+  "definition": "Location and Value",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 804.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 804.01 Location and Value",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 804.01 Location and Value. An upland buffer preservation area offered for compensatory mitigation shall:\n\n(a) Be adjacent to a jurisdictional area that meets or exceeds the functions and values of the jurisdictional areas to be impacted by the project, as determined through a functional assessment;\n\n(b) Benefit the resource to be protected by maintaining water quality, wildlife habitat, or other functions and values of wetlands and surface waters; and\n\n(c) Be consistent with the local and regional land use conservation goals and any applicable river corridor management plans developed per RSA 483:10.\n\nSource. #8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

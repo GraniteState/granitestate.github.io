@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1304",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "487:17",
+      "paragraphs": [
+        "II(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/487/487-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/487/487-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1300",
+  "definition": "RESTRICTED USE AREAS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1304.01",
+    "https://granitestate.github.io/rules/env-wq/1304.02",
+    "https://granitestate.github.io/rules/env-wq/1304.03",
+    "https://granitestate.github.io/rules/env-wq/1304.04",
+    "https://granitestate.github.io/rules/env-wq/1304.05",
+    "https://granitestate.github.io/rules/env-wq/1304.06",
+    "https://granitestate.github.io/rules/env-wq/1304.07",
+    "https://granitestate.github.io/rules/env-wq/1304.08",
+    "https://granitestate.github.io/rules/env-wq/1304.09"
+  ],
+  "notation": "Env-Wq 1304",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1300.html",
+  "prefLabel": "Env-Wq 1304 RESTRICTED USE AREAS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1304 RESTRICTED USE AREAS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1300.html"
+}

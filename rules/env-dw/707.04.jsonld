@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/707.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/707",
+  "definition": "Validity of Laboratory Results",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12666, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 707.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 707.04 Validity of Laboratory Results",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 707.04 Validity of Laboratory Results.\n\n(a) The department shall not use sampling or laboratory results if the department determines that the data is:\n\n(1) From an obvious sampling or laboratory error from known errors in collection, processing, or transcription;\n\n(2) A technical impossibility;\n\n(3) Inconsistent with the preponderance of data elements for the same parameter from the same source or system; or\n\n(4) From a laboratory not accredited in accordance with Env-C 300 when such accreditation is required for the particular analysis.\n\n(b) Unless otherwise noted, any result that is below the detection limit of a test method approved for use pursuant to Env-Dw 707.07 shall be calculated as zero for the purpose of determining compliance.\n\n(c) All chemical concentration data submitted to the department for compliance purposes shall be reported in the same units used for the specified MCL, MCLG, SMCL, or MRDL, as applicable.\n\n(d) If sample results are not acceptable based on the criteria in (a), above, the O/O shall collect a replacement sample within 7 days of notification.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12666, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

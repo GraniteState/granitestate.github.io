@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/804.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "XIV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/804",
+  "definition": "Groundwater Protection Standards",
+  "effectiveDate": "2024-12-21",
+  "historyNote": "#5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2504.02); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 804.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html",
+  "prefLabel": "Env-Sw 804.02 Groundwater Protection Standards",
+  "priorExpiration": "1997-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 804.02 Groundwater Protection Standards.\n\n(a) A landfill shall not be sited within the well head protection area of a community or non-community, non-transient water supply well system as delineated in the department's source water protection area inventory at https://www.des.nh.gov/climate-and-sustainability/conservation-mitigation-and-restoration/source-water-protection.\n\n(b) A landfill and all associated stormwater, leachate, and decomposition gas infrastructure, except pipelines carrying leachate or decomposition gas offsite for processing or treatment, shall be located only in areas where groundwater monitoring for release detection, characterization and remediation can be conducted prior to a release having an adverse impact on groundwater quality at the property line.\n\n(c) A landfill and all associated stormwater, leachate, and decomposition gas infrastructure shall be located only in areas where groundwater monitoring for release detection, characterization, and remediation can be conducted prior to a release having an adverse impact on a water supply.\n\n(d) Undisturbed in-situ soils for 5 feet immediately beneath the footprint shall have a representative saturated hydraulic conductivity of 1 x 10-3 centimeters per second (cm/sec) or less, unless the landfill design meets the requirement in Env-Sw 805.03(e).\n\n(e) The base of the bottom most liner system, or the base of the facility if unlined, shall be a minimum of 6 feet above the seasonal high groundwater table and the confirmed bedrock surface.\n\n(f) Identification of the areas cited in (b) through (e) above shall be based upon a hydrogeologic investigation that includes:\n\n(1) Subsurface investigation(s) to characterize soils and bedrock at the site;\n\n(2) All site-specific information required to model the pre-construction and post-construction groundwater and surface water regimen; and\n\n(3) Other information as necessary to demonstrate compliance with the siting requirements in (b) through (e) above.\n\nSource. #5172, eff 7-1-91; ss by #6535, INTERIM, eff 7-1-97, EXPIRES: 10-29-97; ss by #6619-B, eff 10-29-97; (See Revision Note at chapter heading for Env-Sw 800); ss by #8459, eff 10-28-05 (formerly Env-Wm 2504.02); ss by #10597, eff 7-1-14; ss by #14156, eff 12-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw800.html"
+}

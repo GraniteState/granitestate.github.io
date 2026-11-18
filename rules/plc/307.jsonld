@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/307",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/300",
+  "definition": "LICENSEE OBLIGATIONS; INACTIVE STATUS FOR RESERVE MILITARY CALLED TO ACTIVE DUTY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/307.01",
+    "https://granitestate.github.io/rules/plc/307.02",
+    "https://granitestate.github.io/rules/plc/307.03",
+    "https://granitestate.github.io/rules/plc/307.04",
+    "https://granitestate.github.io/rules/plc/307.05",
+    "https://granitestate.github.io/rules/plc/307.06",
+    "https://granitestate.github.io/rules/plc/307.07"
+  ],
+  "notation": "Plc 307",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 307 LICENSEE OBLIGATIONS; INACTIVE STATUS FOR RESERVE MILITARY CALLED TO ACTIVE DUTY",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 307 LICENSEE OBLIGATIONS; INACTIVE STATUS FOR RESERVE MILITARY CALLED TO ACTIVE DUTY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

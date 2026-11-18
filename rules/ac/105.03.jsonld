@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/105.03",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "309-B:4",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/105",
+  "definition": "Tentative Decisions",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "#10053, eff 1-1-12; renumbered by #13995 (formerly Ac 105.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 105.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 105.03 Tentative Decisions",
+  "recordType": "rule-section",
+  "ruleText": "Ac 105.03 Tentative Decisions.\n\n(a) When necessary to conduct the board’s business in a timely and efficient manner, the board shall instruct its staff or a committee of the board to prepare a draft document, subject to subsequent review and approval by the board. Such instructions shall be known as tentative decisions.\n\n(b) Tentative decisions shall not be final actions, and shall not be binding upon the board. Changes in the form or the substance of a tentative decision shall be made as often as necessary to produce a final document, which satisfactorily sets forth the final result the board intends to reach. The board’s final decision shall be issued only when the necessary majority has voted in favor of the final form of the proposed action, allowing time for printing or servicing the document in question.\n\nSource. #10053, eff 1-1-12; renumbered by #13995 (formerly Ac 105.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/905.01",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/905",
+  "definition": "Notifying Public of Net Energy Metering",
+  "effectiveDate": "2026-04-27",
+  "expirationDate": "2036-04-27",
+  "historyNote": "#14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 905.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html",
+  "prefLabel": "En 905.01 Notifying Public of Net Energy Metering",
+  "recordType": "rule-section",
+  "ruleText": "En 905.01 Notifying Public of Net Energy Metering.\n\n(a) When a customer initiates an inquiry and requests information regarding net energy metering, the distribution utility shall provide to the customer a copy of En 900 and the name and telephone number of a contact person(s) at the utility and a description of net energy metering.\n\n(b) The distribution utility shall provide to each customer in a bill insert or a bill message in the customer bill a brief description of the availability of net energy metering, which billing insert or message shall be of one paragraph or more in length.\n\n(c) The distribution utility shall provide the information described in (b) above in this section on an annual basis.\n\nSource. #14568, eff 4-27-26, EXPIRES: 4-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en900.html"
+}

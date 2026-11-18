@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/615.15",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:15",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:17-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-17-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:18",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-17-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/615",
+  "definition": "Fines Relating to Groundwater Management Permits",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 615.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 615.15 Fines Relating to Groundwater Management Permits",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 615.15 Fines Relating to Groundwater Management Permits.\n\n(a) For failing to submit a groundwater management permit application meeting the requirements in accordance with Env-Or 607.03 within 60 days written notice from the department that a groundwater management permit is required pursuant to Env-Or 607.01(a)(1), the proposed fine shall be $2,000 per application not timely provided.\n\n(b) For failing to submit a groundwater management permit renewal in accordance with Env-Or 607.10(a), the proposed fine shall be $2,000 per renewal not timely provided.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

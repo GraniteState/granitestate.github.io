@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "definition": "Prescription Drug Affordability Board (Established pursuant to 2020, 13:5, effective 7-1-20. Although administratively attached to the Department of Health and Human Services, the Board has its own rulemaking authority under RSA 126-BB:6.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pdab/100",
+    "https://granitestate.github.io/rules/pdab/200",
+    "https://granitestate.github.io/rules/pdab/300"
+  ],
+  "notation": "Pdab",
+  "prefLabel": "Pdab Prescription Drug Affordability Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

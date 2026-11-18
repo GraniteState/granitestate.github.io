@@ -1,0 +1,72 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2009",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "261:103-a",
+      "source": "https://granitestate.github.io/rsa/261/261-103-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:104",
+      "source": "https://granitestate.github.io/rsa/261/261-104",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:113",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:115",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:120",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:123",
+      "source": "https://granitestate.github.io/rsa/261/261-123",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:125",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:136",
+      "source": "https://granitestate.github.io/rsa/261/261-136",
+      "via": "appendix"
+    },
+    {
+      "citation": "261:140-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/261/261-103-a",
+    "https://granitestate.github.io/rsa/261/261-104",
+    "https://granitestate.github.io/rsa/261/261-123",
+    "https://granitestate.github.io/rsa/261/261-136"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2000",
+  "definition": "BUSINESS OPERATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/2009.01",
+    "https://granitestate.github.io/rules/saf-c/2009.02",
+    "https://granitestate.github.io/rules/saf-c/2009.03",
+    "https://granitestate.github.io/rules/saf-c/2009.04",
+    "https://granitestate.github.io/rules/saf-c/2009.05",
+    "https://granitestate.github.io/rules/saf-c/2009.06",
+    "https://granitestate.github.io/rules/saf-c/2009.07"
+  ],
+  "notation": "Saf-C 2009",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html",
+  "prefLabel": "Saf-C 2009 BUSINESS OPERATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 2009 BUSINESS OPERATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2000.html"
+}

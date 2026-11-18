@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/opt/403",
+  "@type": "Concept",
+  "agencyCode": "Opt",
+  "authority": [
+    {
+      "citation": "332-G:7",
+      "paragraphs": [
+        "IV(b)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/opt/400",
+  "definition": "MILITARY STATUS OF LICENSEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/opt/403.01"
+  ],
+  "notation": "Opt 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html",
+  "prefLabel": "Opt 403 MILITARY STATUS OF LICENSEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Opt 403 MILITARY STATUS OF LICENSEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/opt100-600.html"
+}

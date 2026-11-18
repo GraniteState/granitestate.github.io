@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "definition": "Mec",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-mec/100",
+    "https://granitestate.github.io/rules/saf-mec/200",
+    "https://granitestate.github.io/rules/saf-mec/300",
+    "https://granitestate.github.io/rules/saf-mec/400",
+    "https://granitestate.github.io/rules/saf-mec/500",
+    "https://granitestate.github.io/rules/saf-mec/600"
+  ],
+  "notation": "Saf-Mec",
+  "prefLabel": "Saf-Mec Saf-Mec",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

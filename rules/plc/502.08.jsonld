@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/502.08",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Licensed Health Care Provider",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:29-a",
+      "source": "https://granitestate.github.io/rsa/318/318-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:36-a",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/318/318-29-a",
+    "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+    "https://granitestate.github.io/rsa/329/329-13-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/502",
+  "definition": "“Licensed health care provider”, for purposes of the definition of “program director”, means a New Hampshire licensee in a profession regulated by any of the fo",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#13971, eff 7-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 502.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html",
+  "prefLabel": "Plc 502.08 “Licensed health care provider”, for purposes of the definition of “program director”, means a New Hampshire licensee in a profession regulated by any of the fo",
+  "recordType": "rule-section",
+  "ruleText": "Plc 502.08 “Licensed health care provider”, for purposes of the definition of “program director”, means a New Hampshire licensee in a profession regulated by any of the following boards:\n\n(a) Board of licensing for alcohol and other drug use professionals;\n\n(b) Board of medicine;\n\n(c) Board of nursing;\n\n(d) Board of mental health practice; or\n\n(e) Board of psychology.\n\nSource. #13971, eff 7-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html"
+}

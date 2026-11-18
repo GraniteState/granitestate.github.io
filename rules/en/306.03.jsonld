@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/306.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/306",
+  "definition": "Electrical Interference",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 306.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 306.03 Electrical Interference",
+  "recordType": "rule-section",
+  "ruleText": "En 306.03 Electrical Interference.\n\n(a) Each utility shall make a full and prompt investigation of complaints made by the utility’s customers or by the general public involving electrical interference with reception by communications equipment in the proximity of the utility’s transmission and service areas, including but not limited to interference with television and radio reception.\n\n(b) Each utility shall maintain a record of complaints which it receives pursuant to (a) above.\n\n(c) Each utility shall report to the department all complaints, as described in (a) above, that it receives that are not resolved to the satisfaction of the complaining party within 30 days of receipt or notification of the complaint.\n\n(d) The report referred to in (c) above shall include the location of the complaint, the circuit number of the line, and a brief description of the interference.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/crv/104.01",
+  "@type": "Concept",
+  "agencyCode": "Crv",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/crv/104",
+  "definition": "Office Location and Mailing Address, Telephone Number, and Number for TTY/TDD Users",
+  "effectiveDate": "2001-09-28",
+  "historyNote": "#7567, eff 9-28-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Crv 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html",
+  "prefLabel": "Crv 104.01 Office Location and Mailing Address, Telephone Number, and Number for TTY/TDD Users",
+  "recordType": "rule-section",
+  "ruleText": "Crv 104.01 Office Location and Mailing Address, Telephone Number, and Number for TTY/TDD Users.\n\n(a) The office location and mailing address for the commission is:\n\nConnecticut River Valley Resource Commission\n\nMain Street\n\nP.O. Box 1182\n\nCharlestown, New Hampshire 03603\n\n(b) The telephone number for the commission is (603) 826-4800.\n\n(c) TTY/TDD users may reach the commission through Relay New Hampshire by calling 711.\n\nSource. #7567, eff 9-28-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/607.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/607",
+  "definition": "Dredge Methods",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 607.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 607.06 Dredge Methods",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 607.06 Dredge Methods.\n\n(a) For non-FNP projects, sediment dispersion modeling shall be done to characterize sediment resuspension and dispersion during operations, and modeling outputs shall be used to design operations, including measures to avoid and minimize impacts from suspended sediment and turbidity on living marine resources. Sediment dispersion models shall be field-verified to various sediment and hydraulic conditions to ensure they have been calibrated appropriately to predict sediment transport and dispersion.\n\n(b) Proposed dredging methods shall:\n\n(1) Be based on the nature of the sediment as determined by sediment characterization, results of contaminant testing, turbidity transport modeling, and resource vulnerabilities;\n\n(2) Be based on suitability of existing site conditions;\n\n(3) Be based on location and suitability of disposal options;\n\n(4) Represent the least environmentally-impacting practicable alternative; and\n\n(5) Be by one of the following means, listed in descending order of preference:\n\na. Mechanical closed, or enviro, bucket dredge;\n\nb. Mechanical clamshell dredge;\n\nc. Mechanical open bucket dredge; or\n\nd. Suction dredge.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

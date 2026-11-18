@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4043.11",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-F:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4043",
+  "definition": "Shielded Room RGDs",
+  "effectiveDate": "2025-08-08",
+  "expirationDate": "2035-08-08",
+  "historyNote": "#14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4043.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html",
+  "prefLabel": "He-P 4043.11 Shielded Room RGDs",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4043.11 Shielded Room RGDs. For RGDs that do not meet the limits of He-P 4020.13, the RGD can be maintained inside a shielded room such that the exterior of the room meets the limits of He-P 4020.13 when the RGD is activated. RGDs in a shielded room shall be required to meet only the requirements of He-P 4043.05 and the following:\n\n(a) The door to the room containing the RGD shall be posted “CAUTION – RADIATION AREA”, or “CAUTION – HIGH RADIATION AREA”, or “GRAVE DANGER – VERY HIGH RADIATION AREA”, as required by He-P 4022.12;\n\n(b) All entrances into the shielded room shall be provided with interlocks. After an interlock has been interrupted, broken, or tripped, it shall be possible to cause x-rays to be produced again only from the control panel. Interlocks shall not be used to shut off the x-ray equipment except in an emergency or during testing;\n\n(c) All entrances into the shielded room shall be provided with a conspicuously visible warning device, which need not be flashing or rotating but which operates only when radiation is being produced. The warning device shall be labeled in accordance with He-P 4043.05(b);\n\n(d) The interior of the shielded room shall be provided with flashing or rotating warning lights that operate when, and only when, radiation is being produced. These lights shall be positioned so that they can be observed from any position or orientation within the room. The lights shall be posted indicating the meaning of the warning signal and instructions on what to do. The posting shall be legible, conspicuous, and accessible to view;\n\n(e) An audible warning signal within the room shall be actuated for at least 10 seconds immediately prior to the first initiation of radiation after the closing of any opening that can admit personnel. The registrant shall post the meaning of the warning signal and instructions on what to do. The posting shall be legible, conspicuous, and accessible to view;\n\n(f) If dose rates exceed the high radiation area limits, as defined in He-P 4003.01(bx), emergency shut-off switches shall be located within the high radiation areas so as to be accessible to individuals therein within 10 seconds. These switches and their mode of operation shall be identified by a conspicuously posted sign adjacent to the switch. The emergency shut-off switches shall include a manual reset that must be reset at the switch before x-rays can again be produced from the control panel. After an emergency shut-off switch has been activated, it shall be possible to produce x-rays again only from the control panel;\n\n(g) The interlock system and the emergency shut-off system shall be separate electrical or mechanical systems, or both;\n\n(h) A person within the room housing a RGD shall be able to egress at all times;\n\n(i) After each exposure and before entry of any personnel, a survey shall be performed upon entry to the shielded room to determine that the RGD is no longer producing radiation;\n\n(j) Personnel devices providing an audible signal when activated by radiation shall be acceptable for the survey requirement of He-P 4043.11(i) provided that:\n\n(1) Proper operation of the audible detection device is checked daily and a record maintained of this check;\n\n(2) The audible device is designed so as to clearly indicate entry into a 0.02 mSv (2 mrem) per hour or greater radiation field; and\n\n(3) All personnel working with the RGD are provided with such a device;\n\n(k) Stationary area monitors providing an audible signal when activated by radiation shall be acceptable for the survey requirement of He-P 4043.11(i) provided that:\n\n(1) Proper operation of the stationary detection device is checked daily and a record maintained of this check;\n\n(2) The stationary device is designed so as to clearly indicate entry into a 0.02 mSv (2 mrem) per hour or greater radiation field; and\n\n(3) Stationary area monitors are calibrated annually to determine that the audible signal operates at a 0.02 mSv (2 mrem) per hour radiation field;\n\n(l) All personnel associated with the x-ray equipment shall be provided with personnel monitoring devices that shall be calibrated for the x-ray energies being utilized. Records of personnel exposure shall be maintained;\n\n(m) No registrant shall permit any individual to operate a RGD in a shielded room until such individual has received a copy of, instruction in, and demonstrated an understanding of, operating and emergency procedures for the unit and competence in its use. Records shall be maintained of all operator training;\n\n(n) The equipment control panel shall be provided with a locking device to prevent unauthorized use. Such locking device shall, when locked, prevent the production of radiation by the equipment; and\n\n(o) If a safety or warning device malfunctions, the control panel shall be locked in the “off” position. The control panel shall not be used, except as might be necessary for repair or replacement of the malfunctioning safety or warning device, until the safety or warning device is functioning properly.\n\nSource. #14336, eff 8-8-25, EXPIRES: 8-8-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html"
+}

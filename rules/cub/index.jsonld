@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cub",
+  "@type": "Concept",
+  "agencyCode": "Cub",
+  "definition": "Chairman, Current Use Board (See 1993, 205:1, transferring rulemaking authority under RSA 79-A:4, effective 8-8-93, from the Board to the Chairman.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cub/100",
+    "https://granitestate.github.io/rules/cub/200",
+    "https://granitestate.github.io/rules/cub/300"
+  ],
+  "notation": "Cub",
+  "prefLabel": "Cub Chairman, Current Use Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

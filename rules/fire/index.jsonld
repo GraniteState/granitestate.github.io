@@ -1,0 +1,23 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "definition": "Fire Standards and Training Commission www.nh.gov/safety/divisions/fstems",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fire/100",
+    "https://granitestate.github.io/rules/fire/200",
+    "https://granitestate.github.io/rules/fire/300",
+    "https://granitestate.github.io/rules/fire/400",
+    "https://granitestate.github.io/rules/fire/500",
+    "https://granitestate.github.io/rules/fire/600",
+    "https://granitestate.github.io/rules/fire/700",
+    "https://granitestate.github.io/rules/fire/800",
+    "https://granitestate.github.io/rules/fire/900"
+  ],
+  "notation": "Fire",
+  "prefLabel": "Fire Fire Standards and Training Commission www.nh.gov/safety/divisions/fstems",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

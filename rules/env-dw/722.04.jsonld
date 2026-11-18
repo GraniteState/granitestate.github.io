@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/722.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/722",
+  "definition": "BAT for Organic Chemicals",
+  "effectiveDate": "2019-06-28",
+  "historyNote": "#10617, eff 6-1-14; ss by #12820, eff 6-28-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 722.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 722.04 BAT for Organic Chemicals",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 722.04 BAT for Organic Chemicals. The technologies listed in 40 CFR 141.61(b) shall be the best available technology, treatment techniques, or other means available for achieving compliance with the MCL level for organic chemicals specified in Env-Dw 705.01(b) and Env-Dw 705.02(b).\n\nSource. #10617, eff 6-1-14; ss by #12820, eff 6-28-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

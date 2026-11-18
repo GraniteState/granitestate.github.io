@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1011.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1011",
+  "definition": "System Impact Study",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1011.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1011.06 System Impact Study",
+  "recordType": "rule-section",
+  "ruleText": "En 1011.06 System Impact Study.\n\n(a) If an ASO study is required, the applicant may elect to proceed with the SIS pursuant to this section. If the applicant elects to proceed with the SIS prior to the completion of the ASO study, and the ASO study results necessitate revisions to the SIS, the utility shall issue an amended SISA incorporating updated cost estimates and a revised schedule for the completion of the amended SIS. The utility shall complete the amended SIS in accordance with (g) below in this section.\n\n(b) For applicants participating in a group study, the group study shall satisfy the requirement for a SIS. A separate SIS shall not be required.\n\n(c) If the parties do not waive the SIS, within 10 business days of the completion of the scoping meeting, or 10 business days after completion of the application or the final step in the simplified process or fast track process if scoping meeting is waived, the utility shall provide the applicant with a standard form SISA, including a good faith estimate of the cost and time to undertake the SIS. The applicant shall return the signed SISA within 20 business days, or the application shall be deemed withdrawn.\n\n(d) A SIS for a facility shall include a review of the facility’s adherence to IEEE Std 1547™-2018, “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” dated 4/6/2018 as available in Appendix B. For facility components that are certified, the utility shall not charge the applicant for review of those components in isolation.\n\n(e) Each utility shall include in its SISA a description of the various elements of a SIS it shall undertake pursuant to this section, which may include but is not limited to:\n\n(1) Load-flow study;\n\n(2) Short-circuit study;\n\n(3) Circuit protection and coordination study;\n\n(4) Impact on system operation;\n\n(5) Stability study and the conditions that would justify including this element in the SIS; and\n\n(6) Voltage-collapse study and the conditions that would justify including this element in the SIS.\n\n(f) The SIS shall consider the proposed facility’s design and operating characteristics and study the facility according to how the facility is proposed to be operated. If the facility limits export or import pursuant to En 1013, the SIS shall use export capacity or import capacity instead of nameplate rating, except when assessing fault current contribution.\n\n(g) The utility shall commence the SIS once an applicant submits an executed SISA and required payment for the SIS. The SIS shall be completed within 55 business days of the applicant’s submission of the SISA and payment, unless the applicant and utility mutually agree to a different completion term. The utility shall true up all SISA payments to reflect final, actual costs of the SIS once those costs are known. The utility shall provide an SIS report that includes a description of the utility’s analysis, conclusions, and the reasoning supporting those conclusions.\n\n(h) After the results of the SIS are delivered, if an applicant requests a meeting to discuss results within 10 business days, the utility shall conduct a results meeting with the applicant within 15 business days of providing the results to the applicant. The results meeting shall take place in person, by telephone, or virtually. The utility and the applicant shall bring to the results meeting personnel, including system engineers, and other resources as might be reasonably required to accomplish the purpose of the meeting.\n\n(i) Within 10 business days after the results meeting or the applicant’s decision to waive the results meeting, the applicant shall notify the utility of its decision to proceed with the IA, if applicable, request a modification permitted pursuant to En 1004.04, or withdraw the application. Failure of the applicant to notify the utility of its decision or request a modification shall result in the withdrawal of the application.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

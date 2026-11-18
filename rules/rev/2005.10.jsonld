@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2005.10",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "FUNCTION: Interfund Operating Transfers Out",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "52:4-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2005",
+  "definition": "Function: Interfund Operating Transfers Out",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#10675, eff 9-24-14 (from Rev 2006.10); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2005.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2005.10 Function: Interfund Operating Transfers Out",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2005.10 Function: Interfund Operating Transfers Out. Financial outflows to other funds shall be classified into the following accounts:\n\n(a) Account 4911 classification shall be for transfers to the general fund;\n\n(b) Account 4912 classification shall be for transfers to special revenue fund;\n\n(c) Account 4913 classification shall be for transfers to capital projects fund;\n\n(d) Account 4914 classification shall be for transfers to proprietary funds;\n\n(e) Account 4915 classification shall be for transfers to capital reserve funds;\n\n(f) Account 4916 classification shall be for transfers to expendable trust funds and fiduciary funds except for health maintenance trust funds;\n\n(g) Account 4917 classification shall be for transfers to health maintenance trust funds formed pursuant to RSA 31:19-a, V;\n\n(h) Account 4918 classification shall be for transfers to nonexpendable trust funds; and\n\n(i) Account 4919 classification shall be for transfers to any fiduciary funds.\n\nSource. #10675, eff 9-24-14 (from Rev 2006.10); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

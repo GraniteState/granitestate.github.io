@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-e/310.07",
+  "@type": "Concept",
+  "agencyCode": "He-E",
+  "authority": [
+    {
+      "citation": "151:19",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "151-E:12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "161-J",
+      "source": "https://granitestate.github.io/rsa/161-J",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/161-J"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-e/310",
+  "definition": "Termination of Services",
+  "effectiveDate": "2024-08-20",
+  "historyNote": "#14058, eff 8-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-E 310.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-e300.html",
+  "prefLabel": "He-E 310.07 Termination of Services",
+  "recordType": "rule-section",
+  "ruleText": "He-E 310.07 Termination of Services.\n\n(a) Providers shall only terminate services to participants in accordance with RSA 151:26 for residential care facilities or RSA 151:26-a for home health providers.\n\n(b) Residential care facilities and home health providers shall provide written notice to the participant, the participant’s guardian, or the participant’s legal representative of the participant’s right to appeal a discharge or transfer with the department’s administrative appeals unit in accordance with He-C 200.\n\nSource. #14058, eff 8-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-e300.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/305.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "365:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "370:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/305",
+  "definition": "Testing Facilities and Equipment, Watt-Hour Standards",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 305.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 305.06 Testing Facilities and Equipment, Watt-Hour Standards",
+  "recordType": "rule-section",
+  "ruleText": "En 305.06 Testing Facilities and Equipment, Watt-Hour Standards.\n\n(a) Every utility shall have available one or more reference standards for the sole purpose of checking working standards.\n\n(b) Each utility shall have all reference standards and all working standards certified at least once each year in a laboratory meeting specifications recommended by the watt-hour standard manufacturer.\n\n(c) Each utility shall have each working standard which it maintains accompanied by a calibration card noting the corrections at various working loads.\n\n(d) Each utility shall keep on file in its office for 2 years any calibration cards which have been superseded.\n\n(e) Each utility shall maintain an adequate number of working standards for testing customer meters.\n\n(f) Each utility shall check the mechanical field working standards used in the direct calibration of customer meters every 3 months to determine whether there has been a change in the performance of a standard unless the mechanical field working standard is certified at intervals recommended by the manufacturer not to exceed one year.\n\n(g) Each utility shall check the mechanical meter shop working standards used in the direct calibration of customer meters once a week to determine whether there has been a change in the performance of the standard, and shall certify the mechanical meter shop working standard at intervals recommended by the manufacturer not to exceed one year.\n\n(h) Each utility shall compare its electronic working standards for testing customer meters to reference standards at least once every year.\n\n(i) Any working standard found to be in error by more than 1% shall be removed from service.\n\n(j) A utility shall certify its watt-hour standards as follows:\n\n(1) In an independent standards laboratory; or\n\n(2) In a laboratory maintained by the utility provided that the department accepts the instruments and methods pursuant to En 201.05.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

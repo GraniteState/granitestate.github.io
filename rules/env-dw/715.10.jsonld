@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/715.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/715",
+  "definition": "Initial Distribution System Evaluations and Stage 2 Disinfection Byproduct Requirements",
+  "effectiveDate": "2018-06-01",
+  "historyNote": "#9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 715.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 715.10 Initial Distribution System Evaluations and Stage 2 Disinfection Byproduct Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 715.10 Initial Distribution System Evaluations and Stage 2 Disinfection Byproduct Requirements. The following shall comply with the requirements of 40 CFR §§ 141.600-605 relative to initial distribution system evaluations and 40 CFR §§ 141.620-629 relative to stage 2 disinfection byproducts requirements:\n\n(a) The O/O of a community water system that uses a primary or residual disinfectant other than ultraviolet light or delivers water that has been treated with a primary or residual disinfectant other than ultraviolet light;\n\n(b) The O/O of a non-transient non-community water system that uses a primary or residual disinfectant other than ultraviolet light or delivers water that has been treated with a primary or residual disinfectant other than ultraviolet light; and\n\n(c) The O/O of a transient non-community water system that uses chlorine dioxide or delivers water that has been treated with chlorine dioxide.\n\nSource. #9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

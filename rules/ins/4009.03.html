@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4009.03 Pharmacy Claims Data Tables</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4009.03.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4009.html">Ins 4009</a> / Ins 4009.03</nav>
+  <header>
+    <h1 id="section">Ins 4009.03 Pharmacy Claims Data Tables</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4009.03.html">Ins 4009.03</a> Pharmacy Claims Data Tables.
+
+<span id="a">(a)</span> Pharmacy Claims Mapping and Format Information. Use Table 4009.07(c) to determine pharmacy claims file mapping and formatting.
+
+<span id="b">(b)</span> Pharmacy Claims File Header Record Layout:
+
+Table 4009.03(b) Pharmacy Claims File Header Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+HD001 | Record Type | Text | 2 | HD
+
+HD002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+HD003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+HD004 | Type of File | Text | 2 | PC Pharmacy Claims
+
+HD005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+HD006 | Period Ending Date | Number | 6 | End of paid period for claims or end of month covered for eligibility
+
+HD007 | Comments | Text | 80 | Submitter may use to document this submission by assigning a filename, system source, etc.
+
+<span id="c">(c)</span> Pharmacy Claims File Trailer Record Layout:
+
+Table 4009.03(c) Pharmacy Claims File Trailer Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+TR001 | Record Type | Text | 2 | TR
+
+TR002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+TR003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+TR004 | Type of File | Text | 2 | PC Pharmacy Claims
+
+TR005 | Period Beginning Date | Number | 6 | Beginning of paid period for claims or beginning of month covered for eligibility
+
+TR006 | Period Ending Date | Number | 6 | End of paid period for claims or beginning of month covered for eligibility
+
+TR007 | Extraction Date | Date | 8 | Date file was created
+
+TR008 | Record Count | Number | 10 (0) | Total number of records submitted in this file
+
+<span id="d">(d)</span> Pharmacy Claims Detailed File Specifications:
+
+Table 4009.03(d) Pharmacy Claims Detailed File Specification
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+PC001 | Payer | Text | 8 | Payer submitting payments NHID Submitter Code
+
+PC002 | Plan ID | Text | 30 | CMS National Plan ID
+
+PC003 | Insurance Type/Product Code | Text | 2 | Table 4009.6 (a) Insurance Type/Product Code
+
+PC004 | Payer Claim Control Number | Text | 35 | Shall apply to the entire claim and be unique within the payer&#x27;s system
+
+PC005 | Line Counter | Text | 4 | Line number for this service The line counter begins with 1 and is incremented by 1 for each additional service line of a claim
+
+PC006 | Insured Group Number | Text | 50 | Group or policy number (not the number that uniquely identifies the subscriber)
+
+PC007 | Placeholder
+
+PC008 | Plan Specific Contract Number | Text | 50 | Plan assigned contract number. If this is a Medicaid claim, provide Medicaid ID. Shall match the ID in ME009, MC008, and DC008
+
+PC009 | Member Suffix or Sequence Number | Text | 20 | Unique number of the member. This column is the unique identifying column for membership and related medical, pharmacy, and dental claims. Only 1 record per insurance product type, per eligibility month. Shall match ME010, MC009 and DC009.
+
+PC010 | Placeholder
+
+PC011 | Individual Relationship Code | Text | 2 | See Table 4009.06(b) Relationship Codes
+
+PC012 | Member Gender | Text | 1 | M: Male
+
+F: Female
+
+U: Unknown
+
+O: Other
+
+PC013 | Member Date of Birth | Date | 8 | Date of birth of member
+
+PC014 | Member City Name of Residence | Text | 30 | City name of member
+
+PC015 | Member State | Text | 2 | As defined by the US Postal Service
+
+PC016 | Member ZIP Code | Text | 9 | ZIP Code of member – may include non- US codes. Do not include dash.
+
+PC017 | Paid Date (AP Date) | Date | 8 | Paid date or the Pharmacy Benefits Manager’s billing date
+
+PC018 | Pharmacy Number | Text | 30 | Payer assigned pharmacy number. AHFS number is acceptable
+
+PC019 | Pharmacy Tax ID Number | Text | 10 | Federal taxpayer&#x27;s identification number (Please provide the pharmacy chain’s federal tax identification number, if the individual retail pharmacy’s tax ID# is not available.)
+
+PC020 | Pharmacy Name | Text | 30 | Name of pharmacy
+
+PC021 | National Pharmacy ID Number | Text | 10 | Required if National Provider ID is mandated for use under HIPAA
+
+PC022 | Pharmacy Location City | Text | 30 | City name of pharmacy
+
+PC023 | Pharmacy Location State | Text | 2 | As defined by the US Postal Service
+
+PC024 | Pharmacy ZIP Code | Text | 9 | ZIP Code of pharmacy - may include non- US codes. Do not include dash
+
+PC024A | Pharmacy Country Name | Text | 30 | Code US
+
+PC025 | Service Line Status | Text | 2 | See Table 4009.06(g) Claim Status
+
+PC026 | Drug Code | Text | 11 | NDC Code in CMS configuration with leading zeros and no hyphens.
+
+PC027 | Drug Name | Text | 80 | Text name of drug
+
+PC028 | New Prescription | Number | 2 (0) | 00 New prescription. 01-99 Number of refill(s)
+
+PC029 | Generic Drug Indicator | Text | 2 | 01 No, branded drug
+
+02 Yes, generic drug
+
+PC030 | Dispense as Written Code | Text | 1 | 0 Not dispensed as written
+
+1 Physician dispense as written
+
+2 Member dispense as written
+
+3 Pharmacy dispense as written
+
+4 No generic available
+
+5 Brand dispensed as generic
+
+6 Override
+
+7 Substitution not allowed - brand drug mandated by law
+
+8 Substitution allowed - generic drug not available in marketplace
+
+9 Other
+
+PC031 | Compound Drug Indicator | Text | 1 | N Non-compound drug
+
+Y Compound drug
+
+U Non-specified drug compound
+
+PC032 | Date Prescription Filled | Date | 8
+
+PC033 | Quantity Dispensed | Number | 10 | Number of metric units of medication dispensed
+
+PC034 | Days’ Supply | Number | 4 | Estimated number of days the prescription will last
+
+PC035 | Charge Amount | Number | 10 (2) | The full, undiscounted total and service-specific charges billed by the provider. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC036 | Paid Amount | Number | 10 (2) | Includes any withhold amounts. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC037 | Ingredient Cost/List Price | Number | 10 (2) | Cost of the drug dispensed. Do not code decimal point Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC038 | Postage Amount Claimed | Number | 10 (2) | Postage amount in dollars. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC039 | Dispensing Fee | Number | 10 (2) | Dispensing fees in dollars. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC040 | Copay Amount | Number | 10 (2) | The preset, fixed dollar amount for which the individual is responsible. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC041 | Coinsurance Amount | Number | 10 (2) | Coinsurance amount in dollars. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC042 | Deductible Amount | Number | 10 (2) | Deductible amount in dollars. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC043 | Prescription Number | Text | 20 | The number generated by the pharmacy when a new prescription is ordered for a person - a unique code assigned to a person’s prescribed medicine
+
+PC044 | Prescribing Physician First Name | Text | 35 | Physician first name
+
+PC045 | Prescribing Physician Middle Name | Text | 25 | Physician middle name
+
+PC046 | Prescribing Physician Last Name | Text | 60 | Physician last name
+
+PC047 | Prescribing Physician Number | Text | 10 | Provider NPI
+
+PC101 | Subscriber Last Name | Text | 60
+
+PC102 | Subscriber First Name | Text | 35
+
+PC103 | Subscriber Middle Initial | Text | 1
+
+PC104 | Member Last Name | Text | 60
+
+PC105 | Member First Name | Text | 35
+
+PC106 | Member Middle Initial | Text | 1
+
+PC203 | Carrier Identifier | Text | 20 | If you are a PBM that processes claims and are submitting files on behalf of a carrier, indicate the carrier name here. The full legal name of the company, no acronyms shall be used. Else, leave blank.
+
+PC204 | Carrier Plan Specific Contract Number | Text | 128 | For each claim, the carrier specific contract number when a PBM processes claims on behalf of the carrier. Optional if all pharmacy claims processed by a PBM under contract to a carrier for carved-out services are submitted by the carrier with unified member IDs in all files.
+
+PC211 | Cross Reference Claims ID | Text | 35 | The original Payer Claim Control Number (PC004). Used when a new Payer Claim Control Number is assigned to an adjusted claim.
+
+PC212 | Allowed amount | Number | 10 (2) | Report the maximum amount contractually allowed for a particular procedure or service. This will vary by provider contract and most often it is less than or equal to the fee charged by the provider.
+
+PC213 | HIOS Plan ID | Text | 16 | The 16 character HIOS Plan ID (Standard component). Including a five digit issuer ID, two character state ID, three digit product number, four digit standard component number and two digit variant component ID. This field may not be available for all market segments; Leave blank if not available
+
+PC214 | Claim Processing Level Indicator | Text | 1 | 1 Claim Level
+
+2 Service Line level
+
+PC215 | Service Line Type | Text | 1 | Report the code that defines the claim line status in terms of adjudication
+
+O Original
+
+V Void
+
+R Replacement
+
+B Back Out
+
+A Amendment
+
+PC216 | Denied Claim Indicator | Text | 1 | 1 Fully Paid – the entire claim was paid at the allowed amount
+
+2 Partially denied – some of the claims lines were paid at the allowed amount
+
+3 Encounter claim – this claim records a service provided that is paid under a non FFS payment arrangement such as capitation
+
+4 No payment – no payment made for reasons other than non FFS payment arrangement
+
+PC217 | Denial Reason | Text | 4 | Denial reason code. Required when Service Line Status (PC025) = 2 or 4 NCPDP denial reason codes and CARC/RARC code list. See <a class="cite-internal" href="/rules/ins/4008.04.html">Ins 4008.04</a>
+
+PC899 | Record Type | Text | 2 | PC
+
+PC900 | Mail Order Pharmacy Indicator | Text | 1 | A yes/no indicator that specifies that the pharmacy is a mail order pharmacy. Valid codes: Y=Yes, N=No
+
+PC901 | In Network Indicator | Text | 1 | A yes/no indicator that specifies that the provider (not the benefit) is within the health plan network. Valid codes: Y=Yes, N=No
+
+PC902 | Version Number | Number | 4(0) | Version number of this claim. The version number begins with 0 and is incremented by 1 for each subsequent version of that service line
+
+PC903 | Claim Source | Text | 1 | What form the claim is being processed as: E: Electronic P: Paper
+
+PC904 | Claim Received Date | Date | 8 | Date that the claim was received from the provider. The date shall be in CCYYMMDD format.
+
+PC905 | Insurance Group Name | Text | 30 | Name of the Insurance Group whose Insured Group or Policy Number was listed in PC006. The name shall match ME032
+
+PC906 | Coordination of Benefits/Third Party Liability Amount | Number | 2(10) | Coordination of Benefits (COB)/Third Party Liability (TPL) is the dollar amount paid from a prior payer (e.g. auto claim, workers comp, dual medical coverage). Report 0 if there is no COB/TPL amount. Do not code decimal or round up / down to whole dollars, code zero cents (00) when applicable. EXAMPLE: 150.00 is reported as 15000; 150.70 is reported as 15070
+
+PC907 | PBM Identifier | Text | 20 | If you are a carrier whose claims were processed by a PBM and you are submitting the files, please indicate the PBM here. The full legal name of the company, no acronyms shall be used. Else, leave blank
+
+PC908 | Prior Authorization | Text | 1 | If that claim required a prior authorization Y: Yes N: No
+
+PC909 | Drug Unit of Measure | Text | 3 | Report the code that defines the unit of measure for the drug dispensed in PC034. Valid codes are: EA=Each; F2=International Units; GM=Grams; ML=Milliliters; MG=Milligrams; MEQ=Milliequivalent; MM=Millimeter; UG=Microgram; UU=Unit; OT=Other
+
+Source. #10877, eff 7-10-15; ss by #13136, eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4010.03)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4009.03.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

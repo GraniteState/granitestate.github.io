@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/508",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "WAIVER",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(m)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/500",
+  "definition": "WAIVERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/508.01",
+    "https://granitestate.github.io/rules/env-or/508.02",
+    "https://granitestate.github.io/rules/env-or/508.03",
+    "https://granitestate.github.io/rules/env-or/508.04"
+  ],
+  "notation": "Env-Or 508",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 508 WAIVERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 508 WAIVERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

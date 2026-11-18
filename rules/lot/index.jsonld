@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "definition": "Lottery Commission (Renumbered from rules of the former Sweepstakes Commission ( Sw ), and to be renumbered from the rules of the former Racing and Charitable Gaming Commission (Pari).)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/100",
+    "https://granitestate.github.io/rules/lot/200",
+    "https://granitestate.github.io/rules/lot/300",
+    "https://granitestate.github.io/rules/lot/500",
+    "https://granitestate.github.io/rules/lot/600",
+    "https://granitestate.github.io/rules/lot/700",
+    "https://granitestate.github.io/rules/lot/900",
+    "https://granitestate.github.io/rules/lot/1000",
+    "https://granitestate.github.io/rules/lot/1100",
+    "https://granitestate.github.io/rules/lot/2000",
+    "https://granitestate.github.io/rules/lot/3000",
+    "https://granitestate.github.io/rules/lot/4000",
+    "https://granitestate.github.io/rules/lot/6000",
+    "https://granitestate.github.io/rules/lot/7000",
+    "https://granitestate.github.io/rules/lot/7100",
+    "https://granitestate.github.io/rules/lot/7200",
+    "https://granitestate.github.io/rules/lot/7300",
+    "https://granitestate.github.io/rules/lot/8000",
+    "https://granitestate.github.io/rules/lot/8100"
+  ],
+  "notation": "Lot",
+  "prefLabel": "Lot Lottery Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

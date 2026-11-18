@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/405.16",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:1",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/405",
+  "definition": "Sizing of Storage Tanks",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "(See Revision Note at part heading for Env-Dw 405) #10612, eff 6-1-14; ss #14158, eff 12-25-24 (formerly Env-Dw 405.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 405.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html",
+  "prefLabel": "Env-Dw 405.16 Sizing of Storage Tanks",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 405.16 Sizing of Storage Tanks.\n\n(a) The required atmospheric water storage capacity for a small CWS with only one well shall be based on the permitted production volume (PPV) of the well and the water system’s design flow, as specified in Table 405-3 below:\n\nTable 405-3: Small CWS That Have Only One Source\n\nThe water system’s PPV | Minimum atmospheric water storage capacity required\n\nGreater than water system’s peak flow | 50 percent of one day’s design flow\n\nGreater than 2.5 times the design flow | 75 percent of one day’s design flow\n\nGreater than or equal to 2.0 times the design flow | 100 percent of one day’s design flow\n\nLess than 2.0 times the design flow | Not acceptable\n\n(b) The required atmospheric water storage capacity for a small CWS with more than one well shall be based on the PPVs of the wells and the water system’s design flow, as specified in Table 405-4 below:\n\nTable 405-4: Requirement for Atmospheric Water Storage Capacity for Small CWSs That Have More Than One Source\n\nThe water system’s PPV with the largest producing well out-of-service | Minimum atmospheric water storage capacity required\n\nGreater than water system’s peak flow | none required\n\nGreater than 2.5 times the design flow | 25 percent of one day’s design flow\n\nGreater than 1.5 times the design flow | 50 percent of one day’s design flow\n\nGreater than or equal to design flow | 75 percent of one day’s design flow\n\nLess than design flow | 100 percent of one day’s design flow\n\n(c) For existing wells without an approved PPV, the source capacity determined in accordance with Env-Dw 405.13(f) shall be used in place of the PPV in Table 405-3 or Table 405-4, as applicable, for the purpose of calculating the required atmospheric water storage capacity.\n\n(d) No atmospheric storage shall be required if all the following conditions are met:\n\n(1) The PPV, with the largest producing well out-of-service, is greater than 2.5 times the design flow;\n\n(2) A step pumping test run for at least 6 hours demonstrates that the wells can supply the water system’s peak flow, with the largest producing well out-of-service; and\n\n(3) The total pumping capacity of the well pumps, with the largest well pump out of service, is equal to or greater than the peak flow.\n\n(e) The required hydropneumatic storage capacity shall be at least 10 percent of design flow, unless the booster pumps installed per Env-Dw 405.17 are designed to maintain constant system pressure by using pressure reducing valves or variable frequency drives.\n\n(f) To meet the pressure storage requirement of (e) above, pre-charged pressure storage tanks shall be accepted on an equivalent gross volume basis to conventional hydropneumatic storage. No more than 6 tanks of the pre-charged pressure type shall be permitted.\n\nSource. (See Revision Note at part heading for Env-Dw 405) #10612, eff 6-1-14; ss #14158, eff 12-25-24 (formerly Env-Dw 405.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw400.html"
+}

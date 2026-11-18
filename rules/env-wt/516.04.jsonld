@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/516.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A",
+      "source": "https://granitestate.github.io/rsa/217-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/217-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/516",
+  "definition": "Design and Construction Requirements for Intake and Outflow Structures",
+  "effectiveDate": "2026-01-02",
+  "expirationDate": "2036-01-02",
+  "historyNote": "#12805, eff 12-15-19; ss by #14349, INTERIM, eff 8-26-25; ss by #14471, eff 1-2-26, EXPIRES: 1-2-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 516.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html",
+  "prefLabel": "Env-Wt 516.04 Design and Construction Requirements for Intake and Outflow Structures",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 516.04 Design and Construction Requirements for Intake and Outflow Structures. In addition to meeting the applicable design and construction requirements of Env-Wt 307, an intake or outflow project shall be designed to:\n\n(a) Include intake screen designs that prevent the entrainment of aquatic organisms such as eggs and larvae;\n\n(b) Not locate intake or outflow structures along banks steeper than 25% slope;\n\n(c) Direct outflow away from the stream bed or use methods that do not cause stream bed or bank erosion, such as energy dissipation, to mitigate potential scour from concentrated flow at the outflow structure;\n\n(d) Time the project to be done during low flow to no flow conditions where practicable;\n\n(e) Where the project is required to be done in flowing water, require a sheet pile cofferdam and dewatering design during construction;\n\n(f) Limit potential channel constriction;\n\n(g) Incorporate bank stabilization criteria under Env-Wt 514 and shoreland standards for native species revegetation and species composition pursuant to Env-Wq 1412.05; and\n\n(h) Where brook floater mussels or dwarf wedge mussels are identified in the DataCheck Tool results, provide for specific monitoring during construction if required by the ecological review section of the department.\n\nSource. #12805, eff 12-15-19; ss by #14349, INTERIM, eff 8-26-25; ss by #14471, eff 1-2-26, EXPIRES: 1-2-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/302",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/300",
+  "definition": "DUTIES OF SCHOOL SUPERINTENDENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/302.01",
+    "https://granitestate.github.io/rules/ed/302.02"
+  ],
+  "notation": "Ed 302",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html",
+  "prefLabel": "Ed 302 DUTIES OF SCHOOL SUPERINTENDENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 302 DUTIES OF SCHOOL SUPERINTENDENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html"
+}

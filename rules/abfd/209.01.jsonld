@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/209.01",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:32",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/209",
+  "definition": "Intervention Procedure",
+  "effectiveDate": "2002-10-26",
+  "historyNote": "#7783, eff 10-26-02",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Abfd 209.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 209.01 Intervention Procedure",
+  "recordType": "rule-section",
+  "ruleText": "Abfd 209.01 Intervention Procedure.\n\n(a) A non-party may seek to intervene pursuant to RSA 541-A:32 by filing a motion stating facts demonstrating that his or her rights or other substantial interests might be affected by the proceeding or that he or she qualifies as an intervenor under any provision of law.\n\n(b) If the presiding officer determines that such intervention would be in the interests of justice and would not impair the orderly and prompt conduct of the hearing, the motion for intervention shall be granted.\n\n(c) Such approval of intervention by the presiding officer shall apply only to the proceeding in which the motion for intervention was granted.\n\nSource. #7783, eff 10-26-02",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

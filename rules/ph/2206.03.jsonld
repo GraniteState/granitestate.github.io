@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2206.03",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:8-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:14-a",
+      "source": "https://granitestate.github.io/rsa/318/318-14-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:30",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:42",
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:24",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-14-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2206",
+  "definition": "Prescription Drug Monitoring Program Investigations",
+  "effectiveDate": "2020-03-05",
+  "historyNote": "#12997, eff 3-5-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2206.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2206.03 Prescription Drug Monitoring Program Investigations",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2206.03 Prescription Drug Monitoring Program Investigations. All pharmacy board investigations concerning the prescription drug monitoring program shall be referred to the respective board of the licensee upon completion.\n\nSource. #12997, eff 3-5-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

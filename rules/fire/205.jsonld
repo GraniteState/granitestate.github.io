@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/205",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/200",
+  "definition": "RULEMAKING HEARINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fire/205.01",
+    "https://granitestate.github.io/rules/fire/205.02",
+    "https://granitestate.github.io/rules/fire/205.03",
+    "https://granitestate.github.io/rules/fire/205.04",
+    "https://granitestate.github.io/rules/fire/205.05",
+    "https://granitestate.github.io/rules/fire/205.06",
+    "https://granitestate.github.io/rules/fire/205.07",
+    "https://granitestate.github.io/rules/fire/2065.07"
+  ],
+  "notation": "Fire 205",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html",
+  "prefLabel": "Fire 205 RULEMAKING HEARINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Fire 205 RULEMAKING HEARINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/801.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/801",
+  "definition": "Department Action When O/O Fails to Notify",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19 (formerly Env-Dw 801.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 801.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 801.17 Department Action When O/O Fails to Notify",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 801.17 Department Action When O/O Fails to Notify.\n\n(a) The department shall issue public notice on behalf of the O/O if the department determines that the O/O failed to issue public notice as required by this part and:\n\n(1) The failure to issue public notice may pose a risk to human health as identified in Env-Dw 700; or\n\n(2) The O/O fails to recognize or acknowledge any other violation of Env-Dw 700.\n\n(b) Even if the department provides notice pursuant to (a), above, the O/O shall remain subject to enforcement under RSA 485:58 for failing to provide public notice and for any other violations of this part.\n\n(c) The department shall issue a public notice violation if the O/O fails to comply with the timing, content, delivery, or certification requirements of this part.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19 (formerly Env-Dw 801.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/712.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/712",
+  "definition": "Revised Monitoring Frequency for VOC Contaminants",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 712.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 712.05 Revised Monitoring Frequency for VOC Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 712.05 Revised Monitoring Frequency for VOC Contaminants.\n\n(a) If a VOC contaminant is detected in the confirmation sample at a level greater than or equal to the detection limit of 0.0005 mg/L, the sampling frequency for the representative sampling site shall be revised to quarterly.\n\n(b) The revised monitoring schedule pursuant to (a), above, shall continue until the concentration of the contaminant is reliably and consistently below the MCL at each sampling point.\n\n(c) After a minimum of one year of quarterly sampling pursuant to (b), above, the O/O may submit a written request to the department in accordance with (d), below, for the monitoring frequency to be reduced.\n\n(d) The written request to reduce the VOC monitoring frequency shall contain the following:\n\n(1) The name of the PWS;\n\n(2) The PWS identifier for the PWS;\n\n(3) A summary of all quarterly sampling results; and\n\n(4) Whether any type of treatment to reduce VOC contaminants has been or is being used by the PWS.\n\n(e) The department shall reinstate annual monitoring for VOC contaminants in response to a request submitted pursuant to (d), above, upon determining that:\n\n(1) Based on 4 consecutive quarterly samples, the level of VOC contaminant(s) previously detected is reliably and consistently below the MCL; and\n\n(2) The PWS is not operating any type of treatment to reduce the amount of VOC contaminants.\n\n(f) The O/O of a PWS at which VOC contaminants are monitored annually shall monitor during the quarter which previously yielded the highest analytical result.\n\n(g) A PWS at which no VOC contaminants are detected in 3 consecutive annual samples may apply to the department for a waiver as specified in Env-Dw 712.20.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19 (formerly Env-Dw 712.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

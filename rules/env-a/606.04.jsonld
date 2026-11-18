@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/606.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/606",
+  "definition": "Responsibility for Conducting Air Pollution Dispersion Modeling Impact Analysis",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12 (from Env-A 606.03); ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 606.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 606.04 Responsibility for Conducting Air Pollution Dispersion Modeling Impact Analysis",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 606.04 Responsibility for Conducting Air Pollution Dispersion Modeling Impact Analysis. The owner or operator shall file with the department as part of the permit application for any stationary source subject to this part one of the following:\n\n(a) A request that the department conduct an air pollution dispersion modeling impact analysis; or\n\n(b) A protocol describing the proposed air pollution dispersion modeling impact analysis methods, the report summarizing results of the air pollution dispersion modeling impact analysis, and all data files necessary to verify the results.\n\nSource. #6342-B, eff 9-28-96; ss by #7879, eff 4-26-03; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12 (from Env-A 606.03); ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

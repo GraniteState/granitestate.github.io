@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7206",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D",
+      "source": "https://granitestate.github.io/rsa/287-D",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:6",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/287-D"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "REQUIRED DOCUMENTATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7206.01",
+    "https://granitestate.github.io/rules/lot/7206.02",
+    "https://granitestate.github.io/rules/lot/7206.03",
+    "https://granitestate.github.io/rules/lot/7206.04",
+    "https://granitestate.github.io/rules/lot/7206.05",
+    "https://granitestate.github.io/rules/lot/7206.06",
+    "https://granitestate.github.io/rules/lot/7206.07",
+    "https://granitestate.github.io/rules/lot/7206.08"
+  ],
+  "notation": "Lot 7206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7206 REQUIRED DOCUMENTATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7206 REQUIRED DOCUMENTATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

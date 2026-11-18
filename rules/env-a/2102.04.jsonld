@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2102.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2102",
+  "definition": "Calculation of Particulate Matter Emission Standards",
+  "effectiveDate": "2023-07-22",
+  "historyNote": "#8215, eff 11-24-04 (from Env-A 2103); ss by #10314, eff 4-23-13; ss by #13693, eff 7-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2102.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2100.html",
+  "prefLabel": "Env-A 2102.04 Calculation of Particulate Matter Emission Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2102.04 Calculation of Particulate Matter Emission Standards.\n\n(a) Where the process weight rate is not explicitly listed in Table 2102-1, the maximum allowable particulate matter emission rate shall be calculated using the applicable equation in (b) or (c), below, where:\n\n(1) “E” means the maximum allowable particulate matter emission rate in pounds per hour (lb/hr); and\n\n(2) “P” means the process weight rate in tons per hour (tons/hr).\n\n(b) For a stationary source or device installed prior to or on February 18, 1972, if the process weight rate is:\n\n(1) Up to 30 tons/hr, P shall be raised to the 0.67 power and multiplied by 5.05, as shown in the formula below:\n\nE = 5.05 P0.67\n\n(2) In excess of 30 tons/hr, P shall be raised to the 0.11 power and multiplied by 66.0, and then 48 shall be subtracted from that result, as shown in the formula below:\n\nE = 66.0 P0.11 - 48\n\n(c) For a stationary source or device installed after February 18, 1972, if the process weight rate is:\n\n(1) Up to 30 tons/hr, P shall be raised to the 0.67 power and multiplied by 4.10, as in the formula below:\n\nE = 4.10 P0.67\n\n(2) In excess of 30 tons/hr, P shall be raised to the 0.11 power and multiplied by 55.0, and then 40 shall be subtracted from that result, as in the formula below:\n\nE = 55.0 P0.11 - 40\n\nSource. #8215, eff 11-24-04 (from Env-A 2103); ss by #10314, eff 4-23-13; ss by #13693, eff 7-22-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2100.html"
+}

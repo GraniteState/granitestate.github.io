@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/201.12",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/201",
+  "definition": "Computation of Time",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 201.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 201.12 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Mil 201.12 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in this chapter shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday or legal holiday, then the time period shall extend to include the first business day following the Saturday, Sunday or legal holiday.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

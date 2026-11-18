@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/216.02",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:13",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/216",
+  "definition": "Standard and Burden of Proof",
+  "effectiveDate": "2017-01-27",
+  "historyNote": "(See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 216.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html",
+  "prefLabel": "Lot 216.02 Standard and Burden of Proof",
+  "recordType": "rule-section",
+  "ruleText": "Lot 216.02 Standard and Burden of Proof. The party asserting a proposition shall bear the burden of proving the truth of the proposition by a preponderance of the evidence, which means a demonstration by admissible evidence that a fact or legal conclusion is more probable than not to be true.\n\nSource. (See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html"
+}

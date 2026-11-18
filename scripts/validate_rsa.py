@@ -153,8 +153,11 @@ def check_html(index: dict, errors: list[str]) -> None:
         parser = LinkParser()
         text = path.read_text(encoding="utf-8")
         parser.feed(text)
-        internal += text.count('class="cite-internal"')
-        external += text.count('class="cite-external"')
+        # Rule pages use cite-internal for their own citations. The RSA
+        # inventory counts only the statute pages.
+        if RSA in path.parents:
+            internal += text.count('class="cite-internal"')
+            external += text.count('class="cite-external"')
         for href in parser.hrefs:
             check_href(path, href, parser.ids, errors)
             if len(errors) >= MAX_ERRORS:

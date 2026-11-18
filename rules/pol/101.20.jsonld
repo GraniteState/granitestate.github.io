@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.20",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "Employee",
+  "effectiveDate": "2000-06-08",
+  "historyNote": "#4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.20 Employee",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.20 \"Employee\" means any person serving as a police, corrections or probation/parole officer, whether appointed or elected.\n\nSource. #4437, eff 6-22-88; ss by #5836, eff 6-15-94; ss by #7301, eff 6-8-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

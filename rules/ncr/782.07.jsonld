@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/782.07",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/782",
+  "definition": "Previous Offenses",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14059 EMERGENCY, EXPIRED: 2-15-25 New. #14287, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 782.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html",
+  "prefLabel": "Ncr 782.07 Previous Offenses",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 782.07 Previous Offenses. If a person has not committed the same offense in 7 years, the next offense shall be considered as a first offense.\n\nSource. #14059 EMERGENCY, EXPIRED: 2-15-25\n\nNew. #14287, eff 6-25-25, EXPIRES: 6-25-35\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html"
+}

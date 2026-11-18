@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/psyc",
+  "@type": "Concept",
+  "agencyCode": "Psyc",
+  "definition": "Board of Psychologists (See RSA 329-B:10 and RSA 329-B:27, IV pursuant to 2012, 213:1, effective 7-1-13.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/psyc/100",
+    "https://granitestate.github.io/rules/psyc/200",
+    "https://granitestate.github.io/rules/psyc/300",
+    "https://granitestate.github.io/rules/psyc/400",
+    "https://granitestate.github.io/rules/psyc/500"
+  ],
+  "notation": "Psyc",
+  "prefLabel": "Psyc Board of Psychologists",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

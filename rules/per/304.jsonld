@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/304",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "DIRECTOR’S DECISION",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/300",
+  "definition": "DIRECTOR'S DECISION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/per/304.01",
+    "https://granitestate.github.io/rules/per/304.02"
+  ],
+  "notation": "Per 304",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 304 DIRECTOR'S DECISION",
+  "recordType": "rule-part",
+  "ruleText": "PART Per 304 DIRECTOR'S DECISION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

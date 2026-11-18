@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/302.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:48",
+      "source": "https://granitestate.github.io/rsa/485/485-48",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-48"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/302",
+  "definition": "Definitions",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "(See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 302.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html",
+  "prefLabel": "Env-Dw 302.03 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 302.03 Definitions.\n\n(a) “Back-up well” means a new production well that is installed to provide redundancy for an existing primary production well that operates and impacts water users and resources in a similar manner as the primary production well.\n\n(b) “Background well” means a monitoring well outside the expected area of influence of the test well that serves to identify regional background conditions throughout the pumping test program.\n\n(c) “Cone of depression” means a depression in the potentiometric surface of a body of groundwater that develops around a well from which water is being withdrawn and corresponds to the zone of influence of the withdrawal.\n\n(d) “Flow net” means a map showing lines of equal hydraulic head with lines showing the direction of groundwater flow such that the amount of groundwater flow through all sections of the net is equal.\n\n(e) “Large bedrock production well” means a large production well that is a bedrock well.\n\n(f) “Large overburden production well” means a large production well that is an overburden well.\n\n(g) “Large production well” means a production well having a permitted production volume of equal to or greater than 57,600 gallons in a 24-hour period.\n\n(h) “Monitoring well” means a well that is used to observe or sample groundwater.\n\n(i) “Porous media assumption” means groundwater flow that conforms to Darcy's Law, mainly flow through porous media that is laminar and of low velocity.\n\n(j) “Test well” means a well that is used during a pumping test from which groundwater is withdrawn or pumped, which might or might not become the large production well.\n\nSource. (See Revision Notes #1 and #2 at part heading for Env-Dw 302) #11061, eff 4-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw300.html"
+}

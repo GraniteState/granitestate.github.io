@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3308.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-c",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-10-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-10-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3308",
+  "definition": "Reporting and Recordkeeping for Large MWC Units Combusting PWR",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3308.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3308.07 Reporting and Recordkeeping for Large MWC Units Combusting PWR",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3308.07 Reporting and Recordkeeping for Large MWC Units Combusting PWR.\n\n(a) Prior to accepting an initial delivery of PWR from a supplier, a large MWC facility shall obtain the following records from the supplier:\n\n(1) The PWR supplier’s plan for handling, sorting, and preparing PWR that meets the requirements of Env-A 3308.04(a), including a description of the supplier’s:\n\na. Source(s) of C&D wood;\n\nb. Processing procedures, to ensure prohibited items are removed;\n\nc. Storage practices, to prevent contamination of PWR with non-PWR;\n\nd. Employee training and monitoring, to ensure that all sorting procedures and storage practices are performed correctly;\n\ne. Management structure of the processing facility to identify who is responsible for ensuring that the PWR meets all applicable standards; and\n\nf. Method of delivering PWR to the combustor;\n\n(2) A list of the supplier’s solid waste permit(s) for the operation and management of the processing facility at which the PWR is produced;\n\n(3) Copies of any enforcement actions initiated against the supplier at any facility within the past 5 years by the U.S. EPA, the department, or any other federal, state, or local environmental regulatory agency;\n\n(4) Copies of any reports of compliance audits or inspections performed within the past 5 years at the processing facility at which the PWR is produced by the U.S. EPA, the department, or any other federal, state, or local environmental regulatory agency; and\n\n(5) A copy of the report required by Env-A 3308.05(d) presenting the results of the most recent independent third-party inspection.\n\n(b) For each delivery of PWR, the MWC facility shall obtain from each PWR supplier a written document, signed by an authorized representative of the PWR supplier, that includes the following certification:\n\n“This processed wood residue has been sorted by trained operators in accordance with the best management practices in 40 CFR §241.4(a)(5), “Non-Waste Determinations for Specific Non-Hazardous Secondary Materials When Used as Fuel”, complies with the fuel quality requirements in Env-A 3308.03, and does not contain hazardous waste. I further certify that I meet all requirements as a qualified fuel supplier as specified in Env-A 3308.04.”\n\n(c) Within 60 calendar days after completion or prior to the end of the applicable quarter, the MWC facility shall obtain from each PWR supplier the results of any PWR testing conducted by the supplier in accordance with Env-A 3308.04 for each calendar quarter in which the supplier delivered PWR to the large MWC;\n\n(d) Prior to December 31 annually, the MWC facility shall obtain from each PWR supplier the results of any independent third-party inspections conducted in accordance with Env-A 3308.05; and\n\n(e) Annually, within 30 days of the end of the calendar year, the MWC facility shall obtain from each PWR supplier, as applicable:\n\n(1) Updates to any inspection report, analysis, or other documentation provided pursuant to this part; or\n\n(2) A signed statement affirming that any inspection reports, analyses, or other documents submitted in the prior year remain unchanged.\n\nSource. #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

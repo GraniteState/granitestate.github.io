@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/1903",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I",
+        "(j)"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/1900",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/1903.01",
+    "https://granitestate.github.io/rules/puc/1903.02",
+    "https://granitestate.github.io/rules/puc/1903.03",
+    "https://granitestate.github.io/rules/puc/1903.04",
+    "https://granitestate.github.io/rules/puc/1903.05",
+    "https://granitestate.github.io/rules/puc/1903.06",
+    "https://granitestate.github.io/rules/puc/1903.07",
+    "https://granitestate.github.io/rules/puc/1903.08"
+  ],
+  "notation": "Puc 1903",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html",
+  "prefLabel": "Puc 1903 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Puc 1903 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html"
+}

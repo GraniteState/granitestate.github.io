@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/201.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "400-A:17",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541",
+      "source": "https://granitestate.github.io/rsa/541",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-17",
+    "https://granitestate.github.io/rsa/541",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/201",
+  "definition": "Scope",
+  "effectiveDate": "2020-07-27",
+  "historyNote": "(See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html",
+  "prefLabel": "Ins 201.01 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 201.01 Scope. The rules in this chapter shall govern all proceedings before the department.\n\nSource. (See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html"
+}

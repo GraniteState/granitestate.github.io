@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.11",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Mobile Laboratories; Individual or Remote Sites",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.11 Mobile Laboratories; Individual or Remote Sites",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.11 Mobile Laboratories; Individual or Remote Sites.\n\n(a) A mobile laboratory owned by an accredited fixed-based laboratory shall be considered an extension of the parent laboratory and shall not require separate accreditation if it:\n\n(1) Operates under the same quality system as the fixed-based laboratory;\n\n(2) Performs a subset of analyses for which the parent laboratory is accredited; and\n\n(3) Analyzes samples exclusively from within the state in which the parent fixed-base laboratory is located.\n\n(b) A mobile laboratory owned by an accredited fixed-base laboratory shall be considered a separate laboratory requiring separate accreditation, subject to the same application process, fees, assessments, and other requirements as any other environmental laboratory, if it:\n\n(1) Does not operate under the same quality system as the fixed-based laboratory;\n\n(2) Performs analyses for which the fixed-base laboratory is not accredited; or\n\n(3) Analyzes samples from outside of the state in which the parent fixed-base laboratory is located.\n\n(c) Individual or remote sites shall be subject to the same application process, fees, assessments, and other requirements as other environmental laboratories, subject to the following:\n\n(1) A part of a laboratory that is in a building in proximity to the laboratory shall not be considered an individual or remote site; and\n\n(2) A location that is only a sample collection site shall not be considered an environmental laboratory that is subject to the requirements of this chapter.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

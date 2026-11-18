@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4005.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4005",
+  "definition": "Exclusions from Filing Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4005.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4005.02 Exclusions from Filing Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4005.02 Exclusions from Filing Requirements.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers shall not be required to submit health care claims data files, Health Care Effectiveness Data and Information Set (HEDIS®) data, or Consumer Assessment of Health Plans Survey (CAHPS) survey data if they meet the following criteria:\n\n(1) For carriers that do not offer any products on the health insurance exchange for residents of New Hampshire and that did not cover more than 9,999 members in New Hampshire at any point in any medical, pharmacy, or dental coverage class during the prior calendar year; or\n\n(2) For third-party administrators and pharmacy benefit managers that did not cover more than 9,999 members in New Hampshire at any point in any medical, pharmacy, or dental coverage class during the prior calendar year.\n\n(b) Carriers, third-party administrators, and pharmacy benefit managers shall perform the calculation for (a) above at the entity level, meaning the level at which major governance decisions are made under a senior leadership team, regardless of the number of companies operating under separate corporate divisions. Carriers, third-party administrators, or pharmacy benefit managers experiencing a drop in membership below the de minimis threshold shall submit claims data and any corrections to membership files for a period of 180 days from the point the carrier, third-party administrator, or pharmacy benefit manager no longer meets the de minimis exemption.\n\n(c) Carriers, third-party administrators, and pharmacy benefit managers shall not be required to submit health care claims data about coverage that is not part of a comprehensive medical insurance policy, including the following:\n\n(1) Specific disease;\n\n(2) Accident;\n\n(3) Injury;\n\n(4) Hospital indemnity;\n\n(5) Disability;\n\n(6) Long-term care;\n\n(7) Vision coverage;\n\n(8) Durable medical equipment; or\n\n(9) Blanket health insurance.\n\nSource. #8279, eff 2-3-05; ss by #9500, eff 7-6-09; ss by #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

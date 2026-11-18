@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plu/206",
+  "@type": "Concept",
+  "agencyCode": "Plu",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/plu/200",
+  "definition": "FILING, FORMAT AND DELIVERY OF DOCUMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plu/206.01",
+    "https://granitestate.github.io/rules/plu/206.02",
+    "https://granitestate.github.io/rules/plu/206.03"
+  ],
+  "notation": "Plu 206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plu100-500.html",
+  "prefLabel": "Plu 206 FILING, FORMAT AND DELIVERY OF DOCUMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plu 206 FILING, FORMAT AND DELIVERY OF DOCUMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plu100-500.html"
+}

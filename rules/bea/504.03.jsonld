@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/504.03",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:71",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-71",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:73",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-73",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-71",
+    "https://granitestate.github.io/rsa/12-O/12-O-73",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/504",
+  "definition": "Benefits of HC Designation",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 504.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 504.03 Benefits of HC Designation",
+  "recordType": "rule-section",
+  "ruleText": "Bea 504.03 Benefits of HC Designation. Municipalities with an active HC designation shall receive the following benefits:\n\n(a) Preferential access to state resources including, but not limited to, discretionary state infrastructure funds, as available; and\n\n(b) Eligibility for the housing production municipal grant program and the housing infrastructure municipal grant and loan program.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

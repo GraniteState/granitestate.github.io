@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "definition": "Water Well Board (Pursuant to 1986, 202:2, IV and RSA 482-B:3, I, the Water Well Board is an agency “administered by the Commissioner of the Department of Environmental Services”, but it has authority to adopt its own rules. See RSA 482-B:4 and RSA 21-O:3, IV.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/100",
+    "https://granitestate.github.io/rules/we/200",
+    "https://granitestate.github.io/rules/we/300",
+    "https://granitestate.github.io/rules/we/400",
+    "https://granitestate.github.io/rules/we/500",
+    "https://granitestate.github.io/rules/we/600",
+    "https://granitestate.github.io/rules/we/700",
+    "https://granitestate.github.io/rules/we/800",
+    "https://granitestate.github.io/rules/we/900",
+    "https://granitestate.github.io/rules/we/1000"
+  ],
+  "notation": "We",
+  "prefLabel": "We Water Well Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb/101",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "authority": [
+    {
+      "citation": "21-G:10",
+      "source": "https://granitestate.github.io/rsa/21-G/21-G-10",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "357-D:5",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-G/21-G-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/arb/100",
+  "definition": "DEFINITIONS OF TERMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/arb/101.01"
+  ],
+  "notation": "Arb 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html",
+  "prefLabel": "Arb 101 DEFINITIONS OF TERMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Arb 101 DEFINITIONS OF TERMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html"
+}

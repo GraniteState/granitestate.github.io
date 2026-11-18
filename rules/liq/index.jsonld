@@ -1,0 +1,25 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "definition": "State Liquor Commission",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/100",
+    "https://granitestate.github.io/rules/liq/200",
+    "https://granitestate.github.io/rules/liq/300",
+    "https://granitestate.github.io/rules/liq/400",
+    "https://granitestate.github.io/rules/liq/500",
+    "https://granitestate.github.io/rules/liq/600",
+    "https://granitestate.github.io/rules/liq/700",
+    "https://granitestate.github.io/rules/liq/800",
+    "https://granitestate.github.io/rules/liq/900",
+    "https://granitestate.github.io/rules/liq/1000",
+    "https://granitestate.github.io/rules/liq/1100"
+  ],
+  "notation": "Liq",
+  "prefLabel": "Liq State Liquor Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

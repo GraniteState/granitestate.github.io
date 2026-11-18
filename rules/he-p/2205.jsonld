@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/2205",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "131:4",
+      "source": "https://granitestate.github.io/rsa/131/131-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/131/131-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/2200",
+  "definition": "LABORATORY FEE SCHEDULE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/2205.01",
+    "https://granitestate.github.io/rules/he-p/2205.02",
+    "https://granitestate.github.io/rules/he-p/2205.03",
+    "https://granitestate.github.io/rules/he-p/2205.04",
+    "https://granitestate.github.io/rules/he-p/2205.05",
+    "https://granitestate.github.io/rules/he-p/2206.01",
+    "https://granitestate.github.io/rules/he-p/2206.07"
+  ],
+  "notation": "He-P 2205",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p2200.html",
+  "prefLabel": "He-P 2205 LABORATORY FEE SCHEDULE",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 2205 LABORATORY FEE SCHEDULE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p2200.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/404.05",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:7",
+      "paragraphs": [
+        "XVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:19",
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/404",
+  "definition": "Notice",
+  "effectiveDate": "2021-05-13",
+  "historyNote": "#6577, eff 9-13-97 (formerly Bar 503.02); ss by #7323, eff 7-26-00; ss by #9221, INTERIM, eff 7-30-08; ss by #9345, eff 12-10-08; ss by #10808, eff 4-2-15; ss by #13205, eff 5-13-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 404.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 404.05 Notice",
+  "recordType": "rule-section",
+  "ruleText": "Bar 404.05 Notice.\n\n(a) Upon completion of an inspection, the board shall notify any licensee the board is considering imposing a fine upon with an inspection report described in Bar 404.01, which states the following information:\n\n(1) The proposed amount of the fine according to Part Bar 404.08 and Bar 404.09; and\n\n(2) The person’s right to a hearing before the board prior to final determination of a fine.\n\n(b) The notice shall state that the person shall have the following options upon receipt of the notice:\n\n(1) To waive the right to a hearing and pay the proposed fine immediately;\n\n(2) To request a pre-hearing conference in accordance with Bar 404.06; or\n\n(3) To request in writing a hearing in accordance with Bar 404.07.\n\nSource. #6577, eff 9-13-97 (formerly Bar 503.02); ss by #7323, eff 7-26-00; ss by #9221, INTERIM, eff 7-30-08; ss by #9345, eff 12-10-08; ss by #10808, eff 4-2-15; ss by #13205, eff 5-13-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

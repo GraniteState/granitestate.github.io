@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1507",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1500",
+  "definition": "REQUIREMENTS FOR PERMANENT METHODS FOR PROTECTING WATER QUALITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1507.01",
+    "https://granitestate.github.io/rules/env-wq/1507.02",
+    "https://granitestate.github.io/rules/env-wq/1507.03",
+    "https://granitestate.github.io/rules/env-wq/1507.04",
+    "https://granitestate.github.io/rules/env-wq/1507.05",
+    "https://granitestate.github.io/rules/env-wq/1507.06",
+    "https://granitestate.github.io/rules/env-wq/1507.07"
+  ],
+  "notation": "Env-Wq 1507",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1507 REQUIREMENTS FOR PERMANENT METHODS FOR PROTECTING WATER QUALITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1507 REQUIREMENTS FOR PERMANENT METHODS FOR PROTECTING WATER QUALITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.09",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Effect of Electronic Signature",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.09 Effect of Electronic Signature",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.09 Effect of Electronic Signature.\n\n(a) The presence of an electronic signature on an electronic document submitted to an NHEDRS shall establish that the signatory intended to:\n\n(1) Sign the electronic document; and\n\n(2) Submit it to the department to fulfill the purpose of the electronic document.\n\n(b) If an electronic document transmitted to an NHEDRS to satisfy a reporting requirement of an authorized NH program bears an electronic signature, the electronic signature shall legally bind, obligate, and make the reporter and the signatory responsible to the same extent as the submittal of a paper copy of the document bearing the signatory’s handwritten signature.\n\n(c) If an applicable law or rule requires a handwritten signature on a document submitted to the department to satisfy a requirement of an authorized NH program, an electronic signature on an electronic document transmitted to the appropriate NHEDRS shall satisfy the requirement provided:\n\n(1) The reporter has filed a certificate of authority and at least one subscriber agreement; and\n\n(2) The department has issued an ESD to the identified signatory, as described in Env-C 214.05(d)(2).\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

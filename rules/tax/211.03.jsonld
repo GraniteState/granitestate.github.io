@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/211.03",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/211",
+  "definition": "Procedures for Processing Appeal",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 211.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 211.03 Procedures for Processing Appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 211.03 Procedures for Processing Appeal.\n\n(a) Upon receipt of the municipality's appeal, the board shall:\n\n(1) Determine if the appeal was timely filed; and\n\n(2) Send a copy of the appeal to the DRA.\n\n(b) If the appeal was timely filed, the board shall hold a telephone conference with the municipality and DRA to determine:\n\n(1) Discovery timelines and a hearing date;\n\n(2) What documents used by DRA in calculating the equalized valuation need to be provided to the municipality either prior to or at the hearing;\n\n(3) Further clarification of the municipality's reasons for appeal if the application lacks adequate specificity; and\n\n(4) If stipulations to any agreed facts are feasible.\n\nSource. #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

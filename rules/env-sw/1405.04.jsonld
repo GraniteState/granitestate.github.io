@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1405.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1405",
+  "definition": "Release of Financial Assurance Obligation",
+  "effectiveDate": "2024-09-03",
+  "historyNote": "#14068, eff 9-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1405.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html",
+  "prefLabel": "Env-Sw 1405.04 Release of Financial Assurance Obligation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1405.04 Release of Financial Assurance Obligation. An approved financial assurance plan, or any part thereof, shall remain in effect unless:\n\n(a) A facility meets the requirements in Env-Sw 1405.02(d);\n\n(b) The facility is no longer defined as a facility in accordance with Env-Sw 103 and has completed the general closure requirements specified in Env-Sw 1006.02, Env-Sw 1106, Env-Sw 1205, and other rules as applicable; or\n\n(c) The permittee obtains written approval from the department to replace a financial assurance mechanism specified in Env-Sw 1403.03(a), Env-Sw 1403.03(b), Env-Sw 1403.04(b), or Env-Sw 1403.04(c).\n\nSource. #14068, eff 9-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1400.html"
+}

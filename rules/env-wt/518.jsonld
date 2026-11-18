@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/518",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/500",
+  "definition": "OTHER WATER-RELATED NON-DOCKING STRUCTURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/518.01",
+    "https://granitestate.github.io/rules/env-wt/518.02",
+    "https://granitestate.github.io/rules/env-wt/518.03",
+    "https://granitestate.github.io/rules/env-wt/518.04",
+    "https://granitestate.github.io/rules/env-wt/518.05",
+    "https://granitestate.github.io/rules/env-wt/518.06",
+    "https://granitestate.github.io/rules/env-wt/518.07"
+  ],
+  "notation": "Env-Wt 518",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html",
+  "prefLabel": "Env-Wt 518 OTHER WATER-RELATED NON-DOCKING STRUCTURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 518 OTHER WATER-RELATED NON-DOCKING STRUCTURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt500.html"
+}

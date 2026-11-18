@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1002.29",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Full-Time Use or Full-Time Occupancy",
+  "authority": [
+    {
+      "citation": "485-A:2",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-2",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1002",
+  "definition": "“Full-time use” or “full-time occupancy” means that a structure",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "#14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1002.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1002.29 “Full-time use” or “full-time occupancy” means that a structure",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1002.29 “Full-time use” or “full-time occupancy” means that a structure:\n\n(a) Is occupied for 9 or more months out of 12 consecutive months; or\n\n(b) Meets all of the following criteria:\n\n(1) Has insulation;\n\n(2) Has a heating system;\n\n(3) Is served by a potable year-round water supply;\n\n(4) Has indoor plumbing and a wastewater disposal system that does not discharge untreated waste water directly to the ground, to surface waters, or to groundwater; and\n\n(5) Is served by a full-time power source.\n\nSource. #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

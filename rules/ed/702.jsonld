@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/702",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:61",
+      "source": "https://granitestate.github.io/rsa/186/186-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/700",
+  "definition": "ADULT HIGH SCHOOL DIPLOMA PROGRAM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/702.01",
+    "https://granitestate.github.io/rules/ed/702.02",
+    "https://granitestate.github.io/rules/ed/702.03",
+    "https://granitestate.github.io/rules/ed/702.04",
+    "https://granitestate.github.io/rules/ed/702.05",
+    "https://granitestate.github.io/rules/ed/702.06",
+    "https://granitestate.github.io/rules/ed/702.07",
+    "https://granitestate.github.io/rules/ed/702.08"
+  ],
+  "notation": "Ed 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed700.html",
+  "prefLabel": "Ed 702 ADULT HIGH SCHOOL DIPLOMA PROGRAM",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 702 ADULT HIGH SCHOOL DIPLOMA PROGRAM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed700.html"
+}

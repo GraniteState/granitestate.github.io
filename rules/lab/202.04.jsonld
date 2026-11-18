@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/202.04",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "altLabel": "Ex Parte Communication",
+  "authority": [
+    {
+      "citation": "273",
+      "source": "https://granitestate.github.io/rsa/273",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "281-A:42-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:36",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-36",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/273",
+    "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/202",
+  "definition": "Ex parte communication",
+  "effectiveDate": "2026-03-12",
+  "historyNote": "#8922-A, eff 7-1-07; ss by #14534, eff 3-12-26 (formerly Lab 202.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 202.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html",
+  "prefLabel": "Lab 202.04 Ex parte communication",
+  "recordType": "rule-section",
+  "ruleText": "Lab 202.04 “Ex parte communication” means the transmittal of evidence or statements concerning the merits of a contested case to or from a hearing officer, member of the compensation appeals board, or member of the vocational rehabilitation provider advisory board without notice to all parties to the proceeding and not done in their presence.\n\nSource. #8922-A, eff 7-1-07; ss by #14534, eff 3-12-26 (formerly Lab 202.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html"
+}

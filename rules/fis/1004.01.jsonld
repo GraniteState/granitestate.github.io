@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1004.01",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "212-A:9",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1004",
+  "definition": "Consultation",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#13313, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1004.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html",
+  "prefLabel": "Fis 1004.01 Consultation",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1004.01 Consultation.\n\n(a) Pursuant to RSA 212-A: 9, III, an applicant, as herein defined, shall request site specific consultation with the department if required by a state agency as part of a request for issuance of a permit, approval, or other written authorization from that state agency.\n\n(b) The requirements of Fis 1004 shall not apply to proposed actions authorized by a state agency through a statutory permit by notification, permit by rule, permit by notification, routine roadway registration, docking structure registration, or conditional authorization by rule.\n\n(c) Notwithstanding the foregoing, nothing set forth in Fis 1004 shall act to waive any requirements of RSA 212-A:9, III or any rule duly enacted by another state agency.\n\nSource. #13313, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1000.html"
+}

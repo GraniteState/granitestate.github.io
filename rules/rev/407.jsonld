@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/407",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "72:36",
+      "via": "appendix"
+    },
+    {
+      "citation": "72:36-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/400",
+  "definition": "SURVIVING SPOUSE TAX CREDIT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/407.01",
+    "https://granitestate.github.io/rules/rev/407.02",
+    "https://granitestate.github.io/rules/rev/407.03",
+    "https://granitestate.github.io/rules/rev/407.04",
+    "https://granitestate.github.io/rules/rev/408.04",
+    "https://granitestate.github.io/rules/rev/408.05"
+  ],
+  "notation": "Rev 407",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html",
+  "prefLabel": "Rev 407 SURVIVING SPOUSE TAX CREDIT",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 407 PROPERTY HELD IN LIFE OR TRUST ESTATE.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev400.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/205.13",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/205",
+  "definition": "Reconvening of Hearings",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 205.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 205.13 Reconvening of Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 205.13 Reconvening of Hearings.\n\n(a) If a hearing is held in a party’s absence pursuant to Env-WMC 205.12, the party may file a motion within 10 days after the date of the hearing to reconvene the hearing.\n\n(b) The motion shall:\n\n(1) State the reason(s) why the party was absent from the hearing;\n\n(2) State why the appeals clerk was not notified of the absence in advance of the hearing; and\n\n(3) Be supported by affidavits or other objective evidence.\n\n(c) If the council determines that good cause exists to explain the party’s failure to appear at the hearing and to explain the party’s failure to notify the appeals clerk in advance of the hearing, the council shall reconvene the hearing by scheduling another hearing. Good cause shall mean accident, sudden illness, death of a family member, or other circumstance beyond the control of the party which prevents the party from attending the hearing and from notifying the appeals clerk.\n\nSource. #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

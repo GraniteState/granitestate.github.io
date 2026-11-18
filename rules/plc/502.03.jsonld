@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/502.03",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Evaluative Report",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:29-a",
+      "source": "https://granitestate.github.io/rsa/318/318-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:36-a",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/318/318-29-a",
+    "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+    "https://granitestate.github.io/rsa/329/329-13-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/502",
+  "definition": "Evaluative report",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#13971, eff 7-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 502.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html",
+  "prefLabel": "Plc 502.03 Evaluative report",
+  "recordType": "rule-section",
+  "ruleText": "Plc 502.03 “Evaluative report” means a report that evaluates and reports on an approved provider’s services, that includes:\n\n(a) Information on the number of participants who received services during the reporting period, the boards represented by the participants, and how many participants are known to the board and how many are not known to the board;\n\n(b) Information on participant outcomes, such as the number or percentage, or both, of participants who completed a monitoring agreement, returned to work, relapsed, or otherwise did not comply with the participant’s program agreement;\n\n(c) Updates on continuing education provided; and\n\n(d) Any quality improvement measures implemented in the reporting period.\n\nSource. #13971, eff 7-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html"
+}

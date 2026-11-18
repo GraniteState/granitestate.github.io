@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3220.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "V-a",
+        "VII-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59-b",
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3220",
+  "definition": "Air Injection Pump/Pulse Air System",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "(See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15 New. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3220.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3220.02 Air Injection Pump/Pulse Air System",
+  "priorExpiration": "2016-01-12",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3220.02 Air Injection Pump/Pulse Air System.\n\n(a) The air injection pump/pulse air system shall be required on all vehicles less than 20 model years old, if so equipped at the time of manufacture.\n\n(b) A vehicle shall be rejected if:\n\n(1) The air injection pump/pulse air system is missing;\n\n(2) It is plainly obvious that the air injection pump/pulse air system does not function; or\n\n(3) Any hoses associated with the air injection pump/pulse air system are missing or do not function.\n\nSource. (See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15\n\nNew. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

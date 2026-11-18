@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/809.01",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:32",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-32",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/809",
+  "definition": "Intervention",
+  "effectiveDate": "2000-05-03",
+  "historyNote": "#7129, eff 5-3-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 809.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html",
+  "prefLabel": "Jus 809.01 Intervention",
+  "recordType": "rule-section",
+  "ruleText": "Jus 809.01 Intervention.\n\n(a) A non-party may intervene in a matter pending before an agency under the provisions of RSA 541-A:32, by filing a motion stating facts demonstrating that the non-party's rights or other substantial interests might be affected by the proceeding or that the non-party qualifies as an intervenor under any provision of law.\n\n(b) If the presiding officer determines that such intervention would be in the interests of justice and would not impair the orderly and prompt conduct of the hearing, he or she shall grant the motion for intervention.\n\n(c) Except as limited by the presiding officer under RSA 541-A:32, III, an intervenor shall be entitled to participate in a hearing as a party.\n\nSource. #7129, eff 5-3-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html"
+}

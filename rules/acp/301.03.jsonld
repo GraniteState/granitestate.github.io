@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/acp/301.03",
+  "@type": "Concept",
+  "agencyCode": "Acp",
+  "authority": [
+    {
+      "citation": "328-G:7",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-G:9",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/acp/301",
+  "definition": "Application Denial",
+  "effectiveDate": "2023-12-26",
+  "historyNote": "#7872, eff 4-14-03; ss by #10004, INTERIM, eff 9-22-11, EXPIRED: 3-20-12 New. #10158, eff 6-27-12, EXPIRED: 6-27-22 New. #13800, eff 12-26-23 (see Revision Note at chapter heading for Acp 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Acp 301.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html",
+  "prefLabel": "Acp 301.03 Application Denial",
+  "priorExpiration": "2022-06-27",
+  "recordType": "rule-section",
+  "ruleText": "Acp 301.03 Application Denial. An application on file with the board pursuant to Acp 301.01(d) shall be denied if the information disclosed pursuant to Acp 301.02(n) indicates the applicant cannot be relied upon to practice competently, safely, and honestly, or adhere to the ethical and professional requirements of Acp 500.\n\nSource. #7872, eff 4-14-03; ss by #10004, INTERIM, eff 9-22-11, EXPIRED: 3-20-12\n\nNew. #10158, eff 6-27-12, EXPIRED: 6-27-22\n\nNew. #13800, eff 12-26-23 (see Revision Note at chapter heading for Acp 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/acp100-700.html"
+}

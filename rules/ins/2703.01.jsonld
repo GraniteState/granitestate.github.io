@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2703.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:5-a",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3",
+    "https://granitestate.github.io/rsa/420-J/420-J-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2703",
+  "definition": "Applicability and Scope",
+  "effectiveDate": "2026-05-22",
+  "expirationDate": "2036-05-22",
+  "historyNote": "#7539, eff 8-1-01; ss by 8862, eff 5-1-07 (from 2703.02); ss by#10918, eff 9-1-15; ss by #14595, eff 5-22-26, EXPIRES: 5-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2703.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2703.01 Applicability and Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2703.01 Applicability and Scope.\n\n(a) Except as provided in (b) below, the external review requirements set forth in this part shall apply to all health carriers that makes an adverse determination concerning a covered person.\n\n(b) The external review requirements set forth in this part shall not apply to determinations relating to health care services, items, or drugs available under the coverages of programs listed below:\n\n(1) Long-term care insurance, as defined by RSA 415-D:3, V;\n\n(2) Coverage under a plan through Medicare, Medicaid, and the state Children’s Health Insurance Program, under Title XXI of the Social Security Act, including services provided under these programs but through a contracted health carrier;\n\n(3) Health care services provided to inmates by the department of corrections;\n\n(4) The federal employees health benefits program;\n\n(5) Coverage issued under chapter 55 of title 10 of the United States Code regarding medical and dental care for members of the Armed Forces;\n\n(6) Coverage issued as supplemental to liability insurance, workers’ compensation or similar insurance, automobile medical-payment insurance, or any insurance under which benefits are payable with or without regard to fault, whether written on a group blanket or individual basis; or\n\n(7) Health care services provided pursuant to a health plan not regulated by the state, such as self-funded plans administered by an administrative services organization or third-party administrator.\n\n(c) The external review procedures set forth in this chapter shall not be utilized to adjudicate claims or allegations of health care provider malpractice, professional negligence, or other professional fault against participating providers or medical directors.\n\nSource. #7539, eff 8-1-01; ss by 8862, eff 5-1-07 (from 2703.02); ss by#10918, eff 9-1-15; ss by #14595, eff 5-22-26, EXPIRES: 5-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

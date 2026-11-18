@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2405.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "V",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:47-i",
+      "source": "https://granitestate.github.io/rsa/318/318-47-i",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-47-i"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2405",
+  "definition": "Patient Age Requirements",
+  "effectiveDate": "2022-02-17",
+  "historyNote": "#13343, eff 2-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2405.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2405.01 Patient Age Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2405.01 Patient Age Requirements. Pharmacists shall only dispense hormonal contraceptives to a person who is:\n\n(a) At least 18 years of age, regardless of whether the person has evidence of a previous prescription from a primary care practitioner or a women’s health care practitioner for a hormonal contraceptive; or\n\n(b) Under 18 years of age, only if the person has evidence of a previous prescription from a primary care practitioner or women’s health care practitioner for a hormonal contraceptive.\n\nSource. #13343, eff 2-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/304.23",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Revocation of Certificate; Refusal to Renew Certificate",
+  "authority": [
+    {
+      "citation": "485-A:7-c",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:7-d",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-7-d",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-7-d"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/304",
+  "definition": "Conditional Renewal of Certificate",
+  "effectiveDate": "2023-09-27",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Wq 304) #10392, eff 8-1-13; ss by #13755, eff 9-27-23 (formerly Env-Wq 304.25) (see Revision Note #2 at part heading for Env-Wq 304)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 304.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html",
+  "prefLabel": "Env-Wq 304.23 Conditional Renewal of Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 304.23 Conditional Renewal of Certificate. In any proceeding initiated pursuant to Env-Wq 304.20 relative to an application to renew a certificate where the criteria for refusing to renew the certificate specified in Env-Wq 304.21(a) are not met but the department determines that at least one of the underlying causes for the action has been proven, the department shall renew the certificate subject to the following conditions:\n\n(a) The operator shall take such action(s) as may be required to remedy the underlying cause(s) for the action; and\n\n(b) The operator shall take such additional continuing education as the department determines is needed to help ensure that the operator will not repeat the conduct that caused the department to consider refusing to renew the certification.\n\nSource. (See Revision Note #1 at part heading for Env-Wq 304) #10392, eff 8-1-13; ss by #13755, eff 9-27-23 (formerly Env-Wq 304.25) (see Revision Note #2 at part heading for Env-Wq 304)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html"
+}

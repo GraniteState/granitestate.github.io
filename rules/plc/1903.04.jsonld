@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1903.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:222",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-222",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-8",
+    "https://granitestate.github.io/rsa/310-A/310-A-222"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1903",
+  "definition": "Information Required for Initial Doula Certification Application",
+  "effectiveDate": "2026-01-16",
+  "expirationDate": "2036-01-16",
+  "historyNote": "#14429, eff 1-16-26, EXPIRES 1-16-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1903.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html",
+  "prefLabel": "Plc 1903.04 Information Required for Initial Doula Certification Application",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1903.04 Information Required for Initial Doula Certification Application. In addition to the information required by Plc 304.03, an applicant for initial doula certification shall provide:\n\n(a) If qualifying under Plc 1903.02(b)(1), the name, location, and URL of the certifying organization; or\n\n(b) If qualifying under Plc 1903.02(b)(2):\n\n(1) The name, location, and URL of the school or program that provided the applicant’s doula training;\n\n(2) The city and state of each of the required births the applicant attended in the preceding 5 years; and\n\n(3) The city and state in which the applicant made each of the required visits during the perinatal period in each year after completing training.\n\nSource. #14429, eff 1-16-26, EXPIRES 1-16-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1900.html"
+}

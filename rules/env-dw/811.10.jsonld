@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Reporting of Violations",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.10 Reporting of Violations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.10 Reporting of Violations.\n\n(a) If a drinking water monitoring requirement, reporting requirement, public notice requirement, MCL, MRDL, or treatment technique has been violated, the CCR shall, in the table format specified in Env-Dw 811.11:\n\n(1) Provide a clear, understandable explanation of the violation;\n\n(2) Identify the MCL, MRDL, MCLG, and MRDLG, as applicable, as specified in (c), below;\n\n(3) Identify the length of time the violation occurred or, if the violation is continuing, the date the violation first occurred;\n\n(4) Describe the potential health effects of the MCL, MRDL, or treatment technique violation by using the applicable health effects language as specified in Env-Dw 804 through Env-Dw 810; and\n\n(5) Describe the action(s) taken by the CWS to address the violation.\n\n(b) If a violation of filtration or disinfection processes as specified in Env-Dw 716 is reported, the CCR shall contain the following statement:\n\n“Inadequately treated water may contain disease causing organisms. These organisms include bacteria, viruses, and parasites which can cause symptoms such as nausea, cramps, diarrhea, and associated headaches.”\n\n(c) The MCL, MRDL, MCLG, and MRDLG for a contaminant shall be expressed in identical units as a number equal to or greater than 1.0, as specified in Env-Dw 811.25, table 811-2.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2501.10",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "National Automated Clearing House Association",
+  "authority": [
+    {
+      "citation": "21-J:1",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:3",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-1",
+    "https://granitestate.github.io/rsa/21-J/21-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2501",
+  "definition": "National automated clearing house association (NACHA)",
+  "effectiveDate": "2023-08-18",
+  "historyNote": "#6639, eff 11-27-97, EXPIRED 11-27-05 New. #8495, eff 11-30-05 ss by #10484, eff 12-5-13; ss by #10484, eff 12-5-13 (from Rev 2501.10); ss by #13724, eff 8-18-23 (formerly Rev 2501.11)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2501.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html",
+  "prefLabel": "Rev 2501.10 National automated clearing house association (NACHA)",
+  "priorExpiration": "2005-11-27",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2501.10 defining “holiday” was repealed by Document #13724. The prior filings affecting the rule Rev 2501.10 included the following documents:\n\n#6639, eff 11-27-97, EXPIRED 11-27-05\n\n#8495, eff 11-30-05 (formerly Rev 2501.08)\n\n#10484, eff 12-5-13 (from Rev 2501.09)\n\nDocument #13724 eliminated the reserved numbers, and thereby the source notes, for the following rules:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2500.html"
+}

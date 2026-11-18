@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/5902.08",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:12-b",
+      "paragraphs": [
+        "II(g)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:20",
+      "paragraphs": [
+        "IV",
+        "XVI"
+      ],
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-20",
+      "via": "appendix"
+    },
+    {
+      "citation": "153-A:35",
+      "source": "https://granitestate.github.io/rsa/153-A/153-A-35",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-12-b",
+    "https://granitestate.github.io/rsa/153-A/153-A-20",
+    "https://granitestate.github.io/rsa/153-A/153-A-35"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/5902",
+  "definition": "Required EMSIR Documentation",
+  "effectiveDate": "2025-07-23",
+  "expirationDate": "2035-07-23",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19; ss by #14328, eff 7-23-25, EXPIRES: 7-23-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 5902.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html",
+  "prefLabel": "Saf-C 5902.08 Required EMSIR Documentation",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 5902.08 Required EMSIR Documentation.\n\n(a) Recordkeeping and reporting of EMS incidents by a provider or unit shall be made by providing the information in Saf-C 5902.07, as applicable, using one of the following methods:\n\n(1) Electronically, by completing all data elements on an EMSIR with an assigned validation value, using software developed and distributed by the division; or\n\n(2) Electronically, using software developed or purchased by the unit or receiving hospital or facility, that complies with the following:\n\na. The software shall meet all requirements of NEMSIS;\n\nb. The software shall be compatible with the division’s EMS NHESR database and any compatibility issues shall be the responsibility of the unit or receiving hospital or facility to resolve with its third party vendor;\n\nc. The software shall comply with formatting, EMS dataset, schema, and demographic dataset schema standards set by NEMSIS;\n\nd. Each record shall be uniquely identified; and\n\ne. Each record’s field codes shall be accurately mapped to the EMS NHESR database.\n\n(b) A provider from each of the responding EMS units shall complete an EMSIR for each incident, and each patient originating in this state, in which emergency medical care, transport, response, or transfer was:\n\n(1) Requested;\n\n(2) Rendered;\n\n(3) Refused; or\n\n(4) Canceled.\n\n(c) When there is no patient contact made or the patient is not transported to a hospital or facility, the primary patient caregiver shall complete an EMSIR and submit it to the division within 24 hours.\n\n(d) When a patient is transported to a hospital or facility, the primary patient caregiver shall complete an EMSIR and submit it to the hospital or facility in accordance with the valid MRH agreement.\n\n(e) The provider shall submit the EMSIR to the division within 24 hours.\n\n(f) The provider shall submit the EMSIR to the receiving hospital or facility, utilizing one of the following methods:\n\n(1) By printing a NHESR report;\n\n(2) By fax, to a secure location within the hospital or facility; or\n\n(3) By other secure electronic means that is in compliance with federal health insurance portability and accountability act (HIPAA) regulations.\n\n(g) The division shall provide standard, non-mobile access to NHESR at no cost to the unit.\n\n(h) EMSIR documentation shall be:\n\n(1) Accurate;\n\n(2) Complete; and\n\n(3) Submitted in accordance with (e) above.\n\n(i) Failure to submit EMSIR documentation in accordance with the requirements of (h) above shall be brought to the attention of the service NHESR administrator for remedial action.\n\n(j) Repeated violations of (h) above that occur after remedial action has been taken shall subject the unit or provider to disciplinary action pursuant to Saf-C 5922.\n\nSource. (See Revision Note #1 and Revision Note #2 at Chapter heading for Saf-C 5900) #12790, eff 5-24-19; ss by #14328, eff 7-23-25, EXPIRES: 7-23-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c5900.html"
+}

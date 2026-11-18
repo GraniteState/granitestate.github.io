@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3509.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A",
+      "source": "https://granitestate.github.io/rsa/400-A",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "409:5-b",
+      "paragraphs": [
+        "(f)"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "410:2-a",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A",
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3509",
+  "definition": "Purpose",
+  "effectiveDate": "2016-09-02",
+  "historyNote": "#9245, eff 9-2-08; ss by #11148, eff 9-2-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3509.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3509.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3509.01 Purpose. The purpose of this part is to establish for preneed insurance products minimum mortality standards for reserves and nonforfeiture values, and to require the use of the 1980 Commissioners Standard Ordinary (CSO) Life Valuation Mortality Table for use in determining the minimum standard of valuation of reserves and the minimum standard nonforfeiture values for preneed insurance products.\n\nSource. #9245, eff 9-2-08; ss by #11148, eff 9-2-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

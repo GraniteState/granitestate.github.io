@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hum/203",
+  "@type": "Concept",
+  "agencyCode": "Hum",
+  "authority": [
+    {
+      "citation": "354-A:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "354-A:21",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/354-A/354-A-21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/354-A/354-A-21"
+  ],
+  "broader": "https://granitestate.github.io/rules/hum/200",
+  "definition": "CHOICE OF SUPERIOR COURT AS FORUM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hum/203.01",
+    "https://granitestate.github.io/rules/hum/203.02",
+    "https://granitestate.github.io/rules/hum/203.03"
+  ],
+  "notation": "Hum 203",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hum100-300.html",
+  "prefLabel": "Hum 203 CHOICE OF SUPERIOR COURT AS FORUM",
+  "recordType": "rule-part",
+  "ruleText": "PART Hum 203 CHOICE OF SUPERIOR COURT AS FORUM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hum100-300.html"
+}

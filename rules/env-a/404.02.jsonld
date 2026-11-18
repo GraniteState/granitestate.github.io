@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/404.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D:3",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/404",
+  "definition": "Reporting Requirements",
+  "effectiveDate": "2023-05-23",
+  "historyNote": "#6469-B, eff 3-5-97 (from Env-A 406); ss and moved by #8233, eff 12-22-04 (from Env-A 405.02); ss by #10288, eff 3-19-13 (from Env-A 405.02); ss by #13641, eff 5-23-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 404.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a400.html",
+  "prefLabel": "Env-A 404.02 Reporting Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 404.02 Reporting Requirements. The owner or operator of a source that is subject to this chapter shall comply with the reporting requirements specified in Env-A 907.02.\n\nSource. #6469-B, eff 3-5-97 (from Env-A 406); ss and moved by #8233, eff 12-22-04 (from Env-A 405.02); ss by #10288, eff 3-19-13 (from Env-A 405.02); ss by #13641, eff 5-23-23\n\nAppendix A: Statutes Implemented\n\nAppendix B: Statutory Definitions\n\nRSA 125-D:2 Definitions. –\n\nIII. “Baseline emissions” means the total sulfur dioxide emissions in tons per calendar year averaged over the period 1979 through 1982 from all major sources.\n\nVII. “Average emission rate” means the weighted average on a BTU input basis of the emission rates of a major source, all major sources under a single ownership, or some other specified group of major sources during any calendar year. VIII. “Baseline average emission rate” means the weighted average on a BTU input basis of the emissions rates of a specified group of major sources over the period 1979 through 1982.\n\nVIII. “Baseline average emission rate” means the weighted average on a BTU input basis of the emissions rates of a specified group of major sources over the period 1979 through 1982.\n\nIX. “Maximum total heat input capacity” means the designed gross heat input capacity of a major source in millions of BTU per hour.\n\nRSA 125-D:3 Acid Deposition Control Program. –\n\nI. ...\n\n(a) All major sources of sulfur dioxide in operation during the baseline period shall be divided into 2 groups:\n\n(1) Sources with a maximum total heat input capacity equal to or greater than 1,000 MBTU/HR; or\n\n(2) Sources with a maximum total heat input capacity less than 1,000 MBTU/HR.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a400.html"
+}

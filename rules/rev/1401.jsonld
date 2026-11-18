@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1401",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "83-C:3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "83-C:5",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1400",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rev/1401.01",
+    "https://granitestate.github.io/rules/rev/1401.02",
+    "https://granitestate.github.io/rules/rev/1401.03",
+    "https://granitestate.github.io/rules/rev/1401.04"
+  ],
+  "notation": "Rev 1401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1400.html",
+  "prefLabel": "Rev 1401 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rev 1401 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1400.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Requirements for Aerosol Adhesives",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14 (from Env-A 4103.04); ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.05 Requirements for Aerosol Adhesives",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.05 Requirements for Aerosol Adhesives.\n\n(a) The standards for aerosol adhesives shall apply to all uses of aerosol adhesives, including consumer, industrial, and commercial uses.\n\n(b) Except as otherwise provided in Env-A 4101.04 or Env-A 4105.02, no person shall sell, supply, offer for sale, use, or manufacture for sale in New Hampshire on or after the applicable date specified in table 4105-1 any aerosol adhesive that, at the time of sale, use, or manufacture, contains VOCs in excess of the specified standard.\n\n(c) A product that is within the definition of special purpose spray adhesive in Env-A 4104.48 whose label indicates that the product is suitable for use on any substrate or application not listed in Env-A 4104.48 shall be classified as:\n\n(1) A mist spray adhesive, if it meets the definition of mist spray adhesive in Env-A 4104 other than as relates to a special purpose spray adhesive; or\n\n(2) A web spray adhesive, if it does not otherwise meet the definition of mist spray adhesive.\n\n(d) A product that is within more than one of the categories listed in Env-A 4104.48 and is not classified as a mist spray adhesive or web spray adhesive under (c), above, shall comply with the lowest VOC limit specified in table 4105-1 for special purpose spray adhesives.\n\n(e) No person shall sell, supply, offer for sale, or manufacture for use in New Hampshire any aerosol adhesive that contains methylene chloride, perchloroethylene, or trichloroethylene on or after the applicable effective date specified in table 4105-1.\n\n(f) All aerosol adhesives shall comply with the labeling requirements specified in Env-A 4106.03.\n\nSource. #10527, eff 2-26-14 (from Env-A 4103.04); ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

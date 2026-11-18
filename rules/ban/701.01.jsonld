@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/701.01",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "altLabel": "ANNUAL ASSESSMENT",
+  "authority": [
+    {
+      "citation": "383:9",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/383/383-9",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "383:11",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/383/383-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383/383-9",
+    "https://granitestate.github.io/rsa/383/383-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/700",
+  "definition": "Maximum Annual Assessment for Family Trust Companies",
+  "effectiveDate": "2026-03-26",
+  "expirationDate": "2036-03-26",
+  "historyNote": "11004, eff 12-23-15; ss by #14543, eff 3-26-26, EXPIRES: 3-26-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ban 701.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban700.html",
+  "prefLabel": "Ban 701.01 Maximum Annual Assessment for Family Trust Companies",
+  "recordType": "rule-section",
+  "ruleText": "Ban 701.01 Maximum Annual Assessment for Family Trust Companies.\n\nPursuant to RSA 383:11, II(b), the maximum annual assessment amount chargeable to a family trust company shall be $14,000.\n\nSource. 11004, eff 12-23-15; ss by #14543, eff 3-26-26, EXPIRES: 3-26-36\n\nAPPENDIX\n\nRule | Statute\n\nBan 701.01 | RSA 383:11, II(b); RSA 383:9, VI",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban700.html"
+}

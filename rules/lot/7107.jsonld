@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7107",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-E:18",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:24",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7100",
+  "definition": "LUCKY 7 TICKETS AND LUCKY 7 TICKET DISPENSING DEVICE REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7107.01",
+    "https://granitestate.github.io/rules/lot/7107.02",
+    "https://granitestate.github.io/rules/lot/7107.03",
+    "https://granitestate.github.io/rules/lot/7107.04",
+    "https://granitestate.github.io/rules/lot/7107.05"
+  ],
+  "notation": "Lot 7107",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html",
+  "prefLabel": "Lot 7107 LUCKY 7 TICKETS AND LUCKY 7 TICKET DISPENSING DEVICE REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7107 LUCKY 7 TICKETS AND LUCKY 7 TICKET DISPENSING DEVICE REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html"
+}

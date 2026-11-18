@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1806.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Renewal of License Required",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "X(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1806",
+  "definition": "Renewal License Required",
+  "effectiveDate": "2022-10-18",
+  "historyNote": "#13463, eff 10-18-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1806.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1806.01 Renewal License Required",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1806.01 Renewal License Required. All advanced practice pharmacy technician licenses shall expire biennially on March 31st in even numbered years.\n\nSource. #13463, eff 10-18-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

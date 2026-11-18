@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.25",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "483:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/483/483-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483/483-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Frequency of Monitoring for Nitrite; Confirmation Samples",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.25 Frequency of Monitoring for Nitrite; Confirmation Samples",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.25 Frequency of Monitoring for Nitrite; Confirmation Samples.\n\n(a) The O/O shall initially monitor for nitrite once in each 3 year compliance period to determine compliance with the MCL for nitrite in Env-Dw 704.\n\n(b) Subject to (c), below, if nitrite sampling results indicate an exceedance of the MCL and the PWS has no previous detections for nitrite, the O/O shall take a confirmation sample within 24 hours of receipt of notification of the analytical results of the first sample.\n\n(c) An O/O unable to comply with the 24 hour sampling requirement shall:\n\n(1) Immediately notify the persons served by the system in accordance with Env-Dw 800; and\n\n(2) Collect and analyze a confirmation sample within 7 days of notification of the analytical results of the first sample.\n\n(d) If the nitrite sampling results indicate an exceedance of the MCL and the system has previous detections for nitrite, no confirmation sample shall be necessary.\n\n(e) Subject to (g), below if nitrite results are 50% to 100% of the MCL, the O/O shall collect a confirmation sample within 7 days.\n\n(f) If a confirmation sample is required pursuant to (b) or (e), above, the results of the initial and confirmation samples shall be averaged in determining compliance.\n\n(g) If results from the sampling point or the contributing sources have historically demonstrated the presence of nitrite, then:\n\n(1) A confirmation sample shall not be required; and\n\n(2) The monitoring frequency for the approved sampling point shall be increased to quarterly for that contaminant.\n\nSource. #9700, eff 5-1-10; amd by #10771, eff 2-1-15; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

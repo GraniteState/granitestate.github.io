@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/503",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "altLabel": "FEES FOR MECHANICAL INSPTECTIONS",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/500",
+  "definition": "FEES FOR MECHANICAL INSPECTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mec/503.01"
+  ],
+  "notation": "Mec 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec500.html",
+  "prefLabel": "Mec 503 FEES FOR MECHANICAL INSPECTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Mec 503 FEES FOR MECHANICAL INSPECTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec500.html"
+}

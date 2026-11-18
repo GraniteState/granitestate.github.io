@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4702.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-L",
+      "source": "https://granitestate.github.io/rsa/402-L",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:6",
+      "source": "https://granitestate.github.io/rsa/415/415-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/402-L",
+    "https://granitestate.github.io/rsa/415/415-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4702",
+  "definition": "Purpose",
+  "effectiveDate": "2024-05-29",
+  "historyNote": "#10681, eff 11-3-14; ss by #13989, eff 5-29-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4702.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html",
+  "prefLabel": "Ins 4702.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4702.01 Purpose. The purpose of this part is to implement the provisions of RSA 402-L and RSA 415:6 to standardize and simplify the terms and provisions of individual accident and health travel insurance policies covering accidental death and dismemberment, and financial loss incurred for medical and dental care while on a planned trip away from an individual's home or usual place of work for trips lasting less than 12 months in duration, and to establish standards for the commissioner’s approval of forms and rates under RSA 415:1 and RSA 402-L:5, II.\n\nSource. #10681, eff 11-3-14; ss by #13989, eff 5-29-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4700.html"
+}

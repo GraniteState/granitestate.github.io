@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/612.30",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N",
+      "source": "https://granitestate.github.io/rsa/21-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N",
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/612",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 612.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html",
+  "prefLabel": "Ed 612.30",
+  "recordType": "rule-section",
+  "ruleText": "Ed 612.30\n\n#2055, eff 6-16-82\n\n#2714, eff 5-16-84, EXPIRED: 5-16-90\n\n#4851, eff 6-25-90, EXPIRED: 6-25-96\n\n#6366, eff 10-30-96\n\n#7923, eff 7-24-03\n\n#9939, INTERIM, eff 6-9-11, EXPIRED: 12-6-11\n\n#10130, eff 5-18-12, EXPIRED 5-18-22\n\nThe filings prior to Document #13476 for the repealed rules in Part Ed 614 included the following documents:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html"
+}

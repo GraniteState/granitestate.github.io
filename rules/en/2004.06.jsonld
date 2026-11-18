@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/2004.06",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/2002",
+  "definition": "Billing",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 2004.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html",
+  "prefLabel": "En 2004.06 Billing",
+  "recordType": "rule-section",
+  "ruleText": "En 2004.06 Billing.\n\n(a) Any CEPS bill not issued by the utility shall include the following information:\n\n(1) The starting and ending date of the billing period;\n\n(2) The starting meter reading and the ending meter reading for the billing period;\n\n(3) Any fixed monthly charges;\n\n(4) The price per kWh for electricity usage and all other applicable billing determinants;\n\n(5) An indication as to whether the bill is based on actual or estimated usage;\n\n(6) The total kWh and all other applicable billing determinants, such as demand charges used during the billing period, which shall include for customers on a time of use or similar pricing schedule the total kWh and all other applicable billing determinants used broken down by time of use;\n\n(7) The average price expressed per kWh billed by the CEPS to the customer during the billing period;\n\n(8) Any applicable penalty date and the amount of the applicable penalty, including but not limited to penalties for late payments;\n\n(9) Any other factors necessary to compute the charges;\n\n(10) An itemized breakdown of the charges, including any late fee or penalty, and the name of the company or entity assessing the charge;\n\n(11) The toll-free telephone number and e-mail address, if available, of the CEPS customer service department or customer service contact person;\n\n(12) A statement that the customer has the right to file a complaint with the department after the customer has attempted to resolve the dispute with the CEPS; and\n\n(13) The toll-free telephone number of the department’s division that processes customer complaints.\n\n(b) Upon request of a customer, a CEPS shall provide the customer with a clear and concise statement of the customer’s actual consumption for each billing period during the prior year or the months in the prior year during which the CEPS sold electricity to the customer.\n\n(c) A CEPS not using utility consolidated billing shall issue each monthly bill for residential and small commercial customers no later than 5 calendar days from the date usage is received from the utility.\n\nSource. #14583, eff 5-15-26, EXPIRES: 5-15-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2000.html"
+}

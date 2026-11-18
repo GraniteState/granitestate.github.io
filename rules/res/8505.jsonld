@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/8505",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "paragraphs": [
+        "II(f)",
+        "III",
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:19",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:34",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "651",
+      "source": "https://granitestate.github.io/rsa/651",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/651"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/8500",
+  "definition": "PENALTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/8505.01"
+  ],
+  "notation": "Res 8505",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html",
+  "prefLabel": "Res 8505 PENALTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 8505 PENALTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html"
+}

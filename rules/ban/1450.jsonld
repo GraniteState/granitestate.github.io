@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/1450",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "383-B:3",
+      "source": "https://granitestate.github.io/rsa/383-B/383-B-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383-B/383-B-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/1400",
+  "definition": "COLLATERALIZATION OF PUBLIC DEPOSITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ban/1450.01",
+    "https://granitestate.github.io/rules/ban/1450.02",
+    "https://granitestate.github.io/rules/ban/1450.03",
+    "https://granitestate.github.io/rules/ban/1450.04",
+    "https://granitestate.github.io/rules/ban/1450.05",
+    "https://granitestate.github.io/rules/ban/1450.06"
+  ],
+  "notation": "Ban 1450",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1400.html",
+  "prefLabel": "Ban 1450 COLLATERALIZATION OF PUBLIC DEPOSITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ban 1450 COLLATERALIZATION OF PUBLIC DEPOSITS\n\nStatutory Authority: RSA 383-B:3-301(e)(2)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1400.html"
+}

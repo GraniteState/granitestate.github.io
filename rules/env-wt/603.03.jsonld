@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/603.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/603",
+  "definition": "Data Screening",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 603.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 603.03 Data Screening",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 603.03 Data Screening.\n\n(a) In order to determine the appropriate impact classification of a project and the type of approval required, if any, the person responsible for a proposed project in a coastal area shall:\n\n(1) Conduct the data screening required by Env-Wt 306.05;\n\n(2) Identify documented shellfish sites, existing salt marsh, salt marsh migration pathways, the 100-year floodplain, and eel grass beds that might be impacted by the proposed project using the WPPT or any other database or source that provides the requisite information;\n\n(3) Conduct a data screening as described in (b), below, to identify documented essential fish habitat, and tides and currents that may be impacted by the proposed project;\n\n(4) Verify or correct the information collected from the data screenings by conducting an on-site assessment of the subject property in accordance with Env-Wt 406 and Env-Wt 603.04; and\n\n(5) Determine appropriate projected sea-level rise and location relative to available 100-year floodplain maps to inform the vulnerability assessment in Env-Wt 603.05.\n\n(b) The data screening required by (a)(3), above, shall be done using the links provided in Table 603-1, below:\n\nTable 603-1: Data Screening Links for Projects/Activities in Coastal Areas\n\nResource | Link\n\nNOAA Tides & Currents | https://tidesandcurrents.noaa.gov/\n\nNOAA Essential Fish Habitat Mapper | https://www.fisheries.noaa.gov/resource/map/essential-fish-habitat-mapper\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

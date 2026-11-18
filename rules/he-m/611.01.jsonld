@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m/611.01",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "authority": [
+    {
+      "citation": "135-C:48",
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-48",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "135-C:61",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/135-C/135-C-61",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "171-A:8-a",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "622:45",
+      "source": "https://granitestate.github.io/rsa/622/622-45",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/135-C/135-C-48",
+    "https://granitestate.github.io/rsa/135-C/135-C-61",
+    "https://granitestate.github.io/rsa/622/622-45"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-m/611",
+  "definition": "Purpose",
+  "effectiveDate": "2021-08-21",
+  "historyNote": "#7299, eff 5-25-00, EXPIRED: 5-25-08 New. #9229, EMERGENCY, eff 8-5-08, EXPIRES: 2-1-09; ss by #9371, eff 2-1-09, EXPIRED: 2-1-17 New. #12104, INTERIM, eff 2-14-17, EXPIRES: 8-13-17; ss by #12341, eff 7-25-17; ss by #13255, eff 8-21-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-M 611.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m600.html",
+  "prefLabel": "He-M 611.01 Purpose",
+  "priorExpiration": "2017-08-13",
+  "recordType": "rule-section",
+  "ruleText": "He-M 611.01 Purpose. The purpose of these rules is to define the criteria and procedures for the transfer of involuntarily admitted persons with mental illness or intellectual disability from New Hampshire hospital or any designated receiving facility in the developmental disabilities services system to the secure psychiatric unit in the correctional services system and from the secure psychiatric unit to New Hampshire hospital.\n\nSource. #7299, eff 5-25-00, EXPIRED: 5-25-08\n\nNew. #9229, EMERGENCY, eff 8-5-08, EXPIRES: 2-1-09; ss by #9371, eff 2-1-09, EXPIRED: 2-1-17\n\nNew. #12104, INTERIM, eff 2-14-17, EXPIRES: 8-13-17; ss by #12341, eff 7-25-17; ss by #13255, eff 8-21-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-m600.html"
+}

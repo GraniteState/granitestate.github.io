@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/901.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/901",
+  "definition": "Applicability",
+  "effectiveDate": "2025-09-20",
+  "expirationDate": "2035-09-20",
+  "historyNote": "#5505, eff 11-15-92; ss by #6087, eff 8-31-95; rpld by #6983-B, eff 4-23-99 New. #10892, eff 7-18-15; ss by #14374, eff 9-20-25, EXPIRES: 9-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 901.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html",
+  "prefLabel": "Env-A 901.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 901.02 Applicability. This chapter shall apply to each stationary source, area source, or device that discharges air pollutants into the ambient air and is regulated under RSA 125-C or RSA 125-I, or both.\n\nSource. #5505, eff 11-15-92; ss by #6087, eff 8-31-95; rpld by #6983-B, eff 4-23-99\n\nNew. #10892, eff 7-18-15; ss by #14374, eff 9-20-25, EXPIRES: 9-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html"
+}

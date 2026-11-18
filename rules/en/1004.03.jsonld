@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1004.03",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "378:3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1004",
+  "definition": "The Queue",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1004.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1004.03 The Queue",
+  "recordType": "rule-section",
+  "ruleText": "En 1004.03 The Queue. The utility shall assign the application a queue position once it is deemed complete pursuant to En 1004.02. The utility shall maintain a queue for all facilities evaluated under the standard process, which may be sortable by geographic region, for example feeder or substation. The queue shall be publicly available on the utility’s website, shall be updated at least monthly, and shall contain the following information:\n\n(a) Project ID number;\n\n(b) Nameplate rating in kW;\n\n(c) Export capacity in kW;\n\n(d) Primary fuel type, for example solar, wind, or bio-gas, if applicable;\n\n(e) Energy storage rating in kW, or not applicable;\n\n(f) Energy storage capacity in kWh, or not applicable;\n\n(g) Energy storage coupling either AC, DC, or not applicable;\n\n(h) Town or city;\n\n(i) Substation;\n\n(j) Feeder;\n\n(k) Status, for example whether active, withdrawn, or interconnected;\n\n(l) Name of group study, if applicable;\n\n(m) Date application deemed complete;\n\n(n) Date of execution of SISA;\n\n(o) Date of notification of SIS, if readily available;\n\n(p) Date of notification of detailed study results and construction estimates, if applicable and readily available;\n\n(q) Identifier of ASO group, if applicable;\n\n(r) Date final IA is issued to applicant;\n\n(s) Date IA is fully executed by the signature of both parties; and\n\n(t) Date of grant of permission to operate.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

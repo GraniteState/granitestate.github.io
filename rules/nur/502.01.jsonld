@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/502.01",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:11",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:37",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-37",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10",
+    "https://granitestate.github.io/rsa/326-B/326-B-37"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/502",
+  "definition": "Applicability",
+  "effectiveDate": "2017-01-01",
+  "historyNote": "#11117, eff 6-9-16; ss by #12070, eff 1-1-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nur 502.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 502.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Nur 502.01 Applicability. This part shall apply to the prescribing of opioids for the treatment of non-cancer and non-terminal pain, and shall not apply to the supervised administration of opioids in a health care setting.\n\nSource. #11117, eff 6-9-16; ss by #12070, eff 1-1-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

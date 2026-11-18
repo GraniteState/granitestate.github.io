@@ -58,7 +58,9 @@ Proposed later step, not done here:
 
 `https://sos.nh.gov/` and `https://www.sos.nh.gov/` return 403. The body is an Akamai "Access Denied" page (`errors.edgesuite.net`, reference number in the body). The RSA HTML on gc.nh.gov did not do that.
 
-## Administrative rules (later; not built)
+## Administrative rules
+
+The rule pages are built. `scripts/build_rules.py` reads `GraniteState/adm-rules-data` at the commit in `sources/provenance.json` and writes `/rules/`. Each RSA section page lists implementing rules at `#implementing-rules`. The notes below are what this environment observed on 2026-11-14, before that snapshot. They are not links from the rule pages.
 
 The Office of Legislative Services, Administrative Rules, is at `https://gc.nh.gov/rules/`. It says there is no official publisher of the complete New Hampshire Code of Administrative Rules. OLS does not publish the rules. Each agency publishes its own. `https://gc.nh.gov/rules/about_rules/official_version.aspx` says that for rules filed after August 25, 1998 the as-filed copy is the official version, and the online text is an edited camera-ready copy the agency certifies. `https://gc.nh.gov/rules/about_rules/checkrule.aspx` says an online rule can lag an amendment or an expiration until the agency certifies the update.
 

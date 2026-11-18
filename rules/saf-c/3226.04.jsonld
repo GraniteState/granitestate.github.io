@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3226.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:7",
+      "source": "https://granitestate.github.io/rsa/266/266-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3226",
+  "definition": "Truck, Bus and Commercial Vehicle Air Brake System Components",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "(See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15 New. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3226.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3226.04 Truck, Bus and Commercial Vehicle Air Brake System Components",
+  "priorExpiration": "2016-01-12",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3226.04 Truck, Bus and Commercial Vehicle Air Brake System Components.\n\n(a) Each vehicle equipped with air-assisted service brakes shall be inspected including the following:\n\n(1) Air pressure governor;\n\n(2) Air pressure build-up time;\n\n(3) Air pressure warning device;\n\n(4) Air pressure leakage;\n\n(5) Air pressure reserve; and\n\n(6) Air brake adjustment.\n\n(b) A vehicle shall be rejected if:\n\n(1) The governor does not cut out and pressure is released at the pressure relief valve;\n\n(2) The governor cut out pressure is higher than 135 psi;\n\n(3) The governor cut in pressure is lower than 80 psi;\n\n(4) The time required to build up pressure from the level after one brake application to the governor cut out pressure is more than 30 seconds, if the recovery time does not meet the manufacturer's specifications;\n\n(5) The vehicle air pressure gauge does not function properly;\n\n(6) The air pressure warning device does not activate at half the governor cut out pressure;\n\n(7) The air pressure warning device does not continuously operate below activation pressure and/or emits an audible and illuminated warning signal if so equipped by the manufacturer at the time of production;\n\n(8) The leakage rate with brakes released in one minute exceeds 2 psi for single vehicles or 3 psi for combination vehicles;\n\n(9) The leakage rate with full brake application in one minute exceeds 3 psi for single vehicles or 4 psi for combination vehicles;\n\n(10) With s-cam brakes, the push rod travel exceeds the manufacturer's specifications;\n\n(11) With s-cam brakes, the push rod/slack adjuster angle is more than 90 degrees with brakes applied;\n\n(12) With wedge brakes, brake shoe travel is more than 1/16th inch;\n\n(13) The air compressor mounting has loose, broken or missing bolts or other attaching parts;\n\n(14) The air tank(s) mounting device(s) such as straps, brackets or other hardware is broken, missing or loose;\n\n(15) The flexible brake hoses are cracked, cut, burned, chafed, swollen in size or hardened so that they crack or break when bent;\n\n(16) The rigid brake lines are cracked, broken, crimped, flattened, restricted, chafed or improperly retained;\n\n(17) Any brake line or hose has contact with any portion of the exhaust system;\n\n(18) There is audible leakage in the air brake system;\n\n(19) The air intake cleaner for the compressor is clogged and prevents air intake;\n\n(20) The air compressor drive belts are worn, frayed or loose;\n\n(21) Air compressor pulleys are bent or damaged, causing belt loss; or\n\n(22) Trailer breakaway, emergency braking system or tractor/truck protection system does not operate per manufacturer’s specifications.\n\nSource. (See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15\n\nNew. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

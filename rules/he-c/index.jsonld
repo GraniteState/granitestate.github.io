@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-c",
+  "@type": "Concept",
+  "agencyCode": "He-C",
+  "definition": "Commissioner, Department of Health and Human Services",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-c/200",
+    "https://granitestate.github.io/rules/he-c/300",
+    "https://granitestate.github.io/rules/he-c/400",
+    "https://granitestate.github.io/rules/he-c/500",
+    "https://granitestate.github.io/rules/he-c/600",
+    "https://granitestate.github.io/rules/he-c/700",
+    "https://granitestate.github.io/rules/he-c/800",
+    "https://granitestate.github.io/rules/he-c/900",
+    "https://granitestate.github.io/rules/he-c/1000",
+    "https://granitestate.github.io/rules/he-c/1500",
+    "https://granitestate.github.io/rules/he-c/1600",
+    "https://granitestate.github.io/rules/he-c/3000",
+    "https://granitestate.github.io/rules/he-c/4000",
+    "https://granitestate.github.io/rules/he-c/5000",
+    "https://granitestate.github.io/rules/he-c/6300",
+    "https://granitestate.github.io/rules/he-c/6400",
+    "https://granitestate.github.io/rules/he-c/6900"
+  ],
+  "notation": "He-C",
+  "prefLabel": "He-C Commissioner, Department of Health and Human Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

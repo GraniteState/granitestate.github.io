@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/711.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/711",
+  "definition": "Compliance for Asbestos",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 711.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 711.17 Compliance for Asbestos",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 711.17 Compliance for Asbestos.\n\n(a) A compliance determination for asbestos shall be made using the analytical monitoring results obtained at each sampling point.\n\n(b) For systems conducting monitoring at a frequency greater than annually, the department shall determine compliance with the MCL for asbestos by analyzing a running annual average at each sampling point.\n\n(c) If the average at any sample point is greater than the MCL, then the system shall be out of compliance.\n\n(d) If any one sample in (c), above, would cause the running annual average to exceed the MCL, the system shall be out of compliance.\n\n(e) For a system monitoring annually or less frequently, the system shall be out of compliance with the MCL for asbestos if the level of a contaminant at any sampling point is greater than the MCL. If confirmation samples are required by Env-Dw 711.14, the determination of compliance shall be based on the average of the initial and confirmation samples.\n\nSource. #9700, eff 5-1-10; ss by #12668, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

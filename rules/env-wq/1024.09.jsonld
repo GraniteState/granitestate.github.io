@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1024.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1024",
+  "definition": "Effect of an ITA; Recordation Required",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1024.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1024.09 Effect of an ITA; Recordation Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1024.09 Effect of an ITA; Recordation Required.\n\n(a) Once granted, a provisional ITA shall constitute evidence that the department has determined, based on the information reviewed, that the technology is likely to be acceptable but that evaluation of performance testing under actual operating conditions is required before a final determination can be made.\n\n(b) Once granted, a general ITA or general ITA with conditions shall constitute evidence that:\n\n(1) The department has determined, based on the materials submitted with the application, that the technology as approved is expected to be capable of adequately treating sewage provided that any O&M requirements or other conditions, limitations, or restrictions noted are adhered to; and\n\n(2) The technology is approved for purposes of applying for site-specific construction approvals under Env-Wq 1003 and Env-Wq 1004.\n\n(c) An ITA shall not be construed as evidence of suitability of the technology for any particular lot.\n\n(d) Obtaining an ITA shall not abrogate the necessity of obtaining both a construction approval and approval to operate before using the technology in a proposed ISDS.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

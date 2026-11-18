@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/vet/901.03",
+  "@type": "Concept",
+  "agencyCode": "Vet",
+  "authority": [
+    {
+      "citation": "332-B:7-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/332-B/332-B-7-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/332-B/332-B-7-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/vet/901",
+  "definition": "Medical Records of Dental Procedures",
+  "effectiveDate": "2023-08-13",
+  "historyNote": "#13657, eff 8-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Vet 901.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html",
+  "prefLabel": "Vet 901.03 Medical Records of Dental Procedures",
+  "recordType": "rule-section",
+  "ruleText": "Vet 901.03 Medical Records of Dental Procedures:\n\n(a) The following information shall be included in the dental chart or medical record described in Vet 701.01(b)(19):\n\n(1) A complete description of all dental, oral, or other disease present during the examination;\n\n(2) A complete description of all abnormal findings; and\n\n(3) Documentation of communication with the client with regards to any dental disease or abnormal dental findings.\n\nSource. #13657, eff 8-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/vet100-1000.html"
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/1101",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "217-A:2",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:6",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:9",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:10",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5",
+    "https://granitestate.github.io/rsa/217-A/217-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/1100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/1101.01"
+  ],
+  "notation": "Res 1101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html",
+  "prefLabel": "Res 1101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "Res 1101-1107\n\n#5927, effective 11-22-94, EXPIRED 11-22-00\n\n#7507, effective 6-21-01\n\n#9479, effective 6-1-09, EXPIRED 6-1-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/608.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "V",
+        "VIII",
+        "XIV",
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/608",
+  "definition": "Community Composting Facilities",
+  "effectiveDate": "2022-04-01",
+  "historyNote": "##13358, eff 4-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 608.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html",
+  "prefLabel": "Env-Sw 608.05 Community Composting Facilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 608.05 Community Composting Facilities.\n\n(a) Subject to Env-Sw 608.02, no permit shall be required for a composting facility that receives solid waste from off-site generators, provided that:\n\n(1) The aggregate area of the facility’s waste collection, storage, and processing areas, including areas used for feedstock mixing and active composting, does not exceed 600 square feet;\n\n(2) The facility receives for composting no more than 5 cubic yards of solid waste during any 30 day period; and\n\n(3) The composting process is conducted in a manner consistent with “Community Composting Done Right: A Guide to Best Management Practices,” March 2019, published by the Institute for Local Self-Reliance, accessed as noted in Appendix B.\n\n(b) Facilities described in (a) above may compost any combination of the following:\n\n(1) Yard waste or farming crop residuals;\n\n(2) Source-separated food waste, including meat, and dairy matter;\n\n(3) Compostable paper, packaging, containers, bags, and serviceware;\n\n(4) Animal manure; or\n\n(5) Approved bulking agents as defined in Env-Sw 102.\n\nSource. ##13358, eff 4-1-22\n\nAppendix A: State Statutes Implemented\n\nAppendix B: Incorporated Reference\n\nRule (Env-Sw) | Reference (Date/Edition) | Obtain From (Cost)\n\nEnv-Sw 605.05(a) | Test method for Examination of Composting and Compost (TMECC)(2002) | United States Composting Council https://www.compostingcouncil.org/store/ViewProduct.aspx?id=13656204 ($450.00)\n\nEnv-Sw 608.04(a)(2) | Manual of Best Management Practices (BMPs) for Agriculture in New Hampshire: Nutrient Best Management Practices for Agriculture Nonpoint Source Pollution (2019) | New Hampshire Department of Agriculture, Markets & Food. https://www.agriculture.nh.gov/publications-forms/documents/best-management-practices-bmp-manual.pdf\n\nEnv-Sw 608.05(a)(3) | Community Composting Done Right: A Guide to Best Management Practices (2019) | Institute for Local Self-Reliance https://ilsr.org/composting-bmp-guide/",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw600.html"
+}

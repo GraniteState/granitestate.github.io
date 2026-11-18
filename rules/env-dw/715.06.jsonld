@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/715.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/715",
+  "definition": "Monitoring Requirements",
+  "effectiveDate": "2018-06-01",
+  "historyNote": "#9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 715.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Env-Dw 715.06 Monitoring Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 715.06 Monitoring Requirements.\n\n(a) The O/O of a PWS subject to this part shall conduct sampling and monitoring as specified in 40 CFR § 141.132 and § 141.133.\n\n(b) Multiple wells for which a disinfectant is added at multiple separate points shall be considered as one treatment plant for determining the minimum number of TTHM and HAA5 samples specified in 40 CFR § 141.132, in accordance with the following criteria:\n\n(1) Routine monitoring at a frequency specified in 40 CFR § 141.132 shall have been performed for a minimum of one year;\n\n(2) Running annual average results shall be less than 0.040 mg/L for TTHM and less than 0.030 mg/L for HAA5;\n\n(3) For overburden wells, multiple wells shall be located within the same aquifer as determined using the stratified drift aquifer mapping of the U.S. Geological Survey;\n\n(4) For bedrock wells, multiple wells shall be located within an area of less than 4,000 feet in radius; and\n\n(5) The water quality of the multiple wells shall be within the following limits:\n\na. pH within 0.5 units, using one of the analytical methods specified in 40 CFR § 141.23(k);\n\nb. Total hardness within 10 mg/L, as CaCO3;\n\nc. Alkalinity within 10 mg/L, as CaCO3; and\n\nd. Conductivity within 50 μmhos/cm2.\n\n(c) If running annual average results for multiple wells initially considered as one treatment plant in (b), above, subsequently exceed 0.040 mg/L for TTHM or 0.030 mg/L for HAA5, each well shall then be considered as a separate treatment plant for monitoring purposes, subject to the routine and reduced monitoring frequency requirements specified in 40 CFR § 141.132.\n\nSource. #9619, eff 1-1-10; ss by #12532, eff 6-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

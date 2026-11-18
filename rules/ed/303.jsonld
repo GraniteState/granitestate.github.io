@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/303",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:9",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "186:8",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-9",
+    "https://granitestate.github.io/rsa/186/186-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/300",
+  "definition": "DUTIES OF SCHOOL BOARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/303.01"
+  ],
+  "notation": "Ed 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html",
+  "prefLabel": "Ed 303 DUTIES OF SCHOOL BOARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 303 DUTIES OF SCHOOL BOARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html"
+}

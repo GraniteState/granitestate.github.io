@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/3012.09",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "141",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-J:4",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/3012",
+  "definition": "Release of Aggregate Data",
+  "effectiveDate": "2018-01-09",
+  "historyNote": "#9404, eff 3-5-09, EXPIRED: 3-5-17 New. #12333, INTERIM, eff 7-22-17, EXPIRES: 1-18-18; ss by #12448, eff 1-9-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 3012.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p3000.html",
+  "prefLabel": "He-P 3012.09 Release of Aggregate Data",
+  "priorExpiration": "2018-01-18",
+  "recordType": "rule-section",
+  "ruleText": "He-P 3012.09 Release of Aggregate Data.\n\n(a) Statistics derived from the NHBCP data shall be considered to be aggregate data if published by towns with a population of 5,500 or more.\n\n(b) Population estimates shall be derived from the most recent decennial census.\n\n(c) If there are 4 or fewer confirmed cases in towns with populations of less than 5,500, then the data at the town level shall not be released, to prevent constructive identification of individuals.\n\n(d) The age-adjusted rates and age-specific rates shall:\n\n(1) Not be calculated for cases fewer than 10; and\n\n(2) Be provided with confidence intervals.\n\nSource. #9404, eff 3-5-09, EXPIRED: 3-5-17\n\nNew. #12333, INTERIM, eff 7-22-17, EXPIRES: 1-18-18; ss by #12448, eff 1-9-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p3000.html"
+}

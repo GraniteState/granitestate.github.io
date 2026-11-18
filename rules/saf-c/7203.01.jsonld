@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7203.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "259:68-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "260:5",
+      "source": "https://granitestate.github.io/rsa/260/260-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "261:75-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/260/260-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7203",
+  "definition": "Registration Prior to Deployment of LPR",
+  "effectiveDate": "2018-10-22",
+  "historyNote": "#12648, eff 10-22-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7200.html",
+  "prefLabel": "Saf-C 7203.01 Registration Prior to Deployment of LPR",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7203.01 Registration Prior to Deployment of LPR.\n\n(a) Prior to use by any law enforcement agency, the head of the law enforcement agency shall register each LPR with the commissioner by completing and submitting “Registration of Automated License Plate Readers Form”, DSCO1, effective 10/2018, and returning it to the department.\n\n(b) The head of the law enforcement agency shall sign and date DSCO1 to certify that:\n\n(1) Each LPR deployed shall conform to all the conditions and limitations set forth in RSA 261:75-b;\n\n(2) The LEA has a policy or policies in effect governing the use of LPRs;\n\n(3) The LEA has a documented training process in place for the officers who will use an LPR; and\n\n(4) The LPR shall be maintained in accordance with its manufacturer’s recommendations.\n\n(c) The completed registration form, DSCO1, shall be delivered or mailed to the commissioner at:\n\nCommissioner’s Office\n\nNew Hampshire Department of Safety\n\n33 Hazen Drive\n\nConcord, NH 03305\n\nSource. #12648, eff 10-22-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7200.html"
+}

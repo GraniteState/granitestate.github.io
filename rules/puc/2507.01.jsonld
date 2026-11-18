@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2507.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-6",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2507",
+  "definition": "Registration",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2506.01); #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2507.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2507.01 Registration",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2507.01 Registration.\n\n(a) A person not otherwise qualified to obtain certificates may purchase, combine, and re-sell certificates if such person registers as an aggregator pursuant to this section.\n\n(b) To register as an aggregator, an applicant shall provide the following information:\n\n(1) The name of the aggregator;\n\n(2) The address and telephone number of the aggregator;\n\n(3) Identification of the independent monitor or monitors responsible for verifying the production of energy from the applicable sources or facilities; and\n\n(4) Certification that there exists no prohibited relationship, as defined in Puc 2507.02(b), between the aggregator and any such independent monitor or monitors.\n\n(c) An aggregator may aggregate certificates only if:\n\n(1) The associated energy produced uses the same energy resource and technology, as described in Puc 2502.07, Puc 2502.08, Puc 2502.09 and Puc 2502.10;\n\n(2) The energy associated with the certificates was produced in the same year; and\n\n(3) Each source to be aggregated has a unique GIS number.\n\n(d) An aggregator shall provide the commission with at least 30 days’ notice before discontinuing the provision of aggregation services.\n\nSource. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2506.01); #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

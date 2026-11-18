@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/sw/208.01",
+  "@type": "Concept",
+  "agencyCode": "Sw",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/sw/208",
+  "definition": "Computation of Time",
+  "effectiveDate": "2017-01-27",
+  "historyNote": "(See Revision Note at chapter heading for Sw 200) #12093, eff 1-27-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Sw 208.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw200.html",
+  "prefLabel": "Sw 208.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Sw 208.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday or legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday or legal holiday.\n\nSource. (See Revision Note at chapter heading for Sw 200) #12093, eff 1-27-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/sw200.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4004.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4004",
+  "definition": "Labeling Requirements",
+  "effectiveDate": "2008-01-09",
+  "historyNote": "#8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4004.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4004.01 Labeling Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4004.01 Labeling Requirements.\n\n(a) Each manufacturer of a portable fuel container or spout, or both, subject to and complying with Env-A 4003.01(a) shall clearly display on each spill-proof system:\n\n(1) The phrase “Spill-Proof System”;\n\n(2) A date of manufacture or representative date; and\n\n(3) A representative code identifying the portable fuel container or spout, or both, as subject to and complying with Env-A 4003.01.\n\n(b) Each manufacturer of a spout subject to and complying with Env-A 4003.02 shall clearly display on the accompanying package, or, for spill-proof spouts sold without packaging, on either the spill-proof spout or a label affixed thereto:\n\n(1) The phrase “Spill-Proof Spout”;\n\n(2) The date of manufacture or representative date; and\n\n(3) A representative code identifying the spout as subject to and complying with Env-A 4003.02.\n\n(c) Each manufacturer subject to (a) or (b), above, shall clearly display a fuel flow rate on each spill-proof system or spill-proof spout, or label affixed thereto, and on any accompanying package.\n\n(d) Each manufacturer of a spout subject to (b), above, shall clearly display on the accompanying package, or, for spill-proof spouts sold without packaging, on either the spill-proof spout or a label affixed thereto, the make, model number, and size of only those portable fuel container(s) that the spout is designed to accommodate and for which compliance with Env-A 4003.01 can be demonstrated.\n\n(e) Each manufacturer of a portable fuel container or spout, or both, subject to and complying with Env-A 4003.01 that due to its design or other features cannot be used to refuel one or more on-road motor vehicles must clearly display the phrase “Not Intended For Refueling On-Road Motor Vehicles” in type of 34 point or greater on each of the following:\n\n(1) For a portable fuel container or portable fuel container and spout sold together as a spill-proof system, on the system or on a label affixed thereto, and on the accompanying package, if any; and\n\n(2) For a spill-proof spout sold separately from a spill-proof system, on either the spill-proof spout, or a label affixed thereto, and on the accompanying package, if any.\n\nSource. #8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1508.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1508",
+  "definition": "Bioretention System with Internal Storage Reservoir",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1508.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1508.06 Bioretention System with Internal Storage Reservoir",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1508.06 Bioretention System with Internal Storage Reservoir. Bioretention systems with an internal storage reservoir shall comply with the following:\n\n(a) The system shall be designed in accordance with the “Standard Detail, Bioretention ISR Stormwater System” in the “UNH Stormwater Center Hybrid Bioretention Template”, February 2020, available as noted in Appendix B, with the additional requirements in (b) through (g) below;\n\n(b) Pretreatment as described in Env-Wq 1508.12 through Env-Wq 1508.16 shall be required when stormwater discharge includes runoff from any source other than pervious surfaces or roof areas;\n\n(c) If a sediment forebay is used to meet (b), above, it shall be designed to contain 25% of the WQV and otherwise meet the criteria specified in Env-Wq 1508.12;\n\n(d) The volume above the filter material shall be equal to or greater than 100% of the WQV;\n\n(e) The filter media shall consist of one of the mixtures specified in Env-Wq 1508.08(k)(4);\n\n(f) The system, excluding the saturated zone but including any sediment forebays, shall be designed to completely drain within 72 hours; and\n\n(g) If iron filings are proposed, the following shall apply:\n\n(1) The iron filings shall be well mixed with the filter material and mixing and installation shall be observed by a professional engineer to ensure proper mixing and installation of the iron filings;\n\n(2) Iron filings shall not be mixed into the top 4 inches of the filter material; and\n\n(3) The iron filings shall be sized in accordance with Appendix D “Filter Design” of the U.S. Corps of Engineers Engineering Manual EM-1110-2-1913, 2000, available as noted in Appendix B, such that the iron filings are sized as a filter for the bioretention soil mix filter material.\n\nSource. #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

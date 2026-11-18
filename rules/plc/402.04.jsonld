@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/402.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314-A:6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/402",
+  "definition": "Board",
+  "effectiveDate": "2024-08-15",
+  "historyNote": "#14031, eff 8-15-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 402.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html",
+  "prefLabel": "Plc 402.04 Board",
+  "recordType": "rule-section",
+  "ruleText": "Plc 402.04 “Board” means “board” as defined in Plc 102.04, reprinted in Appendix B.\n\nSource. #14031, eff 8-15-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html"
+}

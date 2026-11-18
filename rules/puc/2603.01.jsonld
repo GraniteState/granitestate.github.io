@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2603.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "125-O:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:23",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-O/125-O-23",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-O/125-O-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2603",
+  "definition": "Energy Efficiency for Low Income Residential Customers",
+  "effectiveDate": "2009-12-12",
+  "expirationDate": "2017-12-12",
+  "historyNote": "#9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2603.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html",
+  "prefLabel": "Puc 2603.01 Energy Efficiency for Low Income Residential Customers",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2603.01 Energy Efficiency for Low Income Residential Customers.\n\n(a) Pursuant to RSA 125-O:23, III, the commission shall allocate at least 10 percent of the greenhouse gas emissions reduction fund, on an annual basis to assist low income residential customers:\n\n(1) To reduce total energy use, including heating fuels; and\n\n(2) To foster the development and retrofitting of highly efficient and affordable housing.\n\nSource. #9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html"
+}

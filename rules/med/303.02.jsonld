@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/303.02",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "329:9",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/329/329-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "329:14",
+      "paragraphs": [
+        "V(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329/329-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/303",
+  "definition": "Candidates for USMLE Step 3",
+  "effectiveDate": "2020-01-10",
+  "historyNote": "#4970, eff 11-8-90, EXPIRED: 11-8-96 New. #6576, eff 9-15-97; amd by #6906, eff 12-4-98; amd by #8188, eff 10-12-04; amd by #8662, INTERIM, eff 6-16-06, EXPIRED: 12-13-06 (paragraphs (a) and (b)); ss by #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note at chapter heading for Med 300); ss by #12972, eff 1-10-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 303.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 303.02 Candidates for USMLE Step 3",
+  "priorExpiration": "2006-12-13",
+  "recordType": "rule-section",
+  "ruleText": "Med 303.02 Candidates for USMLE Step 3.\n\n(a) Examination candidates who wish to take USMLE step 3 in New Hampshire shall apply directly to the Federation of State Medical Boards (FSMB).\n\n(b) Examination candidates shall not be eligible for licensure until they have met the requirements of Med 302 and Med 303 and filed an application for licensure pursuant to Med 301.03.\n\n(c) Candidates for USMLE step 3 shall:\n\n(1) Have graduated from a medical school accredited by the LCME or have completed their medical education from an institution located outside the United States and have such studies confirmed by the ECFMG;\n\n(2) Have begun the first academic year of postgraduate training at an institution accredited by the ACGME, the Royal College of Physicians and Surgeons of Canada (RCPSC) or the AOA; and\n\n(3) Have passed USMLE step 1, step 2 (Clinical Knowledge) and step 2 (Clinical Skills) or one of the acceptable combinations of examinations noted in Med 303.01 (b).\n\nSource. #4970, eff 11-8-90, EXPIRED: 11-8-96\n\nNew. #6576, eff 9-15-97; amd by #6906, eff 12-4-98; amd by #8188, eff 10-12-04; amd by #8662, INTERIM, eff 6-16-06, EXPIRED: 12-13-06 (paragraphs (a) and (b)); ss by #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note at chapter heading for Med 300); ss by #12972, eff 1-10-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emab",
+  "@type": "Concept",
+  "agencyCode": "Emab",
+  "definition": "Unemployment Compensation Appellate Board for the Department of Employment Security (formerly Ucab). (See RSA 282-A:66, I)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/emab/100",
+    "https://granitestate.github.io/rules/emab/200"
+  ],
+  "notation": "Emab",
+  "prefLabel": "Emab Unemployment Compensation Appellate Board for the Department of Employment Security",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/306",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/300",
+  "definition": "AMBIENT AIR QUALITY STANDARDS FOR NITROGEN DIOXIDE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/306.01",
+    "https://granitestate.github.io/rules/env-a/306.02",
+    "https://granitestate.github.io/rules/env-a/306.03"
+  ],
+  "notation": "Env-A 306",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 306 AMBIENT AIR QUALITY STANDARDS FOR NITROGEN DIOXIDE",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 306 AMBIENT AIR QUALITY STANDARDS FOR NITROGEN DIOXIDE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

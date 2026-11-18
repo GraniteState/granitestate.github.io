@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/psyc/102.01",
+  "@type": "Concept",
+  "agencyCode": "Psyc",
+  "authority": [
+    {
+      "citation": "329-B:3",
+      "source": "https://granitestate.github.io/rsa/329-B/329-B-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329-B/329-B-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/psyc/102",
+  "definition": "Composition of the Board",
+  "effectiveDate": "2016-11-04",
+  "historyNote": "#12035-A, eff 11-4-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Psyc 102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/psyc100-500.html",
+  "prefLabel": "Psyc 102.01 Composition of the Board",
+  "recordType": "rule-section",
+  "ruleText": "Psyc 102.01 Composition of the Board.\n\n(a) The board shall consist of 8 members appointed by the governor with the approval of the council pursuant to RSA 329-B:3.\n\n(b) Each person so appointed shall meet the eligibility requirements of RSA 329-B: 3 and RSA 329-B:6.\n\n(c) Pursuant to RSA 329-B:9, II, when a quorum is not available for just and timely resolution of a specific matter, the board members who are available shall, by majority vote, appoint one or more former board members to serve as acting board members for purposes of obtaining the minimum quorum to act in that specific matter.\n\nSource. #12035-A, eff 11-4-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/psyc100-500.html"
+}

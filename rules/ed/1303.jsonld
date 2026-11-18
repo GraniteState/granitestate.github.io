@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1303",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "188-E:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/188-E/188-E-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/188-E/188-E-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1300",
+  "definition": "RENOVATION OF EXISTING REGIONAL CAREER AND TECHNICAL EDUCATION CENTERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/1303.01",
+    "https://granitestate.github.io/rules/ed/1303.02",
+    "https://granitestate.github.io/rules/ed/1303.03",
+    "https://granitestate.github.io/rules/ed/1303.04",
+    "https://granitestate.github.io/rules/ed/1303.05",
+    "https://granitestate.github.io/rules/ed/1303.06"
+  ],
+  "notation": "Ed 1303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1300.html",
+  "prefLabel": "Ed 1303 RENOVATION OF EXISTING REGIONAL CAREER AND TECHNICAL EDUCATION CENTERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 1303 RENOVATION OF EXISTING REGIONAL CAREER AND TECHNICAL EDUCATION CENTERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1300.html"
+}

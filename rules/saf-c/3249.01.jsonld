@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3249.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "259:56-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "V",
+        "X",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:59-b",
+      "source": "https://granitestate.github.io/rsa/266/266-59-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1",
+    "https://granitestate.github.io/rsa/266/266-59-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3249",
+  "definition": "Mobile Service Garage Requirements",
+  "effectiveDate": "2024-04-05",
+  "historyNote": "#13727, INTERIM, eff 8-19-23, EXPIRES: 2-15-24; ss by #13920, eff 4-5-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3249.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3249.01 Mobile Service Garage Requirements",
+  "priorExpiration": "2024-02-15",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3249.01 Mobile Service Garage Requirements. Mobile service garages, as defined in RSA 259:56-b, shall meet all of the requirements of this chapter, and:\n\n(a) Contain an automotive lift rated for at least 9,000 pounds, as an integral part of the vehicle;\n\n(b) Meet all applicable hazardous waste permitting requirements of the New Hampshire department of environmental services and the department of transportation;\n\n(c) Be equipped with a GPS tracking device, accessible to the department for auditing and compliance purposes. The maintenance and upkeep of the GPS tracking unit shall be the sole responsibility of the mobile service garage;\n\n(d) Maintain internet connectivity for the purposes of software updates and transmitting inspection results;\n\n(e) Have a minimal overall width of 12 feet and a minimal overall length of 25 feet when in operation;\n\n(f) Have an unobstructed and enclosed work area of at least 15 feet wide and 20 feet long when in operation;\n\n(g) Maintain coverage by an active commercial automotive insurance policy with a liability limit of at least $1,000,000, with a copy of the proof of such insurance attached to the application; and\n\n(h) Be operated by a business that:\n\n(1) Is registered and in good standing with the New Hampshire secretary of state;\n\n(2) Has an active general liability insurance policy with limits of at least $1,000,000 per occurrence and $2,000,000 general aggregate;\n\n(3) Has an office, staffed at regular, posted hours that provides access to state inspection records and that maintains a schedule for the following 7 calendar days of times and locations for each mobile service garage under its operation that perform state inspections; and\n\n(4) Has a current contract with an employer whose owned vehicles, and vehicles owned by the employer’s employees, are to be inspected by the mobile service garage.\n\nSource. #13727, INTERIM, eff 8-19-23, EXPIRES: 2-15-24; ss by #13920, eff 4-5-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb/203.13",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "authority": [
+    {
+      "citation": "357-D:5",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/arb/203",
+  "definition": "Computation of Time Periods",
+  "effectiveDate": "2007-09-28",
+  "historyNote": "#7188, eff 1-5-00; ss by 8996, eff 9-28-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arb 203.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html",
+  "prefLabel": "Arb 203.13 Computation of Time Periods",
+  "recordType": "rule-section",
+  "ruleText": "Arb 203.13 Computation of Time Periods.\n\n(a) In computing any period of time prescribed or allowed by these rules or RSA 357-D:\n\n(1) The day of the act, event, or default after which the designated period of time begins to run shall not be included; and\n\n(2) The last day of the period so computed shall be included unless it is a Saturday, Sunday, or legal holiday, in which event the period shall extend until the end of the next day that is not a Saturday, Sunday, or legal holiday as specified in RSA Ch. 288.\n\nSource. #7188, eff 1-5-00; ss by 8996, eff 9-28-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html"
+}

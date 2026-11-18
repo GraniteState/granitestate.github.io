@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/405.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:44",
+      "source": "https://granitestate.github.io/rsa/378/378-44",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/378/378-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/405",
+  "definition": "Cramming Prohibited",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 405.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 405.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 405.02 Cramming Prohibited",
+  "recordType": "rule-section",
+  "ruleText": "Puc 405.02 Cramming Prohibited.\n\n(a) For purposes of this section:\n\n(1) \"Cramming\" means a submission or inclusion of unauthorized, misleading, or deceptive charges for products or services on a customer's utility bill. Cramming does not include charges required or explicitly authorized by law;\n\n(2) \"Billing aggregator\" means a person, other than a service provider, who forwards a charge for a product or service offered by a service provider to the utility company for billing to the customer; and\n\n(3) \"Service provider\" means a person that offers a product or service to a customer and directly or indirectly sends the billable charges or credits to the utility company for billing to the customer.\n\n(b) Telephone utilities shall not disconnect voice service based on a customer's failure to pay disputed charges from billing aggregators or service providers.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 405.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

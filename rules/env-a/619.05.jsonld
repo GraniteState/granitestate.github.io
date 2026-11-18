@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/619.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/619",
+  "definition": "Permit Application Requirements",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#7879, eff 4-26-03 (formerly Env-A 623.05); ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 619.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 619.05 Permit Application Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 619.05 Permit Application Requirements.\n\n(a) PSD and PAL permit applications required under this part shall be filed in accordance with the procedures set forth in Env-A 607.03;\n\n(b) An application to comply with PSD shall contain additional information as follows:\n\n(1) A control technology evaluation, in accordance with 40 CFR §52.21(j), to demonstrate that any new major stationary source or major modification will meet the BACT for all new or modified emissions units;\n\n(2) A source impact analysis, in accordance with 40 CFR §52.21(k)(1);\n\n(3) An air quality analysis in accordance with 40 CFR §52.21(m);\n\n(4) Source information required in accordance with 40 CFR §52.21(n);\n\n(5) Additional impact analyses required pursuant to 40 CFR §52.21(o); and\n\n(6) For sources impacting federal class I areas, a class I area impact analysis required in accordance with 40 CFR §52.21(p);\n\n(c) An application for a permit to establish a PAL, shall contain the information required pursuant to 40 CFR §52.21(aa)(3); and\n\n(d) The department shall provide written notice of an application for a PSD permit to the federal land manager(s) in accordance with 40 CFR §52.21(p).\n\nSource. #7879, eff 4-26-03 (formerly Env-A 623.05); ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

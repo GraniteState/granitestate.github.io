@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/906",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "328-B:4",
+      "paragraphs": [
+        "VII(h)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "328-B:5-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/900",
+  "definition": "LICENSEE OBLIGATIONS; CONTINUING EDUCATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/906.01",
+    "https://granitestate.github.io/rules/plc/906.02",
+    "https://granitestate.github.io/rules/plc/906.03",
+    "https://granitestate.github.io/rules/plc/906.04",
+    "https://granitestate.github.io/rules/plc/906.05",
+    "https://granitestate.github.io/rules/plc/906.06",
+    "https://granitestate.github.io/rules/plc/906.07",
+    "https://granitestate.github.io/rules/plc/906.08"
+  ],
+  "notation": "Plc 906",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc900.html",
+  "prefLabel": "Plc 906 LICENSEE OBLIGATIONS; CONTINUING EDUCATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 906 LICENSEE OBLIGATIONS; CONTINUING EDUCATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc900.html"
+}

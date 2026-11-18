@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/auc",
+  "@type": "Concept",
+  "agencyCode": "Auc",
+  "definition": "State Board of Auctioneers",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/auc/100",
+    "https://granitestate.github.io/rules/auc/200",
+    "https://granitestate.github.io/rules/auc/300",
+    "https://granitestate.github.io/rules/auc/400",
+    "https://granitestate.github.io/rules/auc/500"
+  ],
+  "notation": "Auc",
+  "prefLabel": "Auc State Board of Auctioneers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

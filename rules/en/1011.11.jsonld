@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1011.11",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1011",
+  "definition": "Witness Test",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1011.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1011.11 Witness Test",
+  "recordType": "rule-section",
+  "ruleText": "En 1011.11 Witness Test.\n\n(a) Once the as-built review has been passed and the witness test plan has been approved, the utility shall schedule the witness test within 10 business days at a time mutually agreeable to the interconnecting customer and utility.\n\n(b) If the facility initially fails the witness test, the utility shall offer to repeat the test at the interconnecting customer’s expense at a time mutually agreeable to the interconnecting customer and utility and repeat the test as many times as is necessary until the facility passes the witness test.\n\n(c) If the utility determines that the facility fails the inspection, the utility shall provide a written explanation detailing the reasons and any standards violated. Provided that any required commissioning tests are satisfactory, the utility shall grant PTO once the facility passes the witness test and all other requirements of the IA are satisfied.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

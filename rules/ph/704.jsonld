@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/704",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/700",
+  "definition": "PHARMACEUTICAL CARE STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/704.01",
+    "https://granitestate.github.io/rules/ph/704.02",
+    "https://granitestate.github.io/rules/ph/704.03",
+    "https://granitestate.github.io/rules/ph/704.04",
+    "https://granitestate.github.io/rules/ph/704.06",
+    "https://granitestate.github.io/rules/ph/704.07",
+    "https://granitestate.github.io/rules/ph/704.08",
+    "https://granitestate.github.io/rules/ph/704.09",
+    "https://granitestate.github.io/rules/ph/704.10",
+    "https://granitestate.github.io/rules/ph/704.11",
+    "https://granitestate.github.io/rules/ph/704.12",
+    "https://granitestate.github.io/rules/ph/704.13",
+    "https://granitestate.github.io/rules/ph/704.14",
+    "https://granitestate.github.io/rules/ph/704.15",
+    "https://granitestate.github.io/rules/ph/704.16"
+  ],
+  "notation": "Ph 704",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 704 PHARMACEUTICAL CARE STANDARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 704 DISPENSING OF DRUGS AND DEVICES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/2101",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "207:57",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/2100",
+  "definition": "INTERFERENCE WITH HUNTING, TRAPPING, OR FISHING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/2101.01",
+    "https://granitestate.github.io/rules/fis/2101.02",
+    "https://granitestate.github.io/rules/fis/2101.03",
+    "https://granitestate.github.io/rules/fis/2101.04"
+  ],
+  "notation": "Fis 2101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis2100.html",
+  "prefLabel": "Fis 2101 INTERFERENCE WITH HUNTING, TRAPPING, OR FISHING",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 2101 INTERFERENCE WITH HUNTING, TRAPPING, OR FISHING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis2100.html"
+}

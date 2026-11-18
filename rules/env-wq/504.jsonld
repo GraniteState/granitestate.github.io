@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/504",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "486:14",
+      "source": "https://granitestate.github.io/rsa/486/486-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/486/486-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/500",
+  "definition": "USE OF CWSRF; ELIGIBLE PROJECTS AND COSTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/504.01",
+    "https://granitestate.github.io/rules/env-wq/504.02",
+    "https://granitestate.github.io/rules/env-wq/504.03",
+    "https://granitestate.github.io/rules/env-wq/504.04"
+  ],
+  "notation": "Env-Wq 504",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq500.html",
+  "prefLabel": "Env-Wq 504 USE OF CWSRF; ELIGIBLE PROJECTS AND COSTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 504 USE OF CWSRF; ELIGIBLE PROJECTS AND COSTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq500.html"
+}

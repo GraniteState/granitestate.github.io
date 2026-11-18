@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w/804.05",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "authority": [
+    {
+      "citation": "167",
+      "source": "https://granitestate.github.io/rsa/167",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:3-c",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-3-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:31",
+      "source": "https://granitestate.github.io/rsa/167/167-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "167:83",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/167",
+    "https://granitestate.github.io/rsa/167/167-3-c",
+    "https://granitestate.github.io/rsa/167/167-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-w/804",
+  "definition": "Electronic Account Access",
+  "effectiveDate": "2025-03-26",
+  "historyNote": "#10729, eff 11-25-14; ss by #14220, eff 3-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-W 804.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html",
+  "prefLabel": "He-W 804.05 Electronic Account Access",
+  "recordType": "rule-section",
+  "ruleText": "He-W 804.05 Electronic Account Access.\n\n(a) Electronic accounts that contain the casehead’s electronic notices of decision (NOD) and other confidential case information shall be activated through the department’s eligibility web portal by:\n\n(1) The casehead;\n\n(2) The casehead’s guardian, conservator, or protective payee;\n\n(3) An authorized representative (AR) or power of attorney chosen by the casehead; or\n\n(4) An organization acting as the casehead’s guardian, conservator, protective payee, AR, or power of attorney.\n\n(b) If an organization acting as the casehead’s guardian, conservator, protective payee, AR, or power of attorney chooses to access a casehead’s electronic account, the organization shall:\n\n(1) Obtain the casehead’s permission to access the electronic account; and\n\n(2) Register with the department by providing the following information:\n\na. The organization’s name, phone number, both physical and mailing addresses, and email address;\n\nb. The name of a designated administrator for the organization who is responsible for maintaining confidentiality for the entire organization;\n\nc. A 4-digit pin, chosen by the administrator, for security purposes; and\n\nd. The administrator’s dated signature signifying an agreement to abide by the confidentiality and safeguarding information policies, pursuant to RSA 167:31, RSA 167:32, and 42 CFR 431.300-42 CFR 431.307.\n\n(c) A casehead shall not have access to an electronic account through the department’s eligibility web portal once the casehead has given permission to an organization to access the casehead’s electronic account.\n\n(d) If the organization chooses to only access NODs electronically, with no paper NOD sent via the United States Posal Service (USPS), the organization shall be responsible for the security and validity of the email account information provided to the department.\n\n(e) All information included in a paper NOD shall also be included in electronic NODs.\n\n(f) If the organization prefers to reestablish paper NODs sent via the USPS, the organization shall do so using the department’s eligibility web portal to make this change.\n\nSource. #10729, eff 11-25-14; ss by #14220, eff 3-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w800.html"
+}

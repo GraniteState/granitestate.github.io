@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/812.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Fines Amounts for Violations With No Previously Scheduled Fine",
+  "authority": [
+    {
+      "citation": "485-A:22",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/812",
+  "definition": "Fines Amounts for Violations with No Previously Scheduled Fine",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#14571, eff 5-15-26, EXPIRES: 5-15-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 812.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html",
+  "prefLabel": "Env-Wq 812.04 Fines Amounts for Violations with No Previously Scheduled Fine",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 812.04 Fines Amounts for Violations with No Previously Scheduled Fine.\n\n(a) For the purposes of this section, the following definitions shall apply:\n\n(1) “Major deviation from requirement” means the violator deviated from a requirement of a statute or rule to such an extent that there is substantial non-compliance;\n\n(2) “Moderate deviation from requirement” means the violator significantly deviated from a requirement of a statute or rule but some requirements were implemented as intended, such that approximately half the requirements were met;\n\n(3) “Minor deviation from requirement” means the violator deviated partially from a requirement of a statute or rule such that most of the requirement was met;\n\n(4) “Major potential for harm” means a substantial likelihood of causing harm to human health or the environment;\n\n(5) “Moderate potential for harm” means a moderate likelihood of causing harm to human health or the environment; and\n\n(6) “Minor potential for harm” means a small likelihood of causing harm to human health or the environment.\n\n(b) For violating the requirements of, or refusing to comply with, any of the provisions of RSA 485-A:4, XVI-b, and any rule adopted or permit or approval issued under the authority of RSA 485-A:4, XVI-b, or RSA 485-A:6, VIII, the proposed fine for each violation that does not meet the criteria in Env-Wq 812.02 and Env-Wq 812.03 shall be calculated pursuant to Table 812-1, below, based on the extent of deviation from the requirement and the potential for harm.\n\nTable 812-1: Matrix for Calculated Fines – Maximum Fine $2,000\n\nMinor Deviation from Requirement | Moderate Deviation from Requirement | Major Deviation from Requirement\n\nMinor Potential for Harm | range: $100 to $500 default: $250 | range: $500 to $1,000 default: $750 | range: $1,000 to $1,500 default: $1,250\n\nModerate Potential for Harm | range: $500 to $1,000 default: $750 | range: $1,000 to $1,500 default: $1,250 | range: $1,500 to $2,000 default: $1,750\n\nMajor Potential for Harm | range: $1,000 to $1,500 default: $1,250 | range: $1,500 to $2,000 default: $1,750 | $2,000\n\nSource. #14571, eff 5-15-26, EXPIRES: 5-15-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html"
+}

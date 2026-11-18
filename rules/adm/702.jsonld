@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/702",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I:7-c",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-7-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-7-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/700",
+  "definition": "PEOPLE RESPONSIBLE FOR CONTROLLING RISK",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/702.01",
+    "https://granitestate.github.io/rules/adm/702.02",
+    "https://granitestate.github.io/rules/adm/702.03"
+  ],
+  "notation": "Adm 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm700.html",
+  "prefLabel": "Adm 702 PEOPLE RESPONSIBLE FOR CONTROLLING RISK",
+  "recordType": "rule-part",
+  "ruleText": "PART Adm 702 PEOPLE RESPONSIBLE FOR CONTROLLING RISK",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm700.html"
+}

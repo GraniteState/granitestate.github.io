@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/2308.10",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "72-A:4",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "270-E:3",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/270-E/270-E-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "270-E:5",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/270-E/270-E-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/270-E/270-E-3",
+    "https://granitestate.github.io/rsa/270-E/270-E-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/2308",
+  "definition": "Vessel Agent Fees",
+  "effectiveDate": "2025-07-16",
+  "expirationDate": "2035-07-16",
+  "historyNote": "#5283, eff 11-22-91; ss by #6616, eff 10-25-97, EXPIRED: 10-25-05 New. #8506, INTERIM, eff 12-7-05, EXPIRES: 6-5-06; ss and moved by #8617, eff 4-28-06, (from Saf-C 2308.08) EXPIRED: 1-21-15 (See Revision Note at chapter heading for Saf-C 2300) New. #10787, eff 2-20-15; ss by #14321, eff 7-16-25, EXPIRES: 7-16-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 2308.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2300.html",
+  "prefLabel": "Saf-C 2308.10 Vessel Agent Fees",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 2308.10 Vessel Agent Fees.\n\n(a) In addition to the fees set forth in Saf-C 2302.04, each vessel agent may charge the following fees:\n\n(1) Pursuant to RSA 270-E:5, II, $5.00 per registration decal;\n\n(2) Pursuant to RSA 72-A:4, III, $1 per boat; and\n\n(3) Pursuant to RSA 270-E:5-a, II(e), $3.00 per boat fee decal.\n\nSource. #5283, eff 11-22-91; ss by #6616, eff 10-25-97, EXPIRED: 10-25-05\n\nNew. #8506, INTERIM, eff 12-7-05, EXPIRES: 6-5-06; ss and moved by #8617, eff 4-28-06, (from Saf-C 2308.08) EXPIRED: 1-21-15 (See Revision Note at chapter heading for Saf-C 2300)\n\nNew. #10787, eff 2-20-15; ss by #14321, eff 7-16-25, EXPIRES: 7-16-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c2300.html"
+}

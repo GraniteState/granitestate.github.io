@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/509.04",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "265-A:39",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "265-A:40",
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-40",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-40"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/509",
+  "definition": "Certification Period",
+  "effectiveDate": "2024-01-06",
+  "expirationDate": "2034-01-06",
+  "historyNote": "#10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 509.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html",
+  "prefLabel": "He-A 509.04 Certification Period",
+  "recordType": "rule-section",
+  "ruleText": "He-A 509.04 Certification Period. A certificate for instructor certification shall expire after 5 years on the last day of the month it was issued unless a completed application for renewal has been timely received by the department. This shall not be the case if certification is revoked prior to the end of the 5-year period pursuant to He-A 509.06.\n\nSource. #10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html"
+}

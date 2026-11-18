@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pas/204.04",
+  "@type": "Concept",
+  "agencyCode": "Pas",
+  "authority": [
+    {
+      "citation": "225-A:20",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pas/203",
+  "definition": "Role of Complainants in Enforcement Hearings",
+  "effectiveDate": "2004-07-30",
+  "historyNote": "#8132, eff 7-30-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pas 204.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html",
+  "prefLabel": "Pas 204.04 Role of Complainants in Enforcement Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Pas 204.04 Role of Complainants in Enforcement Hearings. Unless called as a witness or granted party or intervenor status, a person who initiates an adjudicative proceeding by complaining to the board about the conduct of person who becomes a party shall have no role in any enforcement hearing.\n\nSource. #8132, eff 7-30-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pas100-300.html"
+}

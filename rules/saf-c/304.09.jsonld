@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/304.09",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "6:11-a",
+      "source": "https://granitestate.github.io/rsa/6/6-11-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:40",
+      "via": "appendix"
+    },
+    {
+      "citation": "260:50",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/6/6-11-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/304",
+  "definition": "Partial Payments",
+  "effectiveDate": "2021-04-07",
+  "historyNote": "(See Revision Notes #1 and #2 at Chapter Heading for Saf-C 300) #10032, eff 11-22-11; ss by #13186, eff 4-7-21 (See Revision Note #3 at Chapter Heading for Saf-C 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 304.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c300.html",
+  "prefLabel": "Saf-C 304.09 Partial Payments",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 304.09 Partial Payments.\n\n(a) Payments from a person made in an amount less than the total amount due shall be applied in the following order:\n\n(1) First, against the penalties assessed pursuant to RSA 260:40;\n\n(2) Second, against interest assessed pursuant to RSA 260:40-a and Saf-C 304.05(h);\n\n(3) Third, against road tolls assessed in accordance with the specific law or rule administered by the department; and\n\n(4) Fourth, against the protested check fees assessed pursuant to RSA 6:11-a.\n\n(b) Interest shall continue to accrue on any toll liability remaining unpaid until the outstanding toll liability has been paid.\n\nSource. (See Revision Notes #1 and #2 at Chapter Heading for Saf-C 300) #10032, eff 11-22-11; ss by #13186, eff 4-7-21 (See Revision Note #3 at Chapter Heading for Saf-C 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c300.html"
+}

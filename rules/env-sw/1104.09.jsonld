@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1104.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "II",
+        "III",
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/1104",
+  "definition": "Temporary Cessation of Construction",
+  "effectiveDate": "2024-11-13",
+  "expirationDate": "2034-11-13",
+  "historyNote": "#14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 1104.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html",
+  "prefLabel": "Env-Sw 1104.09 Temporary Cessation of Construction",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 1104.09 Temporary Cessation of Construction.\n\n(a) If temporary cessation of construction occurs, the permittee shall submit, with the next biweekly construction progress report as required pursuant to Env-Sw 1104.07(a), notification to the department that the project is temporarily on hold and the reason(s) for such temporary cessation.\n\n(b) Within 30 days of notifying the department pursuant to (a) above, the permittee shall submit an interim project status report that includes:\n\n(1) A written certification that the facility built-to-date meets or exceeds all applicable requirements of the permit;\n\n(2) Identification of design changes made pursuant to Env-Sw 1104.05, if any, and the work completed to date;\n\n(3) Actions undertaken to protect the work completed to date; and\n\n(4) An anticipated schedule for resuming construction.\n\n(c) During temporary cessation, biweekly construction progress reports shall not be required.\n\n(d) At least one week prior to resuming construction following a temporary cessation, the permittee shall notify the department of its anticipated construction schedule, and resume submittal of the progress reports required pursuant to Env-Sw 1104.07(a).\n\n(e) A permittee shall be deemed to have abandoned a facility if construction is discontinued for a period of 90 days pursuant to Env-Sw 1106.07.\n\nSource. #14108, eff 11-13-24, EXPIRES: 11-13-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1100.html"
+}

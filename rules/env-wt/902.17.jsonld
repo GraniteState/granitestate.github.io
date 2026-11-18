@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/902.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Longitudinal Profile",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Longitudinal profile",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 902.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 902.17 Longitudinal profile",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 902.17 “Longitudinal profile” means a graphical representation of stream gradient surveyed along the reference reach to illustrate elevation changes shown along a stream reach.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

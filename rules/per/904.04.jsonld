@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/904.04",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:53",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/904",
+  "definition": "Compensation",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 904.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 904.04 Compensation",
+  "recordType": "rule-section",
+  "ruleText": "Per 904.04 Compensation.\n\n(a) If an employee is required to work in excess of the basic work period, the appointing authority shall pay the excess hours at the employee's regular rate of pay, at straight time, unless the rate of the position assigned is higher, in which case the employee shall receive the higher rate at straight time unless otherwise collectively bargained.\n\n(b) If an employee works excess hours in a position with a lower rate of pay, the appointing authority shall pay the excess hours at one of the following rates, at straight time:\n\n(1) If the employee is required by the appointing authority to work excess hours in the lower position, the appointing authority shall compute the employee's pay at the employee's regular rate; and\n\n(2) If the employee volunteers to work excess hours in a position at the lower rate of pay, the appointing authority shall pay at the lower rate.\n\nSource. #14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

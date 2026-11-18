@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/soil/103",
+  "@type": "Concept",
+  "agencyCode": "Soil",
+  "authority": [
+    {
+      "citation": "310-A:81",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-81",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-81",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/soil/100",
+  "definition": "BOARD ORGANIZATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/soil/103.01",
+    "https://granitestate.github.io/rules/soil/103.02",
+    "https://granitestate.github.io/rules/soil/103.03",
+    "https://granitestate.github.io/rules/soil/103.04",
+    "https://granitestate.github.io/rules/soil/103.05"
+  ],
+  "notation": "Soil 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html",
+  "prefLabel": "Soil 103 BOARD ORGANIZATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Soil 103 BOARD ORGANIZATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html"
+}

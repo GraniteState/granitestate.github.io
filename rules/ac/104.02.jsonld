@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/104.02",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "II(d)",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/104",
+  "definition": "Licensee Access to Information",
+  "effectiveDate": "2012-01-01",
+  "historyNote": "#10053, eff 1-1-12 (from Ac 103.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 104.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 104.02 Licensee Access to Information",
+  "recordType": "rule-section",
+  "ruleText": "Ac 104.02 Licensee Access to Information. Any licensee may examine all records of the board with respect to him or herself, except as exempted by law, at the office of the board, between the hours of 8:00 a.m. and 4 p.m. Monday through Friday.\n\nSource. #10053, eff 1-1-12 (from Ac 103.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

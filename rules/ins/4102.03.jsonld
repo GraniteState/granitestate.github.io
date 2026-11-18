@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4102.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-B:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:2",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4102",
+  "definition": "Definitions",
+  "effectiveDate": "2019-06-10",
+  "historyNote": "#9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html",
+  "prefLabel": "Ins 4102.03 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4102.03 Definitions. For the purposes of this part:\n\n(a) “Actuarial certification” means a written statement signed by a member of the American Academy of Actuaries;\n\n(b) “Actuarial memorandum” means the document describing the basis on which rates were determined and that includes other supporting documentation as required;\n\n(c) “Anticipated loss ratio” means the calculation of the medical loss ratio over a period that is at least as great as the anticipated policy lifetime that does not exceed 20 years;\n\n(d) “Case characteristics” means demographic or other relevant characteristics considered by the individual carrier in the determination of premium rates for an individual;\n\n(e) “Durational medical loss ratio” means the medical loss ratio calculated for a specified duration not to exceed 12 months;\n\n(f) “Earned premium” means premium revenue pursuant to 45 CFR Part 158.130;\n\n(g) “Earned premium adjustments” means federal and state taxes and licensing and regulatory fees pursuant to 45 CFR Part 158.161 (a) and 158.162 (a)(1) and (b)(1);\n\n(h) “Health coverage” means “health coverage” as defined in RSA 420-G:2, IX;\n\n(i) “Incurred claims” means reimbursements for clinical services provided to enrollees, pursuant to 45 CFR Part 158.140;\n\n(j) “Medical loss ratio” means “medical loss ratio” as defined in 45 CFR Part 158.221(a);\n\n(k) “Member” means “covered person” as defined in Ins 4101.04(c);\n\n(l) “Premium” means the total amount due from a policyholder to an individual carrier for the provision of health coverage;\n\n(m) “Premium rate” means an amount per covered person used to calculate premium;\n\n(n) “Quality improvement expenses” means amounts expended for activities that improve health care quality pursuant to 45 CFR 158.150 and 45 CFR 158.151; and\n\n(o) “Tier” means a category of enrollment to which enrolled individuals can elect coverage, and includes, at a minimum, “single person”, “couple”, and “family” tiers;\n\nSource. #9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html"
+}

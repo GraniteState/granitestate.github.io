@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/409.03",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:9",
+      "paragraphs": [
+        "II(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "XXIX-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-9",
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/409",
+  "definition": "Scheduling of Administrative Due Process Hearings; Pleadings; Order of Notice",
+  "effectiveDate": "2024-01-11",
+  "historyNote": "#8263, eff 1-22-05; ss by #10360, eff 6-15-13; ss by #13853, eff 1-11-24 (formerly Ed 408.03) (See Revision Note a chapter heading for Ed 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 409.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed400.html",
+  "prefLabel": "Ed 409.03 Scheduling of Administrative Due Process Hearings; Pleadings; Order of Notice",
+  "recordType": "rule-section",
+  "ruleText": "Ed 409.03 Scheduling of Administrative Due Process Hearings; Pleadings; Order of Notice.\n\n(a) If a parent requests an administrative due process hearing under Ed 409.02, the department shall schedule and hold a hearing in accordance with Ed 200, unless otherwise provided in Ed 409.03 – Ed 409.09.\n\n(b) Within 10 business days of the receipt of the request for a hearing, the hearing officer shall begin the hearing process by issuing an order of notice in accordance with Ed 209.02.\n\nSource. #8263, eff 1-22-05; ss by #10360, eff 6-15-13; ss by #13853, eff 1-11-24 (formerly Ed 408.03) (See Revision Note a chapter heading for Ed 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/1909",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "155:71",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "155:75",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/1900",
+  "definition": "WAIVERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/1909.01",
+    "https://granitestate.github.io/rules/he-p/1909.02",
+    "https://granitestate.github.io/rules/he-p/1909.03",
+    "https://granitestate.github.io/rules/he-p/1909.04"
+  ],
+  "notation": "He-P 1909",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1900.html",
+  "prefLabel": "He-P 1909 WAIVERS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 1909 WAIVERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p1900.html"
+}

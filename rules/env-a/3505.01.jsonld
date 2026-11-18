@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3505.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3505",
+  "definition": "Emission Limits for Small, Remote HMIWI",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; amd by #7127, eff 10-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3505.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3505.01 Emission Limits for Small, Remote HMIWI",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3505.01 Emission Limits for Small, Remote HMIWI.\n\n(a) All small, remote HMIWI units shall comply with the emission limitations set forth in Table 3500-1 in (c), below.\n\n(b) For purposes of Table 3500-1 in (c), below, when there is a choice between units of measurement for any of the pollutants listed, the HMIWI operator or owner shall choose the unit of measurement that applies most closely to the individual HMIWI unit.\n\n(c) The emission limits for small, remote HMIWI shall be as set forth in Table 3500-1 below, based on 7 percent oxygen, dry basis:\n\nTABLE 3500-1: EMISSION LIMITS FOR SMALL, REMOTE HMIWI\n\nPollutant | HMIWI Emission Limits\n\nParticulate matter | 197 milligrams per dry standard cubic meter, or 0.086 grains per dry standard cubic foot\n\nCarbon monoxide | 40 parts per million by volume\n\nDioxins/furans | If measured as total dioxins/furans, either: 800 nanograms per dry standard cubic meter total dioxins/furans; or 350 grains per billion dry standard cubic feet total dioxins/furans. If measured as toxic equivalency (TEQ), either: 15 nanograms per dry standard cubic meter TEQ; or 6.6 grains per billion dry standard cubic feet TEQ.\n\nHydrogen chloride | 3100 parts per million by volume\n\nSulfur dioxide | 55 parts per million by volume\n\nNitrogen oxides | 250 parts per million by volume\n\nLead | 10 milligrams per dry standard cubic meter; or 4.4 grains per thousand dry standard cubic feet\n\nCadmium | 4 milligrams per dry standard cubic meter; or 1.7 grains per thousand dry standard cubic feet\n\nMercury | 0.055 milligrams per dry standard cubic meter; or 0.024 grains per thousand dry standard cubic feet\n\n(d) On or after the initial performance test is completed or required to be completed, whichever comes first, no owner or operator of a small, remote HMIWI unit shall cause to be discharged into the atmosphere from that HMIWI unit any gases that exhibit greater than 10 percent opacity, measured by 6 minute block average, using Method 9 from 40 CFR 60 Appendix A.\n\n(e) The emission limits for small, remote HMIWI pursuant to this chapter shall apply at all times except during periods of startup, shutdown, or malfunction, provided that no hospital waste or medical/infectious waste is charged to the HMIWI unit during startup, shutdown, or malfunction.\n\nSource. #6938, eff 1-30-99; amd by #7127, eff 10-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1104.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "328-H:8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1104",
+  "definition": "Qualifications for Initial Practitioner Licensure",
+  "effectiveDate": "2026-01-26",
+  "expirationDate": "2036-01-26",
+  "historyNote": "#14444, eff 1-26-26, EXPIRES: 1-26-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html",
+  "prefLabel": "Plc 1104.01 Qualifications for Initial Practitioner Licensure",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1104.01 Qualifications for Initial Practitioner Licensure. As required by RSA 328-H:8, I, to qualify for initial licensure as a practitioner, an individual shall:\n\n(a) Be at least 18 years of age as of the date of application;\n\n(b) Hold a current certificate from a national certifying agency; and\n\n(c) Not have been convicted in New Hampshire or in any other jurisdiction of any crime involving violence inflicted on a person or threatened against a person, or any sexually-related crime.\n\nSource. #14444, eff 1-26-26, EXPIRES: 1-26-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/2102.07",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "altLabel": "Distribution System Information",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "366:1",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/366/366-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/366/366-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/2102",
+  "definition": "Distribution system information",
+  "effectiveDate": "2026-02-26",
+  "expirationDate": "2036-02-26",
+  "historyNote": "#14519, eff 2-26-26, EXPIRES: 2-26-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 2102.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2100.html",
+  "prefLabel": "En 2102.07 Distribution system information",
+  "recordType": "rule-section",
+  "ruleText": "En 2102.07 “Distribution system information” means information concerning the specific location or characteristics of part or all of the utility’s distribution system or other non-customer-specific, non-public information that is not available on an equivalent basis to non-affiliated competitors.\n\nSource. #14519, eff 2-26-26, EXPIRES: 2-26-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en2100.html"
+}

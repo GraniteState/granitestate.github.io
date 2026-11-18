@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Detected Contaminants",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.09 Detected Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.09 Detected Contaminants.\n\n(a) The CWS O/O shall include data in the manner specified in Env-Dw 811.11 if any of the following are detected in the water provided by the CWS:\n\n(1) Regulated contaminant(s) as defined in Env-Dw 811.02(e);\n\n(2) Unregulated contaminant(s) as regulated under 40 CFR 141.40;\n\n(3) Sodium, if monitoring is required per Env-Dw 713.08; or\n\n(4) Disinfection by-products or microbial contaminants other than cryptosporidium for which monitoring is required by Env-Dw 712.17 and that are detected in the finished water.\n\n(b) The CCR shall identify the probable source of the contaminant. If the CWS O/O lacks specific information on the likely source(s) of contamination, the O/O shall use the language specified in Env-Dw 811.22.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

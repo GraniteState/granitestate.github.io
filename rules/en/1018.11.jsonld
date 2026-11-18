@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1018.11",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:1",
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-1",
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1018",
+  "definition": "Cost Reconciliation",
+  "effectiveDate": "2026-09-01",
+  "expirationDate": "2036-09-01",
+  "historyNote": "#14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1018.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html",
+  "prefLabel": "En 1018.11 Cost Reconciliation",
+  "recordType": "rule-section",
+  "ruleText": "En 1018.11 Cost Reconciliation.\n\n(a) The utility shall, only upon request by the applicant, true up estimates for all, studies and EDS modifications for project applications with substantial modifications to reflect actual costs either through refunding or invoicing the applicant for the difference within 240 business days of PTO or of termination of the IA if the termination of the IA occurs prior to PTO. Invoices provided to the applicant shall be accompanied by a final accounting report that provides a detailed breakdown of costs. That cost breakdown shall match, at minimum, the level of detail of the estimate provided to the applicant.\n\n(b) An applicant may request a final accounting report of any difference between:\n\n(1) The actual costs of the studies and upgrades; and\n\n(2) The applicant’s previous aggregate payments to the utility for studies and upgrades within 120 business days after PTO or within 120 business days of the termination of the IA if the termination of the IA occurs prior to PTO.\n\n(c) Upon receipt of a request for a final accounting report from an applicant, the utility shall have 120 business days to provide the requested final accounting report to the applicant as follows:\n\n(1) If the funds spent or committed by the utility exceeds the applicant’s previous aggregate payments, the utility shall invoice the applicant, and the applicant shall provide full payment to the utility within 45 business days;\n\n(2) If the applicant’s previous aggregate payments exceed the funds spent or committed by the utility, the utility shall refund to the applicant an amount equal to the difference within 45 business days; and\n\n(3) Failure by the applicant to pay undisputed amounts within the required timeframe authorizes the utility to disconnect the facility from the EDS any time after the lapsed deadline.\n\nSource. #14657, eff 9-1-26, EXPIRES: 9-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1000.html"
+}

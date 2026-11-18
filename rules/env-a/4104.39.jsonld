@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4104.39",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4104",
+  "definition": "Sanitizer",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24 (formerly Env-A 4104.40)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4104.39",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4104.39 Sanitizer",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4104.39 “Sanitizer” means a product that is labeled as a “sanitizer” or that is labeled to reduce, but not necessarily eliminate, microorganisms in the air, on surfaces, or on inanimate objects, and whose label is registered as a “sanitizer” under FIFRA. The term does not include:\n\n(a) Products labeled as both a “sanitizer” and a “disinfectant”;\n\n(b) Disinfectants;\n\n(c) Products labeled solely for use on humans or animals;\n\n(d) Products labeled solely for agricultural use;\n\n(e) Products labeled solely for use in swimming, therapeutic tubs, or hot tubs;\n\n(f) Products labeled to be used on heat -sensitive critical or semi-critical medical devices or medical equipment surfaces;\n\n(g) Pre-moistened wipes or towelettes sold exclusively to medical, convalescent, or veterinary establishments;\n\n(h) Products labeled to be applied to food-contact surfaces that are not required to be rinsed prior to contact with food; or\n\n(i) Products labeled as bathroom and tile cleaners, glass cleaners, general purpose cleaners, toilet/urinal care products, metal polishers, carpet cleaners, or fabric refreshers regardless of any sanitizing or anti-microbial claims on the label.\n\nSource. #10527, eff 2-26-14; ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24 (formerly Env-A 4104.40)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

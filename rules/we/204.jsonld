@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/204",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/200",
+  "definition": "PETITIONS FOR WAIVER OR EXEMPTION OF RULES, EXEMPTIONS OF STATUTORY REQUIREMENTS AND DECLARATORY RULINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/204.01",
+    "https://granitestate.github.io/rules/we/204.02",
+    "https://granitestate.github.io/rules/we/204.03",
+    "https://granitestate.github.io/rules/we/204.04",
+    "https://granitestate.github.io/rules/we/204.05",
+    "https://granitestate.github.io/rules/we/204.06"
+  ],
+  "notation": "We 204",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 204 PETITIONS FOR WAIVER OR EXEMPTION OF RULES, EXEMPTIONS OF STATUTORY REQUIREMENTS AND DECLARATORY RULINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART We 204 PETITIONS FOR WAIVER OR EXEMPTION OF RULES, EXEMPTIONS OF STATUTORY REQUIREMENTS AND DECLARATORY RULINGS.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

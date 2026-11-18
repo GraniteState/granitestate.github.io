@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/212.01",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/212",
+  "definition": "Voluntary Production of Information",
+  "effectiveDate": "2004-05-01",
+  "historyNote": "#7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 212.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 212.01 Voluntary Production of Information",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 212.01 Voluntary Production of Information.\n\n(a) Each party and intervenor shall attempt in good faith to make complete and timely response to requests for the voluntary production of information and documents relevant to the hearing.\n\n(b) When a dispute arises concerning a request for the voluntary production of information or documents, any party or intervenor may file a motion under Ahp 212.02 to compel the production of the requested information or documents.\n\nSource. #7232, eff 4-15-00; ss by #8078, eff 5-1-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

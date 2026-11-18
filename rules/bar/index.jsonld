@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "definition": "Board of Barbering, Cosmetology and Esthetics",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bar/100",
+    "https://granitestate.github.io/rules/bar/200",
+    "https://granitestate.github.io/rules/bar/300",
+    "https://granitestate.github.io/rules/bar/400",
+    "https://granitestate.github.io/rules/bar/500",
+    "https://granitestate.github.io/rules/bar/600",
+    "https://granitestate.github.io/rules/bar/700"
+  ],
+  "notation": "Bar",
+  "prefLabel": "Bar Board of Barbering, Cosmetology and Esthetics",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

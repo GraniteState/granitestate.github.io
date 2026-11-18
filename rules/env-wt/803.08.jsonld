@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/803.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/803",
+  "definition": "Compensatory Mitigation Ratios",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "(See Revision Note at part heading for Env-Wt 803) #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 803.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 803.08 Compensatory Mitigation Ratios",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 803.08 Compensatory Mitigation Ratios.\n\n(a) For permittee-responsible mitigation, other than for stream impacts, the applicant shall demonstrate that the compensatory mitigation plan meets or exceeds the ratios listed in Table 800-1, relative to the amount of impacted jurisdictional areas:\n\nTable 800-1: Minimum Compensatory Mitigation Ratios\n\nResource Type | Creation | Restoration | Enhancement | Aquatic Resource Buffer Preservation\n\nHydrologic | Vegetative\n\nBog or Fen | N/A | 2:1 | 5:1 | 10:1 | 15:1\n\nTidal Wetlands | 3:1 | 2:1 | 5:1 | 10:1 | 15:1\n\nForested | 1.5:1 | 1.5:1 | 5:1 | 10:1 | 10:1\n\nUndeveloped Tidal Buffer Zone | N/A | 2:1 | 5:1 | 10:1 | 3:1\n\nAll Other Jurisdictional Areas | 1.5:1 | 1:1 | 5:1 | 10:1 | 10:1\n\n(b) For permittee-responsible mitigation for stream impacts, the applicant shall demonstrate that the total amount of compensatory mitigation area meets or exceeds the total amount of impacted stream area, including the stream bottom and associated stream banks.\n\n(c) For any project that also requires a federal permit from the US Army Corps of Engineers (US ACE) under section 404 of the Clean Water Act, the applicant shall consult with the US ACE relative to whether additional mitigation will be required in order to satisfy federal mitigation requirements.\n\nSource. (See Revision Note at part heading for Env-Wt 803) #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

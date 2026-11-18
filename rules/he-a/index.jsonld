@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "definition": "Former Office of Alcohol & Drug Abuse Prevention",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-a/200",
+    "https://granitestate.github.io/rules/he-a/300",
+    "https://granitestate.github.io/rules/he-a/400",
+    "https://granitestate.github.io/rules/he-a/500",
+    "https://granitestate.github.io/rules/he-a/600",
+    "https://granitestate.github.io/rules/he-a/700",
+    "https://granitestate.github.io/rules/he-a/800",
+    "https://granitestate.github.io/rules/he-a/900"
+  ],
+  "notation": "He-A",
+  "prefLabel": "He-A Former Office of Alcohol & Drug Abuse Prevention",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

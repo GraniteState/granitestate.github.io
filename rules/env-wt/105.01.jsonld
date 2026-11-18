@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/105.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/105",
+  "definition": "Retention of Files",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "(See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html",
+  "prefLabel": "Env-Wt 105.01 Retention of Files",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 105.01 Retention of Files.\n\n(a) The department shall retain files of applications for standard permits under Env-Wt 311 for:\n\n(1) Not less than 4 years from the date of the final decision on the application if the application is denied, provided that if the denial is appealed, the file shall be maintained for at least 4 years from the final decision on appeal; and\n\n(2) Not less than 10 years from the date of the final decision on the application if a permit is issued, provided that if the permit is appealed, the file shall be maintained for at least 10 years from the final decision on appeal.\n\n(b) The department shall retain notices filed under Env-Wt 308.05 to activate a statutory permit-by-notification (SPN) for at least 4 years from the date of the SPN.\n\n(c) The department shall retain registrations and notices filed under Env-Wt 309 for LSAs and applications filed under Env-Wt 310 for EXPs for at least 4 years from the date of the registration, notice, or decision on the application, as applicable.\n\nSource. (See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html"
+}

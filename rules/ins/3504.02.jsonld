@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3504.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3504",
+  "definition": "Deficiency Reserves Calculation Requirements",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3504.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3504.02 Deficiency Reserves Calculation Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3504.02 Deficiency Reserves Calculation Requirements.\n\n(a) Deficiency reserves, if any, are calculated for each policy as the excess, if greater than zero, of the quantity A over the basic reserve. The quantity A is obtained by recalculating the basic reserve for the policy using guaranteed gross premiums instead of net premiums when the guaranteed gross premiums are less than the corresponding net premiums. At the election of the company for any one or more specified plans of insurance, the quantity A and the corresponding net premiums used in the determination of quantity A may be based upon the 1980 CSO valuation tables with select mortality factors (or any other valuation mortality table adopted by the NAIC after the 2017 effective date of this rule and promulgated by rule by the commissioner). If selected mortality factors are elected, they may be:\n\n(1) The ten-year select mortality factors incorporated into the 1980 amendments to the NAIC Standard Valuation Law;\n\n(2) The select mortality factors in Appendix 1 of this rule;\n\n(3) For durations in the first segment, X percent of the select mortality factors in Appendix 1, subject to the following:\n\na. X may vary by policy year, policy form, underwriting classification, issue age, or any other policy factor expected to affect mortality experience;\n\nb. X shall not be less than twenty percent (20%);\n\nc. X shall not decrease in any successive policy years;\n\nd. X is such that, when using the valuation interest rate used for basic reserves, Item 1. is greater than or equal to Item 2.:\n\n1. The actuarial present value of future death benefits, calculated using the mortality rates resulting from the application of X; and\n\n2. The actuarial present value of future death benefits calculated using anticipated mortality experience without recognition of mortality improvement beyond the valuation date;\n\ne. X is such that the mortality rates resulting from the application of X are at least as great as the anticipated mortality experience, without recognition of mortality improvement beyond the valuation date, in each of the first five (5) years after the valuation date;\n\nf. The appointed actuary shall increase X at any valuation date where it is necessary to continue to meet all the requirements of Ins 3504.02(a)(3);\n\ng. The appointed actuary may decrease X at any valuation date as long as X does not decrease in any successive policy years and as long as it continues to meet all the requirements of Ins 3504.02(a)(3);\n\nh. The appointed actuary shall specifically take into account the adverse effect on expected mortality and lapsation of any anticipated or actual increase in gross premiums; and\n\ni. If X is less than 100 percent at any duration for any policy, the following requirements shall be met:\n\n1. The appointed actuary shall annually prepare an actuarial opinion and memorandum for the company in conformance with the requirements of Ins 2400, Actuarial Opinion and Memorandum;\n\n2. The appointed actuary shall disclose, in the Regulatory Asset-Adequacy Issues Summary, the impact of the insufficiency of assets to support the payment of benefits and expenses and the establishment of statutory reserves during one or more interim periods; and\n\n3. The appointed actuary shall annually opine for all policies subject to this rule as to whether the mortality rates resulting from the application of X meet the requirements of Ins 3504.02(a)(3). This opinion shall be supported by an actuarial report, subject to appropriate Actuarial Standards of Practice promulgated by the Actuarial Standards Board of American Academy of Actuaries and available as referenced in Appendix B. The X factors shall reflect anticipated future mortality, without recognition of mortality improvement beyond the valuation date, taking into account relevant emerging experience; and\n\n(4) Any other table of select mortality factors adopted by the NAIC after the 2017 effective date of this rule and promulgated by rule by the commissioner for the purpose of calculating deficiency reserves.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

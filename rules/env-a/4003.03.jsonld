@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4003.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4003",
+  "definition": "Determining Compliance with Performance Standards",
+  "effectiveDate": "2008-01-09",
+  "historyNote": "#8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4003.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4003.03 Determining Compliance with Performance Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4003.03 Determining Compliance with Performance Standards.\n\n(a) Prior to allowing the portable fuel container or spout, or both, to be offered for sale in New Hampshire, the manufacturer shall:\n\n(1) Test the portable fuel container or spout, or both, using the procedures specified in Env-A 4005.01; and\n\n(2) Demonstrate compliance with the applicable performance standards specified in Env-A 4003.\n\n(b) The manufacturer shall maintain records of the compliance tests specified in (a), above, for as long as the product is available for sale in New Hampshire, and shall make those test results available to the department within 60 days of request.\n\n(c) Compliance with the performance standards in Env-A 4003 shall not exempt spill-proof systems or spill-proof spouts from compliance with other applicable federal and state statutes and regulations such as state fire codes, safety codes, and other safety regulations.\n\nSource. #8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/102.54",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "altLabel": "Design Capacity",
+  "authority": [
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw/102",
+  "definition": "Design capacity",
+  "effectiveDate": "2024-10-23",
+  "historyNote": "#14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Sw 102.54",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html",
+  "prefLabel": "Env-Sw 102.54 Design capacity",
+  "recordType": "rule-section",
+  "ruleText": "Env-Sw 102.54 “Design capacity” means the quantity of waste a facility is designed to manage, expressed as follows:\n\n(a) For all facilities:\n\n(1) The maximum daily tonnage to be received at a facility;\n\n(2) The average weekly tonnage to be received at the facility during the quarter in which the most waste is anticipated to be received; and\n\n(3) The design storage capacity;\n\n(b) For processing or treatment or transfer facilities, the rated through-put capacity of the equipment for processing of solid waste; and\n\n(c) For landfills, the design volume.\n\nSource. #14103, eff 10-23-24 (see Revision Note #2 at chapter heading for Env-Sw 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw100.html"
+}

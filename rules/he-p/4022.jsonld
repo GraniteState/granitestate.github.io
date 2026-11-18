@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4022",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F",
+      "source": "https://granitestate.github.io/rsa/125-F",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-F"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4000",
+  "definition": "SURVEYS AND MONITORING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-p/4022.01",
+    "https://granitestate.github.io/rules/he-p/4022.02",
+    "https://granitestate.github.io/rules/he-p/4022.03",
+    "https://granitestate.github.io/rules/he-p/4022.04",
+    "https://granitestate.github.io/rules/he-p/4022.05",
+    "https://granitestate.github.io/rules/he-p/4022.06",
+    "https://granitestate.github.io/rules/he-p/4022.07",
+    "https://granitestate.github.io/rules/he-p/4022.08",
+    "https://granitestate.github.io/rules/he-p/4022.09",
+    "https://granitestate.github.io/rules/he-p/4022.10",
+    "https://granitestate.github.io/rules/he-p/4022.11",
+    "https://granitestate.github.io/rules/he-p/4022.12",
+    "https://granitestate.github.io/rules/he-p/4022.13",
+    "https://granitestate.github.io/rules/he-p/4022.14",
+    "https://granitestate.github.io/rules/he-p/4022.15",
+    "https://granitestate.github.io/rules/he-p/4022.16"
+  ],
+  "notation": "He-P 4022",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html",
+  "prefLabel": "He-P 4022 SURVEYS AND MONITORING",
+  "recordType": "rule-part",
+  "ruleText": "PART He-P 4022 SURVEYS AND MONITORING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4001-4022.html"
+}

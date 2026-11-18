@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mhp/308.02",
+  "@type": "Concept",
+  "agencyCode": "Mhp",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "330-A:10",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/330-A/330-A-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "330-A:18-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/330-A/330-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/mhp/308",
+  "definition": "Required Education for Social Work Associate",
+  "effectiveDate": "2026-08-24",
+  "expirationDate": "2036-08-24",
+  "historyNote": "#13903, eff 5-14-24; ss by #14641, eff 8-24-26, EXPIRES: 8-24-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mhp 308.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html",
+  "prefLabel": "Mhp 308.02 Required Education for Social Work Associate",
+  "recordType": "rule-section",
+  "ruleText": "Mhp 308.02 Required Education for Social Work Associate.\n\n(a) Applicants shall have either an associate degree in clinical mental health, social work, psychology, behavioral health counseling, human services discipline, or equivalent program or a bachelors degree in clinical mental health, social work, psychology, behavioral health counseling, human services discipline, or equivalent program from an accredited college or university.\n\nSource. #13903, eff 5-14-24; ss by #14641, eff 8-24-26, EXPIRES: 8-24-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mhp300.html"
+}

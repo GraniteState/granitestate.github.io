@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1405.38",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "438:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "438:14-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:19-b",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-19-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-19-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1405",
+  "definition": "Form for Placed in Service/Inspection Report for Taxi Meters",
+  "effectiveDate": "2017-12-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Agr 1400) #12424, eff 12-1-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1405.38",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html",
+  "prefLabel": "Agr 1405.38 Form for Placed in Service/Inspection Report for Taxi Meters",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1405.38 Form for Placed in Service/Inspection Report for Taxi Meters.\n\n(a) In addition to other requirements set by rule, statute, or other law, each registered service technician shall complete and submit “Placed in Service/Inspection Report Form TAXI 08-2007 (REV. 07/14)” to the department.\n\n(b) A registered service technician shall furnish the following on “Placed in Service/Inspection Report Form TAXI 08-2007 (REV. 07/14)”:\n\n(1) Name of business;\n\n(2) Full address, including city, state, and zip code;\n\n(3) The following information about each taxi meter:\n\na. Whether installed;\n\nb. Whether certified and the stamp number;\n\nc. Whether tested and calibrated for device license;\n\nd. Whether rejected;\n\ne. Whether repaired;\n\nf. Equipment number;\n\ng. Vehicle identification number;\n\nh. Registered plate number;\n\ni. Tire size;\n\nj. Make of meter;\n\nk. Serial number of meter;\n\nl. Model number of meter;\n\nm. Drop money;\n\nn. Plus money;\n\no. Odometer reading-ending;\n\np. Odometer reading-beginning;\n\nq. Total miles; and\n\nr. Total money value;\n\n(4) The following information about each test data:\n\na. Type of test;\n\nb. Actual discharge rate;\n\nc. Totalizer reading start; and\n\nd. Totalizer reading finish;\n\n(5) The following information about each prover data:\n\na. Prover temperature;\n\nb. Prover reading;\n\nc. Correction for expansion/contraction of prover;\n\nd. Volume correction for prover reading; and\n\ne. Prover reading corrected to 60 degrees Fahrenheit;\n\n(6) The following information about each meter data:\n\na. Gross meter reading; and\n\nb. Net meter reading;\n\n(7) If an uncompensated run or systems that give both gross and net readings, the following:\n\na. Average meter temperature;\n\nb. Volume correction for meter reading; and\n\nc. Meter reading corrected to 60 degrees Fahrenheit;\n\n(8) Net delivery error; and\n\n(9) Correct gross delivery error.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Agr 1400) #12424, eff 12-1-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html"
+}

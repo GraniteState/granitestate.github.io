@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/509",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "486:14",
+      "source": "https://granitestate.github.io/rsa/486/486-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/486/486-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/500",
+  "definition": "PROCUREMENT OF ENGINEERING SERVICES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/509.01",
+    "https://granitestate.github.io/rules/env-wq/509.02",
+    "https://granitestate.github.io/rules/env-wq/509.03",
+    "https://granitestate.github.io/rules/env-wq/509.04",
+    "https://granitestate.github.io/rules/env-wq/509.05",
+    "https://granitestate.github.io/rules/env-wq/509.06",
+    "https://granitestate.github.io/rules/env-wq/509.07"
+  ],
+  "notation": "Env-Wq 509",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq500.html",
+  "prefLabel": "Env-Wq 509 PROCUREMENT OF ENGINEERING SERVICES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 509 PROCUREMENT OF ENGINEERING SERVICES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq500.html"
+}

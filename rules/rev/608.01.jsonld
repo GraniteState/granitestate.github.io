@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/608.01",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:11",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-11",
+    "https://granitestate.github.io/rsa/21-J/21-J-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/608",
+  "definition": "Estimated Size of The Reassessment",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 608.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html",
+  "prefLabel": "Rev 608.01 Estimated Size of The Reassessment",
+  "recordType": "rule-section",
+  "ruleText": "Rev 608.01 Estimated Size of The Reassessment. A revaluation or partial update contract shall contain a statement as to the estimated size of the revaluation or partial update as follows:\n\n\"It is agreed between the parties that the entire (revaluation) or (partial update) consists of an estimate of ________ parcels, as defined by RSA 75:9. In the event that the number of parcels should exceed _____% of this estimate, the contractor shall be entitled to additional remuneration of __________ for each parcel that exceeds the original estimate.\"",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev600.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1004.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Approval to Operate for ISDS Having Multiple Connections To A Single EDA",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1004",
+  "definition": "Approval to Operate for ISDS Having Multiple Connections to a Single EDA",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1004.09)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1004.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1004.08 Approval to Operate for ISDS Having Multiple Connections to a Single EDA",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1004.08 Approval to Operate for ISDS Having Multiple Connections to a Single EDA.\n\n(a) For any ISDS designed to include multiple connections to a single EDA, approval to operate shall be given for the entire installed ISDS only if the entire EDA and all connections are installed at the time of inspection.\n\n(b) If one or more connections have not been installed to the approved EDA at the time of inspection:\n\n(1) An amended plan showing only those connections that have been completed shall be submitted and an amended construction approval from the department shall be necessary; and\n\n(2) An approval to operate shall be given for the EDA only, and for those individual connections that have been installed in accordance with the approved amended plans.\n\n(c) Any additional connections to the EDA made after approval to operate has been given shall require submission of a new application for a collection system tie-in in accordance with Env-Wq 1003.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1004.09)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

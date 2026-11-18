@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.04",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Appeal",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#4864, eff 7-13-90, EXPIRED: 7-13-96 New. #7117, eff 10-8-99, EXPIRED: 10-8-07 New. #9553, eff 9-25-09, EXPIRED: 9-25-17 New. #12938, eff 12-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.04 Appeal",
+  "priorExpiration": "2017-09-25",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.04 “Appeal” means to seek attorney general review of the decision of the commission to determine whether the decision should be reversed or modified.\n\nSource. #4864, eff 7-13-90, EXPIRED: 7-13-96\n\nNew. #7117, eff 10-8-99, EXPIRED: 10-8-07\n\nNew. #9553, eff 9-25-09, EXPIRED: 9-25-17\n\nNew. #12938, eff 12-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

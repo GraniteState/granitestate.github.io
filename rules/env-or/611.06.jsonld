@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/611.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-F:11",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-F/147-F-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/611",
+  "definition": "Contaminated Soil Disposal and Reuse",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14159, eff 12-25-24; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 611.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 611.06 Contaminated Soil Disposal and Reuse",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 611.06 Contaminated Soil Disposal and Reuse.\n\n(a) Except as provided for by (b) and (c) below, all NOCS or NCS that exceed the soil remediation standards in Table 600-2 shall be either:\n\n(1) Managed on-site in accordance with a remedial action approved by the department pursuant to Env-Or 606.13; or\n\n(2) Removed from the site to an authorized treatment or disposal facility holding all requisite federal, state, or local permits, licenses, or approvals.\n\n(b) NOCS or NCS that exceeds the soil remediation standards listed in Table 600-2 but meets site-specific standards developed in accordance with Env-Or 606.19 may be managed on the site.\n\n(c) NOCS or NCS that exceeds the soil remediation standards listed in Table 600-2 but is managed in accordance with a department-approved AUR implemented in accordance with Env-Or 608 may be managed on the site.\n\n(d) NOCS or NCS that meets the soil remediation standards listed in Table 600-2 may be left in place or reused on site, reused in accordance with Env-Sw 903, or removed from the site to an authorized treatment or disposal facility holding all requisite federal, state, or local permits, licenses, or approvals.\n\nSource. (See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14159, eff 12-25-24; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

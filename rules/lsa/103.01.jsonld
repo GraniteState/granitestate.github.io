@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lsa/103.01",
+  "@type": "Concept",
+  "agencyCode": "Lsa",
+  "authority": [
+    {
+      "citation": "310-A:142",
+      "source": "https://granitestate.github.io/rsa/310-A/310-A-142",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A/310-A-142",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/lsa/103",
+  "definition": "Duties and Responsibilities",
+  "effectiveDate": "2007-03-28",
+  "historyNote": "#8858, eff 3-28-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lsa 103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html",
+  "prefLabel": "Lsa 103.01 Duties and Responsibilities",
+  "recordType": "rule-section",
+  "ruleText": "Lsa 103.01 Duties and Responsibilities. The board shall administer the provisions of RSA 310-A:140-160 which include but are not limited to safeguarding property, to promoting public welfare and maintaining a high standard of integrity, skills and practice in the profession of landscape architecture in this state.\n\nSource. #8858, eff 3-28-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lsa100-500.html"
+}

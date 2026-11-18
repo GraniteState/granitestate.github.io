@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/3213.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "266:1",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/266/266-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "266:60",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/266/266-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/3213",
+  "definition": "Odometer",
+  "effectiveDate": "2016-01-06",
+  "historyNote": "(See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15 New. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 3213.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html",
+  "prefLabel": "Saf-C 3213.01 Odometer",
+  "priorExpiration": "2016-01-12",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 3213.01 Odometer.\n\n(a) A vehicle shall be rejected if the odometer:\n\n(1) Has been tampered with or removed; or\n\n(2) Does not work.\n\n(b) Pursuant to RSA 266:60, if the vehicle was manufactured after January 1, 1972, the odometer shall be tamper resistant.\n\nSource. (See Revision Notes at Chapter Heading Saf-C 3200) #8915, eff 6-22-07, EXPIRED: 6-22-15\n\nNew. #10886, INTERIM, eff 7-16-15, EXPIRES: 1-12-16; ss by #11016, eff 1-6-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c3200.html"
+}

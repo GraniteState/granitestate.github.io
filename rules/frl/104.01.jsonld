@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/frl/104.01",
+  "@type": "Concept",
+  "agencyCode": "Frl",
+  "authority": [
+    {
+      "citation": "91-A:3",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "325:9",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-3",
+    "https://granitestate.github.io/rsa/91-A/91-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/frl/104",
+  "definition": "Record of Board Actions",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "#6927, eff 1-1-99, EXPIRED: 7-1-09 pursuant to RSA 541-A:17, II and 2008, 303:4 New. #12672, eff 11-20-18; ss by #14456, eff 1-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Frl 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/frl100-900.html",
+  "prefLabel": "Frl 104.01 Record of Board Actions",
+  "priorExpiration": "2009-07-01",
+  "recordType": "rule-section",
+  "ruleText": "Frl 104.01 Record of Board Actions. Minutes shall be kept of board meetings and of official actions taken by the staff member designated by the executive director of the OPLC. These minutes shall record the members who participate in each vote and shall separately record the position of members who choose to dissent, abstain, or concur. Minutes of board actions which are not confidential under RSA 91-A:3, II or RSA 91-A:5 shall be public records and shall be available for inspection during the board's ordinary office hours within 5 business days from the close of the meeting or vote in question unless the 72 hour availability requirement of RSA 91-A:3, III is applicable.\n\nSource. #6927, eff 1-1-99, EXPIRED: 7-1-09 pursuant to RSA 541-A:17, II and 2008, 303:4\n\nNew. #12672, eff 11-20-18; ss by #14456, eff 1-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/frl100-900.html"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/202.05",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/202",
+  "definition": "Format and Filing of Documents",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 202.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 202.05 Format and Filing of Documents",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 202.05 Format and Filing of Documents.\n\n(a) All correspondence, pleadings, motions, or other documents filed under these rules shall:\n\n(1) Be clearly printed on durable paper, 8½ by 11 inches in size; and\n\n(2) Be signed by the party or proponent of the document or, if the party appears by a representative, by the representative.\n\n(b) The signature on a document filed with the board shall constitute certification that:\n\n(1) The signer has read the document;\n\n(2) The signer is authorized to file it; and\n\n(3) To the best of the signer’s knowledge, information, and belief there are good and sufficient grounds to support it.\n\n(c) All correspondence, filings, or communications, including appeal requests, intended for the board shall be addressed to:\n\nExecutive Director\n\nNH Prescription Drug Affordability Board\n\n129 Pleasant Street\n\nConcord, NH 03301\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

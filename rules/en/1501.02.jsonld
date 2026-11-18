@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/1501.02",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:2",
+      "source": "https://granitestate.github.io/rsa/362/362-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "371:17",
+      "source": "https://granitestate.github.io/rsa/371/371-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-2",
+    "https://granitestate.github.io/rsa/371/371-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/en/1501",
+  "definition": "Applicability",
+  "effectiveDate": "2024-04-26",
+  "historyNote": "#13939, eff 4-26-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 1501.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1500.html",
+  "prefLabel": "En 1501.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "En 1501.02 Applicability. En 1500 shall apply to:\n\n(a) Public utilities within the meaning of RSA 362:2;\n\n(b) Rural electric cooperatives for which a certificate of deregulation is on file pursuant to RSA 301:57;\n\n(c) Municipal corporations and county corporations regardless of whether operating within their corporate limits; and\n\n(d) Every other corporation or other entity, and every individual desiring to cross any public water or land for any purpose set forth in RSA 371:17.\n\nSource. #13939, eff 4-26-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en1500.html"
+}

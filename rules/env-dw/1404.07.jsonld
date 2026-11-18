@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1404.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "altLabel": "Planning Document",
+  "authority": [
+    {
+      "citation": "485-H",
+      "source": "https://granitestate.github.io/rsa/485-H",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-H"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1404",
+  "definition": "Bank Information",
+  "effectiveDate": "2022-04-21",
+  "historyNote": "#13164, eff 1-26-21; ss by #13372, eff 4-21-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 1404.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1400.html",
+  "prefLabel": "Env-Dw 1404.07 Bank Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 1404.07 Bank Information. The bank information required by Env-Dw 1404.01(a)(5) shall be as follows:\n\n(a) The name of the recipient;\n\n(b) The department-assigned project number;\n\n(c) The name, title, daytime telephone and fax numbers including area code, and email address of the individual who will be the contact for billing and notifications of fund transfers;\n\n(d) The name, title, daytime telephone and fax numbers including area code, and email address of the individual who will be the contact for audits;\n\n(e) The name, mailing address, and main telephone number including area code of the recipient’s financial institution;\n\n(f) The name, title, daytime telephone and fax numbers including area code, and email address of the recipient’s point of contact at the financial institution;\n\n(g) The recipient’s financial institution’s ABA routing number for ACH transactions;\n\n(h) The name on the account and the type of account, for example checking or savings; and\n\n(i) The account number.\n\nSource. #13164, eff 1-26-21; ss by #13372, eff 4-21-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1400.html"
+}

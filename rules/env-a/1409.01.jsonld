@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1409.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:4",
+      "source": "https://granitestate.github.io/rsa/125-I/125-I-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-I/125-I-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1409",
+  "definition": "Determination of 24-Hour Ambient Air Limits",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96 New. #6468-B, eff 3-5-97; ss and moved by #8278, eff 2-4-05 (from Env-A 1410.01); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1409.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1409.01 Determination of 24-Hour Ambient Air Limits",
+  "priorExpiration": "1996-12-22",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1409.01 Determination of 24-Hour Ambient Air Limits.\n\n(a) Where a reference concentration limit has been established by the EPA for an RTAP, the 24-hour AAL for that pollutant shall be the reference concentration limit if:\n\n(1) The RTAP causes developmental or reproductive effects; or\n\n(2) The annual AAL is based on the reference concentration limit, and the 24-hour AAL, as calculated in accordance with (b), below, is less than the reference concentration limit.\n\n(b) In all cases other than those specified in (a), above, the 24-hour AAL shall be a modified occupational health standard as determined by the calculation specified in Env-A 1409.02.\n\nSource. #6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96\n\nNew. #6468-B, eff 3-5-97; ss and moved by #8278, eff 2-4-05 (from Env-A 1410.01); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

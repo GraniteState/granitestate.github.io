@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/904.05",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "275-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "275-E:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/904",
+  "definition": "Hearings",
+  "effectiveDate": "2023-08-25",
+  "historyNote": "#10522, eff 2-15-14 (from Lab 904.03); ss by #13731, eff 8-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 904.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab900.html",
+  "prefLabel": "Lab 904.05 Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Lab 904.05 Hearings.\n\n(a) Hearings held under RSA 275-E:4 and Lab 904.03 shall be conducted according to the rules established by Lab 201-204, and the requirements of RSA 541-A.\n\n(b) Following such hearing, the labor commissioner or designee shall order such remedies as are appropriate, including reinstatement of the employee, payment of back pay, fringe benefits, seniority rights, attorney fees, any appropriate injunctive relief, or any combination of these remedies.\n\nSource. #10522, eff 2-15-14 (from Lab 904.03); ss by #13731, eff 8-25-23\n\nAppendix",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab900.html"
+}

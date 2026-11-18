@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/903.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Application Fees",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 903.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 903.02 Application Fees",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 903.02 Application Fees.\n\n(a) The application fee for a stream crossing project classified as minimum impact shall be as specified in RSA 482-A:3, I(c) for a minimum impact project.\n\n(b) The application fee for a stream crossing project that does not qualify as a minimum impact project shall be calculated as specified in RSA 482-A:3, I(c) based upon the sum of the square feet of impacts to the banks and channel bottom and other associated jurisdictional areas.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

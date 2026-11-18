@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/2102",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "205-D:3",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/2100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/2102.01",
+    "https://granitestate.github.io/rules/plc/2102.02",
+    "https://granitestate.github.io/rules/plc/2102.03",
+    "https://granitestate.github.io/rules/plc/2102.04",
+    "https://granitestate.github.io/rules/plc/2102.05"
+  ],
+  "notation": "Plc 2102",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc2100.html",
+  "prefLabel": "Plc 2102 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 2102 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc2100.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-hw/1004.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Hw",
+  "authority": [
+    {
+      "citation": "147-B:6",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:7",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:13",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-B/147-B-6",
+    "https://granitestate.github.io/rsa/147-B/147-B-7",
+    "https://granitestate.github.io/rsa/147-B/147-B-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-hw/1004",
+  "definition": "Application Processing and Decision",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Hw 1004.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html",
+  "prefLabel": "Env-Hw 1004.04 Application Processing and Decision",
+  "recordType": "rule-section",
+  "ruleText": "Env-Hw 1004.04 Application Processing and Decision.\n\n(a) The department shall review each application for HWCF monies for household DIY used oil collection centers to determine whether:\n\n(1) The application contains all the information and documents required by Env-Hw 1004.03; and\n\n(2) The project described in the application is consistent with RSA 147-B:13 and Env-Hw 1004.02.\n\n(b) If the application does not meet the criteria in (a), above, the department shall notify the applicant and provide the reasons the application does not meet the criteria.\n\n(c) The department shall approve an application if it meets the criteria in (a), above.\n\n(d) If an application is approved, the applicant shall be eligible to receive HWCF monies in the form of a grant award pursuant to Env-Hw 1004.05 through Env-Hw 1004.07.\n\nSource. #14284, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-hw1000.html"
+}

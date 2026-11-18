@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fors/402",
+  "@type": "Concept",
+  "agencyCode": "Fors",
+  "authority": [
+    {
+      "citation": "310:12",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:102",
+      "paragraphs": [
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:112",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:114",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/fors/400",
+  "definition": "DISCIPLINARY MATTERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fors/402.01",
+    "https://granitestate.github.io/rules/fors/402.02",
+    "https://granitestate.github.io/rules/fors/402.03",
+    "https://granitestate.github.io/rules/fors/402.04"
+  ],
+  "notation": "Fors 402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html",
+  "prefLabel": "Fors 402 DISCIPLINARY MATTERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Fors 402 DISCIPLINARY MATTERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fors100-500.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/604.07",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:31",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:34",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-34",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-31",
+    "https://granitestate.github.io/rsa/430/430-34",
+    "https://granitestate.github.io/rsa/430/430-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/604",
+  "definition": "Minimal Adverse Effects",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#10875, eff 7-8-15 (from Pes 604.03); ss by #14332, eff 8-1-25, EXPIRES: 8-1-35 (from Pes 604.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 604.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html",
+  "prefLabel": "Pes 604.07 Minimal Adverse Effects",
+  "recordType": "rule-section",
+  "ruleText": "Pes 604.07 Minimal Adverse Effects.\n\n(a) The following shall be exempt from the requirements of Pes 600:\n\n(1) Copper sulfate or copper sulfate compound pesticide application(s) for treatment of public surface waters recommended by the water division, department of environmental services, pursuant to RSA 487:15-25; and\n\n(2) Reclamation of lakes and ponds for restocking purposes by the fish and game department, pursuant to RSA 206:10.\n\n(b) Agencies carrying out activities pursuant to (a) above shall proceed as follows:\n\n(1) Present orally to the director, division of pesticide control information as described under Pes 502.04 (b) and (c);\n\n(2) Obtain verbal approval prior to the proposed treatment from the director, division of pesticide control; and\n\n(3) Submit a written application as described under Pes 502.04 (b) and (c) to be received by the division no later than 10 days after the date of treatment.\n\nSource. #10875, eff 7-8-15 (from Pes 604.03); ss by #14332, eff 8-1-25, EXPIRES: 8-1-35 (from Pes 604.04)\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html"
+}

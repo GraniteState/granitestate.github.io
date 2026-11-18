@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/202.24",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Routine Filings",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/202",
+  "definition": "Routine filings",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#14184, eff 1-24-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 202.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 202.24 Routine filings",
+  "recordType": "rule-section",
+  "ruleText": "Puc 202.24 “Routine filings” means documents submitted, on a recurrent basis, by a utility to the commission, and as specified in Puc 203.10(a).\n\nSource. #14184, eff 1-24-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

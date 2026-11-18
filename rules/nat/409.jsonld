@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/409",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "broader": "https://granitestate.github.io/rules/nat/400",
+  "definition": "MEDICATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nat/409.01",
+    "https://granitestate.github.io/rules/nat/409.02",
+    "https://granitestate.github.io/rules/nat/409.03"
+  ],
+  "notation": "Nat 409",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 409 MEDICATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Nat 409 MEDICATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

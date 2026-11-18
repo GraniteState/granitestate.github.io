@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/105.02",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/105",
+  "definition": "Non-Confidential Information",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 105.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 105.02 Non-Confidential Information",
+  "recordType": "rule-section",
+  "ruleText": "Odb 105.02 Non-Confidential Information.\n\n(a) Any information for which no claim of confidentiality was made at the time of the initial submission shall not be considered confidential.\n\n(b) Comments submitted by any person during the public comment period of any administrative proceeding shall not be considered confidential.\n\n(c) Information that is in the public domain shall not be considered confidential.\n\n(d) Information that demonstrates a claimant violated any statute or rule administered by the board shall not be confidential.\n\nSource. #8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

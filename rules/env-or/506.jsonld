@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/506",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/500",
+  "definition": "NOTIFICATION AND RECORDKEEPING FOR GASOLINE DISPENSING FACILITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/506.01",
+    "https://granitestate.github.io/rules/env-or/506.02",
+    "https://granitestate.github.io/rules/env-or/506.03",
+    "https://granitestate.github.io/rules/env-or/506.04"
+  ],
+  "notation": "Env-Or 506",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 506 NOTIFICATION AND RECORDKEEPING FOR GASOLINE DISPENSING FACILITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 506 NOTIFICATION AND RECORDKEEPING FOR GASOLINE DISPENSING FACILITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

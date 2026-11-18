@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1102.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Air Handling System",
+  "authority": [
+    {
+      "citation": "485-A:6",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485-A:26",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-26",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485-A:26-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-6",
+    "https://granitestate.github.io/rsa/485-A/485-A-26",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1102",
+  "definition": "Air handling system",
+  "effectiveDate": "2021-05-01",
+  "historyNote": "(See Revision Note #2 at chapter heading for Env-Wq 1100) #10577, eff 5-1-14; ss by #13198, eff 5-1-21 (see Revision Note #3 at chapter heading for Env-Wq 1100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1100.html",
+  "prefLabel": "Env-Wq 1102.01 Air handling system",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1102.01 “Air handling system” means mechanical or electrical equipment, or combination thereof, that controls air distribution, air flow, relative humidity, and condensation.\n\nSource. (See Revision Note #2 at chapter heading for Env-Wq 1100) #10577, eff 5-1-14; ss by #13198, eff 5-1-21 (see Revision Note #3 at chapter heading for Env-Wq 1100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1100.html"
+}

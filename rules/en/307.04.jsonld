@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/en/307.04",
+  "@type": "Concept",
+  "agencyCode": "En",
+  "authority": [
+    {
+      "citation": "12-P:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/en/307",
+  "definition": "Reliability Reporting",
+  "effectiveDate": "2024-10-22",
+  "expirationDate": "2034-10-22",
+  "historyNote": "#14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "En 307.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html",
+  "prefLabel": "En 307.04 Reliability Reporting",
+  "recordType": "rule-section",
+  "ruleText": "En 307.04 Reliability Reporting.\n\n(a) When quarterly circuit or system reliability indices are furnished to the department, the utility shall include the total number of operations by device which resulted in an interruption of greater than 5 minutes duration and the information required by (c) below.\n\n(b) For purposes of this section, “device” means any equipment designed and used to automatically operate to remove faulted system elements from the system.\n\n(c) Any utility submitting quarterly circuit or system reliability indices shall also report:\n\n(1) The year and calendar quarter of the report;\n\n(2) The circuit number;\n\n(3) The device identification number;\n\n(4) The type of device operated;\n\n(5) The number of actual operations of the device in the current reporting quarter, if 2 or more; and\n\n(6) The number of actual device operations in the current and previous 3 quarters, if 3 or more.\n\n(d) A utility calculating the number of device operations pursuant to (c)(5) and (c)(6) above shall exclude:\n\n(1) Operations of devices upstream of the device being reported; and\n\n(2) Device identification changes due to circuit reconfigurations.\n\n(e) Utilities shall not be required to report the information as required in (a) above for service interruptions that result from wide-scale emergencies.\n\nSource. #14101, eff 10-22-24, EXPIRES: 10-22-34 (see Revision Note at chapter heading for En 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/en300.html"
+}

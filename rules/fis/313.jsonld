@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/313",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "206:19-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/300",
+  "definition": "WANTON WASTE PROHIBITED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/313.01",
+    "https://granitestate.github.io/rules/fis/313.02"
+  ],
+  "notation": "Fis 313",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html",
+  "prefLabel": "Fis 313 WANTON WASTE PROHIBITED",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 313 WANTON WASTE PROHIBITED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis300.html"
+}

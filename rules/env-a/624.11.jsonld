@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/624.11",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-b",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/624",
+  "definition": "Stack Testing and CEM Requirements",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 624.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 624.11 Stack Testing and CEM Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 624.11 Stack Testing and CEM Requirements.\n\n(a) Within 60 days after achieving the maximum production rate at which a source subject to this part will be operated, but not later than 180 days after initial startup of such facility, the owner or operator of the source shall conduct an initial compliance stack test in accordance with Env-A 802 to demonstrate compliance with the emission limits established under Env-A 624.06.\n\n(b) As specified in RSA 125 -C:10-b, III:\n\n(1) If stack testing results show that emissions from the source are less than but within 10 percent of the emission limitation for a specific air contaminant established under Env-A 624.06, the owner or operator shall install a continuous emission monitor (CEM) system for that air contaminant pursuant to Env-A 808;\n\n(2) If a CEM system that complies with Env-A 808 is not available for that air contaminant, the owner or operator of the source shall submit a plan, including monitoring and stack testing requirements, for ensuring that the emission limitation for that air contaminant is not exceeded until such time as a CEM system becomes available; and\n\n(3) Once a CEM system is available, the owner or operator shall install that system within 24 months of department approval of the CEM monitoring plan submitted pursuant to Env-A 808.04.\n\nSource. #8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

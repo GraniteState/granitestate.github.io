@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rea",
+  "@type": "Concept",
+  "agencyCode": "Rea",
+  "definition": "N.H. Real Estate Commission",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rea/100",
+    "https://granitestate.github.io/rules/rea/200",
+    "https://granitestate.github.io/rules/rea/300",
+    "https://granitestate.github.io/rules/rea/400",
+    "https://granitestate.github.io/rules/rea/500",
+    "https://granitestate.github.io/rules/rea/600",
+    "https://granitestate.github.io/rules/rea/700"
+  ],
+  "notation": "Rea",
+  "prefLabel": "Rea N.H. Real Estate Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

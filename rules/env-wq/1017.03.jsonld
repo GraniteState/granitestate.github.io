@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1017.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1017",
+  "definition": "Venting for Concrete Chamber Systems",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1017.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1017.03 Venting for Concrete Chamber Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1017.03 Venting for Concrete Chamber Systems.\n\n(a) All concrete chamber systems shall be vented as specified in this section.\n\n(b) All concrete chambers covered by an impervious surface shall be vented.\n\n(c) Concrete chambers that are of solid-wall construction shall be vented using a pipe to the atmosphere.\n\n(d) Concrete chambers having louvered side-walls or other such openings that allow air from the surrounding soils to flow into the chamber shall not need additional venting unless more than 18 inches of backfill and loam will be placed on the chambers.\n\n(e) If a vent pipe is used, the length of pipe between the bed and the stand-pipe shall be pitched such that effluent is not able to flow out of the bed.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/605.02",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:8",
+      "paragraphs": [
+        "VI(c)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:20",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:28",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/605",
+  "definition": "Renewal Forms",
+  "effectiveDate": "2026-07-17",
+  "expirationDate": "2036-07-17",
+  "historyNote": "#8444, eff 10-06-05, EXPIRED: 10-6-13; amd by #9652, eff 2-3-10; ss by #10808, eff 4-2-15, EXPIRED: 4-2-25 New. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 605.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 605.02 Renewal Forms",
+  "recordType": "rule-section",
+  "ruleText": "Bar 605.02 Renewal Forms. Each applicant wishing to renew their registration shall apply to the OPLC and submit:\n\n(a) The “Universal Application for License Renewal” as required by Plc 308.05(b)(1);\n\n(b) The “Tanning Facility Addendum to the Universal Application for License Renewal”, revised 5/2026 by providing the following information:\n\n(1) The name and address of the facility, in accordance with RSA 313-A:28, II;\n\n(2) The name and business address of the owner(s), in accordance with RSA 313-A:28, II;\n\n(3) A list of equipment including the number; and\n\n(4) The fee required by Plc 1002.07.\n\nSource. #8444, eff 10-06-05, EXPIRED: 10-6-13; amd by #9652, eff 2-3-10; ss by #10808, eff 4-2-15, EXPIRED: 4-2-25\n\nNew. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

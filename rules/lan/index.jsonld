@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lan",
+  "@type": "Concept",
+  "agencyCode": "Lan",
+  "definition": "Board of Licensure for Land Surveyors",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lan/100",
+    "https://granitestate.github.io/rules/lan/200",
+    "https://granitestate.github.io/rules/lan/300",
+    "https://granitestate.github.io/rules/lan/400",
+    "https://granitestate.github.io/rules/lan/500"
+  ],
+  "notation": "Lan",
+  "prefLabel": "Lan Board of Licensure for Land Surveyors",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

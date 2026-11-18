@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mil/202.12",
+  "@type": "Concept",
+  "agencyCode": "Mil",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:35",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-35",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-35"
+  ],
+  "broader": "https://granitestate.github.io/rules/mil/202",
+  "definition": "Reopening the Record",
+  "effectiveDate": "2001-07-12",
+  "historyNote": "#7529, eff 7-12-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mil 202.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html",
+  "prefLabel": "Mil 202.12 Reopening the Record",
+  "recordType": "rule-section",
+  "ruleText": "Mil 202.12 Reopening the Record. At any time prior to the issuance of the decision on the merits, the board, through the presiding officer, on the boards own initiative or on the motion of any party, shall reopen the record to receive relevant, material and non-duplicative testimony, evidence or arguments not previously received, if the board, through the presiding officer, determines that such testimony, evidence or arguments are necessary to a full and fair consideration of the issues to be decided.\n\nSource. #7529, eff 7-12-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mil100-300.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/305.10",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/305",
+  "definition": "Calibration of Instruments",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 305.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 305.10 Calibration of Instruments",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 305.10 Calibration of Instruments.\n\n(a) The laboratory shall meet the instrument calibration requirements specified in Volume 1, Module 2, Section 5.5 of the TNI standards.\n\n(b) If the requirements in Volume 1, Module 2, Section 5.5 of the TNI standards and the requirements in an approved method differ, the laboratory shall use the requirements that result in a higher level of confidence in testing results.\n\n(c) Prior to analyzing any samples, the laboratory shall verify all initial instrument calibrations with:\n\n(1) A standard obtained from a manufacturer other than the one that produced the calibration standards used by the laboratory; or\n\n(2) A standard obtained from the same manufacturer that produced the calibration standards but from a different lot that was independently prepared from different source materials.\n\n(d) If option (c)(2) is used, the laboratory shall maintain records from the manufacturer to document that the 2 lots were prepared independently from different source materials.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

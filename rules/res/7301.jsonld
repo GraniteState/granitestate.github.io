@@ -1,0 +1,87 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/7301",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/7300",
+  "definition": "RULES RELATING TO ALL PARKS AND DRED PROPERTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/7301.01",
+    "https://granitestate.github.io/rules/res/7301.02",
+    "https://granitestate.github.io/rules/res/7301.03",
+    "https://granitestate.github.io/rules/res/7301.04",
+    "https://granitestate.github.io/rules/res/7301.05",
+    "https://granitestate.github.io/rules/res/7301.06",
+    "https://granitestate.github.io/rules/res/7301.07",
+    "https://granitestate.github.io/rules/res/7301.08",
+    "https://granitestate.github.io/rules/res/7301.09",
+    "https://granitestate.github.io/rules/res/7301.10",
+    "https://granitestate.github.io/rules/res/7301.11",
+    "https://granitestate.github.io/rules/res/7301.12",
+    "https://granitestate.github.io/rules/res/7301.13",
+    "https://granitestate.github.io/rules/res/7301.14",
+    "https://granitestate.github.io/rules/res/7301.15",
+    "https://granitestate.github.io/rules/res/7301.16",
+    "https://granitestate.github.io/rules/res/7301.17",
+    "https://granitestate.github.io/rules/res/7301.18",
+    "https://granitestate.github.io/rules/res/7301.19",
+    "https://granitestate.github.io/rules/res/7301.20",
+    "https://granitestate.github.io/rules/res/7301.21",
+    "https://granitestate.github.io/rules/res/7301.22",
+    "https://granitestate.github.io/rules/res/7301.23",
+    "https://granitestate.github.io/rules/res/7301.24",
+    "https://granitestate.github.io/rules/res/7301.25",
+    "https://granitestate.github.io/rules/res/7301.26",
+    "https://granitestate.github.io/rules/res/7301.27",
+    "https://granitestate.github.io/rules/res/7301.28",
+    "https://granitestate.github.io/rules/res/7301.29",
+    "https://granitestate.github.io/rules/res/7301.30"
+  ],
+  "notation": "Res 7301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7300.html",
+  "prefLabel": "Res 7301 RULES RELATING TO ALL PARKS AND DRED PROPERTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 7301 RULES RELATING TO ALL PARKS AND DRED PROPERTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7300.html"
+}

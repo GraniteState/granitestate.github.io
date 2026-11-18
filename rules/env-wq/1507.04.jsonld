@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1507.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1507",
+  "definition": "Groundwater Recharge Requirements",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1507.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1507.04 Groundwater Recharge Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1507.04 Groundwater Recharge Requirements.\n\n(a) The purpose of this section is to protect groundwater resources by requiring the amount of water diverted off-site by the proposed development to be reduced to the maximum extent practicable by using groundwater recharge practices as described in Env-Wq 1508.17.\n\n(b) Except as specified in (c), below, the applicant shall capture and infiltrate the GRV calculated pursuant to Env-Wq 1504.12.\n\n(c) The applicant shall not be required to capture and infiltrate the GRV when:\n\n(1) The GRV is less than 500 cubic feet;\n\n(2) The lowest Ksat value, within 0 to 5 feet below all areas proposed for development, is less than 0.5 inches per hour. Unless on-site infiltration testing results indicate values greater than 0.5 inches per hour, Ksat values shall be determined using SSSNNE Special Publication No. 5, Ksat Values for New Hampshire Soils, September 2025, available as noted in Appendix B; or\n\n(3) Conditions exist that prohibit infiltration as specified in Env-Wq 1507.02(c).\n\n(d) Infiltration rates for designing groundwater recharge practices shall be determined in accordance with Env-Wq 1504.14.\n\n(e) The groundwater recharge practices shall meet the water supply well setback criteria identified in Env-Wq 1508.02.\n\n(f) Acceptable methods to demonstrate that the GRV is being infiltrated shall include:\n\n(1) Demonstrating that the volume of runoff from a 1-year, 24-hour storm event is equal to or greater than the GRV; or\n\n(2) Preparation of a hydrologic budget that accounts for the inflow to, outflow from, and storage in the infiltration practice, showing that sufficient water is available to recharge the groundwater.\n\n(g) Groundwater recharge practices shall not be located on single family or duplex residential lots for the purpose of meeting the GRV pursuant to Env-Wq 1504.12 unless the construction of the stormwater management practice is included as part of the permit and the practice is protected with an easement or deed restriction pursuant to Env-Wq 1504.07.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #13758, eff 9-28-23; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

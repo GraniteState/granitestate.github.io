@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3502.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3502",
+  "definition": "Applicability",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3502.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3502.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3502.01 Applicability.\n\n(a) This chapter shall apply to each individual hospital/medical/infectious waste incinerator unit (HMIWI unit) for which construction was commenced on or before June 20, 1996.\n\n(b) This chapter shall apply to the following 4 distinct sizes of HMIWI as defined in Env-A 3503.01:\n\n(1) Small, remote;\n\n(2) Small;\n\n(3) Medium; and\n\n(4) Large.\n\n(c) A HMIWI unit shall not be subject to this chapter during periods when only pathological waste, low-level radioactive waste, or chemotherapeutic waste, or any combination thereof, is burned, provided the owner or operator of the unit:\n\n(1) Notifies the department of an exemption claim; and\n\n(2) Keeps records on a calendar quarter basis, for a minimum of 5 years, of the periods of time when only pathological waste, low-level radioactive waste, or chemotherapeutic waste, or any combination thereof, is burned.\n\n(d) A HMIWI unit that meets the definition of a co-fired combustor as defined in Env-A 3503.01(g) shall not be subject to this chapter if the owner or operator of the unit:\n\n(1) Notifies the department of an exemption claim;\n\n(2) Provides a written estimate to the department that:\n\na. States the relative weight of hospital waste, medical/infectious waste, and other fuels and wastes to be combusted; and\n\nb. Is verifiable using the records required in (3), below; and\n\n(3) Keeps records on a calendar quarter basis, for a minimum of 5 years, of the weight of hospital waste and medical/infectious waste combusted, and the weight of all other fuels and wastes combusted at the co-fired combustor.\n\n(e) The following devices shall be exempt from the requirements of this chapter:\n\n(1) Any combustor required to have a permit under the Solid Waste Disposal Act, 42 U.S.C. §6925;\n\n(2) Any combustor that meets the applicability requirements of 40 CFR 60 Subpart Cb, Ea, or Eb;\n\n(3) Any pyrolysis unit; or\n\n(4) Cement kilns firing hospital waste or medical/infectious waste or a combination thereof.\n\n(f) Physical or operational changes made to an existing HMIWI unit solely for the purpose of complying with emission limits under this chapter shall not be considered a modification such that an existing HMIWI unit becomes subject to the provisions of 40 CFR 60 Subpart Ec, namely, New Source Performance Standards for hospital/medical/infectious waste incinerators.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

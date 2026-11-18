@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/202.08",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/202",
+  "definition": "Continuances",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 202.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 202.08 Continuances",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 202.08 Continuances.\n\n(a) The board shall for good cause pursuant to (c) below, upon request or upon the board's own initiative, advance or postpone the time and date set for any hearing.\n\n(b) If a postponement is requested by a party to the hearing, it shall be granted if the board determines that good cause pursuant to (c) below, has been demonstrated.\n\n(c) Good cause shall include the unavailability of information, parties, witnesses, or attorneys necessary to conduct the hearing, the likelihood that the hearing will not be necessary because the parties anticipate settlement, or any other circumstances that demonstrate that a postponement would assist in resolving the case fairly.\n\n(d) If the date, time, and place of the continued hearing are known, the date, time, and place shall be stated on the record.\n\n(e) If the date, time, and place of the continued hearing are not known, the board shall issue a written scheduling order stating the date, time, and place of the postponed hearing as soon as possible.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

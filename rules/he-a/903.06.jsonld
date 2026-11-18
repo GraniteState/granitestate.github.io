@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/903.06",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "265-A:39",
+      "paragraphs": [
+        "I",
+        "IV(b)",
+        "V(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "265-A:42",
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-42",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/903",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 903.06",
+  "note": "The snapshot has no operative text for this heading.",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a900.html",
+  "prefLabel": "He-A 903.06",
+  "recordType": "rule-section",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a900.html"
+}

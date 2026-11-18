@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1220.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1220",
+  "definition": "Work Practices for Cleaning Materials",
+  "effectiveDate": "2019-10-17",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1220.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html",
+  "prefLabel": "Env-A 1220.06 Work Practices for Cleaning Materials",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1220.06 Work Practices for Cleaning Materials. A source shall implement the following work practices for cleaning materials used for surface preparation or for application equipment cleaning:\n\n(a) Store all VOC-containing cleaning materials and used shop towels in closed containers;\n\n(b) Ensure that storage containers used for VOC-containing cleaning materials are kept closed at all times except when depositing or removing these materials;\n\n(c) Minimize spills of VOC-containing cleaning materials;\n\n(d) Convey VOC-containing cleaning materials from one location to another in closed containers or pipes; and\n\n(e) Minimize VOC emissions from the cleaning of application, storage, mixing, and conveying equipment by ensuring that equipment cleaning is performed without atomizing the cleaning solvent and that all spent solvent is captured in closed containers.\n\nSource. (See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html"
+}

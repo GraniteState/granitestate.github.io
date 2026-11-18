@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/804.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/804",
+  "definition": "Required Health Effects Language for Seasonal Systems",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "#10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 804.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 804.05 Required Health Effects Language for Seasonal Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 804.05 Required Health Effects Language for Seasonal Systems. The O/O of a seasonal PWS shall use the following, as applicable, as the statement(s) required by Env-Dw 801.03(a)(3):\n\n(a) For the failure to monitor or report total coliforms or E. coli in accordance with Env-Dw 709, the mandatory language found at Env-Dw 801.03(h); and\n\n(b) For violations as specified in Env-Dw 506.07, for the failure to complete other actions, the language specified in Env-Dw 801.03.\n\nSource. #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.24",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Freshwater Aquatic Life Criteria for Metals",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Freshwater Aquatic Life Criteria For Metals",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.24 Freshwater Aquatic Life Criteria For Metals",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.24 Freshwater Aquatic Life Criteria For Metals. To calculate freshwater aquatic life criteria for total recoverable metals, the equations described in (a) and (b), below, shall be used in conjunction with the coefficients shown in (c), Table 1703-3, below, provided that the values used for hardness in the equations shall be as specified in Env-Wq 1703.23(d):\n\n(a) To calculate the acute criteria, in μg/L, for the metals shown Table 1703-3, the exponent “e” shall be raised to the power “x” where “x” is equal to the parenthetical expression “ma” multiplied by the natural logarithm (ln) of the hardness and to which product the value “ba” shall be added, as follows:\n\nAcute Criteria = ex where x = ( ma [ ln (hardness) ] + ba)\n\n(b) To calculate the chronic criteria, in μg/L, for the metals shown in Table 1703-3, the exponent “e” shall be raised to the power “x” where “x” is equal to the parenthetical expression “mc” multiplied by the natural logarithm of the hardness and to which product the value “bc” shall be added, as follows:\n\nChronic Criteria = ex where x = ( mc [ ln (hardness) ] + bc)\n\n(c) Table 1703-3 shall be as follows:\n\nTable 1703-3: Coefficients in Equations for Calculating Total Recoverable Aquatic Life Criteria for Metals\n\nma | ba | mc | bc\n\nCadmium | 0.9789 | -3.866 | 0.7977 | -3.909\n\nCopper | 0.9422 | -1.700 | 0.8545 | -1.702\n\nChromium+3 | 0.8190 | 3.7256 | 0.8190 | 0.6848\n\nLead | 1.273 | -1.460 | 1.273 | -4.705\n\nNickel | 0.8460 | 2.255 | 0.8460 | 0.0584\n\nSilver | 1.72 | -6.59 | ------- | -------\n\nZinc | 0.8473 | 0.884 | 0.8473 | 0.884\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

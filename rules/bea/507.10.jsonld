@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/507.10",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O",
+      "source": "https://granitestate.github.io/rsa/12-O",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/507",
+  "definition": "Distribution of Grant Award Funds",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 507.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 507.10 Distribution of Grant Award Funds",
+  "recordType": "rule-section",
+  "ruleText": "Bea 507.10 Distribution of Grant Award Funds.\n\n(a) Funds shall be distributed on a reimbursement basis based on the grantee’s submission of expenses and supporting documentation.\n\n(b) The grantee shall register with the department of administrative services for a state of New Hampshire vendor number in order for a payment to issue. Registration is available at: https://apps.das.nh.gov/vendorregistration/(S(inw3n42wcfgd4dk1b5rzcdez))/welcome.aspx.\n\n(c) The department shall request additional supporting documentation if the submitted documentation gives rise to questions regarding the allowability of the expense.\n\n(d) The department shall deny reimbursement for unallowed expenses.\n\n(e) Request for reimbursement shall be made no more than monthly.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

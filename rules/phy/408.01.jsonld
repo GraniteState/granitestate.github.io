@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/phy/408.01",
+  "@type": "Concept",
+  "agencyCode": "Phy",
+  "authority": [
+    {
+      "citation": "328-A:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/phy/408",
+  "definition": "Issuance of Fully Renewed Licenses to Conditionally Renewed Licensees",
+  "effectiveDate": "2024-02-17",
+  "historyNote": "#9456, eff 4-17-09; ss by #12088, eff 1-20-17; ss by #13825, eff 2-17-24 (formerly Phy 408.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Phy 408.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy400.html",
+  "prefLabel": "Phy 408.01 Issuance of Fully Renewed Licenses to Conditionally Renewed Licensees",
+  "recordType": "rule-section",
+  "ruleText": "Phy 408.01 Issuance of Fully Renewed Licenses to Conditionally Renewed Licensees. A fully renewed licenses shall be issued by the OPLC to physical therapists and physical therapist assistants holding conditionally renewed licenses when they have:\n\n(a) Completed the supervised practice described in Phy 408.03;\n\n(b) Established readiness to practice under fully renewed licensure through the submission to the OPLC of the supervisory approval letter described in Phy 408.05; and\n\n(c) At the completion of the 26 week the conditional licensee shall have met all the requirements set forth in Phy 402.09.\n\nSource. #9456, eff 4-17-09; ss by #12088, eff 1-20-17; ss by #13825, eff 2-17-24 (formerly Phy 408.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/phy400.html"
+}

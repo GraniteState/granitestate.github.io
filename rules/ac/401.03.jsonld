@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/401.03",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "309-B:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "309-B:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/401",
+  "definition": "Certificate, Registration, and Permit Expiration",
+  "effectiveDate": "2025-09-15",
+  "expirationDate": "2035-09-15",
+  "historyNote": "#6904, eff 12-4-98, EXPIRED: 12-4-06 New. #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07 New. #9051, eff 12-27-07; ss by #10746, eff 1-1-15; ss by #14322, eff 9-15-25, EXPIRES: 9-15-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ac 401.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 401.03 Certificate, Registration, and Permit Expiration",
+  "recordType": "rule-section",
+  "ruleText": "Ac 401.03 Certificate, Registration, and Permit Expiration.\n\n(a) Each CPA certificate shall expire 2 years from the day the license was issued. No person shall hold themselves out as a CPA to the public in New Hampshire without a valid New Hampshire certificate.\n\n(b) Each PA registration shall expire 2 years from the day the license was issued. No person shall hold themselves out as a PA to the public in New Hampshire, without a valid New Hampshire registration.\n\n(c) Each firm permit shall expire 2 years from the day the license was issued. No firm shall hold itself out as an accounting firm to the public in New Hampshire without a valid New Hampshire permit.\n\nSource. #6904, eff 12-4-98, EXPIRED: 12-4-06\n\nNew. #8810, INTERIM, eff 1-25-07, EXPIRED: 7-25-07\n\nNew. #9051, eff 12-27-07; ss by #10746, eff 1-1-15; ss by #14322, eff 9-15-25, EXPIRES: 9-15-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

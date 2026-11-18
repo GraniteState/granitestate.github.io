@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/soil/502",
+  "@type": "Concept",
+  "agencyCode": "Soil",
+  "authority": [
+    {
+      "citation": "310-A:82",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "310-A:94",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/soil/500",
+  "definition": "VOLUNTARY CERTIFICATE SURRENDER",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/soil/502.01",
+    "https://granitestate.github.io/rules/soil/502.02",
+    "https://granitestate.github.io/rules/soil/502.03"
+  ],
+  "notation": "Soil 502",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html",
+  "prefLabel": "Soil 502 VOLUNTARY CERTIFICATE SURRENDER",
+  "recordType": "rule-part",
+  "ruleText": "PART Soil 502 VOLUNTARY CERTIFICATE SURRENDER",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/soil100-500.html"
+}

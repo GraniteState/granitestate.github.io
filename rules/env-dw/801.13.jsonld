@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/801.13",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/801",
+  "definition": "Alternate Frequency for Repeat Standard Public Notice for NCWS",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 801.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 801.13 Alternate Frequency for Repeat Standard Public Notice for NCWS",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 801.13 Alternate Frequency for Repeat Standard Public Notice for NCWS.\n\n(a) If an NCWS O/O who is required to provide repeat notice under Env-Dw 801.11(f) wishes to provide repeat notice less frequently than once every 3 months, the O/O shall submit a request for a modification of the repeat notice frequency in writing to the department.\n\n(b) A request for an alternate repeat notice frequency shall:\n\n(1) Be filed prior to the expiration of the notice period required by Env-Dw 801.11(a) or extension thereof granted pursuant to Env-Dw 801.12;\n\n(2) Identify the NCWS by name and PWS identifier;\n\n(3) Explain why the O/O is unable or unwilling to provide the required repeat notice every 3 months;\n\n(4) Identify the frequency being requested for the repeat notices; and\n\n(5) Explain how public health will be protected even though the frequency of repeat notices would be reduced.\n\n(c) The department shall respond to the request for a modification of the repeat notice frequency in writing. If the request is denied, the department shall specify the reason(s) for the denial.\n\n(d) The department shall approve the request if it finds that the proposed frequency will:\n\n(1) Adequately protect human health and the environment; and\n\n(2) Meet all applicable federal requirements.\n\n(e) In no event shall repeat notice be given less frequently than once per year.\n\n(f) In no event shall the department approve a less frequent repeat notice for an MCL or treatment technique violation under the coliform rule as specified in Env-Dw 709.23 or for violations of the federal treatment techniques relating to filtration and disinfection that are incorporated by Env-Dw 716, as noted in Env-Dw 801.05(h).\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; amd by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

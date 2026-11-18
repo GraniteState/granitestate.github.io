@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/abfd/103.04",
+  "@type": "Concept",
+  "agencyCode": "Abfd",
+  "altLabel": "Attendance at Meetings by Members of the Public",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:3",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/91-A/91-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/abfd/103",
+  "definition": "Attendance at Meetings By Members of the Public",
+  "effectiveDate": "2001-04-05",
+  "historyNote": "(See Revision Note at chapter heading for Abfd 100) #5720, eff 1-1-94, EXPIRED: 1-1-00 New. #7211, INTERIM, eff 3-1-00, EXPIRED: 6-29-00 New. #7367, eff 9-27-00; ss by #7473, eff 4-5-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Abfd 103.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html",
+  "prefLabel": "Abfd 103.04 Attendance at Meetings By Members of the Public",
+  "priorExpiration": "2000-06-29",
+  "recordType": "rule-section",
+  "ruleText": "Abfd 103.04 Attendance at Meetings By Members of the Public. Pursuant to RSA 91-A:2, II, members of the public may attend and record committee meetings, except for those parts of the meetings which are nonpublic sessions as defined in RSA 91-A:3.\n\nSource. (See Revision Note at chapter heading for Abfd 100) #5720, eff 1-1-94, EXPIRED: 1-1-00\n\nNew. #7211, INTERIM, eff 3-1-00, EXPIRED: 6-29-00\n\nNew. #7367, eff 9-27-00; ss by #7473, eff 4-5-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/abfd100-300.html"
+}

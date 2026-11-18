@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Products Containing Ozone-Depleting Compounds",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14 (from Env-A 4103.06); ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.07 Products Containing Ozone-Depleting Compounds",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.07 Products Containing Ozone-Depleting Compounds.\n\n(a) Subject to (b) and (c), below, no consumer product for which a standard is specified in table 4105-1 shall be sold, supplied, offered for sale, or manufactured for sale in New Hampshire if it contains any of the following ozone-depleting compounds:\n\n(1) Trichlorofluoromethane (CFC‑11);\n\n(2) Dichlorodifluoromethane (CFC‑12);\n\n(3) 1,1,1-trichloro-2,2,2-trifluoroethane (CFC-113);\n\n(4) 1-chloro-1,1-difluoro-2-chloro-2,2-difluoroethane (CFC‑114);\n\n(5) Chloropentafluoroethane (CFC-115);\n\n(6) Bromochlorodifluoromethane (Halon 1211);\n\n(7) Bromotrifluoromethane (Halon 1301);\n\n(8) Dibromotetrafluoroethane (Halon 2402);\n\n(9) Chlorodifluoromethane (HCFC‑22);\n\n(10) 2,2-dichloro-1,1,1-trifluoroethane (HCFC-123);\n\n(11) 2-chloro-1,1,1,2-tetrafluoroethane (HCFC-124);\n\n(12) 1,1-dichloro-1-fluoroethane (HCFC‑141b);\n\n(13) 1-chloro-1,1-difluoroethane (HCFC‑142b);\n\n(14) 1,1,1-trichloroethane; and\n\n(15) Carbon tetrachloride.\n\n(b) The prohibition in (a), above, shall not apply to any existing product formulation that complies with table 4105-1 or any existing product formulation that is reformulated to meet table 4105-1, provided the ozone-depleting compound content of the reformulated product does not increase.\n\n(c) The prohibition in (a), above, shall not apply to any ozone depleting compounds that may be present as impurities in a consumer product in an amount equal to or less than 0.01% by weight of the product.\n\nSource. #10527, eff 2-26-14 (from Env-A 4103.06); ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

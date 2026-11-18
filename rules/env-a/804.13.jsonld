@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.13",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Periodic Compliance Stack Testing for VOCs",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.13 Periodic Compliance Stack Testing for VOCs",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.13 Periodic Compliance Stack Testing for VOCs.\n\n(a) The owner or operator of a stationary source that achieves compliance with Env-A 1200 through the operation of add-on control equipment shall perform periodic stack testing to demonstrate compliance by performing one of the following:\n\n(1) Within 5 years of the date of the initial stack test required by Env-A 804.12 and at least once every 5 years thereafter, or within 20 calendar quarters, a compliance stack test to demonstrate compliance with the VOC emission limit, or that the control device is at or above the minimum required destruction or removal efficiency, as stipulated in the permit; or\n\n(2) Within 5 years of the date of the initial stack test required by Env-A 804.12 and at least once every 4 calendar quarters thereafter, a performance verification, in accordance with the conditions of the source's permit, that the emissions of VOCs have not increased or the efficiency of the control device has not deteriorated such that the source no longer complies with the VOC emissions limit or destruction efficiency.\n\n(b) If the performance verification in (a)(2), above, indicates that VOCs have increased or that the control device efficiency has deteriorated since the last compliance test such that the source is not able to verify its compliance with the VOC emissions limit or destruction efficiency, the owner or operator shall conduct a compliance stack test within 60 days of the performance verification.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

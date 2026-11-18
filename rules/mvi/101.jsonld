@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mvi/101",
+  "@type": "Concept",
+  "agencyCode": "Mvi",
+  "authority": [
+    {
+      "citation": "357-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/357-C/357-C-12",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/357-C/357-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/mvi/100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mvi/101.01"
+  ],
+  "notation": "Mvi 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mvi100-200.html",
+  "prefLabel": "Mvi 101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Mvi 101 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mvi100-200.html"
+}

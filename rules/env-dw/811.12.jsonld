@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/811.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/811",
+  "definition": "Data Presentation: Specific Contaminants",
+  "effectiveDate": "2019-01-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Dw 811.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html",
+  "prefLabel": "Env-Dw 811.12 Data Presentation: Specific Contaminants",
+  "recordType": "rule-section",
+  "ruleText": "Env-Dw 811.12 Data Presentation: Specific Contaminants. For any of the following contaminants that is detected, the table shall:\n\n(a) For E. coli:\n\n(1) Identify the total number of positive samples;\n\n(2) Provide information on the likely source of E. coli, which may be available in sanitary survey reports and source water assessments;\n\n(3) Provide the source information language specified in Env-Dw 811.22 for E. coli, if the CWS O/O lacks specific information on the likely source(s) of contamination; and\n\n(4) Provide the applicable health effects paragraph specified in Env-Dw 804;\n\n(b) For lead or copper:\n\n(1) Identify the 90th percentile value of the most recent round of sampling;\n\n(2) Identify the number of sampling sites exceeding the AL as defined in Env-Dw 714; and\n\n(3) Identify the source of the lead or copper, or both, as applicable, using the source information language specified in Env-Dw 811.22;\n\n(c) For turbidity:\n\n(1) When a CWS O/O reports turbidity to the department pursuant to in Env-Dw 716, identify:\n\na. The highest average monthly value; and\n\nb. The highest monthly value including an explanation of the reasons for measuring turbidity;\n\n(2) Identify the highest single measurement and the lowest monthly percentage of samples meeting the turbidity limits specified in Env-Dw 716.04 or Env-Dw 716.08, as applicable, for the filtration technology being used; and\n\n(3) When a CWS O/O is required to report pursuant to (c)(1)b. above, an explanation of the reasons for measuring turbidity; and\n\n(d) For unregulated contaminants, except for cryptosporidium, for which monitoring is required:\n\n(1) Identify the average and the range at which the contaminant was detected; and\n\n(2) Explain the reasons for monitoring for unregulated contaminants.\n\nSource. (See Revision Note at chapter heading for Env-Dw 800) #9730, eff 6-30-10; ss by #10771, eff 2-1-15; ss by #12675, eff 1-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw800.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4204.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4204",
+  "definition": "Specific Labeling Requirements",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4204.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4204.05 Specific Labeling Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4204.05 Specific Labeling Requirements. In addition to the requirements specified in Env-A 4204.02, Env-A 4204.03, and Env-A 4204.04, each manufacturer of the following products subject to this chapter shall prominently display on the label or lid of the container in which the coating is sold or distributed the following descriptions:\n\n(a) For industrial maintenance coatings, one or more of the following:\n\n(1) “For industrial use only”;\n\n(2) “For professional use only”;\n\n(3) “Not for residential use”; or\n\n(4) “Not intended for residential use”;\n\n(b) For clear brushing lacquers, the words “Clear brushing lacquer”, “For brush application only”, and “This product may not be thinned or sprayed”;\n\n(c) For rust preventative coatings, the words “For metal substrates only”;\n\n(d) For specialty primers, sealers, and undercoaters, one or more of the following descriptions, as applicable:\n\n(1) “For blocking stains”;\n\n(2) “For fire-damaged substrates”;\n\n(3) “For smoke-damaged substrates”;\n\n(4) “For water-damaged substrates”; or\n\n(5) “For excessively chalky substrates”;\n\n(e) For quick-dry enamels, the words “Quick-dry” and the dry hard time; and\n\n(f) For non-flat high-gloss coatings, the words “High gloss”.\n\nSource. #8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

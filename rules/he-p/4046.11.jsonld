@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-p/4046.11",
+  "@type": "Concept",
+  "agencyCode": "He-P",
+  "authority": [
+    {
+      "citation": "125-F:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/he-p/4046",
+  "definition": "Computed Tomography X-ray System Requirements",
+  "effectiveDate": "2015-07-21",
+  "historyNote": "#6827, eff 8-6-98; ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10763, INTERIM, eff 1-23-15, EXPIRES: 7-22-15; ss by #10893, eff 7-21-15 (from He-P 4046.11)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-P 4046.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html",
+  "prefLabel": "He-P 4046.11 Computed Tomography X-ray System Requirements",
+  "priorExpiration": "2015-07-22",
+  "recordType": "rule-section",
+  "ruleText": "He-P 4046.11 Computed Tomography X-ray System Requirements.\n\n(a) Automatic termination of x-ray exposures in the event of equipment failure shall occur either by de-energizing the x-ray source or shuttering the x-ray beam.\n\n(b) Termination as required in He-P 4046.11(a) above shall occur within an interval that limits the total scan time to no more than 110 percent of its preset value.\n\n(c) Premature termination of the x-ray exposure by the operator shall require resetting of the CT conditions of operation prior to initiation of another scan.\n\n(d) A visible signal shall indicate when the x-ray exposure has been terminated.\n\n(e) The operator shall be able to terminate the x-ray exposure at any time during a scan of greater than one-half second duration.\n\n(f) For any single tomogram system, means shall be provided to permit visual determination of the tomographic plane or a reference plane offset from the tomographic plane.\n\n(g) For any multiple tomogram system, means shall be provided to permit visual determination of the location of a reference plane.\n\n(h) If a device using a light source is used to satisfy the requirements of He-P 4046.11(f) or (g) above, the light source shall provide illumination levels sufficient to permit visual determination of the location of the tomographic plane or reference plane under ambient light conditions of up to 500 lux.\n\n(i) The CT x-ray control and gantry shall provide visual indication whenever x-rays are produced and, if applicable, whether the shutter is open or closed.\n\n(j) Each emergency button or switch shall be clearly labeled as to its function.\n\n(k) The CT conditions of operation to be used during a scan or a scan sequence shall be indicated prior to the initiation of a scan or a scan sequence.\n\n(l) Indication of CT conditions of operation shall be visible from any position from which scan initiation is possible.\n\n(m) The angular position where the maximum surface CTDI occurs shall be identified to allow for reproducible positioning of a CT dosimetry phantom.\n\n(n) Additional requirements applicable to CT X-ray systems containing a gantry manufactured after September 3, 1985 shall be as follows:\n\n(1) The total error in the indicated location of the tomographic plane or reference plane shall not exceed 5 millimeters;\n\n(2) If the x-ray production period is less than one-half second, the indication of x-ray production shall be actuated for at least one-half second;\n\n(3) Indicators at or near the gantry shall be discernible from any point external to the patient opening;\n\n(4) The deviation of indicated scan increment versus actual increment shall not exceed plus or minus one millimeter with any mass from 0 to 100 kilograms resting on the support device; and\n\n(5) The patient support device shall be incremented from a typical starting position to the maximum incremented distance or 30 centimeters, whichever is less, and then returned to the starting position. Measurement of actual versus indicated scan increment may be taken anywhere along the incremented distance.\n\nSource. #6827, eff 8-6-98; ss by #8692, INTERIM, eff 7-27-06, EXPIRES: 2-2-07; ss by #8808, eff 1-24-07; ss by #10763, INTERIM, eff 1-23-15, EXPIRES: 7-22-15; ss by #10893, eff 7-21-15 (from He-P 4046.11)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-p4040-4061.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cla/213",
+  "@type": "Concept",
+  "agencyCode": "Cla",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-B:10",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/cla/200",
+  "definition": "HEARING PROCEDURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cla/213.01",
+    "https://granitestate.github.io/rules/cla/213.02",
+    "https://granitestate.github.io/rules/cla/213.03",
+    "https://granitestate.github.io/rules/cla/213.04",
+    "https://granitestate.github.io/rules/cla/213.05"
+  ],
+  "notation": "Cla 213",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cla100-300.html",
+  "prefLabel": "Cla 213 HEARING PROCEDURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Cla 213 HEARING PROCEDURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cla100-300.html"
+}

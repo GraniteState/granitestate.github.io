@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-dw/1504",
+  "@type": "Concept",
+  "agencyCode": "Env-Dw",
+  "authority": [
+    {
+      "citation": "485-H",
+      "source": "https://granitestate.github.io/rsa/485-H",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-H"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-dw/1500",
+  "definition": "PRE-APPROVAL OF INCOME QUALIFIED APPLICANTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-dw/1504.01",
+    "https://granitestate.github.io/rules/env-dw/1504.02",
+    "https://granitestate.github.io/rules/env-dw/1504.03",
+    "https://granitestate.github.io/rules/env-dw/1504.04"
+  ],
+  "notation": "Env-Dw 1504",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1500.html",
+  "prefLabel": "Env-Dw 1504 PRE-APPROVAL OF INCOME QUALIFIED APPLICANTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Dw 1504 PRE-APPROVAL OF INCOME QUALIFIED APPLICANTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw1500.html"
+}

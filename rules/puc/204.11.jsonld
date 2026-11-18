@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/204.11",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "541",
+      "source": "https://granitestate.github.io/rsa/541",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/204",
+  "definition": "Limiting Number of Witnesses or Time",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#14184, eff 1-24-25 (formerly Puc 203.21)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 204.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 204.11 Limiting Number of Witnesses or Time",
+  "recordType": "rule-section",
+  "ruleText": "Puc 204.11 Limiting Number of Witnesses or Time. The commission shall limit the number of witnesses or the time for testimony or oral argument upon a particular issue, as needed, to avoid unnecessary or cumulative presentation.\n\nSource. #14184, eff 1-24-25 (formerly Puc 203.21)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

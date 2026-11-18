@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1410.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:4",
+      "source": "https://granitestate.github.io/rsa/125-I/125-I-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-I/125-I-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1410",
+  "definition": "Calculation of Annual De Minimis Emission Level",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#8278, eff 2-4-05 (from Env-A 1411.04); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1410.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1410.04 Calculation of Annual De Minimis Emission Level",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1410.04 Calculation of Annual De Minimis Emission Level. The annual de minimis emission level for an RTAP in pounds per year shall be the lower of the levels calculated pursuant to (a) or (b), below:\n\n(a) The annual AAL multiplied by 16.28; or\n\n(b) The 24-hour de minimis emission level multiplied by 365.\n\nSource. #8278, eff 2-4-05 (from Env-A 1411.04); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

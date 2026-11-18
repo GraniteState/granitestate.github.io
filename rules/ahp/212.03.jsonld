@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ahp/212.03",
+  "@type": "Concept",
+  "agencyCode": "Ahp",
+  "authority": [
+    {
+      "citation": "541-A",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ahp/212",
+  "definition": "Mandatory Pre-Hearing Disclosure of Witnesses and Exhibits",
+  "effectiveDate": "2013-10-29",
+  "historyNote": "#8078, eff 5-1-04; ss by #10451, eff 10-29-13",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ahp 212.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html",
+  "prefLabel": "Ahp 212.03 Mandatory Pre-Hearing Disclosure of Witnesses and Exhibits",
+  "recordType": "rule-section",
+  "ruleText": "Ahp 212.03 Mandatory Pre-Hearing Disclosure of Witnesses and Exhibits. At least 5 days before the hearing, the parties and intervenors shall provide to the other parties and intervenors:\n\n(a) A list of witnesses intended to be called at the hearing;\n\n(b) A list of documents and exhibits intended to be offered as evidence at the hearing; and\n\n(c) A copy of each document intended to be offered as evidence at the hearing.\n\nSource. #8078, eff 5-1-04; ss by #10451, eff 10-29-13",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ahp100-600.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6102",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6100",
+  "definition": "REPLACEMENT OF INDIVIDUAL ANCILLARY HEALTH COVERAGE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/6102.01",
+    "https://granitestate.github.io/rules/ins/6102.02",
+    "https://granitestate.github.io/rules/ins/6102.03"
+  ],
+  "notation": "Ins 6102",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6102 REPLACEMENT OF INDIVIDUAL ANCILLARY HEALTH COVERAGE",
+  "recordType": "rule-part",
+  "ruleText": "Part Ins 6102 had been based on the former rule Ins 1901.08 titled “Requirements for Replacement of Individual Accident and Health Insurance”, which had expired 4-17-14. The former Ins 1901.08 had been in Part Ins 1901 titled “Minimum Standards for Accident and Health Insurance”, which in turn had been in Chapter Ins 1900 titled “Accident and Health Insurance.” Part Ins 6102 replaces the provisions in the former Ins 1901.08. The filings affecting the former Ins 1901.08 include the following documents:\n\n#1900, effective 1-1-82\n\n#4287, effective 7-1-87\n\n#5656, effective 7-1-93\n\n#7017, INTERIM, effective 7-1-99, EXPIRED 10-29-99\n\n#8609, effective 4-17-06, EXPIRED 4-17-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

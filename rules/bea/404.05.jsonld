@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/404.05",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:62",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/404",
+  "definition": "Non-Approval of BMGI Funds for Applicant",
+  "effectiveDate": "2023-09-01",
+  "historyNote": "#13515, INTERIM, eff 1-5-23, EXPIRES: 7-4-23; ss by #13734, eff 9-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 404.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html",
+  "prefLabel": "Bea 404.05 Non-Approval of BMGI Funds for Applicant",
+  "priorExpiration": "2023-07-04",
+  "recordType": "rule-section",
+  "ruleText": "Bea 404.05 Non-Approval of BMGI Funds for Applicant.\n\n(a) If the applicant is not approved pursuant to Bea 403.04 above, the department shall issue a letter stating the locations in which the application was deficient. The applicant shall receive a non-acceptance letter signed by the commissioner. This letter shall state locations where the application was deficient in satisfying the requirements of Bea 404.02.\n\n(b) The applicant shall have 15 calendar days to resubmit information to remedy the deficiencies, in which time the commissioner and the broadband project manager shall review the documents to ensure the applicant fulfilled all remaining requirements.\n\n(c) Applications not resubmitted within the time frames stated in RSA 541-A:29 shall be considered withdrawn.\n\nSource. #13515, INTERIM, eff 1-5-23, EXPIRES: 7-4-23; ss by #13734, eff 9-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html"
+}

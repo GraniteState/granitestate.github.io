@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Diluted Products",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14 (from Env-A 4103.02); ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.04 Diluted Products",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.04 Diluted Products.\n\n(a) For any consumer product for which the label, packaging, or accompanying literature specifically states that the product should be diluted with water or non-VOC solvent prior to use, the limits specified in table 4105-1 shall apply to the product only after the minimum recommended dilution has taken place.\n\n(b) For purposes of (a), above, the minimum recommended dilution shall not include recommendations for incidental use of a concentrated product to deal with limited special applications such as hard-to-remove soils or stains.\n\n(c) For any consumer product for which the label, packaging, or accompanying literature states that the product should be diluted with a VOC solvent prior to use, the limits specified in table 4105-1 shall apply to the product only after the maximum recommended dilution has taken place.\n\n(d) This section shall not apply to premixed windshield washer fluid.\n\nSource. #10527, eff 2-26-14 (from Env-A 4103.02); ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

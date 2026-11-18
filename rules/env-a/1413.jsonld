@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1413",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:5",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1400",
+  "definition": "REQUIREMENTS FOR SOURCES OF HAZARDOUS AIR POLLUTANTS SUBJECT TO SECTION 112 OF THE CLEAN AIR ACT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1413.01"
+  ],
+  "notation": "Env-A 1413",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1413 REQUIREMENTS FOR SOURCES OF HAZARDOUS AIR POLLUTANTS SUBJECT TO SECTION 112 OF THE CLEAN AIR ACT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 1413 REQUIREMENTS FOR SOURCES OF HAZARDOUS AIR POLLUTANTS SUBJECT TO SECTION 112 OF THE CLEAN AIR ACT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/406.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-C:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-C:3",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-C:4",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-C/146-C-3",
+    "https://granitestate.github.io/rsa/146-C/146-C-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/406",
+  "definition": "Delivery or Transfer of Regulated Substances",
+  "effectiveDate": "2018-10-10",
+  "historyNote": "(See Revision Note #1 at chapter heading for Env-Or 400) #10393, eff 9-1-13; ss by #12643, eff 10-10-18 (formerly Env-Or 406.09) (See Revision Note #2 at chapter heading for Env-Or 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 406.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html",
+  "prefLabel": "Env-Or 406.03 Delivery or Transfer of Regulated Substances",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 406.03 Delivery or Transfer of Regulated Substances.\n\n(a) No person shall allow the transfer or delivery of regulated substances to any UST facility that is not registered or that does not have a valid permit to operate.\n\n(b) Immediately prior to transferring any regulated substance into a UST system, the owner and the transfer operator shall determine that the tank has sufficient receiving capacity to hold the volume to be transferred.\n\n(c) No transfer shall be made to a UST system that is not equipped with spill containment and overfill protection devices as required by Env-Or 405.05 and Env-Or 405.06, respectively.\n\n(d) No transfer shall be made to a UST system that is not equipped with a stage I system, if required by Env-Or 500.\n\nSource. (See Revision Note #1 at chapter heading for Env-Or 400) #10393, eff 9-1-13; ss by #12643, eff 10-10-18 (formerly Env-Or 406.09) (See Revision Note #2 at chapter heading for Env-Or 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html"
+}

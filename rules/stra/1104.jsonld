@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/stra/1104",
+  "@type": "Concept",
+  "agencyCode": "Stra",
+  "authority": [
+    {
+      "citation": "4-C:5",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "4-C:31",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/stra/1100",
+  "definition": "SCHOLARSHIP AWARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/stra/1104.01",
+    "https://granitestate.github.io/rules/stra/1104.02",
+    "https://granitestate.github.io/rules/stra/1104.03",
+    "https://granitestate.github.io/rules/stra/1104.04",
+    "https://granitestate.github.io/rules/stra/1104.05"
+  ],
+  "notation": "Stra 1104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/stra1100.html",
+  "prefLabel": "Stra 1104 SCHOLARSHIP AWARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Stra 1104 SCHOLARSHIP AWARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/stra1100.html"
+}

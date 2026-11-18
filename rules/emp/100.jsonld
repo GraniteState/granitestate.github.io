@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/100",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp",
+  "definition": "ORGANIZATIONAL RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/emp/101",
+    "https://granitestate.github.io/rules/emp/102",
+    "https://granitestate.github.io/rules/emp/103"
+  ],
+  "notation": "Emp 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 100 ORGANIZATIONAL RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Emp 100 ORGANIZATIONAL RULES\n\nREVISION NOTE:\n\nDocument #10080, effective 1-30-12, adopted new definitions, and readopted and renumbered some of the existing definitions, in Part Emp 101. Document #10080 also adopted new Part Emp 102 on description of the Department and Part Emp 103 on public requests for information. Part Emp 102 had originally contained Emp 102.01 on adoption, amendment, and repeal of rules, filed under Document #5135, effective 5-6-91, and Emp 102.02 through Emp 102.05 on petitions for declaratory rulings, filed under Document #5136, effective 5-6-91. Document #6565-B, effective 9-2-97, had subsequently readopted with amendments and renumbered Part Emp 102 as Part Emp 205.\n\nDocument #10081, effective 1-30-12, readopted and renumbered the remaining definitions in Part Emp 101 as definitions in Part 301. Document #10081 also renumbered, but did not readopt, the existing rules in Emp 301 through Emp 307 as Emp 302 through Emp 308. The source notes for rules in Emp 302 through Emp 308 contain the document numbers and effective dates for rules under the former rule number, as noted in the source notes.\n\nThe definitions adopted by Document #10080 include the following terms:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

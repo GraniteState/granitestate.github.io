@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/601.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:47",
+      "source": "https://granitestate.github.io/rsa/405/405-47",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:49",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:50-a",
+      "source": "https://granitestate.github.io/rsa/405/405-50-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/405/405-47",
+    "https://granitestate.github.io/rsa/405/405-50-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/601",
+  "definition": "Reinsurance Contract",
+  "effectiveDate": "2021-11-24",
+  "historyNote": "#10449, eff 11-1-13 (from Ins 601.12); ss by #13296, eff 11-24-21 (formerly Ins 601.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 601.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins600.html",
+  "prefLabel": "Ins 601.13 Reinsurance Contract",
+  "recordType": "rule-section",
+  "ruleText": "Ins 601.13 Reinsurance Contract.\n\n(a) Credit shall not be granted, nor an asset or reduction from liability allowed, to a ceding insurer for reinsurance effected with assuming insurers meeting the requirements of Ins 601.02, Ins 601.03, Ins 601.04, Ins 601.05, Ins 601.06, and Ins 601.09 or otherwise in compliance with RSA 405:47 after the adoption of this rule unless the reinsurance agreement:\n\n(1) Includes a proper insolvency clause, which stipulates that reinsurance is payable directly to the liquidator or successor without diminution regardless of the status of the ceding company, pursuant to RSA 405:47, VII(a);\n\n(2) Includes a provision pursuant to RSA 405:47 whereby the assuming insurer, if an unauthorized assuming insurer, has submitted to the jurisdiction of an alternative dispute resolution panel or court of competent jurisdiction within the United States, has agreed to comply with all requirements necessary to give the court or panel jurisdiction, has designated an agent upon whom service of process may be effected, and has agreed to abide by the final decision of the court or panel; and\n\nSource. #10449, eff 11-1-13 (from Ins 601.12); ss by #13296, eff 11-24-21 (formerly Ins 601.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins600.html"
+}

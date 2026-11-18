@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/508",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/500",
+  "definition": "TRANSFER OF MOORING PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/508.01",
+    "https://granitestate.github.io/rules/pda/508.02",
+    "https://granitestate.github.io/rules/pda/508.03"
+  ],
+  "notation": "Pda 508",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 508 TRANSFER OF MOORING PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 508 TRANSFER OF MOORING PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

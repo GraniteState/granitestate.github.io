@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/801",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "370-A:2",
+      "source": "https://granitestate.github.io/rsa/370-A/370-A-2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14",
+    "https://granitestate.github.io/rsa/370-A/370-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/800",
+  "definition": "SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/saf-c/801.01",
+    "https://granitestate.github.io/rules/saf-c/801.02"
+  ],
+  "notation": "Saf-C 801",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c800.html",
+  "prefLabel": "Saf-C 801 SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Saf-C 801 SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c800.html"
+}

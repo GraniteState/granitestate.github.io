@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1502.24",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "General Permit by Rule",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1502",
+  "definition": "General permit by rule",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.22); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1502.26)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1502.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1502.24 General permit by rule",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1502.24 “General permit by rule” means authorization to undertake alteration of terrain activities as specified in Env-Wq 1503.03.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.22); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36 (formerly Env-Wq 1502.26)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

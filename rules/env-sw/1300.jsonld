@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-sw/1300",
+  "@type": "Concept",
+  "agencyCode": "Env-Sw",
+  "authority": [
+    {
+      "citation": "149-M:6",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:7",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "149-M:41",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-M/149-M-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-7",
+    "https://granitestate.github.io/rsa/149-M/149-M-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-sw",
+  "definition": "PUBLIC GRANTS FOR LANDFILL AND INCINERATOR CLOSURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-sw/1301",
+    "https://granitestate.github.io/rules/env-sw/1302",
+    "https://granitestate.github.io/rules/env-sw/1303",
+    "https://granitestate.github.io/rules/env-sw/1304",
+    "https://granitestate.github.io/rules/env-sw/1305",
+    "https://granitestate.github.io/rules/env-sw/1306",
+    "https://granitestate.github.io/rules/env-sw/1307",
+    "https://granitestate.github.io/rules/env-sw/1308"
+  ],
+  "notation": "Env-Sw 1300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1300.html",
+  "prefLabel": "Env-Sw 1300 PUBLIC GRANTS FOR LANDFILL AND INCINERATOR CLOSURE",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Sw 1300 PUBLIC GRANTS FOR LANDFILL AND INCINERATOR CLOSURE\n\nStatutory Authority: RSA 149-M:7, RSA 149-M:9, RSA 149-M:41-50\n\nRevision Note:\n\nDocument #8459, effective 10-28-05, readopted with amendments, renumbered, and redesignated former Chapter Env-Wm 3000 as Env-Sw 1300, pursuant to a rules reorganization plan for Department rules approved by the Director of the Office of Legislative Services on 9-7-05. The source notes for each section of Env-Sw 1300 identify the former subtitle Env-Wm and number for the respective rule prior to Document #8459.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-sw1300.html"
+}

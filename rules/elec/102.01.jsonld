@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec/102.01",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "authority": [
+    {
+      "citation": "319-C:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "319-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "319-C:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/elec/102",
+  "definition": "Terms Used",
+  "effectiveDate": "2017-06-07",
+  "historyNote": "#10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13, EXPIRED: 7-1-16 in para (b) pursuant to RSA 541-A:17, II and 2015, 276:45 and 276:57; amd by #12202, eff 6-7-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Elec 102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html",
+  "prefLabel": "Elec 102.01 Terms Used",
+  "priorExpiration": "2016-07-01",
+  "recordType": "rule-section",
+  "ruleText": "Elec 102.01 Terms Used. As used in these rules, the following terms shall have the meanings indicated:\n\n(a) “Board” means the New Hampshire electricians’ board established under RSA 319-C:4.\n\n(b) “Executive director” means the executive director of the office of professional licensure and certification.\n\nSource. #10354, INTERIM, eff 6-6-13; ss by #10421, eff 9-25-13, EXPIRED: 7-1-16 in para (b) pursuant to RSA 541-A:17, II and 2015, 276:45 and 276:57; amd by #12202, eff 6-7-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html"
+}

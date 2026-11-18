@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/806.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/806",
+  "definition": "Stream Restoration or Enhancement",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 806.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 806.01 Stream Restoration or Enhancement",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 806.01 Stream Restoration or Enhancement.\n\n(a) A compensatory mitigation proposal based on stream restoration or enhancement shall consider the types of stream(s) impacted and, where practicable, include a contiguous upland buffer in accordance with Env-Wt 804.\n\n(b) Stream restoration or enhancement proposals shall not be accepted as compensatory mitigation for sites at which remediation is required to correct unpermitted activities in jurisdictional areas.\n\nSource. #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

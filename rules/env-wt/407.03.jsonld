@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/407.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/407",
+  "definition": "Jurisdictional Area Size Thresholds; Measuring Watercourse Length",
+  "effectiveDate": "2020-10-23",
+  "historyNote": "#12804, eff 12-15-19; amd by #13124, eff 10-23-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 407.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt400.html",
+  "prefLabel": "Env-Wt 407.03 Jurisdictional Area Size Thresholds; Measuring Watercourse Length",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 407.03 Jurisdictional Area Size Thresholds; Measuring Watercourse Length.\n\n(a) Subject to (b), below, projects shall be classified based on size as shown in Table 407-1, below:\n\nTable 407-1: Classification Based on Size of Impact\n\nType of Jurisdictional Area | Minimum | Minor | Major\n\nOther than watercourse | < 3,000 square feet (SF) | ≥ 3,000 SF to < 10,000 SF | ≥ 10,000 SF\n\nWatercourse | < 50 linear feet (LF) | ≥ 50 LF to < 200 LF | ≥ 200 LF\n\n(b) Projects shall not be classified based on Table 407-1 if the project:\n\n(1) Is subject to an adjustment under Env-Wt 407.02;\n\n(2) Qualifies for a PTE under Env-Wt 407.04; or\n\n(3) Qualifies for project-specific size criteria as identified in Env-Wt 407.04, Table 407-2.\n\n(c) Unless otherwise specified for a particular purpose, watercourse length measurements shall be made as follows:\n\n(1) For intermittent watercourses, the distance shall be measured along the thread of the channel; and\n\n(2) For perennial watercourses, the total distance shall be calculated by summing the lengths of the disturbance to the channel and the banks.\n\nSource. #12804, eff 12-15-19; amd by #13124, eff 10-23-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt400.html"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.29",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "New England Control Area",
+  "authority": [
+    {
+      "citation": "362-F:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-6",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "New England control area",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.26); ss by #12473, eff 2-1-18 (formerly Puc 2502.27)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.29 New England control area",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.29 “New England control area” means “New England control area” as defined in RSA 362-F:2, XII, namely “the term as defined in ISO-New England’s transmission, markets and services tariff, FERC electric tariff no. 3, section II.” This includes Connecticut, Rhode Island, Massachusetts, New Hampshire, Vermont, and those parts of Maine not assigned to another control area pursuant to a FERC-approved tariff.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.26); ss by #12473, eff 2-1-18 (formerly Puc 2502.27)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

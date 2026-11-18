@@ -1,0 +1,25 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-m",
+  "@type": "Concept",
+  "agencyCode": "He-M",
+  "definition": "Former Division of Mental Health and Developmental Services",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-m/200",
+    "https://granitestate.github.io/rules/he-m/300",
+    "https://granitestate.github.io/rules/he-m/400",
+    "https://granitestate.github.io/rules/he-m/500",
+    "https://granitestate.github.io/rules/he-m/600",
+    "https://granitestate.github.io/rules/he-m/700",
+    "https://granitestate.github.io/rules/he-m/900",
+    "https://granitestate.github.io/rules/he-m/1000",
+    "https://granitestate.github.io/rules/he-m/1100",
+    "https://granitestate.github.io/rules/he-m/1200",
+    "https://granitestate.github.io/rules/he-m/1300"
+  ],
+  "notation": "He-M",
+  "prefLabel": "He-M Former Division of Mental Health and Developmental Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-c/7012.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-C",
+  "authority": [
+    {
+      "citation": "21-P:14",
+      "paragraphs": [
+        "VIII(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "106-H:17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-c/7012",
+  "definition": "Location Requests from Law Enforcement",
+  "effectiveDate": "2016-06-29",
+  "historyNote": "#11128, eff 6-29-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-C 7012.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html",
+  "prefLabel": "Saf-C 7012.01 Location Requests from Law Enforcement",
+  "recordType": "rule-section",
+  "ruleText": "Saf-C 7012.01 Location Requests from Law Enforcement.\n\n(a) Any local, county or state public safety official may contact a DESC PSAP supervisor for assistance with obtaining the location of a wireless device in an emergency situation.\n\n(b) The requesting agency shall provide information pertaining to why the situation poses an imminent risk to life or serious bodily injury.\n\n(c) The request for obtaining the location information shall be delivered over the DESC network from the respective dispatch center for the requesting agency.\n\nSource. #11128, eff 6-29-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-c7000.html"
+}

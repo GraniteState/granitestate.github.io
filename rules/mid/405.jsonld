@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mid/405",
+  "@type": "Concept",
+  "agencyCode": "Mid",
+  "altLabel": "CONTINUING EDUCATION REQUIREMENTS",
+  "authority": [
+    {
+      "citation": "326-D:5",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-D:11",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/mid/400",
+  "definition": "CONTINUING EDUCATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mid/405.01",
+    "https://granitestate.github.io/rules/mid/405.02",
+    "https://granitestate.github.io/rules/mid/405.03",
+    "https://granitestate.github.io/rules/mid/405.04",
+    "https://granitestate.github.io/rules/mid/405.05",
+    "https://granitestate.github.io/rules/mid/405.06",
+    "https://granitestate.github.io/rules/mid/405.07",
+    "https://granitestate.github.io/rules/mid/405.08"
+  ],
+  "notation": "Mid 405",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid400.html",
+  "prefLabel": "Mid 405 CONTINUING EDUCATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Mid 405 CONTINUING EDUCATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid400.html"
+}

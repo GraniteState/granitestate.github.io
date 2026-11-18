@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/1101.19",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "altLabel": "Object Code",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/1101",
+  "definition": "Object code",
+  "effectiveDate": "2022-12-09",
+  "historyNote": "#8306, eff 3-22-05 (from Rev 1101.17); ss by #10304, eff 3-22-13; ss by #13503, eff 12-9-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 1101.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html",
+  "prefLabel": "Rev 1101.19 Object code",
+  "recordType": "rule-section",
+  "ruleText": "Rev 1101.19 \"Object code\" means a 3-digit code added to a function code which signifies a particular service or commodity obtained.\n\nSource. #8306, eff 3-22-05 (from Rev 1101.17); ss by #10304, eff 3-22-13; ss by #13503, eff 12-9-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev1100.html"
+}

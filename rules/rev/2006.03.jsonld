@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rev/2006.03",
+  "@type": "Concept",
+  "agencyCode": "Rev",
+  "authority": [
+    {
+      "citation": "21-J:13",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:17",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-17",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:34",
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-34",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-13",
+    "https://granitestate.github.io/rsa/21-J/21-J-17",
+    "https://granitestate.github.io/rsa/21-J/21-J-34"
+  ],
+  "broader": "https://granitestate.github.io/rules/rev/2006",
+  "definition": "Fund Equity and Other Credits",
+  "effectiveDate": "2024-09-10",
+  "historyNote": "#5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (from Rev 2007.03); ss by #14072, eff 9-10-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rev 2006.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html",
+  "prefLabel": "Rev 2006.03 Fund Equity and Other Credits",
+  "recordType": "rule-section",
+  "ruleText": "Rev 2006.03 Fund Equity and Other Credits. The fund equity and other credits, classification shall be used for residual interest in the assets of a fund that remains after deducting its liabilities classified into the following accounts:\n\n(a) Account 2440, nonspendable fund balance, classification shall be for segregation of a portion of a fund balance for non-cash items such as inventories or prepaid items;\n\n(b) Account 2450, restricted fund balance, classification shall be for segregation of a portion of a fund balance set apart for funds legally restricted such as, but not limited to, a grant;\n\n(c) Account 2460, committed fund balance, classification shall be for segregation of a portion of a fund balance set apart by the legislative body for a particular purpose, such as, but not limited to, the unexpended portion of a non-lapsing special warrant article, capital reserve, or expendable trust fund;\n\n(d) Account 2490, assigned fund balance, in the general fund classification shall be for segregation of a portion of a fund balance for a specific future use such as, but not limited to, commitments related to unperformed contracts or encumbrances;\n\n(e) Account 2530, unassigned fund balance, in the general fund shall be for the unassigned residual interest in the assets of a fund that remains after deducting its liabilities, but shall only be used for a deficit in all other funds;\n\n(f) Account 2610, village district contributed capital, classification shall be for permanent contribution by a village district to a proprietary fund;\n\n(g) Account 2620, other contributed capital, classification shall be for permanent contribution by entities other than the village district to a proprietary fund; and\n\n(h) Account 2790, retained earnings, classification shall be for the accumulated earnings of a proprietary fund.\n\nSource. #5454, eff 8-28-92; ss by #6809, eff 7-21-98; ss by #8686, eff 7-21-06; ss by #10675, eff 9-24-14 (from Rev 2007.03); ss by #14072, eff 9-10-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rev2000.html"
+}

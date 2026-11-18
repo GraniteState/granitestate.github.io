@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "definition": "Adult Parole Board",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/100",
+    "https://granitestate.github.io/rules/par/200",
+    "https://granitestate.github.io/rules/par/300",
+    "https://granitestate.github.io/rules/par/400",
+    "https://granitestate.github.io/rules/par/500"
+  ],
+  "notation": "Par",
+  "prefLabel": "Par Adult Parole Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}
