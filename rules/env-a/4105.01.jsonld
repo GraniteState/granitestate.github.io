@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Standards",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#8439, eff 9-24-05; ss by #10527, eff 2-26-14 (from Env-A 4103.01); ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.01 Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.01 Standards.\n\n(a) Except as provided in Env-A 200, Env-A 4101.04, Env-A 4105.02, Env-A 4105.03, or Env-A 4109, no person shall sell, supply, or offer for sale in New Hampshire any consumer product manufactured on or after the applicable date specified in table 4105-1, and no person shall manufacture any consumer product for sale in New Hampshire on or after the applicable date specified in table 4105-1, that contains VOCs in excess of the limits specified in table 4105-1, below, subject to the notes in (b), below:\n\nTable 4105-1: VOC Limits for Consumer Products\n\nProduct Category | Percent VOCs by Weight\n\nManufactured on or after 1/1/2007 | Manufactured on or after 1/1/2015 | Manufactured on or after 1/1/2017\n\nAdhesive Removers\n\nFloor or Wall Covering | 5\n\nGasket or Thread Locking | 50\n\nGeneral Purpose | 20\n\nSpecialty | 70\n\nAdhesives\n\nAerosol:\n\nMist Spray | 65\n\nWeb Spray | 55\n\nSpecial Purpose Spray Adhesives:\n\nMounting, Automotive Engine Compartment, and Flexible Vinyl | 70\n\nPolystyrene Foam and Automotive Headliner | 65\n\nPolyolefin and Laminate Repair / Edgebonding | 60\n\nContact:\n\nContact General Purpose | 80 A | 55\n\nContact Special Purpose | N/A | 80\n\nConstruction, Panel, and Floor Covering | 15 C | 7\n\nGeneral Purpose | 10\n\nStructural Waterproof | 15\n\nAir Fresheners\n\nSingle-Phase Aerosols | 30\n\nDouble-Phase Aerosols | 25\n\nDual Purpose Air Freshener/Disinfectant Aerosol | 60\n\nLiquids /Pump Sprays | 18\n\nSolids / Gels | 3\n\nAntiperspirants\n\nAerosol | 40 HVOC 10 MVOC\n\nNon-Aerosol | 0 HVOC 0 MVOC\n\nAnti-static Product\n\nAerosol | 80\n\nNon-Aerosol | 11\n\nAutomotive Brake Cleaner | 45\n\nAutomotive Rubbing or Polishing Compound | 17\n\nAutomotive Wax, Polish, Sealant, or Glaze\n\nHard Paste Waxes | 45\n\nInstant Detailers | 3\n\nAll Other Forms | 15\n\nAutomotive Windshield Cleaner | 35\n\nAutomotive Windshield Washer Fluids | 35\n\nBathroom and Tile Cleaners\n\nAerosols | 7\n\nAll Other Forms | 5 C | N/A\n\nNon-Aerosol | 1\n\nBrake Cleaner | 10\n\nBug and Tar Remover | 40\n\nCarburetor or Fuel-Injection Air Intake Cleaners | 45 C | 10\n\nCarpet and Upholstery Cleaners\n\nAerosols | 7\n\nNon-Aerosols (Dilutables) | 0.1\n\nNon-Aerosols (Ready-to-Use) | 3.0\n\nCharcoal lighter materials | See Env-A 4105.08\n\nCooking Spray\n\nAerosols | 18\n\nDeodorants\n\nAerosol | 0 HVOC 10 MVOC\n\nNon-Aerosol | 0 HVOC 0 MVOC\n\nDisinfectant\n\nAerosols | 70\n\nNon-Aerosols | 1\n\nDusting Aids\n\nAerosols | 25\n\nAll Other Forms | 7\n\nElectrical Cleaner | 45\n\nElectronic Cleaner | 75\n\nEngine Degreasers\n\nAerosol | 35C | 10\n\nNon-Aerosol | 5\n\nFabric Protectants | 60\n\nFabric Fresheners\n\nAerosols | 15\n\nNon-Aerosols | 6\n\nFootwear or Leather Care Products\n\nAerosol | 75\n\nSolid | 55\n\nOther forms | 15\n\nFloor Polishes / Waxes\n\nProducts for Flexible Flooring Materials | 7 C | 1\n\nProducts for Nonresilient Flooring | 10 C | 1\n\nWood Floor Wax | 90\n\nFloor Wax Strippers\n\nNon-Aerosol | See Env-A 4105.06\n\nFurniture Maintenance Products\n\nAerosols | 17\n\nAll Other Forms Except Solid or Paste | 7 C | N/A\n\nNon-Aerosol Except Solid or Paste | 3\n\nGeneral Purpose Cleaners\n\nAerosols | 10 C | 8\n\nNon-Aerosols | 4\n\nGeneral Purpose Degreasers\n\nAerosols | 50 C | 10\n\nNon-Aerosols | 4\n\nGlass Cleaners\n\nAerosols | 12\n\nNon-Aerosols | 4\n\nGraffiti Remover\n\nAerosols | 50\n\nNon-Aerosols | 30\n\nHair Mousses | 6\n\nHair shines | 55\n\nHairsprays | 55\n\nHair Styling Gels | 6\n\nHair Styling Products\n\nAerosols and Pump Sprays | 6\n\nAll other forms | 2\n\nHeavy-Duty Hand Cleaner or Soap | 8\n\nInsecticides\n\nCrawling Bug - Aerosol | 15\n\nCrawling Bug - all other forms | 20\n\nFlea and Tick | 25\n\nFlying Bug - Aerosol | 25\n\nFlying Bug - all other forms | 35\n\nFoggers | 45\n\nLawn and Garden - all other forms | 20\n\nLawn and Garden - Non-Aerosol | 3\n\nWasp and Hornet | 40\n\nLaundry Prewash\n\nAerosols and Solids | 22\n\nAll Other Forms | 5\n\nLaundry Starch / Sizing / Fabric Finish Product | 5 C | 4.5\n\nMetal Polishes / Cleansers | 30\n\nMulti-Purpose Lubricant (Excluding Solid or Semi-Solid Products) | 50\n\nMulti-Purpose Solvent | 3\n\nNail Polish Remover | 75C | 1\n\nNon-Selective Terrestrial Herbicide\n\nNon-Aerosols | 3\n\nOven or Grill Cleaners\n\nAerosols / Pump Sprays | 8\n\nLiquids | 5 C | N/A\n\nNon-Aerosols | 4\n\nPaint Remover or Strippers | 50\n\nPaint Thinner | 3\n\nPenetrants | 50\n\nRubber/Vinyl Protectants\n\nNon-Aerosols | 3\n\nAerosols B | 10\n\nSanitizer\n\nAerosol | 70\n\nNon-Aerosol | 1\n\nSealants and Caulking Compounds | 4\n\nShaving Creams | 5\n\nShaving Gel | 7 | 4\n\nSilicone-Based Multi-Purpose Lubricants, excluding Solid or Semi-Solid Products | 60\n\nSpot Removers\n\nAerosols | 25\n\nNon-Aerosols | 8\n\nTemporary Hair Color\n\nAerosol | 55\n\nTire Sealants and Inflators | 20\n\nUndercoatings, Aerosols | 40\n\nWood Cleaner\n\nAerosol | 17\n\nNon-Aerosol | 4\n\n(b) The notes for Table 4105-1 shall be as follows:\n\n(1) “A” means that the specified standard no longer applies after December 31, 2014 because a revised VOC standard takes effect January 1, 2015;\n\n(2) “B” means that the VOC standard for rubber/vinyl protectant aerosols applies to aerosol tire shine products in this category beginning January 1, 2016; and\n\n(3) “C” means that the specified standard no longer applies after December 31, 2016 because a revised VOC standard takes effect January 1, 2017.\n\n(c) No person shall sell, supply, offer for sale, or manufacture for sale in New Hampshire on or after January 1, 2007, any antiperspirant or deodorant that contains any compound listed in table 4105-2, below:\n\nTable 4105-2: Prohibited Compounds in Antiperspirant or Deodorant\n\nProhibited Compounds\n\nBenzene\n\nEthylene Dibromide\n\nEthylene Dichloride\n\nHexavalent Chromium\n\nAsbestos\n\nDibenzo-p-dioxins and dibenzofurans chlorinated in the 2,3,7 and 8 positions and containing 4,5,6 or 7 chlorine atoms\n\nCadmium (metallic cadmium and cadmium compounds)\n\nCarbon Tetrachloride\n\nTrichloroethylene\n\nChloroform\n\nVinyl Chloride\n\nInorganic Arsenic\n\nNickel (metallic nickel and inorganic nickel compounds)\n\nPerchloroethylene\n\nFormaldehyde\n\n1,3-Butadiene\n\nInorganic Lead\n\n(d) No person shall sell, supply, offer for sale, or manufacture for sale in New Hampshire on or after January 1, 2015, any antiperspirant or deodorant that contains ethylene oxide or methylene chloride.\n\nSource. #8439, eff 9-24-05; ss by #10527, eff 2-26-14 (from Env-A 4103.01); ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

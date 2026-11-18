@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1102.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1102",
+  "definition": "Maintenance Requirements for Motor Vehicles",
+  "effectiveDate": "2023-07-01",
+  "historyNote": "#10345, eff 5-22-13; ss by #13680, eff 7-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1100.html",
+  "prefLabel": "Env-A 1102.01 Maintenance Requirements for Motor Vehicles",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1102.01 Maintenance Requirements for Motor Vehicles.\n\n(a) No person shall alter or remove any emission control equipment or system, including the basic fuel system, in any way that might limit or reduce the ability of that equipment or system to control emissions.\n\n(b) All emission control equipment that is originally supplied on a motor vehicle shall be maintained in place and in functional operating condition.\n\n(c) Emission control equipment shall be replaced only with equipment that meets or exceeds the specifications of the original equipment.\n\nSource. #10345, eff 5-22-13; ss by #13680, eff 7-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1100.html"
+}

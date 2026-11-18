@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "358-T:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Definitions",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.03 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.03 Definitions.\n\n(a) For the purposes of this part, the definitions in RSA 420-J:3 shall apply whenever any word or phrase defined under RSA 420-J:3 is used in this part unless a more detailed definition appears in this section or in subsequent sections.\n\n(b) With respect to the following words or phrases used in this part, the following definitions shall apply:\n\n(1) “Batched qualified IDR items and services” means multiple qualified IDR items or services that are considered jointly as part of one payment determination by a certified IDR entity for purposes of the state IDR process in accordance with section Ins 2706.06 of this part;\n\n(2) “Bundled payment arrangement” means an arrangement under which:\n\na. A provider or facility bills for multiple items or services furnished to a single patient under a single service code that represents multiple items or services, for example, a diagnosis related group (DRG) code; or\n\nb. A health carrier or plan makes an initial payment or notice of denial of payment to a provider or facility under a single service code that represents multiple items or services furnished to a single patient, for example, a DRG code;\n\n(3) “Business day” means any weekday that is not a federal holiday or a New Hampshire state holiday;\n\n(4) “Emergency department of a hospital” means “emergency department of a hospital” as defined in 42 U.S.C. §300gg-111(a)(3)(A) and as further defined in 45 CFR§149.30;\n\n(5) “Emergency medical condition” means “emergency medical condition” as defined in RSA 420-J:3, XV. The term includes the definitions in 42 U.S.C. §300gg-111(a)(3)(B) and 45 CFR §149.110(c)(1);\n\n(6) “Emergency services” means “emergency services” as defined in RSA 420-J:3, XVI, namely “health care services, including mental use disorder treatment services, that meet the definition of emergency services 42 U.S.C. §300gg-111(a)(3)(C) and as further defined in 45 CFR §149.110(c)(2);\n\n(7) “Episode of care” means the period of time during which all of the health care services that are needed to care for a patient’s clinical condition or to complete a procedure are delivered;\n\n(8) “Independent freestanding emergency department” means “independent freestanding emergency department” as defined in 42 U.S.C. §300gg-111(a)(3)(D) and as further defined in 45 CFR §149.30;\n\n(9) “Nonparticipating emergency facility” means “nonparticipating emergency facility” as defined in RSA 420-J:3, XXVI-a. The term includes the definition in 42 U.S.C. §300gg-111(a)(3)(F)(i) and as further defined in 45 CFR §149.30;\n\n(10) “Nonparticipating provider” means “nonparticipating provider” as defined in RSA 420-J:3, XXVII-b. The term includes the definition in 42 U.S.C. §300gg-111(a)(3)(G)(i) and as further defined in 45 CFR §149.30;\n\n(11) “Notice of denial of payment” means “notice of denial of payment” as defined in 45 CFR §149.30;\n\n(12) “Out-of-network rate” means “out-of-network rate” as defined in 42 U.S.C. §300gg-111(a)(3)(K) and as further defined in 45 CFR §149.30;\n\n(13) “Participating emergency facility” means “participating emergency facility” as defined in 42 U.S.C. §300gg-111(a)(3)(F)(ii) and as further defined in 45 CFR§149.30;\n\n(14) “Participating health care facility” means “participating health care facility” as defined in 45 CFR §149.30;\n\n(15) “Qualifying payment amount” or “QPA” means “qualifying payment amount” as defined in RSA 420-J:3 XXIX-a. The term includes the definition in 42 U.S.C. §300gg-111(a)(3)(E) and as further defined in 45 CFR§140(a)(16);\n\n(16) “Recognized amount” means “recognized amount” as defined in 42 U.S.C. §300gg-111(a)(3)(H) and as further defined in 45 CFR §149.30;\n\n(17) “Same or similar item or service” means “same or similar item or service” as defined in 45 CFR §149.140(a)(13);\n\n(18) “Service code” means “service code” as defined in 45 CFR §149.140(a)(14);\n\n(19) “Specified state law” means “specified state law” as defined in 42 U.S.C. §300gg-111(a)(3)(I) and as further defined in 45 CFR §149.30;\n\n(20) “Treating provider” means “treating provider” as defined in 45 CFR§149.30; and\n\n(21) “Visit” means “visit” as defined in 45 CFR §149.30.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3508.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A",
+      "source": "https://granitestate.github.io/rsa/400-A",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "409:5-b",
+      "paragraphs": [
+        "VIII(f)"
+      ],
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "410:2-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "410:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A",
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3508",
+  "definition": "Purpose",
+  "effectiveDate": "2026-02-07",
+  "expirationDate": "2036-02-07",
+  "historyNote": "#8886, eff 6-1-07; ss by #10879, eff 7-10-15; ss by #14509, eff 2-7-26, EXPIRES: 2-7-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3508.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3508.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3508.01 Purpose. The purpose of this part is to recognize, permit, and prescribe the use of mortality tables that reflect differences in mortality between preferred and standard lives in determining minimum reserve liabilities in accordance with RSA 410:3, I, RSA 409:5-b, VIII(f), Ins 3504.01,and Ins 3504.02.\n\nSource. #8886, eff 6-1-07; ss by #10879, eff 7-10-15; ss by #14509, eff 2-7-26, EXPIRES: 2-7-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

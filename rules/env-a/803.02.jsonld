@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/803.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/803",
+  "definition": "Initial Compliance Stack Testing for NOx",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98 New. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99 New. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 803.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 803.02 Initial Compliance Stack Testing for NOx",
+  "priorExpiration": "1999-03-26",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 803.02 Initial Compliance Stack Testing for NOx.\n\n(a) Owners and operators of all sources subject to Env-A 1300 other than those devices specified in Env-A 803.05 and those sources whose owners or operators opt out of the NOx RACT regulation in accordance with Env-A 1301.02(m) shall conduct an initial compliance stack test in accordance with Env-A 802 to demonstrate compliance with the applicable NOx RACT emission standards and control options specified in Env-A 1303 through Env-A 1313.\n\n(b) The initial compliance stack test required by (a), above, shall be performed:\n\n(1) For an existing device, within 120 calendar days of the date the device becomes subject to Env-A 1300; or\n\n(2) For a new source or device, by the earlier of 60 days of achieving the maximum production rate or 180 days from startup.\n\nSource. (See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98\n\nNew. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99\n\nNew. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

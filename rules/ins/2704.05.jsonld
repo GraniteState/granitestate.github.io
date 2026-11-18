@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2704.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-N:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7-b",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-7-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-a",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-7-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2704",
+  "definition": "Claims Processing",
+  "effectiveDate": "2020-06-29",
+  "historyNote": "(See Revision Note at part heading for Ins 2704) #13059, eff 6-29-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2704.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2704.05 Claims Processing",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2704.05 Claims Processing.\n\n(a) Every health carrier that provides prescription benefits as a covered benefit under a health benefit plan shall ensure that prescription benefit claims are adjusted and paid in accordance with the requirements of Ins 1001 and RSA 420-J:8-a.\n\n(b) Any health carrier or PBM shall require all participating pharmacies to charge any covered person the lesser of:\n\n(1) The pharmacy’s usual and customary price for filling the prescription; or\n\n(2) The contracted copayment.\n\n(c) The health carrier or PBM shall not be in violation of this section when the conditions set forth in RSA 420-J:8-a, IV exist or the claim has been submitted fraudulently or with inaccurate or misrepresented information.\n\nSource. (See Revision Note at part heading for Ins 2704) #13059, eff 6-29-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

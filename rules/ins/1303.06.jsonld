@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1303.06",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A",
+      "source": "https://granitestate.github.io/rsa/400-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-B:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-D:20",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-J:18",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1303",
+  "definition": "Course Completion Certificate",
+  "effectiveDate": "2023-01-31",
+  "historyNote": "(See Revision Note at chapter heading for Ins 1300) #8934, eff 8-1-07; ss by #10862, eff 8-1-15; ss by #13546, eff 1-31-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1303.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1300.html",
+  "prefLabel": "Ins 1303.06 Course Completion Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1303.06 Course Completion Certificate. Each sponsoring organization shall provide to each student a course completion certificate for each course receiving continuing education credit containing the following:\n\n(a) Sponsoring organization;\n\n(b) Course number;\n\n(c) Course title;\n\n(d) Date of course;\n\n(e) Total continuing education hours;\n\n(f) Name of student; and\n\n(g) Certification by sponsoring organization.\n\nSource. (See Revision Note at chapter heading for Ins 1300) #8934, eff 8-1-07; ss by #10862, eff 8-1-15; ss by #13546, eff 1-31-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1300.html"
+}

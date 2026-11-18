@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/803.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/803",
+  "definition": "Gaseous Concentration Measurements for Small Boilers and Emergency Generators",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#9802, eff 10-31-10 (from Env-A 803.04); ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 803.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 803.06 Gaseous Concentration Measurements for Small Boilers and Emergency Generators",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 803.06 Gaseous Concentration Measurements for Small Boilers and Emergency Generators.\n\n(a) The owner or operator of a small boiler or an emergency generator described in Env-A 803.05 shall perform applicable gaseous concentration measurements, before and after the tune-up, for nitrogen oxides (NOx), carbon monoxide (CO), and oxygen (O2) as specified in (b) through (g), below.\n\n(b) Subject to (c), below, the gaseous concentration measurements shall be made using:\n\n(1) An analyzer meeting the specifications set forth in the applicable sections of 40 CFR 60, Appendix B, Performance Specifications 2 through 4;\n\n(2) A portable extractive monitor using an electrochemical sensor for performing the gas concentration measurement; or\n\n(3) An alternative portable extractive monitor at least as accurate as the analyzer using an electrochemical sensor as specified in (b)(2), with the prior approval of the department and in accordance with Env-A 809.\n\n(c) A concentration monitor shall be operated following the procedures specified by the manufacturer.\n\n(d) A concentration monitor shall be calibrated for each gas being measured:\n\n(1) At least as frequently as recommended by the manufacturer; and\n\n(2) No earlier than 12 months prior to its use under this section.\n\n(e) Documentation of the most recent calibration of the concentration monitor shall be maintained on-site.\n\n(f) All measurements shall be recorded after stable operation of the boiler has been reached and shall be made on either a dry or wet basis, as long as the same basis is used for all gas concentration measurements.\n\n(g) All concentration measurements shall be maintained on site.\n\nSource. #9802, eff 10-31-10 (from Env-A 803.04); ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

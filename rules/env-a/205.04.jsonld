@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/205.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/205",
+  "definition": "Waiver Requests: Content",
+  "effectiveDate": "2022-11-19",
+  "historyNote": "#6506-B, eff 5-1-97; ss by #8128, eff 7-28-04; ss by #10187, eff 9-25-12 (from Env-A 205.03); ss by #13491, eff 11-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 205.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html",
+  "prefLabel": "Env-A 205.04 Waiver Requests: Content",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 205.04 Waiver Requests: Content. A waiver request shall include the following information:\n\n(a) The name, mailing address, and daytime telephone number of the requestor and, if available, an e-mail address of the requestor;\n\n(b) The name and location of the facility or activity to which the request relates;\n\n(c) A specific citation to the Env-A rule from which the waiver is sought;\n\n(d) A complete explanation of why a waiver is being requested, including an explanation of the operational and economic consequences of complying with the rule as written;\n\n(e) A complete explanation of any alternate procedure, method, or activity that is sought to be substituted for the procedure, method, or activity that is required by the rule from which a waiver is being sought;\n\n(f) The estimated length of time the waiver will be needed; and\n\n(g) A complete explanation of why the requestor believes that the waiver request meets the criteria in Env-A 205.06.\n\nSource. #6506-B, eff 5-1-97; ss by #8128, eff 7-28-04; ss by #10187, eff 9-25-12 (from Env-A 205.03); ss by #13491, eff 11-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/305.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/305",
+  "definition": "Primary Ambient Air Quality Standards for Carbon Monoxide (CO)",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 305.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 305.01 Primary Ambient Air Quality Standards for Carbon Monoxide (CO)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 305.01 Primary Ambient Air Quality Standards for Carbon Monoxide (CO). The primary ambient air quality standards for carbon monoxide (CO), CAS # 630-08-0, shall be as follows:\n\n(a) The 8-hour primary ambient air quality standard for CO shall be 9 ppm, 8-hour average concentration; and\n\n(b) The 1-hour primary ambient air quality standard for CO shall be 35 ppm, 1-hour average concentration.\n\nSource. #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

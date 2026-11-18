@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3306.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:15",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "412:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3306",
+  "definition": "Underwriting Filing Required",
+  "effectiveDate": "2018-08-03",
+  "historyNote": "#7658, eff 9-1-02; ss by #8052, eff 7-1-04; ss by 9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3306.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html",
+  "prefLabel": "Ins 3306.01 Underwriting Filing Required",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3306.01 Underwriting Filing Required.\n\n(a) If an insurer uses insurance scores or information from consumer reports to underwrite new or renewal private passenger automobile or homeowners insurance business, its underwriting models shall be filed with the commissioner in accordance with RSA 412:15, III and RSA 412:16.\n\n(b) The filing shall include:\n\n(1) The characteristics or factors of insurance scores or consumer reports used in the underwriting process; and\n\n(2) The underwriting eligibility guidelines specifically related to the use of insurance scores or information from consumer reports by the insurer.\n\nSource. #7658, eff 9-1-02; ss by #8052, eff 7-1-04; ss by 9634, eff 7-1-10; ss by #12599, eff 8-3-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3300.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.12",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Initial Compliance Stack Testing for VOCs",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.12 Initial Compliance Stack Testing for VOCs",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.12 Initial Compliance Stack Testing for VOCs.\n\n(a) The owner or operator of a stationary source that achieves compliance with Env-A 1200, through the operation of an add-on control system shall perform initial compliance stack testing in accordance with Env-A 802 and Env-A 804.14 to determine the control efficiency of the add-on control system.\n\n(b) Compliance stack testing required by this section shall be performed within 180 days of the date that the source becomes subject to Env-A 1200 or within 60 days of startup of the control device, whichever is later.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

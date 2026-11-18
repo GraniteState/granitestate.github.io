@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4301.07",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A",
+      "source": "https://granitestate.github.io/rsa/400-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "402:53",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4301",
+  "definition": "Exchange Terms",
+  "effectiveDate": "2026-02-07",
+  "historyNote": "#8935, eff 8-1-07; ss by #10963, eff 10-26-15; ss by #14506, eff 2-7-26, EXPRES: 2-7-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4301.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4300.html",
+  "prefLabel": "Ins 4301.07 Exchange Terms",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4301.07 Exchange Terms. Transactions that are handled simply as exchange items, such as New Hampshire automobile reinsurance facility business and direct mail downpayments, shall flow through the premium trust account.\n\nSource. #8935, eff 8-1-07; ss by #10963, eff 10-26-15; ss by #14506, eff 2-7-26, EXPRES: 2-7-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4300.html"
+}

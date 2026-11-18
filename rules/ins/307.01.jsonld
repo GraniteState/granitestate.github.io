@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/307.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "410:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:3",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/307",
+  "definition": "Purpose",
+  "effectiveDate": "2016-12-31",
+  "historyNote": "#3163, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5657, eff 7-1-93; ss by #7015, INTERIM, eff 7-1-99, EXPIRED: 10-29-99 New. #7450, eff 2-16-01; ss by #9494, eff 6-29-09; ss by #12034, eff 12-31-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 307.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 307.01 Purpose",
+  "priorExpiration": "1999-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Ins 307.01 Purpose. The purpose of this part is to recognize the following mortality tables, which are available as referenced in Appendix B, for use in determining the minimum standard of valuation for annuity and pure endowment contracts:\n\n(a) The 1983 Table \"a\";\n\n(b) The 1983 Group Annuity Mortality (1983 GAM) Table;\n\n(c) The Annuity 2000 Mortality Table;\n\n(d) The 2012 Individual Annuity Reserving (2012 IAR) Mortality Table; and\n\n(e) The 1994 Group Annuity Reserving (1994 GAR) Table.\n\nSource. #3163, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5657, eff 7-1-93; ss by #7015, INTERIM, eff 7-1-99, EXPIRED: 10-29-99\n\nNew. #7450, eff 2-16-01; ss by #9494, eff 6-29-09; ss by #12034, eff 12-31-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

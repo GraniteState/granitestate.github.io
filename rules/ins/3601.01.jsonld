@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3601.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "415-D:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-D:12",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3601",
+  "definition": "Purpose",
+  "effectiveDate": "2022-06-22",
+  "historyNote": "#8036, eff 5-1-04; ss by #10154, eff 6-25-12; ss by #13400, eff 6-22-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3601.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3600.html",
+  "prefLabel": "Ins 3601.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3601.01 Purpose. The purpose of this rule is to implement RSA 415-D, to promote the public interest, to promote the availability of long-term care insurance coverage, to protect applicants for long-term care insurance, as defined, from unfair or deceptive sales or enrollment practices, to facilitate public understanding and comparison of long-term care insurance coverages, and to facilitate flexibility and innovation in the development of long-term care insurance.\n\nSource. #8036, eff 5-1-04; ss by #10154, eff 6-25-12; ss by #13400, eff 6-22-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3600.html"
+}

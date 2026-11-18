@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1302.54",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Temporary Boiler",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1302",
+  "definition": "Temporary boiler",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "#12584, eff 8-15-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1302.54",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1302.54 Temporary boiler",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1302.54 “Temporary boiler” means “temporary boiler” as defined in 40 CFR 63, subpart JJJJJJ, as reprinted in Appendix B.\n\nSource. #12584, eff 8-15-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

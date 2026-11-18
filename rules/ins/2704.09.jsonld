@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2704.09",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:16",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "402-N:6",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2704",
+  "definition": "Confidentiality",
+  "effectiveDate": "2020-06-29",
+  "historyNote": "(See Revision Note at part heading for Ins 2704) #13059, eff 6-29-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2704.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2704.09 Confidentiality",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2704.09 Confidentiality. In accordance with RSA 400-A:16, III, RSA 402-N:6, II, and except as otherwise provided in this part, all information collected, obtained, or otherwise in the control or possession of the commissioner from any source relating to any investigation pursuant to this part shall be confidential by law and privileged, shall not be subject to RSA 91-A, shall not be subject to subpoena, and shall not be subject to discovery or admissible as evidence in any private civil action.\n\nSource. (See Revision Note at part heading for Ins 2704) #13059, eff 6-29-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

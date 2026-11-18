@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1303.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1303",
+  "definition": "Recordkeeping: Performance Tune-Ups; Startup, Shutdown, or Low-Load Operation",
+  "effectiveDate": "2023-03-21",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1303.03); ss by #13581, eff 3-21-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1303.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1303.04 Recordkeeping: Performance Tune-Ups; Startup, Shutdown, or Low-Load Operation",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1303.04 Recordkeeping: Performance Tune-Ups; Startup, Shutdown, or Low-Load Operation.\n\n(a) The owner or operator of one or more utility boiler(s) with a heat input rate of at least 5 million Btu per hour but less than 50 million Btu per hour per boiler shall maintain, in a format that can be retained unaltered for the time period specified in Env-A 902, the following information for each performance tune-up:\n\n(1) The identification of the boiler;\n\n(2) The date(s) on which the tune-up was conducted;\n\n(3) The name(s), title(s), and affiliation(s) of the individual(s) who conducted the tune-up;\n\n(4) The concentrations of NOx in the effluent stream, in parts-per-million by volume, (ppmv), measured at high fire or typical operating load, before and after the tune-up of the boiler;\n\n(5) The concentration of CO in the effluent stream, in ppmv, and oxygen in volume percent, measured at high fire or typical operating load, before and after the tune-up of the boiler;\n\n(6) A description of any corrective actions taken as a part of the tune-up of the boiler; and\n\n(7) For boilers capable of using more than one type of fuel, the fuel burned in the boiler during the tune-up and the type and amount of fuel used over the 12 months prior to the tune-up, provided that for units sharing a fuel meter, the allocation of fuel between those units may be estimated.\n\n(b) Concentration measurements may be taken by either a dry or wet basis, provided that:\n\n(1) The same basis is used before and after the tune-up; and\n\n(2) All gases are measured using the same basis.\n\n(c) The owner or operator of a wet-bottom utility boiler firing coal shall record each startup, shutdown, or low-load operation as follows:\n\n(1) The start and end date(s) of each occurrence;\n\n(2) The amount of time spent in each mode of operation; and\n\n(3) The actual NOx emissions in tons per day, to demonstrate compliance with Env-A 1303.06.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1303.03); ss by #13581, eff 3-21-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

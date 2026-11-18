@@ -1,0 +1,76 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/308.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:45",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:46",
+      "source": "https://granitestate.github.io/rsa/405/405-46",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:47",
+      "source": "https://granitestate.github.io/rsa/405/405-47",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:48",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:49",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:50",
+      "source": "https://granitestate.github.io/rsa/405/405-50",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:51",
+      "source": "https://granitestate.github.io/rsa/405/405-51",
+      "via": "appendix"
+    },
+    {
+      "citation": "405:52",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-36",
+    "https://granitestate.github.io/rsa/405/405-46",
+    "https://granitestate.github.io/rsa/405/405-47",
+    "https://granitestate.github.io/rsa/405/405-50",
+    "https://granitestate.github.io/rsa/405/405-51"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/308",
+  "definition": "Accounting Requirements",
+  "effectiveDate": "2022-11-22",
+  "historyNote": "#5480, eff 10-1-92; ss by #6522, eff 6-6-97; ss by #8239, eff 1-3-05; ss by #10196, eff 1-3-13 (from Ins 308.03); ss by #13494, eff 11-22-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 308.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 308.04 Accounting Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 308.04 Accounting Requirements.\n\n(a) No ceding insurer subject to this rule shall reduce any liability or establish any asset in any financial statement whether or not filed with the insurance department if, by the terms of the reinsurance agreement, in substance or effect, any of the following conditions exist:\n\n(1) Renewal expense allowances provided or to be provided to the ceding insurer by the reinsurer in any accounting period, are not sufficient to cover anticipated allocable renewal expenses of the ceding insurer on the portion of the business reinsured, unless a liability is established for the present value of the shortfall (using assumptions equal to the applicable statutory reserve basis on the business reinsured). Those expenses include commissions, premium taxes and direct expenses including, but not limited to, billing, valuation, claims and maintenance expected by the ceding insurer at the time the business is reinsured;\n\n(2) The ceding insurer can be deprived of surplus or assets at the reinsurer's option or automatically upon the occurrence of some event, such as the insolvency of the ceding insurer, except that termination of the reinsurance agreement by the reinsurer for nonpayment of reinsurance premiums or other amounts due, such as modified coinsurance reserve adjustments, interest and adjustments on funds withheld, and tax reimbursements, shall not be considered to be such a deprivation of surplus or assets;\n\n(3) The ceding insurer is required to reimburse the reinsurer for negative experience under the reinsurance agreement. Negative experience shall not include (1) offsetting experience refunds against current and prior years' losses under the agreement or (2) payment by the ceding insurer of an amount equal to the current and prior years' losses under the agreement upon voluntary termination of in force reinsurance by the ceding insurer. Voluntary termination does not include situations where termination occurs because of unreasonable provisions that allow the reinsurer to reduce its risk under the agreement. An example of such a provision is the right of the reinsurer to increase reinsurance premiums or risk and expense charges to excessive levels forcing the ceding insurer to prematurely terminate the reinsurance treaty;\n\n(4) The ceding insurer shall, at specific points in time scheduled in the agreement or otherwise, terminate or automatically recapture all or part of the reinsurance ceded;\n\n(5) The reinsurance agreement involves the possible payment by the ceding insurer to the reinsurer of amounts realized from the reinsured policies other than from income. For example, it is improper for a ceding insurer to pay reinsurance premiums, or other fees or charges to a reinsurer that are greater than the direct premiums collected by the ceding insurer;\n\n(6) The treaty does not transfer all of the significant risk inherent in the business being reinsured. The following table identifies a representative sampling of products or type of business, the risks that are considered to be significant. For products not specifically included, the risks determined to be significant shall be consistent with this table:\n\nTable 308.1 Risk Categories\n\nRisk categories:\n\na. Morbidity;\n\nb. Mortality;\n\nc. Lapse\n\nThis is the risk that a policy will voluntarily terminate prior to the recoupment of a statutory surplus strain experienced at issue of the policy;\n\nd. Credit Quality (C1)\n\nThis is the risk that invested assets supporting the reinsured business will decrease in value. The main hazards are that assets will default or that there will be a decrease in earning power. It excludes market value declines due to changes in interest rate;\n\ne. Reinvestment (C3)\n\nThis is the risk that interest rates will fall and funds reinvested (coupon payments or monies received upon asset maturity or call) will therefore earn less than expected. If asset durations are less than liability durations, the mismatch will increase;\n\nf. Disintermediation (C3)\n\nThis is the risk that interest rates rise and policy loans and surrenders increase or maturing contracts do not renew at anticipated rates of renewal. If asset durations are greater than the liability durations, the mismatch will increase. Policyholders will move their funds into new products offering higher rates. The company may have to sell assets at a loss to provide for these withdrawals;\n\n+ - Significant 0 – Insignificant\n\na | b | c | d | e | f\n\nHealth Insurance – other than LTC/LTD* | + | 0 | + | 0 | 0 | 0\n\nHealth Insurance – LTC/LTD* | + | 0 | + | + | + | 0\n\nImmediate Annuities | 0 | + | 0 | + | + | 0\n\nSingle Premium Deferred Annuities | 0 | 0 | + | + | + | +\n\nFlexible Premium Deferred Annuities | 0 | 0 | + | + | + | +\n\nGuaranteed Interest Contracts | 0 | 0 | 0 | + | + | +\n\nOther Annuity Deposit Business | 0 | 0 | + | + | + | +\n\nSingle Premium Whole Life | 0 | + | + | + | + | +\n\nTraditional Non-Par Permanent | 0 | + | + | + | + | +\n\nTraditional Non-Par Term | 0 | + | + | 0 | 0 | 0\n\nTraditional Par Permanent | 0 | + | + | + | + | +\n\nTraditional Par Term | 0 | + | + | 0 | 0 | 0\n\nAdjustable Premium Permanent | 0 | + | + | + | + | +\n\nIndeterminate Premium Permanent | 0 | + | + | + | + | +\n\nUniversal Life Flexible Premium | 0 | + | + | + | + | +\n\nUniversal Life Fixed Premium | 0 | + | + | + | + | +\n\nUniversal Life Fixed Premium dump-in premiums allowed | 0 | + | + | + | + | +\n\n*LTC = Long Term Care Insurance\n\nLTD = Long Term Disability Insurance\n\n(7) Assets:\n\na. The credit quality, reinvestment, or disintermediation risk is significant for the business reinsured and the ceding insurer does not (other than for the classes of business excepted in b. below) either transfer the underlying assets to the reinsurer or legally segregate such assets in a trust or escrow account or otherwise establish a mechanism satisfactory to the commissioner that legally segregates, by contract or contract provision, the underlying assets;\n\nb. Notwithstanding the requirements of paragraph a. above, the assets supporting the reserves for the following classes of business and any classes of business that do not have a significant credit quality, reinvestment or disintermediation risk may be held by the ceding insurer without segregation of such assets:\n\n1. Health Insurance – LTC/LTD\n\n2. Traditional Non-Par Permanent\n\n3. Traditional Par Permanent\n\n4. Adjustable Premium Permanent\n\n5. Indeterminate Premium Permanent\n\n6. Universal Life Fixed Premium (no dump-in premiums allowed)\n\nc. The associated formula for determining the reserve interest rate adjustment shall use a formula that reflects the ceding insurer’s investment earnings and incorporates all realized and unrealized gains and losses reflected in the statutory statement. The following is an acceptable formula:\n\nRate = 2 (I + CG)\n\nX + Y – I – CG\n\nWhere:\n\nI is the net investment income (Exhibit 2, Line 16, Column 7)\n\nCG is the capital gains less capital losses (Exhibit 4, Line 10, Column 6)\n\nX is the current year cash and invested assets (Page 2, Line 10A, Column 1) plus investment income due and accrued (Page 2, Line 16, Column 1) less borrowed money (Page 3, Line 22, Column 1)\n\nY is the same as X but for the prior year\n\n(8) Settlements are made less frequently than quarterly or payments due from the reinsurer are not made in cash within 90 days of the settlement date;\n\n(9) The ceding insurer is required to make representations or warranties not reasonably related to the business being reinsured;\n\n(10) The ceding insurer is required to make representations or warranties about future performance of the business being reinsured; and\n\n(11) The reinsurance agreement is entered into for the principal purpose of producing significant surplus aid for the ceding insurer, typically on a temporary basis, while not transferring all of the significant risks inherent in the business required and, in substance or effect, the expected potential liability to the ceding insurer remains basically unchanged.\n\n(b) Notwithstanding (a) above, a ceding insurer subject to this rule may, with the prior approval of the commissioner, take such reserve credit or establish such asset as the commissioner may deem consistent with RSA 405:47, including actuarial interpretations or standards adopted by the department.\n\n(c) Agreements.\n\n(1) Agreements entered into after the effective date of this rule that involve the reinsurance of business along with any subsequent amendments thereto, shall be filed by the ceding insurer with the commissioner within 30 days from its date of execution. Each filing shall include data detailing the financial impact of the transaction. The ceding insurer's actuary who signs the financial statement actuarial opinion with respect to valuation of reserves shall consider this rule and any applicable actuarial standards of practice when determining the proper credit in financial statements filed with this department. The actuary should maintain adequate documentation and be prepared upon request to describe the actuarial work performed for inclusion in the financial statements and to demonstrate that such work conforms to this rule; and\n\n(2) Any increase in surplus net of federal income tax resulting from arrangements described in (c)(1) shall be identified separately on the insurer's statutory financial statement as a surplus item (aggregate write-ins for gains and losses in surplus in the Capital and Surplus Account, page 4 of the Annual Statement) and recognition of the surplus increase as income shall be reflected on a net of tax basis in the \"Reinsurance ceded\" line, page 4 of the Annual Statement as earnings emerge from the business reinsured.\n\nFor example, on the last day of calendar year N, company XYZ pays a $20 million initial commission and expense allowance to company ABC for reinsuring an existing block of business. Assuming a 34% tax rate, the net increase in surplus at inception is $13.2 million ($20 million - $6.8 million) that is reported on the \"Aggregate write-ins for gains and losses in surplus\" line in the Capital and Surplus account. $6.8 million (34% of $20 million) is reported as income on the \"Commissions and expense allowances on reinsurance ceded\" line of the Summary of Operations.\n\nAt the end of year N+1 the business has earned $4 million. ABC has paid $.5 million in profit and risk charges in arrears for the year and has received a $1 million experience refund. Company ABC's annual statement would report $1.65 million (66% of ($4 million - $1 million - $.5 million) up to a maximum of $13.2 million) on the \"Commissions and expense allowance on reinsurance ceded\" line of the Summary of Operations, and -$1.65 million on the \"Aggregate write-ins for gains and losses in surplus\" line of the Capital and Surplus account. The experience refund would be reported separately as a miscellaneous income item in the Summary of Operations.\n\nSource. #5480, eff 10-1-92; ss by #6522, eff 6-6-97; ss by #8239, eff 1-3-05; ss by #10196, eff 1-3-13 (from Ins 308.03); ss by #13494, eff 11-22-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

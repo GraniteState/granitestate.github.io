@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2701.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "420-J:7",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2701",
+  "definition": "Purpose",
+  "effectiveDate": "2018-08-01",
+  "historyNote": "#7701, eff 8-1-02; ss by #9722, eff 8-1-10; ss by #12565, eff 8-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2701.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2701.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2701.01 Purpose. The purpose of these rules is to establish standards for determining whether a carrier’s provider network is sufficient in numbers, types, and geographic location of providers to ensure that covered persons will have access to health care services without unreasonable delay.\n\nSource. #7701, eff 8-1-02; ss by #9722, eff 8-1-10; ss by #12565, eff 8-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

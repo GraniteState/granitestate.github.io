@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4201",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(n)"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4200",
+  "definition": "PURPOSE, APPLICABILITY, AND EXEMPTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4201.01",
+    "https://granitestate.github.io/rules/env-a/4201.02",
+    "https://granitestate.github.io/rules/env-a/4201.03"
+  ],
+  "notation": "Env-A 4201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4201 PURPOSE, APPLICABILITY, AND EXEMPTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4201 PURPOSE, APPLICABILITY, AND EXEMPTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2001.06",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:7",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2001",
+  "definition": "Privileged Information",
+  "effectiveDate": "2018-06-11",
+  "historyNote": "#5931, eff 12-5-94, EXPIRED: 12-5-00 New. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2001.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html",
+  "prefLabel": "Ins 2001.06 Privileged Information",
+  "priorExpiration": "2000-12-05",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2001.06 Privileged Information. No information required to obtain a utilization review license shall be withheld by an applicant on the grounds that it is proprietary or otherwise confidential. Any information deemed confidential by the applicant may be submitted under separate cover, accompanied by a statement of the scope of the privilege claimed by the applicant and the basis for the claim of privilege. The applicant shall have the opportunity to request a hearing if the commissioner denies such a claim in whole or in part.\n\nSource. #5931, eff 12-5-94, EXPIRED: 12-5-00\n\nNew. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1709.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1709",
+  "definition": "Form ARD-7, Information Required for Permits for Engines and Turbines",
+  "effectiveDate": "2020-01-06",
+  "historyNote": "#6057-B, eff 6-30-95; amd by #6506-B, eff 5-1-97; ss by #7886, eff 5-3-03; ss by #9707, INTERIM, eff 5-3-11, EXPIRES: 10-31-11; ss by #10001, eff 10-1-11; ss by #12965, eff 1-6-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1709.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html",
+  "prefLabel": "Env-A 1709.01 Form ARD-7, Information Required for Permits for Engines and Turbines",
+  "priorExpiration": "2011-10-31",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1709.01 Form ARD-7, Information Required for Permits for Engines and Turbines. In addition to Form ARD-1, an applicant for a permit for a turbine or engine shall complete and submit Form ARD-7, “Information Required for Permits for Engines and Turbines” dated September 9, 2019.\n\nSource. #6057-B, eff 6-30-95; amd by #6506-B, eff 5-1-97; ss by #7886, eff 5-3-03; ss by #9707, INTERIM, eff 5-3-11, EXPIRES: 10-31-11; ss by #10001, eff 10-1-11; ss by #12965, eff 1-6-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html"
+}

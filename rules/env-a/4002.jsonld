@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4002",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4000",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4002.01",
+    "https://granitestate.github.io/rules/env-a/4002.02",
+    "https://granitestate.github.io/rules/env-a/4002.03",
+    "https://granitestate.github.io/rules/env-a/4002.04",
+    "https://granitestate.github.io/rules/env-a/4002.05",
+    "https://granitestate.github.io/rules/env-a/4002.06",
+    "https://granitestate.github.io/rules/env-a/4002.07",
+    "https://granitestate.github.io/rules/env-a/4002.08",
+    "https://granitestate.github.io/rules/env-a/4002.09",
+    "https://granitestate.github.io/rules/env-a/4002.10",
+    "https://granitestate.github.io/rules/env-a/4002.11",
+    "https://granitestate.github.io/rules/env-a/4002.12",
+    "https://granitestate.github.io/rules/env-a/4002.13",
+    "https://granitestate.github.io/rules/env-a/4002.14",
+    "https://granitestate.github.io/rules/env-a/4002.15",
+    "https://granitestate.github.io/rules/env-a/4002.16",
+    "https://granitestate.github.io/rules/env-a/4002.17",
+    "https://granitestate.github.io/rules/env-a/4002.18",
+    "https://granitestate.github.io/rules/env-a/4002.19"
+  ],
+  "notation": "Env-A 4002",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4002 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4002 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

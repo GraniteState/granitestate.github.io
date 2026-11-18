@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3306.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3306",
+  "definition": "Compliance and Performance Testing for Large MWC Units",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#6518-B, eff 5-29-97; ss by #7704, eff 6-7-02; ss by #9084, eff 2-2-08; ss by #11131, eff 7-18-16; ss by #12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3306.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3306.01 Compliance and Performance Testing for Large MWC Units",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3306.01 Compliance and Performance Testing for Large MWC Units.\n\n(a) The compliance and performance testing requirements applicable to each large MWC unit shall be as specified in 40 CFR §60.58b, except as provided by 40 CFR §60.24(b)(2) and as amended in (b) and (c), below.\n\n(b) The alternative performance testing schedule for dioxins/furans specified in 40 CFR §60.58b(g)(5)(iii) shall apply to large MWC plants where all performance tests for affected facilities over a 2-year period achieve a dioxin/furan emission level less than or equal to 15 nanograms per dry standard cubic meter, corrected to 7 percent oxygen.\n\n(c) If continuous emission monitors are used, they shall be installed, operated, and maintained in accordance with Env-A 808.\n\nSource. #6518-B, eff 5-29-97; ss by #7704, eff 6-7-02; ss by #9084, eff 2-2-08; ss by #11131, eff 7-18-16; ss by #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4104.13",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Paint Thinner",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4104",
+  "definition": "Paint thinner",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4104.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4104.13 Paint thinner",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4104.13 “Paint thinner” means any liquid product used for reducing the viscosity of coating compositions or components, that prominently displays the term “Paint thinner,” “Lacquer thinner,” “Thinner,” or “Reducer” on the front panel of its packaging. The term does not include any of the following:\n\n(a) Any liquid product that displays “artist’s solvent/thinner” on the packaging;\n\n(b) Products that are sold in containers with a capacity of 5 gallons or more and labeled exclusively for thinning industrial maintenance coatings, zinc-rich primers, or high temperature coatings;\n\n(c) Products labeled and used exclusively as an ingredient in a specific coating or coating brand line, whereby the coating would not be complete or useable without the specific ingredient; or\n\n(d) Products that meet both of the following:\n\n(1) The principle display panel of the product displays, in large font, language that the product is used exclusively for the thinning of industrial maintenance coatings, zinc-rich primers, or high temperature coatings; and\n\n(2) No representation is made anywhere on the product container or packaging, or any label or sticker attached thereto, that the product is suitable for use or can be used for any other purpose except the thinning of industrial maintenance coatings, zinc-rich primers, or high temperature coatings.\n\nSource. #10527, eff 2-26-14; ss by #10750, eff 12-19-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

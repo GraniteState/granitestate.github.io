@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1815.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E:3",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "II",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:10",
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-3",
+    "https://granitestate.github.io/rsa/141-E/141-E-4",
+    "https://granitestate.github.io/rsa/141-E/141-E-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1815",
+  "definition": "Applicability",
+  "effectiveDate": "2024-11-01",
+  "expirationDate": "2034-11-01",
+  "historyNote": "(See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1815.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1815.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1815.01 Applicability.\n\n(a) Pursuant to RSA 141-E:10 and RSA 141-E:11, the rules in this part shall apply to any asbestos abatement entity, employee, or individual that engages in any asbestos abatement or school asbestos planning activities.\n\n(b) Pursuant to the AHERA regulations promulgated by the EPA, individuals who conduct asbestos inspections of schools, or provide services as an asbestos management planner or asbestos abatement project designer to schools, shall apply to the department for certification as either an asbestos inspector, asbestos management planner, or asbestos abatement project designer.\n\nSource. (See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

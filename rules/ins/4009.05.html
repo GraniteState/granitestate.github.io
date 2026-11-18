@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4009.05 Provider File Data Tables</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4009.05.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4009.html">Ins 4009</a> / Ins 4009.05</nav>
+  <header>
+    <h1 id="section">Ins 4009.05 Provider File Data Tables</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4009.05.html">Ins 4009.05</a> Provider File Data Tables.
+
+<span id="a">(a)</span> Provider File Header Record Layout:
+
+Table 4009.05(a) Provider File Header Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+HD001 | Record Type | Text | 2 | HD
+
+HD002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+HD003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+HD004 | Type of File | Text | 2 | MP Provider File
+
+HD005 | Period Beginning Date | Number | 6 | Beginning of span of coverage period
+
+HD006 | Period Ending Date | Number | 6 | End of span of coverage period
+
+HD008 | Comments | Text | 80 | Submitter may use to document this submission by assigning a filename, system source, etc.
+
+<span id="b">(b)</span> Provider File Trailer Record Layout:
+
+Table 4009.05(b) Provider File Trailer Record Layout
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+TR001 | Record Type | Text | 2 | TR
+
+TR002 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+TR003 | National Plan ID | Text | 30 | CMS National Plan ID
+
+TR004 | Type of File | Text | 2 | MP Provider File
+
+TR005 | Period Beginning Date | Number | 6 | Beginning of span of coverage period
+
+TR006 | Period Ending Date | Number | 6 | End of span of coverage period
+
+TR007 | Extraction Date | Date | 8 | Date file was created
+
+TR008 | Record Count | Number | 10 (0) | Total number of records submitted in this file
+
+<span id="c">(c)</span> Provider File Detailed Specifications:
+
+Table 4009.05(c) Provider File Detailed Specifications
+
+Data Element # | Element | Type | Length (decimal places) | Description/Codes/Sources
+
+MP001 | Payer | Text | 8 | Payer submitting payments. NHID Submitter Code
+
+MP002 | Plan ID | Text | 30 | CMS National Plan ID or NAIC code.
+
+MP003 | Provider ID | Text | 30 | Unique identified for the provider as assigned by the reporting entity
+
+MP004 | Provider Tax ID | Text | 10 | Federal taxpayer&#x27;s identification number –if the tax id is a provider’s social security number use ‘SSN’ and ‘NA’ if unavailable. Do not code punctuation.
+
+MP005 | Provider Entity | Text | 1 | Specify the value that defines the type of entity
+
+1 Person; physician, clinician, orthodontist, and any individual that is licensed/certified to perform health care services.
+
+2 Facility; hospital, health center, long term care, rehabilitation and any building that is licensed to transact health care services.
+
+3 Professional Group; collection of licensed/certified health care professionals that are practicing health care services under the same entity name and Federal Tax Identification Number.
+
+4 Retail Site; brick-and-mortar licensed/certified place of transaction that is not solely a health care entity, i.e., pharmacies, independent laboratories, vision services.
+
+5 E-Site; internet-based order/logistic system of health care services, typically in the form of durable medical equipment, pharmacy or vision services. Address assigned should be the address of the company delivering services or order fulfillment.
+
+6 Financial Parent; financial governing body that does not perform health care services itself but directs and finances health care service entities, usually through a Board of Directors.
+
+7 Transportation; any form of transport that conveys a patient to/from a healthcare provider.
+
+8 Other; any type of entity not otherwise defined that performs health care services.
+
+MP006 | Provider First Name | Text | 35 | Individual first name. Leave blank if provider is a facility or organization
+
+MP007 | Provider Middle Name or Initial | Text | 25
+
+MP008 | Provider Last Name or Organization Name | Text | 60 | Full name of provider organization or last name of individual provider
+
+MP009 | Provider Suffix | Text | 10 | Example: Jr; Set as leave blank if provider is an organization. Do not use credentials such as MD or PhD
+
+MP010 | Provider Specialty | Text | 10 | Report the HIPAA-compliant health care provider taxonomy code. Code set is available at the National Uniform Claims Committee’s web site at http://www.nucc.org/
+
+MP011 | Provider Office Street Address | Text | 50 | Physical address – address where provider delivers health care services
+
+MP012 | Provider Office City | Text | 30 | Physical address – address where provider delivers health care services
+
+MP013 | Provider Office State | Text | 2 | Physical address – address where provider delivers health care services. Use postal service standard 2 letter abbreviations
+
+MP014 | Provider Office Zip | Text | 9 | Physical address – address where provider delivers health care services. Minimum 5 digit code. Do not include dashes
+
+MP015 | Provider DEA Number | Text | 12
+
+MP016 | Provider NPI | Text | 20
+
+MP017 | Provider State License Number | Text | 30
+
+MP018 | Entity Code | Text | 2 | Enter the value that defines the entity provider type. Required when MP005 does not = 1
+
+1 Academic Institution
+
+2 Adult Foster Care
+
+3 Ambulance Services
+
+4 Hospital Based Clinic
+
+5 Stand-Alone, Walk-In/Urgent Care Clinic
+
+6 Other Clinic
+
+7 Community Health Center - General
+
+8 Community Health Center - Urgent Care
+
+9 Government Agency
+
+10 Health Care Corporation
+
+11 Home Health Agency
+
+12 Acute Hospital
+
+13 Chronic Hospital
+
+14 Rehabilitation Hospital
+
+15 Psychiatric Hospital
+
+16 DPH Hospital
+
+17 State Hospital
+
+21 Licensed Hospital Satellite Emergency Facility
+
+22 Hospital Emergency Center
+
+23 Nursing Home
+
+24 Pharmacy
+
+MP899 | Record Type | Text | 2 | MP
+
+Source. #10877, eff 7-10-15; ss by #13136, eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4010.05)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4009.05.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

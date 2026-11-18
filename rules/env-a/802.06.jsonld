@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Repeating a Compliance Stack Test or RATA",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98 New. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99 New. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.06 Repeating a Compliance Stack Test or RATA",
+  "priorExpiration": "1999-03-26",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.06 Repeating a Compliance Stack Test or RATA. An owner or operator that repeats a compliance stack test or RATA on the same source shall not be required to submit another pre-test protocol or attend another pre-test meeting as specified in Env-A 802.04 and Env-A 802.05, provided that the following conditions are met:\n\n(a) The department shall have approved the final report of the previous compliance stack test or RATA as submitted by the owner or operator and the stack testing contractor;\n\n(b) The owner or operator shall use the same stack testing contractor;\n\n(c) The owner or operator shall either:\n\n(1) Follow all stack testing and plant operating conditions specified in the previously-accepted pre-test protocol; or\n\n(2) Specify in detail any deviations from the previously-accepted pre-test protocol in the letter described in (d) below; and\n\n(d) The owner, operator, or stack testing contractor shall submit a letter to the department referencing the previously-approved pre-test protocol and pre-test meeting and identifying in detail any deviations from the previously accepted pre-test protocol or pre-test meeting.\n\nSource. (See Revision Note at chapter heading for Env-A 800) #5505 eff 11-15-92, EXPIRED: 11-15-98\n\nNew. #6893, INTERIM, eff 11-26-98, EXPIRED: 3-26-99\n\nNew. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

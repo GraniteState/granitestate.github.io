@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1401.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I:6",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1401",
+  "definition": "Applicability",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#9601, eff 11-25-09; ss by #9865, eff 2-18-11; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1401.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1401.02 Applicability. This chapter shall apply to the owner or operator of any new, modified, or existing process or device located at a stationary source that emits a regulated toxic air pollutant (RTAP) into the ambient air, unless exempted under Env-A 1402.\n\nSource. #9601, eff 11-25-09; ss by #9865, eff 2-18-11; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

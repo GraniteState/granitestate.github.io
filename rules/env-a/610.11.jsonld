@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/610.11",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/610",
+  "definition": "Fees, Testing, Monitoring, Recordkeeping and Reporting Requirements",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 610.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 610.11 Fees, Testing, Monitoring, Recordkeeping and Reporting Requirements",
+  "priorExpiration": "2011-10-24",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 610.11 Fees, Testing, Monitoring, Recordkeeping and Reporting Requirements. A source or device operating under a general state permit subject to this part, shall comply with the following, where applicable:\n\n(a) The fee requirements established in Env-A 700;\n\n(b) The testing and monitoring requirements specified in Env-A 800; and\n\n(c) The recordkeeping and reporting requirements specified in Env-A 900.\n\nSource. #6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

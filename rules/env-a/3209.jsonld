@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3209",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-J:2-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3200",
+  "definition": "NOx ALLOWANCE TRACKING SYSTEM (NATS)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/3209.01",
+    "https://granitestate.github.io/rules/env-a/3209.02",
+    "https://granitestate.github.io/rules/env-a/3209.03",
+    "https://granitestate.github.io/rules/env-a/3209.04",
+    "https://granitestate.github.io/rules/env-a/3209.05",
+    "https://granitestate.github.io/rules/env-a/3209.06"
+  ],
+  "notation": "Env-A 3209",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html",
+  "prefLabel": "Env-A 3209 NOx ALLOWANCE TRACKING SYSTEM (NATS)",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 3209 NOx ALLOWANCE TRACKING SYSTEM (NATS)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html"
+}

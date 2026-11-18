@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3308.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-c",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-10-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-10-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3308",
+  "definition": "Processed Wood Residue Fuel Quality",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3308.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3308.03 Processed Wood Residue Fuel Quality",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3308.03 Processed Wood Residue Fuel Quality. A large MWC facility combusting PWR shall only combust PWR that contains:\n\n(a) No more than 1% by weight of non-wood materials, including but not limited to drywall, concrete, aggregates, dirt, and asbestos;\n\n(b) No more than 1.5% by weight of wood treated with creosote, pentachlorophenol, chromated copper arsenate, or other copper, chromium, or arsenical preservatives;\n\n(c) No more than 10% weight of #4 minus fines;\n\n(d) No more than a total of 50 parts per million (mg/kg) dry weight basis of arsenic; and\n\n(e) No more than a total of 250 parts per million (mg/kg) dry weight basis of lead.\n\nSource. #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/610.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/610",
+  "definition": "Decision to Grant or Deny the Petition",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #8129, eff 7-28-04; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 610.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 610.06 Decision to Grant or Deny the Petition",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 610.06 Decision to Grant or Deny the Petition.\n\n(a) The department shall grant the petition if the proposed source category meets the criteria specified in Env-A 610.05(b)(3).\n\n(b) The department shall deny the petition if:\n\n(1) The petitioner fails to respond to the department's request in Env-A 610.05(c); or\n\n(2) The proposed source category does not meet the criteria specified in Env-A 610.05(b)(3).\n\n(c) If the department denies the petition, the department shall notify the petitioner and shall specifically identify the reason(s) for the denial.\n\nSource. #6782-B, eff 6-30-98; ss by #7879, eff 4-26-03; ss by #8129, eff 7-28-04; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

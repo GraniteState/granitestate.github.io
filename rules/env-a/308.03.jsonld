@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/308.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/308",
+  "definition": "Measurement for Lead Attainment Determination",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 308.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 308.03 Measurement for Lead Attainment Determination",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 308.03 Measurement for Lead Attainment Determination. For the purpose of determining attainment of the primary and secondary ambient air quality standards for lead specified in Env-A 308.01, lead in the ambient air shall be measured by either:\n\n(a) A reference method based on 40 CFR 50 Appendix G and designated in accordance with 40 CFR 53; or\n\n(b) An equivalent method designated in accordance with 40 CFR 53.\n\nSource. #10173, eff 9-1-12; ss by #13382, eff 5-25-22\n\nAppendix A: State Statute, Federal Statute/Regulations Implemented\n\nAppendix B: Definitions from 40 CFR §50.1\n\n40 CFR §50.1\n\n(f) Reference method means a method of sampling and analyzing the ambient air for an air pollutant that is specified as a reference method in an appendix to this part, or a method that has been designated as a reference method in accordance with part 53 of this chapter; it does not include a method for which a reference method designation has been cancelled in accordance with §53.11 or §53.16 of this chapter.\n\n(g) Equivalent method means a method of sampling and analyzing the ambient air for an air pollutant that has been designated as an equivalent method in accordance with part 53 of this chapter; it does not include a method for which an equivalent method designation has been cancelled in accordance with §53.11 or §53.16 of this chapter.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

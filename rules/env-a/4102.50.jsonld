@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4102.50",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4102",
+  "definition": "Disinfectant",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4102.50",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4102.50 Disinfectant",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4102.50 “Disinfectant” means any product that is labeled by its manufacturer as a disinfectant, or is otherwise represented by its labeling for use to destroy or irreversibly inactivate infectious or other undesirable bacteria, pathogenic fungi, or viruses on surfaces or inanimate objects and whose label is registered as a disinfectant under FIFRA. The term includes products that are labeled as both a sanitizer and a disinfectant, but does not include:\n\n(a) Products designed solely for use on humans or animals;\n\n(b) Products designed for agricultural use;\n\n(c) Products designed solely for use in swimming pools, therapeutic tubs, or hot tubs;\n\n(d) Products labeled to be used on heat sensitive critical or semi-critical medical devices or medical equipment surfaces;\n\n(e) Products that are pre-moistened wipes or towelettes sold exclusively to medical, convalescent, or veterinary establishments;\n\n(f) Products labeled to be applied to food-contact surfaces that are not required to be rinsed off prior to contact with food; or\n\n(g) Products that are labeled as bathroom and tile cleaners, glass cleaners, general purpose cleaners, toilet/urinal care products, metal polishes, carpet cleaners, or fabric cleaners, regardless of any disinfecting or antimicrobial claims on the label.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

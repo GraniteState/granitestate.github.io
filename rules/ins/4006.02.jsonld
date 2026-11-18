@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4006.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4006",
+  "definition": "Subscriber and Member Identification Data Elements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4006.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4006.02 Subscriber and Member Identification Data Elements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4006.02 Subscriber and Member Identification Data Elements.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers shall:\n\n(1) Provide a unique identification number for each member and subscriber included in the submitted files; and\n\n(2) Maintain that unique identifier for each member and subscriber for the entire period of coverage for that individual by that carrier, third-party administrator, or pharmacy benefit manager.\n\n(b) Subscriber and member identifiers shall be:\n\n(1) Consistent across all files that contain information about the subscriber or member;\n\n(2) Matched across the member eligibility, medical claims, pharmacy, and dental files, as well as behavioral health claims, as applicable, even where the claims are processed by a subcontractor such as a pharmacy benefits manager; and\n\n(3) Consistent with the technical specifications in Ins 4008.02.\n\nSource. #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

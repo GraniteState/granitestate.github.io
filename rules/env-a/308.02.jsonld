@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/308.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/308",
+  "definition": "Determination of Attainment of Lead Standards",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 308.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 308.02 Determination of Attainment of Lead Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 308.02 Determination of Attainment of Lead Standards. The primary and secondary ambient air quality standards for lead specified in Env-A 308.01 shall be deemed to be attained when the maximum arithmetic 3-month mean concentration for a 3-year period, as determined in accordance with 40 CFR 50 Appendix R, is less than or equal to 0.15 μg/m3.\n\nSource. #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

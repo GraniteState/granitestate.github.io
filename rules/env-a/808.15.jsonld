@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.15",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Emission Reports for Sources Subject to 40 CFR 60",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Reporting Valid and Substitute Data",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.12); ss by #12762, eff 5-1-19 (from Env-A 808.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.15 Reporting Valid and Substitute Data",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.15 Reporting Valid and Substitute Data.\n\n(a) In accordance with Env-A 808.13 and Env-A 808.14, the owner or operator shall include in the quarterly emission report the emissions as measured by the CEM system and averaged to demonstrate compliance with the emission standards to which the source is subject.\n\n(b) Even if sufficient valid hours have been measured by the CEM system necessary for calculation of a valid averaging period as defined in Env-A 808.14 above, the owner or operator shall still report for any invalid hours that occurred during the emission standard period the substitute data, as approved in accordance with Env-A 808.12, that will be used to determine the source's total emissions.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.12); ss by #12762, eff 5-1-19 (from Env-A 808.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

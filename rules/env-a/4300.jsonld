@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4300",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "OTHER SOLID WASTE INCINERATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4301",
+    "https://granitestate.github.io/rules/env-a/4302",
+    "https://granitestate.github.io/rules/env-a/4303",
+    "https://granitestate.github.io/rules/env-a/4304",
+    "https://granitestate.github.io/rules/env-a/4305"
+  ],
+  "notation": "Env-A 4300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html",
+  "prefLabel": "Env-A 4300 OTHER SOLID WASTE INCINERATION",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 4300 OTHER SOLID WASTE INCINERATION\n\nStatutory Authority: RSA 125-C:4, I(a)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html"
+}

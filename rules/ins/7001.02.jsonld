@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/7001.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A",
+      "source": "https://granitestate.github.io/rsa/415-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/7001",
+  "definition": "Applicability and Scope",
+  "effectiveDate": "2019-06-10",
+  "historyNote": "#12798, eff 6-10-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 7001.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins7000.html",
+  "prefLabel": "Ins 7001.02 Applicability and Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ins 7001.02 Applicability and Scope. This part shall apply to all individual health insurance policies providing health insurance for a limited duration that are delivered or issued for delivery in this state on and after the effective date of this part, as provided in RSA 415-A, and that are not specifically exempted from this part.\n\nSource. #12798, eff 6-10-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins7000.html"
+}

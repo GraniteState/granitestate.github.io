@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1307.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1307",
+  "definition": "Emission Standards for Stationary Internal Combustion Engines Not Subject to New Source Performance Standards",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1307.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1307.02 Emission Standards for Stationary Internal Combustion Engines Not Subject to New Source Performance Standards",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1307.02 Emission Standards for Stationary Internal Combustion Engines Not Subject to New Source Performance Standards. Stationary internal combustion engines that do not meet the applicability criteria of 40 CFR §60.4200 or §60.4230, shall be subject to the hourly average NOx RACT emission limits specified below:\n\n(a) For gas-fired units that are:\n\n(1) Rich burn stationary internal combustion engines, the standard shall be 1.5 grams per rated brake horsepower per hour (bhp-hr); and\n\n(2) Lean burn stationary internal combustion engines, the standard shall be 2.5 grams per bhp-hr; and\n\n(b) For liquid fuel-fired units that are:\n\n(1) Stationary internal combustion engines with a maximum engine power of greater than 560 KW or 750 hp, the standard shall be 6.4 grams per kilowatt-hour (kW-hr); and\n\n(2) Stationary internal combustion engines with a maximum engine power of less than or equal to 560 KW or 750 hp, the standard shall be 4.0 grams per kilowatt-hour (kW-hr).\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

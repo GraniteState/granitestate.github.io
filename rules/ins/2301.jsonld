@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2301",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "402-H:15",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2300",
+  "definition": "REGULATION OF THIRD PARTY ADMINISTRATORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/2301.01",
+    "https://granitestate.github.io/rules/ins/2301.02",
+    "https://granitestate.github.io/rules/ins/2301.03",
+    "https://granitestate.github.io/rules/ins/2301.04",
+    "https://granitestate.github.io/rules/ins/2301.05",
+    "https://granitestate.github.io/rules/ins/2301.06",
+    "https://granitestate.github.io/rules/ins/2301.07",
+    "https://granitestate.github.io/rules/ins/2301.08",
+    "https://granitestate.github.io/rules/ins/2301.09",
+    "https://granitestate.github.io/rules/ins/2301.10",
+    "https://granitestate.github.io/rules/ins/2301.11",
+    "https://granitestate.github.io/rules/ins/2301.12",
+    "https://granitestate.github.io/rules/ins/2301.13",
+    "https://granitestate.github.io/rules/ins/2301.14",
+    "https://granitestate.github.io/rules/ins/2301.15",
+    "https://granitestate.github.io/rules/ins/2301.16",
+    "https://granitestate.github.io/rules/ins/2301.17",
+    "https://granitestate.github.io/rules/ins/2301.18",
+    "https://granitestate.github.io/rules/ins/2301.19",
+    "https://granitestate.github.io/rules/ins/2301.20",
+    "https://granitestate.github.io/rules/ins/2301.21"
+  ],
+  "notation": "Ins 2301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2300.html",
+  "prefLabel": "Ins 2301 REGULATION OF THIRD PARTY ADMINISTRATORS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 2301 REGULATION OF THIRD PARTY ADMINISTRATORS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2300.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2404.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2404",
+  "definition": "Calculations of Sulfur Dioxide Emission Standards for Non-Ferrous Foundries, Smelters, or Investment Casting Operations",
+  "effectiveDate": "2023-07-22",
+  "historyNote": "#10315, eff 4-23-13 (from Env-A 2405.02); ss by #13694, eff 7-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2404.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2400.html",
+  "prefLabel": "Env-A 2404.03 Calculations of Sulfur Dioxide Emission Standards for Non-Ferrous Foundries, Smelters, or Investment Casting Operations",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2404.03 Calculations of Sulfur Dioxide Emission Standards for Non-Ferrous Foundries, Smelters, or Investment Casting Operations.\n\n(a) For sulfur dioxides, the maximum allowable particulate matter emission rate from non-ferrous foundries, smelters, or investment casting operations shall be calculated by the applicable equation in (b) through (d), below, where:\n\n(1) “X” means the total sulfur, CAS number 7704-34-9, burned in the smelter in pounds per hour; and\n\n(2) “Y” means the emission of sulfur dioxide, CAS number 7446-09-5, in pounds per hour;\n\n(b) For copper from smelters, CAS number 7440-50-8, multiply X by 0.2, as shown in the formula below:\n\nY = 0.2X\n\n(c) For zinc from smelters, CAS number 7440-66-6, raise X to the 0.85 power and multiply the result by 0.564, as shown in the formula below:\n\nY = 0.564 X0.85\n\n(d) For lead from smelters, CAS number 7439-92-1, raise X to the 0.77 power, and multiply the result by 0.98, as shown in the formula below:\n\nY = 0.98 X0.77\n\nSource. #10315, eff 4-23-13 (from Env-A 2405.02); ss by #13694, eff 7-22-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2400.html"
+}

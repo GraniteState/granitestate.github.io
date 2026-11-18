@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1002.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1002",
+  "definition": "Communications Time Limit",
+  "effectiveDate": "2015-10-26",
+  "historyNote": "#8900, eff 7-1-07, EXPIRED: 7-1-15 New. #10962, eff 10-26-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1002.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html",
+  "prefLabel": "Ins 1002.04 Communications Time Limit",
+  "priorExpiration": "2015-07-01",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1002.04 Communications Time Limit.\n\n(a) Notice of a claim given by an insured or claimant to an insurer’s appointed producer shall be considered notification to the insurer, unless:\n\n(1) Otherwise provided by law or the policy; or\n\n(2) The appointed producer notifies the insured or claimant within 5 working days of receipt of notice of a claim that the appointed producer is not authorized to receive notices of claims.\n\n(b) Every insurer shall reply in no later than 10 working days to all claims communications from insureds or claimants. Receipt of documentation or information by an insurer that was requested of the insured or claimant is a communication subject to response under this section.\n\n(c) Every insurer, upon receipt of an inquiry from the insurance department, shall within 10 working days furnish the department with a complete and accurate written response to the inquiry.\n\nSource. #8900, eff 7-1-07, EXPIRED: 7-1-15\n\nNew. #10962, eff 10-26-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html"
+}

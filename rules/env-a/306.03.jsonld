@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/306.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/306",
+  "definition": "Measurement for NO2 Attainment Determination",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 306.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 306.03 Measurement for NO2 Attainment Determination",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 306.03 Measurement for NO2 Attainment Determination. For the purpose of determining attainment of the primary and secondary ambient air quality standards specified in Env-A 306.01, NO2 in the ambient air shall be measured by either:\n\n(a) A reference method based on 40 CFR 50 Appendix F; or\n\n(b) An equivalent method designated in accordance with 40 CFR 53.\n\nSource. #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

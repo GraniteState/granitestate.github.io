@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3207.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-J:2-a",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3207",
+  "definition": "Transfer Completion",
+  "effectiveDate": "2026-06-25",
+  "expirationDate": "2036-06-25",
+  "historyNote": "#11001, eff 1-1-16; ss by #14632, eff 6-25-26, EXPIRES: 6-25-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3207.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html",
+  "prefLabel": "Env-A 3207.05 Transfer Completion",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3207.05 Transfer Completion. A transfer shall be complete when the NATS administrator has verified that:\n\n(a) Each allowance listed in the transfer request is held by the originating account at the time the transfer was recorded;\n\n(b) The acquiring party has an account in the NATS; and\n\n(c) The transfer request has been filed by the person named as AAR for the originating account.\n\nSource. #11001, eff 1-1-16; ss by #14632, eff 6-25-26, EXPIRES: 6-25-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3200.html"
+}

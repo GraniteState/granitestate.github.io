@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1406.09",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "404-C",
+      "source": "https://granitestate.github.io/rsa/404-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/404-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1406",
+  "definition": "Statistical Data",
+  "effectiveDate": "2023-01-24",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21; ss by #13534, eff 1-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1406.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html",
+  "prefLabel": "Ins 1406.09 Statistical Data",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1406.09 Statistical Data. Each member shall furnish or cause to be furnished such statistics in connection with insurance subject to the facility as required by the board, or commissioner, and each member shall authorize its statistical agent to release any such data as requested by the board. Such statistics shall be furnished when requested by the commissioner.\n\nSource. (See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21; ss by #13534, eff 1-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html"
+}

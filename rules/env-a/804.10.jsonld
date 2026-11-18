@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804.10",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/804",
+  "definition": "Calculation of Actual Overall Emission Reduction Efficiency of a Control System",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 804.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 804.10 Calculation of Actual Overall Emission Reduction Efficiency of a Control System",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 804.10 Calculation of Actual Overall Emission Reduction Efficiency of a Control System. The owner or operator of a coating source using add-on control equipment to achieve compliance with Env-A 1200, shall determine the measured overall emission reduction efficiency of the control system as follows:\n\n(a) “EMEAS” means the measured overall emission reduction efficiency of the control system for the day, expressed as a percentage;\n\n(b) “CE” means the most recent capture efficiency test results, in percentage of VOC captured, as determined in accordance with Env-A 805;\n\n(c) “RE” means the measured VOC removal efficiency of the control device, in percentage of VOC removed;\n\n(d) The EMEAS shall be equal to the product of CE divided by 100, RE divided by 100, and 100, as in the following equation:\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

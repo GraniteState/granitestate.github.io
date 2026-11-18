@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4004.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4004",
+  "definition": "Changes to Data Submitter’s Process, Format, or Sources",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4004.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4004.03 Changes to Data Submitter’s Process, Format, or Sources",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4004.03 Changes to Data Submitter’s Process, Format, or Sources.\n\n(a) Carriers, third-party administrators, and pharmacy benefit managers, that change health plan identifiers or implement new data submission platforms through acquisitions, mergers, or reorganization shall be subject to the requirements for first-time submitters.\n\n(b) Carriers, third-party administrators, and pharmacy benefit managers, filing under new health plan identifiers or through new production systems shall provide additional documentation pursuant to instructions from the department or its designee to ensure that NHCHIS maintains a continuous record of member enrollment and claims history before and after the changes.\n\nSource. #10877, eff 7-10-15; ss by #13136 eff 11-24-20; ss by #14560, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

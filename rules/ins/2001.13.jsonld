@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2001.13",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:4",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:7",
+      "paragraphs": [
+        "XII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2001",
+  "definition": "Reconsideration Procedures",
+  "effectiveDate": "2018-06-11",
+  "historyNote": "#5931, eff 12-5-94, EXPIRED: 12-5-00 New. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2001.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html",
+  "prefLabel": "Ins 2001.13 Reconsideration Procedures",
+  "priorExpiration": "2000-12-05",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2001.13 Reconsideration Procedures. A medical utilization review entity shall establish an appeal process for addressing beneficiary and provider complaints and requests for reconsiderations. No license shall be issued pursuant to Ins 2001.04 unless and until a medical utilization review entity has established an appeals process providing assurances to beneficiaries and providers that their complaints and requests for reconsiderations shall be fairly and objectively considered in accordance with RSA 420-E:4.\n\nSource. #5931, eff 12-5-94, EXPIRED: 12-5-00\n\nNew. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html"
+}

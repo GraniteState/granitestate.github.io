@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6101.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:18",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6101",
+  "definition": "Effective Date of Discontinuance for Nonpayment of Premium",
+  "effectiveDate": "2018-01-31",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 6100) #12471, eff 1-31-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6101.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6101.02 Effective Date of Discontinuance for Nonpayment of Premium",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6101.02 Effective Date of Discontinuance for Nonpayment of Premium.\n\n(a) If a policy or contract subject to this part provides for automatic discontinuance of the policy or contract after a premium has remained unpaid through the grace period allowed for such payment, pursuant to RSA 415:18, the carrier shall be liable for valid claims for covered losses incurred prior to the end of the grace period.\n\n(b) If the actions of the carrier after the end of the grace period indicate that it considers the policy or contract as continuing in force beyond the end of the grace period, such as by continuing to recognize claims subsequently incurred, the carrier shall be liable for valid claims for losses beginning prior to the effective date of written notice of discontinuance to the policyholder or other entity responsible for making payments to the carrier. The effective date of discontinuance shall not be prior to midnight at the end of the third scheduled business day after the date upon which the notice is delivered.\n\nSource. (See Revision Note #1 at chapter heading for Ins 6100) #12471, eff 1-31-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

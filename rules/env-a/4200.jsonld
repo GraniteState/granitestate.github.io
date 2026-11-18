@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4200",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a",
+  "definition": "ARCHITECTURAL AND INDUSTRIAL MAINTENANCE COATINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4201",
+    "https://granitestate.github.io/rules/env-a/4202",
+    "https://granitestate.github.io/rules/env-a/4203",
+    "https://granitestate.github.io/rules/env-a/4204",
+    "https://granitestate.github.io/rules/env-a/4205",
+    "https://granitestate.github.io/rules/env-a/4206"
+  ],
+  "notation": "Env-A 4200",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4200 ARCHITECTURAL AND INDUSTRIAL MAINTENANCE COATINGS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-A 4200 ARCHITECTURAL AND INDUSTRIAL MAINTENANCE COATINGS\n\nStatutory Authority: RSA 125-C:4, I(n), RSA 125-C:6, XVII, and RSA 485:16-c",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

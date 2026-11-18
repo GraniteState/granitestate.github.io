@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3308.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-c",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-10-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-10-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3308",
+  "definition": "Analysis of Composite Samples",
+  "effectiveDate": "2018-09-27",
+  "historyNote": "#12628, eff 9-27-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3308.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html",
+  "prefLabel": "Env-A 3308.06 Analysis of Composite Samples",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3308.06 Analysis of Composite Samples.\n\n(a) PWR samples taken as required by this part shall be analyzed, as specified in (b), below, to determine the presence of:\n\n(1) Non-wood materials by percent weight;\n\n(2) Wood treated with creosote, pentachlorophenol, chromated copper arsenate, or other copper, chromium or arsenical preservatives percentage by weight;\n\n(3) #4 minus fines percentage by weight;\n\n(4) Total arsenic mg/kg dry weight; and\n\n(5) Total lead mg/kg dry.\n\n(b) The analyses required by (a)(4) and (a)(5) above shall be accepted by the department only if performed:\n\n(1) By a laboratory accredited to perform such analyses by the U.S. EPA or by the department pursuant to Env-C 300; and\n\n(2) Using a U.S. EPA approved method for determining the presence of arsenic or lead.\n\n(c) Analytical results shall be provided to the MWC facility combusting the PWR within 30 days of collection of the sample or, in the case of samples taken in connection with a third party inspection under Env-A 3308.05, shall be included in the inspection report.\n\nSource. #12628, eff 9-27-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3300.html"
+}

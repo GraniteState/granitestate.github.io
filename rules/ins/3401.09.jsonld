@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3401.09",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:10-a",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-10-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-10-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3401",
+  "definition": "Conflict of Interest",
+  "effectiveDate": "2009-10-19",
+  "historyNote": "#7434, INTERIM, eff 2-1-01, EXPIRED: 7-31-01 New. #7583, eff 11-1-01; ss by #9564, eff 10-19-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3401.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3400.html",
+  "prefLabel": "Ins 3401.09 Conflict of Interest",
+  "priorExpiration": "2001-07-31",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3401.09 Conflict of Interest. No officer or board member or director or contract administrator of a purchasing alliance or members of their households may be employed by, be a consultant for, be a member of the board of directors of, or be affiliated with, or otherwise be a representative of a carrier or other insurer. This provision shall not preclude an officer or board member or director or contract administrator of a purchasing alliance from purchasing health coverage through the alliance.\n\nSource. #7434, INTERIM, eff 2-1-01, EXPIRED: 7-31-01\n\nNew. #7583, eff 11-1-01; ss by #9564, eff 10-19-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3400.html"
+}

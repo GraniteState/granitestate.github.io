@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4201.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "126-S:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4201",
+  "definition": "Definitions",
+  "effectiveDate": "2010-11-01",
+  "historyNote": "#9806, eff 11-1-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4201.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html",
+  "prefLabel": "Ins 4201.02 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4201.02 Definitions. For the purposes of this chapter:\n\n(a) \"Agent\" means a person engaged under contractual agreement with the department for the performance of services.\n\n(b) \"Commissioner\" means the New Hampshire insurance department commissioner.\n\n(c) \"Community health centers\" means non-profit community based providers of comprehensive primary and preventive healthcare services to the state's uninsured and Medicaid populations regardless of the patient's ability to pay, and are governed by boards of directors that are at least 51 percent composed of health center patients, and federally qualified community health centers as defined by section 330 of the Federal Public Health Service Act, 42 U.S.C. section 254b.\n\n(d) \"Data\" means factual information that can be used as a basis for measuring or calculating.\n\n(e) \"Database\" means a collection of data organized especially for search and retrieval.\n\n(f) \"Data set\" means a collection of individual or provider data records.\n\n(g) \"Department\" means the New Hampshire insurance department.\n\n(h) \"DHHS\" means the New Hampshire department of health and human services.\n\n(i) “Encounter” means all healthcare services delivered each day to a patient. Each day that services are delivered shall constitute a separate encounter.\n\n(j) \"Healthcare provider\" means physicians and all other entities practicing or providing healthcare services in the state of New Hampshire, including, but not limited to:\n\n(1) Nurses;\n\n(2) Podiatrists;\n\n(3) Optometrists;\n\n(4) Pharmacists;\n\n(5) Chiropractors;\n\n(6) Physical therapists;\n\n(7) Dentists;\n\n(8) Psychologists;\n\n(9) Licensed clinical social workers;\n\n(10) Marriage and family therapists;\n\n(11) Professional counselors;\n\n(12) Physicians' assistants;\n\n(13) Home healthcare; and\n\n(14) Laboratories.\n\n(k) \"Hospital owned or controlled physician practices\" means all physician practices that are owned or controlled by a hospital or a financial intermediary of a hospital.\n\n(l) \"Hospital owned or controlled healthcare providers\" means all healthcare providers that are owned or controlled by a hospital or a financial intermediary of a hospital.\n\n(m) \"Licensed healthcare providers\" means providers as defined by RSA 151-C:2 XXX, that are employed or legally controlled by a hospital with the exception of long-term care facilities.\n\n(n) \"Licensed hospitals\" means hospitals as defined in RSA 151-C:2, XX.\n\n(o) \"Patient\" means any person who receives healthcare services.\n\n(p) \"Patient encounter data\" means data on patients and the healthcare services received by patients at a unique encounter for healthcare services.\n\n(q) “Uninsured patient encounter data” means encounter data for patients who have not provided evidence of insurance.\n\nSource. #9806, eff 11-1-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html"
+}

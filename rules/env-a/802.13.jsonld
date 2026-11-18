@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.13",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Compliance Stack Testing for Emissions of Nitrogen Oxides (NOx) or Carbon Monoxide",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Compliance Stack Testing for Emissions of Nitrogen Oxides (NOx) or Carbon Monoxide (CO)",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.13 Compliance Stack Testing for Emissions of Nitrogen Oxides (NOx) or Carbon Monoxide (CO)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.13 Compliance Stack Testing for Emissions of Nitrogen Oxides (NOx) or Carbon Monoxide (CO). An owner or operator of a source required to conduct compliance stack testing for either NOx or CO shall simultaneously conduct compliance stack testing for both NOx and CO.\n\nSource. #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

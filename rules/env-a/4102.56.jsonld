@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4102.56",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Electrical Cleaner",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4102",
+  "definition": "Electrical cleaner",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4102.56",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4102.56 Electrical cleaner",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4102.56 “Electrical cleaner” means a product labeled to remove heavy soils such as grease, grime, or oil from electrical equipment, including but not limited to electric motors, armatures, relays, electric panels, or generators. The term does not include general purpose cleaner, general purpose degreaser, dusting aid, electronic cleaner, energized electrical cleaner, pressurized gas duster, engine degreaser, anti-static product, or products designed to clean the casings or housings of electrical equipment.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

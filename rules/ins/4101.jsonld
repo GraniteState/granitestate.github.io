@@ -1,0 +1,84 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4101",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "altLabel": "REQUIREMENTS GOVERNING ALL ACCIDENT AND HEALTH INSURANCE RATE SUBMISSIONS",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "404-G:6",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:16",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:24",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-H:5",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-A:31",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-B:21",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4000",
+  "definition": "Requirements GOVERNING ALL Accident and Health Insurance Rate Submissions",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/4101.01",
+    "https://granitestate.github.io/rules/ins/4101.02",
+    "https://granitestate.github.io/rules/ins/4101.03",
+    "https://granitestate.github.io/rules/ins/4101.04",
+    "https://granitestate.github.io/rules/ins/4101.05",
+    "https://granitestate.github.io/rules/ins/4101.06"
+  ],
+  "notation": "Ins 4101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html",
+  "prefLabel": "Ins 4101 Requirements GOVERNING ALL Accident and Health Insurance Rate Submissions",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 4101 Requirements GOVERNING ALL Accident and Health Insurance Rate Submissions",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html"
+}

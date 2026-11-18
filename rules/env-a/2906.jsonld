@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2906",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:5",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2900",
+  "definition": "ALLOWANCE TRACKING SYSTEM (ATS)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/2906.01",
+    "https://granitestate.github.io/rules/env-a/2906.02",
+    "https://granitestate.github.io/rules/env-a/2906.03",
+    "https://granitestate.github.io/rules/env-a/2906.04",
+    "https://granitestate.github.io/rules/env-a/2906.05"
+  ],
+  "notation": "Env-A 2906",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html",
+  "prefLabel": "Env-A 2906 ALLOWANCE TRACKING SYSTEM (ATS)",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 2906 ALLOWANCE TRACKING SYSTEM (ATS)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1604.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1604",
+  "definition": "Maximum Sulfur Content Allowable in Coal",
+  "effectiveDate": "2023-11-18",
+  "historyNote": "#6519-B, eff 5-29-97 (from Env-A 402.02); ss by #8330, eff 4-23-05; ss by #10415, eff 9-24-13 (from Env-A 1606.01); ss by #12694, eff 12-22-18; ss by #13808, eff 11-18-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1604.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1600.html",
+  "prefLabel": "Env-A 1604.01 Maximum Sulfur Content Allowable in Coal",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1604.01 Maximum Sulfur Content Allowable in Coal.\n\n(a) For a coal-burning device placed in operation before April 15, 1970 the sulfur content of coal burned in the device shall not exceed 2.8 pounds per million BTU gross heat content.\n\n(b) For a coal-burning device placed in operation on or after April 15, 1970:\n\n(1) The sulfur content of coal burned in the device shall not exceed 1.5 pounds per million BTU gross heat content; and\n\n(2) The sulfur content of coal burned in the device shall not exceed 1.0 pound per million BTU gross heat content, averaged over any consecutive 3-month period.\n\nSource. #6519-B, eff 5-29-97 (from Env-A 402.02); ss by #8330, eff 4-23-05; ss by #10415, eff 9-24-13 (from Env-A 1606.01); ss by #12694, eff 12-22-18; ss by #13808, eff 11-18-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1600.html"
+}

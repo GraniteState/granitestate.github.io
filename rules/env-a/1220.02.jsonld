@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1220.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1220",
+  "definition": "Compliance Standards for Miscellaneous Industrial Adhesives",
+  "effectiveDate": "2019-10-17",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1220.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html",
+  "prefLabel": "Env-A 1220.02 Compliance Standards for Miscellaneous Industrial Adhesives",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1220.02 Compliance Standards for Miscellaneous Industrial Adhesives.\n\n(a) Except as provided in (d) or (e), below, and Env-A 1220.03, those processes using general or specialty adhesive applications or adhesive primer applications shall control VOC emissions by using adhesives that meet the limits specified in Table 1220-1, below, subject to (b) and (c), below:\n\nTable 1220-1 VOC Content Limits for Adhesive and Adhesive Primer Application Processes\n\nType of Adhesive Application Process | VOC Emission Limit\n\n(g/l) | (lb/gal)\n\nGeneral\n\nReinforced plastic composite | 200 | 1.7\n\nFlexible vinyl | 250 | 2.1\n\nMetal | 30 | 0.3\n\nPorous material (except wood) | 120 | 1.0\n\nRubber | 250 | 2.1\n\nWood | 30 | 0.3\n\nOther substrates | 250 | 2.1\n\nSpecialty\n\nCeramic tile installation | 130 | 1.1\n\nContact bond adhesive | 250 | 2.1\n\nCove base installation | 150 | 1.3\n\nFloor covering installation (Indoor) | 150 | 1.3\n\nFloor covering installation (Outdoor) | 250 | 2.1\n\nPerimeter-bonded sheet vinyl flooring installation | 660 | 5.5\n\nMetal to urethane/rubber molding or casting | 850 | 7.1\n\nMotor vehicle adhesive | 250 | 2.1\n\nMotor vehicle weatherstrip adhesive | 750 | 6.3\n\nMultipurpose construction | 200 | 1.7\n\nPlastic solvent welding (ABS) | 400 | 3.3\n\nPlastic solvent welding (Except ABS) | 500 | 4.2\n\nSheet rubber lining installation | 850 | 7.1\n\nSingle-ply roof membrane installation/repair (except EPDM) | 250 | 2.1\n\nStructural glazing | 100 | 0.8\n\nThin metal laminating | 780 | 6.5\n\nTire repair | 100 | 0.8\n\nWaterproof resorcinol glue | 170 | 1.4\n\nAdhesive Primer\n\nMotor vehicle glass bonding primer | 900 | 7.5\n\nPlastic solvent welding adhesive primer | 650 | 5.4\n\nSingle-ply roof membrane adhesive primer | 250 | 2.1\n\nOther adhesive primer | 250 | 2.1\n\n(b) “VOC emission limit” means the mass of VOC per volume of adhesive or adhesive primer, excluding water and exempt compounds, as applied.\n\n(c) If an adhesive is used to bond dissimilar substrates together, then the applicable substrate category with the least stringent VOC emission limit shall be the limit for such application.\n\n(d) To meet the limits in Table 1220-1, above, a source may combine low-VOC content adhesives, the application methods specified in Env-A 1220.04, and add-on control equipment.\n\n(e) As an alternative to the VOC emission limits Table 1220-1, above, a source shall achieve an overall control efficiency of at least 85%.\n\nSource. (See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html"
+}

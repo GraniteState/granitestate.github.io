@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/204.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:10",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:33",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-10",
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31",
+    "https://granitestate.github.io/rsa/541-A/541-A-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/204",
+  "definition": "Staff of Department",
+  "effectiveDate": "2020-07-27",
+  "historyNote": "(See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 204.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html",
+  "prefLabel": "Ins 204.05 Staff of Department",
+  "recordType": "rule-section",
+  "ruleText": "Ins 204.05 Staff of Department.\n\n(a) Staff members of the department shall only participate in a proceeding as witnesses, technical assistants, technical advisors, or as otherwise provided in this chapter.\n\n(b) The staff advocate shall be that person authorized to represent the department in an adjudicative proceeding.\n\nSource. (See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html"
+}

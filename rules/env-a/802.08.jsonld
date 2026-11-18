@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/802.08",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/802",
+  "definition": "Calibration Data for Stack Sampling Equipment",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 802.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 802.08 Calibration Data for Stack Sampling Equipment",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 802.08 Calibration Data for Stack Sampling Equipment.\n\n(a) The owner or operator shall provide calibration data for any sampling equipment used during the compliance stack test or RATA to the department upon request during the day of testing.\n\n(b) The owner or operator shall provide copies of all calibration and field test data taken during the testing, including failed runs, to the department upon request.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

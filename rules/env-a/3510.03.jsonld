@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3510.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3510",
+  "definition": "Small, Remote HMIWI Maintenance",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3510.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3510.03 Small, Remote HMIWI Maintenance",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3510.03 Small, Remote HMIWI Maintenance.\n\n(a) Maintenance of small, remote HMIWI units shall include the following, as applicable:\n\n(1) Cleaning pilot flame sensors;\n\n(2) Adjusting primary and secondary chamber combustion air flow;\n\n(3) Lubrication of hinges and door latches;\n\n(4) Repair or replacement of dampers, fans, and blowers;\n\n(5) Repair or replacement of HMIWI door gaskets;\n\n(6) Repair or replacement of motors;\n\n(7) Cleaning and repair or replacement of the primary chamber refractory lining;\n\n(8) Repair of incinerator shell for corrosion and/or hot spots;\n\n(9) Cleaning of secondary/tertiary chamber and stack;\n\n(10) Repair or replacement of mechanical loaders;\n\n(11) Repair or sealing of waste bed grates;\n\n(12) Repair or replacement or recalibration of air pollution control devices;\n\n(13) Repair or replacement of waste heat boiler systems;\n\n(14) Repair or replacement of bypass stack components;\n\n(15) Calibration of thermocouples, sorbent feed systems and any other monitoring equipment; and\n\n(16) Any other actions needed to ensure that the equipment is in good operating condition.\n\n(b) All necessary repairs shall be completed within 10 operating days following an equipment inspection unless the owner or operator applies for a waiver in accordance with Env-A 205 and obtains written approval from the department establishing an alternative compliance date whereby all necessary repairs of the designated facility will be completed.\n\nSource. #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

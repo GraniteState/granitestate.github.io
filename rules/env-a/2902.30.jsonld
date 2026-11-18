@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2902.30",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Overdraft Account",
+  "authority": [
+    {
+      "citation": "125-O:6",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2902",
+  "definition": "Overdraft account",
+  "effectiveDate": "2020-02-25",
+  "historyNote": "#10002, eff 10-1-11 (from Env-A 2903.32); ss by #12995, eff 2-25-20;",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2902.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html",
+  "prefLabel": "Env-A 2902.30 Overdraft account",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2902.30 “Overdraft account” means the ATS account established by the ATS administrator for each facility where there are 2 or more affected sources, where allowances can be held by a group of affected sources.\n\nSource. #10002, eff 10-1-11 (from Env-A 2903.32); ss by #12995, eff 2-25-20;",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html"
+}

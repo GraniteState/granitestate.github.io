@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2904.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:8",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2904",
+  "definition": "Allowance Allocation Methodology",
+  "effectiveDate": "2020-02-25",
+  "historyNote": "#10002, eff 10-1-11 (from Env-A 2906.05); ss by #12995, eff 2-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2904.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html",
+  "prefLabel": "Env-A 2904.05 Allowance Allocation Methodology",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2904.05 Allowance Allocation Methodology.\n\n(a) By April 30 of each year, the department shall calculate allowance allocations for each affected source for the following year in accordance with (c) through (e), below.\n\n(b) The department shall submit the allowance allocations for each year to the ATS administrator.\n\n(c) The following shall apply to the calculations of the number of allowances to be allocated to each affected source specified in (d) and (e), below:\n\n(1) “EBNOx” means the NOx emissions budget determined as specified in Env-A 2904.02;\n\n(2) “EBSO2” means the SO2 emissions budget determined as specified in Env-A 2904.01;\n\n(3) “EO(y-2)” means an affected source’s net electrical output in MWh for the year that was 2 years prior to y;\n\n(4) “EO(y-3)” means an affected source’s net electrical output in MWh for the year that was 3 years prior to y;\n\n(5) “UAA(y)” means an affected source’s allocation for year y, adjusted so that the total allocation does not exceed the budget; and\n\n(6) “UUA(y)” means an affected source’s unadjusted allocation for year y.\n\n(d) The adjusted SO2 allocation for each individual affected source shall be calculated as follows:\n\n(1) The affected source’s unadjusted allocation for the current year shall be determined by multiplying the average net electrical output of the affected source in MWh for the years 2 and 3 years prior to the current year by 3.0 lbs per MWh, and dividing the result by 2,000 lb/ton, as shown in the formula below:\n\nUUA(y) = [(EO(y-2) + EO(y-3))/2] x 3.0 lbs/MWh\n\n2,000 lb/ton\n\n(2) The affected source’s adjusted allocation for the current year shall be determined by multiplying the UUA(y) calculated pursuant to (1), above, by the SO2 emissions budget and dividing the result by the sum of all affected sources’ unadjusted allocations, as shown in the formula below:\n\nUAA(y) = UUA(y) x EBSO2\n\nsum of all affected sources’ UUA(y)\n\n(e) The adjusted NOx allocation for each individual affected source shall be calculated as follows:\n\n(1) The affected source’s unadjusted allocation for the current year shall be determined by multiplying the average net electrical output of the affected source in MWh for the years 2 and 3 years prior to the current year by 1.5 lbs per MWh, and dividing the result by 2,000 lb/ton, as shown in the formula below:\n\nUUA(y) = [(EO(y-2) + EO(y-3))/2] x 1.5 lbs/MWh\n\n2,000 lb/ton\n\n(2) The affected source’s adjusted allocation for the current year shall be determined by multiplying the UUA(y) calculated pursuant to (1), above, by the NOx emissions budget and dividing the result by the sum of all affected sources’ unadjusted allocations, as shown in the formula below:\n\nUAA(y) = UUA(y) x EBNOx\n\nsum of all affected sources’ UUA(y)\n\n(f) Using the best available data as reported by the affected source to the Energy Information Administration and to the department no later than April 15 of each year, the department shall determine the net electric output for the affected source.\n\nSource. #10002, eff 10-1-11 (from Env-A 2906.05); ss by #12995, eff 2-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html"
+}

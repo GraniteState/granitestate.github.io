@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/102.53",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(k)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/102",
+  "definition": "Continuous Emission Monitoring System (CEMS)",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#6057-A, eff 6-30-95; ss by #7845, eff 3-8-03; renumbered by #8256 (from Env-A 101.84), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.53), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.54) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 102.53",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 102.53 Continuous Emission Monitoring System (CEMS)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 102.53 “Continuous Emission Monitoring System (CEMS)” means “continuous emission monitoring system” as defined in section 402(7) of the Act, namely “the equipment as required by section 412 [monitoring, reporting and recordkeeping], used to sample, analyze, measure, and provide on a continuous basis a permanent record of emissions and flow (expressed in pounds per million British thermal units (lbs/mmBtu), pounds per hour (lbs/hr) or such other form as the Administrator may prescribe by regulations under section 412).”\n\nSource. #6057-A, eff 6-30-95; ss by #7845, eff 3-8-03; renumbered by #8256 (from Env-A 101.84), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.53), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.54) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

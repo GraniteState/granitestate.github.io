@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1812.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E:3",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E",
+    "https://granitestate.github.io/rsa/141-E/141-E-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1812",
+  "definition": "ACM Removal Procedures",
+  "effectiveDate": "2024-11-01",
+  "expirationDate": "2034-11-01",
+  "historyNote": "(See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1812.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1812.01 ACM Removal Procedures",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1812.01 ACM Removal Procedures.\n\n(a) Except for an ordered demolition, as provided in Env-A 1809.01(d), the procedures specified in this section shall apply to all removal of ACM.\n\n(b) The owner or operator shall take the following actions to prevent the release of fibers until properly packaged in accordance with Env-A 1812.02(a):\n\n(1) Adequately wet all ACM with amended water before removal; and\n\n(2) Maintain the ACM wet during and after removal.\n\n(c) The owner or operator shall carefully lower all ACM to the ground or floor, not drop, throw, or slide the ACM.\n\n(d) The owner or operator shall remove structural members not previously stripped of ACM as follows:\n\n(1) Intact or in large sections whenever possible; and\n\n(2) By carefully lowering, not dropping, throwing, or sliding, them to the floor.\n\n(e) The owner or operator shall remove ACM that is not associated with structural members in small sections and by not allowing the ACM to accumulate on the floor.\n\n(f) Following removal, the owner or operator shall perform cleanup procedures using repeated HEPA vacuuming and wet cleaning techniques until no visible residue is observed in the work area.\n\n(g) Pursuant to 40 CFR 61.145(c)(7), if the temperature at the point of wetting is below 0 degrees Celsius or 32 degrees Fahrenheit, then the owner or operator may suspend wetting and keep records as specified in Env-A 1805.02(a).\n\nSource. (See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

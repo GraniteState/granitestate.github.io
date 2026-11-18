@@ -1,0 +1,68 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/103.12",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Emergency Motor Vehicle",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/103",
+  "definition": "Emergency motor vehicle",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#6343-A, eff 9-28-96; renumbered by #8256 (from Env-A 101.104), (see Revision Note #1 at chapter heading; renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.67), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.68) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 103.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 103.12 Emergency motor vehicle",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 103.12 “Emergency motor vehicle” means any motor vehicle used by personnel of a fire, police, ambulance, or other emergency response unit, or public utility emergency response unit, in the performance or maintenance of their duties to protect public health, safety, and welfare. This term includes the following types of motor vehicles:\n\n(a) Those under government control for the removal of snow;\n\n(b) Those used for towing or servicing of other emergency motor vehicles; and\n\n(c) Those used to respond to threats to public health, safety and welfare.\n\nSource. #6343-A, eff 9-28-96; renumbered by #8256 (from Env-A 101.104), (see Revision Note #1 at chapter heading; renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.67), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.68) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

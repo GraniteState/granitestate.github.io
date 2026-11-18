@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4106.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4106",
+  "definition": "Additional Labeling Requirements for Aerosol Adhesives, Adhesive Removers, Contact Adhesives, Electronic Cleaners, Electrical Cleaners, and Energized Electrical",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4106.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4106.03 Additional Labeling Requirements for Aerosol Adhesives, Adhesive Removers, Contact Adhesives, Electronic Cleaners, Electrical Cleaners, and Energized Electrical",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4106.03 Additional Labeling Requirements for Aerosol Adhesives, Adhesive Removers, Contact Adhesives, Electronic Cleaners, Electrical Cleaners, and Energized Electrical Cleaners.\n\n(a) In addition to the requirements specified in Env-A 4106.01, Env-A 4106.02, and Env-A 4107, each aerosol adhesive, adhesive remover, contact adhesive, electronic cleaner, electrical cleaner, and energized electrical cleaner product subject to this chapter shall clearly display the following information on the container of each product manufactured on or after the applicable effective date for the category specified in table 4105-1:\n\n(1) The product category as specified in table 4105-1 or an abbreviation of the category;\n\n(2) The applicable VOC standard for the product that is specified in table 4105-1, expressed as a percentage by weight; and\n\n(3) If the product is classified as a special purpose spray adhesive, the applicable substrate, application, or an abbreviation of the substrate or application that qualifies the product as special purpose.\n\n(b) If the manufacturer or responsible party uses an abbreviation as allowed by (a)(1) or (a)(3), above, an explanation of the abbreviation shall be filed with the department before the abbreviation is used.\n\n(c) The date code information required by Env-A 4106.01 shall be displayed on the product container such that it is readily observable without removing or disassembling any portion of the product container or packaging including, but not limited to, information displayed on the bottom of a container as long as it is clearly legible without removing any product packaging.\n\n(d) No person who sells, supplies, offers for sale, or manufactures consumer products for use in New Hampshire shall remove, alter, conceal, or deface the information required in (a), above, prior to final sale of the product.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

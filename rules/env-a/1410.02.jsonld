@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1410.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:4",
+      "source": "https://granitestate.github.io/rsa/125-I/125-I-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-I/125-I-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1410",
+  "definition": "Calculation of Annual Ambient Air Limits",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96 New. #6468-B, eff 3-5-97; amd by #6739-B, eff 5-8-98; ss and moved by #8278, eff 2-4-05 (from Env-A 1411.02); ss by #9601, eff 11-25-09; ss by #10550, eff 4-4-14; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1410.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1410.02 Calculation of Annual Ambient Air Limits",
+  "priorExpiration": "1996-12-22",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1410.02 Calculation of Annual Ambient Air Limits.\n\n(a) “OEL” means the occupational exposure limit for the RTAP.\n\n(b) “SF” means the safety factor as determined by Env-A 1408.01.\n\n(c) To calculate the annual AAL for an RTAP, the occupational exposure limit shall be divided by the product of 4.2 and the safety factor, as in the formula below:\n\nAAL(Annual) = OEL / (SF x 4.2)\n\nSource. #6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96\n\nNew. #6468-B, eff 3-5-97; amd by #6739-B, eff 5-8-98; ss and moved by #8278, eff 2-4-05 (from Env-A 1411.02); ss by #9601, eff 11-25-09; ss by #10550, eff 4-4-14; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

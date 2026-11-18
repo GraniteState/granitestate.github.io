@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2910.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Automatic Deduction",
+  "authority": [
+    {
+      "citation": "125-O:6",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O:8",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2910",
+  "definition": "Automatic Deduction If emissions from an affected source exceed allowances held in the affected source’s compliance account or overdraft account for the year as",
+  "effectiveDate": "2020-02-25",
+  "historyNote": "#7888, eff 5-13-03; ss by #9908, INTERIM, eff 5-13-11, EXPIRES: 11-9-11; ss by #10002, eff 10-1-11 (formerly Env-A 2914.01); ss by #12995, eff 2-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2910.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html",
+  "prefLabel": "Env-A 2910.01 Automatic Deduction If emissions from an affected source exceed allowances held in the affected source’s compliance account or overdraft account for the year as",
+  "priorExpiration": "2011-11-09",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2910.01 Automatic Deduction If emissions from an affected source exceed allowances held in the affected source’s compliance account or overdraft account for the year as of the allowance transfer deadline, the ATS administrator shall deduct allowances from the affected source’s compliance account or overdraft account for the next year at a rate of 3 allowances for every one ton of excess emissions.\n\nSource. #7888, eff 5-13-03; ss by #9908, INTERIM, eff 5-13-11, EXPIRES: 11-9-11; ss by #10002, eff 10-1-11 (formerly Env-A 2914.01); ss by #12995, eff 2-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html"
+}

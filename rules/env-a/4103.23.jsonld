@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.23",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "General Purpose Adhesive",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "General purpose adhesive",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.23 General purpose adhesive",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.23 “General purpose adhesive” means any non-aerosol adhesive designed for use on a variety of substrates, excluding the following:\n\n(a) Contact adhesives;\n\n(b) Construction, panel, and floor covering adhesives;\n\n(c) Adhesives designed exclusively for application on one specific category of substrates that are composed of similar materials, such as different types of metals, paper products, ceramics, plastics, rubbers, or vinyls; or\n\n(d) Adhesives designed exclusively for use on one specific category of articles that may be composed of different materials but perform a specific function, such as gaskets, automotive trim, weather-stripping, or carpets.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

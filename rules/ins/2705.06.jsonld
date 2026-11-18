@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2705.06",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7-b",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-7-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-7-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2705",
+  "definition": "Standards for Electronic Prior Authorization Processes",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2705.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2705.06 Standards for Electronic Prior Authorization Processes",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2705.06 Standards for Electronic Prior Authorization Processes.\n\n(a) The information collected by health insurers, pharmacy benefits managers, and utilization review entities via ePA, telephonically, or through any other manner of transmission shall be the same as the information collected via the uniform prior authorization forms except as specified in (b) below, or in accordance with a waiver granted under Ins 2705.09 below.\n\n(b) Prescription drug prior authorization procedures conducted through ePA, telephonically, or through any other manner of transmission shall not require the prescribing provider to provide more information than is required by the uniform prior authorization forms, except that health insurers, pharmacy benefits managers, and utilization review entities may:\n\n(1) Ask for the same information in a different manner via ePA, including converting questions on the uniform prior authorization forms that require free-form text into one or more questions with multiple choice or drop-down options;\n\n(2) Ask for the following additional information via ePA:\n\na. Patient address; and\n\nb. Patient gender;\n\n(3) Eliminate Section A “Destination of Request” in ePA; and\n\n(4) Ask for less information via ePA.\n\n(c) Upon review of an ePA request and consistent with Ins 2705.05, a health insurer, pharmacy benefits manager, or utilization review entity may request additional clinical information or clarification necessary to render a decision on the ePA request. Such additional information may only be requested when it is required by the carrier clinical review criteria.\n\n(d) ePA processes shall be completed via secure electronic transactions via secure web portals.\n\n(e) ePA processes shall comply with all applicable state and federal laws, including but not limited to the Health Insurance Portability and Accountability Act of 1996.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

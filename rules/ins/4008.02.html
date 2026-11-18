@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4008.02 Technical Specifications and Format for File Transfer</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4008.02.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4008.html">Ins 4008</a> / Ins 4008.02</nav>
+  <header>
+    <h1 id="section">Ins 4008.02 Technical Specifications and Format for File Transfer</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4008.02.html">Ins 4008.02</a> Technical Specifications and Format for File Transfer.
+
+<span id="a">(a)</span> Carriers, third-party administrators, and pharmacy benefit managers shall use the values in the data tables contained in <a class="cite-internal" href="/rules/ins/4009.html">Ins 4009</a> or the corresponding externally maintained code tables referenced therein, and:
+
+<span id="1">(1)</span> Carriers, third-party administrators, and pharmacy benefit managers shall submit tables and descriptions for all non-conforming and plan-specific codes appearing in the submission; and
+
+<span id="2">(2)</span> The department and DHHS or its designee shall reject files with non-conforming and plan-specific codes if explanatory information is not provided in advance of the data submission.
+
+<span id="b">(b)</span> Carriers, third-party administrators, and pharmacy benefit managers shall report adjustment records with the appropriate positive or negative fields with the medical, pharmacy, and dental file submissions. Negative values shall contain the negative sign before the value. No sign shall appear before a positive value.
+
+<span id="c">(c)</span> All service lines associated with fully-processed claims that have gone through an accounts payable run and been booked to the health plan ledger shall be included on medical, pharmacy, and dental claims data submissions. Do not include service lines:
+
+(1) Rejected due to failed edits;
+
+(2) That are duplicates;
+
+<span id="3">(3)</span> That are from an inactive member; or
+
+<span id="4">(4)</span> Claims that are voided for point of sale adjustments.
+
+<span id="d">(d)</span> When more than one version of a fully-processed claim service line is submitted, each version of a claim service line shall be enumerated sequentially with a higher version number (MC005A/DC207/PC902) so that the latest version of that service line is the record with the highest version number (MC005A/DC207/PC9) and the same claim number + line counter. There shall be no leading zeros on the version numbers. Where a version number is not available, and a new claim ID is used, provide the former claim number in data element MC211. Similar requirements shall apply to the pharmacy claim file.
+
+<span id="e">(e)</span> Subsequent incremental claims submissions shall include all reversal and adjustment or restated versions of previously submitted claim service lines and all new, fully-processed service lines associated with the claim, provided that they have paid dates in the reporting period, and:
+
+(1) Each version of a claim service line shall be enumerated sequentially with a higher line version number (MC005A/DC207/PC902); and
+
+(2) Reversal versions of a claim service line shall be indicated by a claim status code = &#x27;22&#x27; (Field MC038/DC031/PC025).
+
+<span id="f">(f)</span> Capitated service claims, sometimes known as encounter claims, for capitated services shall be reported with all medical and pharmacy file submissions.
+
+<span id="g">(g)</span> If a claim contains service lines that do not contain a payment because their costs are covered on another line of the claim line, such as under a global payment arrangement, those line(s) shall be:
+
+(1) Included in the data submission; and
+
+(2) Clearly indicated by a claim status code = ‘04’ (Field MC038/DC031/PC025).
+
+<span id="h">(h)</span> Member eligibility data suppliers shall provide a data set that contains information on every covered plan member, regardless of whether the member utilized services during the reporting period. One record per member per month per plan shall be required. For example, if a member is covered as both a subscriber and a dependent on two different policies during the same month, 2 records shall be submitted. If a member has 2 contract numbers for 2 different coverage types, 2 member eligibility records shall be submitted. For each product type (ME018, ME019 and ME020), a separate eligibility record shall be submitted.
+
+<span id="i">(i)</span> The Provider ID (MP003) is the unique identifier for a single provider. The Provider ID should only occur once in the table. However, in the event the same provider delivered, and was reimbursed for, services rendered from two or more different physical locations, then the provider data file shall contain two separate records for that same provider reflecting each of those physical locations. One record should be provided for each unique physical location.
+
+<span id="j">(j)</span> Carriers, third-party administrators, and pharmacy benefit managers shall use the File Submission “Preprocessor” provided by the DHHS and their designee. The preprocessor hashes or de-identifies member and subscriber information before the data leaves the carrier’s, pharmacy benefit managers, and third-party administrator’s system.
+
+<span id="k">(k)</span> Carriers, third-party administrators, and pharmacy benefit managers shall report the minimum value for fully insured and self-insured products to support the department’s supplemental reporting reviews. The minimum value is defined as the percentage of the total allowed costs of benefits provided under a group health plan or health insurance coverage. The minimum value measure is outlined in Section 1302 (d)(2)I of the Affordable Care Act. Plans may use the HHS MV calculator available at http://www.cms.gov/cciio/resources/regulations-and-guidance/index.html; may apply a safe harbor developed by HHS and the IRS; or may, for nonstandard plans, provide an actuarial certification from a member of the American Academy of Actuaries.
+
+<span id="l">(l)</span> Each member eligibility file and each medical, pharmacy, and dental claims file submission shall contain a header record and a trailer record. The header record is the first record of each separate file submission and the trailer record is the last.
+
+<span id="m">(m)</span> All carriers, third-party administrators, and pharmacy benefit managers submitting APCD files shall be provided with code in the form of a pre-processor, which generates the files in the required format and encrypts them prior to submission. The pre-processor code shall be provided to all carriers, third-party administrators, and pharmacy benefit managers as a download through a password protected portal.
+
+<span id="n">(n)</span> Carriers, third-party administrators, and pharmacy benefit managers may submit APCD files using the following methods:
+
+(1) Secure File Transport Protocol (SFTP) is the preferred method for submitting files. This method requires logging on to the appropriate SFTP site and sending or receiving files using the SFTP client server. This protocol assumes that it is run over a secure channel, that the server has already authenticated the client, and that the identity of the client user is available to the protocol; or
+
+(2) The web upload method allows the sending and receiving of files and messages without the installation of additional software. This method requires internet access, a username, and password. It is not the preferred method due to limitations on the size of the files that can be received, but may be utilized if it is the only method available to the healthcare claims processor.
+
+<span id="o">(o)</span> The member eligibility file, medical claims file, pharmacy claims file, dental claims file, and provider file shall be submitted as separate ASCII files, with variable field lengths and pipe delimited, and shall comply with the following standards:
+
+(1) Each record shall be terminated with a carriage return and line feed (ASCII 13, ASCII 10);
+
+(2) All fields shall be filled where applicable;
+
+(3) Text and date fields shall be left blank when not applicable or if a value is not available;
+
+(4) “Blank” means do not supply any value at all between consecutive field delimiters or last field delimiter and line terminator. Numeric fields without a value shall be filled with a single zero;
+
+<span id="5">(5)</span> Only one record per row shall be submitted. No single line item of data shall contain carriage return or line feed characters;
+
+<span id="6">(6)</span> Text fields shall not be padded with leading or trailing spaces or tabs;
+
+<span id="7">(7)</span> Numeric fields:
+
+a. Shall not be padded with leading zeroes;
+
+b. The integer portion of numeric fields shall not be padded with leading zeros;
+
+c. The decimal portion of numeric fields, if required, shall be padded with trailing zeros up to the number of decimal places indicated; and
+
+d. Positive values are assumed and need not be indicated as such. Negative values shall be indicated with a minus sign and shall appear in the left-most position of all numeric fields; and
+
+<span id="8">(8)</span> Date fields:
+
+a. Shall be CCYYMMDD, when a value is provided, unless otherwise indicated;
+
+b. Shall not be padded with leading or trailing spaces or tabs; and
+
+c. Shall be left blank when not applicable or if a value is not available.
+
+<span id="p">(p)</span> Carriers, third-party administrators, and pharmacy benefit managers shall use the federal CARC/RARC codes when submitting medical or dental claim denial reason codes (MC220 &amp; DC220), and either NCPDP or CARC/RARC codes with submitting pharmacy claim denial reason code (PC217). Internal denial reason codes shall not be accepted. Carriers, third-party administrators, and pharmacy benefit managers shall submit a crosswalk of internal codes to NHID upon request.
+
+<span id="q">(q)</span> When reporting Drug Code (MC075 &amp; PC026) carriers, third-party administrators, and pharmacy benefit managers shall use the 11 digit NDC with no dashes. Carriers, third-party administrators, and pharmacy benefit managers shall report the 11 digit NDC anytime a HCPCS J code is reported in the Medical Claims.
+
+Source. #10877, eff 7-10-15; ss by #13136 eff 11-24-20(formerly <a class="cite-internal" href="/rules/ins/4009.03.html">Ins 4009.03</a>); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly <a class="cite-internal" href="/rules/ins/4009.02.html">Ins 4009.02</a>)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4008.02.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,68 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4501",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "altLabel": "ANNUAL FINANCIAL REPORTING",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "400-A:36-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-A:31",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-B:21",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-D:17",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/400-A/400-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4500",
+  "definition": "Annual Financial Reporting",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/4501.01",
+    "https://granitestate.github.io/rules/ins/4501.02",
+    "https://granitestate.github.io/rules/ins/4501.03",
+    "https://granitestate.github.io/rules/ins/4501.04",
+    "https://granitestate.github.io/rules/ins/4501.05",
+    "https://granitestate.github.io/rules/ins/4501.06",
+    "https://granitestate.github.io/rules/ins/4501.07",
+    "https://granitestate.github.io/rules/ins/4501.08",
+    "https://granitestate.github.io/rules/ins/4501.09",
+    "https://granitestate.github.io/rules/ins/4501.10",
+    "https://granitestate.github.io/rules/ins/4501.11",
+    "https://granitestate.github.io/rules/ins/4501.12",
+    "https://granitestate.github.io/rules/ins/4501.13",
+    "https://granitestate.github.io/rules/ins/4501.14",
+    "https://granitestate.github.io/rules/ins/4501.15",
+    "https://granitestate.github.io/rules/ins/4501.16",
+    "https://granitestate.github.io/rules/ins/4501.17",
+    "https://granitestate.github.io/rules/ins/4501.18"
+  ],
+  "notation": "Ins 4501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html",
+  "prefLabel": "Ins 4501 Annual Financial Reporting",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 4501 Annual Financial Reporting",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html"
+}

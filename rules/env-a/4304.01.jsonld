@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4304.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4304",
+  "definition": "Operating Practices for Existing OSWI Units",
+  "effectiveDate": "2025-05-20",
+  "expirationDate": "2035-05-20",
+  "historyNote": "#8787, eff 1-5-07; ss by #10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4304.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html",
+  "prefLabel": "Env-A 4304.01 Operating Practices for Existing OSWI Units",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4304.01 Operating Practices for Existing OSWI Units. The owner or operator of an existing OSWI unit using a wet scrubber to control emissions shall comply with the operating practices specified in Table 4304-1, below:\n\nTable 4304-1: Operating Practices for Existing OSWI Units\n\nOperating Parameters | Operating Limits | Continuous Monitoring Recording Times\n\nCharge rate | Maximum charge rate | Every hour\n\nPressure drop across the wet scrubber, or amperage to the wet scrubber | Minimum pressure drop or amperage | Every 15 minutes\n\nScrubber liquor flow rate | Minimum flow rate | Every 15 minutes\n\nScrubber liquor pH | Minimum pH | Every 15 minutes\n\nSource. #8787, eff 1-5-07; ss by #10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html"
+}

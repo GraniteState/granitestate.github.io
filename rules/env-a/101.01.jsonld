@@ -1,0 +1,67 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/101.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/101",
+  "definition": "Purpose",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#13105, eff 9-25-20 (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 101.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 101.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 101.01 and Env-A 101.03 were adopted in Part Env-A 101 titled “Purpose; Statutory and Federal Definitions Incorporated” which was formerly titled “Definitions.”\n\nDocument #13105 eliminated the reserved number for the former rule Env-A 101.168 defining “sand and gravel sources”. This definition had previously been readopted with amendment and renumbered as Env-A 2802.04 in Document #9793, effective 10-1-10, and the rule number had been reserved. The prior documents containing the definition included:\n\n#1717, effective 2-19-81\n\n#2332, effective 4-29-83\n\n#2938, effective 12-27-84\n\n#5033, effective 12-27-90\n\n#6057-A, effective 6-30-95\n\n#6428-A, effective 1-18-97\n\nThe former Env-A 101.168 had been renumbered during its filing history, including by Document #5033 and Document #6057-A, and renumbered due to rulemaking on other rules in Document #8256. See Revision Note #1 and Revision Note #2.\n\nDocument #13105 also eliminated the reserved number for the former Part Env-A 102 titled “Description of N. H. Air Resources Council and Division”, which had expired 12-27-96 before Document #8256 was effective 1-14-05, as described in Revision Note #1, and the number for Part Env-A 102 was subsequently reserved. The prior filings affecting the former Part Env-A 102 included the following documents:\n\n#1717, eff 2-19-81\n\n#2332, eff 4-29-83\n\n#2938, eff 12-27-84\n\n#5033, eff 12-27-90; EXPIRED: 12-27-96\n\nDocument #13105 repealed Part Env-A 103, titled “Claims of Confidentiality”, which contained the following rules:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

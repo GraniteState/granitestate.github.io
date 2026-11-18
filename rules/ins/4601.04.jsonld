@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4601.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408-D:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4601",
+  "definition": "Antifraud Plans Submitted Upon Request",
+  "effectiveDate": "2020-12-28",
+  "historyNote": "#10024, eff 11-14-11; ss by #13148, eff 12-28-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4601.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4600.html",
+  "prefLabel": "Ins 4601.04 Antifraud Plans Submitted Upon Request",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4601.04 Antifraud Plans Submitted Upon Request.\n\n(a) An insurer, if requested by the department, subject to RSA 408-D:14 and RSA 417:30, shall submit to the commissioner a detailed description of the company's antifraud plan.\n\n(b) Any antifraud plans so submitted shall be subject to review by the commissioner.\n\nSource. #10024, eff 11-14-11; ss by #13148, eff 12-28-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4600.html"
+}

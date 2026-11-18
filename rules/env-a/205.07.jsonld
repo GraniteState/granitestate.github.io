@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/205.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/205",
+  "definition": "Decision on Waiver Requests; Conditions",
+  "effectiveDate": "2022-11-19",
+  "historyNote": "#10187, eff 9-25-12; ss by #13491, eff 11-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 205.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html",
+  "prefLabel": "Env-A 205.07 Decision on Waiver Requests; Conditions",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 205.07 Decision on Waiver Requests; Conditions.\n\n(a) The department shall notify the person requesting the waiver of the decision in writing.\n\n(b) If the waiver request is submitted as part of a permit application and a waiver is granted, the department shall incorporate the waiver into any permit issued.\n\n(c) If the waiver request is denied, the department shall identify the specific reason(s) for the denial.\n\n(d) The department shall include such conditions in a waiver as are necessary to ensure that the criteria of Env-A 205.04 will be met for the duration of the waiver.\n\n(e) The waiver shall specify the date on which it will expire, which shall be no later than one year from the date it is granted.\n\nSource. #10187, eff 9-25-12; ss by #13491, eff 11-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a200.html"
+}

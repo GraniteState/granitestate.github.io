@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1904.06",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1904",
+  "definition": "Procedure to be Followed by Secondary Plan to Calculate Benefits and Pay a Claim",
+  "effectiveDate": "2023-10-12",
+  "historyNote": "#3164, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5656, eff 7-1-93; ss by #7017, INTERIM, eff 7-1-99, EXPIRED: 10-29-99 New. #8402, eff 8-1-05; ss by #10371, eff 8-1-13; ss by #13779, eff 10-12-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1904.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html",
+  "prefLabel": "Ins 1904.06 Procedure to be Followed by Secondary Plan to Calculate Benefits and Pay a Claim",
+  "priorExpiration": "1999-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1904.06 Procedure to be Followed by Secondary Plan to Calculate Benefits and Pay a Claim. In determining the amount to be paid by the secondary plan on a claim, should the plan wish to coordinate benefits, the secondary plan shall calculate the benefits it would have paid on the claim in the absence of other health care coverage and apply that calculated amount to any allowable expense under its plan that is unpaid by the primary plan. The secondary plan may reduce its payment by the amount so that, when combined with the amount paid by the primary plan, the total benefits paid or provided by all plans for the claim do not exceed 100 percent of the total allowable expense for that claim. In addition, the secondary plan shall credit to its plan deductible any amounts it would have credited to its deductible in the absence of other health care coverage.\n\nSource. #3164, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5656, eff 7-1-93; ss by #7017, INTERIM, eff 7-1-99, EXPIRED: 10-29-99\n\nNew. #8402, eff 8-1-05; ss by #10371, eff 8-1-13; ss by #13779, eff 10-12-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html"
+}

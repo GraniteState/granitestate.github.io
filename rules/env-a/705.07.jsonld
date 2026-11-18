@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/705.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/705",
+  "definition": "Payment of Annual Baseline Emission Fees, Specific Sources",
+  "effectiveDate": "2018-10-24",
+  "historyNote": "#12649, eff 10-24-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 705.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a700.html",
+  "prefLabel": "Env-A 705.07 Payment of Annual Baseline Emission Fees, Specific Sources",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 705.07 Payment of Annual Baseline Emission Fees, Specific Sources.\n\n(a) Each source that emits VOCs or RTAPs that are subject to Env-A 1400 from non-combustion processes shall pay a $750 annual baseline emission fee for the first VOC or RTAP emissions unit, and a $500 annual fee for each additional non-combustion VOC or RTAP emissions unit, up to a maximum of 10 non-combustion VOC or RTAP emissions units.\n\n(b) Each Title V landfill that is subject to Env-A 607 or Env-A 609 shall pay a $25,000 annual baseline emission fee.\n\n(c) Each electric generating unit (EGU) that is capable of generating between 10 and 25 megawatts (MW) electrical power, including municipal waste combustors that are subject to Env-A 3300, but excluding stand-alone simple cycle gas turbines, shall pay a $20,000 annual baseline emission fee.\n\n(d) Each non-nuclear EGU that is capable of generating greater than or equal to 25 MW electrical output shall pay a $75,000 annual baseline emission fee.\n\n(e) Each Title V source not included in (a) through (d), above, shall pay an annual baseline emission fee of $1,500.\n\nSource. #12649, eff 10-24-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a700.html"
+}

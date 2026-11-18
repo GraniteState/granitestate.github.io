@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3505.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3505",
+  "definition": "Minimum Value",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3505.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3505.03 Minimum Value",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3505.03 Minimum Value. Basic reserves may not be less than the tabular cost of insurance for the balance of the policy year, if mean reserves are used. Basic reserves may not be less than the tabular cost of insurance for the balance of the current modal period or to the paid-to-date, if later, but not beyond the next policy anniversary, if mid-terminal reserves are used. The tabular cost of insurance shall use the same valuation mortality table and interest rates as that used for the calculation of the segmented reserves. However, if select mortality factors are used, they shall be the ten-year select factors incorporated into the 1980 amendments of the NAIC Standard Valuation Law. In no case may total reserves (including basic reserves, deficiency reserves and any reserves held for supplemental benefits that would expire upon contract termination) be less than the amount that the policyowner would receive (including the cash surrender value of the supplemental benefits, if any, referred to above), exclusive of any deduction for policy loans, upon termination of the policy.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

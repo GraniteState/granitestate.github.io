@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4008.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4008",
+  "definition": "Data Quality Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136, eff 11-24-20 (formerly Ins 4009.04); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4008.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4008.03 Data Quality Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4008.03 Data Quality Requirements.\n\n(a) A validation process shall be employed to ensure that the format and content of the submitted files are valid and complete. The validation process is primarily composed of three groups of audits, field level audits, quality audits, and post data consolidation reasonableness, longitudinal, and relational audits, as follows:\n\n(1) All transmitted files are first checked to determine if they are in the correct form and have been created using the provided pre-processor. Field level audits are then employed to evaluate field length and type, code values, and the percentage at which the fields are filled;\n\n(2) Quality audits are employed to determine if the data submitted meet a pre-determined level of reasonableness, for example, percent of institutional claims versus percent of professional claims. Default thresholds, which can be rates or ranges, have been established for approximately 200 quality audits; and\n\n(3) After the files are loaded into staging tables, additional audits are run on the consolidated data to identify any global issues that would not be evident during the field and quality level audit process. The reasonableness, longitudinal, and relational audits confirm whether the appropriate and correct amount of data was received for the corresponding membership volume. Examples of these audits include frequency of individual field values, volume reconciliation, and cost or utilization reasonableness.\n\n(b) Default thresholds or rates shall be applied to the field level audits for each element in the eligibility, claims files, and provider file for each quality audit. The standard acceptable threshold for field length, field type, and data value audits is 100 percent. However, there are some fields where the acceptable thresholds for data value will be set at less than 100 percent. Individual field completeness thresholds are established for each data element in the eligibility, medical, pharmacy, dental, and provider files and will vary accordingly. All of the pre-determined default thresholds can be individually adjusted if extenuating circumstances arise which might impact the data completeness or content. If a file is processed and rejected for failing to meet the field level or quality audit default thresholds, the healthcare claims processor may request an exemption to the default threshold through a standardized process. Exemptions or adjustments may be granted for data variances that cannot be corrected due to systematic issues.\n\n(c) At least 30 days prior to the initial submission of the files, or whenever the data element content of the files is subsequently altered, each healthcare claims processor shall submit a data set for comparison to the same validation process used for actual submissions. Iterative rounds of testing may be necessary until the files conform to the submission requirements. A test file should contain data covering a period of one month.\n\n(d) Failure to conform to any of the submission requirements shall result in the rejection and return of the applicable data file(s). All rejected and returned files shall be resubmitted in the appropriate, corrected form within 10 days, or the healthcare claims processor may request an exemption to adjust the threshold for the failing field(s). Due to the large amount and complexity of the data processed, it is more efficient to resubmit an entire file rather than to correct data within the file.\n\nSource. #10877, eff 7-10-15; ss by #13136, eff 11-24-20 (formerly Ins 4009.04); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

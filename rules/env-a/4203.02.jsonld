@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4203.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4203",
+  "definition": "Most Restrictive VOC Content Limit",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4203.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4203.02 Most Restrictive VOC Content Limit",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4203.02 Most Restrictive VOC Content Limit.\n\n(a) Subject to (b), below, if any representation is made anywhere on the container of an AIM coating, on any label or sticker affixed to the container, or in any sales, advertising, or technical literature supplied by a manufacturer or anyone acting on the manufacturer’s behalf that indicates that the coating meets the definition of or is recommended for use for more than one of the coating categories listed in Table 4203-1, above, then the most restrictive applicable VOC content limit shall apply.\n\n(b) If an AIM coating is represented as any of the following, then the VOC content limit for that use shall apply:\n\n(1) Antenna coating;\n\n(2) Antifouling coating;\n\n(3) Bituminous roof primer;\n\n(4) Calcimine recoater;\n\n(5) Fire-retardant coating;\n\n(6) Flow coating;\n\n(7) High-temperature coating;\n\n(8) Impacted immersion coating;\n\n(9) Industrial maintenance coating;\n\n(10) Lacquer coating, including lacquer sanding sealer;\n\n(11) Low-solids coating;\n\n(12) Metallic pigmented coating;\n\n(13) Nuclear coating;\n\n(14) Pretreatment wash primer;\n\n(15) Shellac;\n\n(16) Specialty primer, sealer, and undercoater;\n\n(17) Temperature-indicator safety coating;\n\n(18) Thermoplastic rubber coatings and mastic; and\n\n(19) Wood preservative coating.\n\nSource. #8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

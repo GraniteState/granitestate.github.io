@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1818.08",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "141-E:3",
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E:11",
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-3",
+    "https://granitestate.github.io/rsa/141-E/141-E-4",
+    "https://granitestate.github.io/rsa/141-E/141-E-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1818",
+  "definition": "Appeal",
+  "effectiveDate": "2024-11-01",
+  "expirationDate": "2034-11-01",
+  "historyNote": "(See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1818.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html",
+  "prefLabel": "Env-A 1818.08 Appeal",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1818.08 Appeal. An applicant or certification holder aggrieved by a department decision made pursuant to Env-A 1818.05, to deny an initial application, Env-A 1818.06, to deny a renewal application, or Env-A 1818.07, to revoke a certification, who wishes to appeal the decision, shall appeal to the air resources council, within 30 days of the department’s decision, in accordance with RSA 21-O:14 and the rules adopted by that council, Ec-Air 200.\n\nSource. (See Revision Note #1, Revision Note #2, and Revision Note #3 at chapter heading for Env-A 1800) #14104, eff 11-1-24, EXPIRES: 11-1-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1800.html"
+}

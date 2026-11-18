@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/610.16",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/610",
+  "definition": "Application Procedures For General Permits Under Title V",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#7879, eff 4-26-03; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 610.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 610.16 Application Procedures For General Permits Under Title V",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 610.16 Application Procedures For General Permits Under Title V.\n\n(a) The owner or operator of a source qualifying for a general permit shall file an application with the department for a general permit.\n\n(b) The application shall include:\n\n(1) Complete application forms as described in Env-A 1703 through Env-A 1708, as applicable, and provided by the department;\n\n(2) All information specified in Env-A 1709, if applicable;\n\n(3) All additional information necessary to determine qualification for, and to ensure compliance with, the general permit;\n\n(4) Certification of right, title, and interest and, if applicable, proof of good standing, as specified in Env-A 605.02;\n\n(5) The fee(s) specified in Env-A 702 through Env-A 705, as applicable; and\n\n(6) Where air pollution dispersion modeling is required for a source or device pursuant to Env-A 606.02, the information required pursuant to Env-A 606.03.\n\nSource. #7879, eff 4-26-03; ss by #9791, eff 10-1-10; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

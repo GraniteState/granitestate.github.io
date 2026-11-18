@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1001",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "altLabel": "CLAIM SETTLEMENT",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1000",
+  "definition": "CLAIM SETTLEMENT FOR ALL INSURERS, EXCEPT PROPERTY AND CASUALTY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/1001.01",
+    "https://granitestate.github.io/rules/ins/1001.02",
+    "https://granitestate.github.io/rules/ins/1001.03",
+    "https://granitestate.github.io/rules/ins/1001.04",
+    "https://granitestate.github.io/rules/ins/1001.05",
+    "https://granitestate.github.io/rules/ins/1001.06",
+    "https://granitestate.github.io/rules/ins/1001.07",
+    "https://granitestate.github.io/rules/ins/1001.08",
+    "https://granitestate.github.io/rules/ins/1001.09",
+    "https://granitestate.github.io/rules/ins/1001.10",
+    "https://granitestate.github.io/rules/ins/1001.11"
+  ],
+  "notation": "Ins 1001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html",
+  "prefLabel": "Ins 1001 CLAIM SETTLEMENT FOR ALL INSURERS, EXCEPT PROPERTY AND CASUALTY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 1001 CLAIM SETTLEMENT FOR ALL INSURERS, EXCEPT PROPERTY AND CASUALTY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html"
+}

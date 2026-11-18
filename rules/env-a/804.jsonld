@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/804",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/800",
+  "definition": "VOLATILE ORGANIC COMPOUND TESTING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/804.01",
+    "https://granitestate.github.io/rules/env-a/804.02",
+    "https://granitestate.github.io/rules/env-a/804.03",
+    "https://granitestate.github.io/rules/env-a/804.04",
+    "https://granitestate.github.io/rules/env-a/804.05",
+    "https://granitestate.github.io/rules/env-a/804.06",
+    "https://granitestate.github.io/rules/env-a/804.07",
+    "https://granitestate.github.io/rules/env-a/804.08",
+    "https://granitestate.github.io/rules/env-a/804.09",
+    "https://granitestate.github.io/rules/env-a/804.10",
+    "https://granitestate.github.io/rules/env-a/804.11",
+    "https://granitestate.github.io/rules/env-a/804.12",
+    "https://granitestate.github.io/rules/env-a/804.13",
+    "https://granitestate.github.io/rules/env-a/804.14",
+    "https://granitestate.github.io/rules/env-a/804.15",
+    "https://granitestate.github.io/rules/env-a/804.16",
+    "https://granitestate.github.io/rules/env-a/804.17",
+    "https://granitestate.github.io/rules/env-a/804.18",
+    "https://granitestate.github.io/rules/env-a/804.19",
+    "https://granitestate.github.io/rules/env-a/804.20",
+    "https://granitestate.github.io/rules/env-a/804.21",
+    "https://granitestate.github.io/rules/env-a/804.22",
+    "https://granitestate.github.io/rules/env-a/804.23"
+  ],
+  "notation": "Env-A 804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a.html",
+  "prefLabel": "Env-A 804 VOLATILE ORGANIC COMPOUND TESTING",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 804 VOLATILE ORGANIC COMPOUND TESTING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a.html"
+}

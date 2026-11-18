@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/624.08",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-b",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/624",
+  "definition": "Air Pollution Deposition Modeling",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 624.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 624.08 Air Pollution Deposition Modeling",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 624.08 Air Pollution Deposition Modeling.\n\n(a) In addition to the modeling required under Env-A 606, the owner or operator of a source subject to RSA 125-C:10-b shall conduct a complete air pollution dispersion modeling analysis to determine the deposition of lead, mercury, and dioxin from the source’s emissions.\n\n(b) The modeling analysis shall be conducted in accordance with 40 CFR 51, Appendix W, using any model or methodology, as applicable, that the administrator has specified or proposed for inclusion in 40 CFR 51, Appendix W.\n\n(c) The modeling analysis shall quantitatively evaluate the deposition of lead, mercury, and dioxin from the source’s emissions.\n\n(d) For the purpose of the modeling required in (a), above, the numerical value representing the estimated air emissions of lead from the source shall be doubled as a safety factor prior to being used in the model.\n\n(e) The owner or operator shall determine background environmental concentrations of lead, mercury, and dioxin and shall add those concentrations to the modeling analysis.\n\n(f) The modeling analysis shall include the combined effects of all sources subject to a title V operating permit and which are within 100 km of the source seeking a permit application under this part.\n\n(g) The modeling analysis shall be presented in a form that can be used in a human health risk assessment, as detailed in Env-A 624.09.\n\nSource. #8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

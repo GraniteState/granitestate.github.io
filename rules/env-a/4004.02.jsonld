@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4004.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4004",
+  "definition": "Prohibited Labels",
+  "effectiveDate": "2008-01-09",
+  "historyNote": "#8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4004.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html",
+  "prefLabel": "Env-A 4004.02 Prohibited Labels",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4004.02 Prohibited Labels. Any manufacturer of a portable fuel container or portable fuel container and spout not subject to or not in compliance with Env-A 4003 shall not display the phrase “Spill-Proof System” or “Spill-Proof Spout” on the portable fuel container or spout, respectively, on any sticker or label affixed thereto, or on any accompanying package.\n\nSource. #8358, eff 5-26-05; ss by #9064, eff 1-9-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4000.html"
+}

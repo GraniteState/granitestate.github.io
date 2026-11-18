@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3901",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:6",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3900",
+  "definition": "GROUP DISABILITY INSURANCE CLAIM PROCESSING STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/3901.01",
+    "https://granitestate.github.io/rules/ins/3901.02",
+    "https://granitestate.github.io/rules/ins/3901.03",
+    "https://granitestate.github.io/rules/ins/3901.04",
+    "https://granitestate.github.io/rules/ins/3901.05"
+  ],
+  "notation": "Ins 3901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3900.html",
+  "prefLabel": "Ins 3901 GROUP DISABILITY INSURANCE CLAIM PROCESSING STANDARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 3901 GROUP DISABILITY INSURANCE CLAIM PROCESSING STANDARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3900.html"
+}

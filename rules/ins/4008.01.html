@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ins 4008.01 Subscriber and Member Identification Data Elements</title>
+  <link rel="alternate" type="application/ld+json" href="/rules/ins/4008.01.jsonld">
+  <style>
+:root { color-scheme: light dark; }
+body {
+  font-family: "Iowan Old Style", Palatino, Georgia, serif;
+  line-height: 1.5;
+  max-width: 46rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+h1 { font-weight: 600; letter-spacing: -0.02em; font-size: 1.6rem; }
+h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: inherit; }
+a:hover, a:focus { text-decoration-thickness: 2px; }
+.skip { position: absolute; left: -999px; top: 0; }
+.skip:focus { left: 1rem; background: Canvas; padding: 0.3rem 0.6rem; }
+nav { font-size: 0.95rem; }
+.statute { white-space: pre-wrap; font-family: inherit; }
+aside, footer { margin-top: 1.5rem; }
+footer, .note { font-size: 0.95rem; }
+ul { padding-left: 1.2rem; }
+li { margin: 0.25rem 0; }
+</style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to rule text</a>
+  <nav aria-label="Breadcrumb"><a href="/rules/">Administrative rules</a> / <a href="/rules/ins/">Ins</a> / <a href="/rules/ins/4000.html">Ins 4000</a> / <a href="/rules/ins/4008.html">Ins 4008</a> / Ins 4008.01</nav>
+  <header>
+    <h1 id="section">Ins 4008.01 Subscriber and Member Identification Data Elements</h1>
+    <p>Effective 2026-04-22. Expires 2036-04-22.</p>
+  </header>
+  <main id="content">
+    <div class="statute"><a class="cite-internal" href="/rules/ins/4008.01.html">Ins 4008.01</a> Subscriber and Member Identification Data Elements.
+
+<span id="a">(a)</span> The following table lists the subscriber and member identifiers that shall be identical when reporting information about a subscriber or a member:
+
+Table 1: Matching Requirements for Subscriber/Member Identifiers Across Files
+
+Data Element Name* | Subscriber and Member Identifiers
+
+Member Eligibility | Medical Claims** | Dental Claims | Pharmacy Claims
+
+Plan Specific Contract Number | ME009 | MC008, MC20 | DC008, DC202 | PC008, PC204
+
+Member Suffix or Sequence Number | ME010 | MC009 | DC009 | PC009
+
+Subscriber Last Name | ME101 | MC101 | DC101 | PC101
+
+Subscriber First Name | ME102 | MC102 | DC102 | PC102
+
+Subscriber Middle Initial | ME103 | MC103 | DC103 | PC103
+
+Member Last Name | ME104 | MC104 | DC104 | PC104
+
+Member First Name | ME105 | MC105 | DC105 | PC105
+
+Member Middle Initial | ME106 | MC106 | DC106 | PC106
+
+*The NHCHIS preprocessor hashes these data elements as part of the file encryption and transmission process.
+
+**Also pertains to Behavioral Health.
+
+<span id="b">(b)</span> The NHCHIS preprocessor application will hash all subscriber and member identification codes and names before data are transmitted to the department’s designee. To ensure consistent hashing, subscriber and member identifiers shall not be encrypted or hashed on the initial extract loaded into the preprocessor:
+
+<span id="1">(1)</span> The discrete two-digit suffix shall also be used with the certificate or contract number. This data element is de-identified by the NHCHIS preprocessor application.
+
+<span id="2">(2)</span> The certificate or contract number with the two-digit suffix shall be at least 11, but no more than 30 characters in length. This data element is de-identified by the NHCHIS preprocessor application.
+
+Source. #10877, eff 7-10-15; ss by #13136 eff 11-24-20 (formerly <a class="cite-internal" href="/rules/ins/4009.02.html">Ins 4009.02</a>); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly <a class="cite-internal" href="/rules/ins/4009.01.html">Ins 4009.01</a>)</div>
+  </main>
+  <aside><h2>Authority</h2><ul id="authority"><li><a class="cite-authority" href="/rsa/400-A/400-A-15.html">RSA 400-A:15, I</a> <span class="note">appendix</span></li><li><a class="cite-authority" href="/rsa/420-G/420-G-14.html">RSA 420-G:14</a> <span class="note">appendix</span></li><li>RSA 541-A:21 <span class="note">appendix</span></li></ul></aside>
+  <footer>
+    <p>This text is the Office of Legislative Services online compilation in the 2026-11-15 snapshot. OLS states that the online compilation matches the certified rule in substance and is not the official version under <a href="/rsa/541-A/">RSA 541-A</a>, because the format differs and a later filing may not be online yet.</p>
+    <p>Source: NH OLS administrative rules compilation, retrieved 2026-11-15, adm-rules-data@1c92d82e0f03. <a href="https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html">Raw HTML in adm-rules-data</a>. Publisher URL (not linked): https://gc.nh.gov/rules/state_agencies/ins4000.html.</p>
+    <p>Machine-readable form: <a href="/rules/ins/4008.01.jsonld">JSON-LD</a>.</p>
+  </footer>
+</body>
+</html>

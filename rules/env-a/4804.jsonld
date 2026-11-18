@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4804",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:26",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:29",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4800",
+  "definition": "AUCTION PARTICIPATION: ELIGIBILITY AND LIMITATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4804.01",
+    "https://granitestate.github.io/rules/env-a/4804.02",
+    "https://granitestate.github.io/rules/env-a/4804.03",
+    "https://granitestate.github.io/rules/env-a/4804.04",
+    "https://granitestate.github.io/rules/env-a/4804.05",
+    "https://granitestate.github.io/rules/env-a/4804.06",
+    "https://granitestate.github.io/rules/env-a/4804.07"
+  ],
+  "notation": "Env-A 4804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html",
+  "prefLabel": "Env-A 4804 AUCTION PARTICIPATION: ELIGIBILITY AND LIMITATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4804 AUCTION PARTICIPATION: ELIGIBILITY AND LIMITATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html"
+}

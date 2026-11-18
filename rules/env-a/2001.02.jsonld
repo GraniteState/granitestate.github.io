@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2001.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2001",
+  "definition": "Applicability",
+  "effectiveDate": "2023-11-18",
+  "historyNote": "#8331, eff 4-23-05; ss by #10416, eff 9-24-13; ss by #13809, eff 11-18-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2001.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html",
+  "prefLabel": "Env-A 2001.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2001.02 Applicability. This chapter shall apply to the owner or operator of any stationary fuel burning device that is a source of particulate matter or visible emissions.\n\nSource. #8331, eff 4-23-05; ss by #10416, eff 9-24-13; ss by #13809, eff 11-18-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2000.html"
+}

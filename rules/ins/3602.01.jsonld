@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3602.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "167:4",
+      "paragraphs": [
+        "IV(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/167/167-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "415-D:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-D:5",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-D:12",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/167/167-4",
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3602",
+  "definition": "Purpose",
+  "effectiveDate": "2018-02-16",
+  "historyNote": "#9654, eff 2-16-10; ss by #12472, eff 2-16-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3602.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3600.html",
+  "prefLabel": "Ins 3602.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3602.01 Purpose. The purpose of this part is to implement filing, notice, and exchange requirements for the New Hampshire long-term care partnership program.\n\nSource. #9654, eff 2-16-10; ss by #12472, eff 2-16-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3600.html"
+}

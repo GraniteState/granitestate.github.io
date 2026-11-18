@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1312.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1312",
+  "definition": "Emission Standards for Auxiliary Boilers",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1312.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1312.02 Emission Standards for Auxiliary Boilers",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1312.02 Emission Standards for Auxiliary Boilers.\n\n(a) An auxiliary boiler with a heat input rate of at least 5 million Btu per hour but less than 50 million Btu per hour shall comply with Env-A 1305.02 and Env-A 1305.03.\n\n(b) An auxiliary boiler with a heat input rate of at least 50 million Btu per hour, shall not exceed a NOx RACT emission limit of 0.20 lb. per million Btu based on a 24-hour calendar day average, regardless of the type of fuel burned.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

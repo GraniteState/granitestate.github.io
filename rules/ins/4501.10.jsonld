@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4501.10",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:36",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-36",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:36-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-A:20",
+      "source": "https://granitestate.github.io/rsa/420-A/420-A-20",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-A:22",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-B:9",
+      "source": "https://granitestate.github.io/rsa/420-B/420-B-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-D:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-F:9",
+      "source": "https://granitestate.github.io/rsa/420-F/420-F-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-36",
+    "https://granitestate.github.io/rsa/420-A/420-A-20",
+    "https://granitestate.github.io/rsa/420-B/420-B-9",
+    "https://granitestate.github.io/rsa/420-F/420-F-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4501",
+  "definition": "Communication of Internal Control Related Matters Noted in an Audit",
+  "effectiveDate": "2016-12-31",
+  "historyNote": "#9246, eff 1-1-09; ss by #11171, eff 12-31-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4501.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html",
+  "prefLabel": "Ins 4501.10 Communication of Internal Control Related Matters Noted in an Audit",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4501.10 Communication of Internal Control Related Matters Noted in an Audit.\n\n(a) In addition to the annual audited financial report, each insurer shall furnish the commissioner with a written communication as to any unremediated material weaknesses in its internal controls over financial reporting noted during the audit. Such communication shall be prepared by the accountant within 60 days after the filing of the annual audited financial report, and shall contain a description of any unremediated material weakness, as the term material weakness is defined by Statement on Auditing Standards No. 60, Communication of Internal Control Related Matters Noted in an Audit, available as referenced in Appendix A, or its replacement, as of December 31 immediately preceding, so as to coincide with the audited financial report discussed in Ins 4501.03 (a) in the insurer's internal control over the financial statements. If no unremediated material weaknesses were noted, the communication should so state.\n\n(b) The insurer is required to provide a description of remedial actions taken or proposed to correct unremediated material weaknesses, if the actions are not described in the accountant's communication.\n\nSource. #9246, eff 1-1-09; ss by #11171, eff 12-31-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4500.html"
+}

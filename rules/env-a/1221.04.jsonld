@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1221.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1221",
+  "definition": "Compliance Standards for Conveyorized Degreasers",
+  "effectiveDate": "2019-10-17",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1221.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html",
+  "prefLabel": "Env-A 1221.04 Compliance Standards for Conveyorized Degreasers",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1221.04 Compliance Standards for Conveyorized Degreasers. Conveyorized degreasers shall be controlled using the control equipment, techniques, and operating requirements described below:\n\n(a) The degreaser shall be controlled by one of the following major control techniques:\n\n(1) Refrigerated chiller; or\n\n(2) Carbon adsorption system meeting the operational requirements of (c)(10), below;\n\n(b) Control equipment shall consist of the following:\n\n(1) A drying tunnel, or another means to prevent cleaned parts from carrying out solvent liquid or vapor, such as a rotating or tumbling basket;\n\n(2) Safety switches, as follows:\n\na. Equipment preventing heat input to the sump when the liquid solvent level drops down to the height of the sump heater coils or the condenser coolant is not circulating;\n\nb. Equipment preventing spraying outside the vapor level; and\n\nc. A vapor level control thermostat which shuts off the sump heat if the vapor level rises above the height of the primary condenser;\n\n(3) Entrances and exits that silhouette work loads so that the average clearance between parts and the edge of the degreaser opening is either less than 10 cm, equivalent to 4 in., or less than 10% of the width of the opening; and\n\n(4) Covers for closing off the entrance and exit during shut-down hours; and\n\n(c) Operating requirements shall be as follows:\n\n(1) Exhaust ventilation shall not exceed 20 m3/min per m2, equivalent to 65 cfm per ft2, of degreaser open area, unless necessary to meet OSHA requirements;\n\n(2) Drafts shall be minimized across the top of each degreasing unit such that whenever the cover is open, the unit is not exposed to drafts greater than 40 meters per minute, as measured between 1 and 2 meters upwind and at the same elevation as the tank lip;\n\n(3) Draft velocity shall be determined by the testing method prescribed in Env-A 804.21;\n\n(4) Carry-out emissions shall be minimized by:\n\na. Racking parts for best drainage; and\n\nb. Maintaining vertical conveyor speed at less than 3.3 m/min, equivalent to 11 ft/min;\n\n(5) The evaporation of waste solvent into the ambient air shall not exceed 20% of the weight of the waste during the process of:\n\na. Disposing of the waste solvent; or\n\nb. Transferring the waste solvent to another person;\n\n(6) Waste solvent shall be stored only in covered containers;\n\n(7) Solvent leaks shall be repaired immediately, or the degreaser shut down;\n\n(8) Water shall not be visibly detectable in the solvent exiting the water separator;\n\n(9) Down-time covers shall:\n\na. Be placed over entrances and exits of conveyorized degreasers immediately after the conveyor and exhaust are shutdown; and\n\nb. Be removed just before the conveyor and exhaust are started up; and\n\n(10) All carbon adsorption systems installed pursuant to (a)(2), above, shall:\n\na. Provide ventilation greater than or equal to 15 m3/min per m2, equivalent to 50 cfm/ft2, of the air/solvent interface area when down-time covers are open; and\n\nb. Exhaust less than 25 ppm of solvent by volume averaged over the length of one complete adsorption cycle or 24 hours, whichever is less.\n\nSource. (See Revision Note at chapter heading for Env-A 1200) #9933, eff 6-1-11; ss by #12899, eff 10-17-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1200.html"
+}

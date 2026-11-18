@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3510.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Inspection and Maintenance of Small, Remote HMIWI",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3510",
+  "definition": "Inspections and Maintenance of Small, Remote HMIWI",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3510.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3510.01 Inspections and Maintenance of Small, Remote HMIWI",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3510.01 Inspections and Maintenance of Small, Remote HMIWI.\n\n(a) The owner or operator of each small, remote HMIWI unit subject to the emission limits set forth in Env-A 3505.01(a) shall undertake a self-performed initial equipment inspection within one year following EPA approval of the section 111(d)/129 state plan.\n\n(b) The owner or operator of each small, remote HMIWI subject to the emission limits set forth in Env-A 3505.01(a) shall undertake an annual equipment inspection and keep records pursuant to Env-A 3513.02, no more than 12 months after the initial equipment inspection or the previous annual equipment inspection using the inspection requirements set forth in Env-A 3510.02.\n\n(c) The owner or operator shall undertake such equipment maintenance and adjustments as are needed to ensure that all components are in proper working condition.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

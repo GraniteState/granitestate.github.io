@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1705",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1700",
+  "definition": "FORM ARD-3, INFORMATION REQUIRED FOR A PERMIT FOR A UNIT OF PROCESSING OR MANUFACTURING EQUIPMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/1705.01"
+  ],
+  "notation": "Env-A 1705",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html",
+  "prefLabel": "Env-A 1705 FORM ARD-3, INFORMATION REQUIRED FOR A PERMIT FOR A UNIT OF PROCESSING OR MANUFACTURING EQUIPMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 1705 FORM ARD-3, INFORMATION REQUIRED FOR A PERMIT FOR A UNIT OF PROCESSING OR MANUFACTURING EQUIPMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1700.html"
+}

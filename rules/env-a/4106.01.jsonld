@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4106.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4106",
+  "definition": "Date Coding",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#8439, eff 9-24-05; ss by #10527, eff 2-26-14b (from Env-A 4104.04); ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4106.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4106.01 Date Coding",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4106.01 Date Coding.\n\n(a) Each manufacturer of a consumer product subject to Env-A 4105 shall clearly display on each consumer product container or package:\n\n(1) The day, month, and year on which the product was manufactured; or\n\n(2) A code indicating such date.\n\n(b) The date or date code shall be located on the container or inside the cover or cap so that it is readily observable or obtainable by simply removing the cap or cover without disassembling any part of the container or packaging.\n\n(c) The date or date code shall be displayed on each consumer product container or package no later than:\n\n(1) January 1, 2007, for consumer products registered under FIFRA; and\n\n(2) January 1, 2006 for all other consumer products.\n\n(d) No person who sells, supplies, offers for sale, or manufactures consumer products for use in New Hampshire shall erase, alter, deface, or otherwise remove or make illegible any date or date code from any regulated product container without the express authorization of the manufacturer, unless the product contains no VOCs or contains VOCs at 0.10% by weight or less.\n\n(e) If a manufacturer uses a date code to indicate the date of manufacture, an explanation of the code shall be filed with the department via email to airfiles@des.nh.gov, no later than:\n\n(1) January 1, 2007, for consumer products registered under FIFRA; and\n\n(2) January 1, 2006 for all other consumer products.\n\nSource. #8439, eff 9-24-05; ss by #10527, eff 2-26-14b (from Env-A 4104.04); ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

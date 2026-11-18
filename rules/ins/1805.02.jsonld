@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1805.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "420-D:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-D:17",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1805",
+  "definition": "Days-Cash-On-Hand Calculation",
+  "effectiveDate": "2026-06-27",
+  "expirationDate": "2036-06-27",
+  "historyNote": "#10944, eff 10-8-15; ss by #14640, eff 6-27-26, EXPIRES: 6-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1805.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1800.html",
+  "prefLabel": "Ins 1805.02 Days-Cash-On-Hand Calculation",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1805.02 Days-Cash-On-Hand Calculation.\n\n(a) “UC” means unrestricted current and noncurrent cash.\n\n(b) “BTHR” means bond or lender held reserve funds.\n\n(c) “IN” means investments.\n\n(d) “Ex” means operating expenses.\n\n(e) “Dep” means depreciation.\n\n(f) “Am” means amortization.\n\n(g) To calculate days-cash-on-hand, the commissioner shall calculate the sum of UC and BTHR and IN and divide this result by the quotient of Ex minus Dep minus Am divided by 365, as in the following formula:\n\nUC + BTHR + IN\n\n(Ex-Dep-Am)/365\n\nSource. #10944, eff 10-8-15; ss by #14640, eff 6-27-26, EXPIRES: 6-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1800.html"
+}

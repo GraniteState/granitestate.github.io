@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/103.21",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-I:6",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "141-E:4",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/141-E/141-E-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/141-E/141-E-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/103",
+  "definition": "Facility",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90 (see Env-A 101.37) New. #5033, eff 12-27-90 (from Env-A 101.35); ss and moved by #6057-A, eff 6-30-95 (from Env-A 101.36); ss by #6482-A, eff 4-1-97; ss and renumbered by #8256, eff 1-14-05 (from Env-A 101.120), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.76), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.77) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 103.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 103.21 Facility",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 103.21 “Facility” means, for the purpose of RSA 125-C and RSA 125-I, a stationary source.\n\nSource. #1717, eff 2-19-81; ss by #2332, eff 4-29-83; ss by #2938, eff 12-27-84; ss by #5033, eff 12-27-90 (see Env-A 101.37)\n\nNew. #5033, eff 12-27-90 (from Env-A 101.35); ss and moved by #6057-A, eff 6-30-95 (from Env-A 101.36); ss by #6482-A, eff 4-1-97; ss and renumbered by #8256, eff 1-14-05 (from Env-A 101.120), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.76), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.77) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

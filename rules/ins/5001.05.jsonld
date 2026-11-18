@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/5001.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:5",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/5001",
+  "definition": "Rules Applicable to All Applications",
+  "effectiveDate": "2019-05-05",
+  "historyNote": "#12770, eff 5-5-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 5001.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins5000.html",
+  "prefLabel": "Ins 5001.05 Rules Applicable to All Applications",
+  "recordType": "rule-section",
+  "ruleText": "Ins 5001.05 Rules Applicable to All Applications. All applications that are attached to a policy and become part of the policy shall be submitted for review under RSA 412:5 and shall comply with the following:\n\n(a) The declarative portion of the application, if any, shall consist of representations of facts made to the best of the applicant’s knowledge; and\n\n(b) No provision shall be permitted in an application that changes the terms of the policy to which it is attached.\n\nSource. #12770, eff 5-5-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins5000.html"
+}

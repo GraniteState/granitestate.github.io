@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1305.06",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1305",
+  "definition": "RACT Requirements: Boilers Firing Oil and Gas",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1305.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1305.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1305.06 RACT Requirements: Boilers Firing Oil and Gas",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1305.06 RACT Requirements: Boilers Firing Oil and Gas. The NOx RACT requirements for tangential or face-fired boilers that are subject to Env-A 1305.03(a) and fire, or are capable of firing, a combination of oil and gas, shall be as follows:\n\n(a) When firing gas exclusively:\n\n(1) An emission limit of 0.10 lb. per million Btu, based on an hourly average; or\n\n(2) Implement NOx RACT control technology as specified in Env-A 1305.03(b);\n\n(b) When firing oil exclusively:\n\n(1) When firing No. 2 fuel oil exclusively, an emission limit of 0.12 lb. per million Btu, based on an hourly average; and\n\n(2) When firing No. 4, 5, or 6 fuel oil, or any combination thereof:\n\na. An emission limit of 0.30 lb. per million Btu, based on a 24-hour calendar day average; or\n\nb. Implement NOx RACT control technology as specified in Env-A 1305.04(b); and\n\n(c) When firing a combination of oil and gas:\n\n(1) When firing gas and No. 2 fuel oil, an emission limit of 0.12 lb. per million Btu, based on an hourly average; and\n\n(2) When firing gas and No. 4, 5, or 6 fuel oil, or any combination thereof:\n\na. An emission limit of 0.30 lb. per million Btu, based on a 24-hour calendar day average; or\n\nb. Implement NOx RACT control technology as specified in Env-A 1305.03(b).\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18 (formerly Env-A 1305.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

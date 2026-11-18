@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/611.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:11",
+      "paragraphs": [
+        "I-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "125-D:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/611",
+  "definition": "Acid Rain Compliance Plan",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#6057-B, eff 6-30-95; ss by #7879, eff 4-26-03 (formerly Env-A 611.06); ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 611.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 611.05 Acid Rain Compliance Plan",
+  "priorExpiration": "2011-10-24",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 611.05 Acid Rain Compliance Plan. The acid rain compliance plan shall include documentation that the acid rain affected source will meet the applicable acid rain emissions limitations and acid rain emissions reduction requirements pursuant to sections 405, 406, and 407 of the Act.\n\nSource. #6057-B, eff 6-30-95; ss by #7879, eff 4-26-03 (formerly Env-A 611.06); ss by #9906, INTERIM, eff 4-26-11, EXPIRES: 10-24-11; ss by #10000, eff 10-1-11; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

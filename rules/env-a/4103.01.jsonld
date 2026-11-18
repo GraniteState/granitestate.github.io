@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Fabric Protectant",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "Fabric protectant",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#8439, eff 9-24-05; ss by #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.01 Fabric protectant",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.01 “Fabric protectant” means:\n\n(a) For products manufactured before January 1, 2015, a product designed to be applied to fabric substrates to protect the surface from soiling, from dirt and other impurities, or to reduce absorption of liquid into the fabric's fibers. The term does not include waterproofers, products designed for use solely on leather, or products designed for use solely on fabrics that are labeled “for dry clean only” and sold in containers of 10 fl oz or less; and\n\n(b) For products manufactured on or after January 1, 2015, a product labeled to be applied to fabric substrates to protect the surface from soiling from dirt or other impurities or to reduce absorption of liquid into the fabric fibers. The term does not include waterproofers, products labeled for use solely on leather, pigmented products that are designed to be used primarily for coloring, products that renew or restore fabric and qualifying as either “clear coating” or “vinyl/fabric/leather/polycarbonate coating”, or products used for construction, reconstruction, modification, structural maintenance, or repair of fabric substrates.\n\nSource. #8439, eff 9-24-05; ss by #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

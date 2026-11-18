@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4305.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4305",
+  "definition": "Continuous Monitoring",
+  "effectiveDate": "2025-05-20",
+  "expirationDate": "2035-05-20",
+  "historyNote": "#10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4305.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html",
+  "prefLabel": "Env-A 4305.03 Continuous Monitoring",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4305.03 Continuous Monitoring.\n\n(a) The owner or operator of an existing OSWI unit shall comply with the continuous emission monitoring requirements in 40 CFR §§60.3038 through 60.3044.\n\n(b) Continuous emission monitoring data gathered at all existing OSWI units shall be used to determine compliance with carbon monoxide emissions limits specified in Table 4303-1.\n\n(c) Continuous monitoring data gathered at all existing OSWI units shall be used to determine compliance with operating parameters specified in Table 4304-1.\n\nSource. #10765, eff 1-22-15; ss by #14248, eff 5-20-25, EXPIRES: 5-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html"
+}

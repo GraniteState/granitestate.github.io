@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4103.57",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:2",
+      "paragraphs": [
+        "V-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-2",
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4103",
+  "definition": "Lubricant",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4103.58)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4103.57",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4103.57 Lubricant",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4103.57 “Lubricant” means a product designed to reduce friction, heat, noise, or wear between moving parts, or to loosen rusted or immovable parts or mechanisms, other than the following:\n\n(a) Automotive power steering fluids;\n\n(b) 2 cycle oils, or other products designed to be added to fuels;\n\n(c) Products for use on the human body or animals; or\n\n(d) Products that are sold exclusively directly by or through distributors to establishments that manufacture or construct goods or commodities and are labeled exclusively for “use in the manufacturing process only”, and products for use inside power generating motors, engines, and turbines, and their associated power-transfer gearboxes.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24 (formerly Env-A 4103.58)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

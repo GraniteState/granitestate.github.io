@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.09",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Audit Requirements for Stack Flowrate Measurement Systems",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.09 Audit Requirements for Stack Flowrate Measurement Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.09 Audit Requirements for Stack Flowrate Measurement Systems.\n\n(a) An owner or operator of a stationary source required to use a continuous emissions monitoring system to determine a mass flow emissions rate using a stack volumetric flow monitor, or a fuel flow meter with O2/CO2 measurements to calculate heat input or stack flow rate, shall conduct at least once every 4 calendar quarters a minimum 9-run RATA with the relative accuracy calculated in the units of the mass emissions measurement, as specified in 40 CFR 60, Appendices B and F.\n\n(b) The owner or operator of a stationary source subject to (a), above, and using a stack volumetric flow monitor for the mass flow emissions calculation shall in addition to the 9-run RATA, also comply with the audit requirements specified in (d) and (e) below.\n\n(c) The owner or operator of a stationary source subject to (a), above, and using a fuel flow meter for the mass flow emissions calculation, shall, in addition to the 9-run RATA, also perform one of the following audit options:\n\n(1) The quality assurance activities on the fuel flow meter, as applicable, in 40 CFR 75, Appendix D or alternate audit procedures for the fuel flow meter allowed pursuant to 40 CFR 75; or\n\n(2) The audits specified in (d) and (e) below.\n\n(d) In addition to performing the 9-run RATA specified in (a) above, the owner or operator shall conduct in 2 of the calendar quarters in which the RATA is not conducted a 3-run RAA of the stack volumetric flow monitor or fuel flow meter, as follows:\n\n(1) Three velocity traverses shall be conducted following Methods 1 and 2 of 40 CFR 60, Appendix A;\n\n(2) The thermocouple used for measurement of stack gas temperature shall be calibrated at least annually;\n\n(3) A leak check shall be performed after completion of the velocity traverse in accordance with 40 CFR 60, Appendix A, Method 2, part 8.1;\n\n(4) The average stack flow rate in wet standard cubic feet per hour shall be calculated for each velocity traverse using the collected data, and the stack gas molecular weight and percent stack moisture from the most recent Methods 3 and 4 measurements made at the subject source;\n\n(5) Corresponding to the time periods during which each velocity traverse was performed, 3 sets of stack flow data from the gaseous CEM system, calculated from the stack volumetric flow monitor or fuel flow meter in units of wet standard cubic feet per hour, shall be collected;\n\n(6) The average of each set of stack flow data from the gaseous CEM system shall be calculated;\n\n(7) The percent relative accuracy of the stack flow measurements shall be calculated as follows:\n\na. \"WSCFH, CEM\" means the average of the 3 measurements of wet standard cubic feet per hour flow rate calculated pursuant to (6), above, from the gaseous CEM system;\n\nb. \"WSCFH, M2\" means the average of the 3 measurements of wet standard cubic feet per hour as calculated pursuant to (4), above, from the data collected by Method 1 and Method 2; and\n\nc. Subtract WSCFH, M2 from WSCFH, CEM, divide the difference by WSCFH, M2, and multiply the result by 100, as shown in the formula below:\n\n% Relative Accuracy = ((WSCFH,CEM - WSCFH,M2)/(WSCFH,M2)) x 100\n\n(8) The absolute value of percent relative accuracy shall be less than or equal to 10.0%; and\n\n(9) If the percent relative accuracy exceeds 10.0%, then the stack flow measurement of the gaseous CEM system shall be considered \"out of control” until necessary repairs/adjustments are performed and the CEM system successfully meets the acceptance criteria specified in (8), above, as determined by a repeat audit.\n\n(e) In the calendar quarter in which neither the RATA specified in Env-A 808.08(a) nor the two RAAs specified in (d), above, are performed, the owner or operator shall perform:\n\n(1) An additional quarterly RAA; or\n\n(2) Quality assurance of the stack flow rate or fuel flow meter which shall include at a minimum, as applicable to the device:\n\na. A flow monitor differential-pressure sensing lines’ leak check for low and high-pressure sides;\n\nb. A stack flow probe inspection, including removal and cleaning of the probe as necessary;\n\nc. A differential pressure transmitter/transducer calibration following the manufacturer’s recommended calibration procedure; and\n\nd. A continuous flow-to-load-ratio or gross heat rate evaluation in accordance with 40 CFR 75, Appendix B.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.10",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Additional Requirements for Paint Thinner and Multi-Purpose Solvents",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.10 Additional Requirements for Paint Thinner and Multi-Purpose Solvents",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.10 Additional Requirements for Paint Thinner and Multi-Purpose Solvents.\n\n(a) Subject to (b), below, no person shall sell, supply, offer for sale, or manufacture for use in New Hampshire any flammable or extremely flammable multipurpose solvent or paint thinner named, on the principle display panel as “Paint Thinner,” “Multi-purpose Solvent,” “Clean-up Solvent,” or “Paint Clean-up.”\n\n(b) The prohibition in (a), above, shall not apply to a product that meets any of the following criteria:\n\n(1) Products that include an attached hang tag, sticker, or contrasting square or rectangular area on the principle display panel that displays, at a minimum, the following statements in large font, a signal word such as “DANGER,” “WARNING,” or “CAUTION”, as specified in 16 CFR 1500.121;\n\n(2) Products labeled “Formulated to meet California VOC limits; see warnings on label;” or\n\n(3) The principle display panel displays, in large font, the common name of the chemical compound that results in the product meeting the criteria for flammable or extremely flammable, such as acetone or methyl acetate.\n\n(c) For purposes of this section, a product is flammable or extremely flammable if it:\n\n(1) Is labeled as “Flammable” or “Extremely Flammable” on the product container; or\n\n(2) Meets the criteria for these terms specified in 16 CFR 1500.3(c)(6).\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

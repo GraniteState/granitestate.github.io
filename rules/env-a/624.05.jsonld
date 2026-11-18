@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/624.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-b",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/624",
+  "definition": "BACT Analysis",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 624.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 624.05 BACT Analysis",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 624.05 BACT Analysis. The BACT analysis required under Env-A 624.04(d) shall be conducted in accordance with the following:\n\n(a) The applicant shall identify all control options, such as the use of lower-emitting raw materials, lower-emitting process equipment, or add-on control equipment, that have the potential to reduce emissions;\n\n(b) The applicant shall provide information on any control option that the applicant deems to be technically infeasible that is sufficient to allow the department to evaluate the feasibility of said control option;\n\n(c) The applicant shall rank the remaining control technologies and list them in order of control effectiveness, with the most effective alternative at the top;\n\n(d) The applicant shall further evaluate the top-ranked control option and may eliminate it from further consideration if, based on its energy, economic, or environmental impact, the control option would result in unusual or prohibitive impacts as described in (f), below, at the source under review when compared to other similar sources;\n\n(e) The applicant shall provide the department with documentation of all steps taken to comply with (a) through (d) above and the reasoning behind each step; and\n\n(f) For purposes of (d), above, the following shall apply:\n\n(1) An unusual or prohibitive environmental impact would arise if using the most effective technology would create adverse environmental impacts greater than those sought to be minimized through the use of the technology;\n\n(2) An unusual or prohibitive economic impact would arise if the costs of the most effective technology were clearly excessive in relation to the benefit to be obtained from the technology; and\n\n(3) An unusual or prohibitive energy impact would arise if the electricity required to operate a BACT level of control would be so large that it would make the operation of the device infeasible.\n\nSource. #8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

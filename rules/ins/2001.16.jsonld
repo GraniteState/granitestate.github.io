@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2001.16",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:2-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:4",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:7",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2001",
+  "definition": "Reviewers",
+  "effectiveDate": "2018-06-11",
+  "historyNote": "#5931, eff 12-5-94, EXPIRED: 12-5-00 New. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2001.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html",
+  "prefLabel": "Ins 2001.16 Reviewers",
+  "priorExpiration": "2000-12-05",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2001.16 Reviewers.\n\n(a) Medical utilization review entity personnel or exempt organization personnel who are not licensed health care providers shall not communicate with a beneficiary or provider except for the purpose of collecting and recording demographic data. Demographic data shall include information to identify the patient, enrollee, and attending physician or other provider. Demographic data shall not include any information related to the health or medical condition of the patient.\n\n(b) All communications on the part of a medical utilization review entity or exempt organization with either a beneficiary or provider, other than communications carried out for the purpose of collecting and recording demographic data, shall be conducted by personnel who are licensed health care providers.\n\n(c) The medical director of the medical utilization review entity shall be a New Hampshire licensed physician under RSA 329.\n\nSource. #5931, eff 12-5-94, EXPIRED: 12-5-00\n\nNew. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html"
+}

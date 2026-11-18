@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4205.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4205",
+  "definition": "Response to Department Requests",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4205.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html",
+  "prefLabel": "Env-A 4205.03 Response to Department Requests",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4205.03 Response to Department Requests.\n\n(a) During an investigation or for an inspection by the department, a manufacturer shall provide the following information upon written request from the department:\n\n(1) The name and mailing address of the manufacturer;\n\n(2) The name, address, and daytime telephone number of a contact person;\n\n(3) The name of the AIM coating as it appears on the label and the coating category in Table 4203-1 under which it is regulated;\n\n(4) Whether the coating is marketed for interior or exterior use, or both;\n\n(5) The number of gallons of coating sold in New Hampshire during the specified time period in containers greater than 1 liter;\n\n(6) The number of gallons of coating sold in New Hampshire during the specified time period in containers of 1 liter or less;\n\n(7) The VOC content calculated pursuant to Env-A 4206 and the VOC content limit from Env-A 4203.01(b), Table 4203-1, in grams per liter;\n\n(8) The VOC content calculated pursuant to Env-A 4206 and the VOC content limit from Env-A 4203.01(b), Table 4203-1, in grams per liter after recommended thinning;\n\n(9) The name and CAS number of each VOC in the coating; and\n\n(10) The name and CAS number of each exempt compound in the coating.\n\n(b) The information shall be provided within a time period that reflects the volume and availability of the records requested and is agreed upon by the department and the manufacturer.\n\nSource. #8695, eff 7-27-06; ss by #10736, eff 1-1-15; ss by #14202, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4200.html"
+}

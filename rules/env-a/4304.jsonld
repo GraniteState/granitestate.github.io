@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4304",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "OPERATING PRACTICES",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4300",
+  "definition": "OPERATING REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4304.01",
+    "https://granitestate.github.io/rules/env-a/4304.02",
+    "https://granitestate.github.io/rules/env-a/4304.03",
+    "https://granitestate.github.io/rules/env-a/4304.04",
+    "https://granitestate.github.io/rules/env-a/4304.05"
+  ],
+  "notation": "Env-A 4304",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html",
+  "prefLabel": "Env-A 4304 OPERATING REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4304 OPERATING REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4300.html"
+}

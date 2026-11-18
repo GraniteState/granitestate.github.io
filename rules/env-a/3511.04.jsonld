@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3511.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3511",
+  "definition": "Demonstrating Compliance Using a Continuous Emissions Monitoring System",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3511.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3511.04 Demonstrating Compliance Using a Continuous Emissions Monitoring System",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3511.04 Demonstrating Compliance Using a Continuous Emissions Monitoring System. Owners or operators of HMIWI units subject to this chapter using a continuous emissions monitoring system (CEMS) to demonstrate compliance with any of the emission limits set forth in Env-A 3505.02 shall:\n\n(a) Determine compliance with the appropriate emission limit or limits using a 12-hour rolling average, calculated each hour as the previous 12 operating hours, except during periods of startup, shutdown, or malfunction; and\n\n(b) Operate all CEMS in accordance with the applicable procedures under 40 CFR 60 Appendices B and F and Env-A 800.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

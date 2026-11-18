@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4202.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "126-S:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4202",
+  "definition": "General Requirements for Data Set Submission",
+  "effectiveDate": "2010-11-01",
+  "historyNote": "#9806, eff 11-1-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4202.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html",
+  "prefLabel": "Ins 4202.03 General Requirements for Data Set Submission",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4202.03 General Requirements for Data Set Submission.\n\n(a) For hospital based services that are normally billed to third-party payers using the UB-04 form, hospitals shall submit data to the department, or its agent, using a format compliant with the \"Official UB-04 Data Specifications Manual\" published by the National Uniform Billing Committee. The \"Official UB-04 Data Specifications Manual\" shall be the code source to be utilized for encounter data submission by the hospital for its hospital based services.\n\n(b) For non-hospital based services that are normally billed to third-party payers using the CMS-1500 claim form, hospitals and community health centers shall submit data to the department, or its agent using a format compliant with the Medicare Claims Processing Manual, Form CMS 1500, Data Set (08-05).\n\n(c) Data submissions shall be made to the department, or its agent, utilizing secure socket layer (SSL) protocol. E-mail attachments and paper submissions shall not be acceptable.\n\n(d) Hospitals and community health centers shall make every effort to report the data fields outlined in these requirements if the data field is present in any part of their data systems, even in circumstances where the data needs to be integrated from multiple systems.\n\n(e) Hospitals and community health centers shall assign, according to a standard algorithm provided by the department, or its designee, a unique identification code to each of their uninsured patients using the following criteria:\n\n(1) If the patient's social security number is not collected by the hospital or community health center, an encrypted version of the patient's name shall be used in its place as the unique identification code; and\n\n(2) For encrypting the social security number of the patient, the hospital and community health center shall utilize a standard methodology provided by the department.\n\n(f) The required source codes are found in Appendix I. If codes specified in these rules are updated by the code source, whether the update includes new codes or a modification of descriptions, the changes provided by the source preempt the definitions and descriptors provided in these rules.\n\n(g) Specific/Unique Coding. With the exception of provider codes and provider specialty codes, specific or unique coding systems shall not be permitted as part of the healthcare data set submission.\n\n(h) Annual Submission of Data. Hospitals and community health centers shall submit a healthcare data set annually that includes all uninsured patient encounters for that calendar year. The data set for the preceding calendar year shall be submitted by April 1 of each year.\n\n(i) Each data file submission shall be an ASCII file, variable field length, and asterisk delimited. When asterisks are used in any field values, they shall be enclosed in double quotes.\n\nSource. #9806, eff 11-1-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html"
+}

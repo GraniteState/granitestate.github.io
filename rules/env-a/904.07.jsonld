@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/904.07",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/904",
+  "definition": "Recordkeeping for Sources or Devices with Add-on VOC Air Pollution Control Equipment",
+  "effectiveDate": "2025-09-20",
+  "expirationDate": "2035-09-20",
+  "historyNote": "#10892, eff 7-18-15 (from Env-A 904.07); ss by #14374, eff 9-20-25, EXPIRES: 9-20-35 (formerly Env-A 904.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 904.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html",
+  "prefLabel": "Env-A 904.07 Recordkeeping for Sources or Devices with Add-on VOC Air Pollution Control Equipment",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 904.07 Recordkeeping for Sources or Devices with Add-on VOC Air Pollution Control Equipment. The owner or operator of any stationary source, area source, or device with add-on VOC control equipment shall maintain records of the following information, as applicable:\n\n(a) The air pollution control device identification number, type, model number, and manufacturer;\n\n(b) Installation date;\n\n(c) Process(es) or device(s) controlled;\n\n(d) The type and location of the capture system, capture efficiency percentage, and method of determining capture efficiency;\n\n(e) Information as to whether or not the control device is always in operation when the process(es) or device(s) are in operation;\n\n(f) The destruction or removal efficiency of the add-on air pollution control equipment, including:\n\n(1) Destruction or removal efficiency, in percent;\n\n(2) Date tested;\n\n(3) The emission test results, if tested, including:\n\na. The inlet VOC concentration in ppm;\n\nb. The outlet VOC concentration in ppm; and\n\nc. The method of determination of the concentrations in a. and b. above; and\n\n(4) The method of determining destruction or removal efficiency, if not tested;\n\n(g) For thermal incinerators, the design combustion temperature in degrees F;\n\n(h) For catalytic incinerators:\n\n(1) The design exhaust gas temperature in degrees F;\n\n(2) The design temperature rise across the catalyst bed in degrees F;\n\n(3) The anticipated frequency of catalyst change; and\n\n(4) Any actual catalyst changes;\n\n(i) For a condenser:\n\n(1) The design inlet temperature of the cooling medium; and\n\n(2) The design exhaust gas temperature in degrees F; and\n\n(j) For a carbon adsorber:\n\n(1) The design pressure drop across the adsorber; and\n\n(2) The VOC concentration at breakthrough.\n\nSource. #10892, eff 7-18-15 (from Env-A 904.07); ss by #14374, eff 9-20-25, EXPIRES: 9-20-35 (formerly Env-A 904.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html"
+}

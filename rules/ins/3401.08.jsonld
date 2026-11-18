@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3401.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:10-a",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-10-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-10-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3401",
+  "definition": "Risk Adjustment Mechanism",
+  "effectiveDate": "2009-10-19",
+  "historyNote": "#7434, INTERIM, eff 2-1-01, EXPIRED: 7-31-01 New. #7583, eff 11-1-01; ss by #9564, eff 10-19-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3401.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3400.html",
+  "prefLabel": "Ins 3401.08 Risk Adjustment Mechanism",
+  "priorExpiration": "2001-07-31",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3401.08 Risk Adjustment Mechanism. In order to reduce the incentive for risk selection and to improve fairness and efficiency, and in the absence of a risk adjustment mechanism established by rule or order for the entire small group market, an alliance may establish a payment mechanism to adjust payments to the participating carrier or carriers prospectively or retrospectively based on the amount of risk covered by each participating carrier. To establish such a mechanism, the alliance may appoint an advisory committee composed of individuals that have risk adjustment and actuarial expertise to help establish the risk adjusters.\n\nSource. #7434, INTERIM, eff 2-1-01, EXPIRED: 7-31-01\n\nNew. #7583, eff 11-1-01; ss by #9564, eff 10-19-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3400.html"
+}

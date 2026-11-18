@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3505.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3505",
+  "definition": "Unusual Pattern of Guaranteed Cash Surrender Values",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3505.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3505.04 Unusual Pattern of Guaranteed Cash Surrender Values",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3505.04 Unusual Pattern of Guaranteed Cash Surrender Values.\n\n(a) For any policy with an unusual pattern of guaranteed cash surrender values, the reserves actually held prior to the first unusual guaranteed cash surrender value shall not be less than the reserves calculated by treating the first unusual guaranteed cash surrender value as a pure endowment and treating the policy as an n year policy providing term insurance plus a pure endowment equal to the unusual cash surrender value, where n is the number of years from the date of issue to the date the unusual cash surrender value is scheduled.\n\n(b) The reserves actually held subsequent to any unusual guaranteed cash surrender value shall not be less than the reserves calculated by treating the policy as an n year policy providing term insurance plus a pure endowment equal to the next unusual guaranteed cash surrender value, and treating any unusual guaranteed cash surrender value at the end of the prior segment as a net single premium, where\n\n(1) n is the number of years from the date of the last unusual guaranteed cash surrender value prior to the valuation date to the earlier of:\n\na. The date of the next unusual guaranteed cash surrender value, if any, that is scheduled after the valuation date; or\n\nb. The mandatory expiration date of the policy; and\n\n(2) The net premium for a given year during the n year period is equal to the product of the net to gross ratio and the respective gross premium; and\n\n(3) The net to gross ratio is equal to Item a. divided by Item b. as follows:\n\na. The present value, at the beginning of the n year period, of death benefits payable during the n year period plus the present value, at the beginning of the n year period, of the next unusual guaranteed cash surrender value, if any, minus the amount of the least unusual guaranteed cash surrender value, if any, scheduled at the beginning of the n year period; and\n\nb. The present value, at the beginning of the n year period, of the scheduled gross premiums payable during the n year period.\n\n(c) For purposes of this subsection, a policy is considered to have an unusual pattern of guaranteed cash surrender values if any future guaranteed cash surrender value exceeds the prior year’s guaranteed cash surrender value by more than the sum of:\n\n(1) One hundred ten percent (110%) of the scheduled gross premium for that year;\n\n(2) One hundred ten percent (110%) of one year’s accrued interest on the sum of the prior year’s guaranteed cash surrender value and the scheduled gross premium using the nonforfeiture interest rate used for calculating policy guaranteed cash surrender values; and\n\n(3) Five percent (5%) of the first policy year surrender charge, if any.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

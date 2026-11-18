@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4103.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4",
+      "paragraphs": [
+        "(h)"
+      ],
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:13",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-4",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4103",
+  "definition": "Loss Ratio Standards for Policy Forms",
+  "effectiveDate": "2019-06-10",
+  "historyNote": "#9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4103.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html",
+  "prefLabel": "Ins 4103.08 Loss Ratio Standards for Policy Forms",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4103.08 Loss Ratio Standards for Policy Forms.\n\n(a) Carriers shall estimate the average annual premium per policy form based on an anticipated distribution of business by all significant criteria having a price difference, such as:\n\n(1) Age;\n\n(2) Coverage amount;\n\n(3) Dependent status; and\n\n(4) Rider frequency.\n\n(b) Carriers shall assume all policyholders elect a monthly mode. The average monthly premium, for purposes of this section, shall be based on the rates being filed.\n\n(c) With respect to all forms, benefits shall be deemed reasonable in relation to the proposed premiums provided the anticipated loss ratio is at least as great as 80 percent. Carriers may modify this standard based on anticipated enrollment and the credibility adjustments allowed pursuant to 45 CFR Part 158.230.\n\n(d) The standards set forth in this section shall apply to all new issues and shall apply to all other policy forms that are issued or renewed that are not priced using durational premiums.\n\nSource. #9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html"
+}

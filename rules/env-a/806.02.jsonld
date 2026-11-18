@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/806.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/806",
+  "definition": "Test Methods for Liquid Fuels",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 806.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 806.02 Test Methods for Liquid Fuels",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 806.02 Test Methods for Liquid Fuels.\n\n(a) For the purpose of determining the sulfur content, in percent sulfur by weight, for the liquid fuels listed in the left column of Table 8.1, the owner or operator shall use one of the specified test methods, as described in Table 8.1:\n\nTable 8.1 Test Methods for Liquid Fuels\n\nASTM D1552-16 | ASTM D2622-16 | ASTM D5453-12 | ASTM D4294-16 | ASTM D3120-08 | ASTM D7039-15\n\nUltra-low sulfur diesel | X | X | X | X\n\nNo. 2 Oil | X | X | X | X\n\nNo. 4 Oil | X | X | X | X\n\nNo. 6 Oil | X | X | X\n\nOff-road Diesel | X | X | X | X\n\nCrude Oil | X | X | X\n\nOn-road Low-sulfur Diesel | X | X\n\nKerosene-1 | X\n\nKerosene-2 | X\n\nJet A-1 Aviation Fuel | X | X | X\n\nJet B Aviation Fuel | X | X | X\n\nJP-4 Aviation Fuel | X | X | X\n\nJP-8 Aviation Fuel | X | X | X | X\n\nAviation Gasoline | X | X\n\nGasoline | X | X | X\n\n(b) For the purpose of determining the sulfur content, in percent sulfur by weight, for blended liquid fuel, the owner or operator shall use one of the following procedures:\n\n(1) An analysis of the blended product following the applicable methods specified in (a), above; or\n\n(2) An analysis of each blended fuel constituent following the applicable methods specified in (a), above, combined with weight averaging of the constituents.\n\n(c) If the procedure in (b)(2), above, is used, the owner or operator shall:\n\n(1) Calibrate all flow meters and instrumentation used in the weight averaging measurement in accordance with the manufacturer’s recommended procedures; and\n\n(2) Document and maintain on file such calibration and date of calibration.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

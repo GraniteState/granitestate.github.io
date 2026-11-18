@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1404.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1404",
+  "definition": "In-stack Concentration Method",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#8278, eff 2-4-05 (from Env-A 1406.04); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1405.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1404.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1404.04 In-stack Concentration Method",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1404.04 In-stack Concentration Method. If the in-stack concentration method is selected, the owner or operator shall use the following equations to calculate that the emissions of each RTAP is equal to or below the corresponding AAL, where:\n\n(a) “X” means:\n\n(1) For devices or processes emitting from one stack, the emission rate of each RTAP in pounds per hour (lbs/hr); or\n\n(2) For devices or processes emitting from more than one stack, the sum of emission rates of each RTAP from each stack in lbs/hr;\n\n(b) “Y” means the emission rate of each RTAP in grams per second (g/sec) as determined by dividing X by 7.94, as shown in the formula below:\n\nY (g/sec) = X (lbs/hr) / 7.94\n\n(c) “Z” means the emission rate of each RTAP in micrograms per second (μg/sec) as determined by multiplying Y by 106, as shown in the formula below:\n\nZ (μg/sec) = Y (g/sec) x 106\n\n(d) “A” means:\n\n(1) For devices or processes emitting from one stack, the stack volume flow in actual cubic feet per minute (ft3/min); or\n\n(2) For devices or processes emitting from more than one stack, the sum of stack volume flows from each stack in actual ft3/min;\n\n(e) “B” means the stack volume flow in actual cubic meters per second (m3/sec) as determined by dividing A by 2119, as shown in the formula below:\n\nB (m3/sec) = A (ft3/min) / 2119\n\n(f) The in-stack concentration of each RTAP in micrograms per cubic meter (μg/m3) from a device or process either emitting from a single stack or from more than one stack shall be calculated by dividing Z by B, as shown in the formula below:\n\nIn-stack Concentration (μg/m3) = Z (μg/sec) / B (m3/sec)\n\nSource. #8278, eff 2-4-05 (from Env-A 1406.04); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1405.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

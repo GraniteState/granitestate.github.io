@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4008.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4008",
+  "definition": "External Code Sources",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#10877, eff 7-10-15; ss by #13136, eff 11-24-20 (formerly Ins 4009.05); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4008.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4008.04 External Code Sources",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4008.04 External Code Sources.\n\n(a) Countries\n\nAmerican National Standards Institute\n\nhttp://webstore.ansi.org/SdoInfo.aspx?sdoid=39&source=iso_member_body\n\n(b) States, Zip Codes and Other Areas of the US\n\nU.S. Postal Service\n\nhttps://www.usps.com/\n\n(c) National Provider Identifiers\n\nNational Plan & Provider Enumeration System\n\nhttps://nppes.cms.hhs.gov/NPPES/\n\n(d) Health Care Provider Taxonomy\n\nNational Uniform Claim Committee (NUCC)\n\nhttp://www.nucc.org\n\n(e) International Classification of Diseases 9 & 10\n\nAmerican Medical Association\n\nhttp://www.who.int/classifications/icd/en/\n\n(f) HCPCS, CPTs and Modifiers\n\nAmerican Medical Association\n\nhttp://www.ama-assn.org/\n\nhttps://www.cms.gov/medicare/coding-billing/healthcare-common-procedure-system\n\n(g) Dental Procedure Codes and Identifiers\n\nAmerican Dental Association\n\nhttp://www.ada.org/\n\n(h) National Drug Codes and Names\n\nU.S. Food and Drug Administration\n\nhttp://www.fda.gov/drugs/informationondrugs/ucm142438.htm\n\n(i) Standard Professional Billing Elements\n\nCenters for Medicare and Medicaid Services\n\nhttps://www.cms.gov/files/document/837p-cms-1500pdf\n\n(j) Standard Facility Billing Elements\n\nNational Uniform Billing Committee (NUBC)\n\nhttp://www.nubc.org/\n\n(k) DRGs, APCs and POA Codes\n\nCenters for Medicare and Medicaid Services\n\nhttp://www.cms.gov/\n\n(l) Claim Adjustment Reason Codes\n\nX12\n\nhttps://x12.org/codes/claim-adjustment-reason-codes\n\n(m) Remittance Advice Remark Codes\n\nX12\n\nhttps://x12.org/codes/remittance-advice-remark-codes\n\n(n) NCPDP Telecommunication Reject Codes\n\nPrimeWest\n\nhttps://www.primewest.org/ncpdp-telecommunication-reject-codes\n\n(o) NCPDP Telecommunication Reject Codes NCPDC\n\nhttps://www.ncpdp.org/resources.aspx\n\nSource. #10877, eff 7-10-15; ss by #13136, eff 11-24-20 (formerly Ins 4009.05); ss by #14560, eff 4-22-26, EXPIRES: 4-22-36 (formerly Ins 4009.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2304.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2304",
+  "definition": "Performance Testing Requirements Applicable to Cyclone-Firing, Wet-Bottom Boilers",
+  "effectiveDate": "2021-08-25",
+  "historyNote": "#9846, eff 1-8-11; ss by #12766, eff 5-1-19; ss by #13254, eff 8-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2304.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html",
+  "prefLabel": "Env-A 2304.01 Performance Testing Requirements Applicable to Cyclone-Firing, Wet-Bottom Boilers",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2304.01 Performance Testing Requirements Applicable to Cyclone-Firing, Wet-Bottom Boilers. For any cyclone-firing, wet-bottom boiler subject to this chapter, performance tests for TSP emissions shall be conducted in accordance with Env-A 800, subject to the following:\n\n(a) Beginning on the later of July 1, 2015 or the date a source becomes subject to this chapter, stack tests shall be conducted every 3 years; and\n\n(b) At any facility where an affected unit shares a common stack with a second affected unit, the stack emissions shall be tested as from one source, by either of the following methods:\n\n(1) With both units operating simultaneously, a stack test on the combined emissions from both units, or\n\n(2) With one unit operating at a time, separate stack tests on the emissions from each unit.\n\nSource. #9846, eff 1-8-11; ss by #12766, eff 5-1-19; ss by #13254, eff 8-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2300.html"
+}

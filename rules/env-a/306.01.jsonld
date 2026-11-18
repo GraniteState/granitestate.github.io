@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/306.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/306",
+  "definition": "Primary and Secondary Ambient Air Quality Standards for Nitrogen Dioxide (NO2)",
+  "effectiveDate": "2022-05-25",
+  "historyNote": "#6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 306.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html",
+  "prefLabel": "Env-A 306.01 Primary and Secondary Ambient Air Quality Standards for Nitrogen Dioxide (NO2)",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 306.01 Primary and Secondary Ambient Air Quality Standards for Nitrogen Dioxide (NO2). The primary and secondary ambient air quality standards for nitrogen dioxide (NO2), CAS # 10102-44-0, shall be as follows:\n\n(a) The annual primary ambient air quality standard for NO2 shall be 53 ppb, annual average concentration;\n\n(b) The 1-hour primary ambient air quality standard for NO2 shall be 100 ppb, 1-hour average concentration; and\n\n(c) The secondary ambient air quality standard for NO2 shall be 0.053 ppm, equivalent to 100 μg/m3, annual arithmetic mean concentration.\n\nSource. #6227, eff 4-25-96; ss by #8054, eff 2-28-04; ss by #10173, eff 9-1-12; ss by #13382, eff 5-25-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a300.html"
+}

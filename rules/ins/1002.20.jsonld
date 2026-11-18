@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1002.20",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "417-A:11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1002",
+  "definition": "Insurer Documentation",
+  "effectiveDate": "2015-10-26",
+  "historyNote": "#8900, eff 7-1-07; renumbered by #9495 (from Ins 1002.19), EXPIRED: 7-1-15 New. #10962, eff 10-26-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1002.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html",
+  "prefLabel": "Ins 1002.20 Insurer Documentation",
+  "priorExpiration": "2015-07-01",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1002.20 Insurer Documentation. Every insurer shall maintain in its files, in either written or electronic form, physical evidence of compliance with all of the provisions of this part and RSA 400-B.\n\nSource. #8900, eff 7-1-07; renumbered by #9495 (from Ins 1002.19), EXPIRED: 7-1-15\n\nNew. #10962, eff 10-26-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1000.html"
+}

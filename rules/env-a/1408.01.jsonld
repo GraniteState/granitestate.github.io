@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1408.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:4",
+      "source": "https://granitestate.github.io/rsa/125-I/125-I-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-I/125-I-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1408",
+  "definition": "Designation of Safety Factors",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#6468-B, eff 3-5-97; ss and moved by #8278, eff 2-4-05 (from Env-A 1408.01); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1407.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1408.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1408.01 Designation of Safety Factors",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1408.01 Designation of Safety Factors. For the purpose of providing adequate protection to sensitive populations, the department shall designate a safety factor for each RTAP, as follows:\n\n(a) For a class I RTAP, the safety factor shall be 100;\n\n(b) For a class II RTAP, the safety factor shall be 71; and\n\n(c) For a class III RTAP, the safety factor shall be 24.\n\nSource. #6468-B, eff 3-5-97; ss and moved by #8278, eff 2-4-05 (from Env-A 1408.01); ss by #9601, eff 11-25-09; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1407.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

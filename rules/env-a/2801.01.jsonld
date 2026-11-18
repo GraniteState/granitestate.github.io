@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2801.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2801",
+  "definition": "Purpose",
+  "effectiveDate": "2018-12-22",
+  "historyNote": "#6428-B, eff 1-18-97 (formerly Env-A 1210); ss by #8218, eff 11-24-04; ss by #9793, eff 10-1-10; ss by #12693, eff 12-22-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2801.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2800.html",
+  "prefLabel": "Env-A 2801.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2801.01 Purpose. The purpose of this chapter is to establish:\n\n(a) Standards for particulate matter emissions and visible emissions for sand and gravel sources, non-metallic mineral processing plants, and cement and concrete sources;\n\n(b) Fugitive dust requirements for sand and gravel sources, non-metallic mineral processing plants, and cement and concrete sources; and\n\n(c) Permit-by-notification requirements for non-metallic mineral processing plants.\n\nSource. #6428-B, eff 1-18-97 (formerly Env-A 1210); ss by #8218, eff 11-24-04; ss by #9793, eff 10-1-10; ss by #12693, eff 12-22-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2800.html"
+}

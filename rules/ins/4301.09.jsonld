@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4301.09",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A",
+      "source": "https://granitestate.github.io/rsa/400-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "402:53",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A",
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4301",
+  "definition": "Penalty",
+  "effectiveDate": "2026-02-07",
+  "historyNote": "#8935, eff 8-1-07; ss by #10963, eff 10-26-15; ss by #14506, eff 2-7-26, EXPRES: 2-7-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4301.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4300.html",
+  "prefLabel": "Ins 4301.09 Penalty",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4301.09 Penalty.\n\n(a) Any insurance producer who knowingly violates any provision of this part shall be subject to the provisions of RSA 400-A:15, III.\n\n(b) In addition to (a) above, violations involving possible criminal acts shall be referred to the office of the attorney general or to the county attorney for investigation and prosecution.\n\nSource. #8935, eff 8-1-07; ss by #10963, eff 10-26-15; ss by #14506, eff 2-7-26, EXPRES: 2-7-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4300.html"
+}

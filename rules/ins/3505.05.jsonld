@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3505.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "408:33",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:6",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3505",
+  "definition": "Optional Exemption for Yearly Renewable Term Reinsurance",
+  "effectiveDate": "2017-07-25",
+  "historyNote": "#7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 3505.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html",
+  "prefLabel": "Ins 3505.05 Optional Exemption for Yearly Renewable Term Reinsurance",
+  "recordType": "rule-section",
+  "ruleText": "Ins 3505.05 Optional Exemption for Yearly Renewable Term Reinsurance.\n\n(a) At the option of the company, the following approach for reserves on YRT reinsurance may be used:\n\n(1) Calculate the valuation net premium for each future policy year as the tabular cost of insurance for that future year;\n\n(2) Basic reserves shall never be less than the tabular cost of insurance for the appropriate period, as defined in Ins 3505.03;\n\n(3) Deficiency reserves:\n\na. For each policy year, calculate the excess, if greater than zero, of the valuation net premium over the respective maximum guaranteed gross premium; and\n\nb. Deficiency reserves shall never be less than the sum of the present values, at the date of valuation, of the excesses determined in accordance with subparagraph a. above;\n\n(4) For purposes of this subsection, the calculations use the maximum valuation interest rate and the 1980 CSO mortality tables with or without ten-year select mortality factors, or any other table adopted after the 2017 effective date of this rule by the NAIC and promulgated by rule by the commissioner for this purpose;\n\n(5) A reinsurance agreement shall be considered YRT reinsurance for purposes of this subsection if only the mortality risk is reinsured; and\n\n(6) If the assuming company chooses this optional exemption, the ceding company’s reinsurance reserve credit shall be limited to the amount of reserve held by the assuming company for the affected policies.\n\nSource. #7419, eff 7-1-01; ss by #9516, eff 7-25-09; ss by #12219, eff 7-25-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3500.html"
+}

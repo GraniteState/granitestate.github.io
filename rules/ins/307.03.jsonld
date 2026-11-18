@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/307.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "410:4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/307",
+  "definition": "Definitions",
+  "effectiveDate": "2016-12-31",
+  "historyNote": "#3163, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5657, eff 7-1-93; ss by #7015, INTERIM, eff 7-1-99, EXPIRED: 10-29-99 New. #7450, eff 2-16-01; ss by #9494, eff 6-29-09; ss by #12034, eff 12-31-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 307.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 307.03 Definitions",
+  "priorExpiration": "1999-10-29",
+  "recordType": "rule-section",
+  "ruleText": "Ins 307.03 Definitions.\n\n(a) “Annuity 2000 Mortality Table” means that mortality table developed by the Society of Actuaries Committee on Life Insurance Research.\n\n(b) “Annuity 2012 IAR Mortality Table” means that Generational mortality table developed by the Society of Actuaries Committee on Life Insurance Research and containing rates, qx2012+n, derived from a combination of the 2012 IAM Period Table and Projection Scale G2, using the methodology stated in Ins 307.07.\n\n(c) “Generational Mortality Table” means a mortality table containing a set of mortality rates that decrease for a given age from one year to the next, based on a combination of a Period table and a projection scale containing rates of mortality improvement.\n\n(d) \"1983 Table 'a'\" means that mortality table developed by the Society of Actuaries Committee to Recommend a New Mortality Basis for Individual Annuity Valuation and adopted as a recognized mortality table for annuities in June 1982 by the National Association of Insurance Commissioners.\n\n(e) \"1983 GAM Table\" means that mortality table developed by the Society of Actuaries Committee on Annuities and adopted as recognized mortality tables for annuities in December 1983 by the National Association of Insurance Commissioners.\n\n(f) “1994 GAR Table” means that mortality table developed by the Society of Actuaries Group Annuity Valuation Table Task Force.\n\n(g) “Period table” means a table of mortality rates applicable to a given calendar year known as the Period.\n\n(h) “Projection Scale G2 (Scale G2)” is a table of annual rates, G2x, of mortality improvement by age for projecting future mortality rates beyond calendar year 2012. This table was developed by the Society of Actuaries Committee on Life Insurance Research and is available as referenced in Appendix B.\n\n(i) “2012 Individual Annuity Mortality Period Life (2012 IAM Period) Table” means the Period table containing loaded mortality rates for calendar year 2012. This table contains rates, qx2012, developed by the Society of Actuaries Committee on Life Insurance Research and is available as referenced in Appendix B.\n\nSource. #3163, eff 12-24-85; ss by #4287, eff 7-1-87; ss by #5657, eff 7-1-93; ss by #7015, INTERIM, eff 7-1-99, EXPIRED: 10-29-99\n\nNew. #7450, eff 2-16-01; ss by #9494, eff 6-29-09; ss by #12034, eff 12-31-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

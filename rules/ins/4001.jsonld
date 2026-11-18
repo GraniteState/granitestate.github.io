@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4001",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-G:11",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-11",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-G:11-a",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-11-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-G:14",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-14",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-11",
+    "https://granitestate.github.io/rsa/420-G/420-G-11-a",
+    "https://granitestate.github.io/rsa/420-G/420-G-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4000",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/4001.01"
+  ],
+  "notation": "Ins 4001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html",
+  "prefLabel": "Ins 4001 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 4001 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4000.html"
+}

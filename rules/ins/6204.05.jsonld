@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6204.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6204",
+  "definition": "Required Disclosure Provisions",
+  "effectiveDate": "2021-01-25",
+  "historyNote": "#13163, eff 1-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6204.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html",
+  "prefLabel": "Ins 6204.05 Required Disclosure Provisions",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6204.05 Required Disclosure Provisions.\n\n(a) Insurers, except direct response insurers, shall give a person applying for cancer coverage the National Association of Insurance Commissioners’ (NAIC’s) “A Shopper’s Guide to Cancer Insurance”, available as referenced in Appendix B, at the time of application enrollment and shall obtain all recipients’ written acknowledgement of the guide’s delivery. Direct response insurers shall provide the NAIC’s “A Shopper’s Guide to Cancer Insurance” upon request but not later than the time that the policy or certificate is delivered.\n\n(b) All specified disease policies and certificates shall contain on the cover page, in either contrasting color or in boldface type at least equal to the size type used for headings or captions of sections in the [policy] [certificate], a prominent statement as follows:\n\n“Notice to Buyer: This is a specified disease [policy] [certificate]. This [policy] [certificate] provides limited benefits. Benefits provided are supplemental and are not intended to cover all medical expenses. Read your [policy] [certificate] carefully with the outline of coverage and the Shopper’s Guide.”\n\nSource. #13163, eff 1-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6200.html"
+}

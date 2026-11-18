@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3504.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3504",
+  "definition": "Calculation of Maximum Design Waste Burning Capacity",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3504.01 Calculation of Maximum Design Waste Burning Capacity",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3504.01 Calculation of Maximum Design Waste Burning Capacity.\n\n(a) For the purposes of (c), below, to calculate the maximum design waste burning capacity of intermittent or continuous HMIWI units, the following shall apply:\n\n(1) “C” means the HMIWI capacity in lb/hr;\n\n(2) “Pv” means the primary chamber volume in ft3;\n\n(3) The primary chamber heat release factor in Btu/ft3/hr shall be 15,000; and\n\n(4) The standard waste heating value in Btu/lb shall be 8,500.\n\n(b) For the purposes of (c), below, to calculate the maximum design waste burning capacity of batch HMIWI units, the following shall apply:\n\n(1) “C” means the HMIWI capacity in lb/hr;\n\n(2) “Pv” means the primary chamber volume in ft3;\n\n(3) The waste density in lb/ft3 shall be 4.5; and\n\n(4) The typical hours of operation of a batch HMIWI unit in hrs shall be 8.\n\n(c) To calculate the maximum design waste burning capacity, the owner or operator of a HMIWI unit subject to the provisions of this chapter shall:\n\n(1) For intermittent and continuous HMIWI, multiply the primary chamber volume by the primary chamber heat release factor and divide the product by the standard waste heating value, as in the formula below:\n\nC = (Pv x 15,000) / 8,500; or\n\n(2) For batch HMIWI, multiply the primary chamber volume by the waste density and divide the product by the typical hours of operation of a batch HMIWI unit, as in the formula below:\n\nC = (Pv x 4.5) / 8\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

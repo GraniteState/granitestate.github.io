@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1404.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "412",
+      "source": "https://granitestate.github.io/rsa/412",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/412"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1404",
+  "definition": "Reflecting Driver Performance",
+  "effectiveDate": "2021-01-25",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1404.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html",
+  "prefLabel": "Ins 1404.03 Reflecting Driver Performance",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1404.03 Reflecting Driver Performance.\n\n(a) Rating systems or rating plans used by insurers shall include means by which insureds are credited with good driving experience or surcharged to reflect certain loss and violation history.\n\n(b) Every insurer shall clearly provide on, or attached to, the renewal notice or declaration page of each policy delivered to the insured an indication that discounts, credits, or surcharges are included in the premium charge. Any insurer unable to provide a listing with sufficient detail showing occurrences and violations which have impacted the premium shall, at a minimum, indicate that the insured may contact the producer or insurer for more specific information.\n\n(c) Insurers shall clearly identify within their filed rating plans and guidelines specifics with respect to the types of violations and occurrences which impact an insured’s premium and the means by which this is accomplished.\n\nSource. (See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html"
+}

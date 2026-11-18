@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2001.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:2",
+      "source": "https://granitestate.github.io/rsa/420-E/420-E-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-E/420-E-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2001",
+  "definition": "Scope of Rule",
+  "effectiveDate": "2018-06-11",
+  "historyNote": "#5931, eff 12-5-94, EXPIRED: 12-5-00 New. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2001.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html",
+  "prefLabel": "Ins 2001.02 Scope of Rule",
+  "priorExpiration": "2000-12-05",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2001.02 Scope of Rule.\n\n(a) This chapter shall apply to any medical utilization review entity, as defined under Ins 2001.03(b)(8), that performs medical utilization review services with respect to beneficiaries whose insurance policies or certificates or other evidence of health care expense coverage were delivered or issued for delivery in New Hampshire.\n\n(b) This chapter shall not apply to any organization exempt under RSA 420-E:2, I or any person, partnership, or corporation if:\n\n(1) Its medical utilization review activities are performed solely for research purposes and are not used in any manner to determine commensurability of pending claims or eligibility of covered persons for benefits or continuation thereof; or\n\n(2) Its medical utilization review activities are performed solely pursuant to any program of the United States government and are preempted under federal law, including but not limited to:\n\na. Title XVIII of the United States Social Security Act;\n\nb. The Civilian Health and Medical Program of the United States (CHAMPUS), 10 U.S.C. 1072(4), Medicare; or\n\nc. Title XIX of the United States Social Security Act, Medicaid.\n\nSource. #5931, eff 12-5-94, EXPIRED: 12-5-00\n\nNew. #7683, eff 6-1-02; ss by #9721-A, eff 6-11-10; ss by #12545, eff 6-11-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2000.html"
+}

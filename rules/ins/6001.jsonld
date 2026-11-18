@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6001",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:6",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/415/415-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415:18",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:2",
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "415-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415/415-6",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6000",
+  "definition": "STANDARD DEFINITIONS AND POLICY PROVISIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/6001.01",
+    "https://granitestate.github.io/rules/ins/6001.02",
+    "https://granitestate.github.io/rules/ins/6001.03",
+    "https://granitestate.github.io/rules/ins/6001.04",
+    "https://granitestate.github.io/rules/ins/6001.05",
+    "https://granitestate.github.io/rules/ins/6001.06",
+    "https://granitestate.github.io/rules/ins/6001.07"
+  ],
+  "notation": "Ins 6001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6000.html",
+  "prefLabel": "Ins 6001 STANDARD DEFINITIONS AND POLICY PROVISIONS",
+  "recordType": "rule-part",
+  "ruleText": "Part Ins 6001 had formerly been numbered as Ins 1901.01 through Ins 1901.05 in Part Ins 1901 titled “Minimum Standards for Accident and Health Insurance” in Chapter Ins 1900 titled “Accident and Health Insurance.” Former rules Ins 1901.01 through Ins 1901.05 expired 4-17-14. The filings affecting one or more of the former rules Ins 1901.01 through Ins 1901.05 included the following documents:\n\n#1900, eff 1-1-82\n\n#2101, eff 10-1-82\n\n#2582, eff 1-23-84\n\n#2732, eff 5-31-84\n\n#3164, eff 12-24-85\n\n#4287, eff 7-1-87\n\n#4811, eff 5-4-90\n\n#5656, eff 7-1-93\n\n#5942, eff 1-1-95\n\n#5943, eff 1-1-95 (Ins 1901.05(e) EXPIRED 1-1-03)\n\n#7017, INTERIM, eff 7-1-99, EXPIRED 10-29-99\n\n#8609, eff 4-17-06, EXPIRED 4-17-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6000.html"
+}

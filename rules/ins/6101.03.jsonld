@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/6101.03",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415:18",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:2",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/415-A/415-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/415-A/415-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/6101",
+  "definition": "Requirements for Notice of Discontinuance",
+  "effectiveDate": "2018-01-31",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 6100) #12471, eff 1-31-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 6101.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html",
+  "prefLabel": "Ins 6101.03 Requirements for Notice of Discontinuance",
+  "recordType": "rule-section",
+  "ruleText": "Ins 6101.03 Requirements for Notice of Discontinuance. Any notice of discontinuance shall comply with the provisions of RSA 415:18.\n\nSource. (See Revision Note #1 at chapter heading for Ins 6100) #12471, eff 1-31-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins6100.html"
+}

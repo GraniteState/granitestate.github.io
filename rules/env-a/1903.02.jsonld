@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1903.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1903",
+  "definition": "Trained and Competent Operator Required",
+  "effectiveDate": "2023-07-22",
+  "historyNote": "#10317, eff 4-23-13 (from Env-A 1906.02); ss by #13697, eff 7-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1903.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1900.html",
+  "prefLabel": "Env-A 1903.02 Trained and Competent Operator Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1903.02 Trained and Competent Operator Required. The owner or operator of an incinerator shall designate an individual who has been trained and is competent in the operation of the incinerator to be in charge of the device.\n\nSource. #10317, eff 4-23-13 (from Env-A 1906.02); ss by #13697, eff 7-22-23\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1900.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/7001.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "415-A:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:2",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/7001",
+  "definition": "Disclosures",
+  "effectiveDate": "2019-06-10",
+  "historyNote": "#12798, eff 6-10-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 7001.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins7000.html",
+  "prefLabel": "Ins 7001.08 Disclosures",
+  "recordType": "rule-section",
+  "ruleText": "Ins 7001.08 Disclosures. Policies shall display prominently in the contract and on any application materials provided in connection with enrollment in such coverage, in at least 14 point type:\n\n“This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage.”\n\nSource. #12798, eff 6-10-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins7000.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3510.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3510",
+  "definition": "Small, Remote HMIWI Inspection Coverage",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3510.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3510.02 Small, Remote HMIWI Inspection Coverage",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3510.02 Small, Remote HMIWI Inspection Coverage. Inspections pursuant to Env-A 3510.01 shall include the following:\n\n(a) Inspection of all burners, pilot assemblies, and pilot sensing devices for proper operation;\n\n(b) Proper adjustment of primary and secondary chamber combustion air flow;\n\n(c) Inspection of hinges and door latches;\n\n(d) Inspection of dampers, fans, and blowers for proper operation;\n\n(e) Inspection of HMIWI door and door gaskets for proper sealing;\n\n(f) Inspection of motors for proper operation;\n\n(g) Inspection of primary chamber refractory lining;\n\n(h) Inspection of incinerator shell for corrosion and hot spots;\n\n(i) Inspection of secondary/tertiary chamber and stack;\n\n(j) Inspection of mechanical loader, including limit switches, for proper operation, if applicable;\n\n(k) Visual inspection of waste bed grates;\n\n(l) For the burn cycle that follows the inspection, documentation that the incinerator is operating properly and that any necessary adjustments have been made;\n\n(m) Inspection of air pollution control device or devices for proper operation, if applicable;\n\n(n) Inspection of waste heat boiler systems to ensure proper operation, if applicable;\n\n(o) Inspection of bypass stack components;\n\n(p) Proper calibration of thermocouples, sorbent feed systems and any other monitoring equipment; and\n\n(q) General observation that the equipment is maintained in good operating condition.\n\nSource. #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/103.16",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Emission Limitation",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/103",
+  "definition": "Emission limitation",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#6057-A, eff 6-30-95; renumbered by #8256 (from Env-A 101.108), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.71), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.72) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 103.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 103.16 Emission limitation",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 103.16 “Emission limitation” means “emission limitation” as defined in § 302(k) of the Act, namely “a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction and any design, equipment work practice or operational standard promulgated under this Act.” This term includes “emission standard”.\n\nSource. #6057-A, eff 6-30-95; renumbered by #8256 (from Env-A 101.108), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.71), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.72) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

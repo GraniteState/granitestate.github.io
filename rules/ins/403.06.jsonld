@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/403.06",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/403",
+  "definition": "Hospital Tiering",
+  "effectiveDate": "2009-07-10",
+  "historyNote": "#9511, eff 7-10-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 403.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html",
+  "prefLabel": "Ins 403.06 Hospital Tiering",
+  "recordType": "rule-section",
+  "ruleText": "Ins 403.06 Hospital Tiering.\n\n(a) Hospital tiers shall be incorporated into the HealthFirst standard benefit design. The member deductible for hospital services shall be based on whether the member obtains services from a tier 1or a tier 2 hospital. A listing of the hospitals in each tier shall be provided in the HealthFirst benefit description.\n\n(b) The HealthFirst standard benefit design shall require greater cost sharing for members seeking services from a tier 2 hospital than for those who obtain services from a tier 1 hospital.\n\n(c) The procedure for the assignment of hospitals to tiers shall be as follows:\n\n(1) The department shall use the all payer claims data base for the previous calendar year, collected pursuant to RSA 420-G:11, and the New Hampshire health care facility data, collected pursuant to He-C 1500, to determine historical pricing and payment differences among hospitals;\n\n(2) Assignment to a tier shall be based on relative payment differences among the hospitals as well as geographical proximity and access;\n\n(3) A hospital in close proximity to a lower cost hospital that provides services within the same hospital service area may be assigned to tier 2 despite its overall cost ranking across all hospitals in the state. The assignment of a hospital to tier 2 shall be based on geographical location;\n\n(4) All hospitals located out of state shall be assigned to tier 2; and\n\n(5) The department shall publish the hospital tiering by December 1st of each year. The hospital tiers shall be effective on a calendar year basis beginning on January 1st of each year.\n\nSource. #9511, eff 7-10-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins400.html"
+}

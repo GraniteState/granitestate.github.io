@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/905.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/905",
+  "definition": "General NOx Recordkeeping",
+  "effectiveDate": "2025-09-20",
+  "expirationDate": "2035-09-20",
+  "historyNote": "#6983-B, eff 4-23-99 (formerly Env-A 901.08); ss by #8872, eff 4-21-07; ss by #10892, eff 7-18-15; ss by #14374, eff 9-20-25, EXPIRES: 9-20-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 905.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html",
+  "prefLabel": "Env-A 905.02 General NOx Recordkeeping",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 905.02 General NOx Recordkeeping. The owner or operator of any stationary source, area source, or device subject to this part shall record the following information and maintain such records at the facility:\n\n(a) Identification of each combustion device that is subject to Env-A 600; and\n\n(b) Operating schedule during the high ozone season for each combustion device identified in (a), above, including for each device:\n\n(1) The typical hours of operation per day;\n\n(2) The typical days of operation per calendar month;\n\n(3) Type and amount of fuel burned;\n\n(4) Design heat input rate in million BTUs per hour or, for incinerators, in tons per hour; and\n\n(5) The following NOx emission data:\n\na. Actual monthly NOx emissions;\n\nb. The typical high ozone season day NOx emissions, in pounds per day; and\n\nc. The emission factors and the origin of the emission factors used to calculate the NOx emissions.\n\nSource. #6983-B, eff 4-23-99 (formerly Env-A 901.08); ss by #8872, eff 4-21-07; ss by #10892, eff 7-18-15; ss by #14374, eff 9-20-25, EXPIRES: 9-20-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a900.html"
+}

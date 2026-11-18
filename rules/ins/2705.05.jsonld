@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2705.05",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-E:4-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:7-b",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-7-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-7-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2705",
+  "definition": "Use of Uniform Prior Authorization Forms and Electronic Standard for Prescription Drug Benefits",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2705.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2705.05 Use of Uniform Prior Authorization Forms and Electronic Standard for Prescription Drug Benefits",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2705.05 Use of Uniform Prior Authorization Forms and Electronic Standard for Prescription Drug Benefits.\n\n(a) Health insurers shall ensure that the version of the uniform prior authorization form that they have prepopulated pursuant to Ins 2705.04(c) is available and accessible in a centralized location online.\n\n(b) Except as provided in (c) below, health insurers, pharmacy benefits managers, and utilization review entities shall treat the information submitted via uniform prior authorization forms as sufficient information upon which a decision regarding the prior authorization request shall be made as follows:\n\n(1) Health insurers, pharmacy benefits managers, and utilization review entities shall not require prescribing providers to provide information in excess of the information required on the uniform prior authorization forms; and\n\n(2) Health insurers, pharmacy benefits managers, and utilization review entities shall not:\n\na. Require or allow prescribing providers to submit information on a form other than the uniform prior authorization forms, even if the other form contains the same information as the uniform prior authorization forms; or\n\nb. Require or request that prescribing providers submit any form or information in addition to the uniform prior authorization forms.\n\n(c) Following receipt of uniform prior authorization forms that have been filled out and submitted, health insurers, pharmacy benefits managers, and utilization review entities may request that prescribing providers submit additional information to clarify information specifically requested on the uniform prior authorization forms only to the extent that:\n\n(1) The prescribing provider provided information that conflicts with the records of the health insurer, pharmacy benefits manager, or utilization review entity; or\n\n(2) The prescribing provider did not provide the information requested by the uniform prior authorization forms, including but not limited to clinical information that is needed in accordance with the carrier clinical review criteria and that would typically be supplied in Section F, except that prescribing providers shall not be required to complete Section A “Destination of Request” of the uniform prior authorization forms or ePA.\n\n(d) Failure of a prescribing provider to complete section F or any portion thereof shall not be grounds for denial of prior authorization by a health insurer, pharmacy benefits manager, or utilization review entity, except to the extent the information not provided is required under the carrier clinical review criteria, and the health insurer, pharmacy benefits manager, or utilization review entity has inquired about the information in accordance with (c)(2) above.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}

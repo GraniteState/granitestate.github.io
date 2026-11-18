@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3512.02",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3512",
+  "definition": "Monitoring Requirements for Small, Medium, and Large HMIWI",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3512.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3512.02 Monitoring Requirements for Small, Medium, and Large HMIWI",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3512.02 Monitoring Requirements for Small, Medium, and Large HMIWI. The owner or operator of a small, medium, or large HMIWI unit subject to Env-A 3505.02 emission limits shall:\n\n(a) Install, calibrate to manufacturers’ specifications, maintain, and operate devices or establish methods for monitoring the applicable maximum and minimum operating parameters in accordance with Table 3500-4 such that these devices or methods measure and record values for these operating parameters at the frequencies indicated in Table 3500-4 at all times except during periods of startup and shutdown;\n\n(b) Install, calibrate to manufacturers’ specifications, maintain, and operate a device or method for measuring the use of a bypass stack including date, time, and duration;\n\n(c) For HMIWI units using a device other than the air pollution control devices pursuant to Env-A 3511.05(b) to comply with Env-A 3505.02 emission limits, install, calibrate to manufacturers’ specifications, maintain, and operate the equipment necessary to monitor the site specific operating parameters developed pursuant to Env-A 3511.05(i);\n\n(d) Obtain monitoring data at all times during HMIWI operation except during periods of monitoring equipment malfunction, calibration, or repair; and\n\n(e) At a minimum, obtain valid monitoring data for 75 percent of the operating hours per day and for 90 percent of the operating days per calendar quarter that the designated HMIWI unit is combusting hospital waste and/or medical/infectious waste.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

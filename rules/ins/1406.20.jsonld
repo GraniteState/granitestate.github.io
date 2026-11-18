@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1406.20",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "404-C",
+      "source": "https://granitestate.github.io/rsa/404-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "412:43",
+      "via": "appendix"
+    },
+    {
+      "citation": "417-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/404-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1406",
+  "definition": "Nonrenewal and Cancellation Protection",
+  "effectiveDate": "2023-01-24",
+  "historyNote": "(See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21; ss by #13534, eff 1-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1406.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html",
+  "prefLabel": "Ins 1406.20 Nonrenewal and Cancellation Protection",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1406.20 Nonrenewal and Cancellation Protection. Insureds ceded to the facility shall be entitled to the same statutory and regulatory protections governing nonrenewal and cancellation as in the voluntary market.\n\nSource. (See Revision Note #1 at chapter heading for Ins 1400) #13162, eff 1-25-21; ss by #13534, eff 1-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1400.html"
+}

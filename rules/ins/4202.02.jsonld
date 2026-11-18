@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4202.02",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "126-S:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4202",
+  "definition": "Uninsured Encounter Data Set Submission Description",
+  "effectiveDate": "2010-11-01",
+  "historyNote": "#9806, eff 11-1-10",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4202.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html",
+  "prefLabel": "Ins 4202.02 Uninsured Encounter Data Set Submission Description",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4202.02 Uninsured Encounter Data Set Submission Description. Beginning with encounters occurring on January 1, 2011, hospitals and community health centers shall submit to the department, or its designee, a completed healthcare data set for all encounters for healthcare services with uninsured patients. Each hospital shall ensure submittal of all uninsured patient encounter data of the hospital, and all licensed healthcare providers directly owned or controlled by the hospital or a financial intermediary of the hospital. Data already submitted by hospitals under RSA 126:25, or subject to reporting under RSA 126:25, shall not be reported.\n\nSource. #9806, eff 11-1-10",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4200.html"
+}

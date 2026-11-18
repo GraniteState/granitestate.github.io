@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4108.04",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4108",
+  "definition": "Calculating VOC Content",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4108.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4108.04 Calculating VOC Content",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4108.04 Calculating VOC Content.\n\n(a) For purposes of the calculation described in (b), below, the following shall apply:\n\n(1) “A” means the total weight of a unit of product, excluding container and packaging;\n\n(2) “B” means the total weight of all VOCs per unit of product; and\n\n(3) “C” means the total weight of all exempted VOCs per unit of product.\n\n(b) VOC content shall be calculated by subtracting the total weight of VOCs exempted under Env-A 4101.04 per unit of product from the total weight of all VOCs per unit of product, dividing the resultant figure by the total weight of unit excluding container and packaging, and multiplying the result by 100, as shown in the formula below:\n\nVOC Content = { ( B - C ) / A } x 100\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

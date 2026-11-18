@@ -131,6 +131,14 @@
       "sections": 65
     },
     {
+      "code": "Env-A",
+      "html": "rules/env-a/index.html",
+      "id": "https://granitestate.github.io/rules/env-a",
+      "jsonld": "rules/env-a/index.jsonld",
+      "name": "Air Related Programs",
+      "sections": 2446
+    },
+    {
       "code": "Env-WMC",
       "html": "rules/env-wmc/index.html",
       "id": "https://granitestate.github.io/rules/env-wmc",
@@ -185,6 +193,14 @@
       "jsonld": "rules/hum/index.jsonld",
       "name": "Commission for Human Rights",
       "sections": 140
+    },
+    {
+      "code": "Ins",
+      "html": "rules/ins/index.html",
+      "id": "https://granitestate.github.io/rules/ins",
+      "jsonld": "rules/ins/index.jsonld",
+      "name": "Commissioner, Insurance Department",
+      "sections": 1201
     },
     {
       "code": "Juv",
@@ -341,14 +357,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 42,
-    "chapters": 275,
+    "agencies": 44,
+    "chapters": 375,
     "droppedHeadings": 105,
-    "parts": 1980,
-    "rules": 14139,
-    "sections": 11884,
-    "unresolvedRows": 9434,
-    "unresolvedStatutes": 995
+    "parts": 2494,
+    "rules": 18400,
+    "sections": 15531,
+    "unresolvedRows": 13684,
+    "unresolvedStatutes": 1403
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

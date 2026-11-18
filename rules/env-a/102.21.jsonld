@@ -1,0 +1,69 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/102.21",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Ambient Air Limit",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/102",
+  "definition": "Ambient air limit",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96 New. #6468-A, eff 3-5-97; renumbered by #8256 (from Env-A 101.27), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.22) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 102.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 102.21 Ambient air limit",
+  "priorExpiration": "1996-12-22",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 102.21 “Ambient air limit” means “ambient air limit” as defined in RSA 125-I:2, IV, reprinted in Appendix C.\n\nSource. #6328, INTERIM, eff 8-24-96, EXPIRED: 12-22-96\n\nNew. #6468-A, eff 3-5-97; renumbered by #8256 (from Env-A 101.27), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.22) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

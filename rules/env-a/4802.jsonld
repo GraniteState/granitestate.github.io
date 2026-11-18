@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4802",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "IMPLEMENTATION OF (CO2) ALLOWANCE AUCTIONS",
+  "authority": [
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:26",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "125-O:29",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4800",
+  "definition": "IMPLEMENTATION OF CO2 ALLOWANCE AUCTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4802.01",
+    "https://granitestate.github.io/rules/env-a/4802.02",
+    "https://granitestate.github.io/rules/env-a/4802.03",
+    "https://granitestate.github.io/rules/env-a/4802.04",
+    "https://granitestate.github.io/rules/env-a/4802.05"
+  ],
+  "notation": "Env-A 4802",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html",
+  "prefLabel": "Env-A 4802 IMPLEMENTATION OF CO2 ALLOWANCE AUCTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4802 IMPLEMENTATION OF CO2 ALLOWANCE AUCTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4800.html"
+}

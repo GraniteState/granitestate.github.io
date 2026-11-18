@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/3512.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/3512",
+  "definition": "Monitoring Requirements for Small, Remote HMIWI",
+  "effectiveDate": "2007-01-05",
+  "historyNote": "#6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 3512.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html",
+  "prefLabel": "Env-A 3512.01 Monitoring Requirements for Small, Remote HMIWI",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 3512.01 Monitoring Requirements for Small, Remote HMIWI. The owner or operator of a small, remote HMIWI unit subject to Env-A 3505.01 shall:\n\n(a) Install, calibrate to manufacturers’ specifications, maintain, and operate a device for measuring and recording the temperature of the secondary chamber on a continuous basis, the output of which shall be recorded, at a minimum, once every minute throughout the operation;\n\n(b) Install, calibrate to manufacturers’ specification, maintain, and operate a device which automatically measures and records the date, time, and weight of each charge fed into the HMIWI;\n\n(c) Obtain monitoring data at all times during the HMIWI operation except during periods of monitoring equipment malfunction, calibration, or repair; and\n\n(d) At a minimum, obtain valid monitoring data for 75 percent of the operating hours per day and for 90 percent of the operating days per calendar quarter that the HMIWI unit is combusting hospital or medical/infectious waste or any combination thereof.\n\nSource. #6938, eff 1-30-99; ss by #8788, eff 1-5-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a3500.html"
+}

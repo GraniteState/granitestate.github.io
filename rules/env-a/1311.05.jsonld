@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1311.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1311",
+  "definition": "Control Requirements and Emission Limits for Stationary Internal Combustion Engines Not Having Manual Adjustment Capabilities",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1311.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1311.05 Control Requirements and Emission Limits for Stationary Internal Combustion Engines Not Having Manual Adjustment Capabilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1311.05 Control Requirements and Emission Limits for Stationary Internal Combustion Engines Not Having Manual Adjustment Capabilities. The owner or operator of a stationary internal combustion engine that is used as an emergency generator and that does not allow for manual adjustment of the air-to-fuel ratio or ignition timing in order to affect the combustion process, shall:\n\n(a) Install, operate, and maintain an elapsed time meter for each engine to indicate, in cumulative hours, the elapsed operating time for the previous 12 months;\n\n(b) Determine the hours of operation for each engine for the previous 12-month period on a monthly basis;\n\n(c) Operate the engine in conformance with the engine manufacturer’s instructions, such as following maintenance and operating requirements to help minimize emissions; and\n\n(d) For engines subject to 40 CFR Part 60, maintain the engine manufacturer’s instructions at the facility so that they are available for review.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

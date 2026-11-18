@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/810",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(k)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/800",
+  "definition": "AIR POLLUTION CONTROL EQUIPMENT MONITORING PLAN; ADDITIONAL TESTING AND MONITORING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/810.01",
+    "https://granitestate.github.io/rules/env-a/810.02"
+  ],
+  "notation": "Env-A 810",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 810 AIR POLLUTION CONTROL EQUIPMENT MONITORING PLAN; ADDITIONAL TESTING AND MONITORING",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 810 AIR POLLUTION CONTROL EQUIPMENT MONITORING PLAN; ADDITIONAL TESTING AND MONITORING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

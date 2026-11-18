@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/504",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "NATIONAL EMISSION STANDARDS FOR HAZARDOUS AIR POLLUTANTS",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/500",
+  "definition": "National Emission Standards for Hazardous Air Pollutants",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/504.01"
+  ],
+  "notation": "Env-A 504",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a500.html",
+  "prefLabel": "Env-A 504 National Emission Standards for Hazardous Air Pollutants",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 504 National Emission Standards for Hazardous Air Pollutants",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a500.html"
+}

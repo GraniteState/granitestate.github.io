@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.14",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Valid Averaging Periods",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.11); ss by #12762, eff 5-1-19 (from Env-A 808.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.14 Valid Averaging Periods",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.14 Valid Averaging Periods. The number of hours of valid CEM system data required for the calculation of a valid averaging period and for the determination of compliance for different emission standard periods shall be:\n\n(a) For a 3-hour emission standard period, 2 hours of valid data;\n\n(b) For a 4-hour emission standard period, 3 hours of valid data;\n\n(c) For an 8-hour emission standard period, 6 hours of valid data;\n\n(d) For a 12-hour emission standard period, 9 hours of valid data;\n\n(e) For a 24-hour emission standard period, 18 hours of valid data; and\n\n(f) For any emission standard period longer than 24 hours, all valid hours of CEM system data collected during the period shall be included, except as specified in any rolling average established in a permit issued prior to the 2019 effective date of this chapter.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10 (from Env-A 808.11); ss by #12762, eff 5-1-19 (from Env-A 808.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

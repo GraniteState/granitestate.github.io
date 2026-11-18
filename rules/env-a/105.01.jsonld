@@ -1,0 +1,67 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/105.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C",
+      "source": "https://granitestate.github.io/rsa/125-C",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-D",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I",
+      "source": "https://granitestate.github.io/rsa/125-I",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-J",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-M",
+      "source": "https://granitestate.github.io/rsa/125-M",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-O",
+      "source": "https://granitestate.github.io/rsa/125-O",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-R",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "141-E",
+      "source": "https://granitestate.github.io/rsa/141-E",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C",
+    "https://granitestate.github.io/rsa/125-I",
+    "https://granitestate.github.io/rsa/125-M",
+    "https://granitestate.github.io/rsa/125-O",
+    "https://granitestate.github.io/rsa/141-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/105",
+  "definition": "Schedule of Compliance",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "#6057-A, eff 6-30-95; renumbered by #8256 (from Env-A 101.241), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.167), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.169) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html",
+  "prefLabel": "Env-A 105.01 Schedule of Compliance",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 105.01 “Schedule of Compliance” means a schedule of remedial measures that will be implemented by the person(s) responsible for the underlying violations and that includes an enforceable sequence of actions that leads to compliance with applicable implementation plans, emissions standards, emission limitations, emission prohibitions, or other state or federal requirement.\n\nSource. #6057-A, eff 6-30-95; renumbered by #8256 (from Env-A 101.241), (see Revision Note #1 at chapter heading); renumbered by #8304 (see Revision Note #2 at chapter heading); renumbered by #9839 (from Env-A 101.167), (see Revision Note #3 at chapter heading); ss by #13105, eff 9-25-20 (formerly Env-A 101.169) (see Revision Note #4 at chapter heading for Env-A 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a100.html"
+}

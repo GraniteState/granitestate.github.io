@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/805.09",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/805",
+  "definition": "Changes to the Control System",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 805.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 805.09 Changes to the Control System",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 805.09 Changes to the Control System.\n\n(a) Measurements of average face velocity shall be done at all collection points whenever any physical changes are made to the control system; and\n\n(b) Any one of the following shall constitute a change to the capture or control equipment, thereby requiring a new CE test:\n\n(1) An increase of more than 10% in the distance between any emission collection point and the emission source that the collection point is serving;\n\n(2) A reduction in the average face velocity at any emission point ducted to the control device to a value less than 90% of the value measured and recorded during a previous CE test, except for reductions occurring at a collection point as a result of a shutdown of the emission point that said collection point is serving; or\n\n(3) A change in the physical structure or operation which causes an increase or decrease in the amount of a specific air pollutant emitted from a device or which results in the emission of any additional air pollutant, and such change is determined by the department to have a significant impact on air quality as determined by modeling conducted in accordance with 40 CFR 51, Appendix W.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

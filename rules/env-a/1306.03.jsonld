@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1306.03",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1306",
+  "definition": "Emission Standards for Stationary Combustion Turbines Constructed on or Before May 27, 1999",
+  "effectiveDate": "2018-08-15",
+  "historyNote": "(See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1306.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html",
+  "prefLabel": "Env-A 1306.03 Emission Standards for Stationary Combustion Turbines Constructed on or Before May 27, 1999",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1306.03 Emission Standards for Stationary Combustion Turbines Constructed on or Before May 27, 1999. Emissions from a stationary combustion turbine that was constructed prior to May 27, 1999 shall be limited at all times to the applicable hourly average NOx RACT emission limits specified below:\n\n(a) For combined and regenerative cycle combustion turbines:\n\n(1) For gas-fired turbines without oil back-up, 42 ppmvd, corrected to 15% O2, or 0.155 lb. per million Btu;\n\n(2) For gas-fired turbines with oil back-up, the more stringent of:\n\na. When operating on gas, 42 ppmvd, corrected to 15% O2, or 0.155 lb. per million Btu; or\n\nb. When operating on oil, 65 ppmvd, corrected to 15% O2, or 0.253 lb. per million Btu; and\n\n(3) For oil-fired turbines, 65 ppmvd, corrected to 15% O2, or 0.253 lb. per million Btu;\n\n(b) For simple cycle combustion turbines:\n\n(1) For gas-fired turbines without oil back-up, 55 ppmvd, corrected to 15% O2, or 0.203 lb. per million Btu;\n\n(2) For oil-fired turbines, 75 ppmvd, corrected to 15% O2, or 0.292 lb. per million Btu; and\n\n(3) For gas-fired turbines with oil back-up:\n\na. When operating on gas, 55 ppmvd, corrected to 15% O2, or 0.203 lb. per million Btu; and\n\nb. When operating on oil, 75 ppmvd, corrected to 15% O2, or 0.292 lb. per million Btu.\n\nSource. (See Revision Note at chapter heading for Env-A 1300) #9803, eff 10-31-10; ss by #12584, eff 8-15-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1300.html"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4603",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-O:20",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4600",
+  "definition": "CO2 BUDGET PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-a/4603.01",
+    "https://granitestate.github.io/rules/env-a/4603.02",
+    "https://granitestate.github.io/rules/env-a/4603.03",
+    "https://granitestate.github.io/rules/env-a/4603.04"
+  ],
+  "notation": "Env-A 4603",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4600.html",
+  "prefLabel": "Env-A 4603 CO2 BUDGET PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-A 4603 CO2 BUDGET PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4600.html"
+}

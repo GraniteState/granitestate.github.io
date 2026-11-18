@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/207.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/207",
+  "definition": "Settlement",
+  "effectiveDate": "2020-07-27",
+  "historyNote": "(See Revision Note at chapter heading for Ins 200) #13073-A, eff 7-27-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 207.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html",
+  "prefLabel": "Ins 207.01 Settlement",
+  "recordType": "rule-section",
+  "ruleText": "Ins 207.01 Ins 201.06\n\nnone Ins 211.01\n\nDocument #13073-A replaced all prior filings for rules in the former Chapter Ins 200. The prior filings affecting rules in the former Chapter Ins 200 included the following documents:\n\n#2336, eff 4-8-83\n\n#2508, eff 9-23-83\n\n#4287, eff 7-1-87\n\n#5653, eff 7-1-93\n\n#7024, INTERIM, eff 7-1-99\n\n#7121, eff 10-29-99, EXPIRED: 10-29-07\n\n#9052-A, eff 1-2-08\n\n#9052-B, eff 1-2-08 (Ins 207)\n\n#9650-A, eff 2-5-10;\n\n#9650-B, eff 2-5-10 (Ins 207), EXPIRED: 2-5-18\n\n#13073-A, eff 7-27-20\n\nAs practice and procedure rules, the rules in Chapter Ins 200 in Document #13073-A will not expire except pursuant to RSA 541-A:17, II.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins200.html"
+}

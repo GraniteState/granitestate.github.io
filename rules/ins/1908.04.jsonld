@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/1908.04",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "404-G:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/1908",
+  "definition": "Risk Adjustment and Subsidization",
+  "effectiveDate": "2011-11-14",
+  "historyNote": "#10023, eff 11-14-11",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 1908.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html",
+  "prefLabel": "Ins 1908.04 Risk Adjustment and Subsidization",
+  "recordType": "rule-section",
+  "ruleText": "Ins 1908.04 Risk Adjustment and Subsidization.\n\n(a) Risks shall be shared as follows:\n\n(1) Sharing shall be implemented through a risk adjustment and subsidization mechanism whereby all carriers will subsidize losses of certain carriers issuing individual health insurance policies to persons under 19 years old;\n\n(2) Only individual policies with an age rating factor equal to or lower than the lowest applicable age factor for ages 19 and over, and issued directly to persons under 19 years old, shall be eligible for subsidy. For example, persons under 19 years old provided coverage under a family policy issued in the individual market shall not be eligible for subsidy.\n\n(3) Only individual policies issued with the maximum allowable health status factor shall be eligible for subsidy; and\n\n(4) Only policies issued on or after September 23, 2010, the date on which carriers were required under federal law to issue individual policies to persons under 19 years old, shall be eligible for subsidy.\n\n(b) The subsidy eligibility calculation shall be performed as follows:\n\n(1) Except as provided in Ins 1908.06, subsidy calculation shall be for experience incurred during a calendar year;\n\n(2) For purposes of the subsidy calculation, the following additional definitions shall apply:\n\na. \"Subsidizable incurred claims\" means claims incurred on subsidy eligible policies during the experience period and paid through the reporting date;\n\nb. \"Subsidizable gross earned premium\" means earned premium accrued during the experience period from subsidy eligible policies; and\n\nc. \"Experience period net premium\" means subsidizable earned premium times 0.90 less the smaller of:\n\n1. 0.06 times subsidizable incurred claims; or\n\n2. 0.09 times subsidizable gross earned premium;\n\n(3) The subsidy shall be based on the amount by which subsidizable incurred claims (SIC) exceed the experience period net premium (EPNP);\n\n(4) The subsidy shall be calculated by adding the following:\n\na. 97 percent of SIC above 100 percent of EPNP up to 140 percent of EPNP;\n\nb. 93 percent of SIC above 140 percent of EPNP up to 170 percent of EPNP;\n\nc. 85 percent of SIC above 170 percent of EPNP up to 190 percent of EPNP; and\n\nd. 75 percent of SIC above 190 percent of EPNP;\n\n(5) Carriers eligible for risk sharing as described in (a) above shall be eligible for a subsidy based upon experience of the prior calendar year provided that such carrier was actively marketing individual health insurance child-only policies during the experience period.\n\n(c) Applications for a subsidy shall be made as follows:\n\n(1) On or before July 1 of each year, each eligible carrier wishing to apply for a subsidy with respect to the prior year's experience shall make application to the association, including in the application all data required under Ins 1908.04(b) and a calculation of the anticipated amount of the subsidy; and\n\n(2) A carrier that has made application, while an eligible carrier pursuant to (1) above, for a subsidy with respect to the prior calendar year's experience, may submit a corrective application for a corrective subsidy determination and payment based upon additional experience for that calendar year. Such corrective application may be submitted only once, shall be filed not later than 12 months after the July 1 date for initial application, and shall be completed and contain data with respect to its experience in this market during the current calendar year. A carrier shall not need to be an eligible carrier at the time of such corrective application or at the time of receipt of any corrective subsidy payment.\n\n(3) Any errors in the subsidy application shall be reported to the board immediately upon discovery.\n\nSource. #10023, eff 11-14-11",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins1900.html"
+}

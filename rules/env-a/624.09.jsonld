@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/624.09",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:10-b",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/624",
+  "definition": "Human Health Risk Assessment",
+  "effectiveDate": "2022-12-17",
+  "historyNote": "#8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 624.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html",
+  "prefLabel": "Env-A 624.09 Human Health Risk Assessment",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 624.09 Human Health Risk Assessment.\n\n(a) The owner or operator shall estimate worst case soil concentrations for lead, mercury, and dioxin, incorporating background concentrations with estimated soil concentrations derived using the deposition rates estimated pursuant to Env-A 624.08, and guidance from the 1998 U.S. EPA Human Health Risk Assessment Protocol for Hazardous Waste Combustion Facilities (HHRAP), with a 20-year deposition period and a mixing depth of one centimeter.\n\n(b) Human health risk from the modeled soil lead concentrations shall be estimated using the U.S. EPA Integrated Exposure Uptake Biokinetic Model for Lead in Children (IEUBK win v2), May 2021 version, which is available as noted in Appendix A, and incorporating background environmental lead exposures.\n\n(c) The department shall deny the application if:\n\n(1) The estimate of the cumulative soil concentration of either lead, mercury, or dioxin at the location of maximum deposition, as modeled pursuant to (a), above, exceeds the following values:\n\na. For lead, 400 milligrams per kilogram (mg/kg);\n\nb. For mercury, 13 mg/kg; and\n\nc. For dioxin, 0.000007 mg/kg; or\n\n(2) There is a greater than 5 percent probability of a child's estimated blood lead level, as modeled pursuant to (b), above, exceeding the United States Centers for Disease Control’s level of concern, namely 10 micrograms per deciliter.\n\nSource. #8654, eff 6-8-06; ss by #10175, eff 9-1-12; ss by #13510, eff 12-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a600.html"
+}

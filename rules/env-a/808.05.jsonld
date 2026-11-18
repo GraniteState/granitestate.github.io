@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/808.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/808",
+  "definition": "Performance Specification Testing",
+  "effectiveDate": "2019-05-01",
+  "historyNote": "#7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 808.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html",
+  "prefLabel": "Env-A 808.05 Performance Specification Testing",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 808.05 Performance Specification Testing.\n\n(a) The owner or operator of a facility shall conduct performance specification testing for a CEM system in accordance with (b) through (i), below.\n\n(b) Opacity and gaseous CEM systems shall be subject to the applicable performance specification requirements of 40 CFR 60, Appendix B and 40 CFR 75, and additionally for opacity CEM systems, to the zero alignment procedure in 40 CFR 60, Appendix F, Procedure 3, section 10.\n\n(c) Any CEM system that is required to be installed on a new device shall be:\n\n(1) Installed and measuring emissions no later than 60 days after start-up of the device being monitored; and\n\n(2) Certified by the earlier of 60 days of achieving the maximum production rate of the device or 180 days from start-up of the device.\n\n(d) In the absence of any other deadlines required for the installation and certification of the CEM system, any CEM system that is required to be installed on an existing device shall be:\n\n(1) Operating no later than 30 days after installation of the CEM system; and\n\n(2) Certified within 90 days after start-up of the CEM system.\n\n(e) The owner or operator of a certified gaseous or opacity CEM system subject to 40 CFR 75 that makes a replacement, modification, or change to the system shall comply with the recertification procedures specified in 40 CFR 75.20(b).\n\n(f) The owner or operator of a certified gaseous or opacity CEM system that is not subject to 40 CFR 75 shall recertify the system by performing a performance specification test in accordance with the requirements of this chapter whenever the owner or operator:\n\n(1) Replaces a part or component of, or makes a modification to, the CEM system that could affect the ability of the system to:\n\na. Accurately measure or record the parameters being monitored; or\n\nb. Meet the requirements of 40 CFR 60 Appendix B, or this chapter;\n\n(2) Makes a change to the flue gas handling system or the unit operation that could change the flow or concentration profile; or\n\n(3) Changes the location or orientation of the sampling probe or site.\n\n(g) If any of the changes described in (f), above, occur, the owner or operator shall:\n\n(1) For a gaseous CEM system, conduct an audit pursuant to 40 CFR 60, Appendix F, Procedure 1, sections 5.1.2 or 5.1.3 within 5 days of the change and a RATA following 40 CFR 60 Appendix B within 90 days of the change; and\n\n(2) For an opacity CEM system, perform an audit pursuant to 40 CFR 60, Appendix B, Performance Specification 1, paragraphs 8.1(3)(ii), (iii), and (iv) within 5 days of the change.\n\n(h) The department shall be notified of the date or dates of any performance specification testing at least 30 days prior to the scheduled dates.\n\n(i) A written report summarizing the results of the testing and in accordance with Env-A 802.11 shall be submitted to the department within 45 days of the completion of the test.\n\n(j) The owner or operator of any opacity CEM system subject to either (e) or (f), above, that replaces any opacity CEM system or changes an installed location of a monitor on a stack or duct shall also perform the zero alignment procedure specified in 40 CFR 60, Appendix F, Procedure 3, section 10.3 within 60 days of the replacement or change.\n\nSource. #7788, eff 10-31-02; ss by #9802, eff 10-31-10; ss by #12762, eff 5-1-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a800.html"
+}

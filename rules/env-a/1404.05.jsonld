@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/1404.05",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-I:5",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/1404",
+  "definition": "Adjusted In-stack Concentration Method",
+  "effectiveDate": "2022-02-03",
+  "historyNote": "#8278, eff 2-4-05 (from Env-A 1406.05); ss by #9601, eff 11-25-09; amd by #9865, eff 2-18-11; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1405.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 1404.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html",
+  "prefLabel": "Env-A 1404.05 Adjusted In-stack Concentration Method",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 1404.05 Adjusted In-stack Concentration Method.\n\n(a) If the adjusted in-stack concentration method is selected, the owner or operator shall demonstrate that the adjusted in-stack concentration of the RTAP, as determined using the calculations in (c) or (d) below, is equal to or below the corresponding AAL.\n\n(b) The adjusted in-stack concentration method shall only be allowed when the airflow exiting the vent or stack is vertical and unobstructed.\n\n(c) For facilities where the edge of the building housing the process or device is less than 40 feet to the nearest compliance boundary, the adjusted in-stack concentration in μg/m3 of an RTAP from a device or process emitting either from a single stack or from more than one stack shall be calculated by dividing the in-stack concentration in μg/m3, determined in accordance with Env-A 1404.04, by 250, as shown in the formula below:\n\nAdjusted In-stack Concentration (μg/m3) = In-stack Concentration (μg/m3)\n\n250\n\n(d) For facilities where the edge of the building housing the process or device is greater than or equal to 40 feet to the nearest compliance boundary, the adjusted in-stack concentration in μg/m3 of an RTAP from a device or process emitting either from a single stack or from more than one stack shall be calculated by dividing the in-stack concentration in μg/m3, determined in accordance with Env-A 1404.04, by 700, as shown in the formula below:\n\nAdjusted In-stack Concentration (μg/m3) = In-stack Concentration (μg/m3)\n\n700\n\nSource. #8278, eff 2-4-05 (from Env-A 1406.05); ss by #9601, eff 11-25-09; amd by #9865, eff 2-18-11; ss by #12443, eff 1-5-18; ss by #13334, eff 2-3-22 (formerly Env-A 1405.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1400.html"
+}

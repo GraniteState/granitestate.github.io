@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/4105.09",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I-b"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:16-c",
+      "source": "https://granitestate.github.io/rsa/485/485-16-c",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/485/485-16-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/4105",
+  "definition": "Requirements for Paint Thinner and Multipurpose Solvents",
+  "effectiveDate": "2024-05-21",
+  "historyNote": "#10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 4105.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html",
+  "prefLabel": "Env-A 4105.09 Requirements for Paint Thinner and Multipurpose Solvents",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 4105.09 Requirements for Paint Thinner and Multipurpose Solvents.\n\n(a) Except as provided in (b) through (d), below, starting on January 1, 2015 no person shall sell, supply, offer for sale, or manufacture for use in New Hampshire any multi-purpose solvent or paint thinner that contains any of the following:\n\n(1) Methylene chloride, perchloroethylene, or trichloroethylene; or\n\n(2) Greater than one percent aromatic compound content by weight.\n\n(b) Multi-purpose solvents and paint thinners that contain methylene chloride, perchloroethylene, or trichloroethylene, or greater than one percent aromatic compound content by weight, that are manufactured before January 1, 2015 may be sold, supplied, or offered for sale until January 1, 2018, so long as the product complies with the product dating requirements specified in Env-A 4106.01.\n\n(c) Any person who sells or supplies a consumer product identified in this section shall notify the purchaser of the product in writing that the sell -through period for that product will end on January 1, 2018 if both of the following conditions are met:\n\n(1) The product is sold or supplied to a distributor or retailer; and\n\n(2) The product is sold or supplied on or after June 30, 2017.\n\n(d) The requirements of (a), (b), and (c) above shall not apply to any multi-purpose solvent or paint thinner that contains any methylene chloride, perchloroethylene, or trichloroethylene that is present as an impurity in a combined amount equal to or less than 0.01 percent by weight.\n\nSource. #10527, eff 2-26-14; ss by #13969, eff 5-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a4100.html"
+}

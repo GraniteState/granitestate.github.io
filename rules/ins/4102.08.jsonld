@@ -1,0 +1,60 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/4102.08",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:2",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:4",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:11",
+      "source": "https://granitestate.github.io/rsa/420-G/420-G-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:12",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-G:13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-G/420-G-2",
+    "https://granitestate.github.io/rsa/420-G/420-G-4",
+    "https://granitestate.github.io/rsa/420-G/420-G-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/4102",
+  "definition": "Loss Ratio Standards",
+  "effectiveDate": "2019-06-10",
+  "historyNote": "#9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 4102.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html",
+  "prefLabel": "Ins 4102.08 Loss Ratio Standards",
+  "recordType": "rule-section",
+  "ruleText": "Ins 4102.08 Loss Ratio Standards.\n\n(a) Carriers shall estimate the average monthly premium for each health plan coverage based on an anticipated distribution of business by all significant criteria having a price difference, including:\n\n(1) Age;\n\n(2) Coverage amount;\n\n(3) Dependent status; and\n\n(4) Rider frequency.\n\n(b) Carriers shall assume all policyholders elect the monthly mode, unless such mode is not available, and shall consider fractional premium loads in the average monthly premium calculation. If the monthly mode is not available, carriers shall assume the mode selected or anticipated to be selected by the greatest proportion of policyholders.\n\n(c) For new health plan coverages, benefits shall be deemed reasonable in relation to the proposed premiums, provided that the anticipated loss ratio is at least as great as 70%.\n\n(d) For rate revisions:\n\n(1) If the policy forms constitute an open block, that is they are still being actively marketed, then benefits shall be deemed reasonable in relation to premiums, provided the revised rates meet the following standards derived from the previously approved rate filing for the form or forms:\n\na. The anticipated loss ratio over the entire future period for which the revised rates are computed to provide coverage shall be at least as great as the anticipated loss ratio calculated over the entire future period using the durational loss ratios from the previously approved rate filing; and\n\nb. The anticipated loss ratio shall be at least as great as the anticipated loss ratio from the previously approved; and\n\n(2) If the policy forms constitute a closed block, that is they are no longer being actively marketed, then the loss ratios in (d)(1) above shall be adjusted so that no additional revenue is generated to support the administration of these policy forms unless the demonstration includes supporting documentation demonstrating that the cost to administer this business has increased.\n\n(e) Carriers may modify the loss ratio standards in (c) and (d) based on anticipated enrollment and the credibility adjustments allowed pursuant to 45 CFR Part 158.230.\n\n(f) Carriers that fail to review their experience and file rate revisions at least annually shall not be permitted to increase rates beyond what would be needed to provide for just one year of experience deviations. Carriers shall not submit rate revisions in future years to recoup rate revisions disallowed by this section.\n\n(g) Carriers shall not use rate revisions to recoup a prior year’s losses.\n\n(h) Carriers under receivership or some other similar department oversight shall be exempt from the restrictions in (f) and (g) above.\n\nSource. #9690, eff 4-9-10; ss by #9938, eff 6-10-11; ss by #10212, eff 11-1-12; ss by #12799, eff 6-10-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins4100.html"
+}

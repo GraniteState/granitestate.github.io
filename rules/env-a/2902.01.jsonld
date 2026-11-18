@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-a/2902.01",
+  "@type": "Concept",
+  "agencyCode": "Env-A",
+  "altLabel": "Account Number",
+  "authority": [
+    {
+      "citation": "125-O:6",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-a/2902",
+  "definition": "Account number",
+  "effectiveDate": "2020-02-25",
+  "historyNote": "#7888, eff 5-13-03; ss by #9908, INTERIM, eff 5-13-11, EXPIRES: 11-9-11; ss by #10002, eff 10-1-11 (from Env-A 2903.01); ss by #12995, eff 2-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-A 2902.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html",
+  "prefLabel": "Env-A 2902.01 Account number",
+  "priorExpiration": "2011-11-09",
+  "recordType": "rule-section",
+  "ruleText": "Env-A 2902.01 “Account number” means the identification number assigned by the allowance tracking system (ATS) administrator to an account in which allowances are held in the ATS.\n\nSource. #7888, eff 5-13-03; ss by #9908, INTERIM, eff 5-13-11, EXPIRES: 11-9-11; ss by #10002, eff 10-1-11 (from Env-A 2903.01); ss by #12995, eff 2-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a2900.html"
+}

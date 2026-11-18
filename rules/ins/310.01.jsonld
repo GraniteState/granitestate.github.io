@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/310.01",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "408:1",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "417:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "417:5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/310",
+  "definition": "Purpose",
+  "effectiveDate": "2026-06-27",
+  "expirationDate": "2036-06-27",
+  "historyNote": "#9042, eff 12-1-07, EXPIRED: 12-1-15 New. #11078, eff 4-22-16; ss by #14639, eff 6-27-26, EXPIRES: 6-27-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 310.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html",
+  "prefLabel": "Ins 310.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Ins 310.01 Purpose.\n\n(a) The purpose of this part is to set forth standards to protect active duty service members of the United States armed forces from dishonest and predatory insurance sales practices by declaring certain identified practices to be false, misleading, deceptive or unfair.\n\n(b) Nothing herein shall be construed to create or imply a private cause of action for a violation of this part.\n\nSource. #9042, eff 12-1-07, EXPIRED: 12-1-15\n\nNew. #11078, eff 4-22-16; ss by #14639, eff 6-27-26, EXPIRES: 6-27-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins300.html"
+}

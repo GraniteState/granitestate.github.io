@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/3101",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "414",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "418",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-A",
+      "source": "https://granitestate.github.io/rsa/420-A",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "420-B",
+      "source": "https://granitestate.github.io/rsa/420-B",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-A",
+    "https://granitestate.github.io/rsa/420-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/3100",
+  "definition": "ELECTRONIC FILING STANDARDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ins/3101.01",
+    "https://granitestate.github.io/rules/ins/3101.02",
+    "https://granitestate.github.io/rules/ins/3101.03",
+    "https://granitestate.github.io/rules/ins/3101.04",
+    "https://granitestate.github.io/rules/ins/3101.05"
+  ],
+  "notation": "Ins 3101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3100.html",
+  "prefLabel": "Ins 3101 ELECTRONIC FILING STANDARDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ins 3101 ELECTRONIC FILING STANDARDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins3100.html"
+}

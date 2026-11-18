@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ins/2706.18",
+  "@type": "Concept",
+  "agencyCode": "Ins",
+  "authority": [
+    {
+      "citation": "400-A:15",
+      "source": "https://granitestate.github.io/rsa/400-A/400-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:3",
+      "source": "https://granitestate.github.io/rsa/420-J/420-J-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:8-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "420-J:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/400-A/400-A-15",
+    "https://granitestate.github.io/rsa/420-J/420-J-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/ins/2706",
+  "definition": "Recordkeeping Requirements",
+  "effectiveDate": "2026-04-22",
+  "expirationDate": "2036-04-22",
+  "historyNote": "#14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ins 2706.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html",
+  "prefLabel": "Ins 2706.18 Recordkeeping Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ins 2706.18 Recordkeeping Requirements. The certified IDR entity shall maintain records of all claims and notices associated with the federal IDR process with respect to any determination for 6 years. The certified IDR entity shall make these records available for examination by the health carrier, plan, provider, or facility, or a state or federal oversight agency upon request, except to the extent the disclosure would violate either state or federal privacy law.\n\nSource. #14559, eff 4-22-26, EXPIRES: 4-22-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ins2700.html"
+}
