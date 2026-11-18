@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/app/405",
+  "@type": "Concept",
+  "agencyCode": "App",
+  "authority": [
+    {
+      "citation": "278:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/app/400",
+  "definition": "REMEDIES AND SANCTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/app/405.01",
+    "https://granitestate.github.io/rules/app/405.02",
+    "https://granitestate.github.io/rules/app/405.03"
+  ],
+  "notation": "App 405",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html",
+  "prefLabel": "App 405 REMEDIES AND SANCTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART App 405 REMEDIES AND SANCTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/103.02",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "383:7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "383:9",
+      "source": "https://granitestate.github.io/rsa/383/383-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383/383-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/103",
+  "definition": "Banking Division",
+  "effectiveDate": "2024-10-03",
+  "historyNote": "#6146, eff 12-22-95; ss by #10258, eff 1-24-13; ss by #14096, eff 10-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ban 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html",
+  "prefLabel": "Ban 103.02 Banking Division",
+  "recordType": "rule-section",
+  "ruleText": "Ban 103.02 Banking Division. The banking division, headed by the director of banking, shall conduct:\n\n(a) Supervision and examinations of each state-chartered financial institution;\n\n(b) Reviews of applications, notices, and other requests for business activity; and\n\n(c) Other regulatory functions required to supervise chartered financial institutions.\n\nSource. #6146, eff 12-22-95; ss by #10258, eff 1-24-13; ss by #14096, eff 10-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html"
+}

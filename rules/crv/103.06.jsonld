@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/crv/103.06",
+  "@type": "Concept",
+  "agencyCode": "Crv",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/crv/103",
+  "definition": "Notice of Meetings",
+  "effectiveDate": "2001-09-28",
+  "historyNote": "#7567, eff 9-28-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Crv 103.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html",
+  "prefLabel": "Crv 103.06 Notice of Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Crv 103.06 Notice of Meetings.\n\n(a) Notice of the time and place of commission meetings, excluding emergency meetings, shall be given to the public by the commission in accordance with RSA 91-A:2, II.\n\n(b) Information about the time and place of commission meetings shall also be available by telephone at the number stated in Crv 104.01(b) and by TTY/TDD by using the number stated in Crv 104.01(c).\n\nSource. #7567, eff 9-28-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/crv100.html"
+}

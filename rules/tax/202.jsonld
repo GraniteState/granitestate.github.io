@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/202",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/200",
+  "definition": "GENERAL RULES GOVERNING PROPERTY TAX APPEALS, EXEMPTION APPEALS, CURRENT USE APPEALS, LUCT APPEALS, TIMBER TAX APPEALS, EXCAVATION TAX APPEALS, APPEALS OF RESID",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tax/202.01",
+    "https://granitestate.github.io/rules/tax/202.02",
+    "https://granitestate.github.io/rules/tax/202.03",
+    "https://granitestate.github.io/rules/tax/202.04",
+    "https://granitestate.github.io/rules/tax/202.05",
+    "https://granitestate.github.io/rules/tax/202.06",
+    "https://granitestate.github.io/rules/tax/202.07",
+    "https://granitestate.github.io/rules/tax/202.08"
+  ],
+  "notation": "Tax 202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 202 GENERAL RULES GOVERNING PROPERTY TAX APPEALS, EXEMPTION APPEALS, CURRENT USE APPEALS, LUCT APPEALS, TIMBER TAX APPEALS, EXCAVATION TAX APPEALS, APPEALS OF RESID",
+  "recordType": "rule-part",
+  "ruleText": "PART Tax 202 GENERAL RULES GOVERNING PROPERTY TAX APPEALS, EXEMPTION APPEALS, CURRENT USE APPEALS, LUCT APPEALS, TIMBER TAX APPEALS, EXCAVATION TAX APPEALS, APPEALS OF RESIDENCES LOCATED IN AN INDUSTRIAL OR COMMERCIAL ZONE AND DISCRETIONARY EASEMENT, REVITALIZATION, BETTERMENT ASSESSMENT, TOWN LINES AND PERAMBULATION OF BOUNDARIES, QUALIFYING HISTORIC BUILDINGS AND FARM STRUCTURES AND LAND UNDERFARM STRUCTURES’ APPEALS\n\nStatutory Authority: RSA 51:7; RSA 71-B:16, I, II; RSA 72-B:13; RSA 72:34-a; RSA 75:10-19; RSA 76; RSA 79:8; RSA 79-A; RSA 79-B; RSA 79-C; RSA 79-D; RSA 79-E; RSA 79-F; RSA 79-G; RSA 81:5; and RSA 231:32.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

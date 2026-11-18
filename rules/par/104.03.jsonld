@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/104.03",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/par/104",
+  "definition": "Exceptions",
+  "effectiveDate": "2017-04-07",
+  "historyNote": "#7148, eff 12-7-99 (from Par 103.03); ss by #12157, eff 4-7-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Par 104.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 104.03 Exceptions",
+  "recordType": "rule-section",
+  "ruleText": "Par 104.03 Exceptions. The following information shall be provided in individual cases, upon specific written request by any person:\n\n(a) The dates of sentence and commitment, parole eligibility date, mandatory release date, or termination of sentence; and\n\n(b) Whether an inmate is being considered for parole, has been paroled or not, and, if the inmate has been paroled, the effective date set by the board.\n\nSource. #7148, eff 12-7-99 (from Par 103.03); ss by #12157, eff 4-7-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

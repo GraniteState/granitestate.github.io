@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/207.06",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "91-A:7-b",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/207",
+  "definition": "Conditional Default for Claimant’s Failure to File an Appearance",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 207.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 207.06 Conditional Default for Claimant’s Failure to File an Appearance",
+  "recordType": "rule-section",
+  "ruleText": "Rko 207.06 Conditional Default for Claimant’s Failure to File an Appearance. A conditional default entered for the claimant’s failure to file an appearance shall operate as the dismissal of the case without prejudice unless:\n\n(a) Within 10 days of the date appearing on the notice of conditional default, the claimant moves to strike the conditional default;\n\n(b) Within 10 days of the date appearing on the notice of conditional default, the claimant files the required appearance; and\n\n(c) After receipt of the items noted in (a) and (b) above, the motion to strike the conditional default is granted.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

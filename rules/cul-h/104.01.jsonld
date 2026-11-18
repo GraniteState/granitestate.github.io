@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cul-h/104.01",
+  "@type": "Concept",
+  "agencyCode": "Cul-H",
+  "authority": [
+    {
+      "citation": "227-C:3",
+      "source": "https://granitestate.github.io/rsa/227-C/227-C-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "227-C:5",
+      "paragraphs": [
+        "XXI"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-C/227-C-5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-C/227-C-3",
+    "https://granitestate.github.io/rsa/227-C/227-C-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/cul-h/104",
+  "definition": "Advisory Councils",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Cul-H 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cul-h.html",
+  "prefLabel": "Cul-H 104.01 Advisory Councils",
+  "recordType": "rule-section",
+  "ruleText": "Section Cul-H 104.01 Advisory Councils",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cul-h.html"
+}

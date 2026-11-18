@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/103.05",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "383:5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "383:7-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "383:9",
+      "source": "https://granitestate.github.io/rsa/383/383-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/383/383-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/103",
+  "definition": "Legal Division",
+  "effectiveDate": "2024-10-03",
+  "historyNote": "#10258, eff 1-24-13; ss by #14096, eff 10-3-24 (formerly Ban 103.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ban 103.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html",
+  "prefLabel": "Ban 103.05 Legal Division",
+  "recordType": "rule-section",
+  "ruleText": "Ban 103.05 Legal Division. The legal division, headed by the general counsel, shall:\n\n(a) Investigate, mediate, and resolve consumer complaints against institutions under the supervision of the commissioner;\n\n(b) Provide legal support for administrative actions taken by the department, and prosecute and take enforcement actions against institutions under the supervision of the commissioner;\n\n(c) Provide legal counsel to the department;\n\n(d) Assist the commissioner in rulemaking and legislation;\n\n(e) Provide information and assistance to members of the public relating to matters under the department’s regulatory authority; and\n\n(f) Administer and coordinate the department’s responses to requests for governmental records.\n\nSource. #10258, eff 1-24-13; ss by #14096, eff 10-3-24 (formerly Ban 103.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban100.html"
+}

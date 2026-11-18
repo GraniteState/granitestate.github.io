@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.18",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "79-C",
+      "source": "https://granitestate.github.io/rsa/79-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-D",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-E",
+      "source": "https://granitestate.github.io/rsa/79-E",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-F",
+      "source": "https://granitestate.github.io/rsa/79-F",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-G",
+      "source": "https://granitestate.github.io/rsa/79-G",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/79-C",
+    "https://granitestate.github.io/rsa/79-E",
+    "https://granitestate.github.io/rsa/79-F",
+    "https://granitestate.github.io/rsa/79-G"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "Discretionary Easement and Revitalization appeal",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#8985, eff 9-24-07; ss by #10623, eff 6-26-14 (from Tax 102.20); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.18 Discretionary Easement and Revitalization appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.18 “Discretionary Easement and Revitalization appeal” means an appeal from a municipality’s decision on an RSA 79-C discretionary easement, an RSA 79-D discretionary preservation easement, an RSA 79-E community revitalization tax relief incentive, an RSA 79-F farm structures and land under farm structures, or an RSA 79-G qualifying historic buildings appeal.\n\nSource. #8985, eff 9-24-07; ss by #10623, eff 6-26-14 (from Tax 102.20); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

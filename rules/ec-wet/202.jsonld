@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wet/202",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wet",
+  "authority": [
+    {
+      "citation": "21-O:5-a",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-5-a",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wet/200",
+  "definition": "RULEMAKING, EXPLANATIONS OF ADOPTED RULES, AND DECLARATORY RULINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ec-wet/202.01",
+    "https://granitestate.github.io/rules/ec-wet/202.02",
+    "https://granitestate.github.io/rules/ec-wet/202.03",
+    "https://granitestate.github.io/rules/ec-wet/202.04"
+  ],
+  "notation": "Ec-Wet 202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html",
+  "prefLabel": "Ec-Wet 202 RULEMAKING, EXPLANATIONS OF ADOPTED RULES, AND DECLARATORY RULINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ec-Wet 202 RULEMAKING, EXPLANATIONS OF ADOPTED RULES, AND DECLARATORY RULINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wet100-200.html"
+}

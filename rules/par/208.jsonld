@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/208",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/200",
+  "definition": "POSTPONEMENT REQUESTS AND FAILURE TO APPEAR",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/208.01",
+    "https://granitestate.github.io/rules/par/208.02"
+  ],
+  "notation": "Par 208",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 208 POSTPONEMENT REQUESTS AND FAILURE TO APPEAR",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 208 POSTPONEMENT REQUESTS AND FAILURE TO APPEAR",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

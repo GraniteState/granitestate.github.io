@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fam",
+  "@type": "Concept",
+  "agencyCode": "Fam",
+  "definition": "Board of Family Mediator Certification (Formerly the Board of Marital Mediator Certification (Mar) pursuant to 2009, 21:4, effective 1-1-10.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fam/100",
+    "https://granitestate.github.io/rules/fam/200",
+    "https://granitestate.github.io/rules/fam/300",
+    "https://granitestate.github.io/rules/fam/400",
+    "https://granitestate.github.io/rules/fam/500",
+    "https://granitestate.github.io/rules/fam/600",
+    "https://granitestate.github.io/rules/fam/700",
+    "https://granitestate.github.io/rules/fam/800"
+  ],
+  "notation": "Fam",
+  "prefLabel": "Fam Board of Family Mediator Certification",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

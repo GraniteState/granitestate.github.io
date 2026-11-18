@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban/1802",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "authority": [
+    {
+      "citation": "390:11-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "390:18-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ban/1800",
+  "definition": "DEPOSIT OF SECURITIES WITH CLEARING CORPORATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ban/1802.01",
+    "https://granitestate.github.io/rules/ban/1802.02"
+  ],
+  "notation": "Ban 1802",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1800.html",
+  "prefLabel": "Ban 1802 DEPOSIT OF SECURITIES WITH CLEARING CORPORATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Ban 1802 DEPOSIT OF SECURITIES WITH CLEARING CORPORATION\n\nStatutory Authority: RSA 390:11-a, III",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ban1800.html"
+}

@@ -19,3 +19,7 @@ jobs:
         run: python3 scripts/build_rsa.py --self-test
       - name: Validate RSA pages
         run: python3 scripts/validate_rsa.py
+      - name: Rules citation linker
+        run: python3 scripts/build_rules.py --self-test
+      - name: Validate rule pages
+        run: python3 scripts/validate_rules.py

@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pub/201.13",
+  "@type": "Concept",
+  "agencyCode": "Pub",
+  "authority": [
+    {
+      "citation": "273-A:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/273-A/273-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "273-A:6",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/273-A/273-A-2",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/pub/201",
+  "definition": "Communication with Board on Pending Matters",
+  "effectiveDate": "2009-03-27",
+  "historyNote": "#9441-A, eff 3-27-09",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pub 201.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pub100-300.html",
+  "prefLabel": "Pub 201.13 Communication with Board on Pending Matters",
+  "recordType": "rule-section",
+  "ruleText": "Pub 201.13 Communication with Board on Pending Matters. Except for oral communications with the board during the course of a hearing, all communication with the board on pending matters shall be by written filings in compliance with these rules.\n\nSource. #9441-A, eff 3-27-09",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pub100-300.html"
+}

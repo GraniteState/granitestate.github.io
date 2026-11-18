@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/207",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/200",
+  "definition": "HEARING REQUESTS, NOTICES, PRE-HEARING CONFERENCES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/207.01",
+    "https://granitestate.github.io/rules/par/207.02",
+    "https://granitestate.github.io/rules/par/207.03"
+  ],
+  "notation": "Par 207",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 207 HEARING REQUESTS, NOTICES, PRE-HEARING CONFERENCES",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 207 HEARING REQUESTS, NOTICES, PRE-HEARING CONFERENCES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

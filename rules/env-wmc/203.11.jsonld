@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/203.11",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/203",
+  "definition": "Issuance or Filing of Documents",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#4846, eff 6-21-90, EXPIRED: 6-21-96 New. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 203.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 203.11 Issuance or Filing of Documents",
+  "priorExpiration": "1996-06-21",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 203.11 Issuance or Filing of Documents.\n\n(a) All orders, decisions, notices, or other written correspondence or documents issued by or at the direction of the council shall be deemed to have been issued on the date noted on the document.\n\n(b) All written correspondence or documents issued by or at the direction of the council that are sent to the addressee’s last address of record shall be presumed to have been received by the addressee.\n\n(c) All written documents governed by these rules, including but not limited to notices of appeal, requests for findings or conclusions, correspondence, and motions, shall be deemed to have been filed with or received by the council on the actual date of receipt by:\n\n(1) The council clerk, for items that do not relate to an appeal; or\n\n(2) The appeals clerk, for items that relate to an appeal.\n\nSource. #4846, eff 6-21-90, EXPIRED: 6-21-96\n\nNew. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

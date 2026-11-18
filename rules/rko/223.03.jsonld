@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/223.03",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(j)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/223",
+  "definition": "Standard",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 223.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 223.03 Standard",
+  "recordType": "rule-section",
+  "ruleText": "Rko 223.03 Standard. The ombudsman shall grant a petition for waiver or suspension of a rule if the ombudsman concludes:\n\n(a) That the petitioner has established that:\n\n(1) The petitioner would suffer an unavoidable hardship by application of the rule;\n\n(2) Waiver or suspension would not conflict with statutes or case law, or with the purposes of RSA 91-A:7-b;\n\n(3) Waiver or suspension would not impose an unavoidable hardship on a third party; and\n\n(4) Waiver or suspension is necessary due to factors outside the control of the petitioner; or\n\n(b) That the petitioner has established that waiver or suspension is necessary to:\n\n(1) Comply with the law;\n\n(2) Advance the purposes of RSA 91-A:7-b; or\n\n(3) Lend effect to the provisions of RSA 91-A.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

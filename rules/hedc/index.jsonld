@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "definition": "Higher Education Commission (See RSA 21-N:8-a, II, pursuant to 2013, 164:1, effective 6-28-13.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/100",
+    "https://granitestate.github.io/rules/hedc/200",
+    "https://granitestate.github.io/rules/hedc/300",
+    "https://granitestate.github.io/rules/hedc/400",
+    "https://granitestate.github.io/rules/hedc/500"
+  ],
+  "notation": "Hedc",
+  "prefLabel": "Hedc Higher Education Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/210.05",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "471-C",
+      "source": "https://granitestate.github.io/rsa/471-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "498-A:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "498-A:11",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/498-A/498-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/471-C",
+    "https://granitestate.github.io/rsa/498-A/498-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/210",
+  "definition": "Damages Deposit",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 210.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 210.05 Damages Deposit",
+  "recordType": "rule-section",
+  "ruleText": "Tax 210.05 Damages Deposit.\n\n(a) When paying to the board the damage deposit required by RSA 498-A:11, the condemnor shall file a damage deposit that:\n\n(1) Complies with all applicable Tax 201 rules;\n\n(2) States the deposit amount;\n\n(3) Certifies the deposit is the condemnor's good faith estimate of the just compensation due the condemnee(s) as estimated by a qualified, impartial appraiser in accordance with RSA 498-A:4 and RSA 498-A:11; and\n\n(4) Lists the name and interest of each condemnee along with the recording information from which the interest arises.\n\n(b) The damage deposit may be included in the declaration.\n\n(c) The board shall place all deposits in an account of a local bank, naming as account holders the board and all condemnees.\n\n(d) If the board receives a written request to withdraw the deposit signed by all condemnees, the board shall release the deposit payable to all condemnees or payable to certain condemnees if all condemnees consent to such payment.\n\n(e) If the board receives a written request to withdraw the deposit signed by some but not all condemnees, the board shall:\n\n(1) Notify all condemnees of the request;\n\n(2) Provide all condemnees 10 days to object to the request; and\n\n(3) Either:\n\na. Release the deposit payable to all condemnees if no objection is filed; or\n\nb. Rule on the request if an objection is filed.\n\n(f) By withdrawing the deposit, the condemnee shall be deemed to have waived all objections and defenses to the action and to the taking of the property except for a claim to greater compensation in accordance with RSA 498-A:11, III.\n\n(g) All deposits of damages which remain unclaimed by a condemnee shall be administered in accordance with RSA 498-A and RSA 471-C.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

@@ -74,5 +74,13 @@
     "commit_date": "2026-11-12",
     "scrape_origin": "https://gc.nh.gov/rsa/html/ (www.gencourt.state.nh.us redirects to this host)",
     "note": "The HTML is not copied into this repository. scripts/build_rsa.py reads this pin and a local checkout. Refresh by committing a new scrape in nh-rsa-data and bumping commit and commit_date. Pages link to the raw HTML at this commit and do not link to the General Court site."
+  },
+  "rules": {
+    "origin_repo": "GraniteState/adm-rules-data",
+    "origin_path": "derived/",
+    "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",
+    "commit_date": "2026-11-18",
+    "snapshot": "2026-11-15",
+    "note": "The Office of Legislative Services HTML is not copied into this repository. scripts/build_rules.py reads this pin and a local checkout. Pages link to the raw HTML at this commit. Publisher URLs are text and are not links. Refresh by committing a new snapshot in adm-rules-data and bumping commit, commit_date, and snapshot."
   }
 }

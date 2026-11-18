@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/205.05",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/205",
+  "definition": "Hearing Record",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 205.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 205.05 Hearing Record",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 205.05 Hearing Record.\n\n(a) The record of the hearing shall include:\n\n(1) The notice(s) of the hearing;\n\n(2) The tape recording of the hearing;\n\n(3) All exhibits, motions, requests for findings and conclusions, and other written materials submitted by the parties at or for the hearing;\n\n(4) Any other item(s) specified by RSA 541-A:31,VI; and\n\n(5) All decisions of the presiding officer on procedural matters and the decision of the council on the merits.\n\n(b) The entirety of the appeal hearing shall be recorded. The council, upon request of a party, shall provide, at cost, a duplicate tape of the hearing. Any person desiring a transcript of the hearing prepared by a qualified stenographer shall provide the stenographer and shall bear all expenses associated with the preparation of the transcript. Any transcript so prepared shall be made available to the council for copying at the council’s expense.\n\nSource. #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

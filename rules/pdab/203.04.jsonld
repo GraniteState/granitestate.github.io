@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/203.04",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/203",
+  "definition": "Standard for Granting Motion for Rehearing",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 203.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 203.04 Standard for Granting Motion for Rehearing",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 203.04 Standard for Granting Motion for Rehearing. A motion for rehearing a case subject to appeal to the New Hampshire supreme court under RSA 541 shall be granted if it demonstrates that the board’s decision is unlawful, unjust, or unreasonable.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

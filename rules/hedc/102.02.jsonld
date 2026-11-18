@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/102.02",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/102",
+  "definition": "Structure",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14402, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 102.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html",
+  "prefLabel": "Hedc 102.02 Structure",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 102.02 Structure.\n\n(a) The commission shall consist of members appointed pursuant to RSA 21-N:8-a, II(a).\n\n(b) The commission shall have a chair and vice-chair, each elected for a 2-year term, with one being a representative of a nonpublic institution.\n\n(c) The chair shall preside over the meetings of the commission.\n\n(d) The vice-chair shall assume the responsibilities of the chair in the chair’s absence.\n\n(e) If both the chair and the vice-chair are absent, the director shall serve as the chair pro-tempore.\n\n(f) The vice-chair shall assume the position of the chair upon the conclusion of the chair’s term, or upon vacancy of the position by the chair.\n\nSource. #14402, eff 10-15-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html"
+}

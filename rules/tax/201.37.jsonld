@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.37",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "541:3",
+      "source": "https://granitestate.github.io/rsa/541/541-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:6",
+      "source": "https://granitestate.github.io/rsa/541/541-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541/541-3",
+    "https://granitestate.github.io/rsa/541/541-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Clerical Mistakes",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; amd by #6762, eff 7-1-98; amd by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23 (formerly Tax 201.38)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.37",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.37 Clerical Mistakes",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.37 Clerical Mistakes.\n\n(a) Clerical mistakes in decisions, orders, or other parts of the record, arising from oversight or omission, shall be corrected by the board at any time on its own initiative or party's motion.\n\n(b) Such mistakes shall be corrected before an appeal is docketed in the supreme court and thereafter only with leave of the supreme court.\n\nSource. #5638, eff 9-1-93; amd by #6762, eff 7-1-98; amd by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-A, eff 4-18-03; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23 (formerly Tax 201.38)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

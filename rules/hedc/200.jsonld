@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/200",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc",
+  "definition": "RULES OF PRACTICE AND PROCEDURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/201",
+    "https://granitestate.github.io/rules/hedc/202",
+    "https://granitestate.github.io/rules/hedc/203",
+    "https://granitestate.github.io/rules/hedc/204",
+    "https://granitestate.github.io/rules/hedc/205",
+    "https://granitestate.github.io/rules/hedc/206",
+    "https://granitestate.github.io/rules/hedc/207",
+    "https://granitestate.github.io/rules/hedc/208",
+    "https://granitestate.github.io/rules/hedc/209",
+    "https://granitestate.github.io/rules/hedc/210",
+    "https://granitestate.github.io/rules/hedc/211",
+    "https://granitestate.github.io/rules/hedc/212"
+  ],
+  "notation": "Hedc 200",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html",
+  "prefLabel": "Hedc 200 RULES OF PRACTICE AND PROCEDURE",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Hedc 200 RULES OF PRACTICE AND PROCEDURE\n\nStatutory Authority: RSA 541-A:16, I and RSA 541-A:30-a, II, III",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html"
+}

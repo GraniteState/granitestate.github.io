@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tre/300",
+  "@type": "Concept",
+  "agencyCode": "Tre",
+  "altLabel": "TREASURY - ABANDONED PROPERTY RULES - EXPIRED",
+  "authority": [
+    {
+      "citation": "471-C:42",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/tre",
+  "definition": "TREASURY- ABANDONED PROPERTY RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tre/301",
+    "https://granitestate.github.io/rules/tre/302",
+    "https://granitestate.github.io/rules/tre/303"
+  ],
+  "notation": "Tre 300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre300.html",
+  "prefLabel": "Tre 300 TREASURY- ABANDONED PROPERTY RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Tre 300 TREASURY- ABANDONED PROPERTY RULES\n\nStatutory Authority: RSA 471-C:42\n\nPART 301 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tre300.html"
+}

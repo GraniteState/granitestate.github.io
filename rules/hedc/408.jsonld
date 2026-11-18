@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/408",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/400",
+  "definition": "FEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/408.01"
+  ],
+  "notation": "Hedc 408",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html",
+  "prefLabel": "Hedc 408 FEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Hedc 408 FEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bal",
+  "@type": "Concept",
+  "agencyCode": "Bal",
+  "definition": "Ballot Law Commission",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bal/100",
+    "https://granitestate.github.io/rules/bal/200",
+    "https://granitestate.github.io/rules/bal/500",
+    "https://granitestate.github.io/rules/bal/600"
+  ],
+  "notation": "Bal",
+  "prefLabel": "Bal Ballot Law Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

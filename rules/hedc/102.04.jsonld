@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/102.04",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "21-N:8-a",
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-8-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/102",
+  "definition": "Office Location and Mailing Address, Telephone Number, and Website",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14402, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 102.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html",
+  "prefLabel": "Hedc 102.04 Office Location and Mailing Address, Telephone Number, and Website",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 102.04 Office Location and Mailing Address, Telephone Number, and Website.\n\n(a) The commission’s office location and mailing address is:\n\nHigher Education Commission\n\nNew Hampshire Department of Education\n\n25 Hall Street\n\nConcord, New Hampshire 03301\n\n(b) The commission’s telephone number is (603) 271-0257.\n\n(c) The commission’s website is https://www.education.nh.gov/who-we-are/higher-education-commission.\n\nSource. #14402, eff 10-15-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc100.html"
+}

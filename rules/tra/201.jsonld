@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tra/201",
+  "@type": "Concept",
+  "agencyCode": "Tra",
+  "authority": [
+    {
+      "citation": "21-L:4",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21-L:12",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21-L:12-a",
+      "source": "https://granitestate.github.io/rsa/21-L/21-L-12-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "373:2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "422:40",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-L/21-L-12-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/tra/200",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tra/201.01",
+    "https://granitestate.github.io/rules/tra/201.02",
+    "https://granitestate.github.io/rules/tra/201.03"
+  ],
+  "notation": "Tra 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra200.html",
+  "prefLabel": "Tra 201 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Tra 201 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra200.html"
+}

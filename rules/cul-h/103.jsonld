@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cul-h/103",
+  "@type": "Concept",
+  "agencyCode": "Cul-H",
+  "authority": [
+    {
+      "citation": "227-C:5",
+      "source": "https://granitestate.github.io/rsa/227-C/227-C-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-C:9",
+      "source": "https://granitestate.github.io/rsa/227-C/227-C-9",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-C/227-C-5",
+    "https://granitestate.github.io/rsa/227-C/227-C-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/cul-h/100",
+  "definition": "DESCRIPTION OF AGENCY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cul-h/103.01",
+    "https://granitestate.github.io/rules/cul-h/103.02",
+    "https://granitestate.github.io/rules/cul-h/103.03"
+  ],
+  "notation": "Cul-H 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cul-h.html",
+  "prefLabel": "Cul-H 103 DESCRIPTION OF AGENCY",
+  "recordType": "rule-part",
+  "ruleText": "PART Cul-H 103 DESCRIPTION OF AGENCY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/cul-h.html"
+}

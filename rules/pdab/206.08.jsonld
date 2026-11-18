@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/206.08",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/206",
+  "definition": "Closing the Hearing",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 206.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 206.08 Closing the Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 206.08 Closing the Hearing. When the presiding officer determines that no person has further questions or comments that are relevant to the subject of the hearing, the presiding officer shall close the hearing.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

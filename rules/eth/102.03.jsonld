@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eth/102.03",
+  "@type": "Concept",
+  "agencyCode": "Eth",
+  "altLabel": "Classified Employee",
+  "authority": [
+    {
+      "citation": "15-A:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "15-B:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-G:21",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-G:29",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/eth/102",
+  "definition": "Classified employee",
+  "effectiveDate": "2018-09-06",
+  "historyNote": "#12617-A, eff 9-6-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eth 102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html",
+  "prefLabel": "Eth 102.03 Classified employee",
+  "recordType": "rule-section",
+  "ruleText": "Eth 102.03 “Classified employee” means any state employee whose position is part of the state classification system maintained by the department of administrative services, as listed at https://das.nh.gov/HRJobClassifications/ClassSpecifications.aspx.\n\nSource. #12617-A, eff 9-6-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html"
+}

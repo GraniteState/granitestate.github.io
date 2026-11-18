@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.05",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "Appraisal",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7152, eff 12-10-99 (formerly Tax 101.05); ss by #7875, eff 4-18-03; ss by #8985, eff 9-24-07; ss by #10623, eff 6-26-14 (from Tax 102.07); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.05 Appraisal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.05 “Appraisal” means a written opinion of value of a specific property that relies on the comparative sales, income, or cost approach and any tax assessment report that relies on assessment information or comparison. A sales or market analysis for listing a property for sale is not included in this definition. A cost calculation sheet by itself is not included in this definition.\n\nSource. #7152, eff 12-10-99 (formerly Tax 101.05); ss by #7875, eff 4-18-03; ss by #8985, eff 9-24-07; ss by #10623, eff 6-26-14 (from Tax 102.07); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

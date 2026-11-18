@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/221",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/200",
+  "definition": "DECLARATORY RULINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/rko/221.01",
+    "https://granitestate.github.io/rules/rko/221.02",
+    "https://granitestate.github.io/rules/rko/221.03"
+  ],
+  "notation": "Rko 221",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 221 DECLARATORY RULINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Rko 221 DECLARATORY RULINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/man/213",
+  "@type": "Concept",
+  "agencyCode": "Man",
+  "authority": [
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/man/200",
+  "definition": "PUBLIC COMMENT HEARINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/man/213.01",
+    "https://granitestate.github.io/rules/man/213.02",
+    "https://granitestate.github.io/rules/man/213.03",
+    "https://granitestate.github.io/rules/man/213.04",
+    "https://granitestate.github.io/rules/man/213.05"
+  ],
+  "notation": "Man 213",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html",
+  "prefLabel": "Man 213 PUBLIC COMMENT HEARINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Man 213 PUBLIC COMMENT HEARINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html"
+}

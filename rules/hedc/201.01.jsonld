@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/201.01",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/201",
+  "definition": "Purpose",
+  "effectiveDate": "2025-10-15",
+  "historyNote": "#14403, eff 10-15-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Hedc 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html",
+  "prefLabel": "Hedc 201.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Hedc 201.01 Purpose. The purpose of this chapter is to provide rules of practice and procedure for the conduct of adjudicative proceedings in contested cases. The commission has adopted these rules for the purpose of establishing an orderly procedure for acquiring sufficient information to make fair and reasoned decisions. The provisions of these rules are intended to supplement the procedures established by RSA 541-A and procedures established under any statute relating to the commission conducting the hearing.\n\nSource. #14403, eff 10-15-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc200.html"
+}

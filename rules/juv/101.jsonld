@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/juv/101",
+  "@type": "Concept",
+  "agencyCode": "Juv",
+  "authority": [
+    {
+      "citation": "170-H:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/juv/100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/juv/101.01"
+  ],
+  "notation": "Juv 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html",
+  "prefLabel": "Juv 101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Juv 101 PURPOSE\n\nStatutory Authority: RSA 170-H: 4, III",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.01",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "76:16",
+      "source": "https://granitestate.github.io/rsa/76/76-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:10",
+      "source": "https://granitestate.github.io/rsa/79-A/79-A-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/76/76-16",
+    "https://granitestate.github.io/rsa/79-A/79-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "Abatement application",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#2256, eff 1-2-83; ss by #2943, eff 12-31-84; amd by #4589, eff 3-24-89; ss by #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss and moved by #7152, eff 12-10-99 (from Tax 101.01); ss by #8985, eff 9-24-07; ss by #10623, eff 6-26-14; ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.01 Abatement application",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.01 “Abatement application” means the written request filed by a taxpayer with the municipality, pursuant to RSA 76:16 or RSA 79-A:10, seeking a tax abatement.\n\nSource. #2256, eff 1-2-83; ss by #2943, eff 12-31-84; amd by #4589, eff 3-24-89; ss by #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss and moved by #7152, eff 12-10-99 (from Tax 101.01); ss by #8985, eff 9-24-07; ss by #10623, eff 6-26-14; ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

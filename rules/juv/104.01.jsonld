@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/juv/104.01",
+  "@type": "Concept",
+  "agencyCode": "Juv",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/juv/104",
+  "definition": "Juvenile Parole Board",
+  "effectiveDate": "2011-09-30",
+  "historyNote": "(See Revision Note at chapter heading for Juv 100) #7842, eff 3-6-03; amd by #10008-A, eff 9-30-11",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Juv 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html",
+  "prefLabel": "Juv 104.01 Juvenile Parole Board",
+  "recordType": "rule-section",
+  "ruleText": "Juv 104.01 Juvenile Parole Board.\n\n(a) Persons desiring copies of board records shall submit a written request which identifies as specifically as possible the information being sought and which agrees to pay a fee of $0.25 per copy to cover the costs of the photocopying and mailing of the requested records.\n\n(b) If records are requested which contain both public information and information from juvenile case records that is confidential pursuant to RSA 170-G:8-a, the board shall delete the confidential information prior to sending the information to the requester.\n\nSource. (See Revision Note at chapter heading for Juv 100) #7842, eff 3-6-03; amd by #10008-A, eff 9-30-11",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/202.08",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:12",
+      "source": "https://granitestate.github.io/rsa/71-B/71-B-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:3",
+      "source": "https://granitestate.github.io/rsa/541/541-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:6",
+      "source": "https://granitestate.github.io/rsa/541/541-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/71-B/71-B-12",
+    "https://granitestate.github.io/rsa/541/541-3",
+    "https://granitestate.github.io/rsa/541/541-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/202",
+  "definition": "Appeal",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 202.09); ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 202.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 202.08 Appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 202.08 Appeal.\n\n(a) The appeal of the board's decision shall be pursuant to RSA 541:6.\n\n(b) Filing a rehearing motion pursuant to RSA 541:3 and RSA 541:4 shall be a prerequisite for appealing a board decision in accordance with Tax 201.36.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 202.09); ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

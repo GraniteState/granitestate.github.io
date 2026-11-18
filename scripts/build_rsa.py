@@ -946,6 +946,7 @@ PAGE = """<!DOCTYPE html>
   </main>
   {source_block}
   {related_block}
+  {rules_block}
   <footer>
     <p>{provenance}</p>
     <p>Machine-readable form: <a href="{jsonld}">JSON-LD</a>.</p>
@@ -955,7 +956,18 @@ PAGE = """<!DOCTYPE html>
 """
 
 
-def page_shell(title: str, h1: str, breadcrumb: str, body: str, jsonld: str, provenance: str, source_block: str, related_block: str, part: str) -> str:
+def page_shell(
+    title: str,
+    h1: str,
+    breadcrumb: str,
+    body: str,
+    jsonld: str,
+    provenance: str,
+    source_block: str,
+    related_block: str,
+    part: str,
+    rules_block: str = "",
+) -> str:
     return PAGE.format(
         title=html.escape(title),
         h1=h1,
@@ -967,6 +979,7 @@ def page_shell(title: str, h1: str, breadcrumb: str, body: str, jsonld: str, pro
         source_block=source_block,
         related_block=related_block,
         part=part,
+        rules_block=rules_block,
     )
 
 
@@ -1019,6 +1032,10 @@ def write_section_page(section: Section, catalog: Catalog) -> str:
         source_block=source_block,
         related_block=related_block,
         part=part,
+        rules_block=(
+            "<aside>\n    <h2>Implementing rules</h2>\n"
+            '    <ul id="implementing-rules"></ul>\n  </aside>'
+        ),
     )
 
 

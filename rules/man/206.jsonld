@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/man/206",
+  "@type": "Concept",
+  "agencyCode": "Man",
+  "authority": [
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/man/200",
+  "definition": "TIME",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/man/206.01"
+  ],
+  "notation": "Man 206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html",
+  "prefLabel": "Man 206 TIME",
+  "recordType": "rule-part",
+  "ruleText": "PART Man 206 TIME",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/man100-400.html"
+}

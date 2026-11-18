@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plu/308",
+  "@type": "Concept",
+  "agencyCode": "Plu",
+  "authority": [
+    {
+      "citation": "329-A:5-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plu/300",
+  "definition": "FEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plu/308.01",
+    "https://granitestate.github.io/rules/plu/308.02",
+    "https://granitestate.github.io/rules/plu/308.03",
+    "https://granitestate.github.io/rules/plu/308.04",
+    "https://granitestate.github.io/rules/plu/308.05",
+    "https://granitestate.github.io/rules/plu/308.06",
+    "https://granitestate.github.io/rules/plu/308.07",
+    "https://granitestate.github.io/rules/plu/308.08",
+    "https://granitestate.github.io/rules/plu/308.09",
+    "https://granitestate.github.io/rules/plu/308.10"
+  ],
+  "notation": "Plu 308",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plu100-500.html",
+  "prefLabel": "Plu 308 FEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Plu 308 FEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plu100-500.html"
+}

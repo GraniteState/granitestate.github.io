@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/502.15",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:5",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "100-A:6",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "100-A:10",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-5",
+    "https://granitestate.github.io/rsa/100-A/100-A-6",
+    "https://granitestate.github.io/rsa/100-A/100-A-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/502",
+  "definition": "Wage and Personnel Authorization",
+  "effectiveDate": "2009-10-14",
+  "expirationDate": "2017-10-14",
+  "historyNote": "#7574, eff 10-10-01, EXPIRED: 10-10-09 New. #9563, eff 10-14-09, EXPIRED: 10-14-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 502.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 502.15 Wage and Personnel Authorization",
+  "recordType": "rule-section",
+  "ruleText": "Ret 502.15 Wage and Personnel Authorization.\n\n(a) Every member who applies for retirement benefits shall complete the authorization form by providing the following:\n\n(1) The name(s) of the individual(s) or entity who will exercise the representative authority;\n\n(2) The date of completion; and\n\n(3) The member’s signature, name, address and social security number.\n\nSource. #7574, eff 10-10-01, EXPIRED: 10-10-09\n\nNew. #9563, eff 10-14-09, EXPIRED: 10-14-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

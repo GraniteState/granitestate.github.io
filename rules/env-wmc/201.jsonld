@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/201",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "0:14",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21",
+      "source": "https://granitestate.github.io/rsa/21",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "I",
+        "II",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/200",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wmc/201.01",
+    "https://granitestate.github.io/rules/env-wmc/201.02"
+  ],
+  "notation": "Env-WMC 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 201 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-WMC 201 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

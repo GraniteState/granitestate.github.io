@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "definition": "Board of Tax and Land Appeals www.state.nh.us/btla",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tax/100",
+    "https://granitestate.github.io/rules/tax/200",
+    "https://granitestate.github.io/rules/tax/300",
+    "https://granitestate.github.io/rules/tax/400",
+    "https://granitestate.github.io/rules/tax/500"
+  ],
+  "notation": "Tax",
+  "prefLabel": "Tax Board of Tax and Land Appeals www.state.nh.us/btla",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

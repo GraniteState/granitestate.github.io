@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/401",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/400",
+  "definition": "PAROLE CONDITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/401.01",
+    "https://granitestate.github.io/rules/par/401.02",
+    "https://granitestate.github.io/rules/par/401.03",
+    "https://granitestate.github.io/rules/par/401.04",
+    "https://granitestate.github.io/rules/par/401.05"
+  ],
+  "notation": "Par 401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 401 PAROLE CONDITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 401 PAROLE CONDITIONS\n\nStatutory Authority: RSA 651-A:4, III",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

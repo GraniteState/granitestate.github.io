@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ban",
+  "@type": "Concept",
+  "agencyCode": "Ban",
+  "definition": "Commissioner, Banking Department",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ban/100",
+    "https://granitestate.github.io/rules/ban/500",
+    "https://granitestate.github.io/rules/ban/700",
+    "https://granitestate.github.io/rules/ban/1100",
+    "https://granitestate.github.io/rules/ban/1400",
+    "https://granitestate.github.io/rules/ban/1800",
+    "https://granitestate.github.io/rules/ban/1900",
+    "https://granitestate.github.io/rules/ban/2000"
+  ],
+  "notation": "Ban",
+  "prefLabel": "Ban Commissioner, Banking Department",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

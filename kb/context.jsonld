@@ -5,8 +5,14 @@
     "ConceptScheme": "skos:ConceptScheme",
     "Geoid": "gs:Geoid",
     "GranitId": "gs:GranitId",
+    "agencyCode": "gs:agencyCode",
     "altLabel": "skos:altLabel",
+    "authority": "gs:authority",
     "authorityType": "gs:authorityType",
+    "authorizedBy": {
+      "@id": "gs:authorizedBy",
+      "@type": "@id"
+    },
     "baseDistrict": {
       "@id": "gs:baseDistrict",
       "@type": "@id"
@@ -47,6 +53,10 @@
       "@id": "skos:exactMatch",
       "@type": "@id"
     },
+    "expirationDate": {
+      "@id": "gs:expirationDate",
+      "@type": "xsd:date"
+    },
     "firstElection": "gs:firstElection",
     "floterial": "gs:floterial",
     "floterialDistrict": {
@@ -70,6 +80,10 @@
       "@type": "@id"
     },
     "historyNote": "gs:historyNote",
+    "implementedBy": {
+      "@id": "gs:implementedBy",
+      "@type": "@id"
+    },
     "inDistrict": {
       "@id": "gs:inDistrict",
       "@type": "@id"
@@ -99,6 +113,7 @@
       "@id": "gs:officialHtml",
       "@type": "@id"
     },
+    "paragraphs": "gs:paragraphs",
     "partHeading": "gs:partHeading",
     "plan": {
       "@id": "gs:plan",
@@ -113,6 +128,10 @@
       "@type": "xsd:date"
     },
     "printedMembers": "gs:printedMembers",
+    "priorExpiration": {
+      "@id": "gs:priorExpiration",
+      "@type": "xsd:date"
+    },
     "recordType": "gs:recordType",
     "related": {
       "@id": "skos:related",
@@ -120,6 +139,7 @@
     },
     "repealed": "gs:repealed",
     "rsaTitle": "gs:rsaTitle",
+    "ruleText": "gs:ruleText",
     "seats": "gs:seats",
     "sessionChapter": "gs:sessionChapter",
     "sessionLaw": "gs:sessionLaw",
@@ -143,6 +163,7 @@
     },
     "unconfirmed": "gs:unconfirmed",
     "usedInElection": "gs:usedInElection",
+    "via": "gs:via",
     "voteIn": {
       "@id": "gs:voteIn",
       "@type": "@id"

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/app/205.01",
+  "@type": "Concept",
+  "agencyCode": "App",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/app/205",
+  "definition": "Computation of Time",
+  "effectiveDate": "2003-04-01",
+  "historyNote": "#7864-A, eff 4-1-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "App 205.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html",
+  "prefLabel": "App 205.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "App 205.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion and shall include the last day of the period so computed.\n\n(c) If the last day of the period so computed falls on a Saturday, Sunday or legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday or legal holiday.\n\nSource. #7864-A, eff 4-1-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html"
+}

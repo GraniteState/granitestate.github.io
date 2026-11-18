@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/206",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/200",
+  "definition": "TIME PERIODS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/206.01"
+  ],
+  "notation": "Par 206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 206 TIME PERIODS",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 206 TIME PERIODS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

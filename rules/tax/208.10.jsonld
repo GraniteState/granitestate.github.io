@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/208.10",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:16",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/71-B/71-B-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:12",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/71-B/71-B-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/208",
+  "definition": "Lead Petitioners",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 208.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 208.10 Lead Petitioners",
+  "recordType": "rule-section",
+  "ruleText": "Tax 208.10 Lead Petitioners.\n\n(a) In proceedings conducted pursuant to RSA 71-B:16, IV and RSA 79-A:12, IV, at least one, but not more than 2 petitioners, shall be designated as the lead petitioners.\n\n(a) Notices and orders shall only be provided to the lead petitioners who shall be solely responsible for complying with all deadlines and board orders and for providing copies of all notices and orders to the other petitioners.\n\n(b) If the lead petitioners fail to comply with deadlines or board orders, the board shall continue the case and shall order the petitioners to name new lead petitioners.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

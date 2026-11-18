@@ -1,0 +1,15 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/omb",
+  "@type": "Concept",
+  "agencyCode": "Omb",
+  "definition": "Office of the Ombudsman in the Department of Health and Human Services",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/omb/400"
+  ],
+  "notation": "Omb",
+  "prefLabel": "Omb Office of the Ombudsman in the Department of Health and Human Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

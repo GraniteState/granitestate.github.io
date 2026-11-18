@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/210",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III(d)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/200",
+  "definition": "RECORD, PROOF, EVIDENCE AND DECISIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/210.01",
+    "https://granitestate.github.io/rules/par/210.02",
+    "https://granitestate.github.io/rules/par/210.03",
+    "https://granitestate.github.io/rules/par/210.04",
+    "https://granitestate.github.io/rules/par/210.05",
+    "https://granitestate.github.io/rules/par/210.06",
+    "https://granitestate.github.io/rules/par/210.07",
+    "https://granitestate.github.io/rules/par/210.08",
+    "https://granitestate.github.io/rules/par/210.09"
+  ],
+  "notation": "Par 210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 210 RECORD, PROOF, EVIDENCE AND DECISIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 210 RECORD, PROOF, EVIDENCE AND DECISIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

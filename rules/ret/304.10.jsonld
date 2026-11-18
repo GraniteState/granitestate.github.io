@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/304.10",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:4",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "100-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-4",
+    "https://granitestate.github.io/rsa/100-A/100-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/304",
+  "definition": "Notice of Service Adjustment",
+  "effectiveDate": "2019-01-09",
+  "historyNote": "#7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09 New. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ret 304.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 304.10 Notice of Service Adjustment",
+  "priorExpiration": "2009-10-10",
+  "recordType": "rule-section",
+  "ruleText": "Ret 304.10 Notice of Service Adjustment. After discovery, through an audit or other means, of service credit being incorrectly granted or denied a member pursuant to RSA 100-A:4, the NHRS shall issue to the member or beneficiary and employer a notice of service adjustment which sets forth the:\n\n(a) Name of member or beneficiary;\n\n(b) The last four digits of the member or beneficiary’s Social Security number;\n\n(c) Name of employer;\n\n(d) Time period of service which was incorrectly granted or denied a member;\n\n(e) Amount of service credit which was incorrectly granted or denied a member; and\n\n(f) Member’s total corrected amount of service credit.\n\nSource. #7478, eff 4-10-01; ss by #7573, eff 10-10-01, EXPIRED: 10-10-09\n\nNew. #9562, eff 10-14-09; ss by #10111, eff 4-11-12; ss by #12707, eff 1-9-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

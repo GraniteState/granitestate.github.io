@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/juv/301.01",
+  "@type": "Concept",
+  "agencyCode": "Juv",
+  "authority": [
+    {
+      "citation": "170-H:4",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "621:19",
+      "source": "https://granitestate.github.io/rsa/621/621-19",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/621/621-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/juv/301",
+  "definition": "Initiation of Parole Process",
+  "effectiveDate": "2025-03-28",
+  "historyNote": "(See Revision Note at chapter heading for Juv 300) #7844, eff 3-6-03, EXPIRED: 3-6-11 New. #9903, INTERIM, eff 4-16-11, EXPIRES: 10-13-11; ss by #10008-B, eff 9-30-11, EXPIRED: 9-30-19 New. #14223, eff 3-28-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Juv 301.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html",
+  "prefLabel": "Juv 301.01 Initiation of Parole Process",
+  "priorExpiration": "2019-09-30",
+  "recordType": "rule-section",
+  "ruleText": "Juv 301.01 Initiation of Parole Process. The commissioner shall provide notice to the board that a juvenile is eligible for parole pursuant to RSA 170-H:6 or RSA 621:19.\n\nSource. (See Revision Note at chapter heading for Juv 300) #7844, eff 3-6-03, EXPIRED: 3-6-11\n\nNew. #9903, INTERIM, eff 4-16-11, EXPIRES: 10-13-11; ss by #10008-B, eff 9-30-11, EXPIRED: 9-30-19\n\nNew. #14223, eff 3-28-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/juv100-400.html"
+}

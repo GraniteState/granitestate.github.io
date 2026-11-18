@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/un/811",
+  "@type": "Concept",
+  "agencyCode": "Un",
+  "altLabel": "FINANCIAL POLICIES-CLASSIFICATION OF STUDENTS FOR TUITION - EXPIRED",
+  "authority": [
+    {
+      "citation": "187-A:16",
+      "paragraphs": [
+        "XIX"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/un/800",
+  "definition": "FINANCIAL POLICIES - Classification of Students for Tuition Purposes (Residency Rules)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/un/811.01",
+    "https://granitestate.github.io/rules/un/811.02",
+    "https://granitestate.github.io/rules/un/811.03",
+    "https://granitestate.github.io/rules/un/811.04",
+    "https://granitestate.github.io/rules/un/811.05",
+    "https://granitestate.github.io/rules/un/811.06",
+    "https://granitestate.github.io/rules/un/811.07",
+    "https://granitestate.github.io/rules/un/811.08",
+    "https://granitestate.github.io/rules/un/811.09",
+    "https://granitestate.github.io/rules/un/811.10",
+    "https://granitestate.github.io/rules/un/811.11",
+    "https://granitestate.github.io/rules/un/811.12",
+    "https://granitestate.github.io/rules/un/811.13"
+  ],
+  "notation": "Un 811",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/un800.html",
+  "prefLabel": "Un 811 FINANCIAL POLICIES - Classification of Students for Tuition Purposes (Residency Rules)",
+  "recordType": "rule-part",
+  "ruleText": "PART Un 811 FINANCIAL POLICIES - Classification of Students for Tuition Purposes (Residency Rules)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/un800.html"
+}

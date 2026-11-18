@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/hedc/403",
+  "@type": "Concept",
+  "agencyCode": "Hedc",
+  "authority": [
+    {
+      "citation": "292:8-c",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/hedc/400",
+  "definition": "INCORPORATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/hedc/403.01"
+  ],
+  "notation": "Hedc 403",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html",
+  "prefLabel": "Hedc 403 INCORPORATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Hedc 403 INCORPORATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/hedc400.html"
+}

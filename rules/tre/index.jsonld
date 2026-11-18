@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tre",
+  "@type": "Concept",
+  "agencyCode": "Tre",
+  "definition": "State Treasurer www.state.nh.us/treasury",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tre/100",
+    "https://granitestate.github.io/rules/tre/200",
+    "https://granitestate.github.io/rules/tre/300"
+  ],
+  "notation": "Tre",
+  "prefLabel": "Tre State Treasurer www.state.nh.us/treasury",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

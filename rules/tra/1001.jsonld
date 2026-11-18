@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tra/1001",
+  "@type": "Concept",
+  "agencyCode": "Tra",
+  "authority": [
+    {
+      "citation": "228:31-b",
+      "source": "https://granitestate.github.io/rsa/228/228-31-b",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/228/228-31-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/tra/1000",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tra/1001.01"
+  ],
+  "notation": "Tra 1001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra1000.html",
+  "prefLabel": "Tra 1001 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Tra 1001 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra1000.html"
+}

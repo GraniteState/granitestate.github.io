@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/asb/101.03",
+  "@type": "Concept",
+  "agencyCode": "Asb",
+  "altLabel": "Board Meeting",
+  "authority": [
+    {
+      "citation": "21-J:14-b",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/asb/101",
+  "definition": "Board meeting",
+  "effectiveDate": "2003-03-31",
+  "historyNote": "#7861, eff 3-31-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Asb 101.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html",
+  "prefLabel": "Asb 101.03 Board meeting",
+  "recordType": "rule-section",
+  "ruleText": "Asb 101.03 \"Board meeting\" means a publicly noticed meeting for the purpose of conducting board duties that involve making board decisions.\n\nSource. #7861, eff 3-31-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html"
+}

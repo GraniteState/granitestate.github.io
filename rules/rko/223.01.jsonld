@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/223.01",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(j)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/223",
+  "definition": "Petitions",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 223.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 223.01 Petitions",
+  "recordType": "rule-section",
+  "ruleText": "Rko 223.01 Petitions. A person affected by a rule of the ombudsman may request that the ombudsman waive or suspend the rule by filing a written request for waiver or suspension containing, at a minimum:\n\n(a) The name of the person making the request;\n\n(b) The person’s address;\n\n(c) The person’s telephone number;\n\n(d) The person’s e-mail, if any;\n\n(e) If the person is making the request on behalf of another person, organization, or entity:\n\n(1) The other person’s, organization’s or entity’s name;\n\n(2) The other person’s, organization’s or entity’s address;\n\n(3) The other person’s, organization’s or entity’s telephone number;\n\n(4) The other person’s, organization’s or entity’s e-mail , if any; and\n\n(5) A certification by the person making the request that they are authorized to speak on behalf of the other person, organization, or entity;\n\n(f) An identification of the specific rule or rules for which waiver or suspension is being sought;\n\n(g) An identification of third parties who may be affected by the waiver or suspension of the rule or rules;\n\n(h) The reason or reasons that suspension or waiver is sought, together with such facts as will enable the ombudsman to ascertain how the waiver or suspension would impact either the person making the request or third parties;\n\n(i) If the petition is filed in relation to a case pending before the office, a certification that a copy of the request has been provided to all persons who have filed an appearance in that matter; and\n\n(j) The person’s signature.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/101",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:1",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-1",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "100-A:14",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-14",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-1",
+    "https://granitestate.github.io/rsa/100-A/100-A-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret/100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ret/101.01"
+  ],
+  "notation": "Ret 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ret 101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

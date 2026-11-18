@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ret/400",
+  "@type": "Concept",
+  "agencyCode": "Ret",
+  "authority": [
+    {
+      "citation": "100-A:14",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "100-A:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "117:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/100-A/100-A-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ret",
+  "definition": "CODE OF ETHICS FOR THE RETIREMENT SYSTEM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ret/401"
+  ],
+  "notation": "Ret 400",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html",
+  "prefLabel": "Ret 400 CODE OF ETHICS FOR THE RETIREMENT SYSTEM",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ret 400 CODE OF ETHICS FOR THE RETIREMENT SYSTEM",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ret100-500.html"
+}

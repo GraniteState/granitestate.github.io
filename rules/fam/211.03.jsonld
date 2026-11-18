@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fam/211.03",
+  "@type": "Concept",
+  "agencyCode": "Fam",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:32",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/fam/211",
+  "definition": "Roles of Allegors, Complainants, and Board Staff",
+  "effectiveDate": "2018-10-02",
+  "historyNote": "#5609, eff 4-6-93, EXPIRED: 4-6-99 New. #7716, INTERIM, eff 6-22-02, EXPIRED: 12-19-02 New. #8369, eff 6-7-05; ss by #9668, eff 4-2-10 (formerly Mar 208.03); ss by #12633, eff 10-2-18 (formerly Fam 210.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fam 211.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html",
+  "prefLabel": "Fam 211.03 Roles of Allegors, Complainants, and Board Staff",
+  "priorExpiration": "2002-12-19",
+  "recordType": "rule-section",
+  "ruleText": "Fam 211.03 Roles of Allegors, Complainants, and Board Staff.\n\n(a) Allegors and complainants shall have no role in disciplinary proceedings other than that of witness unless they petition for, and are granted, the right to intervene.\n\n(b) Unless called as witnesses or designated by the board to investigate a matter or present evidence, board staff shall have no role in disciplinary proceedings other than to perform clerical or administrative functions, such as monitoring recording devices, keeping track of time, and copying or forwarding documents.\n\nSource. #5609, eff 4-6-93, EXPIRED: 4-6-99\n\nNew. #7716, INTERIM, eff 6-22-02, EXPIRED: 12-19-02\n\nNew. #8369, eff 6-7-05; ss by #9668, eff 4-2-10 (formerly Mar 208.03); ss by #12633, eff 10-2-18 (formerly Fam 210.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fam100-800.html"
+}

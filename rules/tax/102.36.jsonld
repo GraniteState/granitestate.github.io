@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.36",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:16",
+      "source": "https://granitestate.github.io/rsa/71-B/71-B-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "75:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "76",
+      "source": "https://granitestate.github.io/rsa/76",
+      "via": "appendix"
+    },
+    {
+      "citation": "81:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/71-B/71-B-16",
+    "https://granitestate.github.io/rsa/76"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "Property Tax appeal",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7152, eff 12-10-99 (formerly Tax 101.32); ss by 8985, eff 9-24-07 (from Tax 102.36); ss by #10623, eff 6-26-14 (from Tax 102.38); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.36",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.36 Property Tax appeal",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.36 “Property Tax appeal” means an appeal involving ad valorem property taxes and includes claims of disproportionate assessment under RSA 51:7, RSA 76, RSA 71-B:16, RSA 75:14 and RSA 81:5.\n\nSource. #7152, eff 12-10-99 (formerly Tax 101.32); ss by 8985, eff 9-24-07 (from Tax 102.36); ss by #10623, eff 6-26-14 (from Tax 102.38); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

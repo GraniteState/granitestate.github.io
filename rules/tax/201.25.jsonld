@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/201.25",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "516",
+      "source": "https://granitestate.github.io/rsa/516",
+      "via": "appendix"
+    },
+    {
+      "citation": "516:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/516"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/201",
+  "definition": "Subpoena",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 201.25",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 201.25 Subpoena",
+  "recordType": "rule-section",
+  "ruleText": "Tax 201.25 Subpoena.\n\n(a) If witnesses and documents are to be subpoenaed, the board and parties shall follow the procedures used in the superior court in accordance with RSA 71-B:9 and RSA 516.\n\n(b) The board shall not issue subpoenas to parties wishing to subpoena witnesses or documents.\n\n(c) The party shall prepare and serve its own subpoena, which:\n\n(1) Includes the name and docket number of the case;\n\n(2) Is in the form required by RSA 516; and\n\n(3) Is signed by a justice of the peace as required by RSA 516:3.\n\n(d) Subpoenas shall be served at least 10 days before the hearing date for which the witness or document is being subpoenaed.\n\n(e) A subpoenaed witness may move to quash the subpoena by filing a motion to quash, stating in the motion the grounds therefor. Attendance shall be required unless the board grants the motion.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8986, eff 9-24-07; ss by #10624, eff 6-26-14; ss by #13687, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

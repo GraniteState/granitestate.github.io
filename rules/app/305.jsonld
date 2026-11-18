@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/app/305",
+  "@type": "Concept",
+  "agencyCode": "App",
+  "authority": [
+    {
+      "citation": "278:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "278:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/app/300",
+  "definition": "DEREGISTRATION OF COUNCIL-REGISTERED PROGRAMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/app/305.01",
+    "https://granitestate.github.io/rules/app/305.02",
+    "https://granitestate.github.io/rules/app/305.03"
+  ],
+  "notation": "App 305",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html",
+  "prefLabel": "App 305 DEREGISTRATION OF COUNCIL-REGISTERED PROGRAMS",
+  "recordType": "rule-part",
+  "ruleText": "PART App 305 DEREGISTRATION OF COUNCIL-REGISTERED PROGRAMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/app100-500.html"
+}

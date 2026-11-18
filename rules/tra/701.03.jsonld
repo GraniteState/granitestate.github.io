@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tra/701.03",
+  "@type": "Concept",
+  "agencyCode": "Tra",
+  "authority": [
+    {
+      "citation": "236:31",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/236/236-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/236/236-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/tra/701",
+  "definition": "Detection of Violation",
+  "effectiveDate": "2024-07-03",
+  "historyNote": "#8422, eff 8-23-05, EXPIRED: 8-23-13 New. #10634, eff 7-2-14; ss by #14009, eff 7-3-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tra 701.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra700.html",
+  "prefLabel": "Tra 701.03 Detection of Violation",
+  "priorExpiration": "2013-08-23",
+  "recordType": "rule-section",
+  "ruleText": "Tra 701.03 Detection of Violation.\n\n(a) The department shall install and operate the following equipment in each lane designated for electronic toll payment within the toll plaza:\n\n(1) An antenna to read the transponder of the vehicle passing through the lane to obtain account information;\n\n(2) An optical vehicle scanner in combination with a treadle to verify the vehicle classification of the vehicle passing through the lane;\n\n(3) A treadle used to determine the total number of axles on the vehicle passing through the lane;\n\n(4) A camera at the entrance of the lane and another at the exit of the lane positioned to capture images of the vehicle’s front and or rear license plates when a potential unpaid transaction has been detected; and\n\n(5) An island traffic light and a patron fare indicator that displays the following:\n\na. “Go E-ZPass” for a completed transaction;\n\nb. “Low Bal Check Account” when account is below the minimum replenishment threshold;\n\nc. “Unpaid Call E-ZPass” if the transaction is not completed;\n\nd. “Neg Bal Call E-ZPass” if the account is negative; or\n\ne. “Fare Due” and then “Bill by Mail” for a no fund transaction.\n\n(b) The department shall install and operate the following equipment in each lane designated for electronic toll payment within the open road tolling lanes (ORT) or all electronic tolling (AET) plazas:\n\n(1) A series of loops which will detect the vehicle entering and exiting the toll zone, count the number of axles on the vehicle, determine the vehicle’s classification, and trigger or notify the antenna, camera, and scanner equipment;\n\n(2) An antenna to read the transponder of the vehicle passing through the lane to obtain account information;\n\n(3) An optical vehicle scanner in combination with the loops or treadles to identify the classification of the vehicle passing through the lane; and\n\n(4) A camera at the entrance of the ORT/AET zone and another at the exit of the ORT/AET zone positioned to capture images of the vehicle’s front and rear license plates when a potential unpaid transaction or a class mismatch transaction has been detected. A class mismatch occurs when a vehicle’s transponder does not match the automatic vehicle classification system (AVC), for example when a customer pulling a trailer with a transponder for a 2 axle vehicle but classification reflects a 3 axle vehicle.\n\n(c) The information obtained pursuant to (a) and (b), above, shall be used to determine the toll amount to be paid for the vehicle passing through the toll zone or plaza. If there are sufficient funds in the account-holder’s account to pay the amount due, such amount shall be deducted from the account and the transaction completed.\n\n(d) A potential unpaid transaction shall be deemed to have occurred if:\n\n(1) The vehicle has no transponder or if no transponder was detected; or\n\n(2) The vehicle has an invalid transponder, that is insufficient funds in the account holder’s account, or a lost or stolen transponder that has been reported as such.\n\n(e) In a standard dedicated E-ZPass only lane, ORT, and AET lanes, cameras shall capture images of the front and rear license plates of all vehicles passing through the toll lanes or zone. Images shall only be retained for unpaid transactions in (d)(1) or (2) above and class mismatches.\n\n(f) Images captured for toll collection or enforcement purposes will only be saved for unpaid transactions in (d)(1) or (2) above or class mismatches. Images shall be deleted, within 3 seconds, when a full cash payment is made at the toll booth for the correct classification. Images shall also be deleted when a valid transponder is recognized with the correct classification at the toll booth.\n\n(g) The cameras shall be positioned so as to attempt to not capture the image of the face of any operator or passenger in the motor vehicle unless, pursuant to RSA 236:31, V, “the production of such image is unavoidable because the operator or passenger is not in a passenger compartment, as on a motorcycle.” Such images shall be stored in computers maintained by the department or vendor. Such images shall be stored by the department or vendor for a maximum of 30 days in toll lanes.\n\n(h) In a toll plaza with Cash/E-ZPass and dedicated E-ZPass lanes, subsequent to detection of a potential unpaid transaction, the department shall provide to the driver of the vehicle the following visual and auditory signals if no transponder is detected or if an invalid, lost, or stolen transponder is detected:\n\n(1) The island traffic light shall turn green;\n\n(2) A red beacon mounted on top of the island traffic light shall flash;\n\n(3) An alarm shall sound; and\n\n(4) An “UNPAID CALL E-ZPASS” or “NEG BAL CALL E-ZPASS” message will be displayed on the patron fare indicator.\n\nSource. #8422, eff 8-23-05, EXPIRED: 8-23-13\n\nNew. #10634, eff 7-2-14; ss by #14009, eff 7-3-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tra700.html"
+}

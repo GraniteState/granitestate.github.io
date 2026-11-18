@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "definition": "Electricians' Board (Rules were renumbered Saf-C for the Department of Safety pursuant to transfer of the Board to the Department of Safety, effective 7-1-05. See RSA 21-P:12, VI, RSA 319-C:4, IV, and RSA 21-G:9, II(b). The rules have been numbered Elec again pursuant to transfer of the Board from the Department of Safety and establishment of the Board's rulemaking authority under RSA 319-C:6-a. See 2012, 237:1-3, 5, and 7 and 2013, 57:4, effective 6-4-13.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/elec/100",
+    "https://granitestate.github.io/rules/elec/200",
+    "https://granitestate.github.io/rules/elec/300",
+    "https://granitestate.github.io/rules/elec/400"
+  ],
+  "notation": "Elec",
+  "prefLabel": "Elec Electricians' Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pdab/203.01",
+  "@type": "Concept",
+  "agencyCode": "Pdab",
+  "authority": [
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "126-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/pdab/203",
+  "definition": "Settlement",
+  "effectiveDate": "2022-12-02",
+  "historyNote": "#13500-A, eff 12-2-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pdab 203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html",
+  "prefLabel": "Pdab 203.01 Settlement",
+  "recordType": "rule-section",
+  "ruleText": "Pdab 203.01 Settlement.\n\n(a) Settlements between the parties shall be encouraged in accordance with RSA 541-A:38.\n\n(b) Parties shall attempt to settle a matter before it is scheduled for a hearing and may settle a matter at any stage of the proceedings.\n\n(c) All settlement agreements shall:\n\n(1) Be in writing, describing the agreement's material terms; and\n\n(2) Be signed by both parties and their attorneys or agents.\n\nSource. #13500-A, eff 12-2-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pdab100-300.html"
+}

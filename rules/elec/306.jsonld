@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/elec/306",
+  "@type": "Concept",
+  "agencyCode": "Elec",
+  "authority": [
+    {
+      "citation": "319-C:6-a",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "319-C:7",
+      "paragraphs": [
+        "II",
+        "II-a"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/elec/300",
+  "definition": "CRITERIA FOR APPROVAL OF TRAINING PROGRAMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/elec/306.01"
+  ],
+  "notation": "Elec 306",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html",
+  "prefLabel": "Elec 306 CRITERIA FOR APPROVAL OF TRAINING PROGRAMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Elec 306 CRITERIA FOR APPROVAL OF TRAINING PROGRAMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/elec100-400.html"
+}

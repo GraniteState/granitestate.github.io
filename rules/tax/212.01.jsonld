@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/212.01",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "75:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "75:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A",
+      "source": "https://granitestate.github.io/rsa/91-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/212",
+  "definition": "Applicability",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 216.01); ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 212.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 212.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Tax 212.01 Applicability. This part, as well as Tax 201, shall apply to appeals of residences located in an industrial or commercial zone under RSA 75:14, or reclassification under RSA 75:16.\n\nSource. #7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14 (from Tax 216.01); ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

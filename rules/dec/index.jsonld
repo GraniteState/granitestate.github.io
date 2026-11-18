@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/dec",
+  "@type": "Concept",
+  "agencyCode": "Dec",
+  "definition": "Nuclear Decommissioning Financing Committee (See RSA 162-F:15.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/dec/100",
+    "https://granitestate.github.io/rules/dec/200"
+  ],
+  "notation": "Dec",
+  "prefLabel": "Dec Nuclear Decommissioning Financing Committee",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

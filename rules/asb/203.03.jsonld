@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/asb/203.03",
+  "@type": "Concept",
+  "agencyCode": "Asb",
+  "authority": [
+    {
+      "citation": "21:32",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-J:14-b",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/asb/203",
+  "definition": "Hearing",
+  "effectiveDate": "2003-03-31",
+  "historyNote": "#7863-A, eff 3-31-03",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Asb 203.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html",
+  "prefLabel": "Asb 203.03 Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Asb 203.03 \"Hearing\" means a publicly noticed meeting pursuant to RSA 541-A:6, for the purpose of the receipt by the board of information, documentation or oral or written testimony, or any combination of these, for the purpose of rulemaking.\n\nSource. #7863-A, eff 3-31-03",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/asb100-300.html"
+}

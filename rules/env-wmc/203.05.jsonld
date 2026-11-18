@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/203.05",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/203",
+  "definition": "Record of Meetings",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#4846, eff 6-21-90, EXPIRED: 6-21-96 New. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 203.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 203.05 Record of Meetings",
+  "priorExpiration": "1996-06-21",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 203.05 Record of Meetings. A record of all regular and special meetings of the council shall be kept by tape recording. Minutes of the meeting shall be prepared by the council clerk and distributed to the council members.\n\nSource. #4846, eff 6-21-90, EXPIRED: 6-21-96\n\nNew. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/arb/204.07",
+  "@type": "Concept",
+  "agencyCode": "Arb",
+  "authority": [
+    {
+      "citation": "357-D:5",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(k)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:35",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-35",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-35"
+  ],
+  "broader": "https://granitestate.github.io/rules/arb/204",
+  "definition": "Board Member Withdrawal",
+  "effectiveDate": "2007-09-28",
+  "historyNote": "#6994, eff 5-7-99; ss by #8882, INTERIM, eff 5-5-07, EXPIRES: 11-1-07; ss by 8996, eff 9-28-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Arb 204.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html",
+  "prefLabel": "Arb 204.07 Board Member Withdrawal",
+  "priorExpiration": "2007-11-01",
+  "recordType": "rule-section",
+  "ruleText": "Arb 204.07 Board Member Withdrawal.\n\n(a) Each board member shall, at any stage of the hearing process, withdraw from a case if he/she:\n\n(1) Presently, or in the past, has had a personal or business relationship with a party, witness or representative that may hinder him/her from arriving at an impartial decision on the issue(s); or\n\n(2) Cannot render an impartial decision for any other reason.\n\nSource. #6994, eff 5-7-99; ss by #8882, INTERIM, eff 5-5-07, EXPIRES: 11-1-07; ss by 8996, eff 9-28-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/arb100-200.html"
+}

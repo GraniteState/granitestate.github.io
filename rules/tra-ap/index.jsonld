@@ -1,0 +1,15 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tra-ap",
+  "@type": "Concept",
+  "agencyCode": "Tra-Ap",
+  "definition": "Appeals Board for the Department of Transportation (The Board has its own rulemaking authority pursuant to RSA 21-L:15, IV separate from the DOT Commissioner.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/tra-ap/200"
+  ],
+  "notation": "Tra-Ap",
+  "prefLabel": "Tra-Ap Appeals Board for the Department of Transportation",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

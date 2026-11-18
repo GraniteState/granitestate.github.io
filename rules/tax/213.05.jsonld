@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/213.05",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "79:10",
+      "source": "https://granitestate.github.io/rsa/79/79-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "79:11",
+      "source": "https://granitestate.github.io/rsa/79/79-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/79/79-10",
+    "https://granitestate.github.io/rsa/79/79-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/213",
+  "definition": "Checklist to Municipalities",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 213.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 213.05 Checklist to Municipalities",
+  "recordType": "rule-section",
+  "ruleText": "Tax 213.05 Checklist to Municipalities.\n\n(a) Upon receipt of a timely filed appeal, the board shall send the taxpayer an acknowledgement of its receipt and the municipality a checklist, seeking information including the following:\n\n(1) A copy of the abatement application, municipality’s denial letter, the date it was filed with the municipality, and the date the timber tax bill was sent to the owner;\n\n(2) Copies of the original and supplemental notice of intent to cut and the report of all wood and timber cut in accordance with RSA 79:10 and RSA 79:11;\n\n(3) An explanation of the estimate of stumpage value, including the price per MBF/cord/ton of harvested products, or other supporting documentation;\n\n(4) Copies of each assessment-record card for all property owned by the taxpayer;\n\n(5) If applicable, the name, address and telephone number of the municipal contractor defending the appeal; and\n\n(6) A signature section for the municipality to certify a copy of the checklist was mailed to the taxpayer or the taxpayer’s representative.\n\n(b) The municipality shall file the completed checklist within 30 days of the board’s date on the checklist, copying the taxpayer. If the completed checklist shows the taxpayer has complied with all timely filing requirements, the board shall process the appeal.\n\nSource. #7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

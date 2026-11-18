@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/102.26",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "21-J:28-b",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:16-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "80:55",
+      "source": "https://granitestate.github.io/rsa/80/80-55",
+      "via": "appendix"
+    },
+    {
+      "citation": "498-A:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-J/21-J-28-b",
+    "https://granitestate.github.io/rsa/80/80-55"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/102",
+  "definition": "File",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#7152, eff 12-10-99 (formerly Tax 101.23); ss by #7875, eff 4-18-03; ss by 8985, eff 9-24-07 (from Tax 102.25); ss by #10623, eff 6-26-14 (from Tax 102.28); ss by 13686, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 102.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 102.26 File",
+  "recordType": "rule-section",
+  "ruleText": "Tax 102.26 “File” means:\n\n(a) The date a declaration is determined to be in compliance with RSA 498-A:5, after receipt and review by the board; or\n\n(b) The date an appeal document, abatement application, or other document is:\n\n(1) Hand delivered and received by the proper filing office;\n\n(2) Postmarked by the United States Postal Service in accordance with RSA 76:16-e and RSA 80:55; or\n\n(3) Marked as receipted for delivery by a courier or overnight service such as Federal Express or United Parcel Service.\n\nSource. #7152, eff 12-10-99 (formerly Tax 101.23); ss by #7875, eff 4-18-03; ss by 8985, eff 9-24-07 (from Tax 102.25); ss by #10623, eff 6-26-14 (from Tax 102.28); ss by 13686, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

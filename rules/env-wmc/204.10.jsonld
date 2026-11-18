@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/204.10",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/204",
+  "definition": "Scheduling",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 204.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 204.10 Scheduling",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 204.10 Scheduling.\n\n(a) The council shall schedule an appeal hearing no later than the second regularly scheduled council meeting following receipt by the council of a complete notice of appeal that complies with Env-WMC 203.09(b).\n\n(b) Once a hearing has been scheduled, the appeals clerk shall send written notice of the date, time, and place of the hearing to the parties or, as applicable, their representatives, and to all other persons who have filed an appearance with the appeals clerk. The notice shall include a statement that the hearing is to consider the issues raised in the notice of appeal, a statement of the legal authority under which the hearing is to be held, and a reference to the particular statute(s), rule(s), or permit(s), as applicable, involved in the appeal.\n\n(c) If the hearing is rescheduled, the appeals clerk shall send a notice of the date, time, and place of the rescheduled hearing to the parties or their representatives, as applicable.\n\nSource. #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

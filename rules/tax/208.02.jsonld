@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/208.02",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "71-B:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "71-B:16",
+      "paragraphs": [
+        "I",
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/71-B/71-B-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "75:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "79-A:12",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/71-B/71-B-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/208",
+  "definition": "Written Complaint Against Specific Property",
+  "effectiveDate": "2023-08-02",
+  "historyNote": "#4684, eff 10-19-89; ss by #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 208.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 208.02 Written Complaint Against Specific Property",
+  "recordType": "rule-section",
+  "ruleText": "Tax 208.02 Written Complaint Against Specific Property.\n\n(a) A written complaint filed under RSA 71-B:16, I, RSA 71-B:16, II, RSA 75:16, or RSA 79-A:12, I shall include the following and the proper filing fee under Tax 501.01:\n\n(1) The complainant's name, address, and telephone number;\n\n(2) The name and address of the property owner against whose property the complaint is filed;\n\n(3) The description of the property, including the street address and tax map and lot numbers, that is the subject matter of the complaint;\n\n(4) A statement specifically describing the basis for the complaint; and\n\n(5) The complainant's signature.\n\n(b) Pursuant to RSA 71-B:9, the board shall order the complainant to pay the property owner's costs if the board finds the complaint was frivolously filed or maintained.\n\nSource. #4684, eff 10-19-89; ss by #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; amd by #7874-B, eff 4-18-03; ss by #8987-A, eff 9-24-07; ss by #9538, eff 9-8-09; ss by #10625-B, eff 6-26-14; ss by #13711-B, eff 8-2-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}

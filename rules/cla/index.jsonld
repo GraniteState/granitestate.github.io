@@ -1,0 +1,17 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cla",
+  "@type": "Concept",
+  "agencyCode": "Cla",
+  "definition": "Board of Claims",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cla/100",
+    "https://granitestate.github.io/rules/cla/200",
+    "https://granitestate.github.io/rules/cla/300"
+  ],
+  "notation": "Cla",
+  "prefLabel": "Cla Board of Claims",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

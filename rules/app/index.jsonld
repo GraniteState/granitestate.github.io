@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/app",
+  "@type": "Concept",
+  "agencyCode": "App",
+  "definition": "State Apprenticeship Council (See RSA 278:3.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/app/100",
+    "https://granitestate.github.io/rules/app/200",
+    "https://granitestate.github.io/rules/app/300",
+    "https://granitestate.github.io/rules/app/400",
+    "https://granitestate.github.io/rules/app/500"
+  ],
+  "notation": "App",
+  "prefLabel": "App State Apprenticeship Council",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

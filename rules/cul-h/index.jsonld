@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/cul-h",
+  "@type": "Concept",
+  "agencyCode": "Cul-H",
+  "definition": "Division of Historical Resources",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/cul-h/100",
+    "https://granitestate.github.io/rules/cul-h/200"
+  ],
+  "notation": "Cul-H",
+  "prefLabel": "Cul-H Division of Historical Resources",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

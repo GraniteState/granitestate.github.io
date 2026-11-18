@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/par/501",
+  "@type": "Concept",
+  "agencyCode": "Par",
+  "authority": [
+    {
+      "citation": "651-A:4",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/par/500",
+  "definition": "REASONS FOR REVOCATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/par/501.01",
+    "https://granitestate.github.io/rules/par/501.02",
+    "https://granitestate.github.io/rules/par/501.03",
+    "https://granitestate.github.io/rules/par/501.04",
+    "https://granitestate.github.io/rules/par/501.05",
+    "https://granitestate.github.io/rules/par/501.06"
+  ],
+  "notation": "Par 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html",
+  "prefLabel": "Par 501 REASONS FOR REVOCATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Par 501 REASONS FOR REVOCATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/par100-500.html"
+}

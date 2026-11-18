@@ -1,0 +1,16 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/asb",
+  "@type": "Concept",
+  "agencyCode": "Asb",
+  "definition": "Assessing Standards Board (See RSA 21-J:14-b, I-a pursuant to 2001, 297:2, effective 9-15-01.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/asb/100",
+    "https://granitestate.github.io/rules/asb/200"
+  ],
+  "notation": "Asb",
+  "prefLabel": "Asb Assessing Standards Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

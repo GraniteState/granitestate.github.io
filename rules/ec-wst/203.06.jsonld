@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ec-wst/203.06",
+  "@type": "Concept",
+  "agencyCode": "Ec-Wst",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-O:14",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/21-O/21-O-14",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ec-wst/203",
+  "definition": "Delivery of Documents",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ec-Wst 203.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wst.html",
+  "prefLabel": "Ec-Wst 203.06 Delivery of Documents",
+  "recordType": "rule-section",
+  "ruleText": "Section Ec-Wst 203.06 Delivery of Documents",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ec-wst.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/eth/209.01",
+  "@type": "Concept",
+  "agencyCode": "Eth",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(g)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:32",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-32"
+  ],
+  "broader": "https://granitestate.github.io/rules/eth/209",
+  "definition": "Role of Complainants and Committee Staff in Hearings",
+  "effectiveDate": "2018-09-06",
+  "historyNote": "#12617-A, eff 9-6-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Eth 209.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html",
+  "prefLabel": "Eth 209.01 Role of Complainants and Committee Staff in Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Eth 209.01 Role of Complainants and Committee Staff in Hearings.\n\n(a) Unless called as a witness or granted intervenor status, a complainant shall have no role in a hearing on the complaint conducted by the committee.\n\n(b) The investigator or other person designated by the attorney general shall present the case against the respondent to the committee.\n\nSource. #12617-A, eff 9-6-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/eth100-200.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/rko/207.04",
+  "@type": "Concept",
+  "agencyCode": "Rko",
+  "authority": [
+    {
+      "citation": "91-A:7-b",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-7-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/rko/207",
+  "definition": "Conditional Default for Failure to File an Appearance",
+  "effectiveDate": "2024-05-20",
+  "historyNote": "#13921, eff 5-20-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Rko 207.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html",
+  "prefLabel": "Rko 207.04 Conditional Default for Failure to File an Appearance",
+  "recordType": "rule-section",
+  "ruleText": "Rko 207.04 Conditional Default for Failure to File an Appearance.\n\n(a) If a party fails to file an appearance as required or ordered, or fails to file it by the time required or ordered, that party shall be in conditional default.\n\n(b) A conditional default for failure to file an appearance may be requested by motion of any person who has filed an appearance, or may be issued by the ombudsman acting sua sponte, at any time that it appears that a required appearance is not of record.\n\n(c) A hearing shall not be held on either motions for conditional default for failure to file an appearance nor on motions to strike such a conditional default.\n\n(d) An order of conditional default for failure to file an appearance shall:\n\n(1) Briefly state the reason that the conditional default is being issued, with citation to applicable rules or orders of the office; and\n\n(2) Instruct the defaulting party that if an appearance is not received within 10 days of the date of the order, the judgment shall become final under Rko 207.05, Rko 207.06, or Rko 207.07 below.\n\n(e) A motion for conditional default for failure to file an appearance shall be granted if it appears from the record that the required appearance was not filed.\n\n(f) A motion to strike a conditional default shall be granted if:\n\n(1) It is accompanied by the required appearance; and\n\n(2) The motion establishes that the failure to file an appearance was the result of accident, mistake, or misfortune, and not:\n\na. Neglect;\n\nb. An effort to delay the resolution of the case; or\n\nc. Pursuant to RSA 91-A: 7-b, IV, a purposeful disregard of orders that were issued during the review process.\n\nSource. #13921, eff 5-20-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/rko100-200.html"
+}

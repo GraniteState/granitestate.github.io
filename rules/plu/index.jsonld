@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plu",
+  "@type": "Concept",
+  "agencyCode": "Plu",
+  "definition": "State Board for the Licensing and Regulation of Plumbers (The Board was abolished pursuant to 2013, 275:15, I, effective 7-1-13, which repealed RSA 329-A. Existing rules (Plu) were transferred pursuant to 2013, 275:14, II to the Mechanical Licensing Board in the Department of Safety and were replaced by rules numbered -->Saf-Mec in 2015 and thereafter.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plu/100",
+    "https://granitestate.github.io/rules/plu/200",
+    "https://granitestate.github.io/rules/plu/300",
+    "https://granitestate.github.io/rules/plu/400",
+    "https://granitestate.github.io/rules/plu/500"
+  ],
+  "notation": "Plu",
+  "prefLabel": "Plu State Board for the Licensing and Regulation of Plumbers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

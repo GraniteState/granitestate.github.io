@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wmc/203.01",
+  "@type": "Concept",
+  "agencyCode": "Env-WMC",
+  "authority": [
+    {
+      "citation": "21-O:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-O/21-O-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-O/21-O-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wmc/203",
+  "definition": "Quorum",
+  "effectiveDate": "2004-01-24",
+  "historyNote": "#4846, eff 6-21-90, EXPIRED: 6-21-96 New. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-WMC 203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html",
+  "prefLabel": "Env-WMC 203.01 Quorum",
+  "priorExpiration": "1996-06-21",
+  "recordType": "rule-section",
+  "ruleText": "Env-WMC 203.01 Quorum.\n\n(a) A quorum of the council shall be a simple majority of the total number of sitting members, provided, however, that in the context of an appeal proceeding, a quorum shall be a simple majority of those sitting members who have not recused themselves from the proceeding.\n\n(b) The council shall take formal or official action only when a quorum is present.\n\nSource. #4846, eff 6-21-90, EXPIRED: 6-21-96\n\nNew. #6334, eff 9-20-96; ss by #8031, eff 1-24-04",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wmc200.html"
+}

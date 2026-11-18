@@ -1012,6 +1012,15 @@ def vocab_document() -> dict:
             "officialHtml: the raw HTML file in GraniteState/nh-rsa-data at the pinned commit.",
             "combinedWith: another section identifier that shares this source heading.",
             "rsaTitle: the title's Roman numeral, such as LXIII.",
+            "agencyCode: the administrative-rule prefix, such as Elec or Saf-Mec.",
+            "ruleText: the heading's operative text, from that heading through the Source. note and before the next heading.",
+            "authorizedBy: RSA concept the rule implements. source_note citations are not included.",
+            "implementedBy: administrative-rule concept that implements this RSA section or chapter.",
+            "authority: one object per implementing RSA citation, with citation, via, paragraphs, and source when the RSA page exists.",
+            "via: how the implementing citation was found: appendix, statutory_authority, inherited_part, or inherited_chapter.",
+            "paragraphs: paragraph markers named in an implementing citation, such as II or I(a). They are not part of the URL.",
+            "expirationDate: the expiration date parsed from the Source. note, when that date is still in force.",
+            "priorExpiration: an earlier EXPIRES or EXPIRED date that a later adoption in the same Source. note superseded.",
         ],
     }
 
@@ -1097,6 +1106,15 @@ def context_document() -> dict:
             "officialHtml": {"@id": "gs:officialHtml", "@type": "@id"},
             "combinedWith": {"@id": "gs:combinedWith", "@type": "@id"},
             "rsaTitle": "gs:rsaTitle",
+            "agencyCode": "gs:agencyCode",
+            "ruleText": "gs:ruleText",
+            "authorizedBy": {"@id": "gs:authorizedBy", "@type": "@id"},
+            "implementedBy": {"@id": "gs:implementedBy", "@type": "@id"},
+            "authority": "gs:authority",
+            "via": "gs:via",
+            "paragraphs": "gs:paragraphs",
+            "expirationDate": {"@id": "gs:expirationDate", "@type": "xsd:date"},
+            "priorExpiration": {"@id": "gs:priorExpiration", "@type": "xsd:date"},
         }
     }
 

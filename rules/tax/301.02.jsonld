@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/tax/301.02",
+  "@type": "Concept",
+  "agencyCode": "Tax",
+  "authority": [
+    {
+      "citation": "31:94-a",
+      "source": "https://granitestate.github.io/rsa/31/31-94-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:1-a",
+      "source": "https://granitestate.github.io/rsa/76/76-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "76:15-a",
+      "source": "https://granitestate.github.io/rsa/76/76-15-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/31/31-94-a",
+    "https://granitestate.github.io/rsa/76/76-1-a",
+    "https://granitestate.github.io/rsa/76/76-15-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/tax/301",
+  "definition": "Definition",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8988, eff 9-24-07; ss by #9539, eff 9-8-09; ss by #10626, eff 6-26-14; ss by #13688, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Tax 301.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html",
+  "prefLabel": "Tax 301.02 Definition",
+  "recordType": "rule-section",
+  "ruleText": "Tax 301.02 Definition. \"Date of the final tax bill\" means, for the purposes of Tax 301:\n\n(a) In municipalities that bill annually, the date the municipality mails the tax bills to the taxpayers;\n\n(b) In municipalities that bill semi-annually, pursuant to RSA 76:15-a, the date the municipality mails the second tax bill to the taxpayers;\n\n(c) In municipalities operating with an optional fiscal year, pursuant to RSA 31:94-a or a special legislative act, the date the municipality mails the first tax bill to the taxpayers, provided that first tax bill establishes the total tax liability for the tax year and the bill includes notice that abatements shall be sought from the first bill; and\n\n(d) In municipalities that bill quarterly, pursuant to RSA 76:15-aa, the last date the municipality mails to the taxpayers the quarterly tax bill due on January 2.\n\nSource. #5638, eff 9-1-93; ss by #7068, INTERIM, eff 8-15-99, EXPIRES, 12-13-99; ss by #7153, eff 12-10-99; ss by #8988, eff 9-24-07; ss by #9539, eff 9-8-09; ss by #10626, eff 6-26-14; ss by #13688, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/tax100-500.html"
+}
