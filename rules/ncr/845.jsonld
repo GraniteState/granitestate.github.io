@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/845",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/840",
+  "definition": "APPLYING FOR GRANT-IN-AID",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/845.01",
+    "https://granitestate.github.io/rules/ncr/845.02",
+    "https://granitestate.github.io/rules/ncr/845.03",
+    "https://granitestate.github.io/rules/ncr/845.04",
+    "https://granitestate.github.io/rules/ncr/845.05"
+  ],
+  "notation": "Ncr 845",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 845 APPLYING FOR GRANT-IN-AID",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 845 APPLYING FOR GRANT-IN-AID",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

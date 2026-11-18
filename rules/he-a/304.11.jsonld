@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/304.11",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "172:2-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "172:8-b",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/304",
+  "definition": "Certification and Administration Fee",
+  "effectiveDate": "2018-02-16",
+  "historyNote": "#7496, eff 5-23-01; amd by #7599, eff 11-20-01; ss by #9476, eff 5-22-09 (from He-A 304.13); ss by #12178, INTERIM, eff 5-20-17, EXPIRED: 11-16-17 New. #12476, eff 2-16-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 304.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html",
+  "prefLabel": "He-A 304.11 Certification and Administration Fee",
+  "priorExpiration": "2017-11-16",
+  "recordType": "rule-section",
+  "ruleText": "He-A 304.11 Certification and Administration Fee.\n\n(a) In accordance with RSA 318-B:10, VII(f):\n\n(1) Providers of an OTP which had clients in the previous calendar year shall submit to the department a certification and administration fee of $8 per client served in the previous calendar year; and\n\n(2) Providers of an OTP which had no clients in the previous calendar year shall submit to the department a certification and administration fee of $1000.\n\n(b) The fee in (a) above shall be paid to the department no later than February 15th of each year.\n\n(c) The number of clients served in a calendar year shall be calculated as follows:\n\n(1) The number of unique clients who were enrolled and received treatment in that year, regardless of how long the treatment lasted or the effectiveness of the treatment;\n\n(2) A client who has been enrolled and has received treatment more than once in a calendar year shall be counted as a single client for that year;\n\n(3) A client who is enrolled and is receiving treatment across a calendar year, as part of a single admission shall be counted in each year; and\n\n(4) A client who is admitted only for guest dosing in the year shall not be included in this count.\n\n(d) Documentation of the number of clients served as described in (c) above shall be submitted with the payment.\n\n(e) If a provider of more than one OTP submits a single payment for all of its OTPs, the documentation in (d) above shall indicate the client census described in (c) above by OTP location.\n\n(f) The certification and administration fee shall be paid by check or money order, in the exact amount of the fee, made payable to “Treasurer, State of New Hampshire.”\n\n(g) Any fee submitted to the department in the form of a check or money order and returned to the state for any reason shall be processed in accordance with RSA 6:11-a.\n\nSource. #7496, eff 5-23-01; amd by #7599, eff 11-20-01; ss by #9476, eff 5-22-09 (from He-A 304.13); ss by #12178, INTERIM, eff 5-20-17, EXPIRED: 11-16-17\n\nNew. #12476, eff 2-16-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html"
+}

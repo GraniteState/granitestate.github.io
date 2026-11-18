@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/1105.02",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "217-A:2",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5",
+    "https://granitestate.github.io/rsa/217-A/217-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/1105",
+  "definition": "Projects by State Agencies",
+  "effectiveDate": "2019-07-10",
+  "expirationDate": "2020-01-06",
+  "historyNote": "#5927, eff 11-22-94, EXPIRED: 11-22-00 New. #7507, eff 6-21-01; ss by #9479, eff 6-1-09, EXPIRED: 6-1-17 New. #12825, INTERIM, eff 7-10-19, EXPIRES: 1-6-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 1105.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr1100.html",
+  "prefLabel": "Ncr 1105.02 Projects by State Agencies",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 1105.02 Projects by State Agencies.\n\n(a) Projects initiated by state agencies which involve changes in land use or which would otherwise impact plant life shall be submitted to the natural heritage bureau which shall assess the potential impact on species contained in Ncr 1108.01, Ncr 1108.02 and Ncr 1108.03.\n\n(b) Each agency shall submit the following information:\n\n(1) Name of agency;\n\n(2) Project contact person;\n\n(3) Date;\n\n(4) Description of proposed project;\n\n(5) Map identifying project area at a scale of 1:24,000; and\n\n(6) Proposed timetable of project.\n\n(c) The natural heritage bureau shall review the information supplied, and report on the actual or potential presence of species contained in Ncr 1108.01, Ncr 1108.02, and Ncr 1108.03 and assess any potential impact on these species. If there is probable cause to believe that species listed on the natural heritage inventory shall be impacted by the project, the natural heritage bureau shall make recommendations based on the known biology and ecology of the species in question to provide for the survival of these species at the project site.\n\nSource. #5927, eff 11-22-94, EXPIRED: 11-22-00\n\nNew. #7507, eff 6-21-01; ss by #9479, eff 6-1-09, EXPIRED: 6-1-17\n\nNew. #12825, INTERIM, eff 7-10-19, EXPIRES: 1-6-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr1100.html"
+}

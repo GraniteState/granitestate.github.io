@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/900",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:37",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph",
+  "definition": "MAIL-ORDER/NON-RESIDENT PHARMACY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/901",
+    "https://granitestate.github.io/rules/ph/902",
+    "https://granitestate.github.io/rules/ph/903",
+    "https://granitestate.github.io/rules/ph/904",
+    "https://granitestate.github.io/rules/ph/905",
+    "https://granitestate.github.io/rules/ph/906",
+    "https://granitestate.github.io/rules/ph/907"
+  ],
+  "notation": "Ph 900",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 900 MAIL-ORDER/NON-RESIDENT PHARMACY",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ph 900 MAIL-ORDER/NON-RESIDENT PHARMACY\n\nStatutory Authority: RSA 318:37, II",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2101.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2101",
+  "definition": "Board Authority for Inspections",
+  "effectiveDate": "2020-04-11",
+  "historyNote": "#13028, eff 4-11-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2101.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2101.01 Board Authority for Inspections",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2101.01 Board Authority for Inspections. All inspections shall be conducted as stated in Ph 2104, as part of an investigation process, and at the request of the various regulatory boards listed in RSA 318:8-a and RSA 318:9-a.\n\nSource. #13028, eff 4-11-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

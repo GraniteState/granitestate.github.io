@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/102.07",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/102",
+  "definition": "Commission website",
+  "effectiveDate": "2023-04-25",
+  "historyNote": "#13612, eff 4-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 102.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 102.07 Commission website",
+  "recordType": "rule-section",
+  "ruleText": "Liq 102.07 Commission website. The website is https://www.nh.gov/liquor/index.shtml.\n\nSource. #13612, eff 4-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

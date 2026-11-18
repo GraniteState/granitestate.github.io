@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/602",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "IX",
+        "X(d)"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/600",
+  "definition": "PERMITS AND STICKERS REQUIRED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/602.01",
+    "https://granitestate.github.io/rules/pda/602.02",
+    "https://granitestate.github.io/rules/pda/602.03",
+    "https://granitestate.github.io/rules/pda/602.04",
+    "https://granitestate.github.io/rules/pda/602.05",
+    "https://granitestate.github.io/rules/pda/602.06"
+  ],
+  "notation": "Pda 602",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 602 PERMITS AND STICKERS REQUIRED",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 602 PERMITS AND STICKERS REQUIRED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

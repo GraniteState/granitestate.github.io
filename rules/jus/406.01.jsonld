@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/406.01",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "7:22",
+      "via": "appendix"
+    },
+    {
+      "citation": "7:32-a",
+      "source": "https://granitestate.github.io/rsa/7/7-32-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/7/7-32-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/406",
+  "definition": "Electronic Publication",
+  "effectiveDate": "2024-12-27",
+  "historyNote": "#13455, eff 10-7-22; ss by #14162, eff 12-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 406.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus400.html",
+  "prefLabel": "Jus 406.01 Electronic Publication",
+  "recordType": "rule-section",
+  "ruleText": "Jus 406.01 Electronic Publication. In accordance with RSA 7:32-a, the director shall prepare and cause to be published on the website for the department of justice a directory of charitable trusts.\n\nSource. #13455, eff 10-7-22; ss by #14162, eff 12-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus400.html"
+}

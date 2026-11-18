@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/781",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/780",
+  "definition": "FINES RELATING TO ALL PARKS AND DEPARTMENT PROPERTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/781.01"
+  ],
+  "notation": "Ncr 781",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html",
+  "prefLabel": "Ncr 781 FINES RELATING TO ALL PARKS AND DEPARTMENT PROPERTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 781 FINES RELATING TO ALL PARKS AND DEPARTMENT PROPERTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr700.html"
+}

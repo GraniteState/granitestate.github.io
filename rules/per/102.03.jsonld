@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/102.03",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Accredited Institution",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/102",
+  "definition": "Accredited institution",
+  "effectiveDate": "2025-12-01",
+  "historyNote": "#14132-A, eff 11-27-24; ss by #14434 (formerly Per 102.02), eff 12-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 102.03 Accredited institution",
+  "recordType": "rule-section",
+  "ruleText": "Per 102.03 “Accredited institution” means an institution providing post-secondary education that is recognized as accredited in the applicable discipline by the United States Department of Education, the Council for Higher Education Accreditation, or the NH department of education.\n\nSource. #14132-A, eff 11-27-24; ss by #14434 (formerly Per 102.02), eff 12-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

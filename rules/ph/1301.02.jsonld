@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1301.02",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1301",
+  "definition": "Scope",
+  "effectiveDate": "2023-04-12",
+  "historyNote": "#9552, eff 9-23-09; ss by #10185, eff 9-18-12; ss by #13558, eff 4-12-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1301.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1301.02 Scope",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1301.02 Scope. These rules shall regulate administration of vaccines where the practice of pharmacy is permitted.\n\nSource. #9552, eff 9-23-09; ss by #10185, eff 9-18-12; ss by #13558, eff 4-12-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

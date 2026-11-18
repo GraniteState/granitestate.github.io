@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/206.01",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/206",
+  "definition": "Computation of Time",
+  "effectiveDate": "2025-12-01",
+  "historyNote": "#10801, eff 5-17-15; ss by #14441, eff 12-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 206.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 206.01 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Per 206.01 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in these rules shall be calendar days.\n\n(b) Computation of any period of time referred to in these rules shall begin with the day after the action which sets the time period in motion, and shall include the last day of the period so computed.\n\n(c) Unless otherwise specified in these rules or by other applicable law relating to the period in which an action shall be performed, if the last day of the period so computed falls on a Saturday, Sunday, or legal holiday, then the time period shall be extended to include the first business day following the Saturday, Sunday, or legal holiday.\n\nSource. #10801, eff 5-17-15; ss by #14441, eff 12-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/561",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/560",
+  "definition": "FIRE PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/561.01",
+    "https://granitestate.github.io/rules/ncr/561.02",
+    "https://granitestate.github.io/rules/ncr/561.03",
+    "https://granitestate.github.io/rules/ncr/561.04",
+    "https://granitestate.github.io/rules/ncr/561.05",
+    "https://granitestate.github.io/rules/ncr/561.06",
+    "https://granitestate.github.io/rules/ncr/561.07",
+    "https://granitestate.github.io/rules/ncr/561.08",
+    "https://granitestate.github.io/rules/ncr/561.09"
+  ],
+  "notation": "Ncr 561",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html",
+  "prefLabel": "Ncr 561 FIRE PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 561 FIRE PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr520-590.html"
+}

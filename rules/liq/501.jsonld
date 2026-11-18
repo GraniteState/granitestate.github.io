@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/501",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:14",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "177:10",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "178:22",
+      "paragraphs": [
+        "V(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/178/178-22",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "178:27-a",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178/178-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/500",
+  "definition": "CLUBS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/501.01",
+    "https://granitestate.github.io/rules/liq/501.02",
+    "https://granitestate.github.io/rules/liq/501.03",
+    "https://granitestate.github.io/rules/liq/501.04",
+    "https://granitestate.github.io/rules/liq/501.05",
+    "https://granitestate.github.io/rules/liq/501.06",
+    "https://granitestate.github.io/rules/liq/501.07",
+    "https://granitestate.github.io/rules/liq/501.08",
+    "https://granitestate.github.io/rules/liq/501.09",
+    "https://granitestate.github.io/rules/liq/501.10",
+    "https://granitestate.github.io/rules/liq/501.11",
+    "https://granitestate.github.io/rules/liq/501.12",
+    "https://granitestate.github.io/rules/liq/501.13",
+    "https://granitestate.github.io/rules/liq/501.14",
+    "https://granitestate.github.io/rules/liq/501.15"
+  ],
+  "notation": "Liq 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 501 CLUBS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 501 CLUBS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

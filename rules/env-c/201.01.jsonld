@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/201.01",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/201",
+  "definition": "Purpose",
+  "effectiveDate": "2007-03-25",
+  "historyNote": "#4653, eff 7-27-89; ss by #4834, eff 6-4-90; ss by #5265, eff 10-31-91; ss by #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 201.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 201.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 201.01 Purpose.\n\n(a) The purpose of the rules in Env-C 200 is to provide:\n\n(1) Uniform procedures for the conduct of adjudicative and non-adjudicative proceedings;\n\n(2) Uniform procedures for the submittal, review, and disposition of motions for reconsideration, rulemaking petitions, claims of confidentiality, and declaratory rulings;\n\n(3) Uniform criteria for suspending, revoking, or refusing to issue or renew licenses issued by the department of environmental services; and\n\n(4) Procedures for submitting requests to review department records and requests for determinations under RSA 72:12-a.\n\n(b) These rules are intended to supplement the requirements of RSA 541-A and any procedures or criteria established under any statute implemented by the department of environmental services.\n\nSource. #4653, eff 7-27-89; ss by #4834, eff 6-4-90; ss by #5265, eff 10-31-91; ss by #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

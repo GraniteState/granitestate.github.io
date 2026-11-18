@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/307.02",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/307",
+  "definition": "PT Sampling Handling",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 307.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 307.02 PT Sampling Handling",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 307.02 PT Sampling Handling.\n\n(a) The laboratory shall analyze PT samples in the same manner as is used for routine environmental samples using the same staff, sample tracking, sample preparation and analysis methods, standard operating procedures, calibration techniques, quality control procedures, and acceptance criteria.\n\n(b) There shall be at least 7 calendar days between the closing date(s) of PT samples that resulted in not-acceptable results and the opening date(s) of subsequent PT samples.\n\n(c) A laboratory shall analyze:\n\n(1) Low level PT samples for low level method accreditation; and\n\n(2) Medium level PT samples for regular or standard method accreditation.\n\n(d) A laboratory shall analyze a DMR-QA PT sample in place of a non-potable water PT when required by a wastewater program standard or a TNI standard. If this substitution is made, the quality control and corrective action requirements of the DMR-QA shall be met.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

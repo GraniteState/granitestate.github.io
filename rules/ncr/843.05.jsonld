@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/843.05",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/843",
+  "definition": "Authorized Trail Administrator",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 843.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 843.05 Authorized Trail Administrator",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 843.05 Authorized Trail Administrator. Each applicant requesting GIA shall, through its club president, authorize a trail administrator to represent their organization and shall complete and submit either the “OHRV Application for Grant-in-Aid”, 2025 June , “Summer Snowmobile Application for Grant-in-Aid”, 2025 June , or the “Winter Snowmobile Application for Grant-in-Aid”, 2025 June, found on the GIA website. The club or organization president shall certify on the form that, “The undersigned Club/Organization President certifies that, per Ncr 843.05, the Officers of [Club/Organization Name] have voted to appoint [Trail administrator’s name] as the Club/Organizations Trial Administrator (TA).” The trail administrator’s name shall be listed on the application.\n\nSource. #14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1203.05",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "98-A:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1203",
+  "definition": "Payment of Unused Annual Leave Upon Separation",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1203.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1203.05 Payment of Unused Annual Leave Upon Separation",
+  "recordType": "rule-section",
+  "ruleText": "Per 1203.05 Payment of Unused Annual Leave Upon Separation.\n\n(a) A permanent employee shall receive a sum equal to the dollar value of the number of hours of annual leave remaining to the employee's credit, provided that any or all amounts shall be applied to offset any amounts owed to the state by the employee upon the employee's:\n\n(1) Resignation;\n\n(2) Retirement;\n\n(3) Layoff; or\n\n(4) Dismissal.\n\n(b) In the event of a permanent employee's death while in state service, a sum equal to the number of days of annual leave remaining shall be paid to the employee's estate.\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

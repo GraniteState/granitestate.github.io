@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/303.05",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "altLabel": "Carrier Identification Number",
+  "authority": [
+    {
+      "citation": "281-A:2",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/303",
+  "definition": "Carrier identification number",
+  "effectiveDate": "2016-04-01",
+  "historyNote": "#2264, eff 1-6-83; ss by #2935, eff 12-27-84; ss by #4854, eff 6-29-90; ss by #5235, eff 9-27-91, EXPIRED: 9-27-97 New. #6631, INTERIM, eff 11-16-97, EXPIRED: 3-16-98 New. #6806, eff 7-18-98; ss by #8682, INTERIM, eff 7-15-06, EXPIRED: 1-11-07 New. #9019, eff 11-1-07; ss by #11065, eff 4-1-16 (from Lab 303.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 303.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab300.html",
+  "prefLabel": "Lab 303.05 Carrier identification number",
+  "priorExpiration": "2007-01-11",
+  "recordType": "rule-section",
+  "ruleText": "Lab 303.05 \"Carrier identification number\" means a 3 digit number assigned to the carrier by the New Hampshire department of labor.\n\nSource. #2264, eff 1-6-83; ss by #2935, eff 12-27-84; ss by #4854, eff 6-29-90; ss by #5235, eff 9-27-91, EXPIRED: 9-27-97\n\nNew. #6631, INTERIM, eff 11-16-97, EXPIRED: 3-16-98\n\nNew. #6806, eff 7-18-98; ss by #8682, INTERIM, eff 7-15-06, EXPIRED: 1-11-07\n\nNew. #9019, eff 11-1-07; ss by #11065, eff 4-1-16 (from Lab 303.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab300.html"
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1207.04",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1207",
+  "definition": "Extended Active Duty",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "by #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1207.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1207.04 Extended Active Duty",
+  "recordType": "rule-section",
+  "ruleText": "Per 1207.04 Extended Active Duty.\n\n(a) Under the federal Uniformed Services Employment and Reemployment Rights Act of 1994, any reservist or member of the national guard who is returning from active duty lasting 5 years or less shall be guaranteed a position comparable to the position that the employee vacated to perform the active duty.\n\n(b) To be eligible for reemployment, the reservist or member of the national guard shall have:\n\n(1) Been employed with the state in a full-time position for which there was no end date established;\n\n(2) Satisfactorily completed the period of active duty and possess a certificate to that effect;\n\n(3) Met the qualifications to perform the duties of the position or, if unable to qualify, met the minimum qualifications to perform the duties of a comparable position; and\n\n(4) Returned to work within one of the following time parameters:\n\na. For military service of less than 31 days, the service member shall return at the beginning of the next regularly scheduled work period on the first full day after release from duty, taking into account safe travel time plus an 8 hour rest period;\n\nb. For military service of more than 30 days but less than 181 days, the service member shall return to work within 14 days of release from duty; or\n\nc. For military service of more than 180 days, the service member shall report for work within 90 days of release from duty.\n\n(c) If unable to meet the minimum qualifications of the position to which returning, an employee shall be placed in a comparable position for which the employee meets the entrance requirements.\n\n(d) During the period of extended active military duty, an employee shall not be entitled to accrue any form of leave time.\n\nSource. by #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

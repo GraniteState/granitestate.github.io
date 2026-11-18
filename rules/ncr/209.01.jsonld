@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/209.01",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/201",
+  "definition": "Representation",
+  "effectiveDate": "2025-12-04",
+  "historyNote": "#14254, INTERIM, eff 5-23-25; ss by #14447, eff 12-4-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 209.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html",
+  "prefLabel": "Ncr 209.01 Representation",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 209.01 Representation.\n\n(a) A party or intervenor shall have the right to represent themselves, or be represented by an attorney licensed in New Hampshire, or be represented by any individual whom they shall so designate.\n\n(b) A party or the party’s representative shall file an appearance that includes:\n\n(1) A brief identification of the matter;\n\n(2) A statement as to whether or not the representative is an attorney and if so, whether the attorney is licensed to practice in New Hampshire; and\n\n(3) The party’s or representative’s business address and telephone number.\n\n(c) The party or their representative shall be permitted to cross examine witnesses, and present evidence and witnesses on their own behalf.\n\nSource. #14254, INTERIM, eff 5-23-25; ss by #14447, eff 12-4-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html"
+}

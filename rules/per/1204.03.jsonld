@@ -1,0 +1,75 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1204.03",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "100-A:5",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "100-A:6",
+      "source": "https://granitestate.github.io/rsa/100-A/100-A-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "273-A:1",
+      "paragraphs": [
+        "IX(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/273-A/273-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/100-A/100-A-5",
+    "https://granitestate.github.io/rsa/100-A/100-A-6",
+    "https://granitestate.github.io/rsa/273-A/273-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1204",
+  "definition": "Termination of Service",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35 (formerly Per 1204.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1204.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1204.03 Termination of Service",
+  "recordType": "rule-section",
+  "ruleText": "Per 1204.03 Termination of Service.\n\n(a) Upon retirement under the provisions of RSA 100-A:5 and RSA 100-A:6 only, or upon eligibility under RSA 100-A:5 but electing to receive a lump sum in lieu of an annuity, an employee shall receive payment in a sum equal to 50 percent of the number of sick leave days remaining to the employee's credit, provided that the total number of days eligible for payment shall not exceed 60 days.\n\n(b) Upon retirement under RSA 100-A:5-6 or a termination as a result of a mandated reduction in force, an employee shall receive payment in a sum equal to 50 percent of the number of sick leave days remaining to the employee's credit, provided that the number of days eligible for payment shall not exceed 60 days.\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35 (formerly Per 1204.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

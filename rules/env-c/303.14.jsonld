@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.14",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Additional Information Required for Secondary Accreditation Applications",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.14 Additional Information Required for Secondary Accreditation Applications",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.14 Additional Information Required for Secondary Accreditation Applications. The applicant shall provide the following to the department with the completed application:\n\n(a) All information required by Env-C 303.07;\n\n(b) A copy of the most recent and valid certificate and analyte list from the primary accreditation body or accreditation bodies;\n\n(c) A certificate of compliance as required by Env-C 303.07(g); and\n\n(d) Additional supporting documentation as necessary to verify laboratory compliance with applicable method, standard, or regulatory requirements.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

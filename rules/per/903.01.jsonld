@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/903.01",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:53",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/903",
+  "definition": "Applicability",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 903.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 903.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Per 903.01 Applicability. This part shall apply only to non-exempt employees and any use of the term “employee” in this part shall refer only to non-exempt employees.\n\nSource. #14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/501.01",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:6",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/501",
+  "definition": "Purpose",
+  "effectiveDate": "2024-08-21",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 500) #10644, eff 7-22-14; ss by #14060, eff 8-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 501.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c500.html",
+  "prefLabel": "Env-C 501.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 501.01 Purpose. The purpose of the rules in this chapter is to establish the procedures and criteria for licensed engineering firms to be listed on the roster of prequalified licensed engineering firms maintained by the department for licensed engineering firms that provide consulting services for the planning, design, and construction of public water supply projects or water pollution control projects, or both.\n\nSource. (See Revision Note at chapter heading for Env-C 500) #10644, eff 7-22-14; ss by #14060, eff 8-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c500.html"
+}

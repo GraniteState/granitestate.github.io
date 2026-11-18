@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1002.10",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1002",
+  "definition": "Compliance with State and Federal Law",
+  "effectiveDate": "2016-10-22",
+  "historyNote": "#12007, eff 10-22-16 (formerly Ph 309.13)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1002.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1002.10 Compliance with State and Federal Law",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1002.10 Compliance with State and Federal Law.\n\n(a) All manufacturers, wholesalers and distributors shall comply with all applicable state and federal laws, regulations and rules.\n\n(b) All manufacturers, wholesalers and distributors, doing business in New Hampshire, shall, before shipping or distributing any prescription drug, verify that the recipient is properly licensed to receive and possess such drugs.\n\n(c) All manufacturers, wholesalers and distributors, licensed and doing business in the state of New Hampshire, shall not provide unsolicited controlled drug samples to licensed practitioners.\n\n(d) A manufacturer’s license shall allow for the direct wholesaling or distribution of such drugs to other licensed or authorized recipients.\n\n(e) A duly authorized agent of a manufacturer, wholesaler or distributor licensed in this state, may possess and distribute potent or prescription drugs to individuals who may lawfully possess such drugs as may be necessary to further the licensed activity of the manufacturer, wholesaler or distributor.\n\nSource. #12007, eff 10-22-16 (formerly Ph 309.13)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

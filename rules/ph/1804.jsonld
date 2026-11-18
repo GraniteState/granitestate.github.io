@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1804",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "X(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:15-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1800",
+  "definition": "ONGOING REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/1804.01"
+  ],
+  "notation": "Ph 1804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1804 ONGOING REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 1804 ONGOING REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

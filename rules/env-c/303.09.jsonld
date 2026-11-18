@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.09",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "Fees for Requests to Modify Existing Accreditations",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Fees to Modify Existing Accreditations",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.09 Fees to Modify Existing Accreditations",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.09 Fees to Modify Existing Accreditations.\n\n(a) The fee to modify either a primary accreditation or a secondary accreditation at a laboratory’s request or based on a primary accreditation body’s accreditation requirements shall be the sum of all applicable amounts listed in Table 300-2, below, or $337, whichever is less:\n\nTable 300-2: Fees for Requests to Modify Existing Accreditation\n\nReason for Request: | Fee\n\nUpdate to latest revision or edition, Primary or Secondary Accredited Laboratories, one method; previous accreditation remains.\n\nMethod with 1 to 5 analytes | $28\n\nMethod with 6 to20 analytes | $38\n\nMethod with ≥ 21 analytes | $51\n\nUpdate to latest revision or edition, Primary or Secondary Accredited Laboratories, multiple methods; previous accreditation remains.\n\nMethod with 1 to 5 analytes | $18\n\nMethod with 6 to20 analytes | $28\n\nMethod with ≥ 21 analytes | $38\n\nAdditional new accreditation per method per request, Secondary Accredited Laboratories\n\nMethod with 1 to 5 analytes | $18\n\nMethod with 6 to20 analytes | $28\n\nMethod with ≥ 21 analytes | $46\n\nAdditional new accreditation per method per request, Primary Accredited Laboratories\n\nMethod with 1 to 5 analytes | $33\n\nMethod with 6 to20 analytes | $56\n\nMethod with ≥ 21 analytes | $89\n\nAdditional same-technology same-matrix accreditation per method per request, Primary or Secondary Accredited Laboratories\n\nMethod with 1 to 5 analytes | $18\n\nMethod with 6 to 20 analytes | $28\n\nMethod with ≥ 21 analytes | $38\n\nDrop accreditation per method per request, Primary or Secondary Accredited Laboratories\n\n1 single Analyte Method | $11\n\n2 – 10 single Analyte Methods | $18\n\n≥ 11 single Analyte Methods | $28\n\nMulti-Analyte Method | $18\n\n(b) The individual fees listed in Table 300-2 shall increase by 4%, rounded to the nearest whole dollar, on July 1 of each biennium beginning July 1, 2023.\n\n(c) Fees for additional or updated accreditation shall be paid at the time of the request.\n\n(d) Additional or updated accreditation requests shall not be processed until the applicable fee is received by the department.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

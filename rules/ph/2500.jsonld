@@ -1,0 +1,64 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2500",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph",
+  "definition": "AUTOMATED PHARMACY SYSTEMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2501",
+    "https://granitestate.github.io/rules/ph/2502",
+    "https://granitestate.github.io/rules/ph/2503",
+    "https://granitestate.github.io/rules/ph/2504",
+    "https://granitestate.github.io/rules/ph/2505",
+    "https://granitestate.github.io/rules/ph/2506",
+    "https://granitestate.github.io/rules/ph/2507"
+  ],
+  "notation": "Ph 2500",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2500 AUTOMATED PHARMACY SYSTEMS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ph 2500 AUTOMATED PHARMACY SYSTEMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

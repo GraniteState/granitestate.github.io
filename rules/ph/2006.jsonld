@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2006",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:51-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:51-e",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2000",
+  "definition": "POLICIES, PROCEDURES AND RECORDKEEPING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2006.01",
+    "https://granitestate.github.io/rules/ph/2006.02",
+    "https://granitestate.github.io/rules/ph/2006.03",
+    "https://granitestate.github.io/rules/ph/2006.04",
+    "https://granitestate.github.io/rules/ph/2006.05",
+    "https://granitestate.github.io/rules/ph/2006.06"
+  ],
+  "notation": "Ph 2006",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2006 POLICIES, PROCEDURES AND RECORDKEEPING",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 2006 POLICIES, PROCEDURES AND RECORDKEEPING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

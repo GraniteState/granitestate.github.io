@@ -1,0 +1,194 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/209.01",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "13",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:11",
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-I:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-A:11-c",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:4",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:4",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:6",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-M:9",
+      "source": "https://granitestate.github.io/rsa/149-M/149-M-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "332-E:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:29",
+      "source": "https://granitestate.github.io/rsa/482/482-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:31",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:3",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3",
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:3-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX-b",
+        "IX-c"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:26",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-26",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:35",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-35",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:36",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-36",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:47",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:6-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:13",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-11",
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-4",
+    "https://granitestate.github.io/rsa/147-A/147-A-4",
+    "https://granitestate.github.io/rsa/147-A/147-A-6",
+    "https://granitestate.github.io/rsa/149-M/149-M-9",
+    "https://granitestate.github.io/rsa/482/482-29",
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-26",
+    "https://granitestate.github.io/rsa/485-A/485-A-29",
+    "https://granitestate.github.io/rsa/485-A/485-A-35",
+    "https://granitestate.github.io/rsa/485-A/485-A-36",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/209",
+  "definition": "Definitions",
+  "effectiveDate": "2007-03-25",
+  "historyNote": "#6960, eff 3-25-99; ss by #7562, eff 9-26-01; ss by #8851-A, eff 3-25-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 209.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 209.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 209.01 Definitions. For purposes of this part, the following definitions shall apply:\n\n(a) “Applicable requirements” means all requirements that apply to a site, facility, or activity imposed by:\n\n(1) Any state statutory provisions for which the department is primarily responsible for implementation or enforcement;\n\n(2) Any rule adopted by the commissioner pursuant to statutory rulemaking authority;\n\n(3) Any license issued by the department pursuant to statutory authority;\n\n(4) Any federal statutory provisions or regulations, for which the United States Environmental Protection Agency (“US EPA”) is primarily responsible for implementation or enforcement, which are analogous to state statutes or rules implemented or enforced by the department; or\n\n(5) Any license issued by the US EPA which is analogous to a state license issued by the department.\n\n(b) “Chronic non-complier” means a person who:\n\n(1) Has committed, within 3 years of the date of application or of the violation(s) for which a license action has been initiated, as applicable:\n\na. More than 2 violations that remain uncorrected after the department or the US EPA has notified the respondent, in writing, of the violations and the need to correct them, which demonstrates that the respondent is unable or unwilling to comply with applicable requirements; or\n\nb. More than 3 violations that are corrected by the respondent after the department or the US EPA has notified the respondent, in writing, of the violations and the need to correct them, but recur with a frequency that demonstrates that the respondent is unable or unwilling to maintain compliance with applicable requirements; or\n\n(2) Has been the subject, within 3 years of the date of the application or of the violation(s) for which a license action has been initiated, as applicable, of 2 or more administrative or civil enforcement actions or one criminal enforcement action that have not been overturned on appeal for violations of any applicable requirements pertaining to any of the respondent’s activities.\n\n(c) “Enforcement action” means a proceeding initiated by or at the request of the department or the US EPA against a person who is believed to have violated any applicable requirements, which is intended to cause the person to comply with applicable requirements or to impose a monetary penalty, or both, or to incarcerate the person.\n\n(d) “License holder” means the person to whom the department has issued a license.\n\n(e) “Person” means “person” as defined by the statute or rules applicable to the application or license at issue.\n\nSource. #6960, eff 3-25-99; ss by #7562, eff 9-26-01; ss by #8851-A, eff 3-25-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

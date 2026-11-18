@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/841",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:3-a",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "215-C:39",
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-a",
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-3",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/840",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/841.01",
+    "https://granitestate.github.io/rules/ncr/841.02"
+  ],
+  "notation": "Ncr 841",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 841 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 841 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

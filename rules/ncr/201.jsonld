@@ -1,0 +1,64 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/201",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/200",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/201.01",
+    "https://granitestate.github.io/rules/ncr/202.01",
+    "https://granitestate.github.io/rules/ncr/202.02",
+    "https://granitestate.github.io/rules/ncr/202.03",
+    "https://granitestate.github.io/rules/ncr/203.01",
+    "https://granitestate.github.io/rules/ncr/203.02",
+    "https://granitestate.github.io/rules/ncr/203.03",
+    "https://granitestate.github.io/rules/ncr/204.01",
+    "https://granitestate.github.io/rules/ncr/204.02",
+    "https://granitestate.github.io/rules/ncr/204.03",
+    "https://granitestate.github.io/rules/ncr/205.01",
+    "https://granitestate.github.io/rules/ncr/206.01",
+    "https://granitestate.github.io/rules/ncr/207.01",
+    "https://granitestate.github.io/rules/ncr/207.02",
+    "https://granitestate.github.io/rules/ncr/207.03",
+    "https://granitestate.github.io/rules/ncr/207.04",
+    "https://granitestate.github.io/rules/ncr/207.05",
+    "https://granitestate.github.io/rules/ncr/208.01",
+    "https://granitestate.github.io/rules/ncr/208.02",
+    "https://granitestate.github.io/rules/ncr/209.01",
+    "https://granitestate.github.io/rules/ncr/209.02",
+    "https://granitestate.github.io/rules/ncr/210.01",
+    "https://granitestate.github.io/rules/ncr/211.01",
+    "https://granitestate.github.io/rules/ncr/211.02",
+    "https://granitestate.github.io/rules/ncr/212.01",
+    "https://granitestate.github.io/rules/ncr/212.02",
+    "https://granitestate.github.io/rules/ncr/212.03",
+    "https://granitestate.github.io/rules/ncr/212.04"
+  ],
+  "notation": "Ncr 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html",
+  "prefLabel": "Ncr 201 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 201 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html"
+}

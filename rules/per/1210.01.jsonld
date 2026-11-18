@@ -1,0 +1,66 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1210.01",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1210",
+  "definition": "Eligibility for Annual and Sick Leave",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1210.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1210.01 Eligibility for Annual and Sick Leave",
+  "recordType": "rule-section",
+  "ruleText": "Per 1210.01 Eligibility for Annual and Sick Leave.\n\n(a) An employee working on a part-time basis shall not be eligible to accrue either sick or annual leave.\n\n(b) At each anniversary date of employment, should the total working time during the preceding year amount to the equivalent of 6 months full-time employment or more, the part-time employee shall be paid in accordance with the schedule contained in Per 1203.01.\n\n(c) For purposes of this section, 6 months of full-time employment shall be equivalent to the following:\n\n(1) Nine hundred seventy-five hours of work within an anniversary year for employees in positions which are compensated on a 37 1/2 hour per week work schedule; and\n\n(2) One thousand forty hours of work within an anniversary year for employees in positions which are compensated on a 40 hour per week work schedule.\n\n(d) A part-time employee shall not be eligible for any payment for accumulated hours if the employee:\n\n(1) Separates from state employment prior to the anniversary date; or\n\n(2) Accepts full-time employment with the state prior to the anniversary date.\n\n(e) There shall be no proration of payment for employees who fall under Per 1210.01(d)(1) or (2).\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.19",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "Basis for Approving Primary Accreditation",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Basis for Granting Primary Accreditation",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.19 Basis for Granting Primary Accreditation",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.19 Basis for Granting Primary Accreditation.\n\n(a) In determining whether to approve an application for primary accreditation, the department shall consider:\n\n(1) The results of successful participation in a PT study as specified in Volume 1, Module 1 of the TNI standards;\n\n(2) The results of an initial assessment, a reassessment, a surveillance, an extraordinary assessment, or a follow-up assessment, as applicable; and\n\n(3) The results of the review of documentation submitted as part of the application process.\n\n(b) Accreditation status shall be either “Accredited” for a laboratory meeting the TNI standards, or “Not Accredited” for a laboratory not meeting the TNI standards, based upon the criteria specified in (a), above, and Env-C 303.18.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

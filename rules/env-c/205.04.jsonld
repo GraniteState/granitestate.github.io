@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/205.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "541-A:11",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/205",
+  "definition": "Notice",
+  "effectiveDate": "2007-03-25",
+  "historyNote": "#5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 205.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 205.04 Notice",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 205.04 Notice. Notice of the date, time, and place of an oral public hearing shall be given as follows:\n\n(a) For a rulemaking hearing held pursuant to RSA 541-A:3, IV, by publication as specified in RSA 541-A:6;\n\n(b) For an oral public hearing held on a license application, as specified in the department’s rules specific to such license; or\n\n(c) For any other oral public hearing, by such means as the commissioner determines will notify those persons likely to be interested in the most cost-effective manner.\n\nSource. #5860, eff 7-1-94; ss by #6960, eff 3-25-99; ss by #8851-A, eff 3-25-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

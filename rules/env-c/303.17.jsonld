@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.17",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Application Processing",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.17 Application Processing",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.17 Application Processing.\n\n(a) The department shall not process an application until a complete application is received.\n\n(b) Subject to (e) and (f), below, if the application is not complete when filed, the department shall send the applicant written notice of what is needed to complete the application.\n\n(c) Upon notifying an applicant that the application is incomplete, the department shall suspend further processing of the application pending receipt of the information needed to complete the application.\n\n(d) No portion of the time between the date a notice of incompleteness is provided and the date the applicant responds shall be included in computing the time limits for processing the application specified in RSA 541-A:29.\n\n(e) The department shall notify the applicant by telephone in lieu of providing a written notice of incompleteness if:\n\n(1) The anticipated time required of the applicant to correct the deficiency is less than the anticipated time required of the department to notify the applicant in writing; and\n\n(2) The department is able to contact the applicant by telephone.\n\n(f) If the department provides notice of incompleteness pursuant to (e), above, the department shall specify a reasonable time period for completing the application in the telephone notice, after which time written notice will be sent by the department in accordance with (b), above, if no response from the applicant is received by the department.\n\n(g) Upon determining that an application is complete, the department shall review it and shall act on the application.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

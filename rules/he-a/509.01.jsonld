@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/509.01",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "265-A:39",
+      "paragraphs": [
+        "III(f)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "265-A:40",
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-40",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-40"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/509",
+  "definition": "Certification Required",
+  "effectiveDate": "2024-01-06",
+  "historyNote": "#10240, eff 1-1-13; ss by #13846, eff 1-6-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 509.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html",
+  "prefLabel": "He-A 509.01 Certification Required",
+  "recordType": "rule-section",
+  "ruleText": "He-A 509.01 Certification Required.\n\n(a) No person shall facilitate an IDEP session unless he or she is certified as an IDEP instructor in accordance with He-A 509.\n\n(b) The IDCMP shall ensure that instructor certification is valid prior to allowing the instructor to conduct an IDEP session.\n\nSource. #10240, eff 1-1-13; ss by #13846, eff 1-6-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1203.01",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "98-A:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1203",
+  "definition": "Formula for Determining Annual Leave",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1203.01 Formula for Determining Annual Leave",
+  "recordType": "rule-section",
+  "ruleText": "Per 1203.01 Formula for Determining Annual Leave.\n\n(a) Full-time employees shall be entitled to annual leave with full pay based on Table 1203-1 counting all continuous full-time years of state service, regardless of branch or position type. Each employee's entitlement shall be computed at the end of each completed full month of service. Employees rendering seasonal or temporary service in excess of 6 months shall be entitled to annual leave at the same rate for time actually worked. Annual leave shall be cumulative for not more than the prescribed maximum number of days and shall not lapse.\n\n(b) Full-time employees who have had a break in service shall be credited with prior periods of full-time state employment for leave accrual purposes if that employee’s current period of full-time state employment has been one or more continuous years in duration. Only prior periods of full-time state employment of 2 or more consecutive years in duration shall be eligible for crediting.\n\n(c) Appointing authorities shall use Table 1203-1 below to determine the amount of authorized annual leave:\n\nTable 1203-1\n\nContinuous Years Worked | Accrued/Month | Year/Max\n\n0 through 1 | 1 day | 12\n\n2 through 8 | 1 1/4 days | 15/32\n\n9 through 15 | 1 1/2 days | 18/38\n\n16 through 20 | 1 3/4 days | 21/44\n\n21 plus | 2 days | 24/50\n\n(d) Employees shall request leave time in hours according to the equivalencies listed in Table 1203-2.\n\n(e) Appointing authorities shall keep all records of usage in hours according to the equivalencies listed in Table 1203-2 as follows:\n\nTable 1203-2\n\nEmployees Working a 37 1/2 Hour Week:\n\n1 1/4 days = 9.375 hours\n\n1 1/2 days = 11.25 hours\n\n1 3/4 days = 13.125 hours\n\n2 days = 15 hours\n\nAll Other Employees:\n\n1 1/4 days = 10 hours\n\n1 1/2 days = 12 hours\n\n1 3/4 days = 14 hours\n\n2 days = 16 hours\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

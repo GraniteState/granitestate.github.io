@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/309",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/300",
+  "definition": "ASSESSMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-c/309.01",
+    "https://granitestate.github.io/rules/env-c/309.02",
+    "https://granitestate.github.io/rules/env-c/309.03",
+    "https://granitestate.github.io/rules/env-c/309.04"
+  ],
+  "notation": "Env-C 309",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 309 ASSESSMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-C 309 ASSESSMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

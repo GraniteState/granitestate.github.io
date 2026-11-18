@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/307.06",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/307",
+  "definition": "Reporting PT Study Results",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 307.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 307.06 Reporting PT Study Results",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 307.06 Reporting PT Study Results.\n\n(a) After analyzing the PT samples, the laboratory shall:\n\n(1) Return the results to the PT study provider for scoring no later than 45 calendar days from the date of sample receipt;\n\n(2) Accurately and completely report the required matrix, technology key, method code, analyte code, and result information for each PT sample; and\n\n(3) Authorize the PT provider to release all accreditation and remediation results and acceptable/not acceptable status directly to the primary accreditation body, the proficiency test provider accreditor, and the laboratory.\n\n(b) Errors in reporting the proper matrix, the method used, or the tested analytes in the PT study by the laboratory shall be graded as “not acceptable”.\n\n(c) The department shall evaluate only results received directly from the PT provider as specified in Volume 1, Module 1 of the TNI standards.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

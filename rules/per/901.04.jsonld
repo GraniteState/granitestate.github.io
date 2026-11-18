@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/901.04",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "99",
+      "source": "https://granitestate.github.io/rsa/99",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/99",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/901",
+  "definition": "Adjustment of Increment Date When Returning from Leave of Absence Without Pay",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "(See Revision Notes at chapter heading for Per 100) #8738, eff 10-18-06; amd by #10239, eff 3-18-13; ss by #10817, eff 5-17-15; ss by #14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 901.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 901.04 Adjustment of Increment Date When Returning from Leave of Absence Without Pay",
+  "recordType": "rule-section",
+  "ruleText": "Per 901.04 Adjustment of Increment Date When Returning from Leave of Absence Without Pay. Unless otherwise provided by law, when an employee is returning from a leave of absence without pay, the appointing authority shall adjust the effective date of the employee's pay increment as follows:\n\n(a) The appointing authority shall determine the total number of calendar days of the leave of absence without pay;\n\n(b) The appointing authority shall add the total number of calendar days without pay to the employee's original increment date;\n\n(c) The new effective date of the employee's pay increment shall be the adjusted date calculated under paragraph (b); and\n\n(d) The appointing authority shall notify the director of the adjusted increment date by submitting an updated personnel action request to the division.\n\nSource. (See Revision Notes at chapter heading for Per 100) #8738, eff 10-18-06; amd by #10239, eff 3-18-13; ss by #10817, eff 5-17-15; ss by #14439, eff 12-1-25, EXPIRES: 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

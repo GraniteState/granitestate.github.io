@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/103.02",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/103",
+  "definition": "Requests for New Hampshire Liquor Commission Records",
+  "effectiveDate": "2023-04-25",
+  "historyNote": "#13612, eff 4-25-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 103.02 Requests for New Hampshire Liquor Commission Records",
+  "recordType": "rule-section",
+  "ruleText": "Liq 103.02 Requests for New Hampshire Liquor Commission Records.\n\n(a) Persons seeking commission records shall request the information in a manner that gives the commission notice of what records the requestor is seeking.\n\n(b) Persons may deliver a request for commission records to the commission:\n\n(1) In person;\n\n(2) By U.S. mail or courier service to the commission’s office;\n\n(3) By email to RightToKnow@liquor.nh.gov.\n\nSource. #13612, eff 4-25-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

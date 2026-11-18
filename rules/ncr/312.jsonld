@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/312",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/300",
+  "definition": "NATURAL HERITAGE INVENTORY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/312.01",
+    "https://granitestate.github.io/rules/ncr/312.02",
+    "https://granitestate.github.io/rules/ncr/312.03",
+    "https://granitestate.github.io/rules/ncr/312.04"
+  ],
+  "notation": "Ncr 312",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html",
+  "prefLabel": "Ncr 312 NATURAL HERITAGE INVENTORY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 312 NATURAL HERITAGE INVENTORY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr300.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/211.01",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "541-A:1",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/201",
+  "definition": "Role of Department Staff in Enforcement or Disciplinary Hearings",
+  "effectiveDate": "2025-12-04",
+  "historyNote": "#14254, INTERIM, eff 5-23-25; ss by #14447, eff 12-4-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 211.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html",
+  "prefLabel": "Ncr 211.01 Role of Department Staff in Enforcement or Disciplinary Hearings",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 211.01 Role of Department Staff in Enforcement or Disciplinary Hearings. Unless called as witnesses, department staff shall have no role in any enforcement or disciplinary hearing.\n\nSource. #14254, INTERIM, eff 5-23-25; ss by #14447, eff 12-4-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr200.html"
+}

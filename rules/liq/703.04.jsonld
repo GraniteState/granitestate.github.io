@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/703.04",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "178",
+      "source": "https://granitestate.github.io/rsa/178",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/703",
+  "definition": "Formula for Calculation of Licensing Months",
+  "effectiveDate": "2020-09-25",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Liq 700) #13114, eff 9-25-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 703.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 703.04 Formula for Calculation of Licensing Months",
+  "recordType": "rule-section",
+  "ruleText": "Liq 703.04 Formula for Calculation of Licensing Months. The formula for calculation of licensing months for initial licenses shall be as follows:\n\n(a) If B-Month is less than C-Month, the license fee shall be calculated as follows:\n\n(1) The D-Month shall equal the C-Month minus B-Month plus one;\n\n(2) If D-Month is less than 9, the license months shall equal 12 minus D-Month; and\n\n(3) If D-Month is greater than or equal to 9, the license months shall equal 24 minus D-Month.\n\n(b) If B-Month is greater than or equal to C-Month, the license fee shall be calculated as follows:\n\n(1) The D-Month shall equal the B-Month minus C-Month minus one;\n\n(2) If D-Month is less than 4, the license months shall equal 12 plus D-Month; and\n\n(3) If D-Month is greater than or equal to 4, the license months shall equal D-Month.\n\n(c) Licenses, except for seasonal, supplemental, state fair, special, beer festival, or one day licenses shall be issued for periods of at least 4 months, but shall not exceed 15 months as determined by the formula in Liq 703.04(a) and (b).\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Liq 700) #13114, eff 9-25-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Other Definitions",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.04 Other Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.04 Other Definitions. For purposes of this part, the following definitions also shall apply:\n\n(a) “Access information” means the information required for an individual to use an electronic document receiving system, namely the individual’s user name, password, and additional identifier as described in Env-C 214.05(d)(2), or any combination thereof;\n\n(b) “Authorized NH program” means an authorized program implemented by the department;\n\n(c) “Authorized official” means an individual who has been duly authorized by a reporter to legally obligate the reporter by signing a subscriber agreement to designate a signatory;\n\n(d) “Certifying officer” means the official of a reporter who has the authority to designate one or more authorized officials;\n\n(e) “Document” means the content, in human readable format, of any electronic document. The term includes but is not limited to reports and monitoring data;\n\n(f) “NH electronic document receiving system (NHEDRS)” means any electronic document receiving system through which the department receives electronic documents required or allowed by any authorized NH program;\n\n(g) “NHEDRS contact” means the department employee who has been designated as the department’s contact for a specific NHEDRS;\n\n(h) “Person” means any individual or legal entity, whether private or public;\n\n(i) “Reporter” means a person that is required to submit any document to an authorized NH program;\n\n(j) “Signatory” means an individual who has been duly authorized by a reporter, acting through an authorized official, to transmit electronic documents that are required to be signed to the department on behalf of the reporter using an NHEDRS; and\n\n(k) “Submitter” means an individual who transmits electronic documents that are not required to be signed to the department using an NHEDRS.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

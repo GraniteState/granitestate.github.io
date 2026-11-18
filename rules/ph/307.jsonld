@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/307",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:38",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-38",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-38"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/300",
+  "definition": "RENEWAL AND REPLACEMENT PHARMACY PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/307.01",
+    "https://granitestate.github.io/rules/ph/307.02",
+    "https://granitestate.github.io/rules/ph/307.03",
+    "https://granitestate.github.io/rules/ph/307.04",
+    "https://granitestate.github.io/rules/ph/307.05",
+    "https://granitestate.github.io/rules/ph/307.06"
+  ],
+  "notation": "Ph 307",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 307 RENEWAL AND REPLACEMENT PHARMACY PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 307 RENEWAL AND REPLACEMENT PHARMACY PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

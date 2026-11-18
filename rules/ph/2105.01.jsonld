@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2105.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:25",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2105",
+  "definition": "Risk Level Assignment",
+  "effectiveDate": "2020-04-11",
+  "historyNote": "#13028, eff 4-11-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2105.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2105.01 Risk Level Assignment",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2105.01 Risk Level Assignment.\n\n(a) Pharmacy inspections shall be conducted based on risk level as assigned by pharmacy board staff.\n\n(b) Risk level shall be assigned by the pharmacy board compliance staff following inspection and shall be reevaluated on a yearly basis or upon:\n\n(1) A review of previous inspections;\n\n(2) A review of minor violations if applicable;\n\n(3) A review of control loss information;\n\n(4) A major violation as set forward in this chapter; or\n\n(5) Investigatory discipline as set forward in Ph 2200.\n\n(c) A pharmacy’s prescription volume level shall be evaluated by the pharmacy board compliance staff and assigned as:\n\n(1) Low, for a prescription volume of less than 1,250 prescriptions per week;\n\n(2) Medium, for a prescription volume of 1,250 or more and less than 2,000 prescriptions per week; and\n\n(3) High, for a prescription volume of 2,000 or more prescriptions per week.\n\n(d) Risk level assignments and inspections, in addition to the self-inspection requirements in Ph 2106, shall be as follows:\n\n(1) For low risk inspections:\n\na. Pharmacy board inspections shall occur biennially; and\n\nb. Low risk facilities shall include:\n\n1. Retail pharmacies with a proven record of compliance for a period of 3 years;\n\n2. Facilities with a low to medium prescription volume; and\n\n3. Facilities with a pharmacist-in-charge with no violations in the previous 2 years and previous satisfactory inspection and stability of at least 2 years at the site;\n\n(2) For medium risk inspections:\n\na. Board inspections shall occur annually; and\n\nb. Medium risk facilities shall include:\n\n1. Institution pharmacies not involved in sterile or non-sterile compounding;\n\n2. In-patient institutions involved in sterile or non-sterile compounding as defined by United States Pharmacopeia Chapter 797 (USP 797);\n\n3. High prescription volume pharmacies with a pharmacist-in-charge stability of at least 2 years at site as identified by pharmacy board staff;\n\n4. Pharmacies with 6 minor violations or warnings, such as for temperature variations of refrigerated storage;\n\n5. Non-sterile compounding pharmacies; and\n\n6. Outpatient pharmacies involved in low to medium risk compounding as defined by USP 797; and\n\n(3) For high risk inspections:\n\na. Pharmacy board inspections shall occur up to 2 times a year; and\n\nb. High risk facilities shall include:\n\n1. Outpatient pharmacies involved in high risk sterile and complex nonsterile compounding as defined by USP 797;\n\n2. Retail pharmacies with any previous violation of federal law, including previous cases of drug diversion, or a record of non-compliance with state law or administrative rule by pharmacy staff or permit holders over a 3-year period;\n\n3. Pharmacies with a pharmacist-in-charge change 3 or more times in one calendar year;\n\n4. Pharmacies with any unresolved control drug loss forms pursuant to Ph 700; and\n\n5. Practitioners, clinics, veterinarians, veterinary clinics, naturopaths, and non-institutional pharmacies involved in non-sterile and compounding.\n\nSource. #13028, eff 4-11-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

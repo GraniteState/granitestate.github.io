@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/304.22",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "172:2-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "172:8-b",
+      "paragraphs": [
+        "II",
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/304",
+  "definition": "Opportunity To Participate in Withdrawal Management Required",
+  "effectiveDate": "2018-02-16",
+  "historyNote": "#12476, eff 2-16-18 (formerly He-A 304.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 304.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html",
+  "prefLabel": "He-A 304.22 Opportunity To Participate in Withdrawal Management Required",
+  "recordType": "rule-section",
+  "ruleText": "He-A 304.22 Opportunity To Participate in Withdrawal Management Required.\n\n(a) A licensed practitioner shall ensure, and shall document in the client’s record, that each client is offered the opportunity to participate in a methadone/buprenorphine withdrawal management program instead of a maintenance treatment program at the time of admission, at least every 6 months thereafter, and upon client request.\n\n(b) When clinically appropriate based on ASAM Criteria (2013), available as noted in Appendix A, the licensed practitioner shall encourage clients to choose a methadone/buprenorphine withdrawal management program instead of a maintenance treatment program. Such encouragement shall not be considered a requirement to participate in a withdrawal management program.\n\n(c) The licensed practitioner shall document in the client’s record the clinical appropriateness of the form of treatment chosen.\n\nSource. #12476, eff 2-16-18 (formerly He-A 304.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a300.html"
+}

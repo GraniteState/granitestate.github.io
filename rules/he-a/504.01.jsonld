@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-a/504.01",
+  "@type": "Concept",
+  "agencyCode": "He-A",
+  "authority": [
+    {
+      "citation": "172:8-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "265-A:40",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/265-A/265-A-40",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/265-A/265-A-40"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-a/504",
+  "definition": "Electronic Client Record System",
+  "effectiveDate": "2024-01-06",
+  "expirationDate": "2034-01-06",
+  "historyNote": "#10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "He-A 504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html",
+  "prefLabel": "He-A 504.01 Electronic Client Record System",
+  "recordType": "rule-section",
+  "ruleText": "He-A 504.01 Electronic Client Record System.\n\n(a) IDCMPs shall use the electronic client record system provided by the department, called Web Information Technology System (WITS) to record the following data required by the department:\n\n(1) Client profile;\n\n(2) Intake transaction;\n\n(3) IDCMP care management plan;\n\n(4) Billing information for the state fee; and\n\n(5) Miscellaneous notes regarding completion, non-compliance, or non-completion for IDEPs, and IDCMPs.\n\n(b) The department shall make available to all approved IDCMPs training on the proper use of WITS modules specifically developed for the purposes outlined in (a) above.\n\n(c) The department shall also maintain technical assistance for all approved providers on an ongoing basis during normal business hours, Monday through Friday.\n\n(d) All new providers shall participate in this training to maintain their approved status.\n\nSource. #10240, eff 1-1-13; ss by #13846, eff 1-6-24, EXPIRES: 1-6-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-a500.html"
+}

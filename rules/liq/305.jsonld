@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/305",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:13",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "177:7",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/300",
+  "definition": "SEASONAL ITEMS AND SPECIAL ORDERS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/305.01",
+    "https://granitestate.github.io/rules/liq/305.02"
+  ],
+  "notation": "Liq 305",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 305 SEASONAL ITEMS AND SPECIAL ORDERS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 305 SEASONAL ITEMS AND SPECIAL ORDERS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

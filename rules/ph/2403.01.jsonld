@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2403.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "V",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:47-i",
+      "source": "https://granitestate.github.io/rsa/318/318-47-i",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-47-i"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2403",
+  "definition": "Pharmacist Requirements",
+  "effectiveDate": "2022-02-17",
+  "historyNote": "#13343, eff 2-17-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2403.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2403.01 Pharmacist Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2403.01 Pharmacist Requirements. In order to dispense hormonal contraceptives, a pharmacist shall:\n\n(a) Complete an Accreditation Council for Pharmacy Education approved training program for hormonal contraceptives;\n\n(b) Have a private area designed to maintain privacy and confidentiality of the patient and is not susceptible to distractions of the pharmacist; and\n\n(c) Construct, maintain, and follow written policies and procedures that establish a course of action which the pharmacist shall follow, that includes, but is not limited to, information regarding:\n\n(1) Adverse reactions;\n\n(2) Compliance with the U.S. MEC, U.S. SPR and the “Standard Procedures Algorithm for New Hampshire RPH Prescribing of Contraceptives”, dated November 17, 2021, available on the boards web site, https://www.oplc.nh.gov/board-pharmacy-forms-and-documents;\n\n(3) Patient confidentiality;\n\n(4) How to appropriately screen patients and determine when to refer to a healthcare provider; and\n\n(5) The process to dispense the hormonal contraceptive.\n\nSource. #13343, eff 2-17-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

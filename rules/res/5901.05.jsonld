@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/5901.05",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "X-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "227-G:10",
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-G/227-G-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/5901",
+  "definition": "Conviction of Laws of Another State",
+  "effectiveDate": "2014-03-21",
+  "historyNote": "#10547, eff 3-21-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 5901.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html",
+  "prefLabel": "Res 5901.05 Conviction of Laws of Another State",
+  "recordType": "rule-section",
+  "ruleText": "Res 5901.05 Conviction of Laws of Another State. If a person is convicted under the laws of another state, of a law that contains the same elements as any offense listed under Res 5901.02 (b), the conviction shall be used for the purpose of assessing points for an enhanced penalty.\n\nSource. #10547, eff 3-21-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html"
+}

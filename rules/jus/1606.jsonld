@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/1606",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "318-E:1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/1600",
+  "definition": "RECORDKEEPING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/1606.01"
+  ],
+  "notation": "Jus 1606",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1600.html",
+  "prefLabel": "Jus 1606 RECORDKEEPING",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 1606 RECORDKEEPING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1600.html"
+}

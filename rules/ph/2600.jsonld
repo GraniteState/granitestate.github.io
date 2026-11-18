@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2600",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "PHARMACIST INITIATION AND DISPENSING OF NICOTINE CESSAGION THERAPY",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph",
+  "definition": "PHARMACIST INITIATION AND DISPENSING OF NICOTINE CESSATION THERAPY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2601",
+    "https://granitestate.github.io/rules/ph/2602",
+    "https://granitestate.github.io/rules/ph/2603",
+    "https://granitestate.github.io/rules/ph/2604",
+    "https://granitestate.github.io/rules/ph/2604.01",
+    "https://granitestate.github.io/rules/ph/2605",
+    "https://granitestate.github.io/rules/ph/2606"
+  ],
+  "notation": "Ph 2600",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2600 PHARMACIST INITIATION AND DISPENSING OF NICOTINE CESSATION THERAPY",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Ph 2600 PHARMACIST INITIATION AND DISPENSING OF NICOTINE CESSATION THERAPY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

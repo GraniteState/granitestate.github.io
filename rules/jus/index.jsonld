@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "definition": "Attorney General, Department of Justice",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/300",
+    "https://granitestate.github.io/rules/jus/400",
+    "https://granitestate.github.io/rules/jus/500",
+    "https://granitestate.github.io/rules/jus/600",
+    "https://granitestate.github.io/rules/jus/800",
+    "https://granitestate.github.io/rules/jus/1000",
+    "https://granitestate.github.io/rules/jus/1100",
+    "https://granitestate.github.io/rules/jus/1200",
+    "https://granitestate.github.io/rules/jus/1300",
+    "https://granitestate.github.io/rules/jus/1400",
+    "https://granitestate.github.io/rules/jus/1500",
+    "https://granitestate.github.io/rules/jus/1600",
+    "https://granitestate.github.io/rules/jus/2000"
+  ],
+  "notation": "Jus",
+  "prefLabel": "Jus Attorney General, Department of Justice",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

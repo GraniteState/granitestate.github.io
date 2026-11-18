@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/408",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:5-d",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-5-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:60",
+      "paragraphs": [
+        "I(r)"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-60",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-5-d",
+    "https://granitestate.github.io/rsa/281-A/281-A-60"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/400",
+  "definition": "REGULATION OF THIRD PARTY ADMINISTRATORS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/408.01",
+    "https://granitestate.github.io/rules/lab/408.02",
+    "https://granitestate.github.io/rules/lab/408.03",
+    "https://granitestate.github.io/rules/lab/408.04",
+    "https://granitestate.github.io/rules/lab/408.05",
+    "https://granitestate.github.io/rules/lab/408.06",
+    "https://granitestate.github.io/rules/lab/408.07",
+    "https://granitestate.github.io/rules/lab/408.08",
+    "https://granitestate.github.io/rules/lab/408.09",
+    "https://granitestate.github.io/rules/lab/408.10",
+    "https://granitestate.github.io/rules/lab/408.11",
+    "https://granitestate.github.io/rules/lab/408.12",
+    "https://granitestate.github.io/rules/lab/408.13",
+    "https://granitestate.github.io/rules/lab/408.14",
+    "https://granitestate.github.io/rules/lab/408.15",
+    "https://granitestate.github.io/rules/lab/408.16",
+    "https://granitestate.github.io/rules/lab/408.17",
+    "https://granitestate.github.io/rules/lab/408.18"
+  ],
+  "notation": "Lab 408",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html",
+  "prefLabel": "Lab 408 REGULATION OF THIRD PARTY ADMINISTRATORS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 408 REGULATION OF THIRD PARTY ADMINISTRATORS\n\nStatutory Authority: RSA 281-A:5-d",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html"
+}

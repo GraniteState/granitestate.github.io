@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/1204.06",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Physician’s Certificate",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/1204",
+  "definition": "Physician's Certificate",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35 (formerly Per 1204.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 1204.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 1204.06 Physician's Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Per 1204.06 Physician's Certificate.\n\n(a) The appointing authority may require the employee to furnish a certificate from an attending physician or other licensed health care practitioner when the appointing authority has reason to believe that the employee's use of sick leave does not conform to the reasons and requirements for sick leave use set forth in this part.\n\n(b) Such certificate shall contain a statement that, in the practitioner's professional judgment, sick leave is necessary.\n\n(c) The appointing authority, at state expense, may have an independent physician examine an employee when, in the opinion of the appointing authority, it appears that the employee is not entitled to sick leave. The time related to such examination shall not be charged to the employee's sick leave.\n\nSource. #8738, eff 10-18-06; ss by #10817, eff 5-17-15; ss by #14436, eff 12-1-25, EXPIRES: 12-1-35 (formerly Per 1204.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

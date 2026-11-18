@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/601",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/600",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/601.01",
+    "https://granitestate.github.io/rules/jus/601.02"
+  ],
+  "notation": "Jus 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 601 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 601 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

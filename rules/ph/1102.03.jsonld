@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1102.03",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Collaborative Pharmacy Practice Agreement",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXVII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XVII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1102",
+  "definition": "“Collaborative pharmacy practice agreement'' means “collaborative pharmacy practice agreement'' as defined in RSA 318:1, XXVII, namely, “a written and signed sp",
+  "effectiveDate": "2023-08-20",
+  "historyNote": "#9381, eff 1-31-09, EXPIRED: 1-31-17 New. #12464, eff 1-23-18; ss by #13670, eff 8-20-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1102.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1102.03 “Collaborative pharmacy practice agreement'' means “collaborative pharmacy practice agreement'' as defined in RSA 318:1, XXVII, namely, “a written and signed sp",
+  "priorExpiration": "2017-01-31",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1102.03 “Collaborative pharmacy practice agreement'' means “collaborative pharmacy practice agreement'' as defined in RSA 318:1, XXVII, namely, “a written and signed specific agreement between a pharmacist and an attending practitioner that provides for collaborative pharmacy practice for the purpose of medication therapy management for the patient.” The term includes each protocol developed pursuant to RSA 318:16-a, II(a).\n\nSource. #9381, eff 1-31-09, EXPIRED: 1-31-17\n\nNew. #12464, eff 1-23-18; ss by #13670, eff 8-20-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

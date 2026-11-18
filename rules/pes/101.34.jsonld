@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.34",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "altLabel": "State Restricted Use Pesticide",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "State restricted use pesticide",
+  "effectiveDate": "1996-05-02",
+  "historyNote": "#1547, eff 3-13-80; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.34",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 101.34 State restricted use pesticide",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.34 \"State restricted use pesticide\" means any pesticide or pesticide use classified for restricted use by the New Hampshire pesticide control board.\n\nSource. #1547, eff 3-13-80; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/5303.02",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-J:15",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-J/227-J-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-J/227-J-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/5303",
+  "definition": "Scale Slip",
+  "effectiveDate": "2014-03-21",
+  "historyNote": "#8441, eff 10-1-05; ss by #10547, eff 3-21-14 (from Res 5303.03)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 5303.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html",
+  "prefLabel": "Res 5303.02 Scale Slip",
+  "recordType": "rule-section",
+  "ruleText": "Res 5303.02 Scale Slip. A scale slip shall contain the following information:\n\n(a) Species of wood product;\n\n(b) Board footage of each individual log when standard unit of measurement is per thousand board feet or tonnage or cordage when not sold on a per thousand board feet basis;\n\n(c) Gross scale, defect and net scale;\n\n(d) Date wood was measured; and\n\n(e) Name of party scaling the wood.\n\nSource. #8441, eff 10-1-05; ss by #10547, eff 3-21-14 (from Res 5303.03)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html"
+}

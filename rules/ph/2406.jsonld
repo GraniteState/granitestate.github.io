@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2406",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "V",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "318:47-i",
+      "source": "https://granitestate.github.io/rsa/318/318-47-i",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-47-i"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2400",
+  "definition": "IMMUNITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2406.01"
+  ],
+  "notation": "Ph 2406",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2406 IMMUNITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 2406 IMMUNITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

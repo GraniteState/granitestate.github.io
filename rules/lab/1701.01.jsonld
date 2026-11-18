@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/1701.01",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "275-F",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "275-F:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/1701",
+  "definition": "Purpose",
+  "effectiveDate": "2021-04-20",
+  "historyNote": "#13189, eff 4-20-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 1701.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1700.html",
+  "prefLabel": "Lab 1701.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Lab 1701.01 Purpose. The purpose of these rules are to define terms contained in RSA 275-F, to describe the notice required to be provided by RSA 275-F:3, and to notify employers how to inform required parties of any exceptions under the statute.\n\nSource. #13189, eff 4-20-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab1700.html"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/702.04",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "altLabel": "Managed Care Organization",
+  "authority": [
+    {
+      "citation": "281-A:23-a",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-23-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-23-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/702",
+  "definition": "Managed care organization",
+  "effectiveDate": "2016-10-25",
+  "historyNote": ". #7338, eff 8-2-00; ss and moved by #9217, eff 8-1-08 (from Lab 702.04); ss by #12013, eff 10-25-16 (from Lab 702.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 702.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab700.html",
+  "prefLabel": "Lab 702.04 Managed care organization",
+  "recordType": "rule-section",
+  "ruleText": "Lab 702.04 “Managed care organization” means an organization which coordinates medical services for workers' compensation cases in accordance with RSA 281-A:23-a.\n\nSource.. #7338, eff 8-2-00; ss and moved by #9217, eff 8-1-08 (from Lab 702.04); ss by #12013, eff 10-25-16 (from Lab 702.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab700.html"
+}

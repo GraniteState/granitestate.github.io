@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/803.02",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III",
+        "(k)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:36",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/803",
+  "definition": "Withdrawal of Presiding Officer or Agency Official",
+  "effectiveDate": "2000-05-03",
+  "historyNote": "#7129, eff 5-3-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 803.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html",
+  "prefLabel": "Jus 803.02 Withdrawal of Presiding Officer or Agency Official",
+  "recordType": "rule-section",
+  "ruleText": "Jus 803.02 Withdrawal of Presiding Officer or Agency Official.\n\n(a) Upon his or her own initiative or upon the motion of any party, a presiding officer or agency official shall, for good cause withdraw from any hearing.\n\n(b) Good cause shall exist if a presiding officer or agency official:\n\n(1) Has a direct interest in the outcome of a proceeding, including, but not limited to, a financial or family relationship, within the third degree of relationship, with any party; or\n\n(2) Has made statements or engaged in behavior which objectively demonstrates that he or she has prejudged the facts of a case; or\n\n(3) Personally believes that he or she cannot fairly judge the facts of a case.\n\n(c) Mere knowledge of the issues, the parties or any witness shall not constitute good cause for withdrawal.\n\nSource. #7129, eff 5-3-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html"
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/202",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "273",
+      "source": "https://granitestate.github.io/rsa/273",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:42-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:36",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/273",
+    "https://granitestate.github.io/rsa/281-A/281-A-42-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-36"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/200",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/202.01",
+    "https://granitestate.github.io/rules/lab/202.02",
+    "https://granitestate.github.io/rules/lab/202.03",
+    "https://granitestate.github.io/rules/lab/202.04",
+    "https://granitestate.github.io/rules/lab/202.05",
+    "https://granitestate.github.io/rules/lab/202.06",
+    "https://granitestate.github.io/rules/lab/202.07"
+  ],
+  "notation": "Lab 202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html",
+  "prefLabel": "Lab 202 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 202 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html"
+}

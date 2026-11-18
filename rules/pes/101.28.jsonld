@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.28",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "altLabel": "Reference Line",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "Reference line",
+  "effectiveDate": "2001-08-09",
+  "historyNote": "#150, eff 1-9-74; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96; ss by #7544, eff 8-9-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.28",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 101.28 Reference line",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.28 \"Reference line\" means \"reference line\" as defined in RSA 483-B:4, namely:\n\n(a) For natural fresh water bodies without artificial impoundments, the natural mean high water level as determined by the department of environmental services, or in the absence of determination by the department of environmental services, the high water mark;\n\n(b) For artificially impounded fresh water bodies with established flowage rights, the limit of the flowage rights, and for water bodies without established flowage rights, the waterline at full pond as determined by the elevation of the spillway crest;\n\n(c) For coastal waters, the highest observable tide line, which means a line defining the furthest landward limit of tidal flow, not including storm events, which can be recognized by indicators such as the presence of a strand line of flotsam and debris, the landward margin of salt tolerant vegetation, or a physical barrier that blocks further flow of the tide; and\n\n(d) For rivers, the ordinary high water mark.\n\nSource. #150, eff 1-9-74; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96; ss by #7544, eff 8-9-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

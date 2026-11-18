@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/204.01",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/204",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2001-10-01",
+  "historyNote": "#2221, eff 12-23-82; ss by #2979, eff 2-21-85, EXPIRED: 2-21-91 New. #5798, eff 3-18-94, EXPIRED: 3-18-00 New. #7568-A, eff 10-1-01",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res200.html",
+  "prefLabel": "Res 204.01 Date of Issuance or Filing",
+  "priorExpiration": "2000-03-18",
+  "recordType": "rule-section",
+  "ruleText": "Res 204.01 Date of Issuance or Filing. All written documents governed by these rules shall be rebuttably presumed to have been issued on the date noted on the document and to have been filed with the department, as evidenced by a date stamp placed on the document by the department in the normal course of business.\n\nSource. #2221, eff 12-23-82; ss by #2979, eff 2-21-85, EXPIRED: 2-21-91\n\nNew. #5798, eff 3-18-94, EXPIRED: 3-18-00\n\nNew. #7568-A, eff 10-1-01",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res200.html"
+}

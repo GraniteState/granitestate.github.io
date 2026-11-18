@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/104",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/100",
+  "definition": "GENERAL MEETING AND SPECIAL MEETING PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/104.01",
+    "https://granitestate.github.io/rules/liq/104.02",
+    "https://granitestate.github.io/rules/liq/104.03",
+    "https://granitestate.github.io/rules/liq/104.04",
+    "https://granitestate.github.io/rules/liq/104.05"
+  ],
+  "notation": "Liq 104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 104 GENERAL MEETING AND SPECIAL MEETING PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 104 GENERAL MEETING AND SPECIAL MEETING PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

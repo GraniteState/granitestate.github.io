@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/902.02",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Mail-Order Pharmacy",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/902",
+  "definition": "Mail-order pharmacy",
+  "effectiveDate": "2021-07-30",
+  "historyNote": "#13244, eff 7-30-21 (formerly Ph 902.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 902.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 902.02 Mail-order pharmacy",
+  "recordType": "rule-section",
+  "ruleText": "Ph 902.02 “Mail-order pharmacy” means “mail-order pharmacy” as defined in RSA 318:1, VII-b, namely, “a pharmacy that is located in a state of the United States, other than this state, whose primary business is to dispense a prescription drug or device under a prescription drug order and to deliver the drug or device to a patient, including a patient in this state, by the United States mail, a common carrier, or a delivery service. Mail-order pharmacies include, but are not limited to, pharmacies that do business via the Internet or other electronic media.”\n\nSource. #13244, eff 7-30-21 (formerly Ph 902.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.32",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Victim",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#12938, eff 12-9-19 (formerly Jus 602.28)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.32",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.32 Victim",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.32 “Victim” means:\n\n(a) Any person who suffered personal injury or death as a direct result of an eligible crime occurring in either:\n\n(1) New Hampshire; or\n\n(2) Any other state or jurisdiction that does not have a crime compensation program meeting the requirements of 34 U.S.C. 20102(b), and such person was domiciled in New Hampshire at the time of the crime; and\n\n(b) Both a primary victim or a related victim.\n\nSource. #12938, eff 12-9-19 (formerly Jus 602.28)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

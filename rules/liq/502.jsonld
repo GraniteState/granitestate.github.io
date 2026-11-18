@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/502",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "altLabel": "HOTEL ON-PREMISES LICENSES",
+  "authority": [
+    {
+      "citation": "178:21",
+      "source": "https://granitestate.github.io/rsa/178/178-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:22",
+      "paragraphs": [
+        "V(k)"
+      ],
+      "source": "https://granitestate.github.io/rsa/178/178-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178/178-21",
+    "https://granitestate.github.io/rsa/178/178-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/500",
+  "definition": "HOTEL ON-PREMISES LICENSEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/502.01",
+    "https://granitestate.github.io/rules/liq/502.02",
+    "https://granitestate.github.io/rules/liq/502.03"
+  ],
+  "notation": "Liq 502",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 502 HOTEL ON-PREMISES LICENSEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 502 HOTEL ON-PREMISES LICENSEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

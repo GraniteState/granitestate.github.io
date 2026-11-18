@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/602.04",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:57",
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/602",
+  "definition": "Revocations; Payment of Fines",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "(See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 602.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 602.04 Revocations; Payment of Fines",
+  "recordType": "rule-section",
+  "ruleText": "Liq 602.04 Revocations; Payment of Fines.\n\n(a) Revocation shall be a permanent loss of a liquor license.\n\n(b) No license shall be issued to or renewed for an applicant who has not paid an outstanding administrative fine issued by the commission.\n\nSource. (See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "definition": "Cross-Program Rules (Prior to 7-1-96 the subtitle Env-C designated rules assigned by Commissioner, and not by statute, to a particular Division. Pursuant to 1996, 228, effective 7-1-96, Commissioner assumed all former statutory responsibilities of Divisions. Pursuant to 1995, 226:5, effective 8-13-95, establishing RSA 21-G:9, II(b), the Commissioner has authority to adopt all rules under the Divisions of the Department. Pursuant to the rules reorganization plan approved on September 7, 2005, Env-C designates cross-program rules.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-c/200",
+    "https://granitestate.github.io/rules/env-c/300",
+    "https://granitestate.github.io/rules/env-c/400",
+    "https://granitestate.github.io/rules/env-c/500",
+    "https://granitestate.github.io/rules/env-c/600",
+    "https://granitestate.github.io/rules/env-c/700",
+    "https://granitestate.github.io/rules/env-c/800"
+  ],
+  "notation": "Env-C",
+  "prefLabel": "Env-C Cross-Program Rules",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

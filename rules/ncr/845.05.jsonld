@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/845.05",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/845",
+  "definition": "Submitting an Application",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 845.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 845.05 Submitting an Application",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 845.05 Submitting an Application. The applicant shall mail or hand-deliver a completed application and all attachments, in accordance with the deadlines established in Ncr 843.04, to:\n\nDepartment of Natural and Cultural Resources\n\nBureau of Trails\n\n172 Pembroke Road\n\nConcord, NH 03301\n\nSource. #14293, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

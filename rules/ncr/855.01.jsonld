@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/855.01",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "paragraphs": [
+        "II(f)",
+        "III",
+        "IV"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-A:19",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "215-C:34",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "651",
+      "source": "https://granitestate.github.io/rsa/651",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/651"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/855",
+  "definition": "Penalties",
+  "effectiveDate": "2025-06-25",
+  "expirationDate": "2035-06-25",
+  "historyNote": "#14288, eff 6-25-25, EXPIRES: 6-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ncr 855.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html",
+  "prefLabel": "Ncr 855.01 Penalties",
+  "recordType": "rule-section",
+  "ruleText": "Ncr 855.01 Penalties. A person who violates any rule of Ncr 850 shall be guilty of a violation as provided for by RSA 215-A:19, I and RSA 215-C:34, I and shall be subject to a fine pursuant to RSA 651:2, III-a, and IV(a), Ncr 782.04, and Ncr 782.06.\n\nSource. #14288, eff 6-25-25, EXPIRES: 6-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr800.html"
+}

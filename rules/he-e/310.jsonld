@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-e/310",
+  "@type": "Concept",
+  "agencyCode": "He-E",
+  "authority": [
+    {
+      "citation": "151:19",
+      "via": "appendix"
+    },
+    {
+      "citation": "151-E:12",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-J",
+      "source": "https://granitestate.github.io/rsa/161-J",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/161-J"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-e/300",
+  "definition": "RIGHTS OF INDIVIDUALS RECEIVING CHOICES FOR INDEPENDENCE IN THE COMMUNITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-e/310.01",
+    "https://granitestate.github.io/rules/he-e/310.02",
+    "https://granitestate.github.io/rules/he-e/310.03",
+    "https://granitestate.github.io/rules/he-e/310.04",
+    "https://granitestate.github.io/rules/he-e/310.05",
+    "https://granitestate.github.io/rules/he-e/310.06",
+    "https://granitestate.github.io/rules/he-e/310.07",
+    "https://granitestate.github.io/rules/he-e/310.08",
+    "https://granitestate.github.io/rules/he-e/310.09",
+    "https://granitestate.github.io/rules/he-e/310.10",
+    "https://granitestate.github.io/rules/he-e/310.11",
+    "https://granitestate.github.io/rules/he-e/310.12"
+  ],
+  "notation": "He-E 310",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-e300.html",
+  "prefLabel": "He-E 310 RIGHTS OF INDIVIDUALS RECEIVING CHOICES FOR INDEPENDENCE IN THE COMMUNITY",
+  "recordType": "rule-part",
+  "ruleText": "PART He-E 310 RIGHTS OF INDIVIDUALS RECEIVING CHOICES FOR INDEPENDENCE IN THE COMMUNITY\n\nStatutory Authority: RSA 151-E:12",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-e300.html"
+}

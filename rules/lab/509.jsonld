@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/509",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:25",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/500",
+  "definition": "VOCATIONAL REHABILITATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/509.01",
+    "https://granitestate.github.io/rules/lab/509.02",
+    "https://granitestate.github.io/rules/lab/509.03",
+    "https://granitestate.github.io/rules/lab/509.04",
+    "https://granitestate.github.io/rules/lab/509.05",
+    "https://granitestate.github.io/rules/lab/509.06",
+    "https://granitestate.github.io/rules/lab/509.07"
+  ],
+  "notation": "Lab 509",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab500.html",
+  "prefLabel": "Lab 509 VOCATIONAL REHABILITATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 509 VOCATIONAL REHABILITATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab500.html"
+}

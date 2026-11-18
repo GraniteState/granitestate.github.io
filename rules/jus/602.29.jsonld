@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.29",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Spouse",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#12938, eff 12-9-19 (formerly Jus 602.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.29 Spouse",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.29 “Spouse” means a husband or wife or either party in a civil union.\n\nSource. #12938, eff 12-9-19 (formerly Jus 602.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

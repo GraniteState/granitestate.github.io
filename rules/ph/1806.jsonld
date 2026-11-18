@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1806",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "X(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1800",
+  "definition": "RENEWAL OF LICENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/1806.01",
+    "https://granitestate.github.io/rules/ph/1806.02",
+    "https://granitestate.github.io/rules/ph/1806.03",
+    "https://granitestate.github.io/rules/ph/1806.04",
+    "https://granitestate.github.io/rules/ph/1806.05"
+  ],
+  "notation": "Ph 1806",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1806 RENEWAL OF LICENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 1806 RENEWAL OF LICENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

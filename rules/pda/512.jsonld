@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/512",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "altLabel": "MOORING PERMIT FEES - EXEMPT",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/500",
+  "definition": "MOORING PERMIT FEES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/512.01",
+    "https://granitestate.github.io/rules/pda/512.02",
+    "https://granitestate.github.io/rules/pda/512.03",
+    "https://granitestate.github.io/rules/pda/512.04"
+  ],
+  "notation": "Pda 512",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 512 MOORING PERMIT FEES",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 512 MOORING PERMIT FEES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

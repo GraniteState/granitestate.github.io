@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/1103",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "217-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/1100",
+  "definition": "CRITERIA FOR THE NATURAL HERITAGE INVENTORY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/1103.01",
+    "https://granitestate.github.io/rules/res/1103.02",
+    "https://granitestate.github.io/rules/res/1103.03"
+  ],
+  "notation": "Res 1103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res1100.html",
+  "prefLabel": "Res 1103 CRITERIA FOR THE NATURAL HERITAGE INVENTORY",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 1103 CRITERIA FOR THE NATURAL HERITAGE INVENTORY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res1100.html"
+}

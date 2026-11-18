@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ncr/1104",
+  "@type": "Concept",
+  "agencyCode": "Ncr",
+  "authority": [
+    {
+      "citation": "217-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/217-A/217-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/217-A/217-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/ncr/1100",
+  "definition": "REQUEST FOR NATURAL HERITAGE INVENTORY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ncr/1104.01",
+    "https://granitestate.github.io/rules/ncr/1104.02"
+  ],
+  "notation": "Ncr 1104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr1100.html",
+  "prefLabel": "Ncr 1104 REQUEST FOR NATURAL HERITAGE INVENTORY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ncr 1104 REQUEST FOR NATURAL HERITAGE INVENTORY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ncr1100.html"
+}

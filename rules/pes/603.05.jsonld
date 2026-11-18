@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/603.05",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:31",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:34",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-34",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-31",
+    "https://granitestate.github.io/rsa/430/430-34",
+    "https://granitestate.github.io/rsa/430/430-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/603",
+  "definition": "Suspension or Revocation of Special Permit",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#6316, eff 8-13-96; ss by #8131, eff 8-13-04, EXPIRED: 8-13-12 New. #10585, INTERIM, eff 5-13-14, EXPIRED: 11-10-14 New. #10875, eff 7-8-15; ss by #14332, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 603.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html",
+  "prefLabel": "Pes 603.05 Suspension or Revocation of Special Permit",
+  "recordType": "rule-section",
+  "ruleText": "Pes 603.05 Suspension or Revocation of Special Permit. The division shall suspend or revoke a special permit if it finds that the applicant has not complied with Chapter Pes 600 or has falsified information submitted in support of their application as follows:\n\n(a) If the division finds that public health, safety, or welfare requires emergency action, the division shall proceed with the suspension according to RSA 541-A:30, III; or\n\n(b) If there is not an imminent hazard to public health, safety, or welfare, the division shall proceed with the revocation according to RSA 541-A:30, II.\n\nSource. #6316, eff 8-13-96; ss by #8131, eff 8-13-04, EXPIRED: 8-13-12\n\nNew. #10585, INTERIM, eff 5-13-14, EXPIRED: 11-10-14\n\nNew. #10875, eff 7-8-15; ss by #14332, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html"
+}

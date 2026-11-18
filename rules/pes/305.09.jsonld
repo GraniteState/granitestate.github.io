@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/305.09",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:33",
+      "paragraphs": [
+        "I",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:34",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-34",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-33",
+    "https://granitestate.github.io/rsa/430/430-34"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/305",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 305.09",
+  "note": "The snapshot has no operative text for this heading.",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes300.html",
+  "prefLabel": "Pes 305.09",
+  "recordType": "rule-section",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes300.html"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "definition": "Pease Development Authority (Only for rules governing the Division of Ports and Harbors. See RSA 12-G:42, X, RSA 12-G:47, and RSA 12-G:53, III and IV for rulemaking authority subject to RSA 541-A. See RSA 12-G:42, XI, RSA 12-G:53, III and IV, and RSA 541-A:21, I(n) for extent of Authority's exemption from RSA 541-A.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/100",
+    "https://granitestate.github.io/rules/pda/200",
+    "https://granitestate.github.io/rules/pda/300",
+    "https://granitestate.github.io/rules/pda/400",
+    "https://granitestate.github.io/rules/pda/500",
+    "https://granitestate.github.io/rules/pda/600",
+    "https://granitestate.github.io/rules/pda/700"
+  ],
+  "notation": "Pda",
+  "prefLabel": "Pda Pease Development Authority",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

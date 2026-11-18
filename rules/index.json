@@ -163,6 +163,14 @@
       "sections": 2446
     },
     {
+      "code": "Env-C",
+      "html": "rules/env-c/index.html",
+      "id": "https://granitestate.github.io/rules/env-c",
+      "jsonld": "rules/env-c/index.jsonld",
+      "name": "Cross-Program Rules",
+      "sections": 294
+    },
+    {
       "code": "Env-Dw",
       "html": "rules/env-dw/index.html",
       "id": "https://granitestate.github.io/rules/env-dw",
@@ -243,12 +251,28 @@
       "sections": 731
     },
     {
+      "code": "He-A",
+      "html": "rules/he-a/index.html",
+      "id": "https://granitestate.github.io/rules/he-a",
+      "jsonld": "rules/he-a/index.jsonld",
+      "name": "Former Office of Alcohol & Drug Abuse Prevention",
+      "sections": 272
+    },
+    {
       "code": "He-C",
       "html": "rules/he-c/index.html",
       "id": "https://granitestate.github.io/rules/he-c",
       "jsonld": "rules/he-c/index.jsonld",
       "name": "Commissioner, Department of Health and Human Services",
       "sections": 1154
+    },
+    {
+      "code": "He-E",
+      "html": "rules/he-e/index.html",
+      "id": "https://granitestate.github.io/rules/he-e",
+      "jsonld": "rules/he-e/index.jsonld",
+      "name": "Bureau of Aging and Adult Services",
+      "sections": 335
     },
     {
       "code": "He-M",
@@ -299,12 +323,36 @@
       "sections": 1201
     },
     {
+      "code": "Jus",
+      "html": "rules/jus/index.html",
+      "id": "https://granitestate.github.io/rules/jus",
+      "jsonld": "rules/jus/index.jsonld",
+      "name": "Attorney General, Department of Justice",
+      "sections": 480
+    },
+    {
       "code": "Juv",
       "html": "rules/juv/index.html",
       "id": "https://granitestate.github.io/rules/juv",
       "jsonld": "rules/juv/index.jsonld",
       "name": "Juvenile Parole Board",
       "sections": 42
+    },
+    {
+      "code": "Lab",
+      "html": "rules/lab/index.html",
+      "id": "https://granitestate.github.io/rules/lab",
+      "jsonld": "rules/lab/index.jsonld",
+      "name": "Commissioner, Department of Labor",
+      "sections": 546
+    },
+    {
+      "code": "Liq",
+      "html": "rules/liq/index.html",
+      "id": "https://granitestate.github.io/rules/liq",
+      "jsonld": "rules/liq/index.jsonld",
+      "name": "State Liquor Commission",
+      "sections": 380
     },
     {
       "code": "Lot",
@@ -339,6 +387,14 @@
       "sections": 72
     },
     {
+      "code": "Ncr",
+      "html": "rules/ncr/index.html",
+      "id": "https://granitestate.github.io/rules/ncr",
+      "jsonld": "rules/ncr/index.jsonld",
+      "name": "Commissioner, Department of Natural and Cultural Resources",
+      "sections": 304
+    },
+    {
       "code": "Omb",
       "html": "rules/omb/index.html",
       "id": "https://granitestate.github.io/rules/omb",
@@ -355,6 +411,14 @@
       "sections": 84
     },
     {
+      "code": "Pda",
+      "html": "rules/pda/index.html",
+      "id": "https://granitestate.github.io/rules/pda",
+      "jsonld": "rules/pda/index.jsonld",
+      "name": "Pease Development Authority",
+      "sections": 302
+    },
+    {
       "code": "Pdab",
       "html": "rules/pdab/index.html",
       "id": "https://granitestate.github.io/rules/pdab",
@@ -363,12 +427,36 @@
       "sections": 61
     },
     {
+      "code": "Per",
+      "html": "rules/per/index.html",
+      "id": "https://granitestate.github.io/rules/per",
+      "jsonld": "rules/per/index.jsonld",
+      "name": "Director of Personnel, Division of Personnel in the Department of Administrative Services das.nh.gov/hr/policy.html",
+      "sections": 290
+    },
+    {
       "code": "Per-A",
       "html": "rules/per-a/index.html",
       "id": "https://granitestate.github.io/rules/per-a",
       "jsonld": "rules/per-a/index.jsonld",
       "name": "Personnel Appeals Board",
       "sections": 71
+    },
+    {
+      "code": "Pes",
+      "html": "rules/pes/index.html",
+      "id": "https://granitestate.github.io/rules/pes",
+      "jsonld": "rules/pes/index.jsonld",
+      "name": "Pesticide Control Board",
+      "sections": 259
+    },
+    {
+      "code": "Ph",
+      "html": "rules/ph/index.html",
+      "id": "https://granitestate.github.io/rules/ph",
+      "jsonld": "rules/ph/index.jsonld",
+      "name": "N.H. Pharmacy Board",
+      "sections": 398
     },
     {
       "code": "Plc",
@@ -409,6 +497,14 @@
       "jsonld": "rules/puc/index.jsonld",
       "name": "Public Utilities Commission",
       "sections": 778
+    },
+    {
+      "code": "Res",
+      "html": "rules/res/index.html",
+      "id": "https://granitestate.github.io/rules/res",
+      "jsonld": "rules/res/index.jsonld",
+      "name": "Commissioner, Department of Resources and Economic Development",
+      "sections": 396
     },
     {
       "code": "Ret",
@@ -485,14 +581,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 60,
-    "chapters": 668,
+    "agencies": 72,
+    "chapters": 829,
     "droppedHeadings": 105,
-    "parts": 4761,
-    "rules": 35859,
-    "sections": 30430,
-    "unresolvedRows": 26264,
-    "unresolvedStatutes": 2597
+    "parts": 5615,
+    "rules": 41130,
+    "sections": 34686,
+    "unresolvedRows": 30370,
+    "unresolvedStatutes": 2952
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

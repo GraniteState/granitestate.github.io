@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/203.14",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:21-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:60",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-60",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-60"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/203",
+  "definition": "Public Access",
+  "effectiveDate": "2026-03-12",
+  "historyNote": "#8922-A, eff 7-1-07; ss by #14534, eff 3-12-26 (formerly Lab 203.13)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lab 203.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html",
+  "prefLabel": "Lab 203.14 Public Access",
+  "recordType": "rule-section",
+  "ruleText": "Lab 203.14 Public Access.\n\n(a) All hearings shall be open to the public except for hearings under RSA 281-A.\n\n(b) The hearings officer, presiding officer, or panel members shall have the authority to limit the number of the members of the public attending a hearing to prevent overcrowding or disruption of a hearing room.\n\n(c) Members of the public shall not be admitted into a hearing room after a hearing is in progress, until there is a recess in the hearing.\n\nSource. #8922-A, eff 7-1-07; ss by #14534, eff 3-12-26 (formerly Lab 203.13)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html"
+}

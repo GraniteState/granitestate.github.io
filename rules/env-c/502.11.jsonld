@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/502.11",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "Principal of the Applicant",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/502",
+  "definition": "Principal of the applicant",
+  "effectiveDate": "2024-08-21",
+  "historyNote": "#14060, eff 8-21-24 (formerly Env-C 502.12)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 502.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c500.html",
+  "prefLabel": "Env-C 502.11 Principal of the applicant",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 502.11 “Principal of the applicant” means:\n\n(a) For a general or limited partnership, one of the general partners;\n\n(b) For a corporation, including limited liability corporations and professional corporations, the president or a vice president; and\n\n(c) For any other business entity, the individual who has controlling authority or is otherwise equivalent to the chief executive officer.\n\nSource. #14060, eff 8-21-24 (formerly Env-C 502.12)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c500.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/212",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "541-A:11",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/200",
+  "definition": "EXPLANATION OF ADOPTED RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/212.01",
+    "https://granitestate.github.io/rules/lab/212.02"
+  ],
+  "notation": "Lab 212",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html",
+  "prefLabel": "Lab 212 EXPLANATION OF ADOPTED RULES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 212 EXPLANATION OF ADOPTED RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab200.html"
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/604.03",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Application for Employment",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:53",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/604",
+  "definition": "Application For Employment",
+  "effectiveDate": "2025-12-01",
+  "expirationDate": "2035-12-01",
+  "historyNote": "#8738, eff 10-18-06; amd by #10239, eff 3-18-13; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 603.03), eff 12-1-25, EXPIRES 12-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 604.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 604.03 Application For Employment",
+  "recordType": "rule-section",
+  "ruleText": "Per 604.03 Application For Employment.\n\n(a) The appointing authority shall attach a completed application for employment, certified pursuant to Per 403, to the personnel action request submitted to the director in order to accomplish any one of the following personnel transactions:\n\n(1) Assignment of a new employee into the classified system;\n\n(2) Rehire of a former employee;\n\n(3) Other than promotion from trainee status, promotion into a job title different from the job title currently held by the employee;\n\n(4) Transfer of an employee into a job title different from the job title currently held by the employee;\n\n(5) Demotion of an employee into a job title different from the job title in which the employee's position is currently classified;\n\n(6) An application for laterals; or\n\n(7) A completed and signed supplemental job description.\n\n(b) Prior to approving the personnel action request, each application for employment shall be reviewed by the director to determine whether the applicant meets the current minimum qualifications of the job title for which application is made.\n\nSource. #8738, eff 10-18-06; amd by #10239, eff 3-18-13; ss by #10817, eff 5-17-15; ss by #14433 (formerly Per 603.03), eff 12-1-25, EXPIRES 12-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

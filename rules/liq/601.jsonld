@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/601",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:5",
+      "via": "appendix"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "179:57",
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/600",
+  "definition": "PURPOSE AND EFFECT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/601.01",
+    "https://granitestate.github.io/rules/liq/601.02",
+    "https://granitestate.github.io/rules/liq/601.03",
+    "https://granitestate.github.io/rules/liq/601.04",
+    "https://granitestate.github.io/rules/liq/601.05",
+    "https://granitestate.github.io/rules/liq/601.06"
+  ],
+  "notation": "Liq 601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 601 PURPOSE AND EFFECT",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 601 PURPOSE AND EFFECT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

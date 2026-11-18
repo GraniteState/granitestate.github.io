@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/311.04",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/311",
+  "definition": "Action to Deny Application for Renewal Accreditation or to Revoke Accreditation",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 311.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 311.04 Action to Deny Application for Renewal Accreditation or to Revoke Accreditation",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 311.04 Action to Deny Application for Renewal Accreditation or to Revoke Accreditation.\n\n(a) Whenever the department has reason to consider denial of an application for renewal accreditation or revocation of a laboratory’s accreditation, it shall initiate an adjudicative proceeding in accordance with the applicable provisions of Env-C 200.\n\n(b) The laboratory shall be given an opportunity to be heard as provided in Env-C 200 prior to any final action being taken.\n\n(c) The department shall notify the laboratory of its decision in writing by certified mail, return receipt requested. If renewal accreditation is denied or if accreditation is revoked, the written decision shall specify the reason(s) for the decision.\n\n(d) The laboratory shall remain accredited with continued successful PT participation until the department has issued a decision to revoke or refuse to renew the accreditation.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

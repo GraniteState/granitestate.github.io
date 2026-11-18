@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/102",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "12-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/100",
+  "definition": "DESCRIPTION OF DEPARTMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/102.01",
+    "https://granitestate.github.io/rules/res/102.02",
+    "https://granitestate.github.io/rules/res/102.03",
+    "https://granitestate.github.io/rules/res/102.04",
+    "https://granitestate.github.io/rules/res/102.05",
+    "https://granitestate.github.io/rules/res/102.06"
+  ],
+  "notation": "Res 102",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res100.html",
+  "prefLabel": "Res 102 DESCRIPTION OF DEPARTMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 102 DESCRIPTION OF DEPARTMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res100.html"
+}

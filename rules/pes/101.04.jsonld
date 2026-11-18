@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.04",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "altLabel": "Chemical Liability",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "Chemical liability",
+  "effectiveDate": "1996-05-02",
+  "historyNote": "#4309, eff 9-1-87; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 101.04 Chemical liability",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.04 \"Chemical liability\" means that the insurance coverage required under Pes 301.03 pertains to the handling and use of pesticides.\n\nSource. #4309, eff 9-1-87; ss by #4867, eff 7-19-90; ss by #6239, eff 5-2-96",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

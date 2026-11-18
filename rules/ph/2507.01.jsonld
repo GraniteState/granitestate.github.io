@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2507.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Automated Pharmacy Systems for Hospital Setting Requirement",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2507",
+  "definition": "Automated Pharmacy Systems for Hospital Setting Requirements",
+  "effectiveDate": "2022-12-19",
+  "historyNote": "#13465, eff 12-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2507.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2507.01 Automated Pharmacy Systems for Hospital Setting Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2507.01 Automated Pharmacy Systems for Hospital Setting Requirements.\n\n(a) Hospital permit holders shall have policies in place to:\n\n(1) Stop or change access to the system at any time;\n\n(2) Maintain a current and immediately retrievable list of persons who have access and the limits of that access;\n\n(3) Ensure the proper identification of controls, including electronic passwords or an electronic identifier shall be utilized and access control shall be limited and authorized by the pharmacist-in-charge, director, or their authorized designee;\n\n(4) Review user access reports conducted periodically ensuring access by persons no longer employed have been appropriately disabled; and\n\n(5) Allow for access for maintenance or repair to be pre-approved by the pharmacist-in-charge or director which is being performed under the continuous supervision of a person with appropriate access authorization.\n\n(b) The automated dispensing system shall have adequate system security and safeguards to prevent and detect unauthorized access or use, maintain the integrity of patient records and prescription drug orders, and protect patient privacy.\n\n(c) The filling, stocking, or replenishing of drugs into the automated dispensing system shall be accomplished by a pharmacist, certified technician, licensed advanced pharmacy technicians, registered technicians, or nurse and shall occur through bar coding or other electronic technology used for item identification.\n\n(d) The automated medication supply system shall be able to generate a record on demand of drugs filled into the system that includes at least:\n\n(1) Date;\n\n(2) Drug name;\n\n(3) Dosage form;\n\n(4) Strength;\n\n(5) Quantity;\n\n(6) Drug expiration; and\n\n(7) The name or initials of the authorized individual filling the system.\n\n(e) If the automated medication supply system uses removable cartridges or containers to hold bulk drugs, the prepackaging of the cartridges or containers shall occur in the pharmacy where the original inventory is maintained.\n\n(f) The prepackaged cartridges or containers may be sent to a remote dispensing site to be loaded into an automated dispensing system by a pharmacist or technician if:\n\n(1) A pharmacist or licensed advanced pharmacy technician has verified the proper filling and labelling of the cartridge or container;\n\n(2) The individual cartridges or containers are transported to the automated dispensing system in a secure, tamper-evident container; and\n\n(3) The automated dispensing system utilizes technologies to ensure that the cartridges or containers are accurately loaded.\n\n(g) Drugs stored in an automated dispensing system shall be contained in the manufacturers’ sealed, original packages or in prepackaged unit-of use containers and shall be labelled as required.\n\n(h) A pharmacist shall review the drug order prior to any removal from the system of a drug intended for immediate patient administration except if:\n\n(1) The system is being used as an afterhours cabinet for drug dispensing in the absence of a pharmacist;\n\n(2) The system is being used in place of an emergency kit;\n\n(3) The drug is a subsequent dose from a previously reviewed drug order;\n\n(4) The prescriber controls the drug administration process in procedural areas; or\n\n(5) The drugs are approved for override by the pharmacy director, pharmacist in charge, or designee.\n\n(i) The automated dispensing system shall provide a mechanism for securing and accounting for drugs removed from and subsequently returned to the system.\n\n(j) A drug removed from the system but not administered to a patient shall be returned as follows if unopened, sealed, intact and stored in compliance with the drug storage product rule to:\n\n(1) The pharmacy immediately;\n\n(2) The automated dispensing system for immediate reuse by authorized personnel in hospitals utilizing bar code scanning technology at the bedside or the automated pharmacy system;\n\n(3) The automated dispensing system return bin; or\n\n(4) An alternative, secure storage area until returned to the pharmacy.\n\nSource. #13465, eff 12-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

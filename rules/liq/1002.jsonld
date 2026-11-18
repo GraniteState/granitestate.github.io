@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/1002",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "78:2",
+      "source": "https://granitestate.github.io/rsa/78/78-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:19-a",
+      "source": "https://granitestate.github.io/rsa/178/178-19-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:19-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:19-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/78/78-2",
+    "https://granitestate.github.io/rsa/178/178-19-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/1000",
+  "definition": "DELIVERY OF TOBACCO PRODUCTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/1002.01"
+  ],
+  "notation": "Liq 1002",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 1002 DELIVERY OF TOBACCO PRODUCTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 1002 DELIVERY OF TOBACCO PRODUCTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

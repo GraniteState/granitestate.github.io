@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2003",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:51-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:51-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:51-e",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2000",
+  "definition": "STANDARDS OF PRACTICE FOR OUTSOURCING FACILITIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ph/2003.01",
+    "https://granitestate.github.io/rules/ph/2003.02",
+    "https://granitestate.github.io/rules/ph/2003.03",
+    "https://granitestate.github.io/rules/ph/2003.04",
+    "https://granitestate.github.io/rules/ph/2003.05",
+    "https://granitestate.github.io/rules/ph/2003.06"
+  ],
+  "notation": "Ph 2003",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2003 STANDARDS OF PRACTICE FOR OUTSOURCING FACILITIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Ph 2003 STANDARDS OF PRACTICE FOR OUTSOURCING FACILITIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

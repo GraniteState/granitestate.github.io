@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/602.07",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:57",
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/602",
+  "definition": "Non-Renewal, Denial, and Revocation",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "(See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 602.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 602.07 Non-Renewal, Denial, and Revocation",
+  "recordType": "rule-section",
+  "ruleText": "Liq 602.07 Non-Renewal, Denial, and Revocation.\n\n(a) Nothing in this chapter shall prohibit the division from recommending non-renewal of a license or denial of an application based on the specification of RSA 178:3.\n\n(b) Nothing in this chapter shall prohibit the commission from revoking a license when there is a significant risk to public safety, or the business fails to operate in strict accordance with all applicable state and federal alcoholic beverage or tobacco control laws.\n\nSource. (See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

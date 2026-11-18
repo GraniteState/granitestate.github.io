@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2104.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318-B:25",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2101",
+  "definition": "Scheduling",
+  "effectiveDate": "2020-04-11",
+  "historyNote": "#13028, eff 4-11-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2104.01 Scheduling",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2104.01 Scheduling. Inspections shall be:\n\n(a) For any facility involved in sterile compounding, scheduled up to one month in advance;\n\n(b) Unannounced for any other facility, notwithstanding the pre-inspection checklists sent to licensees in the quarter in which their inspection shall take place;\n\n(c) Conducted upon the presentation of appropriate identification; and\n\n(d) Investigators/inspectors shall present a “Notice of Inspection” form (#Ph510) upon arrival detailing the purpose of the inspection to the person of record on the day of the inspection. The form shall be signed underneath the following certification statement:\n\nThis is to acknowledge that NH Board of Pharmacy Inspector/Investigator, ____________ has identified him/her self by presentation of official credentials pursuant to the provisions of NH RSA 318:8, RSA 318:8-a of the NH Pharmacy Act and RSA 318-B:25 of the NH Controlled Drug Act, and I hereby grant permission for the aforementioned Board agent to inspect any and all of the records relative to the receipt, distribution and security of prescription/legend drugs at this location. This also includes records which are required per the provisions of 21 CFR 1300 to end, of the Federal Controlled Substances Act. This inspection also addresses any other standards of practice issues outlined by other health care agencies, which these agents are charged to enforce. By my signature below, I hereby acknowledge the receipt of this Notice of Inspection and certify that:\n\n1. I am the (title) _____________________________________, for the above described location;\n\n2. I have read this Notice of Inspection and understand its contents and purpose;\n\n3. I have the authority to act in this matter and have signed this Notice of Inspection pursuant to my authority;\n\n4. I have been provided with the purpose of this Notice of Inspection as noted above, but fully realize that the scope of this inspection may encompass ALL of the records required pursuant to the above mentioned State/Federal Statutes and Rules/Regulations; and\n\n5. I have voluntarily consented to this inspection.\n\nSource. #13028, eff 4-11-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

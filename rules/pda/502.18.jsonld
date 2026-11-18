@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/502.18",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "altLabel": "Nearshore Area",
+  "authority": [
+    {
+      "citation": "12-G:42",
+      "paragraphs": [
+        "III",
+        "VI"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "12-G:50",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/pda/502",
+  "definition": "Nearshore area",
+  "effectiveDate": "2019-12-24",
+  "historyNote": "#8775, eff 12-16-06; ss by #9975, eff 8-20-11 (formerly Pda 502.21) (See Revision Note at chapter heading for Pda 500); ss by #12958, eff 12-24-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pda 502.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 502.18 Nearshore area",
+  "recordType": "rule-section",
+  "ruleText": "Pda 502.18 “Nearshore area” means that portion of a mooring field or mooring subfield, as described in (a) or (b) below, whichever is the greater:\n\n(a) The portion within 50 feet of the mean high-water mark; or\n\n(b) The portion from the mean high-water mark to the mean low water line.\n\nSource. #8775, eff 12-16-06; ss by #9975, eff 8-20-11 (formerly Pda 502.21) (See Revision Note at chapter heading for Pda 500); ss by #12958, eff 12-24-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

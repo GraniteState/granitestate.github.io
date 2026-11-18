@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/506",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "178:16",
+      "via": "appendix"
+    },
+    {
+      "citation": "178:26",
+      "source": "https://granitestate.github.io/rsa/178/178-26",
+      "via": "appendix"
+    },
+    {
+      "citation": "179:33",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/178/178-26"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/500",
+  "definition": "WHOLESALE DISTRIBUTORS, BEVERAGE MANUFACTURERS, BEVERAGE VENDORS, BREW PUBS AND NANO BREWERIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/506.01",
+    "https://granitestate.github.io/rules/liq/506.02",
+    "https://granitestate.github.io/rules/liq/506.03",
+    "https://granitestate.github.io/rules/liq/506.04",
+    "https://granitestate.github.io/rules/liq/506.05",
+    "https://granitestate.github.io/rules/liq/506.06",
+    "https://granitestate.github.io/rules/liq/506.07",
+    "https://granitestate.github.io/rules/liq/506.08",
+    "https://granitestate.github.io/rules/liq/506.09",
+    "https://granitestate.github.io/rules/liq/506.10",
+    "https://granitestate.github.io/rules/liq/506.11",
+    "https://granitestate.github.io/rules/liq/506.12",
+    "https://granitestate.github.io/rules/liq/506.13",
+    "https://granitestate.github.io/rules/liq/506.14",
+    "https://granitestate.github.io/rules/liq/506.15",
+    "https://granitestate.github.io/rules/liq/506.16",
+    "https://granitestate.github.io/rules/liq/506.17",
+    "https://granitestate.github.io/rules/liq/506.18",
+    "https://granitestate.github.io/rules/liq/506.19",
+    "https://granitestate.github.io/rules/liq/506.20",
+    "https://granitestate.github.io/rules/liq/506.21",
+    "https://granitestate.github.io/rules/liq/506.22"
+  ],
+  "notation": "Liq 506",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 506 WHOLESALE DISTRIBUTORS, BEVERAGE MANUFACTURERS, BEVERAGE VENDORS, BREW PUBS AND NANO BREWERIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 506 WHOLESALE DISTRIBUTORS, BEVERAGE MANUFACTURERS, BEVERAGE VENDORS, BREW PUBS AND NANO BREWERIES.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

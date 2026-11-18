@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/8404",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "215-A:23",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:39",
+      "paragraphs": [
+        "VII(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-39",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-23",
+    "https://granitestate.github.io/rsa/215-C/215-C-39"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/8400",
+  "definition": "PROJECT REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/res/8404.01",
+    "https://granitestate.github.io/rules/res/8404.02",
+    "https://granitestate.github.io/rules/res/8404.03",
+    "https://granitestate.github.io/rules/res/8404.04",
+    "https://granitestate.github.io/rules/res/8404.05",
+    "https://granitestate.github.io/rules/res/8404.06",
+    "https://granitestate.github.io/rules/res/8404.07",
+    "https://granitestate.github.io/rules/res/8404.08",
+    "https://granitestate.github.io/rules/res/8404.09",
+    "https://granitestate.github.io/rules/res/8404.10"
+  ],
+  "notation": "Res 8404",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html",
+  "prefLabel": "Res 8404 PROJECT REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Res 8404 PROJECT REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res8100-8500.html"
+}

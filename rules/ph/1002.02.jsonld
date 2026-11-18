@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1002.02",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1002",
+  "definition": "Facilities",
+  "effectiveDate": "2016-10-22",
+  "historyNote": "#12007, eff 10-22-16 (formerly Ph 309.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1002.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1002.02 Facilities",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1002.02 Facilities.\n\n(a) All buildings in which prescription drugs are wholesaled, repackaged, stored, held, sold, offered for sale, exposed for sale, or kept for sale shall be of suitable size, construction, and location to meet the requirements set forth in this chapter.\n\n(b) Buildings shall meet all applicable federal, state, and local standards. A facility shall not be located in a residence. All facilities shall be located in an area that is commercially zoned.\n\n(c) A wholesale drug distribution facility shall notify the local police department or other appropriate law enforcement agency that it is a distributor of prescription drug products and controlled substances.\n\nSource. #12007, eff 10-22-16 (formerly Ph 309.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

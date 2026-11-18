@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/305.06",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "altLabel": "Laboratory Equipment, Calibration, and Measurement Materials",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/305",
+  "definition": "Laboratory Equipment, Calibration, and Measurement Traceability",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 305.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 305.06 Laboratory Equipment, Calibration, and Measurement Traceability",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 305.06 Laboratory Equipment, Calibration, and Measurement Traceability.\n\n(a) The laboratory equipment, including support equipment, shall meet the requirements as specified in Volume 1, Module 2, Section 5.5 of the TNI standards.\n\n(b) The laboratory shall have reference standards and reference materials that meet requirements relative to measurement traceability as specified in Volume 1, Module 2, Section 5.6 of the TNI standards.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

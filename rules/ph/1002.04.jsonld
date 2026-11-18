@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1002.04",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1002",
+  "definition": "Recordkeeping",
+  "effectiveDate": "2016-10-22",
+  "historyNote": "#12007, eff 10-22-16 (formerly Ph 309.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1002.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1002.04 Recordkeeping",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1002.04 Recordkeeping.\n\n(a) Inventories and other records of transactions regarding the receipt and disposition of prescription drugs shall be maintained and made available for inspection by the board's inspectors for a period of 2 years.\n\n(b) Records may be kept at a central location rather than at each distribution center, but records shall be made available for inspection within 72 hours of request by the board's inspectors.\n\nSource. #12007, eff 10-22-16 (formerly Ph 309.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

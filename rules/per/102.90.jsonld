@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/102.90",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "State Classified Service",
+  "authority": [
+    {
+      "citation": "21-I:42",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-42",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/102",
+  "definition": "State classified service",
+  "effectiveDate": "2025-12-01",
+  "historyNote": "#5373, eff 4-27-92; ss by #6729, eff 4-21-98; ss by #8735, eff 10-18-06; renumbered by #10238 (from Per 102.57); renumbered by #10801 (from Per 102.59); ss by #13667, eff 6-22-23 (formerly Per 102.65); renumbered by #14065-A; renumbered by #14132-A; ss by #14434 (formerly Per 102.80), eff 12-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 102.90",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 102.90 State classified service",
+  "recordType": "rule-section",
+  "ruleText": "Per 102.90 “State classified service” means all positions in the executive branch of state government except those listed in RSA 21-I:49 or other laws providing for the creation of non-classified positions.\n\nSource. #5373, eff 4-27-92; ss by #6729, eff 4-21-98; ss by #8735, eff 10-18-06; renumbered by #10238 (from Per 102.57); renumbered by #10801 (from Per 102.59); ss by #13667, eff 6-22-23 (formerly Per 102.65); renumbered by #14065-A; renumbered by #14132-A; ss by #14434 (formerly Per 102.80), eff 12-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

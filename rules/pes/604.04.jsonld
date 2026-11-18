@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/604.04",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "430:31",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:34",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-34",
+      "via": "appendix"
+    },
+    {
+      "citation": "430:41",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-31",
+    "https://granitestate.github.io/rsa/430/430-34",
+    "https://granitestate.github.io/rsa/430/430-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/604",
+  "definition": "Conditions for Granting Special Permits",
+  "effectiveDate": "2025-08-01",
+  "expirationDate": "2035-08-01",
+  "historyNote": "#10875, eff 7-8-15 (from Pes 604.03); ss by #14332, eff 8-1-25, EXPIRES: 8-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 604.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html",
+  "prefLabel": "Pes 604.04 Conditions for Granting Special Permits",
+  "recordType": "rule-section",
+  "ruleText": "Pes 604.04 Conditions for Granting Special Permits.\n\n(a) Special permits shall be issued, in writing, and shall state the terms and conditions under which the division granted approval.\n\n(b) Upon receipt of a special permit for mosquito control, government agencies shall comply with the following:\n\n(1) No pesticide application under said permit shall be made within 75 feet of any well used as a source of drinking water;\n\n(2) Prior to commencement of any pesticide applications, the applicant shall provide notification to potentially affected persons in accordance with the requirements specified under Pes 505.06(q);\n\n(3) The applicant shall provide the division 48-hour advanced notification of intent to commence pesticide applications; and\n\n(4) Prior to commencement of any pesticide applications, the applicant shall provide to the division a signed attestation that all of the notification requirements, and any other pre-application conditions of the permit have been satisfied\n\nSource. #10875, eff 7-8-15 (from Pes 604.03); ss by #14332, eff 8-1-25, EXPIRES: 8-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes600.html"
+}

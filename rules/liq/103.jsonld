@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/103",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/100",
+  "definition": "METHODS BY WHICH THE PUBLIC MAY REQUEST OR OBTAIN INFORMATION PURSUANT TO RSA 91-A:4",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/103.01",
+    "https://granitestate.github.io/rules/liq/103.02",
+    "https://granitestate.github.io/rules/liq/103.03"
+  ],
+  "notation": "Liq 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 103 METHODS BY WHICH THE PUBLIC MAY REQUEST OR OBTAIN INFORMATION PURSUANT TO RSA 91-A:4",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 103 METHODS BY WHICH THE PUBLIC MAY REQUEST OR OBTAIN INFORMATION PURSUANT TO RSA 91-A:4",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

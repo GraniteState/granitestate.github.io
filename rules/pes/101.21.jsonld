@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/101.21",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "I",
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:41",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-41",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485/485-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes/101",
+  "definition": "Pesticide",
+  "effectiveDate": "1996-05-02",
+  "historyNote": "#150, eff 1-9-74; ss by #2209, eff 12-13-82; ss by #2781, eff 7-26-84; ss by #4812, eff 5-3-90; ss and moved by #6239, eff 5-2-96 (from Pes 101.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pes 101.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html",
+  "prefLabel": "Pes 101.21 Pesticide",
+  "recordType": "rule-section",
+  "ruleText": "Pes 101.21 “Pesticide” means:\n\n(a) Any chemical or biological agent used to control a pest including but not limited to the following materials:\n\n(1) Acaricides or miticides;\n\n(2) Insecticides;\n\n(3) Nematocides;\n\n(4) Herbicides;\n\n(5) Desiccants;\n\n(6) Defoliants;\n\n(7) Fungicides;\n\n(8) Molluscides;\n\n(9) Repellents;\n\n(10) Algaecides;\n\n(11) Rodenticides;\n\n(12) Disinfectants; and\n\n(13) Fumigants; and\n\n(b) Any substance or mixture of substances intended for preventing, destroying, repelling or mitigating any insects, rodents, fungi, weeds or other forms of plant or animal life or viruses which the board declares to be a pest, except viruses on or in living man or other animals, and any substances or mixture of substances intended for use as a plant regulator, defoliant or desiccant.\n\nAppendix D: Monitoring Frequency for PFAS Contaminants Based on Specified MCL\n\nPerfluorohexane sulfonic acid (PFHxS); MCL = 18 ng/L\n\nAverage Monitoring Result (ng/L) | Frequency\n\n> 9 to 18 | Annually\n\n≤ 9 | Every 3 years\n\nPerfluorononanoic acid (PFNA); MCL = 11 ng/L\n\nAverage Monitoring Result (ng/L) | Frequency\n\n> 5.5 to 11 | Annually\n\n≤ 5.5 | Every 3 years\n\nPerfluorooctane sulfonic acid (PFOS); MCL = 15 ng/L\n\nAverage Monitoring Result (ng/L) | Frequency\n\n> 7.5 to 15 | Annually\n\n≤ 7.5 | Every 3 years\n\nPerfluorooctanoic acid (PFOA); MCL = 12 ng/L\n\nAverage Monitoring Result (ng/L) | Frequency\n\n> 6 to 12 | Annually\n\n≤ 6 | Every 3 years",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-dw700.html"
+}

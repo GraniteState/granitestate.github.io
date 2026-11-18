@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1302.04",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "altLabel": "Pharmacy Intern",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-8",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1302",
+  "definition": "Pharmacy intern",
+  "effectiveDate": "2023-04-12",
+  "historyNote": "#13558, eff 4-12-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1302.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1302.04 Pharmacy intern",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1302.04 “Pharmacy intern” means “pharmacy intern” as defined in RSA 318:1, XI-aa, namely, “a person who is registered by the board pursuant to RSA 318:15-b” and:\n\n(a) Is enrolled in a professional degree program of a school or college of pharmacy accredited by the Accreditation Council of Pharmacy Education and is satisfactorily progressing toward meeting the requirements for licensure as a pharmacist starting no earlier than 4 months prior to the third year of study;\n\n(b) Is a graduate of an approved professional degree program of a school or college of pharmacy or is a graduate who has established educational equivalency by obtaining a Foreign Pharmacy Graduate Examination Committee (FPGEC) Certificate, who is currently licensed by the board of pharmacy for the purpose of obtaining practical experience as a requirement for licensure as a pharmacist;\n\n(c) Is a qualified applicant awaiting examination for licensure or meeting board requirements for re-licensure; or\n\n(d) Is participating in a residency or fellowship program.\n\nSource. #13558, eff 4-12-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2504.01",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:1",
+      "paragraphs": [
+        "XXII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "XII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-1",
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2504",
+  "definition": "Location, Access, and Other System Requirements",
+  "effectiveDate": "2022-12-19",
+  "historyNote": "#13465, eff 12-19-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 2504.01 Location, Access, and Other System Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Ph 2504.01 Location, Access, and Other System Requirements.\n\n(a) The automated pharmacy system shall be located within the prescription department, adjacent to the prescription department, or shall be located on the establishment of the licensed pharmacy, and the operation of the automated pharmacy system shall be under the supervision of a pharmacist.\n\n(b) An automated pharmacy system that is not located within the prescription department shall be operated as an extension of the licensed pharmacy and the automated pharmacy system shall not require an independent and separate community pharmacy permit.\n\n(c) Access to the automated pharmacy system shall be monitored and controlled as follows:\n\n(1) Proper identification controls, including electronic passwords, biometrics, or other coded identification shall be utilized;\n\n(2) Access control shall be limited and authorized by the pharmacist-in-charge or their authorized designee;\n\n(3) The pharmacist-in-charge or their designee may have the authority to stop or change access at any time;\n\n(4) The pharmacist-in-charge shall maintain a current and immediately retrievable list of all persons who have access and the limits of their access; and\n\n(5) Review of user access reports shall be conducted periodically to ensure that access by persons no longer employed has been appropriately disabled.\n\n(d) Access for maintenance or repair shall be pre-approved by the pharmacist-in-charge and shall be performed under the continuous supervision of a person with appropriate access authorization.\n\n(e) A process of filling and stocking the system with drugs using an electronic or hard copy record of medication filled into the system shall include the product identification, lot number, and expiration date.\n\n(f) The automated pharmacy system shall have adequate security and safeguards to prevent and detect unauthorized use or access, in order to protect patient privacy including the patients records and prescription drug orders.\n\n(g) The system shall ensure that each finished, filled prescription is dispensed in compliance with all New Hampshire pharmacy laws including but not limited to an electronic or hard copy record of prescription dispensing through the system, labelling requirements, and counselling.\n\n(h) The system shall provide electronic identification or individual log in and passwords for patients to access the system.\n\n(i) The system shall include a mechanism to ensure that the patient or an authorized agent of the patient has a means to communicate with a pharmacist regarding the medical drug product.\n\n(j) The means of communication shall include at least one of the following:\n\n(1) In person;\n\n(2) Telephone; or\n\n(3) Interactive face to face electronic communication.\n\n(k) The system shall maintain a readily retrievable electronic record to identify all pharmacists, pharmacy interns, licensed advanced pharmacy technicians, certified pharmacy technicians, and registered pharmacy technicians involved in the dispensing of a prescription.\n\n(l) After-hours access by the patient shall permitted provided all the criteria in (f) and (g) are followed.\n\n(m) No automated pharmacy system shall be installed in compliance with the board’s rules.\n\nSource. #13465, eff 12-19-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

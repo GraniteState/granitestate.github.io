@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/2505.02",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "V",
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:47-i",
+      "source": "https://granitestate.github.io/rsa/318/318-47-i",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-47-i"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/2405",
+  "definition": "Pharmacist Standards of Practice",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 2505.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph.html",
+  "prefLabel": "Ph 2505.02 Pharmacist Standards of Practice",
+  "recordType": "rule-section",
+  "ruleText": "Section Ph 2505.02 Pharmacist Standards of Practice",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph.html"
+}

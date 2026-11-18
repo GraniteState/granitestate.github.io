@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.15",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Out-of-state Laboratories Applying for Accreditation with NH ELAP as a Secondary Accreditation Body",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.15 Out-of-state Laboratories Applying for Accreditation with NH ELAP as a Secondary Accreditation Body",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.15 Out-of-state Laboratories Applying for Accreditation with NH ELAP as a Secondary Accreditation Body.\n\n(a) Any laboratory located outside of New Hampshire applying for accreditation with the department as a secondary accreditation body shall submit a complete application as specified in Env-C 303.12.\n\n(b) The laboratory shall also submit the following with the application:\n\n(1) A copy of the certificate and analyte list(s) from its primary accreditation body with each accredited method, matrix, and analyte combination noted and the expiration date clearly indicated;\n\n(2) A copy of any assessment report not more than 2 years old that was used to obtain the accreditation for each area accreditation is requested or was based on a complaint investigation;\n\n(3) A copy of the response to each assessment report provided pursuant to (2), above, as applicable; and\n\n(4) Copies of results from participation in proficiency test (PT) studies.\n\n(c) The department shall recognize the accreditation granted by another primary accreditation body for the same matrix, method, and analyte combination that the department accredits laboratories as a primary accreditation body.\n\n(d) The department shall recognize the accreditation for groups of analytes granted by another primary accreditation body only if the group is identical to a group that would be accredited by the department as the primary accreditation body.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

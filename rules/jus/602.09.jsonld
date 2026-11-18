@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.09",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "altLabel": "Commission Preparation",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Commission preparation",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#9553, eff 9-25-09, EXPIRED: 9-25-17 New. #12938, eff 12-9-19 (formerly Jus 602.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.09 Commission preparation",
+  "priorExpiration": "2017-09-25",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.09 “Commission preparation” means the stage of the claim process during which the claimant secures the necessary documentation and information to support the claim.\n\nSource. #9553, eff 9-25-09, EXPIRED: 9-25-17\n\nNew. #12938, eff 12-9-19 (formerly Jus 602.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

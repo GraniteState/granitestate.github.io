@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pda/308",
+  "@type": "Concept",
+  "agencyCode": "Pda",
+  "broader": "https://granitestate.github.io/rules/pda/300",
+  "definition": "ABSENCE FROM PILOTAGE AREA",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pda/308.01",
+    "https://granitestate.github.io/rules/pda/308.02",
+    "https://granitestate.github.io/rules/pda/308.03",
+    "https://granitestate.github.io/rules/pda/308.04",
+    "https://granitestate.github.io/rules/pda/308.05"
+  ],
+  "notation": "Pda 308",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html",
+  "prefLabel": "Pda 308 ABSENCE FROM PILOTAGE AREA",
+  "recordType": "rule-part",
+  "ruleText": "PART Pda 308 ABSENCE FROM PILOTAGE AREA",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pda100-700.html"
+}

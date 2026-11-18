@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/520",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:25",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-25",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/500",
+  "definition": "MOTIONS AND OBJECTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/520.01"
+  ],
+  "notation": "Lab 520",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab500.html",
+  "prefLabel": "Lab 520 MOTIONS AND OBJECTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 520 MOTIONS AND OBJECTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab500.html"
+}

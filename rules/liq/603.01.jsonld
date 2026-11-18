@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/603.01",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "126-K",
+      "source": "https://granitestate.github.io/rsa/126-K",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "175:1",
+      "source": "https://granitestate.github.io/rsa/175/175-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "178:5",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:56",
+      "paragraphs": [
+        "III(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "179:57",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/179/179-57",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-K",
+    "https://granitestate.github.io/rsa/175/175-1",
+    "https://granitestate.github.io/rsa/179/179-57"
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/603",
+  "definition": "Commission Compliance",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "(See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Liq 603.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 603.01 Commission Compliance",
+  "recordType": "rule-section",
+  "ruleText": "Liq 603.01 Commission Compliance. The commission shall determine the level of the violation by reviewing the licensee's record and counting violations that have occurred within 3 years of the date of the violation being considered. The commission shall notify the commissioner of revenue administration prior to the effective date of any suspension or revocation.\n\nSource. (See Revision Note at chapter heading for Liq 600) #13983, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

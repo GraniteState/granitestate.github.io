@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.05",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Required Ownership Information",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.05 Required Ownership Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.05 Required Ownership Information. The ownership information required by Env-Dw 303.03(d) shall be as follows:\n\n(a) Whether the laboratory seeking accreditation is owned by a business entity or a government entity;\n\n(b) If the laboratory is owned by a business entity, the following:\n\n(1) The type of business entity, such as corporation, a limited liability corporation, a partnership, a sole proprietorship, or another type, which shall be identified;\n\n(2) The legal name of the business entity, if other than the legal name of the laboratory;\n\n(3) The date the laboratory registered with the New Hampshire secretary of state;\n\n(4) If the owner is a corporation, the date and state of incorporation; and\n\n(5) The name and title of each principal official of the business entity, such as corporate officers or general partners; and\n\n(c) If the laboratory is owned by a governmental entity, the name and primary mailing address of the federal, state, or local agency that owns the laboratory, if different from the information provided pursuant to Env-C 303.04(a).\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

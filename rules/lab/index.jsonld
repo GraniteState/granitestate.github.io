@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "definition": "Commissioner, Department of Labor",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/100",
+    "https://granitestate.github.io/rules/lab/200",
+    "https://granitestate.github.io/rules/lab/300",
+    "https://granitestate.github.io/rules/lab/400",
+    "https://granitestate.github.io/rules/lab/500",
+    "https://granitestate.github.io/rules/lab/600",
+    "https://granitestate.github.io/rules/lab/700",
+    "https://granitestate.github.io/rules/lab/800",
+    "https://granitestate.github.io/rules/lab/900",
+    "https://granitestate.github.io/rules/lab/1000",
+    "https://granitestate.github.io/rules/lab/1200",
+    "https://granitestate.github.io/rules/lab/1300",
+    "https://granitestate.github.io/rules/lab/1400",
+    "https://granitestate.github.io/rules/lab/1500",
+    "https://granitestate.github.io/rules/lab/1600",
+    "https://granitestate.github.io/rules/lab/1700"
+  ],
+  "notation": "Lab",
+  "prefLabel": "Lab Commissioner, Department of Labor",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

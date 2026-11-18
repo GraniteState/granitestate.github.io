@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/5901.03",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "authority": [
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "X-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "227-G:10",
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/227-G/227-G-4",
+    "https://granitestate.github.io/rsa/227-G/227-G-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/5901",
+  "definition": "Convictions",
+  "effectiveDate": "2014-03-21",
+  "historyNote": "#10547, eff 3-21-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 5901.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html",
+  "prefLabel": "Res 5901.03 Convictions",
+  "recordType": "rule-section",
+  "ruleText": "Res 5901.03 Convictions. For the purposes of this section, conviction shall mean any criminal, civil, or administrative findings of guilt by a governmental entity upon proper adjudication.\n\nSource. #10547, eff 3-21-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res5200-5900.html"
+}

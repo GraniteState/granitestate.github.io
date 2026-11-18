@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/2005.04",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "611:19",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/2005",
+  "definition": "Drug/Medication Inventory Form",
+  "effectiveDate": "2007-07-14",
+  "historyNote": "#8937, eff 7-14-07",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 2005.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus2000.html",
+  "prefLabel": "Jus 2005.04 Drug/Medication Inventory Form",
+  "recordType": "rule-section",
+  "ruleText": "Jus 2005.04 Drug/Medication Inventory Form.\n\n(a) In accordance with Jus 2004.05 (e), the responding ME shall complete Form ME-3 “Drug/Medication Inventory Form” for each death investigation in which the responding ME gathers or is given custody of medications that might be relevant to such investigation.\n\n(b) The responding ME shall document taking medication into custody by providing the following on Form ME-3:\n\n(1) The name, date of birth, age, date of death, and address of the deceased;\n\n(2) The OCME case number if known;\n\n(3) The name, strength, and dosage of the medication;\n\n(4) A description of any markings or imprints on the medication if the medication does not appear to represent what should be in the container;\n\n(5) The date the prescription was issued;\n\n(6) The number issued;\n\n(7) The instructions on the medication;\n\n(8) The name of the prescribing health care provider;\n\n(9) The name, address, and telephone number of the pharmacy;\n\n(10) The name of the ME completing the form and the date completed; and\n\n(11) The name of the person who witnessed the ME complete the form and the date.\n\nSource. #8937, eff 7-14-07",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus2000.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/602.21",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/602",
+  "definition": "Mental Health Practitioner",
+  "effectiveDate": "2019-12-09",
+  "historyNote": "#9553, eff 9-25-09, EXPIRED: 9-25-17 New. #12938, eff 12-9-19 (formerly Jus 602.18)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 602.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html",
+  "prefLabel": "Jus 602.21 Mental Health Practitioner",
+  "priorExpiration": "2017-09-25",
+  "recordType": "rule-section",
+  "ruleText": "Jus 602.21 “Mental Health Practitioner” means “mental health practitioner” as defined in RSA 330-A: 2, VII, namely, “persons licensed under this chapter as psychologists, pastoral psychotherapists, clinical social workers, clinical mental health counselors, or marriage and family therapists. For purposes of this chapter, the term clinical social worker shall include independent clinical social worker.” The term also includes those who hold one or more analogous licenses issued by any other state, province, or country.\n\nSource. #9553, eff 9-25-09, EXPIRED: 9-25-17\n\nNew. #12938, eff 12-9-19 (formerly Jus 602.18)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus600.html"
+}

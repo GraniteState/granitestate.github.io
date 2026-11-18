@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ph/1002.03",
+  "@type": "Concept",
+  "agencyCode": "Ph",
+  "authority": [
+    {
+      "citation": "318:5-a",
+      "paragraphs": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:42",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/318/318-42",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:51-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-B:5",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-5-a",
+    "https://granitestate.github.io/rsa/318/318-42"
+  ],
+  "broader": "https://granitestate.github.io/rules/ph/1002",
+  "definition": "Security",
+  "effectiveDate": "2016-10-22",
+  "historyNote": "#12007, eff 10-22-16 (formerly Ph 309.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ph 1002.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html",
+  "prefLabel": "Ph 1002.03 Security",
+  "recordType": "rule-section",
+  "ruleText": "Ph 1002.03 Security.\n\n(a) Each wholesale drug distribution center shall be equipped with an internal alarm system to detect entry after hours. The alarm system shall be of the type that transmits a signal directly to a central station protection company, to a local or state police agency that has a legal duty to respond, or a 24 hour control station operated by the wholesale drug distributor.\n\n(b) Manufacturers and wholesale drug distributors shall ensure that all access from outside their premises is secure. This shall include, but not be limited to, the installation of adequate lighting at the outside perimeter of the premises.\n\n(c) Internal security policies shall be developed to provide protection against theft by personnel.\n\nSource. #12007, eff 10-22-16 (formerly Ph 309.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ph100-2600.html"
+}

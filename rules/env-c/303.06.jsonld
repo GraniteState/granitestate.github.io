@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303.06",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485:47",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/303",
+  "definition": "Required Laboratory Operation Information",
+  "effectiveDate": "2021-11-23",
+  "historyNote": "(See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 303.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303.06 Required Laboratory Operation Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 303.06 Required Laboratory Operation Information. The laboratory operational information required by Env-C 303.03(e) shall be as follows:\n\n(a) The type of laboratory, type of building housing the laboratory, floor plan space, utilities, and computer systems, including software;\n\n(b) A list of all general use laboratory equipment, including the name and description of the equipment, the manufacturer, the manufacturer’s make and model, and the age and year purchased;\n\n(c) Each matrix, method, and analyte combination for which accreditation is being sought;\n\n(d) The analytical methodology and equipment used for each analyte, matrix, and method combination for which accreditation is being sought;\n\n(e) For a mobile laboratory, the vehicle identification number (VIN) or serial number;\n\n(f) Laboratory hours of operation; and\n\n(g) A demonstration of capability data for each new matrix, method, and analyte combination for which accreditation is sought.\n\nSource. (See Revision Note at chapter heading for Env-C 300) #12065, eff 1-1-17; ss by #13291, eff 11-23-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

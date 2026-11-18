@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/liq/306",
+  "@type": "Concept",
+  "agencyCode": "Liq",
+  "authority": [
+    {
+      "citation": "176:13",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "176:14",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "177:7",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/liq/300",
+  "definition": "COST CHANGES AND PROHIBITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/liq/306.01",
+    "https://granitestate.github.io/rules/liq/306.02",
+    "https://granitestate.github.io/rules/liq/306.03"
+  ],
+  "notation": "Liq 306",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html",
+  "prefLabel": "Liq 306 COST CHANGES AND PROHIBITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Liq 306 COST CHANGES AND PROHIBITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/liq100-1100.html"
+}

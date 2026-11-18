@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/807.02",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-29",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/807",
+  "definition": "Docket Numbers",
+  "effectiveDate": "2000-05-03",
+  "historyNote": "#7129, eff 5-3-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Jus 807.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html",
+  "prefLabel": "Jus 807.02 Docket Numbers",
+  "recordType": "rule-section",
+  "ruleText": "Jus 807.02 Docket Numbers. A docket number shall be assigned to each matter to be heard which shall appear on the notice of hearing and all subsequent orders or decisions of the agency.\n\nSource. #7129, eff 5-3-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus800.html"
+}

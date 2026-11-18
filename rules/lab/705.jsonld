@@ -1,0 +1,26 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/705",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:38-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/700",
+  "definition": "PROCEDURE TO REQUEST AN INDEPENDENT MEDICAL EXAMINATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/705.01",
+    "https://granitestate.github.io/rules/lab/705.02",
+    "https://granitestate.github.io/rules/lab/705.03"
+  ],
+  "notation": "Lab 705",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab700.html",
+  "prefLabel": "Lab 705 PROCEDURE TO REQUEST AN INDEPENDENT MEDICAL EXAMINATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 705 PROCEDURE TO REQUEST AN INDEPENDENT MEDICAL EXAMINATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab700.html"
+}

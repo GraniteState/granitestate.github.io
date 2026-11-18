@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/214.10",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "294-E",
+      "source": "https://granitestate.github.io/rsa/294-E",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/294-E",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/214",
+  "definition": "Penalties and Other Remedies",
+  "effectiveDate": "2019-09-30",
+  "historyNote": "#12880, eff 9-30-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-C 214.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html",
+  "prefLabel": "Env-C 214.10 Penalties and Other Remedies",
+  "recordType": "rule-section",
+  "ruleText": "Env-C 214.10 Penalties and Other Remedies.\n\n(a) A reporter or signatory shall be subject to any applicable administrative, civil, or criminal penalties or other remedies established in New Hampshire law if the reporter or signatory fails to comply with a reporting requirement by failing to comply with:\n\n(1) This part;\n\n(2) A certificate of authority or subscriber agreement; or\n\n(3) Any other applicable reporting requirements.\n\n(b) Nothing in this part or any other requirement of an authorized program shall limit the use of an electronic document, copy of record, or other information derived from an electronic document as evidence in an enforcement proceeding.\n\nSource. #12880, eff 9-30-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c200.html"
+}

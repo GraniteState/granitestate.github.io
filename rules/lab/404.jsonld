@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lab/404",
+  "@type": "Concept",
+  "agencyCode": "Lab",
+  "authority": [
+    {
+      "citation": "281-A:2",
+      "paragraphs": [
+        "VIII",
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:5-a",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-5-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:5-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "281-A:7",
+      "source": "https://granitestate.github.io/rsa/281-A/281-A-7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/281-A/281-A-2",
+    "https://granitestate.github.io/rsa/281-A/281-A-5",
+    "https://granitestate.github.io/rsa/281-A/281-A-5-a",
+    "https://granitestate.github.io/rsa/281-A/281-A-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/lab/400",
+  "definition": "ASSOCIATION OR GROUP SELF-INSURANCE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lab/404.01"
+  ],
+  "notation": "Lab 404",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html",
+  "prefLabel": "Lab 404 ASSOCIATION OR GROUP SELF-INSURANCE",
+  "recordType": "rule-part",
+  "ruleText": "PART Lab 404 ASSOCIATION OR GROUP SELF-INSURANCE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lab400.html"
+}

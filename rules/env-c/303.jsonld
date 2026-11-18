@@ -1,0 +1,63 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-c/303",
+  "@type": "Concept",
+  "agencyCode": "Env-C",
+  "authority": [
+    {
+      "citation": "485:44",
+      "paragraphs": [
+        "I",
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-44",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:46",
+      "source": "https://granitestate.github.io/rsa/485/485-46",
+      "via": "appendix"
+    },
+    {
+      "citation": "485:47",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-44",
+    "https://granitestate.github.io/rsa/485/485-46"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-c/300",
+  "definition": "APPLICATIONS FOR ACCREDITATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-c/303.01",
+    "https://granitestate.github.io/rules/env-c/303.02",
+    "https://granitestate.github.io/rules/env-c/303.03",
+    "https://granitestate.github.io/rules/env-c/303.04",
+    "https://granitestate.github.io/rules/env-c/303.05",
+    "https://granitestate.github.io/rules/env-c/303.06",
+    "https://granitestate.github.io/rules/env-c/303.07",
+    "https://granitestate.github.io/rules/env-c/303.08",
+    "https://granitestate.github.io/rules/env-c/303.09",
+    "https://granitestate.github.io/rules/env-c/303.10",
+    "https://granitestate.github.io/rules/env-c/303.11",
+    "https://granitestate.github.io/rules/env-c/303.12",
+    "https://granitestate.github.io/rules/env-c/303.13",
+    "https://granitestate.github.io/rules/env-c/303.14",
+    "https://granitestate.github.io/rules/env-c/303.15",
+    "https://granitestate.github.io/rules/env-c/303.16",
+    "https://granitestate.github.io/rules/env-c/303.17",
+    "https://granitestate.github.io/rules/env-c/303.18",
+    "https://granitestate.github.io/rules/env-c/303.19",
+    "https://granitestate.github.io/rules/env-c/303.20",
+    "https://granitestate.github.io/rules/env-c/303.21",
+    "https://granitestate.github.io/rules/env-c/303.22"
+  ],
+  "notation": "Env-C 303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html",
+  "prefLabel": "Env-C 303 APPLICATIONS FOR ACCREDITATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-C 303 APPLICATIONS FOR ACCREDITATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-c300.html"
+}

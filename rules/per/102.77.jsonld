@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/per/102.77",
+  "@type": "Concept",
+  "agencyCode": "Per",
+  "altLabel": "Reduction in Force",
+  "authority": [
+    {
+      "citation": "21-I:43",
+      "paragraphs": [
+        "II(a)",
+        "(e)",
+        "(g)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-43",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/per/102",
+  "definition": "Reduction in force",
+  "effectiveDate": "2025-12-01",
+  "historyNote": "#5373, eff 4-27-92; ss by #6729, eff 4-21-9; renumbered by #10238 (from Per 102.47); renumbered by #10801 (from Per 102.48) ss by #13667, eff 6-22-23 (formerly Per 102.64); renumbered by #14065-A; renumbered by #14132-A; ss by #14434 (formerly Per 102.66), eff 12-1-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Per 102.77",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html",
+  "prefLabel": "Per 102.77 Reduction in force",
+  "recordType": "rule-section",
+  "ruleText": "Per 102.77 “Reduction in force” means a condition in which the total number of employees within an agency is reduced due to a layoff.\n\nSource. #5373, eff 4-27-92; ss by #6729, eff 4-21-9; renumbered by #10238 (from Per 102.47); renumbered by #10801 (from Per 102.48) ss by #13667, eff 6-22-23 (formerly Per 102.64); renumbered by #14065-A; renumbered by #14132-A; ss by #14434 (formerly Per 102.66), eff 12-1-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/per100-1500.html"
+}

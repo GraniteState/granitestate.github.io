@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/res/7802.06",
+  "@type": "Concept",
+  "agencyCode": "Res",
+  "altLabel": "Non-Payment of Fines",
+  "authority": [
+    {
+      "citation": "12-A:2-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:3-b",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:3-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "227-G:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/227-G/227-G-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-3-b",
+    "https://granitestate.github.io/rsa/215-C/215-C-3-a",
+    "https://granitestate.github.io/rsa/227-G/227-G-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/res/7802",
+  "definition": "Non-payment of Fines",
+  "effectiveDate": "2014-03-01",
+  "historyNote": "#10534, eff 3-1-14",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Res 7802.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7800.html",
+  "prefLabel": "Res 7802.06 Non-payment of Fines",
+  "recordType": "rule-section",
+  "ruleText": "Res 7802.06 Non-payment of Fines. Administrative fine payments not received within 20 days of the notice of violation in uncontested cases or within 20 days where a ruling has been made against the person shall be charged a non-payment fine in addition to the original fine amount as follows:\n\n(a) After 20 days but prior to 30 days, the fine amount shall be $25.00;\n\n(b) After 30 days but prior to 50 days, the fine amount shall be $50.00; and\n\n(c) After 50 days the fine amount shall be $75.00.\n\n(d) After 75 days the matter shall be forwarded to state attorney general’s debt recovery office pursuant to RSA 7:15-a.\n\nSource. #10534, eff 3-1-14",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/res7800.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pes/100",
+  "@type": "Concept",
+  "agencyCode": "Pes",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/pes",
+  "definition": "ORGANIZATION RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/pes/101",
+    "https://granitestate.github.io/rules/pes/102",
+    "https://granitestate.github.io/rules/pes/103"
+  ],
+  "notation": "Pes 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html",
+  "prefLabel": "Pes 100 ORGANIZATION RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Pes 100 ORGANIZATION RULES\n\nStatutory Definitions: RSA 430:31",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pes100.html"
+}

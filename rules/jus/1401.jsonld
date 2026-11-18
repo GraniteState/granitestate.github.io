@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/jus/1401",
+  "@type": "Concept",
+  "agencyCode": "Jus",
+  "authority": [
+    {
+      "citation": "356-B:48",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "356-B:49",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/jus/1400",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/jus/1401.01",
+    "https://granitestate.github.io/rules/jus/1401.02",
+    "https://granitestate.github.io/rules/jus/1401.03",
+    "https://granitestate.github.io/rules/jus/1401.04",
+    "https://granitestate.github.io/rules/jus/1401.05",
+    "https://granitestate.github.io/rules/jus/1401.06",
+    "https://granitestate.github.io/rules/jus/1401.07"
+  ],
+  "notation": "Jus 1401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1400.html",
+  "prefLabel": "Jus 1401 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Jus 1401 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/jus1400.html"
+}
