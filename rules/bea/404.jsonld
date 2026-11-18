@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/404",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "broader": "https://granitestate.github.io/rules/bea/400",
+  "definition": "APPLICATION FOR BMGI FUNDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bea/404.01",
+    "https://granitestate.github.io/rules/bea/404.02",
+    "https://granitestate.github.io/rules/bea/404.03",
+    "https://granitestate.github.io/rules/bea/404.04",
+    "https://granitestate.github.io/rules/bea/404.05"
+  ],
+  "notation": "Bea 404",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html",
+  "prefLabel": "Bea 404 APPLICATION FOR BMGI FUNDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Bea 404 APPLICATION FOR BMGI FUNDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html"
+}

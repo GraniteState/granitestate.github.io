@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/int",
+  "@type": "Concept",
+  "agencyCode": "Int",
+  "definition": "Board of Licensing for Interpreters of the Deaf and Hard of Hearing (See RSA 326-I:5, pursuant to 2001, 232:1, effective 7-1-01.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/int/100",
+    "https://granitestate.github.io/rules/int/200",
+    "https://granitestate.github.io/rules/int/300",
+    "https://granitestate.github.io/rules/int/400",
+    "https://granitestate.github.io/rules/int/500"
+  ],
+  "notation": "Int",
+  "prefLabel": "Int Board of Licensing for Interpreters of the Deaf and Hard of Hearing",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

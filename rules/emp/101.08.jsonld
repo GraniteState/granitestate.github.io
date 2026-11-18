@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/101.08",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "altLabel": "Immediately Available",
+  "authority": [
+    {
+      "citation": "282-A",
+      "source": "https://granitestate.github.io/rsa/282-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/282-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/101",
+  "definition": "Immediately available",
+  "effectiveDate": "2013-05-07",
+  "historyNote": "#10193, INTERIM, eff 10-1-12, EXPIRED: 4-1-13 New. #10329-A, eff 5-7-13",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emp 101.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 101.08 Immediately available",
+  "priorExpiration": "2013-04-01",
+  "recordType": "rule-section",
+  "ruleText": "Emp 101.08 “Immediately available” means based on the current labor market the claimant is likely to successfully obtain such work in 27 or fewer calendar days.\n\nSource. #10193, INTERIM, eff 10-1-12, EXPIRED: 4-1-13\n\nNew. #10329-A, eff 5-7-13",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

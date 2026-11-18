@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/605.02",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "153:27",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27",
+    "https://granitestate.github.io/rsa/153/153-27-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/605",
+  "definition": "Limitation on Number of Apprentices",
+  "effectiveDate": "2025-02-12",
+  "expirationDate": "2025-08-11",
+  "historyNote": "#12385, eff 9-20-17; (formerly Saf-Mec 605.02) (see Revision Note at chapter heading for Mec 600); ss by #13682, eff 9-10-23; ss by #14190, INTERIM, eff 2-12-25, EXPIRES: 8-11-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mec 605.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html",
+  "prefLabel": "Mec 605.02 Limitation on Number of Apprentices",
+  "recordType": "rule-section",
+  "ruleText": "Mec 605.02 Limitation on Number of Apprentices.\n\n(a) Relative to apprentices participating in an apprenticeship approved by the United States Department of Labor, plumbing licensees shall supervise apprentices pursuant to 29 CFR 29.\n\n(b) Relative to apprentices participating in an apprenticeship pursuant to Mec 305.01(b), plumbing licensees shall employ at any one time no more than 2 apprentices per licensee.\n\nSource. #12385, eff 9-20-17; (formerly Saf-Mec 605.02) (see Revision Note at chapter heading for Mec 600); ss by #13682, eff 9-10-23; ss by #14190, INTERIM, eff 2-12-25, EXPIRES: 8-11-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html"
+}

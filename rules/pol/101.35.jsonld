@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.35",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "altLabel": "Probationary Period",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "Probationary period",
+  "effectiveDate": "2008-08-01",
+  "historyNote": "#5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.35",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.35 Probationary period",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.35 \"Probationary period\" means employment as a police or corrections officer for a period of 12 consecutive months with a single agency.\n\nSource. #5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

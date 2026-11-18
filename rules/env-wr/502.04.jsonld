@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/502.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:11-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:87",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/502",
+  "definition": "Specific Requirements and Breach Parameters",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "#1716, eff 2-20-81; ss by #2207, eff 12-13-82; ss by #2900, eff 11-7-84; amd by #4580, eff 2-27-89; ss by #5080, eff 2-22-91; ss by #6462-B, eff 2-21-97; ss by #8285, INTERIM, eff 2-21-05, EXPIRES: 8-20-05; ss by #8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24 (formerly Env-Wr 502.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wr 502.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 502.04 Specific Requirements and Breach Parameters",
+  "priorExpiration": "2005-08-20",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wr 502.04 Specific Requirements and Breach Parameters.\n\n(a) The dam breach analysis shall be performed under the direction of and stamped by an engineer licensed in New Hampshire and experienced in hydrology, hydraulics, and breach modeling.\n\n(b) The breach parameters shall be in accordance with Table 5.1 and Figure 5.1 below, unless the department approves the use of other parameters pursuant to (c), below:\n\nTable 5.1 Dam Breach Parameters\n\nPARAMETER | TYPE OF DAM | VALUE\n\nAverage Width of Breach (BR) | Arch | BR = Crest Length\n\nMasonry, Gravity | BR = Width of one or more monoliths, usually BR ≤0.5 W\n\nEarth, Rockfill, Timber Crib | HD ≤ BR ≤ 5HD (usually between 2HD and 4HD)\n\nHorizontal Component of Side Slope of Breach (Z) | Arch | 0 ≤ Z ≤ slope of valley walls\n\nMasonry, Gravity | Z = 0\n\nEarth, Rockfill, Timber Crib | 1/4 ≤ Z ≤ 1\n\nTime to Failure (TFH) in hours | Arch | TFH ≤ 0.1\n\nMasonry, Gravity | 0.1 ≤ TFH ≤ 0.3\n\nEarthen (Engineered, Compacted) Timber Crib | 0.1 ≤ TFH ≤ 1.0\n\nEarthen (Non-Engineered, Poor Construction) | 0.1 ≤ TFH ≤ 0.5\n\n(c) The department shall allow use of different parameters due to specific dam or site conditions, if the dam owner demonstrates by clear and convincing evidence that the use of the alternative parameters would result in an accurate model and would not underestimate the effects of a dam failure.\n\n(d) A dam breach flow shall be routed together with each of the following base flows:\n\n(1) The sunny day flow;\n\n(2) The 50-year design event; and\n\n(3) The 100-year design event.\n\n(e) The breach flow together with the base flows in (d), above, shall:\n\n(1) Be routed downstream of the dam with downstream inflows; and\n\n(2) Include provisions to identify the number of hours or minutes from the start of a failure to the time when the river initially starts to rise, breach wave arrival time, and the time to reach peak stage, time to peak.\n\n(f) Peak flow velocities also shall be determined and shown on the inundation map for critical stations such as road crossings and populated areas below the dam.\n\n(g) The routing shall continue downstream until the point at which the water surface elevation due to dam failure is 1 foot above the non-failure conditions in areas of potential threat to life and major property damage.\n\nSource. #1716, eff 2-20-81; ss by #2207, eff 12-13-82; ss by #2900, eff 11-7-84; amd by #4580, eff 2-27-89; ss by #5080, eff 2-22-91; ss by #6462-B, eff 2-21-97; ss by #8285, INTERIM, eff 2-21-05, EXPIRES: 8-20-05; ss by #8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24 (formerly Env-Wr 502.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

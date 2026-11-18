@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/504.14",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:5",
+      "paragraphs": [
+        "III(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/541-A/541-A-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/504",
+  "definition": "Department Impact Report",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 504.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 504.14 Department Impact Report",
+  "recordType": "rule-section",
+  "ruleText": "Bea 504.14 Department Impact Report.\n\n(a) Each year the department shall develop a report which:\n\n(1) Describes department activities related to the operation of the New Hampshire HC designation program in the preceding state fiscal year;\n\n(2) Assesses the overall impact of the New Hampshire HC designation program;\n\n(3) Assesses the total number of new units of workforce housing and new housing units which were permitted and produced as a result of the program’s operation and incentives; and\n\n(4) Details other notable data related to the results and impact of the program.\n\n(b) The report required by this section shall be submitted to the governor, the speaker of the house of representatives, and the president of the senate on or before November 1 of each year, beginning in 2024.\n\n(c) Upon submission, the report shall be posted online on the website of the department.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

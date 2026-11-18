@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/511.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:72",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-72",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:73",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-73",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-72",
+    "https://granitestate.github.io/rsa/12-O/12-O-73",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/511",
+  "definition": "Administrative Review Procedure and Time Limits",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 511.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 511.01 Administrative Review Procedure and Time Limits",
+  "recordType": "rule-section",
+  "ruleText": "Bea 511.01 Administrative Review Procedure and Time Limits.\n\n(a) This section shall be applicable to each applicant that has applied for municipal grant funds and either received no funds or fewer funds than requested.\n\n(b) Applicants may apply for an administrative review of the scoring of its application by filing a written request within 15 calendar days after an award notice by the department.\n\n(c) The request for an administrative review shall be signed by the chief executive officer of the municipality or governing body appointed designee and shall contain the reason for the requested review. The request shall not introduce new information and shall only explain or clarify information contained in the application submitted.\n\n(d) The department shall review and respond to the written request within 15 calendar days after receipt of the request. The department, based on the information in the request as well as the scoring criteria, shall affirm or modify the prior decision.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/204.02",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/204",
+  "definition": "Undue Hardship",
+  "effectiveDate": "2008-06-13",
+  "historyNote": "#7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 204.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 204.02 Undue Hardship",
+  "recordType": "rule-section",
+  "ruleText": "We 204.02 Undue Hardship. As used in these rules, \"undue hardship\" means a hardship which arises from a unique circumstance which unreasonably restricts the ability of a water well contractor or pump installer to obtain a license, or the ability of a water well contractor or land owner to construct a well or the ability of a pump installer or land owner to install a pump.\n\nSource. #7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

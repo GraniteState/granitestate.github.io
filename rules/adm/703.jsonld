@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/703",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I:7-c",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-7-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I/21-I-7-c"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/700",
+  "definition": "AGENCY OBLIGATIONS WITH RESPECT TO HEALTH AND SAFETY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/703.01",
+    "https://granitestate.github.io/rules/adm/703.02",
+    "https://granitestate.github.io/rules/adm/703.03"
+  ],
+  "notation": "Adm 703",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm700.html",
+  "prefLabel": "Adm 703 AGENCY OBLIGATIONS WITH RESPECT TO HEALTH AND SAFETY",
+  "recordType": "rule-part",
+  "ruleText": "PART Adm 703 AGENCY OBLIGATIONS WITH RESPECT TO HEALTH AND SAFETY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm700.html"
+}

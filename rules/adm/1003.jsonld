@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1003",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "604-A:2",
+      "source": "https://granitestate.github.io/rsa/604-A/604-A-2",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/604-A/604-A-2"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1000",
+  "definition": "APPLICATION FOR APPOINTED COUNSEL OR STATE PAYMENT FOR OTHER DEFENSE SERVICES OR EXPENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/1003.01",
+    "https://granitestate.github.io/rules/adm/1003.02",
+    "https://granitestate.github.io/rules/adm/1003.03",
+    "https://granitestate.github.io/rules/adm/1003.04",
+    "https://granitestate.github.io/rules/adm/1003.05"
+  ],
+  "notation": "Adm 1003",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1003 APPLICATION FOR APPOINTED COUNSEL OR STATE PAYMENT FOR OTHER DEFENSE SERVICES OR EXPENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Adm 1003 APPLICATION FOR APPOINTED COUNSEL OR STATE PAYMENT FOR OTHER DEFENSE SERVICES OR EXPENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

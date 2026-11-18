@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/501.07",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "authority": [
+    {
+      "citation": "318-B:41",
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-41",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318-E:10",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-41"
+  ],
+  "broader": "https://granitestate.github.io/rules/nat/501",
+  "definition": "Medication Assisted Treatment",
+  "effectiveDate": "2017-02-22",
+  "historyNote": "#12113, eff 2-22-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nat 501.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 501.07 Medication Assisted Treatment",
+  "recordType": "rule-section",
+  "ruleText": "Nat 501.07 Medication Assisted Treatment. Licensees who prescribe medication assisted treatment shall adhere to the principles outlined in the American Society of Addiction Medicine’s National Practice Guideline For the Use of Medications in the Treatment of Addiction Involving Opioid Use (2015) found at http://www.asam.org/quality-practice/guidelines-and-consensus-documents/npg/complete-guideline as cited in Appendix II.\n\nSource. #12113, eff 2-22-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

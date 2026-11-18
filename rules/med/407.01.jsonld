@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/407.01",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329/329-13-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/407",
+  "definition": "Definitions",
+  "effectiveDate": "2020-01-10",
+  "historyNote": "#5402, eff 5-22-92; ss by #5690, eff 8-26-93; rpld by #6517, eff 5-30-97; ss by #7150, eff 12-7-99; ss by #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note #1 at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 407.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 407.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Med 407.01 Definitions.\n\n(a) \"Contract\" means a contract voluntarily entered into between a licensee and a program that has been approved pursuant to Med 407.02, which contains requirements designed to protect the public from harm.\n\n(b) “Director” means a person designated by a program to oversee the program of a licensee under the terms of the contract or to provide physical or mental care to said licensee.\n\n(c) “Monitor” means the individual or individuals who are charged with overseeing the programs’ recommendations.\n\n(d) \"Program\" means an organization approved by the board to design and provide dependable oversight programs for licensees impaired or potentially impaired by physical or mental illness including addiction to alcohol and other drugs.\n\n(e) \"Therapy\" means a patient-therapist relationship prescribed by the contract for the purpose of treatment.\n\n(f) \"Treatment standards\" means the current standards of practice established by medical specialties recognized by the American Board of Medical Specialties.\n\nSource. #5402, eff 5-22-92; ss by #5690, eff 8-26-93; rpld by #6517, eff 5-30-97; ss by #7150, eff 12-7-99; ss by #8945, eff 7-18-07; ss by #9900, eff 4-12-11 (see Revision Note #1 at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

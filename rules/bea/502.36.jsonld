@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.36",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Municipal Grants",
+  "authority": [
+    {
+      "citation": "12-O:69-r",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:74",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-74",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-74"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "“Municipal grants” refers collectively to all grants created pursuant to the HC designation and grant program, pursuant to RSA 12-O:69 through RSA 12-O:74",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.36",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.36 “Municipal grants” refers collectively to all grants created pursuant to the HC designation and grant program, pursuant to RSA 12-O:69 through RSA 12-O:74",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.36 “Municipal grants” refers collectively to all grants created pursuant to the HC designation and grant program, pursuant to RSA 12-O:69 through RSA 12-O:74.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

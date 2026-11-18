@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/103.02",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:4",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/103",
+  "definition": "Custodian of Records",
+  "effectiveDate": "2025-01-31",
+  "historyNote": "#6908, eff 12-9-98; ss by #14140, eff 1-31-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 103.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 103.02 Custodian of Records",
+  "recordType": "rule-section",
+  "ruleText": "Den 103.02 Custodian of Records. The OPLC shall be the custodian of the board’s records.\n\nSource. #6908, eff 12-9-98; ss by #14140, eff 1-31-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

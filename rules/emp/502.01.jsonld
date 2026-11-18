@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/502.01",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "authority": [
+    {
+      "citation": "282-A",
+      "source": "https://granitestate.github.io/rsa/282-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:1",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/282-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/502",
+  "definition": "Where and How Payments Made",
+  "effectiveDate": "2018-07-23",
+  "historyNote": "#2234, eff 1-1-83; ss by #2930, eff 12-21-84, EXPIRED: 12-21-90 New. #5151, eff 5-6-91; ss by #6504, INTERIM, eff 5-5-97, EXPIRED: 9-2-97; ss by #6566, eff 9-2-97, EXPIRED: 9-2-05 New. #8470, INTERIM, eff 11-1-05, EXPIRED: 4-30-06 New. #8625, eff 5-6-06; ss by #9529, eff 8-17-09; ss by #12480, INTERIM, eff 2-16-18, EXPIRES: 8-15-18; ss by #12589, eff 7-23-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emp 502.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 502.01 Where and How Payments Made",
+  "priorExpiration": "2018-08-15",
+  "recordType": "rule-section",
+  "ruleText": "Emp 502.01 Where and How Payments Made.\n\n(a) Benefits paid to an eligible individual shall be deemed to be paid through an employment office where any or all of the steps relating to the determination of a claimant's eligibility for benefits are made by or at an employment office.\n\n(b) Unless a claimant has elected to receive payment by direct deposit to the claimant's bank account, payment shall be made by mailing a check to the claimant's last address as reported to the department of employment security.\n\nSource. #2234, eff 1-1-83; ss by #2930, eff 12-21-84, EXPIRED: 12-21-90\n\nNew. #5151, eff 5-6-91; ss by #6504, INTERIM, eff 5-5-97, EXPIRED: 9-2-97; ss by #6566, eff 9-2-97, EXPIRED: 9-2-05\n\nNew. #8470, INTERIM, eff 11-1-05, EXPIRED: 4-30-06\n\nNew. #8625, eff 5-6-06; ss by #9529, eff 8-17-09; ss by #12480, INTERIM, eff 2-16-18, EXPIRES: 8-15-18; ss by #12589, eff 7-23-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

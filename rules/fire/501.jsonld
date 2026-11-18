@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/501",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "authority": [
+    {
+      "citation": "21-P:25",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-25",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:28",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:29",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/500",
+  "definition": "OWNERSHIP AND REVOCATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fire/501.01",
+    "https://granitestate.github.io/rules/fire/501.02",
+    "https://granitestate.github.io/rules/fire/501.03"
+  ],
+  "notation": "Fire 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html",
+  "prefLabel": "Fire 501 OWNERSHIP AND REVOCATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Fire 501 OWNERSHIP AND REVOCATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html"
+}

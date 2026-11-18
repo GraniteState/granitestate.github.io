@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/csp/201",
+  "@type": "Concept",
+  "agencyCode": "Csp",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/csp/200",
+  "definition": "IN GENERAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/csp/201.01",
+    "https://granitestate.github.io/rules/csp/201.02"
+  ],
+  "notation": "Csp 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/csp.html",
+  "prefLabel": "Csp 201 IN GENERAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Csp 201 IN GENERAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/csp.html"
+}

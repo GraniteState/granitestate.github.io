@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.30",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "altLabel": "Part-time Police Officer",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "Part-time police officer",
+  "effectiveDate": "2008-08-01",
+  "historyNote": "#5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.30 Part-time police officer",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.30 \"Part-time police officer\" means any law enforcement officer who is not a full-time police officer and who is:\n\n(a) Authorized to make arrests for violations of the criminal, motor vehicle or boating laws of the state;\n\n(b) Appointed or elected by one or more units of government as a police officer; and\n\n(c) Performs those law enforcement duties specifically for those units of government including:\n\n(1) Deputy sheriffs;\n\n(2) Special, auxiliary and reserve officers of:\n\na. A local police department;\n\nb. A county sheriff's department;\n\nc. The division of state police;\n\nd. The division of safety services;\n\ne. The fish and game department;\n\nf. State harbor masters;\n\ng. A person invested with police powers by a municipal government to perform police functions for a college or university; or\n\nh. The department of resources and economic development.\n\nSource. #5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

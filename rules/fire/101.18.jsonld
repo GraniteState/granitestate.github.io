@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/101.18",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "altLabel": "Mental Disorder",
+  "authority": [
+    {
+      "citation": "21-P:25",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-25",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:28",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/101",
+  "definition": "Mental health condition",
+  "effectiveDate": "2025-01-10",
+  "historyNote": "(See Revision Note at chapter heading for Fire 100) #12225-A, eff 6-28-17; ss by #14171, eff 1-10-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fire 101.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html",
+  "prefLabel": "Fire 101.18 Mental health condition",
+  "recordType": "rule-section",
+  "ruleText": "Fire 101.18 “Mental health condition” means a condition defined in the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association, Fifth Edition, Text Revision (DSM-5-TR)(2022), available as provided in Appendix B, diagnosed by a psychologist or psychiatrist, based upon mental status examination or psychological testing.\n\nSource (See Revision Note at chapter heading for Fire 100) #12225-A, eff 6-28-17; ss by #14171, eff 1-10-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html"
+}

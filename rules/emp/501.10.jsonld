@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/501.10",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "authority": [
+    {
+      "citation": "282-A:31",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/282-A/282-A-31",
+      "via": "appendix"
+    },
+    {
+      "citation": "282-A:43",
+      "source": "https://granitestate.github.io/rsa/282-A/282-A-43",
+      "via": "appendix"
+    },
+    {
+      "citation": "282-A:112",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/282-A/282-A-31",
+    "https://granitestate.github.io/rsa/282-A/282-A-43"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/501",
+  "definition": "Wages During Week Claimed",
+  "effectiveDate": "2018-08-23",
+  "historyNote": "#7620, eff 12-30-01; ss by #9626, INTERIM, eff 12-30-09, EXPIRES: 6-28-10; ss by #9740, eff 6-26-10; ss by #12613, eff 8-23-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emp 501.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 501.10 Wages During Week Claimed",
+  "priorExpiration": "2010-06-28",
+  "recordType": "rule-section",
+  "ruleText": "Emp 501.10 Wages During Week Claimed.\n\n(a) A claimant who files a claim for a week during which the claimant performed services for which payment has been received or for which payment is owed shall, when filing such claim, provide any of the following information requested by the department:\n\n(1) The amount of such paid or payable gross wages;\n\n(2) The name and address of the employing unit from which such paid or payable gross wages were earned;\n\n(3) Whether the claimant performed all the work available; and\n\n(4) The reason, if any, for failing to perform all available work.\n\n(b) A claimant who files a claim for a week during which the claimant performed no services, but during which or for which the claimant received vacation pay, severance pay, bonus pay, holiday pay, supplemental employment benefits, wages in lieu of notice, periodic payment of any nature, or similar payment, shall, when filing such claim, provide any of the following information requested by the department:\n\n(1) The gross amount of such payment;\n\n(2) The name and address of the employing unit from which such payment was received; and\n\n(3) The nature of and the reasons for the payment.\n\n(c) If the department determines that information provided by a claimant pursuant to (a) or (b) above might be inaccurate, incomplete, or otherwise require clarification, the department shall request such information from the claimant or from any employer as necessary to complete, clarify or confirm the information provided by the claimant pursuant to (a) or (b) above.\n\nSource. #7620, eff 12-30-01; ss by #9626, INTERIM, eff 12-30-09, EXPIRES: 6-28-10; ss by #9740, eff 6-26-10; ss by #12613, eff 8-23-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

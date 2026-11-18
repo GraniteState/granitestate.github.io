@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/305",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:8",
+      "paragraphs": [
+        "XVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:10",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:11",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/300",
+  "definition": "APPLICANTS APPLYING FOR AN EXEMPTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bar/305.01"
+  ],
+  "notation": "Bar 305",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 305 APPLICANTS APPLYING FOR AN EXEMPTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Bar 305 APPLICANTS APPLYING FOR AN EXEMPTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

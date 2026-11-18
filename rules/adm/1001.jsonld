@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1001",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "604-A",
+      "source": "https://granitestate.github.io/rsa/604-A",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "604-A:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "604-A:10",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/604-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1000",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/adm/1001.01",
+    "https://granitestate.github.io/rules/adm/1001.02"
+  ],
+  "notation": "Adm 1001",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1001 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Adm 1001 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

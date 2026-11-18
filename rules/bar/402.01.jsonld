@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/402.01",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "310:10",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:11",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/402",
+  "definition": "Commencement of Adjudicative Proceedings",
+  "effectiveDate": "2026-04-24",
+  "historyNote": "#14537, eff 4-24-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 402.01 Commencement of Adjudicative Proceedings",
+  "recordType": "rule-section",
+  "ruleText": "Bar 402.01 Commencement of Adjudicative Proceedings. Except for emergency proceedings initiated as provided in Plc 206.07, adjudicative proceedings shall proceed in accordance with Plc 206.06.\n\nSource. #14537, eff 4-24-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

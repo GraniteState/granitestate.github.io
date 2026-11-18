@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/101.23",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "altLabel": "Faradic Unit",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/101",
+  "definition": "Faradic unit",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "(See Revision Note #1 at chapter heading for Bar 100) #6046-a, eff 6-1-95, EXPIRED: 6-1-03 New. #7932, eff 8-3-03; ss by #10412-A, eff 9-19-13 (from Bar 101.16); renumbered by #13810 (formerly Bar 101.17); renumbered by #14459, eff 1-1-26 (formerly Bar 101.15)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 101.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 101.23 Faradic unit",
+  "priorExpiration": "2003-06-01",
+  "recordType": "rule-section",
+  "ruleText": "Bar 101.23 “Faradic unit” means a current is an alternating and interrupted current capable of producing a mechanical reaction without a chemical effect.\n\nSource. (See Revision Note #1 at chapter heading for Bar 100) #6046-a, eff 6-1-95, EXPIRED: 6-1-03\n\nNew. #7932, eff 8-3-03; ss by #10412-A, eff 9-19-13 (from Bar 101.16); renumbered by #13810 (formerly Bar 101.17); renumbered by #14459, eff 1-1-26 (formerly Bar 101.15)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

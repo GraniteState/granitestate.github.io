@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/502.06",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "318-B:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:11",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:37",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-37",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-10",
+    "https://granitestate.github.io/rsa/326-B/326-B-37"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/502",
+  "definition": "Prescription Drug Monitoring Program",
+  "effectiveDate": "2025-08-25",
+  "expirationDate": "2035-08-25",
+  "historyNote": "#11117, eff 6-9-16; ss by #12070, eff 1-1-17 (from Nur 502.05); ss by #14297, eff 8-25-25, EXPIRES: 8-25-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nur 502.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 502.06 Prescription Drug Monitoring Program",
+  "recordType": "rule-section",
+  "ruleText": "Nur 502.06 Prescription Drug Monitoring Program.\n\n(a) Prescribers required to register with the controlled drug prescription health and safety program under RSA 126-A:91, or their delegate, shall query the PDMP to obtain a history of schedule II-IV controlled substances dispensed to a patient, prior to prescribing an initial schedule II, III, and IV opioids for the management or treatment of this patient’s pain and then periodically and at least twice per year, except when:\n\n(1) Controlled medications are to be administered to patients in a health care setting;\n\n(2) The PDMP is inaccessible or not functioning properly, due to an internal or external electronic issue; or\n\n(3) An emergency department is experiencing a higher than normal patient volume such that querying the PDMP database would materially delay care.\n\n(b) A licensee shall document the exceptions described in (a)(2) and (3) above in the patient’s medical record.\n\nSource. #11117, eff 6-9-16; ss by #12070, eff 1-1-17 (from Nur 502.05); ss by #14297, eff 8-25-25, EXPIRES: 8-25-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/201",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A",
+      "source": "https://granitestate.github.io/rsa/313-A",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/200",
+  "definition": "PRACTICE AND PROCEDURE AND WAIVER OF RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bar/201.01",
+    "https://granitestate.github.io/rules/bar/201.02"
+  ],
+  "notation": "Bar 201",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 201 PRACTICE AND PROCEDURE AND WAIVER OF RULES",
+  "recordType": "rule-part",
+  "ruleText": "PART Bar 201 PRACTICE AND PROCEDURE AND WAIVER OF RULES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

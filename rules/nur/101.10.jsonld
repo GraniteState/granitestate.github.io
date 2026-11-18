@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/101.10",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "altLabel": "Licensed Practical Nurse (LPN)",
+  "authority": [
+    {
+      "citation": "326-B:2",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:3",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:19",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-B/326-B-2",
+    "https://granitestate.github.io/rsa/326-B/326-B-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/101",
+  "definition": "Licensed practical nurse (LPN)",
+  "effectiveDate": "2014-04-17",
+  "historyNote": "#8777, eff 12-23-06; ss by #10296, eff 3-22-13; ss by #10569, eff 4-17-14 (from Nur 101.10) (see Revision Note #2 at chapter heading for Nur 100); renumbered by #13672 (formerly Nur 101.11)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nur 101.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 101.10 Licensed practical nurse (LPN)",
+  "recordType": "rule-section",
+  "ruleText": "Nur 101.10 “Licensed practical nurse (LPN)” means “licensed practical nurse” as defined in RSA 326-B:2, V, namely, “an individual who holds a current license to practice practical nursing as defined in RSA 326-B:2, IX.”\n\nSource. #8777, eff 12-23-06; ss by #10296, eff 3-22-13; ss by #10569, eff 4-17-14 (from Nur 101.10) (see Revision Note #2 at chapter heading for Nur 100); renumbered by #13672 (formerly Nur 101.11)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

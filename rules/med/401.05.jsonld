@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/401.05",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "318-B:33",
+      "source": "https://granitestate.github.io/rsa/318-B/318-B-33",
+      "via": "appendix"
+    },
+    {
+      "citation": "329:9",
+      "paragraphs": [
+        "II",
+        "VII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:14",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:16-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "329:16-e",
+      "via": "appendix"
+    },
+    {
+      "citation": "329:16-h",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318-B/318-B-33"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/401",
+  "definition": "Denial of Renewal",
+  "effectiveDate": "2016-03-02",
+  "historyNote": "#4970, eff 11-8-90, EXPIRED: 11-8-96 New. #6517, eff 5-30-97, EXPIRED: 5-30-05 New. #8662, INTERIM, eff 6-16-06, EXPIRED: 12-13-06 New. #8945, eff 7-18-07; amd by #10876, eff 7-8-15; paras. (a)(1)-(3) EXPIRED: 7-18-15; amd by #10925, INTERIM, eff 9-4-15, EXPIRES: 3-2-16; amd by #11048, eff 3-2-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 401.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 401.05 Denial of Renewal",
+  "priorExpiration": "2016-03-02",
+  "recordType": "rule-section",
+  "ruleText": "Med 401.05 Denial of Renewal.\n\n(a) Renewal of a license shall be denied if, after notice and an opportunity for hearing, there is evidence to establish that:\n\n(1) Continuing medical education has not been fulfilled pursuant to Med 402;\n\n(2) The applicant has failed to provide complete or accurate information on the renewal application;\n\n(3) The applicant has committed any unethical act for which discipline could be imposed under RSA 329:17, VI;\n\n(4) If the applicant has previously surrendered a license under Med 412.03(a) and has failed to comply with any necessary requirements of Med 412.02;\n\n(5) Reasons for which an initial application could be denied under RSA 329:14, II; or\n\n(6) The applicant failed to register for the Controlled Drug Prescription Health and Safety Program pursuant to RSA 318-B:33, II and Ph 1503.01 (a).\n\nSource. #4970, eff 11-8-90, EXPIRED: 11-8-96\n\nNew. #6517, eff 5-30-97, EXPIRED: 5-30-05\n\nNew. #8662, INTERIM, eff 6-16-06, EXPIRED: 12-13-06\n\nNew. #8945, eff 7-18-07; amd by #10876, eff 7-8-15; paras. (a)(1)-(3) EXPIRED: 7-18-15; amd by #10925, INTERIM, eff 9-4-15, EXPIRES: 3-2-16; amd by #11048, eff 3-2-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

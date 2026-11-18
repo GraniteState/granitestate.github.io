@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gal/304.01",
+  "@type": "Concept",
+  "agencyCode": "Gal",
+  "authority": [
+    {
+      "citation": "480-C:5",
+      "paragraphs": [
+        "I(f)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "490-C",
+      "source": "https://granitestate.github.io/rsa/490-C",
+      "via": "appendix"
+    },
+    {
+      "citation": "490-C:4",
+      "paragraphs": [
+        "I(c)",
+        "II(d)",
+        "(h)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "490-C:5",
+      "paragraphs": [
+        "II(b)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/490-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/gal/304",
+  "definition": "Fee Schedule",
+  "effectiveDate": "2016-10-21",
+  "historyNote": "#8101, eff 1-1-05; ss by #8942, eff 9-15-07, EXPIRED: 9-15-15 New. #11075, INTERIM, eff 4-18-16, EXPIRED: 10-15-16 New. #12010, eff 10-21-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Gal 304.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gal300.html",
+  "prefLabel": "Gal 304.01 Fee Schedule",
+  "priorExpiration": "2016-10-15",
+  "recordType": "rule-section",
+  "ruleText": "Gal 304.01 Fee Schedule.\n\n(a) The certification fee shall be $75.00.\n\n(b) The renewal fee shall be $75.00.\n\n(c) The reinstatement fee shall be $75.00 plus the renewal fee.\n\n(d) The fee for filing petitions for declaratory rulings shall be $50.00.\n\n(e) The fee for returned checks shall be $25.00, plus a separate $8.00 fee payable to the State of New Hampshire – Treasury.\n\nSource. #8101, eff 1-1-05; ss by #8942, eff 9-15-07, EXPIRED: 9-15-15\n\nNew. #11075, INTERIM, eff 4-18-16, EXPIRED: 10-15-16\n\nNew. #12010, eff 10-21-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/gal300.html"
+}

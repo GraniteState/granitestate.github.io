@@ -1,0 +1,27 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1002.06",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "altLabel": "Financial Statement",
+  "authority": [
+    {
+      "citation": "604-A:10",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1002",
+  "definition": "Financial statement",
+  "effectiveDate": "2020-07-01",
+  "historyNote": "#13050, eff 7-1-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 1002.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1002.06 Financial statement",
+  "recordType": "rule-section",
+  "ruleText": "Adm 1002.06 \"Financial statement” means a statement of facts, asserted under oath pursuant to RSA 604-A:2, I, by a defendant regarding the defendant’s income, property, assets, and other financial information necessary to determine a defendant’s eligibility for and ability to pay for appointed counsel. The term includes OCC Form 4, designated by the OCC pursuant to RSA 604-A:2, I, or a court-produced form requiring submission of the same information.\n\nSource. #13050, eff 7-1-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

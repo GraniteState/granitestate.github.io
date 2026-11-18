@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/604.04",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)",
+        "(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153:29",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153:32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/604",
+  "definition": "Determinations of Sanctions",
+  "effectiveDate": "2017-09-20",
+  "historyNote": "#12385, eff 9-20-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-Mec 604.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html",
+  "prefLabel": "Saf-Mec 604.04 Determinations of Sanctions",
+  "recordType": "rule-section",
+  "ruleText": "Saf-Mec 604.04 Determinations of Sanctions.\n\n(a) In determining which sanction or combination of sanctions to impose, the board shall:\n\n(1) First determine the nature of the act or omission constituting the misconduct done by the licensee or certificate holder;\n\n(2) Next determine whether the misconduct has one or more of the characteristics listed in (b) below; and\n\n(3) Finally, apply the standards in (c) below.\n\n(b) The characteristics shall be whether:\n\n(1) The misconduct actually caused physical or mental harm to an individual;\n\n(2) The misconduct had the potential to cause physical or mental harm to an individual;\n\n(3) The misconduct repeated earlier misconduct done by the licensee or certificate holder, as determined by:\n\na. An earlier hearing;\n\nb. An earlier settlement agreement predicated on the same misconduct; or\n\nc. An admission by the licensee or certificate holder; or\n\n(4) The misconduct was committed knowingly rather than negligently or inadvertently.\n\n(c) The board shall select appropriate sanction(s):\n\n(1) From the list in RSA 153:32, III; and\n\n(2) By choosing, in light of the characteristics determined pursuant to (b) above, the sanction most likely to:\n\na. Protect public health and safety;\n\nb. Prevent future misconduct by the licensee or certificate holder;\n\nc. Take into account any acknowledgment of fault and any cooperation by the licensee or certificate holder with the board's investigation of misconduct;\n\nd. Correct any attitudinal, educational, or other deficiencies which led to the misconduct;\n\ne. Encourage the responsible practice of plumbing, fuel gas fitting, oil heating, or water treatment; and\n\nf. Demonstrate to the licensee or to the certificate holder and also to the public the board's intention to ensure that the practices of plumbing and fuel gas fitting are in accordance with applicable law and the public welfare.\n\nSource. #12385, eff 9-20-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html"
+}

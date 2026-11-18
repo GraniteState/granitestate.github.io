@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ve-h",
+  "@type": "Concept",
+  "agencyCode": "Ve-H",
+  "definition": "Board of Managers of the N.H. Veterans' Home",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ve-h/100",
+    "https://granitestate.github.io/rules/ve-h/200",
+    "https://granitestate.github.io/rules/ve-h/300",
+    "https://granitestate.github.io/rules/ve-h/400"
+  ],
+  "notation": "Ve-H",
+  "prefLabel": "Ve-H Board of Managers of the N.H. Veterans' Home",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

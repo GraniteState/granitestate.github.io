@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/csp",
+  "@type": "Concept",
+  "agencyCode": "Csp",
+  "definition": "N.H. College Tuition Savings Plan Advisory Commission (See RSA 195-H:3.) (See also Stra 1100 , transferred from the Office of Strategic Initiatives pursuant to 2019, 346:437, effective 7-1-19.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/csp/100",
+    "https://granitestate.github.io/rules/csp/200",
+    "https://granitestate.github.io/rules/csp/300",
+    "https://granitestate.github.io/rules/csp/400",
+    "https://granitestate.github.io/rules/csp/500",
+    "https://granitestate.github.io/rules/csp/600",
+    "https://granitestate.github.io/rules/csp/700"
+  ],
+  "notation": "Csp",
+  "prefLabel": "Csp N.H. College Tuition Savings Plan Advisory Commission",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

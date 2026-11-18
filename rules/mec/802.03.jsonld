@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/802.03",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "altLabel": "Water Treatment Trainee",
+  "authority": [
+    {
+      "citation": "153:27",
+      "source": "https://granitestate.github.io/rsa/153/153-27",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/802",
+  "definition": "Water treatment trainee",
+  "effectiveDate": "2023-07-19",
+  "historyNote": "#13632, eff 7-19-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mec 802.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec800.html",
+  "prefLabel": "Mec 802.03 Water treatment trainee",
+  "recordType": "rule-section",
+  "ruleText": "Mec 802.03 “Water treatment trainee” means “water treatment trainee” as defined in RSA 153:27, namely, “any person who engaged in learning about and assisting in installing, maintaining, or repairing water treatment systems under the direct supervision of a water treatment technician certified under this subdivision.”\n\nSource. #13632, eff 7-19-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec800.html"
+}

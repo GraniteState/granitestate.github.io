@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nat/409.03",
+  "@type": "Concept",
+  "agencyCode": "Nat",
+  "altLabel": "Drug-Related Complaints",
+  "authority": [
+    {
+      "citation": "318:9-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:14-a",
+      "source": "https://granitestate.github.io/rsa/318/318-14-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "318:30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/318/318-14-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/nat/409",
+  "definition": "Drug-related Complaints",
+  "effectiveDate": "2020-11-26",
+  "historyNote": "#13140, eff 11-26-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nat 409.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html",
+  "prefLabel": "Nat 409.03 Drug-related Complaints",
+  "recordType": "rule-section",
+  "ruleText": "Nat 409.03 Drug-related Complaints. Complaints regarding the preparation, dispensing, or administration of drugs may be made directly to the board or to the board of pharmacy, pursuant to board of pharmacy rule Ph 2200.\n\nSource. #13140, eff 11-26-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nat100-700.html"
+}

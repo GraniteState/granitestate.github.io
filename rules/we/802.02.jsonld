@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/802.02",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-B:10",
+      "source": "https://granitestate.github.io/rsa/482-B/482-B-10",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B/482-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/802",
+  "definition": "Required Information and Entry Format",
+  "effectiveDate": "2017-03-01",
+  "historyNote": "#4418, eff 5-2-88; amd by #4549, eff 1-1-89; ss by #4730, eff 1-15-90; ss by #4898, eff 8-13-90; EXPIRED: 8-13-96 New. #6327, INTERIM, eff 8-24-96, EXPIRED: 12-22-96 New. #6449, eff 1-29-97; ss by #7307, eff 6-13-00; ss by #9179, eff 6-13-08; ss by #12083, eff 3-1-17 (See Revision Notes at Chapter headings for We 300 and We 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 802.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 802.02 Required Information and Entry Format",
+  "priorExpiration": "1996-12-22",
+  "recordType": "rule-section",
+  "ruleText": "We 802.02 Required Information and Entry Format.\n\n(a) “Well Completion Reports” shall include the following information:\n\n(1) Property owner name;\n\n(2) Client name, if applicable;\n\n(3) Location of well(s), located by:\n\na. Geographic coordinates provided by global positioning technology;\n\nb. Enhanced 911 street address, if available;\n\nc. Tax map and lot number of the property; and\n\nd. A hand drawing or site map, if only one report is submitted for a well network;\n\n(4) Date well or network completed;\n\n(5) Proposed use of well;\n\n(6) Reason for constructing well;\n\n(7) Type of well;\n\n(8) Total depth of well;\n\n(9) Depth to bedrock, if encountered;\n\n(10) Casing details;\n\n(11) Method of sealing casing to bedrock, if applicable;\n\n(12) Screen details, if applicable;\n\n(13) Results, method, and duration of yield test(s) conducted, if performed;\n\n(14) Static water level, if encountered;\n\n(15) A description and depth intervals of unconsolidated surficial deposits encountered;\n\n(16) Description of competent bedrock type, if encountered;\n\n(17) Special notes, if any;\n\n(18) Company name;\n\n(19) Date of report; and\n\n(20) License number.\n\n(b) “Well Completion Report” entries shall be typed or printed.\n\n(c) “Well Completion Report” shall be signed by the licensed water well contractor.\n\nSource. #4418, eff 5-2-88; amd by #4549, eff 1-1-89; ss by #4730, eff 1-15-90; ss by #4898, eff 8-13-90; EXPIRED: 8-13-96\n\nNew. #6327, INTERIM, eff 8-24-96, EXPIRED: 12-22-96\n\nNew. #6449, eff 1-29-97; ss by #7307, eff 6-13-00; ss by #9179, eff 6-13-08; ss by #12083, eff 3-1-17 (See Revision Notes at Chapter headings for We 300 and We 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

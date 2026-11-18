@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/401.02",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "altLabel": "State Plumbing Code",
+  "authority": [
+    {
+      "citation": "155-A:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/155-A/155-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/155-A/155-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/401",
+  "definition": "State plumbing code",
+  "effectiveDate": "2015-07-01",
+  "historyNote": "#10848, eff 7-1-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-Mec 401.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec400.html",
+  "prefLabel": "Saf-Mec 401.02 State plumbing code",
+  "recordType": "rule-section",
+  "ruleText": "Saf-Mec 401.02 \"State plumbing code\" means that part of the state building code, as defined in RSA 155-A:1, IV, which regulates plumbing, as modified by the state building code review board within the limits established by RSA 155-A:10, V.\n\nSource. #10848, eff 7-1-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec400.html"
+}

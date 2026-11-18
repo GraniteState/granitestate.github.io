@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/101.14",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "altLabel": "Fire Department",
+  "authority": [
+    {
+      "citation": "21-P:25",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-25",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-P:28",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/101",
+  "definition": "Fire department",
+  "effectiveDate": "2017-06-28",
+  "historyNote": "(See Revision Note at chapter heading for Fire 100) #12225-A, eff 6-28-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fire 101.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1000.html",
+  "prefLabel": "Fire 101.14 Fire department",
+  "recordType": "rule-section",
+  "ruleText": "Fire 101.14 “Fire department” means the legally constituted municipal or privately incorporated entity that provides services such as, but not limited to, fire suppression, fire prevention, rescue, hazardous materials, emergency medical care, fire investigation, and fire or building inspections in the state, county, municipality, organized fire district, or area.\n\nRSA 21-P:12, II\n\n(c) “State certified fire instructor” means a person who has completed the requirements to hold such certification as approved by the New Hampshire fire standards and training commission.\n\nRSA 125-C:2\n\nX. “Person,” [means] any individual, partnership, firm or co-partnership, association, company, trust, corporation, department, bureau, agency, private or municipal corporation, or any political subdivision of the state, the United States or political subdivisions or agencies thereof, or any other entity recognized by law as subject to rights and duties.\n\nRSA 125-N:2\n\nIV. “Combustible domestic waste” means combustible waste such as, but not limited to, household trash, packaging materials, plastics, coated or laminated papers, rubber, painted or treated wood, coated or treated cardboard, oily rags, and animal, vegetable, and kitchen waste. The term does not include untreated wood, leaves, brush, or paper products generated at a residence.\n\nRSA 149-M:4\n\nIV-a. “Construction and demolition debris” means non-putrescible waste building materials and rubble which is solid waste resulting from the construction, remodeling, repair or demolition of structures or roads. The term includes, but is not limited to, bricks, concrete and other masonry materials, wood, wall coverings, plaster, dry wall, plumbing, fixtures, non-asbestos insulation or roofing shingles, asphaltic pavement, glass, plastics that are not sealed in a manner that conceals other wastes, and electrical wiring and components, incidental to any of the above and containing no hazardous liquid or metals. The term does not include asbestos waste, garbage, corrugated container board, electrical fixtures containing hazardous liquids such as fluorescent light ballasts or transformers, furniture, appliances, tires, drums and containers, and fuel tanks.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-a1000.html"
+}

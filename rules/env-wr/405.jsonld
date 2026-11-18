@@ -1,0 +1,53 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/405",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:29",
+      "source": "https://granitestate.github.io/rsa/482/482-29",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:87",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482/482-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/400",
+  "definition": "DAM CONSTRUCTION INSPECTIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/405.01",
+    "https://granitestate.github.io/rules/env-wr/405.02",
+    "https://granitestate.github.io/rules/env-wr/405.03",
+    "https://granitestate.github.io/rules/env-wr/405.04",
+    "https://granitestate.github.io/rules/env-wr/405.05",
+    "https://granitestate.github.io/rules/env-wr/405.06",
+    "https://granitestate.github.io/rules/env-wr/405.07",
+    "https://granitestate.github.io/rules/env-wr/405.08",
+    "https://granitestate.github.io/rules/env-wr/405.09",
+    "https://granitestate.github.io/rules/env-wr/405.10"
+  ],
+  "notation": "Env-Wr 405",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 405 DAM CONSTRUCTION INSPECTIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wr 405 DAM CONSTRUCTION INSPECTIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

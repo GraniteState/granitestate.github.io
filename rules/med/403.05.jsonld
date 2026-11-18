@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/403.05",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "329:9",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/403",
+  "definition": "Letters of Good Standing",
+  "effectiveDate": "2020-01-10",
+  "historyNote": "#12972, eff 1-10-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 403.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 403.05 Letters of Good Standing",
+  "recordType": "rule-section",
+  "ruleText": "Med 403.05 Letters of Good Standing. Licensees who wish to request a license verification or a letter of good standing from the board shall complete and submit a “Letter of Good Standing Request Form”, revised 11/2019, to the board along with the $20.00 fee.\n\nSource. #12972, eff 1-10-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

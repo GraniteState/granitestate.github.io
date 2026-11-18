@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.50",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "672:14",
+      "source": "https://granitestate.github.io/rsa/672/672-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/672/672-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Subdivision",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.50",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.50 Subdivision",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.50 “Subdivision” means “subdivision” as defined in RSA 672:14, namely, “the division of the lot, tract, or parcel of land into 2 or more lots, plats, sites, or other division of land for the purpose, whether immediate or future, of sale, rent, lease, condominium conveyance, or building development. It includes re-subdivision and, when appropriate to the context, related to the process of subdividing or to the land or territory subdivided.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

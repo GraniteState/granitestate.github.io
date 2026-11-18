@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/101.19",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "altLabel": "Emergency Eyewash Station",
+  "authority": [
+    {
+      "citation": "310:2",
+      "paragraphs": [
+        "I(f)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-2",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/101",
+  "definition": "Emergency eyewash station",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "#14459, eff 1-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 101.19",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 101.19 Emergency eyewash station",
+  "recordType": "rule-section",
+  "ruleText": "Bar 101.19 “Emergency eyewash station” means either an unexpired, Food and Drug Administration (FDA)-complaint portable eyewash kit or station or a plumbed-in eyewash station.\n\nSource. #14459, eff 1-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

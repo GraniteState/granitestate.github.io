@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/504.04",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:71",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-71",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:73",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-73",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-71",
+    "https://granitestate.github.io/rsa/12-O/12-O-73",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/504",
+  "definition": "Scoring of HC Designation Applications",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 504.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 504.04 Scoring of HC Designation Applications",
+  "recordType": "rule-section",
+  "ruleText": "Bea 504.04 Scoring of HC Designation Applications. A municipality shall achieve a minimum total of 80 points in order to qualify for the HC designation. Points shall be awarded in 6 categories, with the following categories in (a) through (d) being required:\n\n(a) Adoption of land use regulations and ordinances;\n\n(b) Training of planning board and zoning board members;\n\n(c) Implementation of water and sewer infrastructure upgrades;\n\n(d) Implementation of walkability infrastructure upgrades;\n\n(e) Adoption of financial tools that incentivize the building of workforce housing; and\n\n(f) Other activities supporting the HC designation.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

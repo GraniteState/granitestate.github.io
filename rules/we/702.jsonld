@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/702",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "X"
+      ],
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "482-B:15",
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/we/700",
+  "definition": "INSTALLATION, MAINTENANCE, REPAIR OR REPLACEMENT REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/702.01",
+    "https://granitestate.github.io/rules/we/702.02",
+    "https://granitestate.github.io/rules/we/702.03",
+    "https://granitestate.github.io/rules/we/702.04",
+    "https://granitestate.github.io/rules/we/702.05",
+    "https://granitestate.github.io/rules/we/702.06"
+  ],
+  "notation": "We 702",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 702 INSTALLATION, MAINTENANCE, REPAIR OR REPLACEMENT REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART We 702 INSTALLATION, MAINTENANCE, REPAIR OR REPLACEMENT REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

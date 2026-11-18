@@ -1,0 +1,22 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "definition": "Mechanical Licensing Board (formerly Saf-Mec). (See 2021, 91:82, effective 7-1-21, which amended RSA 153:27-a. The Mechanical Licensing Board was transferred from being a unit within the Division of Fire Safety of the Department of Safety to a unit within the Office of Professional Licensure and Certification. The rules numbered “Saf-Mec” will eventually be renumbered as \" Mec \"). Med Board of Medicine",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/mec/100",
+    "https://granitestate.github.io/rules/mec/200",
+    "https://granitestate.github.io/rules/mec/300",
+    "https://granitestate.github.io/rules/mec/400",
+    "https://granitestate.github.io/rules/mec/500",
+    "https://granitestate.github.io/rules/mec/600",
+    "https://granitestate.github.io/rules/mec/700",
+    "https://granitestate.github.io/rules/mec/800"
+  ],
+  "notation": "Mec",
+  "prefLabel": "Mec Mechanical Licensing Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

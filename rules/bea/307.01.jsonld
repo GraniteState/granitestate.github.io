@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/307.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:17",
+      "paragraphs": [
+        "VI(a)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/307",
+  "definition": "Information",
+  "effectiveDate": "2026-07-07",
+  "expirationDate": "2036-07-07",
+  "historyNote": "#13270, eff 9-30-21; ss by #14624, eff 7-7-26, EXPIRES: 7-7-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 307.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea300.html",
+  "prefLabel": "Bea 307.01 Information",
+  "recordType": "rule-section",
+  "ruleText": "Bea 307.01 Information. The public may obtain information regarding the JPP by contacting the DTTD.\n\nSource. #13270, eff 9-30-21; ss by #14624, eff 7-7-26, EXPIRES: 7-7-36\n\nAppendix",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea300.html"
+}

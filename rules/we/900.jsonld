@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/900",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:16",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/we",
+  "definition": "ADMINISTRATIVE FINES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/901"
+  ],
+  "notation": "We 900",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 900 ADMINISTRATIVE FINES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER We 900 ADMINISTRATIVE FINES\n\nStatutory Authority: RSA 482-B:16, II",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

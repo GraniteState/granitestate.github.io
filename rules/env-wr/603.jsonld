@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/603",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:87",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/600",
+  "definition": "NOTIFICATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/603.01"
+  ],
+  "notation": "Env-Wr 603",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 603 NOTIFICATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wr 603 NOTIFICATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

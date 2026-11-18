@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.07",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Certified Dental Assistant",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Certified dental assistant",
+  "effectiveDate": "2017-12-06",
+  "historyNote": "#12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.07 Certified dental assistant",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.07 “Certified dental assistant” means a dental assistant who holds current certified dental assistant certification from the Dental Assisting National Board (DANB).\n\nSource. #12427, eff 12-6-17; renumbered by #14140 (formerly Den 101.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

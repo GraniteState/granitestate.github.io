@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mid/104.01",
+  "@type": "Concept",
+  "agencyCode": "Mid",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mid/104",
+  "definition": "Office Location and Mailing Address, Telephone Number, and Number for TTY Users",
+  "effectiveDate": "2026-02-08",
+  "historyNote": "#7412, eff 12-5-00; ss by #12039, eff 11-10-16; ss by #14496, eff 2-8-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mid 104.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html",
+  "prefLabel": "Mid 104.01 Office Location and Mailing Address, Telephone Number, and Number for TTY Users",
+  "recordType": "rule-section",
+  "ruleText": "Mid 104.01 Office Location and Mailing Address, Telephone Number, and Number for TTY Users.\n\n(a) The council's office location and mailing address is:\n\nNH Midwifery Council\n\nc/o Office of Professional Licensure and Certification\n\n7 Eagle Square\n\nConcord, NH 03301\n\n(b) The council's telephone number is (603) 271-2152.\n\n(c) Access for TDD users is through Relay New Hampshire and can be reached by calling 1-800-735-2964.\n\nSource. #7412, eff 12-5-00; ss by #12039, eff 11-10-16; ss by #14496, eff 2-8-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/206",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "authority": [
+    {
+      "citation": "282-A:119",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/200",
+  "definition": "RECORDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/emp/206.01"
+  ],
+  "notation": "Emp 206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 206 RECORDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Emp 206 RECORDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

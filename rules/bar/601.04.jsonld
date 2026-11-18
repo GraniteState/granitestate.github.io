@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/601.04",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "altLabel": "Phototherapy Device",
+  "authority": [
+    {
+      "citation": "313-A:1",
+      "paragraphs": [
+        "XI-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/601",
+  "definition": "Phototherapy device",
+  "effectiveDate": "2026-07-17",
+  "expirationDate": "2036-07-17",
+  "historyNote": "#8444, eff 10-06-05, EXPIRED: 10-6-13 New. #10808, eff 4-2-15, EXPIRED: 4-1-25 New. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 601.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 601.04 Phototherapy device",
+  "recordType": "rule-section",
+  "ruleText": "Bar 601.04 “Phototherapy device” means “phototherapy device” as defined in RSA 313-A:1, XI-b namely, “equipment that emits UV radiation and is used by licensed health care professionals in the treatment of disease.”\n\nSource. #8444, eff 10-06-05, EXPIRED: 10-6-13\n\nNew. #10808, eff 4-2-15, EXPIRED: 4-1-25\n\nNew. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/804",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:32",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/800",
+  "definition": "GENERAL ADMINISTRATIVE REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/804.01",
+    "https://granitestate.github.io/rules/nur/804.02"
+  ],
+  "notation": "Nur 804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 804 GENERAL ADMINISTRATIVE REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Nur 804 GENERAL ADMINISTRATIVE REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

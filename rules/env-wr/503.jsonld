@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/503",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:11-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:12",
+      "via": "appendix"
+    },
+    {
+      "citation": "482:87",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/500",
+  "definition": "INUNDATION MAPPING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/503.01",
+    "https://granitestate.github.io/rules/env-wr/503.02",
+    "https://granitestate.github.io/rules/env-wr/503.03"
+  ],
+  "notation": "Env-Wr 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 503 INUNDATION MAPPING",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wr 503 INUNDATION MAPPING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

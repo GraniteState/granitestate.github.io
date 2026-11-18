@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/101.37",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "altLabel": "Water Well Construction",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/101",
+  "definition": "Schedule 40",
+  "effectiveDate": "2008-06-13",
+  "historyNote": "#7306, eff 6-13-00; ss by #9177, eff 6-13-08); renumbered by #12075 (formerly We 101.33)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 101.37",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 101.37 Schedule 40",
+  "recordType": "rule-section",
+  "ruleText": "We 101.37 “Schedule 40” means the American National Standards Institute (ANSI) designation schedule number 40 for pipes and fittings computed according to the following formula: Schedule Number = (1000)(P/S) where P = internal working pressure in psig; S = allowable stress of piping material at operating conditions in psi.\n\nSource. #7306, eff 6-13-00; ss by #9177, eff 6-13-08); renumbered by #12075 (formerly We 101.33)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

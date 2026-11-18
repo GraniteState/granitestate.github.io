@@ -1,0 +1,18 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "definition": "Commissioner, Department of Business and Economic Affairs (See RSA 12-O, pursuant to 2017, 156:40, effective 7-1-17. The Department of Resources and Economic Development was abolished pursuant to 2017, 156:15, effective 7-1-17. Pursuant to 2017, 156:49, effective 7-1-17, existing rules were transferred to the Department of Natural and Cultural Resources (Ncr) and Department of Business and Economic Affairs (Bea), as applicable, and continue in effect until they expire or are amended or repealed. Existing rules numbered Res will eventually be renumbered Ncr or Bea, as applicable.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bea/300",
+    "https://granitestate.github.io/rules/bea/400",
+    "https://granitestate.github.io/rules/bea/500",
+    "https://granitestate.github.io/rules/bea/600"
+  ],
+  "notation": "Bea",
+  "prefLabel": "Bea Commissioner, Department of Business and Economic Affairs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

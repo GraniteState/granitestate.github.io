@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mid/103.07",
+  "@type": "Concept",
+  "agencyCode": "Mid",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/mid/103",
+  "definition": "Minutes of Council Meetings",
+  "effectiveDate": "2000-12-05",
+  "historyNote": "#7412, eff 12-5-00",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mid 103.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html",
+  "prefLabel": "Mid 103.07 Minutes of Council Meetings",
+  "recordType": "rule-section",
+  "ruleText": "Mid 103.07 Minutes of Council Meetings.\n\n(a) Minutes shall be kept of council meetings and of official actions taken by the council.\n\n(b) Such minutes shall:\n\n(1) Record the members participating in each vote; and\n\n(2) Separately record the position of members who dissent, abstain or concur.\n\nSource. #7412, eff 12-5-00",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mid100.html"
+}

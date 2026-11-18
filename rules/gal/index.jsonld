@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/gal",
+  "@type": "Concept",
+  "agencyCode": "Gal",
+  "definition": "Guardian ad Litem Board (See RSA 490-C:5 pursuant to 2002, 206:1, effective 5-16-02.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/gal/100",
+    "https://granitestate.github.io/rules/gal/200",
+    "https://granitestate.github.io/rules/gal/300",
+    "https://granitestate.github.io/rules/gal/400",
+    "https://granitestate.github.io/rules/gal/500"
+  ],
+  "notation": "Gal",
+  "prefLabel": "Gal Guardian ad Litem Board",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

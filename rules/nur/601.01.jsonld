@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/601.01",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "326-B",
+      "source": "https://granitestate.github.io/rsa/326-B",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/601",
+  "definition": "Purpose",
+  "effectiveDate": "2016-01-23",
+  "historyNote": "(See Revision Note #1 at chapter heading for Nur 100) #5887, eff 8-26-94; ss by #6778, eff 6-26-98; ss by #8664, INTERIM, eff 6-24-06, EXPIRED: 12-21-06 New. #8873, eff 4-24-07; ss by #9096, eff 2-23-08; ss by #10301, eff 3-22-13; ss by #11024, eff 1-23-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Nur 601.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 601.01 Purpose",
+  "priorExpiration": "2006-12-21",
+  "recordType": "rule-section",
+  "ruleText": "Nur 601.01 Purpose.\n\n(a) The purpose of this chapter is to set minimum standards that must be met by programs that educate those who seek to enter, or who are in and seek to advance in, the nursing profession.\n\n(b) These standards are intended to safeguard the life, health, and public welfare of the people of New Hampshire by:\n\n(1) Providing for safe nursing practices by setting legal standards for the educational preparation of nurses;\n\n(2) Promoting self-evaluation of educational programs;\n\n(3) Providing for interested persons a list of educational programs meeting legal standards; and\n\n(4) Providing an educated, safe workforce.\n\nSource. (See Revision Note #1 at chapter heading for Nur 100) #5887, eff 8-26-94; ss by #6778, eff 6-26-98; ss by #8664, INTERIM, eff 6-24-06, EXPIRED: 12-21-06\n\nNew. #8873, eff 4-24-07; ss by #9096, eff 2-23-08; ss by #10301, eff 3-22-13; ss by #11024, eff 1-23-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

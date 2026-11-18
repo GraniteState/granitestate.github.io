@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/303.01",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/303",
+  "definition": "Dental Examination",
+  "effectiveDate": "2015-03-07",
+  "historyNote": "#287.2, eff 1-17-74; ss by #2981, eff 2-28-85; ss by #5110, eff 4-4-91, EXPIRED: 4-4-97 New. #6909, eff 12-9-98, EXPIRED: 12-9-06 New. #8838, eff 3-9-07; ss by #10794, eff 3-7-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 303.01 Dental Examination",
+  "priorExpiration": "2006-12-09",
+  "recordType": "rule-section",
+  "ruleText": "Den 303.01 Dental Examination. Each applicant for a license to practice dentistry in the state of New Hampshire shall be examined by the board on the contents of RSA 317-A and its accompanying rules.\n\nSource. #287.2, eff 1-17-74; ss by #2981, eff 2-28-85; ss by #5110, eff 4-4-91, EXPIRED: 4-4-97\n\nNew. #6909, eff 12-9-98, EXPIRED: 12-9-06\n\nNew. #8838, eff 3-9-07; ss by #10794, eff 3-7-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

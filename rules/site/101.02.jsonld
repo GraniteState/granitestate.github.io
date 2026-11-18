@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/site/101.02",
+  "@type": "Concept",
+  "agencyCode": "Site",
+  "authority": [
+    {
+      "citation": "162-H:3",
+      "source": "https://granitestate.github.io/rsa/162-H/162-H-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/162-H/162-H-3",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/site/101",
+  "definition": "Applicability",
+  "effectiveDate": "2015-12-16",
+  "historyNote": "#9182, eff 6-17-08; ss by #10993, eff 12-16-15",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Site 101.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/site100-300.html",
+  "prefLabel": "Site 101.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Site 101.02 Applicability. The rules of the site evaluation committee shall apply to:\n\n(a) Any person who constructs or operates, or proposes to construct or operate an energy facility in New Hampshire;\n\n(b) Any person who participates in public information sessions scheduled by the applicant or adjudicative or informational public hearings conducted by the committee, or a designated subcommittee, concerning an energy facility; and\n\n(c) Any person or organization appearing as a party, an intervenor, or a public commenter before the committee or any designated subcommittee.\n\nSource. #9182, eff 6-17-08; ss by #10993, eff 12-16-15",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/site100-300.html"
+}

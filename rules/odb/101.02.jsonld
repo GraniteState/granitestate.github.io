@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/101.02",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "altLabel": "Confidential Business Information",
+  "authority": [
+    {
+      "citation": "91-A:4",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "91-A:5",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-4",
+    "https://granitestate.github.io/rsa/91-A/91-A-5",
+    "https://granitestate.github.io/rsa/541-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/101",
+  "definition": "Confidential business information (CBI)",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "(See Revision Note at chapter heading for Odb 100) #5534, eff 12-21-92; rpld by #6543, eff 7-22-97; ss by #8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 101.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 101.02 Confidential business information (CBI)",
+  "recordType": "rule-section",
+  "ruleText": "Odb 101.02 “Confidential business information (CBI)” means information that is exempt from disclosure under RSA 91-A:5, IV, or information used in business that provides an advantage over competitors who do not know of or use it.\n\nSource. (See Revision Note at chapter heading for Odb 100) #5534, eff 12-21-92; rpld by #6543, eff 7-22-97; ss by #8456, eff 10-25-05; ss by #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

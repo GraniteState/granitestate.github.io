@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/1001.02",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "604-A",
+      "source": "https://granitestate.github.io/rsa/604-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "604-A:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "604-A:10",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/604-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/1001",
+  "definition": "Applicability",
+  "effectiveDate": "2020-07-01",
+  "historyNote": "#13050, eff 7-1-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 1001.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html",
+  "prefLabel": "Adm 1001.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Adm 1001.02 Applicability. This chapter shall apply to:\n\n(a) Adults charged with a crime and juveniles charged with delinquency who apply for or are appointed counsel or are allowed State payment for other defense services on the basis of indigence; and\n\n(b) Persons liable under RSA 604-A: 2-a for the support of such juveniles charged with delinquency who apply for or are appointed counsel or are allowed State payment for other defense services on the basis of indigence.\n\nSource. #13050, eff 7-1-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm1000.html"
+}

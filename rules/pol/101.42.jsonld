@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.42",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "altLabel": "Undue Familiarity",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "Undue familiarity",
+  "effectiveDate": "2007-07-01",
+  "historyNote": "#8925, eff 7-1-07 (from Pol 101.40)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.42",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.42 Undue familiarity",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.42 \"Undue familiarity\" means either developing or attempting to develop an inappropriate intimate, personal or financial relationship with a known criminal.\n\nSource. #8925, eff 7-1-07 (from Pol 101.40)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

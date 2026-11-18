@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/902",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "271:20",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/271/271-20",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/271/271-20"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/900",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wr/902.01",
+    "https://granitestate.github.io/rules/env-wr/902.02",
+    "https://granitestate.github.io/rules/env-wr/902.03",
+    "https://granitestate.github.io/rules/env-wr/902.04"
+  ],
+  "notation": "Env-Wr 902",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 902 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wr 902 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

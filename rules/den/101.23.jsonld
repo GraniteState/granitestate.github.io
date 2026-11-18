@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.23",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Monitor",
+  "effectiveDate": "2004-06-11",
+  "historyNote": "#8099, eff 6-11-04; renumbered by #12427 (formerly Den 101.17); renumbered by #14140 (formerly den 101.20)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.23 Monitor",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.23 “Monitor” means to observe for a special purpose.\n\nSource. #8099, eff 6-11-04; renumbered by #12427 (formerly Den 101.17); renumbered by #14140 (formerly den 101.20)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

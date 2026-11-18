@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/101.11",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "altLabel": "Department",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/101",
+  "definition": "Critical well location",
+  "effectiveDate": "2016-12-24",
+  "historyNote": "#12075, eff 12-24-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 101.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 101.11 Critical well location",
+  "recordType": "rule-section",
+  "ruleText": "We 101.11 “Critical well location” means an actual or proposed well location delineated on state approved plans and specifications, pursuant to RSA 485-A:30-b, with a conditional approval requiring the location not be moved, usually a result of lot loading requirements.\n\nSource. #12075, eff 12-24-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

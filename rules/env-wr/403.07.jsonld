@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/403.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:29",
+      "source": "https://granitestate.github.io/rsa/482/482-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:87",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482/482-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/403",
+  "definition": "Concrete Design Criteria",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "#8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wr 403.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 403.07 Concrete Design Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wr 403.07 Concrete Design Criteria. The department shall use one or more of the following texts in evaluating the competence of the submitted design:\n\n(a) “Building Code Requirements for Structural Concrete & Commentary,” ACI 318-19(22), American Concrete Institute, 2022, available as noted in Appendix B for anchor design; or\n\n(b) “Code Requirements for Environmental Engineering Concrete Structures and Commentary,” ACI-350-20 and ACI 350R-20, American Concrete Institute, 2020, available as noted in Appendix B, for concrete design.\n\nSource. #8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

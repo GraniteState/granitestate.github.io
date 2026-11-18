@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/301.10",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:7-a",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/301",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 301.10",
+  "note": "The snapshot has no operative text for this heading.",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 301.10",
+  "recordType": "rule-section",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

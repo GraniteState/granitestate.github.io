@@ -46,4 +46,4 @@ Publisher URLs, including gc.nh.gov, are printed as text and are not hrefs.
 source_note rows are RSA citations inside a Source. annotation. They are not listed as authority.
 Inherited part and chapter authority is listed, and the via label says so.
 
-Rule concepts on disk: 41130.
+Rule concepts on disk: 46479.

@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/100",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:3",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/we",
+  "definition": "ORGANIZATIONAL RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/101",
+    "https://granitestate.github.io/rules/we/102",
+    "https://granitestate.github.io/rules/we/103",
+    "https://granitestate.github.io/rules/we/104",
+    "https://granitestate.github.io/rules/we/105"
+  ],
+  "notation": "We 100",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 100 ORGANIZATIONAL RULES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER We 100 ORGANIZATIONAL RULES\n\nStatutory Authority: RSA 482-B",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

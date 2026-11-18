@@ -1,0 +1,19 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/alc",
+  "@type": "Concept",
+  "agencyCode": "Alc",
+  "definition": "Board of Licensing for Alcohol and Other Drug Use Professionals (Formerly the Board of Licensing for Alcohol and Other Drug Abuse Professionals. See RSA 330-C:9 pursuant to 2008, 189:1, effective 7-1-08.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/alc/100",
+    "https://granitestate.github.io/rules/alc/200",
+    "https://granitestate.github.io/rules/alc/300",
+    "https://granitestate.github.io/rules/alc/400",
+    "https://granitestate.github.io/rules/alc/500"
+  ],
+  "notation": "Alc",
+  "prefLabel": "Alc Board of Licensing for Alcohol and Other Drug Use Professionals",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

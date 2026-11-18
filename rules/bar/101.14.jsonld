@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/101.14",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/101",
+  "definition": "Current",
+  "effectiveDate": "2026-01-01",
+  "historyNote": "#14459, eff 1-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 101.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 101.14 Current",
+  "recordType": "rule-section",
+  "ruleText": "Bar 101.14 “Current” means occurring in or existing at the present time, most recent.\n\nSource. #14459, eff 1-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

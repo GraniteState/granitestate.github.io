@@ -1,0 +1,65 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/101",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "326-B:2",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-2",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "326-B:3",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-B/326-B-2",
+    "https://granitestate.github.io/rsa/326-B/326-B-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/100",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/101.01",
+    "https://granitestate.github.io/rules/nur/101.02",
+    "https://granitestate.github.io/rules/nur/101.03",
+    "https://granitestate.github.io/rules/nur/101.04",
+    "https://granitestate.github.io/rules/nur/101.05",
+    "https://granitestate.github.io/rules/nur/101.06",
+    "https://granitestate.github.io/rules/nur/101.07",
+    "https://granitestate.github.io/rules/nur/101.08",
+    "https://granitestate.github.io/rules/nur/101.09",
+    "https://granitestate.github.io/rules/nur/101.10",
+    "https://granitestate.github.io/rules/nur/101.11",
+    "https://granitestate.github.io/rules/nur/101.12",
+    "https://granitestate.github.io/rules/nur/101.13",
+    "https://granitestate.github.io/rules/nur/101.14",
+    "https://granitestate.github.io/rules/nur/101.15",
+    "https://granitestate.github.io/rules/nur/101.16",
+    "https://granitestate.github.io/rules/nur/101.17",
+    "https://granitestate.github.io/rules/nur/101.18",
+    "https://granitestate.github.io/rules/nur/101.19",
+    "https://granitestate.github.io/rules/nur/101.20",
+    "https://granitestate.github.io/rules/nur/101.21"
+  ],
+  "notation": "Nur 101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 101 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Nur 101 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/alc/103.05",
+  "@type": "Concept",
+  "agencyCode": "Alc",
+  "authority": [
+    {
+      "citation": "91-A:2",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/91-A/91-A-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:5",
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/91-A/91-A-2",
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/alc/103",
+  "definition": "Records of Board Actions",
+  "effectiveDate": "2026-06-01",
+  "historyNote": "#8169, eff 9-21-04; ss by 9417, eff 3-14-09 (from Alc 103.06); ss by #14585, eff 6-1-26",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Alc 103.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html",
+  "prefLabel": "Alc 103.05 Records of Board Actions",
+  "recordType": "rule-section",
+  "ruleText": "Alc 103.05 Records of Board Actions.\n\n(a) Minutes shall be kept of board meetings and of official actions taken by the board.\n\n(b) The minutes shall record the members who participate in each vote and shall separately record the position of members who choose to dissent, abstain, or concur.\n\nSource. #8169, eff 9-21-04; ss by 9417, eff 3-14-09 (from Alc 103.06); ss by #14585, eff 6-1-26",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/alc100-500.html"
+}

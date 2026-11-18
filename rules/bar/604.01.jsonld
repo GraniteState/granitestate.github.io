@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/604.01",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "310:9",
+      "source": "https://granitestate.github.io/rsa/310/310-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:21",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/604",
+  "definition": "Inspections",
+  "effectiveDate": "2026-07-17",
+  "expirationDate": "2036-07-17",
+  "historyNote": "#8444, eff 10-06-05, EXPIRED: 10-6-13 New. #10808, eff 4-2-15, EXPIRED: 4-1-25 New. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 604.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 604.01 Inspections",
+  "recordType": "rule-section",
+  "ruleText": "Bar 604.01 Inspections.\n\n(a) Inspections shall be made in accordance with RSA 313-A:21, Plc 403, Plc 404, and Plc 406, as applicable.\n\n(b) All tanning facilities shall be inspected for compliance with the requirements of Bar 603.01(a) through (v).\n\n(c) The tanning facility shall post the most recent inspection report in a conspicuous and unobstructed place in the facility following the inspection.\n\nSource. #8444, eff 10-06-05, EXPIRED: 10-6-13\n\nNew. #10808, eff 4-2-15, EXPIRED: 4-1-25\n\nNew. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/800",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:3",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "482-B:10",
+      "source": "https://granitestate.github.io/rsa/482-B/482-B-10",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B/482-B-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/we",
+  "definition": "REPORTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/we/801",
+    "https://granitestate.github.io/rules/we/802"
+  ],
+  "notation": "We 800",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 800 REPORTS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER We 800 REPORTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

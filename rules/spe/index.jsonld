@@ -1,0 +1,21 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/spe",
+  "@type": "Concept",
+  "agencyCode": "Spe",
+  "definition": "Governing Board of Speech-Language Pathologists and Hearing Care Providers (Formerly the Governing Board of Speech-Language Pathologists and re-named pursuant to 2021, 91:168, 171, and 178, effective 7-1-21) . See also Hcp and Ahp , but eventually all of the rules of the Governing Board of Speech-Language Pathologists and Hearing Care Providers will be renumbered under the title Sphc .",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/spe/100",
+    "https://granitestate.github.io/rules/spe/200",
+    "https://granitestate.github.io/rules/spe/300",
+    "https://granitestate.github.io/rules/spe/400",
+    "https://granitestate.github.io/rules/spe/500",
+    "https://granitestate.github.io/rules/spe/600",
+    "https://granitestate.github.io/rules/spe/1101"
+  ],
+  "notation": "Spe",
+  "prefLabel": "Spe Governing Board of Speech-Language Pathologists and Hearing Care Providers",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/613.04",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:12",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:13",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-12",
+    "https://granitestate.github.io/rsa/21-I/21-I-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/613",
+  "definition": "Length of Validity of Executed Forms",
+  "effectiveDate": "2023-07-29",
+  "historyNote": "#8310, eff 5-11-05; ss by #10364, eff 7-1-13; ss by #13422, eff 7-30-22; ss by #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 613.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm600.html",
+  "prefLabel": "Adm 613.04 Length of Validity of Executed Forms",
+  "recordType": "rule-section",
+  "ruleText": "Adm 613.04 Length of Validity of Executed Forms.\n\n(a) Donees shall retain all federal property records for not less than 3 years, except:\n\n(1) Records involving property subject to restrictions for more than 2 years shall be kept for one year beyond the specified period of restriction; and\n\n(2) Records involving property in compliance status at the end of the period of restriction shall be kept for at least one year after the case is closed.\n\n(b) Eligibility applications shall be valid either until the information submitted is no longer accurate or until the expiration of the period set forth in (c) below, whichever is earlier.\n\n(c) Unless the information provided becomes inaccurate at an earlier date, an executed eligibility application shall be valid:\n\n(1) In the case of a public agency, for a period of 3 years from the time of its execution; and\n\n(2) In the case of a nonprofit organization, for whichever of the following occurs earlier:\n\na. The conclusion of a period of one year from the date of their submission;\n\nb. Expiration of the activity’s nonprofit tax-exempt status; or\n\nc. If the nonprofit organization’s eligibility is dependent upon receiving appropriations, a license, or a certification, expiration or termination of the license, certification, or appropriation.\n\nSource. #8310, eff 5-11-05; ss by #10364, eff 7-1-13; ss by #13422, eff 7-30-22; ss by #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm600.html"
+}

@@ -4,6 +4,11 @@
   "@type": "Concept",
   "broader": "https://granitestate.github.io/rsa/title/XXX",
   "definition": "PHYSICIAN ASSOCIATES",
+  "implementedBy": [
+    "https://granitestate.github.io/rules/med/612.01",
+    "https://granitestate.github.io/rules/med/613",
+    "https://granitestate.github.io/rules/med/613.01"
+  ],
   "inScheme": "https://granitestate.github.io/rsa/scheme",
   "narrower": [
     "https://granitestate.github.io/rsa/328-D/328-D-10-a"

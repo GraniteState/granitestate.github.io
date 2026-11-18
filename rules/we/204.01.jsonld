@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/204.01",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/204",
+  "definition": "Applicability",
+  "effectiveDate": "2008-06-13",
+  "historyNote": "#7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 204.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "We 204.01 Applicability. Any interested person may petition the board to waive a procedural rule, or request a declaratory ruling on the applicability of any statute, rule, or order administered or enforced by the board, or may request an exemption of a rule or one or more of the provisions of RSA 482-B. The rules in this part shall apply to any petition to waive a rule, petition for declaratory ruling, or request for an exemption pursuant to RSA 482-B:13. Petitions for waiver shall apply to procedural rules of this chapter. Petitions for an exemption shall apply to the provisions of RSA 482-B and rules adopted by the board.\n\nSource. #7307, eff 6-13-00; ss by #9178-A, eff 6-13-08",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

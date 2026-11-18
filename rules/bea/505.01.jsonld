@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/505.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "12-O:72",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-72",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-72",
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/505",
+  "definition": "Purpose",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 505.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 505.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Bea 505.01 Purpose. The purpose of this section is to provide the framework for implementation of the housing planning and regulation municipal (HPRM) grant program pursuant to RSA 12-O:72. The HPRM grant program assists municipalities in promoting increased housing production through the awarding of grants for the following purposes, subject to availability of funding:\n\n(a) Consultation regarding or implementation of revisions to its master plans and land use regulations for the purpose of promoting the production of workforce housing and other types of housing necessary for the economic development of the state and for the purposes of achieving or maintaining an HC designation; and\n\n(b) Providing technical assistance to municipalities who lack the current minimum qualifications necessary for HC designation in order for those municipalities to become HC designation eligible in future HC designation application rounds.\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

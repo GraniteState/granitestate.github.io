@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/mec/604.02",
+  "@type": "Concept",
+  "agencyCode": "Mec",
+  "authority": [
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)",
+        "(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153:29",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153:32",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/mec/604",
+  "definition": "Sanctions",
+  "effectiveDate": "2017-09-20",
+  "historyNote": "#12385, eff 9-20-17; (formerly Saf-Mec 604.02) (see Revision Note at chapter heading for Mec 600)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Mec 604.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html",
+  "prefLabel": "Mec 604.02 Sanctions",
+  "recordType": "rule-section",
+  "ruleText": "Mec 604.02 Sanctions.\n\n(a) Pursuant to RSA 153:32, III, disciplinary measures available to sanction misconduct shall be:\n\n(1) A reprimand in the form of a letter sent to the licensee or certificate holder and\n\nplaced on file for a period of not less than one year;\n\n(2) Probation for a period of time to be determined by the board in which the licensee, business entity, or certificate holder shall file monthly reports to the board for regulated work performed in New Hampshire;\n\n(3) Suspension, limitation, or restriction of license for a period of up to 5 years;\n\n(4) Revocation of license or certification; and\n\n(5) Requiring the licensed plumber or licensed fuel gas fitter, plumbing apprentice, fuel gas trainee, certified oil heating technician, or certified water treatment technician to participate in a program of continuing education in the area or areas in which he or she has been found deficient.\n\n(b) Disciplinary measures specified in (a) above shall be served by the issuance of a formal “Notice of Violation” or “Written Warning,” served in hand by a mechanical inspector pursuant to RSA 153:34, which is designed for the licensee, business entity, trainee, apprentice, or certificate holder to take immediate actions required to correct the deficiency noted on said forms.\n\nSource. #12385, eff 9-20-17; (formerly Saf-Mec 604.02) (see Revision Note at chapter heading for Mec 600)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/mec600.html"
+}

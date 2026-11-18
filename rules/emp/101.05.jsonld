@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/101.05",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "altLabel": "Employing Unit",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/101",
+  "definition": "Employing unit",
+  "effectiveDate": "2012-01-30",
+  "historyNote": "(See Revision Note at chapter heading for Emp 100) #10080, eff 1-30-12; renumbered by #10193, INTERIM (from Emp 101.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Emp 101.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 101.05 Employing unit",
+  "recordType": "rule-section",
+  "ruleText": "Emp 101.05 “Employing unit” means “employing unit” as defined in RSA 282-A:7, I. The term includes employer, labor organization, limited liability company and governmental entity.\n\nSource. (See Revision Note at chapter heading for Emp 100) #10080, eff 1-30-12; renumbered by #10193, INTERIM (from Emp 101.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

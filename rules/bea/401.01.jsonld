@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/401.01",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "authority": [
+    {
+      "citation": "6:12",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/6/6-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:61",
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:62",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "12-O:63",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-63",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/6/6-12",
+    "https://granitestate.github.io/rsa/12-O/12-O-63"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/401",
+  "definition": "Purpose",
+  "effectiveDate": "2023-09-01",
+  "historyNote": "#13515, INTERIM, eff 1-5-23, EXPIRES: 7-4-23; ss by #13734, eff 9-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 401.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html",
+  "prefLabel": "Bea 401.01 Purpose",
+  "priorExpiration": "2023-07-04",
+  "recordType": "rule-section",
+  "ruleText": "Bea 401.01 Purpose.\n\n(a) The purpose of the broadband matching grant initiative (BMGI) is to help communities, internet service providers (providers), and communication districts address existing broadband availability gaps within unserved locations.\n\n(b) The purpose of the broadband matching grant fund (BMGI fund) is to be a funding mechanism, separate and distinct from all other funds, to assist successful applicants in fulfilling the requirements of the statute. These funds are dedicated funds under RSA 6:12, I (b), (373).\n\nSource. #13515, INTERIM, eff 1-5-23, EXPIRES: 7-4-23; ss by #13734, eff 9-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea400.html"
+}

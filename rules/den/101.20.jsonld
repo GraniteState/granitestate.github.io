@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.20",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Licensure by Endorsement Certification",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "paragraphs": [
+        "XIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "317-A:21-e",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Licensure by endorsement certification",
+  "effectiveDate": "1998-12-09",
+  "historyNote": "#4298, eff 7-28-87; ss by #5110, eff 4-4-91, EXPIRED: 4-4-97 New. #6908, eff 12-9-98; ss by #12427 (from Den 101.14); renumbered by #14140 (formerly Den 101.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.20",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.20 Licensure by endorsement certification",
+  "priorExpiration": "1997-04-04",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.20 “Licensure by endorsement certification” means granting a license to practice dentistry or to provide dental hygiene services in New Hampshire based upon compliance with the applicable requirements of Den 300, and holding a current, unsuspended, unrestricted license to practice in another state.\n\nSource. #4298, eff 7-28-87; ss by #5110, eff 4-4-91, EXPIRED: 4-4-97\n\nNew. #6908, eff 12-9-98; ss by #12427 (from Den 101.14); renumbered by #14140 (formerly Den 101.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

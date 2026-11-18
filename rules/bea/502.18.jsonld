@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.18",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Dwelling Unit",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "153:1",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/153/153-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "\"Dwelling unit'' means “dwelling unit” as defined in RSA 153:1, III, namely, “a single unit providing complete and independent living facilities for one or more",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.18 \"Dwelling unit'' means “dwelling unit” as defined in RSA 153:1, III, namely, “a single unit providing complete and independent living facilities for one or more",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.18 \"Dwelling unit'' means “dwelling unit” as defined in RSA 153:1, III, namely, “a single unit providing complete and independent living facilities for one or more persons including permanent provisions for living, sleeping, eating, cooking, and sanitation.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

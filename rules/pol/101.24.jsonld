@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/pol/101.24",
+  "@type": "Concept",
+  "agencyCode": "Pol",
+  "altLabel": "Full-time Police Officer",
+  "authority": [
+    {
+      "citation": "106-L:5",
+      "source": "https://granitestate.github.io/rsa/106-L/106-L-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:8",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-L/106-L-5",
+    "https://granitestate.github.io/rsa/541-A/541-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/pol/101",
+  "definition": "Full-time police officer",
+  "effectiveDate": "2016-10-07",
+  "historyNote": "#5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08; ss by #11196, eff 10-7-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Pol 101.24",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html",
+  "prefLabel": "Pol 101.24 Full-time police officer",
+  "recordType": "rule-section",
+  "ruleText": "Pol 101.24 \"Full-time police officer\" means any law enforcement officer assigned to work on a regular basis for one or more employing units of government more than 1300 hours in any calendar year who:\n\n(a) Is authorized to make arrests for violations of the criminal, motor vehicle or boating laws of the state;\n\n(b) Is appointed or elected by the unit or units of government as a police officer; and\n\n(c) Performs those duties specifically for that or those unit(s) of government including:\n\n(1) State troopers;\n\n(2) Conservation officers;\n\n(3) Special agents of the state liquor commission;\n\n(4) Gaming enforcement investigators of the lottery commission invested with authority pursuant to RSA 21-P:4,VI;\n\n(5) Marine patrol officers of the division of state police;\n\n(6) Deputy sheriffs;\n\n(7) Town and city police officers;\n\n(8) State harbor masters;\n\n(9) Those persons invested with police powers by a municipal government to perform police functions for a college or university;\n\n(10) Investigators appointed by the attorney general and invested with authority pursuant to RSA 21-M:3,VII; and\n\n(11) Forest rangers invested with authority pursuant to RSA 227-G:9, II and RSA 227-G:9, III.\n\nSource. #5836, eff 6-15-94; ss by #7301, eff 6-8-00; ss by #9222, eff 8-1-08; ss by #11196, eff 10-7-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/pol100-800.html"
+}

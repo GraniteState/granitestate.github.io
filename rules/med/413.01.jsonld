@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/med/413.01",
+  "@type": "Concept",
+  "agencyCode": "Med",
+  "authority": [
+    {
+      "citation": "329:9",
+      "paragraphs": [
+        "VI",
+        "XV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "329:17",
+      "source": "https://granitestate.github.io/rsa/329/329-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/329/329-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/med/413",
+  "definition": "Negotiating a Settlement Agreement",
+  "effectiveDate": "2020-01-10",
+  "historyNote": "#9900, eff 4-12-11 (see Revision Note at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Med 413.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html",
+  "prefLabel": "Med 413.01 Negotiating a Settlement Agreement",
+  "recordType": "rule-section",
+  "ruleText": "Med 413.01 Negotiating a Settlement Agreement. A licensee may engage in settlement negotiations with hearing counsel at any time until the board issues a final order in accordance with Med 208.01(a).\n\nSource. #9900, eff 4-12-11 (see Revision Note at chapter heading for Med 400); ss by #12972, eff 1-10-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/med100-600.html"
+}

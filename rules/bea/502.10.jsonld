@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.10",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Community Water System",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Community water system",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.10 Community water system",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.10 “Community water system” means “community water system” as defined in RSA 485:1-a, I, namely, “a public water system which serves at least 15 service connections used by year-round residents or regularly serves at least 25 year-round residents.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

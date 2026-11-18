@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.32",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Temporary Dental Restoration",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Temporary dental restoration",
+  "effectiveDate": "2004-06-11",
+  "historyNote": "#8099, eff 6-11-04; renumbered by #12427 (formerly Den 101.24); renumbered by #14140 (formerly Den 101.28)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.32",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.32 Temporary dental restoration",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.32 “Temporary dental restoration” means a substance placed as an interim restoration to sedate or seal a tooth.\n\nSource. #8099, eff 6-11-04; renumbered by #12427 (formerly Den 101.24); renumbered by #14140 (formerly Den 101.28)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wr/403.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wr",
+  "authority": [
+    {
+      "citation": "482:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:29",
+      "source": "https://granitestate.github.io/rsa/482/482-29",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482:87",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482/482-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wr/403",
+  "definition": "Hydrologic and Hydraulic Investigations",
+  "effectiveDate": "2024-05-24",
+  "historyNote": "#1716, eff 2-20-81; ss by #2207, eff 12-13-82; ss by #2900, eff 11-7-84, EXPIRED 11-7-90 New. #5080, eff 2-22-91; rpld by #6462-B, eff 2-21-97 New. #8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wr 403.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html",
+  "prefLabel": "Env-Wr 403.05 Hydrologic and Hydraulic Investigations",
+  "priorExpiration": "1990-11-07",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wr 403.05 Hydrologic and Hydraulic Investigations.\n\n(a) Hydrologic and hydraulic investigations shall be performed on the entire contributing drainage area using one of the references below:\n\n(1) The NRCS National Engineering Handbook, Part 630, Hydrology, Chapters 4, 6-10, 14-17, dated March 2020, available as noted in Appendix B;\n\n(2) The U.S. Army Corps of Engineers’ Hydrologic Engineering Center Hydrologic Modeling System (HEC-HMS) version 4.11, available as noted in Appendix B;\n\n(3) The U.S. Army Corps of Engineers’ Hydrologic Engineering Center River Analysis System (HEC-RAS) version 6.3.1, available as noted in Appendix B; or\n\n(4) HydroCAD Stormwater Modeling version 10.2, available as noted in Appendix B.\n\n(b) Precipitation estimates for estimating the design flood shall be obtained from:\n\n(1) Extreme Precipitation in a Changing Climate for New York and the New England States”, version 2.0, published by the USDA, NRCS and Cornell University’s Northeast Regional Climate Center, available as noted in Appendix B;\n\n(2) “NOAA Atlas 14, Precipitation-Frequency Atlas of the United States”, Volume 10, Version 3.0, 2019, published by the National Oceanic and Atmospheric Administration, National Weather Service, available as noted in Appendix B; or\n\n(3) U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, Hydrometeorological Report No. 51, Probable Maximum Precipitation Estimates, United States East of the 105th Meridian, June 1978, available as noted in Appendix B.\n\n(c) A report describing the hydrologic and hydraulic analyses shall be submitted to the department and shall include the following:\n\n(1) A summary narrative of the project;\n\n(2) A description of the drainage area;\n\n(3) Time of concentration calculations;\n\n(4) Curve number calculations;\n\n(5) Storage calculations;\n\n(6) Discharge rating curve calculations;\n\n(7) Flashboard calculations;\n\n(8) Any other calculations or assumptions used in developing the models;\n\n(9) Drainage area plans which delineate each sub-basin identifying the following:\n\na. The location and size in acres of sub-basins, reaches, ponds, and storage areas, and all points of interest, included in the model;\n\nb. Hydrologic soils groups obtained from the NRCS/USDA web soil survey at USDA Web Soil Survey, available as noted in Appendix B; and\n\nc. Land cover;\n\n(10) All error messages, warnings, and other such indicators provided by the software model, with explanations for their occurrence, as applicable; and\n\n(11) All electronic files required for the department to run and assess the accuracy of the models.\n\n(d) The storm duration used in the modeling shall exceed the time for water to flow from the outermost point in the system to the subject location, but shall be no less than 24 hours, so as to ensure that the total runoff volume will be included in the routing of the storm through the dam structure.\n\nSource. #1716, eff 2-20-81; ss by #2207, eff 12-13-82; ss by #2900, eff 11-7-84, EXPIRED 11-7-90\n\nNew. #5080, eff 2-22-91; rpld by #6462-B, eff 2-21-97\n\nNew. #8414, eff 8-20-05; ss by #10510, eff 1-22-14; ss by #13980, eff 5-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wr100-900.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/402.15",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "altLabel": "Financial Statement",
+  "authority": [
+    {
+      "citation": "146-D:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-D:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-D:6",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/402",
+  "definition": "Financial statement",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12942, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 402.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 402.15 Financial statement",
+  "recordType": "rule-section",
+  "ruleText": "Odb 402.15 “Financial statement” means a complete accounting of a facility owner's financial condition prepared in accordance with generally accepted accounting practices or standards including a statement of assets and liabilities, income statement, statement of cash flows, and statement of whether the owner is creditworthy.\n\nSource. #12942, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

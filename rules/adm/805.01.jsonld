@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/adm/805.01",
+  "@type": "Concept",
+  "agencyCode": "Adm",
+  "authority": [
+    {
+      "citation": "21-I",
+      "source": "https://granitestate.github.io/rsa/21-I",
+      "via": "appendix"
+    },
+    {
+      "citation": "21-I:12",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-I/21-I-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:1",
+      "paragraphs": [
+        "XV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-I",
+    "https://granitestate.github.io/rsa/21-I/21-I-12",
+    "https://granitestate.github.io/rsa/541-A/541-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/adm/805",
+  "definition": "Recommendations",
+  "effectiveDate": "2023-07-29",
+  "historyNote": "#13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Adm 805.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm800.html",
+  "prefLabel": "Adm 805.01 Recommendations",
+  "recordType": "rule-section",
+  "ruleText": "Adm 805.01 Recommendations.\n\n(a) Pursuant to RSA 21-I:12, II(a)(1), the personnel of the division assigned to manage rentals shall provide to the director:\n\n(1) For proposed rental agreements at no cost or at a cost equal to or exceeding the governor and council approval threshold over the total duration of the agreement, a synopsis of each proposed lease, and his or her recommendations relative to approval or rejection of the proposed rental agreement; or\n\n(2) For proposed rental agreements for a cost that is less than the governor and council approval threshold over the total duration of the agreement, his or her recommendations relative to approval or rejection of the proposed rental agreement.\n\n(b) The director shall, pursuant to RSA 21-I:12, II(a)(1), provide the recommendations under (a) above to the commissioner.\n\nSource. #13708, eff 7-29-23 (see Revision Note at chapter heading for Adm 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/adm800.html"
+}

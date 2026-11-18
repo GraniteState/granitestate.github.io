@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fire/703.02",
+  "@type": "Concept",
+  "agencyCode": "Fire",
+  "authority": [
+    {
+      "citation": "21-P:25",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-P/21-P-25",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "21-P:28",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-P/21-P-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fire/703",
+  "definition": "Lapse in Service",
+  "effectiveDate": "2025-01-10",
+  "historyNote": "#12225-B, eff 6-28-17; ss by #14172, eff 1-10-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fire 703.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html",
+  "prefLabel": "Fire 703.02 Lapse in Service",
+  "recordType": "rule-section",
+  "ruleText": "Fire 703.02 Lapse in Service.\n\n(a) The employment eligibility for a full-time career fire service personnel shall lapse if the employee terminates employment and is not employed as a fire service personnel within a period of 26 months after such termination.\n\n(b) If the person who has lapsed is re-employed as a full-time career fire service personnel after their employment eligibility has lapsed, the hiring authority shall follow the hiring requirements outlined in Fire 701.01 and Fire 701.02.\n\nSource #12225-B, eff 6-28-17; ss by #14172, eff 1-10-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fire100-900.html"
+}

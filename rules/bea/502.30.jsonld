@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bea/502.30",
+  "@type": "Concept",
+  "agencyCode": "Bea",
+  "altLabel": "Local Land Use Board",
+  "authority": [
+    {
+      "citation": "12-O:75",
+      "source": "https://granitestate.github.io/rsa/12-O/12-O-75",
+      "via": "appendix"
+    },
+    {
+      "citation": "672:7",
+      "source": "https://granitestate.github.io/rsa/672/672-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "673",
+      "source": "https://granitestate.github.io/rsa/673",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/12-O/12-O-75",
+    "https://granitestate.github.io/rsa/672/672-7",
+    "https://granitestate.github.io/rsa/673"
+  ],
+  "broader": "https://granitestate.github.io/rules/bea/502",
+  "definition": "Local land use board",
+  "effectiveDate": "2024-08-08",
+  "historyNote": "#14043, eff 8-8-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bea 502.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html",
+  "prefLabel": "Bea 502.30 Local land use board",
+  "recordType": "rule-section",
+  "ruleText": "Bea 502.30 “Local land use board” means “local land use board” as defined in RSA 672:7, namely “a planning board, historic district commission, inspector of buildings, building code board of appeals, zoning board of adjustment, or other board or commission authorized under RSA 673 established by a local legislative body.”\n\nSource. #14043, eff 8-8-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bea500.html"
+}

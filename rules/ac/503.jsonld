@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ac/503",
+  "@type": "Concept",
+  "agencyCode": "Ac",
+  "authority": [
+    {
+      "citation": "309-B:4",
+      "paragraphs": [
+        "VI(d)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "309-B:14",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ac/500",
+  "definition": "INDEPENDENCE, INTEGRITY, AND OBJECTIVITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ac/503.01"
+  ],
+  "notation": "Ac 503",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html",
+  "prefLabel": "Ac 503 INDEPENDENCE, INTEGRITY, AND OBJECTIVITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ac 503 INDEPENDENCE, INTEGRITY, AND OBJECTIVITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ac100-500.html"
+}

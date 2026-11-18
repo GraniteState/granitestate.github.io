@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/we/203.01",
+  "@type": "Concept",
+  "agencyCode": "We",
+  "authority": [
+    {
+      "citation": "482-B",
+      "source": "https://granitestate.github.io/rsa/482-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-B",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/we/203",
+  "definition": "Preliminary Processing of Complaints",
+  "effectiveDate": "2008-06-13",
+  "expirationDate": "2016-06-13",
+  "historyNote": "#7307, eff 6-13-00; ss by #9178-B, eff 6-13-08, EXPIRED: 6-13-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "We 203.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html",
+  "prefLabel": "We 203.01 Preliminary Processing of Complaints",
+  "recordType": "rule-section",
+  "ruleText": "We 203.01 Preliminary Processing of Complaints. Prior to formal proceedings in a contested case, the following procedure shall apply in responding to a complaint against a licensee:\n\n(a) The staff shall consider informal resolution through communication between the complainant and the licensee.\n\n(b) If the complainant wishes to proceed further, the complainant shall submit a written complaint.\n\n(c) Complaints shall be signed and dated by the person(s) filing the complaint.\n\n(d) Upon receipt of the complaint, staff shall send copies to the members of the board and to the licensee.\n\n(e) The licensee shall respond to the complaint, in writing, within 30 days.\n\n(f) The licensee shall also provide a copy of the written response to the complainant(s).\n\nSource. #7307, eff 6-13-00; ss by #9178-B, eff 6-13-08, EXPIRED: 6-13-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/we100-1000.html"
+}

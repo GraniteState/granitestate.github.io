@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/odb/209.01",
+  "@type": "Concept",
+  "agencyCode": "Odb",
+  "authority": [
+    {
+      "citation": "146-A:11-b",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-b",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:38",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/odb/209",
+  "definition": "Definitions",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8490-B, eff 11-22-05; ss by #9918-B, eff 4-28-11; ss by #10580, eff 4-30-14; ss by #12941, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Odb 209.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html",
+  "prefLabel": "Odb 209.01 Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Odb 209.01 Definitions.\n\n(a) “Person” means “person” as defined in RSA 146-A:11-b, I(a).\n\n(b) “Penalties” means penalties assessed by the department of safety under RSA 146-A:11-b, IV.\n\nSource. #8490-B, eff 11-22-05; ss by #9918-B, eff 4-28-11; ss by #10580, eff 4-30-14; ss by #12941, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/odb100-600.html"
+}

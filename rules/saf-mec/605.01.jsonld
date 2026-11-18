@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/saf-mec/605.01",
+  "@type": "Concept",
+  "agencyCode": "Saf-Mec",
+  "authority": [
+    {
+      "citation": "153:27-a",
+      "paragraphs": [
+        "II(a)",
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-27-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "153:29-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/153/153-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "278",
+      "source": "https://granitestate.github.io/rsa/278",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/153/153-27-a",
+    "https://granitestate.github.io/rsa/153/153-29-a",
+    "https://granitestate.github.io/rsa/278"
+  ],
+  "broader": "https://granitestate.github.io/rules/saf-mec/605",
+  "definition": "Administrative Obligations",
+  "effectiveDate": "2017-09-20",
+  "historyNote": "#12385, eff 9-20-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Saf-Mec 605.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html",
+  "prefLabel": "Saf-Mec 605.01 Administrative Obligations",
+  "recordType": "rule-section",
+  "ruleText": "Saf-Mec 605.01 Administrative Obligations.\n\n(a) Licensees, certificate holders, and business entities shall notify the board's office of a change of name, address, or telephone number within 30 days of the date of the change.\n\n(b) Licensed mechanical business entities shall submit an updated licensure application, free of charge, within 30 calendar days following the replacement of the responsible managing employee, corporate officer, managing member, or partner who signed the business entity's application for initial licensure.\n\n(c) Whenever mechanical licensees, certificate holders, or business entities begin a plumbing, fuel gas fitting, oil heating, or water treatment project, installation or replacement, in a location where there is no local code enforcement authority pursuant to RSA 155-A:2 VIII, they shall report by fax, e-mail, or letter to the board's office:\n\n(1) The name of the licensee, certificate holder, or business entity beginning the job;\n\n(2) The address of the job site; and\n\n(3) Whether the job is remodeling, rehabilitation, or new construction.\n\nSource. #12385, eff 9-20-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/saf-mec600.html"
+}

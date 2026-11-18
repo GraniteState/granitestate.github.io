@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/404",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "broader": "https://granitestate.github.io/rules/bar/400",
+  "definition": "INSPECTIONS AND FORMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/bar/404.01",
+    "https://granitestate.github.io/rules/bar/404.02",
+    "https://granitestate.github.io/rules/bar/404.03",
+    "https://granitestate.github.io/rules/bar/404.04",
+    "https://granitestate.github.io/rules/bar/404.05",
+    "https://granitestate.github.io/rules/bar/404.06",
+    "https://granitestate.github.io/rules/bar/404.07",
+    "https://granitestate.github.io/rules/bar/404.08",
+    "https://granitestate.github.io/rules/bar/404.09",
+    "https://granitestate.github.io/rules/bar/404.10",
+    "https://granitestate.github.io/rules/bar/404.11",
+    "https://granitestate.github.io/rules/bar/404.12"
+  ],
+  "notation": "Bar 404",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 404 INSPECTIONS AND FORMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Bar 404 INSPECTIONS AND FORMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

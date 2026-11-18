@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.29",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Qualified",
+  "effectiveDate": "1998-12-09",
+  "historyNote": "#6097, eff 9-29-95; ss by #6908, eff 12-9-98; renumbered by #12427 (formerly Den 101.21); renumbered by #14140 (formerly Den 101.25)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.29",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.29 Qualified",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.29 \"Qualified\" means meeting the requirements of Den 302.05.\n\nSource. #6097, eff 9-29-95; ss by #6908, eff 12-9-98; renumbered by #12427 (formerly Den 101.21); renumbered by #14140 (formerly Den 101.25)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}

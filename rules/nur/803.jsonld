@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/nur/803",
+  "@type": "Concept",
+  "agencyCode": "Nur",
+  "authority": [
+    {
+      "citation": "326-B:9",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "326-B:32",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/nur/800",
+  "definition": "BOARD APPROVAL OF MEDICATION ADMINISTRATION EDUCATION PROGRAMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/nur/803.01",
+    "https://granitestate.github.io/rules/nur/803.02",
+    "https://granitestate.github.io/rules/nur/803.03"
+  ],
+  "notation": "Nur 803",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html",
+  "prefLabel": "Nur 803 BOARD APPROVAL OF MEDICATION ADMINISTRATION EDUCATION PROGRAMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Nur 803 BOARD APPROVAL OF MEDICATION ADMINISTRATION EDUCATION PROGRAMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/nur100-800.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/emp/410",
+  "@type": "Concept",
+  "agencyCode": "Emp",
+  "authority": [
+    {
+      "citation": "282-A:15",
+      "paragraphs": [
+        "II(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/282-A/282-A-15",
+      "via": "appendix"
+    },
+    {
+      "citation": "282-A:41",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/282-A/282-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/emp/400",
+  "definition": "ALIENS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/emp/410.01",
+    "https://granitestate.github.io/rules/emp/410.02",
+    "https://granitestate.github.io/rules/emp/410.03"
+  ],
+  "notation": "Emp 410",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html",
+  "prefLabel": "Emp 410 ALIENS",
+  "recordType": "rule-part",
+  "ruleText": "PART Emp 410 ALIENS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/emp100-500.html"
+}

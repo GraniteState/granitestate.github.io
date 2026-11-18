@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/701.03",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:8",
+      "paragraphs": [
+        "IX"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:19",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/701",
+  "definition": "Application for a Mobile Barbershop License",
+  "effectiveDate": "2026-10-15",
+  "expirationDate": "2036-10-15",
+  "historyNote": "#13128, eff 10-30-20; ss by #14660, eff 10-15-26, EXPIRES: 10-15-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 701.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 701.03 Application for a Mobile Barbershop License",
+  "recordType": "rule-section",
+  "ruleText": "Bar 701.03 Application for a Mobile Barbershop License.\n\n(a) Each applicant for a mobile barbershop shall be currently licensed as a barber or master barber, or have a manager employed that is currently licensed as a barber or master barber.\n\n(b) Each applicant applying for a mobile barbershop license shall complete and submit:\n\n(1) The “Universal Application for Initial License” as required by Plc 304.01(a)(1);\n\n(2) A “Mobile Barbershop Addendum to the Universal Application for Initial Licensure”, revised 10/2026 to provide the following:\n\na. The full legal name of the shop owner;\n\nb. The address of the shop owner;\n\nc. The permanent base mailing address of the shop; and\n\nd. The full legal name and professional license number of the shop owner or the manager employed by the shop, whichever is applicable; and\n\n(3) Pay the shop license application fee required by Plc 1002.07.\n\nSource. #13128, eff 10-30-20; ss by #14660, eff 10-15-26, EXPIRES: 10-15-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

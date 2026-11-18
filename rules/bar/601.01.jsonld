@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/601.01",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "altLabel": "Fitzpatrick Scale",
+  "authority": [
+    {
+      "citation": "313-A:1",
+      "paragraphs": [
+        "VIII-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/601",
+  "definition": "Fitzpatrick scale",
+  "effectiveDate": "2026-07-17",
+  "expirationDate": "2036-07-17",
+  "historyNote": "#8444, eff 10-06-05, EXPIRED: 10-6-13 New. #10808, eff 4-2-15, EXPIRED: 4-1-25 New. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 601.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 601.01 Fitzpatrick scale",
+  "recordType": "rule-section",
+  "ruleText": "Bar 601.01 “Fitzpatrick scale” means “Fitzpatrick scale” as defined in RSA 313-A:1, VIII-a, namely, “the following scale for classifying the 6 skin types, based on the skin's reaction to the first 10 to 45 minutes of sun exposure after the winter season: Skin Type Sunburning and Tanning History\n\n1 Always burns easily; never tans\n\n2 Always burns easily; tans minimally\n\n3 Burns moderately; tans gradually\n\n4 Burns minimally; always tans well\n\n5 Rarely burns; tans profusely\n\n6 Never burns; deeply pigmented.”\n\nSource. #8444, eff 10-06-05, EXPIRED: 10-6-13\n\nNew. #10808, eff 4-2-15, EXPIRED: 4-1-25\n\nNew. #14271, INTERIM, eff 6-16-25, EXPIRES: 12-14-25; ss by #14591, eff 7-17-26, EXPIRES: 7-17-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

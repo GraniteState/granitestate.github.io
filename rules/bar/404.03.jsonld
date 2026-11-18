@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/bar/404.03",
+  "@type": "Concept",
+  "agencyCode": "Bar",
+  "authority": [
+    {
+      "citation": "313-A:19",
+      "source": "https://granitestate.github.io/rsa/313-A/313-A-19",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:21",
+      "via": "appendix"
+    },
+    {
+      "citation": "313-A:23",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/313-A/313-A-19"
+  ],
+  "broader": "https://granitestate.github.io/rules/bar/404",
+  "definition": "Initial License Inspection Failure",
+  "effectiveDate": "2017-06-30",
+  "historyNote": "#5308, eff 1-16-92; ss by #5425, eff 6-24-92; ss by #6230, eff 4-26-96; ss and moved by #6577, eff 9-13-97 (formerly Bar 501.03); ss by #7323, eff 7-26-00; ss by #7555, eff 9-12-01; ss by #9345, eff 12-10-08; ss by #12226, eff 6-30-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Bar 404.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html",
+  "prefLabel": "Bar 404.03 Initial License Inspection Failure",
+  "recordType": "rule-section",
+  "ruleText": "Bar 404.03 Initial License Inspection Failure.\n\n(a) When the inspection report for initial licensure for a school or shop shows any deficiencies a license shall not be issued until a follow-up inspection is held which reveals that the license has rectified all deficiencies.\n\n(b) Revocation and suspension shall be accomplished in accordance with RSA 313-A:23 and Bar 206 and Bar 208.\n\nSource. #5308, eff 1-16-92; ss by #5425, eff 6-24-92; ss by #6230, eff 4-26-96; ss and moved by #6577, eff 9-13-97 (formerly Bar 501.03); ss by #7323, eff 7-26-00; ss by #7555, eff 9-12-01; ss by #9345, eff 12-10-08; ss by #12226, eff 6-30-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/bar100-700.html"
+}

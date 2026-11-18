@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/den/101.28",
+  "@type": "Concept",
+  "agencyCode": "Den",
+  "altLabel": "Public Health Supervision",
+  "authority": [
+    {
+      "citation": "317-A:12",
+      "source": "https://granitestate.github.io/rsa/317-A/317-A-12",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/317-A/317-A-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/den/101",
+  "definition": "Public health supervision",
+  "effectiveDate": "2013-05-07",
+  "historyNote": "#6097, eff 9-29-95; ss by #6908, eff 12-9-98; ss by #10328-A, eff 5-7-13; renumbered by #12427 (formerly Den 101.20); renumbered by #14140 (formerly Den 101.24)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Den 101.28",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html",
+  "prefLabel": "Den 101.28 Public health supervision",
+  "recordType": "rule-section",
+  "ruleText": "Den 101.28 “Public health supervision” means a dentist with an active license authorizes procedures which are to be carried out by a dental hygienist with an active license practicing in a school, hospital or other institution, or for a homebound person without the dentist having to be present provided the dentist reviews the records once in a 12 month period.\n\nSource. #6097, eff 9-29-95; ss by #6908, eff 12-9-98; ss by #10328-A, eff 5-7-13; renumbered by #12427 (formerly Den 101.20); renumbered by #14140 (formerly Den 101.24)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/den100-500.html"
+}
