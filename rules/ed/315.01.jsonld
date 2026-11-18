@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/315.01",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N",
+      "source": "https://granitestate.github.io/rsa/21-N",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "193:1",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "source": "https://granitestate.github.io/rsa/193/193-1",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "193-A",
+      "source": "https://granitestate.github.io/rsa/193-A",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N",
+    "https://granitestate.github.io/rsa/193/193-1",
+    "https://granitestate.github.io/rsa/193-A"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/315",
+  "definition": "Statement of Purpose",
+  "effectiveDate": "2023-09-15",
+  "historyNote": "(See Revision Note at part heading for Ed 315) #5192, eff 7-24-91; amd by #5596, eff 3-19-93; ss by #6366, eff 10-30-96, EXPIRED: 10-30-04 New. #8262, eff 1-22-05; ss by #10129, eff 5-18-12; ss by #10557, eff 3-27-14; ss by #13158, eff 1-15-21; ss by #13745, eff 9-15-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 315.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html",
+  "prefLabel": "Ed 315.01 Statement of Purpose",
+  "priorExpiration": "2004-10-30",
+  "recordType": "rule-section",
+  "ruleText": "Ed 315.01 Statement of Purpose. The purpose of Ed 315 is to provide a process for uniform application of the requirements of RSA 193-A. These rules take into account the fact that home education is an alternative to attendance at a public or nonpublic school and is an individualized form of instruction in accordance with chapter 279:2, laws of 1990.\n\nSource. (See Revision Note at part heading for Ed 315) #5192, eff 7-24-91; amd by #5596, eff 3-19-93; ss by #6366, eff 10-30-96, EXPIRED: 10-30-04\n\nNew. #8262, eff 1-22-05; ss by #10129, eff 5-18-12; ss by #10557, eff 3-27-14; ss by #13158, eff 1-15-21; ss by #13745, eff 9-15-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed300.html"
+}

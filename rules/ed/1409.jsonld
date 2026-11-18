@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1409",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "51-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "193-E:2-a",
+      "paragraphs": [
+        "V(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:29",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1400",
+  "definition": "COMPLAINTS, REVOCATION, AND WITHDRAWAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/1409.01",
+    "https://granitestate.github.io/rules/ed/1409.02"
+  ],
+  "notation": "Ed 1409",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html",
+  "prefLabel": "Ed 1409 COMPLAINTS, REVOCATION, AND WITHDRAWAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 1409 COMPLAINTS, REVOCATION, AND WITHDRAWAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html"
+}

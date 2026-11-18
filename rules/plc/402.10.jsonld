@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/402.10",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Inspection Checklist",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314-A:6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/402",
+  "definition": "Inspection checklist",
+  "effectiveDate": "2024-08-15",
+  "historyNote": "#14031, eff 8-15-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 402.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html",
+  "prefLabel": "Plc 402.10 Inspection checklist",
+  "recordType": "rule-section",
+  "ruleText": "Plc 402.10 “Inspection checklist” means a list of the specific items and conditions to be inspected, together with the standard to be met by each, as established in rules adopted by the applicable board.\n\nSource. #14031, eff 8-15-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc400.html"
+}

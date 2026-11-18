@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1115",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186-C:14",
+      "source": "https://granitestate.github.io/rsa/186-C/186-C-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186-C/186-C-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1100",
+  "definition": "SURROGATE PARENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/1115.01",
+    "https://granitestate.github.io/rules/ed/1115.02",
+    "https://granitestate.github.io/rules/ed/1115.03",
+    "https://granitestate.github.io/rules/ed/1115.04",
+    "https://granitestate.github.io/rules/ed/1115.05",
+    "https://granitestate.github.io/rules/ed/1115.06",
+    "https://granitestate.github.io/rules/ed/1115.07",
+    "https://granitestate.github.io/rules/ed/1115.08"
+  ],
+  "notation": "Ed 1115",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html",
+  "prefLabel": "Ed 1115 SURROGATE PARENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 1115 SURROGATE PARENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html"
+}

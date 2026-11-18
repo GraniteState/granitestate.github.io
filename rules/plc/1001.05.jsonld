@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1001.05",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:1-d",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1001",
+  "definition": "Fees for Providing Copies of Documents or Electronic Information",
+  "effectiveDate": "2024-01-26",
+  "historyNote": "#13328, eff 7-8-21; ss by #13264, INTERIM, eff 9-22-21 (formerly Plc 1001.01); ss by #13336, eff 1-27-22; ss by #13838, eff 1-26-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1001.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html",
+  "prefLabel": "Plc 1001.05 Fees for Providing Copies of Documents or Electronic Information",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1001.05 Fees for Providing Copies of Documents or Electronic Information. The fees specified in Table 1001.1, below, shall apply as provided in Plc 1001.02 to the provision of copies of documents or electronic information requested from the OPLC or a supported board:\n\nTable 1001.1 Fees for Providing Copies of Documents or Electronic Information\n\nCategory | Fee\n\nCopying of paper documents | $0.25 per page\n\nProviding electronic information, including hearing recordings, on a portable data storage device, such as a flash drive | Actual cost of device used\n\nSource. #13328, eff 7-8-21; ss by #13264, INTERIM, eff 9-22-21 (formerly Plc 1001.01); ss by #13336, eff 1-27-22; ss by #13838, eff 1-26-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html"
+}

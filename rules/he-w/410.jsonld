@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w/410",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "authority": [
+    {
+      "citation": "126-A:5",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/126-A/126-A-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-B:11",
+      "via": "appendix"
+    },
+    {
+      "citation": "161-C:27",
+      "via": "appendix"
+    },
+    {
+      "citation": "541:6",
+      "source": "https://granitestate.github.io/rsa/541/541-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/126-A/126-A-5",
+    "https://granitestate.github.io/rsa/541/541-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/he-w/400",
+  "definition": "APPEALS OF BUREAU OF CHILD SUPPORT SERVICES ACTIONS AND DECISIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-w/410.01"
+  ],
+  "notation": "He-W 410",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w400.html",
+  "prefLabel": "He-W 410 APPEALS OF BUREAU OF CHILD SUPPORT SERVICES ACTIONS AND DECISIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART He-W 410 APPEALS OF BUREAU OF CHILD SUPPORT SERVICES ACTIONS AND DECISIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/he-w400.html"
+}

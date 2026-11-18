@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/702.14",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Intense Pulsed Light (IPL)",
+  "authority": [
+    {
+      "citation": "310-A",
+      "source": "https://granitestate.github.io/rsa/310-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314",
+      "source": "https://granitestate.github.io/rsa/314",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A",
+    "https://granitestate.github.io/rsa/314"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/702",
+  "definition": "Intense pulsed light (IPL)",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 702.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 702.14 Intense pulsed light (IPL)",
+  "recordType": "rule-section",
+  "ruleText": "Plc 702.14 “Intense pulsed light (IPL)” means an intense pulse of electromagnetic radiation of many different wavelengths that penetrates to the dermis, or the second layer of skin, without harming the epidermis, or top layer of skin. In this chapter, the term refers only to the use of IPL to remove hair and not to any of the other uses of IPL.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

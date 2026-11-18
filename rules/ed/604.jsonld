@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/604",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "altLabel": "CLINICAL PRACTICE AND PARTNERSHIP STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS AT THE BACCALAUREATE AND POST-BACCALAUREAE LEVELS",
+  "authority": [
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/600",
+  "definition": "CLINICAL PRACTICE AND PARTNERSHIP STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS AT THE BACCALAUREATE AND POST-BACCALAUREATE LEVELS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/604.01",
+    "https://granitestate.github.io/rules/ed/604.02",
+    "https://granitestate.github.io/rules/ed/604.03",
+    "https://granitestate.github.io/rules/ed/604.04",
+    "https://granitestate.github.io/rules/ed/604.05",
+    "https://granitestate.github.io/rules/ed/604.09"
+  ],
+  "notation": "Ed 604",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html",
+  "prefLabel": "Ed 604 CLINICAL PRACTICE AND PARTNERSHIP STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS AT THE BACCALAUREATE AND POST-BACCALAUREATE LEVELS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 604 CLINICAL PRACTICE AND PARTNERSHIP STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS AT THE BACCALAUREATE AND POST-BACCALAUREATE LEVELS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html"
+}

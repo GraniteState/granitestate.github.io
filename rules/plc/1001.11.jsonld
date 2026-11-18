@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1001.11",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:1-d",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1001",
+  "definition": "Fee for Retired or Inactive Status",
+  "effectiveDate": "2024-01-27",
+  "historyNote": "#13264, INTERIM, eff 9-22-21; ss by #13336, eff 1-27-22; ss by #13336, eff 1-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1001.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html",
+  "prefLabel": "Plc 1001.11 Fee for Retired or Inactive Status",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1001.11 Fee for Retired or Inactive Status. The fee for a licensee to be on retired or otherwise inactive status for those professions for which the statute under which the profession is regulated authorizes the status shall be as specified in Plc 1002.\n\nSource. #13264, INTERIM, eff 9-22-21; ss by #13336, eff 1-27-22; ss by #13336, eff 1-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html"
+}

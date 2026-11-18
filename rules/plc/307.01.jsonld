@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/307.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/307",
+  "definition": "Applicability",
+  "effectiveDate": "2024-05-03",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 307.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 307.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Plc 307.01 Applicability.\n\n(a) Plc 307.02 through Plc 307.05 shall apply to any person who holds a license to practice a regulated profession, whether an initial license, temporary license, provisional license, renewal license, or apprentice registration, and whether issued directly by a board or by the OPLC.\n\n(b) Plc 307.05 also shall apply to any student practicing under a provision in applicable law that allows such practice, whether as an internship or under a student license.\n\n(c) Plc 307.06 and Plc 307.07 shall apply to any licensee who is a member of any reserve component of the U.S. armed forces or the national guard and is called to active duty.\n\nSource. (See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

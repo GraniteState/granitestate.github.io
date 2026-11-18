@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/210",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310",
+      "source": "https://granitestate.github.io/rsa/310",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/200",
+  "definition": "DECLARATORY RULINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/210.01",
+    "https://granitestate.github.io/rules/plc/210.02",
+    "https://granitestate.github.io/rules/plc/210.03",
+    "https://granitestate.github.io/rules/plc/210.04",
+    "https://granitestate.github.io/rules/plc/210.05"
+  ],
+  "notation": "Plc 210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 210 DECLARATORY RULINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 210 DECLARATORY RULINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/606",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/600",
+  "definition": "ASSESSMENT SYSTEM STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/606.01",
+    "https://granitestate.github.io/rules/ed/606.02",
+    "https://granitestate.github.io/rules/ed/606.03"
+  ],
+  "notation": "Ed 606",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html",
+  "prefLabel": "Ed 606 ASSESSMENT SYSTEM STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 606 ASSESSMENT SYSTEM STANDARDS FOR PROFESSIONAL EDUCATOR PREPARATION PROGRAMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html"
+}

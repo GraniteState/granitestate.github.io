@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/211.03",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310",
+      "source": "https://granitestate.github.io/rsa/310",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/211",
+  "definition": "Format of Petition for Waiver",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (formerly Plc 211.01(c)) (See Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 211.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 211.03 Format of Petition for Waiver",
+  "recordType": "rule-section",
+  "ruleText": "Plc 211.03 Format of Petition for Waiver. A petition for waiver of a rule filed under this part shall:\n\n(a) Be directed to the presiding officer if one has been designated, or to the executive director or board if no presiding officer has been designated;\n\n(b) Be in written form, unless made in response to a matter asserted for the first time at an oral public hearing or on the basis of information that was not received in time to prepare a written request prior to the hearing at which the request is made; and\n\n(c) Be included in the record of the proceeding if in writing, or recorded in full in the record of the hearing if made at an oral public hearing.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (formerly Plc 211.01(c)) (See Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

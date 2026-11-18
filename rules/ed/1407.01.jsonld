@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1407.01",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186-C:7",
+      "source": "https://granitestate.github.io/rsa/186-C/186-C-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "193-E:2-a",
+      "paragraphs": [
+        "V(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/193-E/193-E-2-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186-C/186-C-7",
+    "https://granitestate.github.io/rsa/193-E/193-E-2-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1407",
+  "definition": "Program Completion Certificates",
+  "effectiveDate": "2024-04-12",
+  "historyNote": "#13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 1407.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html",
+  "prefLabel": "Ed 1407.01 Program Completion Certificates",
+  "recordType": "rule-section",
+  "ruleText": "Ed 1407.01 Program Completion Certificates.\n\n(a) Within 30 days of a student's successful completion of a program and submission of a learn everywhere program evaluation, a completion certificate shall be issued to the student.\n\n(b) Certificates shall be signed by the person designated in Ed 1403.01(b)(2) and the instructor(s) of the program.\n\n(c) Certificates shall contain course identification and credit information, including, but not limited to:\n\n(1) Course title;\n\n(2) Course minimum standard alignment as indicated in Ed 1403.01(e)(1)a.;\n\n(3) Number of credits awarded; and\n\n(4) Either:\n\na. \"Mastery\" to indicate completion of the program having met or substantially met all state competencies which results in a granting of credit; or\n\nb. \"Participate\" to indicate the program was completed without having met or substantially met all state competencies.\n\n(d) An IEP team may conclude that participation shows growth toward one or more of a student's annual or appropriate measurable post-secondary goals.\n\nSource. #13090, eff 8-14-20 (see Revision Note at chapter heading for Ed 1400); ss by #13393, eff 6-10-22; ss by #13924, eff 4-12-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1400.html"
+}

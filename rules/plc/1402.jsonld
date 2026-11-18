@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1402",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "326-J:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1400",
+  "definition": "CHAPTER-SPECIFIC DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1402.01",
+    "https://granitestate.github.io/rules/plc/1402.02",
+    "https://granitestate.github.io/rules/plc/1402.03",
+    "https://granitestate.github.io/rules/plc/1402.04",
+    "https://granitestate.github.io/rules/plc/1402.05",
+    "https://granitestate.github.io/rules/plc/1402.06",
+    "https://granitestate.github.io/rules/plc/1402.07"
+  ],
+  "notation": "Plc 1402",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1400.html",
+  "prefLabel": "Plc 1402 CHAPTER-SPECIFIC DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1402 CHAPTER-SPECIFIC DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1400.html"
+}

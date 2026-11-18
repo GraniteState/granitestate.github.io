@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/709",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "314:8",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/700",
+  "definition": "STANDARDS OF PRACTICE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/709.01",
+    "https://granitestate.github.io/rules/plc/709.02",
+    "https://granitestate.github.io/rules/plc/709.03"
+  ],
+  "notation": "Plc 709",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 709 STANDARDS OF PRACTICE",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 709 STANDARDS OF PRACTICE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

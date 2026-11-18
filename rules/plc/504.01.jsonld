@@ -1,0 +1,48 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/504.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:29-a",
+      "source": "https://granitestate.github.io/rsa/318/318-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:36-a",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/318/318-29-a",
+    "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+    "https://granitestate.github.io/rsa/329/329-13-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/504",
+  "definition": "Advertising by Approved Providers Allowed",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#13971, eff 7-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html",
+  "prefLabel": "Plc 504.01 Advertising by Approved Providers Allowed",
+  "recordType": "rule-section",
+  "ruleText": "Plc 504.01 Advertising by Approved Providers Allowed. An approved provider may advertise its approved status and that it is an appropriate vehicle for any licensee who:\n\n(a) Has been directed to participate in a professionals’ health program by a disciplinary order from, or agreement with, an applicable board;\n\n(b) Wishes to propose to an applicable board that participation in a professionals’ health program be considered by the applicable board in disposing of pending or potential disciplinary actions; or\n\n(c) Wishes to obtain assistance via an NKTB path.\n\nSource. #13971, eff 7-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html"
+}

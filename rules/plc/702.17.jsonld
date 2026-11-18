@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/702.17",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Plan of Correction",
+  "authority": [
+    {
+      "citation": "310-A",
+      "source": "https://granitestate.github.io/rsa/310-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314",
+      "source": "https://granitestate.github.io/rsa/314",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310-A",
+    "https://granitestate.github.io/rsa/314"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/702",
+  "definition": "Plan of correction",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 702.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 702.17 Plan of correction",
+  "recordType": "rule-section",
+  "ruleText": "Plc 702.17 “Plan of correction” means a written representation of a revised policy or practice that reflects how an electrologist will correct a violation of, and come into compliance with, Plc 700 or RSA 314 or such analogous requirements as apply in the jurisdiction asked to provide confirmation of good standing.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1505",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "326-E:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1500",
+  "definition": "RESERVED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1505.02",
+    "https://granitestate.github.io/rules/plc/1505.03",
+    "https://granitestate.github.io/rules/plc/1505.04",
+    "https://granitestate.github.io/rules/plc/1505.05",
+    "https://granitestate.github.io/rules/plc/1505.06",
+    "https://granitestate.github.io/rules/plc/1505.07",
+    "https://granitestate.github.io/rules/plc/1505.09"
+  ],
+  "notation": "Plc 1505",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html",
+  "prefLabel": "Plc 1505 RESERVED",
+  "recordType": "rule-part",
+  "ruleText": "Part Plc 1505 titled “Conditional Licenses”",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html"
+}

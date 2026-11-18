@@ -1,0 +1,20 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/he-w",
+  "@type": "Concept",
+  "agencyCode": "He-W",
+  "definition": "Former Division of Human Services",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/he-w/400",
+    "https://granitestate.github.io/rules/he-w/500",
+    "https://granitestate.github.io/rules/he-w/600",
+    "https://granitestate.github.io/rules/he-w/700",
+    "https://granitestate.github.io/rules/he-w/800",
+    "https://granitestate.github.io/rules/he-w/900"
+  ],
+  "notation": "He-W",
+  "prefLabel": "He-W Former Division of Human Services",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

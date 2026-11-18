@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1804.07",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-C:17",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1804",
+  "definition": "Premature Termination of Training",
+  "effectiveDate": "2025-09-22",
+  "expirationDate": "2035-09-22",
+  "historyNote": "#14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1804.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html",
+  "prefLabel": "Plc 1804.07 Premature Termination of Training",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1804.07 Premature Termination of Training.\n\n(a) If a trainee’s employment is terminated prior to completing the required hours of training, the field training supervisor shall notify the licensing bureau and the director of the DRA municipal and property division within 10 days, in writing that includes:\n\n(1) The name and certification number of the field training supervisor;\n\n(2) The name of the trainee;\n\n(3) The name of each municipality in which the training occurred; and\n\n(4) Each reason for the termination of the training.\n\n(b) If the trainee is hired elsewhere and initiates training with a new field training supervisor, then:\n\n(1) The trainee shall notify the licensing bureau and the director of the DRA municipal and property division of the name and certification number of the new field training supervisor within 5 days of initiating the training; and\n\n(2) The hours of training accrued under the prior field training supervisor shall be credited toward completing the training, subject to (c) and (d), below.\n\n(c) The training hours accrued shall expire if not transferred to another field training supervisor within 2 years.\n\n(d) If a trainee fails to notify the licensing bureau as required by (b)(1), above, any training hours accrued prior to the notification being submitted shall not be credited towards the total needed to complete the training.\n\n(e) A field training supervisor who believes that the hours obtained by a trainee prior to the premature termination of the training should not be credited may submit an objection in writing to the licensing bureau that explains each reason why some or all of the hours should not be credited.\n\n(f) If an objection is filed under (e), above, the OPLC shall initiate an adjudicative proceeding under Plc 200 to determine whether the hours will be credited.\n\nSource. #14330, eff 9-22-25, EXPIRES: 9-22-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1800.html"
+}

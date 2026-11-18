@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1001.04",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310-A:1-d",
+      "paragraphs": [
+        "II(h)"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1001",
+  "definition": "Chapter-Specific Definitions",
+  "effectiveDate": "2022-01-27",
+  "historyNote": "#13264, INTERIM, eff 9-22-21; ss by #13336, eff 1-27-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 1001.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html",
+  "prefLabel": "Plc 1001.04 Chapter-Specific Definitions",
+  "recordType": "rule-section",
+  "ruleText": "Plc 1001.04 Chapter-Specific Definitions. The following definitions shall apply to this chapter:\n\n(a) “Reinstatement” means issuing a license to an individual who previously held a license but whose license has lapsed, expired, or otherwise been rendered inactive; and\n\n(b) “Renewal” means issuing a license to an individual who holds a license at the time an application to renew the license is filed or who files an application to renew the license within the grace period allowed by the applicable board, commission, or council.\n\nSource. #13264, INTERIM, eff 9-22-21; ss by #13336, eff 1-27-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1000.html"
+}

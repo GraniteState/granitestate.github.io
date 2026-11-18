@@ -123,6 +123,14 @@
       "sections": 36
     },
     {
+      "code": "Ed",
+      "html": "rules/ed/index.html",
+      "id": "https://granitestate.github.io/rules/ed",
+      "jsonld": "rules/ed/index.jsonld",
+      "name": "Board of Education",
+      "sections": 897
+    },
+    {
       "code": "Elec",
       "html": "rules/elec/index.html",
       "id": "https://granitestate.github.io/rules/elec",
@@ -193,6 +201,14 @@
       "jsonld": "rules/he-p/index.jsonld",
       "name": "Former Division of Public Health Services",
       "sections": 1735
+    },
+    {
+      "code": "He-W",
+      "html": "rules/he-w/index.html",
+      "id": "https://granitestate.github.io/rules/he-w",
+      "jsonld": "rules/he-w/index.jsonld",
+      "name": "Former Division of Human Services",
+      "sections": 1043
     },
     {
       "code": "Hedc",
@@ -281,6 +297,14 @@
       "jsonld": "rules/per-a/index.jsonld",
       "name": "Personnel Appeals Board",
       "sections": 71
+    },
+    {
+      "code": "Plc",
+      "html": "rules/plc/index.html",
+      "id": "https://granitestate.github.io/rules/plc",
+      "jsonld": "rules/plc/index.jsonld",
+      "name": "Executive Director, Office of Professional Licensure and Certification",
+      "sections": 1404
     },
     {
       "code": "Plu",
@@ -381,14 +405,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 47,
-    "chapters": 440,
+    "agencies": 50,
+    "chapters": 481,
     "droppedHeadings": 105,
-    "parts": 2977,
-    "rules": 23117,
-    "sections": 19700,
-    "unresolvedRows": 17018,
-    "unresolvedStatutes": 1769
+    "parts": 3540,
+    "rules": 27065,
+    "sections": 23044,
+    "unresolvedRows": 19312,
+    "unresolvedStatutes": 2076
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1510",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "326-E:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1500",
+  "definition": "PROCEDURES; DISCIPLINARY PROCEEDINGS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1510.01",
+    "https://granitestate.github.io/rules/plc/1510.02",
+    "https://granitestate.github.io/rules/plc/1510.03"
+  ],
+  "notation": "Plc 1510",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html",
+  "prefLabel": "Plc 1510 PROCEDURES; DISCIPLINARY PROCEEDINGS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1510 PROCEDURES; DISCIPLINARY PROCEEDINGS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html"
+}

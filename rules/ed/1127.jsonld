@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1127",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "altLabel": "CHILDREN WITH DISABILITIES IN PLACEMENT FOR WHICH DCYF HAS FINANCIAL RESPONSIBILITY",
+  "authority": [
+    {
+      "citation": "186-C:19-a",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1100",
+  "definition": "CHILDREN WITH DISABILITIES IN PLACEMENTS FOR WHICH DCYF HAS FINANCIAL RESPONSIBILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/1127.01",
+    "https://granitestate.github.io/rules/ed/1127.02",
+    "https://granitestate.github.io/rules/ed/1127.03",
+    "https://granitestate.github.io/rules/ed/1127.04"
+  ],
+  "notation": "Ed 1127",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html",
+  "prefLabel": "Ed 1127 CHILDREN WITH DISABILITIES IN PLACEMENTS FOR WHICH DCYF HAS FINANCIAL RESPONSIBILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 1127 CHILDREN WITH DISABILITIES IN PLACEMENTS FOR WHICH DCYF HAS FINANCIAL RESPONSIBILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html"
+}

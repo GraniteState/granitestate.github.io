@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1506",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "326-E",
+      "source": "https://granitestate.github.io/rsa/326-E",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-E"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1500",
+  "definition": "RESPIRATORY CARE STUDENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1506.04",
+    "https://granitestate.github.io/rules/plc/1506.05"
+  ],
+  "notation": "Plc 1506",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html",
+  "prefLabel": "Plc 1506 RESPIRATORY CARE STUDENTS",
+  "recordType": "rule-part",
+  "ruleText": "Part Plc 1506 titled “Respiratory Care Students”, as follows:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1500.html"
+}

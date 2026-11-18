@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/706.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310-A:1-d",
+      "via": "appendix"
+    },
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "314:9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/706",
+  "definition": "Rules of Practice and Procedure",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 706.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 706.01 Rules of Practice and Procedure",
+  "recordType": "rule-section",
+  "ruleText": "Plc 706.01 Rules of Practice and Procedure.\n\n(a) The rules in Plc 200 shall govern procedures for:\n\n(1) The receipt of misconduct complaints and the investigation thereof;\n\n(2) The conduct of disciplinary hearings;\n\n(3) Waivers;\n\n(4) Voluntary surrender of licenses; and\n\n(5) Any other procedures not included in this chapter.\n\n(b) As provided in RSA 314:7, VII, rehearings and appeals of an order of the executive director to deny, suspend, or revoke a license or impose a fine shall be made under RSA 541.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

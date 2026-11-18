@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/210.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310",
+      "source": "https://granitestate.github.io/rsa/310",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/210",
+  "definition": "Purpose",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 210.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 210.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Plc 210.01 Purpose.\n\n(a) The purpose of this part is to establish a mechanism whereby a person who is uncertain of the applicability of a particular statute implemented by the executive director or a board or a rule adopted by the executive director or a board may request a decision in advance of taking an action that might be subject to such statute or rule.\n\n(b) This part shall not be used to circumvent other established methods of adjudication, such as an appeal, in cases where the executive director or board has already made a determination, such as by issuing or denying a license or by initiating a disciplinary or non-disciplinary remedial proceeding.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/210",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:4",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/200",
+  "definition": "PROPOSED DECISIONS BY HEARING OFFICER",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/210.01",
+    "https://granitestate.github.io/rules/ed/210.02"
+  ],
+  "notation": "Ed 210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html",
+  "prefLabel": "Ed 210 PROPOSED DECISIONS BY HEARING OFFICER",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 210 PROPOSED DECISIONS BY HEARING OFFICER",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html"
+}

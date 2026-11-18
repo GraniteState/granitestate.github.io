@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1104",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-H:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1100",
+  "definition": "INITIAL LICENSURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1104.01",
+    "https://granitestate.github.io/rules/plc/1104.02",
+    "https://granitestate.github.io/rules/plc/1104.03",
+    "https://granitestate.github.io/rules/plc/1104.04",
+    "https://granitestate.github.io/rules/plc/1104.05",
+    "https://granitestate.github.io/rules/plc/1104.06",
+    "https://granitestate.github.io/rules/plc/1104.07"
+  ],
+  "notation": "Plc 1104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html",
+  "prefLabel": "Plc 1104 INITIAL LICENSURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1104 INITIAL LICENSURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1100.html"
+}

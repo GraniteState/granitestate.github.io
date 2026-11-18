@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/707.05",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "VI"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "314:8",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/707",
+  "definition": "Equipment Sterilization",
+  "effectiveDate": "2022-12-22",
+  "historyNote": "#13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 707.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 707.05 Equipment Sterilization",
+  "recordType": "rule-section",
+  "ruleText": "Plc 707.05 Equipment Sterilization.\n\n(a) Prior to equipment sterilization, the surfaces of all instruments shall be cleansed of organic material by an ultrasonic cleaning device, rinsed, and dried.\n\n(b) Forceps and caps shall be soaked in a protein-dissolving solution after each treatment, prior to cleaning with the ultrasonic cleaning device.\n\n(c) Only sterilization equipment that passed the most recent biological indicator test as required by Plc 707.06 shall be used.\n\n(d) Sterilization of instruments shall be accomplished by any one of the following:\n\n(1) An autoclave sterilizer, which shall be set and operated according to the standard cycle for the specific autoclave sterilizer used; or\n\n(2) A dry heat sterilizer oven, which shall have a temperature monitoring device as part of the sterilizer.\n\n(e) A dry heat sterilizer shall be used by placing instruments individually in dry heat wrappers or unpackaged in small multiples in cleaned, dried stainless steel or heat-tempered glass containers that have well-fitting lids and then placed into the sterilizer for:\n\n(1) At least 2 hours at 320 degrees Fahrenheit;\n\n(2) At least one and one half hours at 335 degrees Fahrenheit; or\n\n(3) At least one hour at 340 degrees Fahrenheit.\n\n(f) If instruments are unpackaged but not used within 24 hours, the instruments shall be resterilized prior to use.\n\n(g) Cold chemical sterilizers, gas sterilizers, and bead sterilizers shall not be used.\n\n(h) Any instrument that becomes contaminated shall not be used until sterilized in accordance with (a) through (g) above.\n\n(i) If an IPL device is used, it shall be disinfected using an EPA-registered disinfectant according to the manufacturer’s direction.\n\nSource. #13495, eff 12-22-22 (see Revision Note at chapter heading for Plc 700)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

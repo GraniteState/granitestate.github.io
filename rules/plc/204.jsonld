@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/204",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:9",
+      "source": "https://granitestate.github.io/rsa/310/310-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/200",
+  "definition": "COMPLAINTS; INVESTIGATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/204.01",
+    "https://granitestate.github.io/rules/plc/204.02",
+    "https://granitestate.github.io/rules/plc/204.03",
+    "https://granitestate.github.io/rules/plc/204.04",
+    "https://granitestate.github.io/rules/plc/204.05",
+    "https://granitestate.github.io/rules/plc/204.06",
+    "https://granitestate.github.io/rules/plc/204.07"
+  ],
+  "notation": "Plc 204",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 204 COMPLAINTS; INVESTIGATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 204 COMPLAINTS; INVESTIGATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

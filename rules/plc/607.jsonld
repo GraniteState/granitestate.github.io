@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/607",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "314-A:5",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/600",
+  "definition": "LICENSE RENEWAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/607.01",
+    "https://granitestate.github.io/rules/plc/607.02",
+    "https://granitestate.github.io/rules/plc/607.03",
+    "https://granitestate.github.io/rules/plc/607.04",
+    "https://granitestate.github.io/rules/plc/607.05",
+    "https://granitestate.github.io/rules/plc/607.06",
+    "https://granitestate.github.io/rules/plc/607.07"
+  ],
+  "notation": "Plc 607",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html",
+  "prefLabel": "Plc 607 LICENSE RENEWAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 607 LICENSE RENEWAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/502.13",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "Personal Identifiable Information (PII)",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "318:29-a",
+      "source": "https://granitestate.github.io/rsa/318/318-29-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "326-B:36-a",
+      "source": "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "329:13-b",
+      "source": "https://granitestate.github.io/rsa/329/329-13-b",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/318/318-29-a",
+    "https://granitestate.github.io/rsa/326-B/326-B-36-a",
+    "https://granitestate.github.io/rsa/329/329-13-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/502",
+  "definition": "Personal identifiable information (PII)",
+  "effectiveDate": "2024-07-01",
+  "historyNote": "#13971, eff 7-1-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 502.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html",
+  "prefLabel": "Plc 502.13 Personal identifiable information (PII)",
+  "recordType": "rule-section",
+  "ruleText": "Plc 502.13 “Personal identifiable information (PII)” means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.\n\nSource. #13971, eff 7-1-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc500.html"
+}

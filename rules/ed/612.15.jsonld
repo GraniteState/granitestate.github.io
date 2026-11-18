@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/612.15",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N",
+      "source": "https://granitestate.github.io/rsa/21-N",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N",
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/612",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 612.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html",
+  "prefLabel": "Ed 612.15",
+  "recordType": "rule-section",
+  "ruleText": "Ed 612.15\n\n#7924, eff 7-24-03\n\n#9939, INTERIM, eff 6-9-11, EXPIRED: 12-6-11\n\n#10130, eff 5-18-12, EXPIRED: 5-18-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed600.html"
+}

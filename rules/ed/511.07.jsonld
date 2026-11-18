@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/511.07",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189",
+      "source": "https://granitestate.github.io/rsa/189",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189:13-a",
+      "source": "https://granitestate.github.io/rsa/189/189-13-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "189:13-b",
+      "source": "https://granitestate.github.io/rsa/189/189-13-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-11",
+    "https://granitestate.github.io/rsa/189",
+    "https://granitestate.github.io/rsa/189/189-13-a",
+    "https://granitestate.github.io/rsa/189/189-13-b",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/511",
+  "definition": "Request for Early Reinstatement",
+  "effectiveDate": "2024-06-14",
+  "historyNote": "#13999, eff 6-14-24 (see Revision Note at chapter heading for Ed 500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 511.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html",
+  "prefLabel": "Ed 511.07 Request for Early Reinstatement",
+  "recordType": "rule-section",
+  "ruleText": "Ed 511.07 Request for Early Reinstatement.\n\n(a) A credential holder who seeks early reinstatement of their teaching credential, prior to the terms of the imposed discipline, shall submit a written request to the state board for review, with consideration for such a request occurring at the next regularly scheduled meeting. The credential holder may appear in front of the state board in support of their request.\n\n(b) Such written request shall include evidence that the credential holder has corrected the deficiencies or conduct which led to the original disciplinary action.\n\n(c) The state board’s determination shall be subject to the appeal process for state board decisions pursuant to Ed 200.\n\nSource. #13999, eff 6-14-24 (see Revision Note at chapter heading for Ed 500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html"
+}

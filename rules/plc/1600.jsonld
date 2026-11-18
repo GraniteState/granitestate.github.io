@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1600",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "326-M",
+      "source": "https://granitestate.github.io/rsa/326-M",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/326-M"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc",
+  "definition": "REGISTRATION OF NURSE AGENCIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1601",
+    "https://granitestate.github.io/rules/plc/1602",
+    "https://granitestate.github.io/rules/plc/1603",
+    "https://granitestate.github.io/rules/plc/1604",
+    "https://granitestate.github.io/rules/plc/1605",
+    "https://granitestate.github.io/rules/plc/1606",
+    "https://granitestate.github.io/rules/plc/1607"
+  ],
+  "notation": "Plc 1600",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1600.html",
+  "prefLabel": "Plc 1600 REGISTRATION OF NURSE AGENCIES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Plc 1600 REGISTRATION OF NURSE AGENCIES\n\nStatutory Authority: RSA 326-M:2, II; RSA 326-M:4; RSA 310:6, II",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1600.html"
+}

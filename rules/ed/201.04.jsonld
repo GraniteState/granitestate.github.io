@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/201.04",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "21-N:11",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/21-N/21-N-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:31",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-31",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/21-N/21-N-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+    "https://granitestate.github.io/rsa/541-A/541-A-31"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/201",
+  "definition": "Computation of Time",
+  "effectiveDate": "2005-04-23",
+  "historyNote": "#8334-A, eff 4-23-05 (from Ed 206.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Ed 201.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html",
+  "prefLabel": "Ed 201.04 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Ed 201.04 Computation of Time.\n\n(a) Any time period specified in this chapter shall begin with the day following the event, act or default and shall include the last day of the period unless it is a Saturday, Sunday, or state legal holiday, in which event the period shall run until the end of the next business day. When the period prescribed or allowed is less than 7 days, intermediate Saturdays, Sundays, and state legal holidays shall be excluded from the computation.\n\n(b) Upon a finding of good cause and except where the time is fixed by statute, the hearing officer shall increase or decrease the time provided for the filing of any documents, or advance or postpone the time set for any oral hearings. Good cause shall include temporary unavailability of representative, party, witness or evidence. A motion for a change in time shall be granted upon a finding of diligence and probable injury to the moving party which outweighs any detriment likely to be suffered by any other party to the proceeding.\n\n(c) A motion to change time shall be filed within 3 business days of the event in question, unless good cause is shown, including, but not limited to instances of illness.\n\nSource. #8334-A, eff 4-23-05 (from Ed 206.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed200.html"
+}

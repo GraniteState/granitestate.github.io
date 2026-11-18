@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/704",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "314:2",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "314:3",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/700",
+  "definition": "INITIAL LICENSURE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/704.01",
+    "https://granitestate.github.io/rules/plc/704.02",
+    "https://granitestate.github.io/rules/plc/704.03",
+    "https://granitestate.github.io/rules/plc/704.04",
+    "https://granitestate.github.io/rules/plc/704.05",
+    "https://granitestate.github.io/rules/plc/704.06",
+    "https://granitestate.github.io/rules/plc/704.07"
+  ],
+  "notation": "Plc 704",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html",
+  "prefLabel": "Plc 704 INITIAL LICENSURE",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 704 INITIAL LICENSURE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc700.html"
+}

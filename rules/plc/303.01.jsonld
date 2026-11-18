@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/303.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "332",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/303",
+  "definition": "Timing of Obtaining Credentials Relative to Applications",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 303.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 303.01 Timing of Obtaining Credentials Relative to Applications",
+  "recordType": "rule-section",
+  "ruleText": "Plc 303.01 Timing of Obtaining Credentials Relative to Applications. If applicable law requires individuals to hold credentials from a regional or national organization in order to practice in New Hampshire, the applicant shall obtain such credentials prior to submitting an application for licensure in New Hampshire unless applicable law allows an application to be filed prior to actually receiving the credentials.\n\nSource. (See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "definition": "Board of Education",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/100",
+    "https://granitestate.github.io/rules/ed/200",
+    "https://granitestate.github.io/rules/ed/300",
+    "https://granitestate.github.io/rules/ed/400",
+    "https://granitestate.github.io/rules/ed/500",
+    "https://granitestate.github.io/rules/ed/600",
+    "https://granitestate.github.io/rules/ed/700",
+    "https://granitestate.github.io/rules/ed/800",
+    "https://granitestate.github.io/rules/ed/900",
+    "https://granitestate.github.io/rules/ed/1000",
+    "https://granitestate.github.io/rules/ed/1100",
+    "https://granitestate.github.io/rules/ed/1200",
+    "https://granitestate.github.io/rules/ed/1300",
+    "https://granitestate.github.io/rules/ed/1400",
+    "https://granitestate.github.io/rules/ed/1500"
+  ],
+  "notation": "Ed",
+  "prefLabel": "Ed Board of Education",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

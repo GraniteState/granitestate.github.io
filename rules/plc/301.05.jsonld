@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/301.05",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "310:16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "332",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/301",
+  "definition": "Computation of Time",
+  "effectiveDate": "2023-05-01",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 301.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 301.05 Computation of Time",
+  "recordType": "rule-section",
+  "ruleText": "Plc 301.05 Computation of Time.\n\n(a) Unless otherwise specified, all time periods referenced in this chapter shall be calendar days.\n\n(b) Computation of any period of time established in these rules shall begin with the day after the action that sets the time period in motion and include the last day of the period so computed.\n\n(c) For time periods not established in statute, if the last day of the period so computed does not fall on a working day, then the time period shall be extended to include the first working day following.\n\n(d) Time periods established in statute shall be determined as specified in the statute.\n\nSource. (See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/204.01",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:9",
+      "source": "https://granitestate.github.io/rsa/310/310-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-9",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/204",
+  "definition": "Purpose and Applicability",
+  "effectiveDate": "2023-12-28",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 204.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 204.01 Purpose and Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Plc 204.01 Purpose and Applicability.\n\n(a) The purpose of this part is to establish the procedures that apply to the filing of complaints against a licensee or against a person who is engaging in a regulated profession without the requisite license and the procedures that shall be followed to investigate such complaints.\n\n(b) This part shall apply to complaints against individuals and businesses engaged in any of the professions regulated by a board.\n\n(c) As provided in RSA 310:4, II(d), the executive director shall be responsible for the investigation of all complaints of professional misconduct in the professions listed in RSA 310:2, II, in accordance with RSA 310:9.\n\nSource. (See Revision Note #1 at chapter heading for Plc 200) #13427, eff 8-4-22; ss by #13837, eff 12-28-23 (see Revision Note #2 at chapter heading for Plc 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

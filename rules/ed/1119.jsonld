@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/1119",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186-C:10-a",
+      "source": "https://granitestate.github.io/rsa/186-C/186-C-10-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186-C/186-C-10-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/1100",
+  "definition": "CONFIDENTIALITY OF INFORMATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/1119.01",
+    "https://granitestate.github.io/rules/ed/1119.02"
+  ],
+  "notation": "Ed 1119",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html",
+  "prefLabel": "Ed 1119 CONFIDENTIALITY OF INFORMATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 1119 CONFIDENTIALITY OF INFORMATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed1100.html"
+}

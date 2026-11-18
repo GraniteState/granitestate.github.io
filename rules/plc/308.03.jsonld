@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/308.03",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:5",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:8",
+      "source": "https://granitestate.github.io/rsa/310/310-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/308",
+  "definition": "Notification of Pending License Expiration",
+  "effectiveDate": "2025-08-19",
+  "expirationDate": "2035-08-19",
+  "historyNote": "(See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300); ss by #14305, eff 8-19-25, EXPIRES: 8-19-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Plc 308.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html",
+  "prefLabel": "Plc 308.03 Notification of Pending License Expiration",
+  "recordType": "rule-section",
+  "ruleText": "Plc 308.03 Notification of Pending License Expiration.\n\n(a) As required by RSA 310:8, IV, at least 2 months prior to the expiration of a license, the licensing bureau shall notify, via email sent to the licensee’s designated email address, each licensee whose license is expiring that the license is due to expire.\n\n(b) The licensing bureau shall include the following in the email sent pursuant to (a), above:\n\n(1) A clear statement that failure to submit a complete application on or before the expiration date shall result in the license expiring; and\n\n(2) Complete information and instructions for the licensee to renew on-line or, if the renewal application is not yet available on-line, a renewal application.\n\n(c) As provided in RSA 310:8, IV, failure to receive notice shall not relieve any licensee of the obligation to renew their license, comply with the rules of the OPLC, the rules of the applicable board, or RSA 310:8.\n\n(d) If a licensee does not receive information and instructions or an application as provided in (b)(2), above, the licensee shall contact the OPLC at customersupport@oplc.nh.gov to obtain the needed information or an application.\n\nSource. (See Revision Note #1 at chapter heading for Plc 300) #13606, eff 5-1-23; ss by #13955, eff 5-3-24 (see Revision Note #2 at chapter heading for Plc 300); ss by #14305, eff 8-19-25, EXPIRES: 8-19-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc300.html"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/1601",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "altLabel": "PURPOSE AND APPLICABITLITY; SENDING NOTICES AND REGISTRATIONS",
+  "authority": [
+    {
+      "citation": "310:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "326-M:2",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "326-M:4",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/1600",
+  "definition": "PURPOSE AND APPLICABILITY; SENDING NOTICES AND REGISTRATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/1601.01",
+    "https://granitestate.github.io/rules/plc/1601.02",
+    "https://granitestate.github.io/rules/plc/1601.03"
+  ],
+  "notation": "Plc 1601",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1600.html",
+  "prefLabel": "Plc 1601 PURPOSE AND APPLICABILITY; SENDING NOTICES AND REGISTRATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 1601 PURPOSE AND APPLICABILITY; SENDING NOTICES AND REGISTRATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc1600.html"
+}

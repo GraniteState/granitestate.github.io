@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/103",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:5",
+      "source": "https://granitestate.github.io/rsa/310/310-5",
+      "via": "appendix"
+    },
+    {
+      "citation": "310:6",
+      "source": "https://granitestate.github.io/rsa/310/310-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4",
+    "https://granitestate.github.io/rsa/310/310-5",
+    "https://granitestate.github.io/rsa/310/310-6",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/100",
+  "definition": "DESCRIPTION OF OFFICE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/103.01",
+    "https://granitestate.github.io/rules/plc/103.02",
+    "https://granitestate.github.io/rules/plc/103.03",
+    "https://granitestate.github.io/rules/plc/103.04",
+    "https://granitestate.github.io/rules/plc/103.05",
+    "https://granitestate.github.io/rules/plc/103.06",
+    "https://granitestate.github.io/rules/plc/103.07"
+  ],
+  "notation": "Plc 103",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html",
+  "prefLabel": "Plc 103 DESCRIPTION OF OFFICE",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 103 DESCRIPTION OF OFFICE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc100-200.html"
+}

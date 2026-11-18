@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/610",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "314-A:2",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/600",
+  "definition": "MICROBLADING CERTIFICATES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/610.01",
+    "https://granitestate.github.io/rules/plc/610.02",
+    "https://granitestate.github.io/rules/plc/610.03",
+    "https://granitestate.github.io/rules/plc/610.04",
+    "https://granitestate.github.io/rules/plc/610.05",
+    "https://granitestate.github.io/rules/plc/610.06",
+    "https://granitestate.github.io/rules/plc/610.07",
+    "https://granitestate.github.io/rules/plc/610.08",
+    "https://granitestate.github.io/rules/plc/610.09",
+    "https://granitestate.github.io/rules/plc/610.10",
+    "https://granitestate.github.io/rules/plc/610.11",
+    "https://granitestate.github.io/rules/plc/610.12",
+    "https://granitestate.github.io/rules/plc/610.13",
+    "https://granitestate.github.io/rules/plc/610.14",
+    "https://granitestate.github.io/rules/plc/610.15"
+  ],
+  "notation": "Plc 610",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html",
+  "prefLabel": "Plc 610 MICROBLADING CERTIFICATES",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 610 MICROBLADING CERTIFICATES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc600.html"
+}

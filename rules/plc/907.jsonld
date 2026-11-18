@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/plc/907",
+  "@type": "Concept",
+  "agencyCode": "Plc",
+  "authority": [
+    {
+      "citation": "310:4",
+      "paragraphs": [
+        "II(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/310/310-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "328-B:4",
+      "paragraphs": [
+        "VII(j)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/310/310-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/plc/900",
+  "definition": "MASSAGE THERAPY LICENSE RENEWAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/plc/907.01",
+    "https://granitestate.github.io/rules/plc/907.02",
+    "https://granitestate.github.io/rules/plc/907.03",
+    "https://granitestate.github.io/rules/plc/907.04",
+    "https://granitestate.github.io/rules/plc/907.05",
+    "https://granitestate.github.io/rules/plc/907.06",
+    "https://granitestate.github.io/rules/plc/907.07",
+    "https://granitestate.github.io/rules/plc/907.08"
+  ],
+  "notation": "Plc 907",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc900.html",
+  "prefLabel": "Plc 907 MASSAGE THERAPY LICENSE RENEWAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Plc 907 MASSAGE THERAPY LICENSE RENEWAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/plc900.html"
+}

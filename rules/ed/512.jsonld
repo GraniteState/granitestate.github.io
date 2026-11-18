@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/ed/512",
+  "@type": "Concept",
+  "agencyCode": "Ed",
+  "authority": [
+    {
+      "citation": "186:11",
+      "paragraphs": [
+        "X(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/186/186-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/186/186-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/ed/500",
+  "definition": "DENIAL OF CERTIFICATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/ed/512.01",
+    "https://granitestate.github.io/rules/ed/512.07"
+  ],
+  "notation": "Ed 512",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html",
+  "prefLabel": "Ed 512 DENIAL OF CERTIFICATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Ed 512 DENIAL OF CERTIFICATION\n\nREVISION NOTE:\n\nDocument #12661, effective 11-9-18, adopted some new rules, repealed some existing rules, and readopted with amendment, and often renumbered, other existing rules in Chapter Ed 500, especially in Part Ed 510 through Part Ed 512. The source notes in the existing rules that were readopted with amendment and renumbered, or simply renumbered, by Document #12661 indicate the former rule number. See Revision Notes for Part Ed 510 and Part Ed 511 for explanation of the changes to those rules.\n\nRelative to Part Ed 512, Document #12661 readopted with amendment and renumbered the existing Ed 508.07, formerly titled “Denial of Initial Application”, as Ed 512.01 titled “Denial of Credential” in Part Ed 512 titled “Denial of Certification”. Part Ed 512 had formerly been numbered Part Ed 511 and titled “Denial, Suspension, or Revocation for Certified Personnel.” Document #12661 also renumbered, but did not readopt, the existing Part Ed 512 and Part Ed 513 as, respectively, Part Ed 513 and Part Ed 514.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/ed500.html"
+}
