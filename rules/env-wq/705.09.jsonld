@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/705.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/705",
+  "definition": "Sewage Pumping Station Alarm Systems",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 705.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 705.09 Sewage Pumping Station Alarm Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 705.09 Sewage Pumping Station Alarm Systems.\n\n(a) Alarm systems meeting the requirements of (b) through (j), below, shall be provided for all sewage pumping stations.\n\n(b) The alarm signal shall be activated in any one of the following circumstances and in any combination of the following circumstances:\n\n(1) High water in the wet well;\n\n(2) Low water in wet well;\n\n(3) Loss of one or more phases of power supply or severe voltage drop;\n\n(4) High water level in the pump room sump;\n\n(5) Loss of the alarm transmission capability;\n\n(6) Standby generator application, if applicable;\n\n(7) Pump malfunction, including shaft seal failure;\n\n(8) Loss of air pressure in a bubbler tube system;\n\n(9) Level sensing malfunction or failure;\n\n(10) Loss of ventilation in areas classified as class 1 division 2 and using mechanical ventilation per the NFPA as incorporated by reference in the state fire code in Saf-C 6000 and NFPA 820, available as noted in Appendix B;\n\n(11) Intrusion; or\n\n(12) Temperature outside normal operating ranges.\n\n(c) The high water and low water alarm triggers shall be separate devices, independent of the pump wet well level control system and set at elevations above and below the lag pump on and off elevations, respectively.\n\n(d) Operation of the alarm system shall be indicated on a panel with a light which lights up upon activation of the alarm system.\n\n(e) The power source for the alarm system shall be:\n\n(1) An independent battery with continuous charge; or\n\n(2) Main line power with a back-up battery system, which shall be connected automatically should main power fail.\n\n(f) The alarm signal shall be transmitted through a 24 hour per day, 7 day per week notification system to the appropriate utility operator.\n\n(g) The alarm shall include a local audible enunciator and a light.\n\n(h) Provision shall be made to permit silencing of the audible enunciator manually, after the alarm has been sounded, but the light shall continue until the alarm condition has been rectified.\n\n(i) Alarm signals for privately-operated sewage pumping stations shall be transmitted to the responsible maintenance person directly or via an answering service.\n\n(j) If a central supervisory control and data acquisition (SCADA) system exists at the WWTP, the pumping station alarms shall be connected to the SCADA system using programmable logic controller (PLC) technology.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

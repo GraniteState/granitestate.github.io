@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/706",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/700",
+  "definition": "SITING OF WWTPs",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/706.01",
+    "https://granitestate.github.io/rules/env-wq/706.02",
+    "https://granitestate.github.io/rules/env-wq/706.03",
+    "https://granitestate.github.io/rules/env-wq/706.04"
+  ],
+  "notation": "Env-Wq 706",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 706 SITING OF WWTPs",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 706 SITING OF WWTPs",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

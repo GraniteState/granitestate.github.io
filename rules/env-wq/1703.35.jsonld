@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.35",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Notes for Table 1703-11",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.35",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.35 Notes for Table 1703-11",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.35 Notes for Table 1703-11.\n\n(a) Fish tissue measures, egg-ovary and whole-body or muscle, shall be instantaneous measures expressed as steady-state and shall not be exceeded.\n\n(b) Water column values shall be based on the total of the dissolved species of selenium in water. Water column values shall be the applicable criterion in the absence of fish tissue in a steady-state condition and shall not be exceeded more than once in 3-years.\n\n(c) Intermittent exposure criteria (Criteriaint exp) shall be the Criteriamonthly average from the monthly measurements, for either lentic or lotic waters, minus the Cbkgrnd which is the average background selenium concentration times one minus the fint which is the fraction of any 30-day period during which elevated selenium concentrations occur, the difference of which is divided by the fint.\n\nSource. #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

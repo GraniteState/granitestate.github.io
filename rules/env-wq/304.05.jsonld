@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/304.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Operators-in-Training Status",
+  "authority": [
+    {
+      "citation": "485-A:5-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-a",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-7-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:7-d",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-7-d",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "486:9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-7-a",
+    "https://granitestate.github.io/rsa/485-A/485-A-7-d"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/304",
+  "definition": "Operator-in-Training Status",
+  "effectiveDate": "2023-09-27",
+  "historyNote": "(See Revision Note #1 at part heading for Env-Wq 304) #10392, eff 8-1-13; ss by #13755, eff 9-27-23 (see Revision Note #2 at part heading for Env-Wq 304)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 304.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html",
+  "prefLabel": "Env-Wq 304.05 Operator-in-Training Status",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 304.05 Operator-in-Training Status.\n\n(a) There shall be an operator-in-training (OIT) status for each grade of wastewater operator certification.\n\n(b) Eligibility criteria for each OIT status shall be identical to that for the full certification grade to which the OIT correlates, except that applicants may take the written exam for a particular grade with less operating experience than required for that full grade, so long as the operating experience requirements can be met within 3 years.\n\n(c) If the OIT applicant passes the written examination and obtains OIT status but fails to meet the required operating experience within 3 years, then the operator shall resume their prior grade.\n\n(d) Full certification shall be granted to an OIT after the department receives written verification from the OIT’s supervisor that the OIT has completed the operating experience requirement.\n\n(e) An owner may request that the department approve an OIT to be placed in responsible charge of a plant of the same grade, by submitting a written waiver request pursuant to Env-Wq 304.32.\n\nSource. (See Revision Note #1 at part heading for Env-Wq 304) #10392, eff 8-1-13; ss by #13755, eff 9-27-23 (see Revision Note #2 at part heading for Env-Wq 304)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html"
+}

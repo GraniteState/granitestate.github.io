@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1412",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483-B:9",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "483-B:17",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-17",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483-B/483-B-9",
+    "https://granitestate.github.io/rsa/483-B/483-B-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1400",
+  "definition": "SHORELAND RESTORATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1412.01",
+    "https://granitestate.github.io/rules/env-wq/1412.02",
+    "https://granitestate.github.io/rules/env-wq/1412.03",
+    "https://granitestate.github.io/rules/env-wq/1412.04",
+    "https://granitestate.github.io/rules/env-wq/1412.05"
+  ],
+  "notation": "Env-Wq 1412",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html",
+  "prefLabel": "Env-Wq 1412 SHORELAND RESTORATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1412 SHORELAND RESTORATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html"
+}

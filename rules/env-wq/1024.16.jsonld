@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1024.16",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1024",
+  "definition": "Suspension or Revocation of ITAs",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "#14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1024.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1024.16 Suspension or Revocation of ITAs",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1024.16 Suspension or Revocation of ITAs.\n\n(a) Failure to comply with this part shall subject the ITA owner to the possibility of revocation or suspension of the ITA pursuant to this section or administrative fines pursuant to Env-Wq 1026.\n\n(b) Any ITA issued by the department shall be based on the presumption that the information submitted as part of the application is true, complete, and not misleading.\n\n(c) An ITA owner shall be subject to an adjudicative proceeding in accordance with Env-C 200 to revoke the ITA if they do not adequately respond to department requests for compliance and if the department determines that:\n\n(1) Information submitted with the application for ITA was false, incomplete, or misleading and if the department would have issued a different decision; or\n\n(2) There is sufficient information to support a finding that the approved technology:\n\na. Does not adequately protect public health or water quality; or\n\nb. Does not function as reliably or better than conventional technology.\n\n(d) An ITA owner shall be subject to an adjudicative proceeding in accordance with Env-C 200 to suspend the ITA if the ITA owner fails to meet the reporting requirements of Env-Wq 1024.03 and does not adequately respond to department requests for compliance.\n\n(e) The department shall reinstate a suspended ITA if the ITA owner complies with the reporting requirements of Env-Wq 1024.03 within 60 days of the issued suspension order. Failure to meet the 60-day deadline shall result in automatically converting the suspension to a revocation, and the ITA owner shall be notified of such potential outcome in the suspension order.\n\n(f) If an ITA has been revoked, the technology shall no longer be proposed for use in an ISDS in New Hampshire unless the owner of the technology obtains a new ITA.\n\n(g) If an ITA is suspended, the technology shall not be proposed for use in an ISDS in New Hampshire during the term of suspension.\n\nSource. #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

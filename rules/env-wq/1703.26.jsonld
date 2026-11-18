@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.26",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Freshwater Chronic Aquatic Life Criteria for Ammonia",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Freshwater Chronic Aquatic Life Criteria For Ammonia",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.26 Freshwater Chronic Aquatic Life Criteria For Ammonia",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.26 Freshwater Chronic Aquatic Life Criteria For Ammonia.\n\n(a) Subject to (b) through (d), below, Table 1703-4C shall be used to determine freshwater chronic aquatic life criteria for ammonia, in mg N/L.\n\n(b) The freshwater chronic water quality criteria for ammonia in Table 1703-4C have been calculated by adding the value found by dividing 0.0278 by the sum of one plus 10 raised to the power of 7.688 minus the pH to the value found by dividing 1.1994 by one plus 10 raised to the power of pH minus 7.688, and multiplying the resulting value by 0.8876 multiplied by the value resulting from multiplying 2.126 by 10 raised to the power of 0.028 times the value of 20 minus the greater of the temperature or 7, as shown in the following equation:\n\nFreshwater Chronic Criteria for Ammonia:\n\nCriteria = 0.8876 x [0.0278/(1+10 7.688-pH) + 1.1994/(1+10 pH-7.688)] x [2.126 x 10 0.028 x (20-MAX(T,7))]\n\nWhere MAX indicates the greater of the two values separated by a comma.\n\n(c) The chronic criteria in Table 1703-4C represent a 30-day rolling average, but the highest 4-day average within any 30-day averaging period shall not exceed 2.5 times the chronic criteria.\n\n(d) The equation described in (b), above, shall be used to calculate criteria at unlisted pH and temperature values.\n\n(e) Table 1703-4C shall be as follows:\n\nTable 1703-4C: Freshwater Chronic Aquatic Life Criteria For Ammonia in mg N/L\n\npH | Temperature, Degrees C\n\n0-7 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30\n\n6.5 | 4.9 | 4.6 | 4.1 | 3.6 | 3.1 | 2.8 | 2.4 | 2.1 | 1.9 | 1.6 | 1.5 | 1.3 | 1.1\n\n6.6 | 4.8 | 4.5 | 4.0 | 3.5 | 3.1 | 2.7 | 2.4 | 2.1 | 1.8 | 1.6 | 1.4 | 1.3 | 1.1\n\n6.7 | 4.8 | 4.5 | 3.9 | 3.5 | 3.0 | 2.7 | 2.3 | 2.1 | 1.8 | 1.6 | 1.4 | 1.2 | 1.1\n\n6.8 | 4.6 | 4.4 | 3.8 | 3.4 | 3.0 | 2.6 | 2.3 | 2.0 | 1.8 | 1.6 | 1.4 | 1.2 | 1.1\n\n6.9 | 4.5 | 4.2 | 3.7 | 3.3 | 2.9 | 2.5 | 2.2 | 2.0 | 1.7 | 1.5 | 1.3 | 1.2 | 1.0\n\n7.0 | 4.4 | 4.1 | 3.6 | 3.2 | 2.8 | 2.4 | 2.2 | 1.9 | 1.7 | 1.5 | 1.3 | 1.1 | 0.99\n\n7.1 | 4.2 | 3.9 | 3.5 | 3.0 | 2.7 | 2.3 | 2.1 | 1.8 | 1.6 | 1.4 | 1.2 | 1.1 | 0.95\n\n7.2 | 4.0 | 3.7 | 3.3 | 2.9 | 2.5 | 2.2 | 2.0 | 1.7 | 1.5 | 1.3 | 1.2 | 1.0 | 0.90\n\n7.3 | 3.8 | 3.5 | 3.1 | 2.7 | 2.4 | 2.1 | 1.8 | 1.6 | 1.4 | 1.3 | 1.1 | 0.97 | 0.85\n\n7.4 | 3.5 | 3.3 | 2.9 | 2.5 | 2.2 | 2.0 | 1.7 | 1.5 | 1.3 | 1.2 | 1.0 | 0.90 | 0.79\n\n7.5 | 3.2 | 3.0 | 2.7 | 2.3 | 2.1 | 1.8 | 1.6 | 1.4 | 1.2 | 1.1 | 0.95 | 0.83 | 0.73\n\n7.6 | 2.9 | 2.8 | 2.4 | 2.1 | 1.9 | 1.6 | 1.4 | 1.3 | 1.1 | 0.98 | 0.86 | 0.76 | 0.67\n\n7.7 | 2.6 | 2.4 | 2.2 | 1.9 | 1.7 | 1.5 | 1.3 | 1.1 | 1.0 | 0.88 | 0.78 | 0.68 | 0.60\n\n7.8 | 2.3 | 2.2 | 1.9 | 1.7 | 1.5 | 1.3 | 1.2 | 1.0 | 0.89 | 0.79 | 0.69 | 0.61 | 0.53\n\n7.9 | 2.1 | 1.9 | 1.7 | 1.5 | 1.3 | 1.2 | 1.0 | 0.89 | 0.79 | 0.69 | 0.61 | 0.53 | 0.47\n\n8.0 | 1.8 | 1.7 | 1.5 | 1.3 | 1.1 | 1.0 | 0.88 | 0.78 | 0.68 | 0.60 | 0.53 | 0.44 | 0.41\n\n8.1 | 1.5 | 1.5 | 1.3 | 1.1 | 0.99 | 0.87 | 0.76 | 0.67 | 0.59 | 0.52 | 0.46 | 0.40 | 0.35\n\n8.2 | 1.3 | 1.2 | 1.1 | 0.96 | 0.84 | 0.74 | 0.65 | 0.57 | 0.50 | 0.44 | 0.39 | 0.34 | 0.30\n\n8.3 | 1.1 | 1.1 | 0.93 | 0.82 | 0.72 | 0.63 | 0.55 | 0.49 | 0.43 | 0.38 | 0.33 | 0.29 | 0.26\n\n8.4 | 0.95 | 0.89 | 0.79 | 0.69 | 0.61 | 0.53 | 0.47 | 0.41 | 0.36 | 0.32 | 0.28 | 0.25 | 0.22\n\n8.5 | 0.80 | 0.75 | 0.67 | 0.58 | 0.51 | 0.45 | 0.40 | 0.35 | 0.31 | 0.27 | 0.24 | 0.21 | 0.18\n\n8.6 | 0.68 | 0.64 | 0.56 | 0.49 | 0.43 | 0.38 | 0.33 | 0.29 | 0.26 | 0.23 | 0.20 | 0.18 | 0.15\n\n8.7 | 0.57 | 0.54 | 0.47 | 0.42 | 0.37 | 0.32 | 0.28 | 0.25 | 0.22 | 0.19 | 0.17 | 0.15 | 0.13\n\n8.8 | 0.49 | 0.46 | 0.40 | 0.35 | 0.31 | 0.27 | 0.24 | 0.21 | 0.19 | 0.16 | 0.14 | 0.13 | 0.11\n\n8.9 | 0.42 | 0.39 | 0.34 | 0.30 | 0.27 | 0.23 | 0.21 | 0.18 | 0.16 | 0.14 | 0.12 | 0.11 | 0.09\n\n9.0 | 0.36 | 0.34 | 0.30 | 0.26 | 0.23 | 0.20 | 0.18 | 0.16 | 0.14 | 0.12 | 0.11 | 0.09 | 0.08\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

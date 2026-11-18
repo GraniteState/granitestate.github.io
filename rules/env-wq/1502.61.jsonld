@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1502.61",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Site Specific Permit",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1502",
+  "definition": "Site specific permit",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.52); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; renumbered by #14656, eff 8-6-26, EXPIRES: 8-6-36 (formerly Env-Wq 1502.59)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1502.61",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1502.61 Site specific permit",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1502.61 “Site specific permit” means a permit issued by the department pursuant to RSA 485-A:17 under Env-Ws 415 as in effect immediately prior to the 2009 effective date of Env-Wq 1500, equivalent to an alteration of terrain permit.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17 (formerly Env-Wq 1502.52); ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; renumbered by #14656, eff 8-6-26, EXPIRES: 8-6-36 (formerly Env-Wq 1502.59)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

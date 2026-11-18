@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1301",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "487:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "487:18",
+      "source": "https://granitestate.github.io/rsa/487/487-18",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/487/487-18"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1300",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1301.01",
+    "https://granitestate.github.io/rules/env-wq/1301.02"
+  ],
+  "notation": "Env-Wq 1301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1300.html",
+  "prefLabel": "Env-Wq 1301 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1301 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1300.html"
+}

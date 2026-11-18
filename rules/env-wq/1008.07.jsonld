@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1008.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1008",
+  "definition": "Protective Well Radii - Distance",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1008.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1008.07 Protective Well Radii - Distance",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1008.07 Protective Well Radii - Distance.\n\n(a) A protective area designated as the “protective well radius” shall be maintained around every private commercial or non-commercial drinking water well.\n\n(b) Subject to Env-Wq 1008.08, the protective area shall be a uniform circle on lot having a radius determined based on the total proposed daily sewage flow, as set forth in Table 1008-4, below, for private well sources, and pursuant to Env-Dw 300 and Env-Dw 400 for public well sources:\n\nTable 1008-4: Protective Well Radii for Shallow or Dug Wells or Drilled Bedrock Wells\n\nDaily Sewage Flow (GPD) | Radius (ft.)\n\n0-750 | 75\n\n751-1,440 | 100\n\n1,441-4,320 | 125\n\n4,321-14,400 | 150\n\n14,401-28,800 | 175\n\n28,801-57,600 | 200\n\n57,601-86,400 | 250\n\n86,401-115,200 | 300\n\n115,201-144,000 | 350\n\ngreater than 144,001 | 400\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

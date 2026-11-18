@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2206",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2200",
+  "definition": "TRAINING PROGRAM APPROVAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/2206.01",
+    "https://granitestate.github.io/rules/env-wq/2206.02"
+  ],
+  "notation": "Env-Wq 2206",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2200.html",
+  "prefLabel": "Env-Wq 2206 TRAINING PROGRAM APPROVAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 2206 TRAINING PROGRAM APPROVAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2200.html"
+}

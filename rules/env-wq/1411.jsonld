@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1411",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483-B:3",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "483-B:6",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483-B/483-B-3",
+    "https://granitestate.github.io/rsa/483-B/483-B-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1400",
+  "definition": "CONSISTENCY OF STATE AND LOCAL ACTION ON SHORELAND ZONE PROJECTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1411.01",
+    "https://granitestate.github.io/rules/env-wq/1411.02"
+  ],
+  "notation": "Env-Wq 1411",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html",
+  "prefLabel": "Env-Wq 1411 CONSISTENCY OF STATE AND LOCAL ACTION ON SHORELAND ZONE PROJECTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1411 CONSISTENCY OF STATE AND LOCAL ACTION ON SHORELAND ZONE PROJECTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html"
+}

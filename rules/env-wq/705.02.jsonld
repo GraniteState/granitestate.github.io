@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/705.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/705",
+  "definition": "Sewage Pumping Station Design Requirements: Wet Well and Dry Well Construction",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 705.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 705.02 Sewage Pumping Station Design Requirements: Wet Well and Dry Well Construction",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 705.02 Sewage Pumping Station Design Requirements: Wet Well and Dry Well Construction.\n\n(a) The wet well and the discharge manifold shall be configured to prevent grit from settling back into pump discharge lines of pumps that are not operating.\n\n(b) Wet and dry wells including their superstructure shall be completely separated and sealed.\n\n(c) Wet well designs shall avoid vortexing and air entrainment near the pump suction intakes.\n\n(d) A separate sump pump shall be provided in the dry well to remove leakage or drainage, with the discharge above the alarm level of the wet well.\n\n(e) Wet wells for sewage pumping stations of greater than 200 gpm capacity shall have either:\n\n(1) Division walls so that the station can be kept in operation when work is required in the wet well; or\n\n(2) A bypass connection to allow for connection of a pump around the wet well for maintenance, repairs, and construction.\n\n(f) With the exception of sewage pumping stations subject to Env-Wq 705.03(n), the effective volume of the wet well shall be sized considering:\n\n(1) A filling time of 30 minutes or less under design average daily flow rates;\n\n(2) The pump type, motor size, and allowable frequency of starts per hour as follows:\n\na. For dry well motors, a maximum of 6 starts per hour for motors 25 hp and smaller, 4 starts per hour for motors between 33 and 100 hp and 2 starts per hour for motors between 135 and 270 hp; and\n\nb. For submersible pumps that have motors designed to operate in liquid, a maximum of 10 starts per hour for motors less than 50 hp, 6 starts per hour for motors between 50 and 100 hp and 4 starts per hour for motors larger than 100 hp; and\n\n(3) Provisions to limit the filling time under initial operating conditions to not exceed 30 minutes when the initial anticipated tributary sewage flows are significantly less than the design flows.\n\n(g) The wet well floor shall have a minimum slope of 1 to 1 to the hopper bottom.\n\n(h) The horizontal area of the hopper bottom shall be limited to that area required for proper installation and function of the inlet.\n\n(i) Wet wells shall be designed to be watertight and gas tight.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

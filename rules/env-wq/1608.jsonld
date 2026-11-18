@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1608",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483",
+      "source": "https://granitestate.github.io/rsa/483",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:5-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483",
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1600",
+  "definition": "SITE PERMIT REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1608.01",
+    "https://granitestate.github.io/rules/env-wq/1608.02",
+    "https://granitestate.github.io/rules/env-wq/1608.03",
+    "https://granitestate.github.io/rules/env-wq/1608.04",
+    "https://granitestate.github.io/rules/env-wq/1608.05",
+    "https://granitestate.github.io/rules/env-wq/1608.06",
+    "https://granitestate.github.io/rules/env-wq/1608.07",
+    "https://granitestate.github.io/rules/env-wq/1608.08",
+    "https://granitestate.github.io/rules/env-wq/1608.09",
+    "https://granitestate.github.io/rules/env-wq/1608.10",
+    "https://granitestate.github.io/rules/env-wq/1608.11",
+    "https://granitestate.github.io/rules/env-wq/1608.12",
+    "https://granitestate.github.io/rules/env-wq/1608.13",
+    "https://granitestate.github.io/rules/env-wq/1608.14",
+    "https://granitestate.github.io/rules/env-wq/1608.15"
+  ],
+  "notation": "Env-Wq 1608",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html",
+  "prefLabel": "Env-Wq 1608 SITE PERMIT REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1608 SITE PERMIT REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html"
+}

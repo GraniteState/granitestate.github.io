@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/402.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485:3",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/485/485-3",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485-A:6",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-6",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "485-C:6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485/485-3",
+    "https://granitestate.github.io/rsa/485-A/485-A-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/402",
+  "definition": "Purpose",
+  "effectiveDate": "2016-03-01",
+  "historyNote": "(See Revision Note at part heading for Env-Wq 402) #8955, eff 7-26-07; ss by #11036, eff 3-1-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 402.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq400.html",
+  "prefLabel": "Env-Wq 402.01 Purpose",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 402.01 Purpose. The purpose of these rules is to implement RSA 485-A:13, I(a) and the permit program for the regulation and remediation of groundwater contamination from previous discharges or disposal of wastewater to groundwater authorized by RSA 485:3, X, by establishing standards, criteria, and procedures for groundwater discharge permits, discharge registrations, and holding tank registrations to prevent pollution and protect groundwater.\n\nSource. (See Revision Note at part heading for Env-Wq 402) #8955, eff 7-26-07; ss by #11036, eff 3-1-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq400.html"
+}

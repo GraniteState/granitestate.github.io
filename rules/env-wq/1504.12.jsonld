@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1504.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1504",
+  "definition": "Calculation of Groundwater Recharge Volume (GRV)",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#9343, eff 1-1-09; amd by #9817-A, eff 12-1-10 (formerly Env-Wq 1504.11); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1504.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1504.12 Calculation of Groundwater Recharge Volume (GRV)",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1504.12 Calculation of Groundwater Recharge Volume (GRV).\n\n(a) “GRV” means the groundwater recharge volume.\n\n(b) “AI” means the total area of impervious cover that will exist on the site after development minus the area of any impervious cover that existed on the site prior to the development, regardless of whether the existing impervious area was disturbed.\n\n(c) “Rd” means the groundwater recharge depth based on the NRCS hydrologic soil group, as follows, subject to (d), below:\n\n(1) For hydrologic soil group A, the Rd shall be 0.40 inches;\n\n(2) For hydrologic soil group B, the Rd shall be 0.25 inches;\n\n(3) For hydrologic soil group C, the Rd shall be 0.10 inches; and\n\n(4) For hydrologic soil group D, recharge shall not be required.\n\n(d) Where more than one hydrologic soil group is present, a weighted recharge depth shall be computed based on the area of each soil group present.\n\n(e) The applicant shall calculate the GRV by multiplying AI by Rd, as shown in the formula below:\n\nGRV = AI x Rd\n\nSource. #9343, eff 1-1-09; amd by #9817-A, eff 12-1-10 (formerly Env-Wq 1504.11); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

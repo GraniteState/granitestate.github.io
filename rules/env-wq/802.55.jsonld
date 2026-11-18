@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/802.55",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Surface Water",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/802",
+  "definition": "Surface water",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.46)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 802.55",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html",
+  "prefLabel": "Env-Wq 802.55 Surface water",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 802.55 “Surface water” means “surface waters of the state” as defined in RSA 485-A:2, XIV, namely “perennial and seasonal streams, lakes, ponds, and tidal waters within the jurisdiction of the state, including all streams, lakes, or ponds bordering on the state, marshes, water courses, and other bodies of water, natural or artificial.” The term includes wetlands, but does not include non-tidal drainage ditches that were designed, built, and used to convey wastewater or stormwater and does not include constructed wetlands, lagoons, and other treatment systems designed and built solely as wastewater or stormwater treatment systems provided such facilities were not initially constructed in waters of the state or were not constructed to serve other mitigation purposes.\n\nSource. #10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.46)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html"
+}

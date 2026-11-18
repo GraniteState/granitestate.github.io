@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1608.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Required Setback Distances for Land Application",
+  "authority": [
+    {
+      "citation": "483",
+      "source": "https://granitestate.github.io/rsa/483",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:5-c",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483",
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1608",
+  "definition": "Required Setback Distances For Land Application",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1608.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html",
+  "prefLabel": "Env-Wq 1608.10 Required Setback Distances For Land Application",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1608.10 Required Setback Distances For Land Application.\n\n(a) No person shall land apply septage within the setback areas specified in Table 1608-1, subject to (b) below:\n\nTable 1608-1: Setback Distances For Land Application (in feet)\n\nSurface Water:\n\nDesignated river under RSA 483 | 250e\n\nOther surface water | 125a\n\nNon-Tidal Drainage Ditch | 50\n\nDowngradient Water Supplies:\n\nCommunity Wells | 400b\n\nOther Wells | 300\n\nSurface Drinking Water Source | 500\n\nProperty Lines | 50c\n\nPublic Roads other than federal interstate highways | 50\n\nFederal Interstate Highways | 50\n\nNearest Residential Off-site Dwelling | 100c\n\nGroundwater Depth for Land Application | 2d\n\nBedrock / Restrictive Layer | 2\n\n(b) The following notes shall apply to Table 1608-1:\n\n(1) The letter “a” shall indicate that the distance to surface waters may be reduced to 75 feet if the material is incorporated within 48 hours and the slope is less than 8 percent;\n\n(2) The letter “b” shall indicate those community public water supply wells which withdraw greater than 57,600 gallons over a 24-hour period;\n\n(3) The letter “c” shall indicate that the distance to property lines and to residential off-site dwellings may be reduced through written agreement with affected party(ies);\n\n(4) The letter “d” shall indicate the depth to estimated seasonal high water table; and\n\n(5) The letter “e” shall indicate that all septage land applied within ¼-mile of a designated river shall be immediately incorporated into the soil or injected in accordance with RSA 483:9.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Wq 1600) #13944, eff 4-27-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1600.html"
+}

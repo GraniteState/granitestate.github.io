@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1504.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1504",
+  "definition": "Calculation of Water Quality Volume (WQV)",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#9343, eff 1-1-09; renumbered by #9817-A (formerly Env-Wq 1504.09); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1504.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1504.10 Calculation of Water Quality Volume (WQV)",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1504.10 Calculation of Water Quality Volume (WQV). Water quality volume (WQV) shall be calculated using the Unified Sizing Criteria as follows:\n\n(a) For purposes of this section, “P” means the depth of the 90th percentile storm in inches as defined as follows:\n\n(1) For existing impervious areas that are proposed for redevelopment, P shall be 0.3 inches; and\n\n(2) For all other areas, P shall be 1.0 inches;\n\n(b) “A” means the total area draining to the design structure;\n\n(c) “I” means the percent impervious area draining to the design structure, in decimal form;\n\n(d) “Rv” means the unit-less runoff coefficient calculated as the sum of 0.05 plus the product of I multiplied by 0.9, as in the formula below:\n\nRv = 0.05 + (0.9 x I)\n\n(e) To calculate the WQV, the applicant shall multiply the product of Rv and A by P, as shown in the formula below:\n\nWQV = P x A x Rv\n\nSource. #9343, eff 1-1-09; renumbered by #9817-A (formerly Env-Wq 1504.09); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

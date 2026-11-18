@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1010.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1010",
+  "definition": "Septic Tank Design Requirements",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1010.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1010.06 Septic Tank Design Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1010.06 Septic Tank Design Requirements.\n\n(a) The outlet of a septic tank shall be at least 2 inches but not more than 4 inches below the inlet to the septic tank.\n\n(b) Any septic tank made of concrete shall be certified by its manufacturer or distributor as meeting or exceeding the following design strength requirements:\n\n(1) If the septic tank will not be subjected to vehicular traffic and the top of the septic tank will be 3 feet or less below finished grade, the septic tank shall be designed for a minimum live load at the surface of 300 pounds per square foot plus the weight of 3 feet of unsaturated earth;\n\n(2) If the septic tank will not be subjected to vehicular traffic and the top of the septic tank will be more than 3 feet but 6 feet or less below finished grade, the septic tank shall be designed for a minimum live load at the surface of 300 pounds per square foot plus the weight of 6 feet of unsaturated earth;\n\n(3) If the septic tank will be subjected to vehicular traffic or if the top of the septic tank will be more than 6 feet below finished grade, the septic tank shall be designed to meet AASHTO HS20 specifications or better; and\n\n(4) The minimum compressive strength for the concrete shall be 4,000 pounds per square inch at 28 days.\n\n(c) Any precast concrete septic tank shall be certified by its manufacturer or distributor as meeting the applicable requirements of ASTM C1227.\n\n(d) Any septic tank fabricated from material other than concrete shall be certified by its manufacturer or distributor as being designed for loads that are equivalent to those specified in (b)(1)-(4), above.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

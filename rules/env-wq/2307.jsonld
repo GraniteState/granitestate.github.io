@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2307",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:58",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:59",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:60",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:61",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-61",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2300",
+  "definition": "IMPLEMENTATION OF CYANOBACTERIA MITIGATION PROJECTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/2307.01",
+    "https://granitestate.github.io/rules/env-wq/2307.02",
+    "https://granitestate.github.io/rules/env-wq/2307.03",
+    "https://granitestate.github.io/rules/env-wq/2307.04",
+    "https://granitestate.github.io/rules/env-wq/2307.05",
+    "https://granitestate.github.io/rules/env-wq/2307.06",
+    "https://granitestate.github.io/rules/env-wq/2307.07"
+  ],
+  "notation": "Env-Wq 2307",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html",
+  "prefLabel": "Env-Wq 2307 IMPLEMENTATION OF CYANOBACTERIA MITIGATION PROJECTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 2307 IMPLEMENTATION OF CYANOBACTERIA MITIGATION PROJECTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html"
+}

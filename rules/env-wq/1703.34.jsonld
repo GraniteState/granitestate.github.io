@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.34",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Freshwater Aquatic Life Criteria for Selenium",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.34",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.34 Freshwater Aquatic Life Criteria for Selenium",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.34 Freshwater Aquatic Life Criteria for Selenium. Compliance with the freshwater aquatic life criteria for selenium shall be determined using egg-ovary fish tissue measurements, if available and applicable, or, in the alternative using, whole-body or muscle fish tissue measurements, if available, and if neither are available then using the water column values shown in Table 1703-11, below, for the freshwater aquatic life protection criteria:\n\nTable 1703-11: Freshwater Selenium Ambient Chronic Water\n\nQuality Criteria for Protection of Aquatic Life\n\nMedia | Fish Tissue | Water Column\n\nMeasurement | Egg/Ovary | Fish Whole Body or Muscle | Monthly Average Exposure | Intermittent Exposure\n\nCriteria | 15.1 mg/kg dw | 8.5 mg/kg dw whole body or 11.3 mg/kg dw muscle (skinless, boneless filet) | 1.5 µg/L in lentic aquatic systems 3.1 µg/L in lotic aquatic systems | Criteriaint exp = [Criteriamonthly average – Cbkgrnd(1-fint)] / fint\n\nSource. #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

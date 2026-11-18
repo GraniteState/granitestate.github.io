@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1010.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1010",
+  "definition": "Water-Tightness of Septic Tanks",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1010.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1010.03 Water-Tightness of Septic Tanks",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1010.03 Water-Tightness of Septic Tanks.\n\n(a) Septic tanks shall be watertight and constructed of materials, such as concrete, plastic, or fiberglass, that are resistant to corrosion, decay, and cracking or buckling due to frost, settling, or backfilling.\n\n(b) Any septic tank constructed from separate sections shall be sealed so as to be watertight with joint sealant that has been represented by its manufacturer or distributor as conforming to ASTM C990-09.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

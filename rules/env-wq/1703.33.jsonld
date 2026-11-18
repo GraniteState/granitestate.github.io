@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.33",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Freshwater Aquatic Life Criteria for Pentachlorophenol",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.33",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.33 Freshwater Aquatic Life Criteria for Pentachlorophenol",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.33 Freshwater Aquatic Life Criteria for Pentachlorophenol.\n\n(a) To calculate the freshwater aquatic life acute criteria, in μg/L, for pentachlorophenol, the exponent “e” shall be raised to the power “x” where “x” is equal to the parenthetical expression 1.005 multiplied by the pH and to which product the value of 4.869 shall be subtracted, as follows:\n\nAcute Criteria = ex where\n\nx = [ 1.005 (pH) - 4.869 ]\n\n(b) To calculate the freshwater aquatic life chronic criteria, in μg/L, for pentachlorophenol, the exponent “e” shall be raised to the power “x” where “x” is equal to the parenthetical expression 1.005 multiplied by the pH and to which product the value of 5.134 shall be subtracted, as follows:\n\nChronic Criteria = ex where\n\nx = [ 1.005 (pH) - 5.134 ]\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

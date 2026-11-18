@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1702.47",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Wastewater Facilities",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1702",
+  "definition": "Wastewater facilities",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "#14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1702.47",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1702.47 Wastewater facilities",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1702.47 “Wastewater facilities” means “wastewater facilities” as defined in RSA 485-A:2, XIX, as reprinted in Appendix C, namely “the structures, equipment, and processes required to collect, convey, and treat domestic and industrial wastes, and dispose of the effluent and sludge.”\n\nSource. #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

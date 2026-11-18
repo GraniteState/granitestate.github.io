@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1005.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1005",
+  "definition": "Minimum Lot Sizes",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1005.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1005.03 Minimum Lot Sizes",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1005.03 Minimum Lot Sizes.\n\n(a) The minimum lot size for any lot shall be determined in accordance with this section.\n\n(b) Factors for sewage loading shall be determined based on soil groups and slopes as set forth in Table 1005-1 below, subject to the notes in (c) through (e), below:\n\nTable 1005-1: Soil Group/Percent Slope Sewage Loading Factors\n\nSoil Group→ Slope ↓ | 1 | 2 | 3 | 4 | 5 | 6\n\n0-8% or A/B | 1.0 | 1.3 | 1.6 | 1.45 | 3.0 | See (c)\n\n8-15% or C | 1.1 | 1.43 | 1.76 | 1.6 | Not Applicable | See (c)\n\n15-25% or D | 1.2 | 1.56 | 2.08 | 1.73 | Not Applicable | See (c)\n\n25-35% or E | 1.3 | 1.69 | 2.4 | 1.90 | Not Applicable | See (c)\n\n(c) Very poorly drained soils shall not be counted toward lot loading to obtain subdivision approval.\n\n(d) For purposes of determining minimum lot sizes, soil groups shall be as follows:\n\n(1) Group 1 soils shall be well-drained to excessively well-drained with rapid permeability that includes a minimum estimated seasonal high water table at 40 inches and a percolation rate of 2 minutes per inch or less;\n\n(2) Group 2 soils shall be well-drained with moderate permeability that includes a minimum estimated seasonal high water table at 40 inches and a percolation rate of greater than 2 minutes per inch;\n\n(3) Group 3 soils shall be moderately well-drained, well-drained with hardpan, where the seasonal high water table is less than 40 inches or ledge is encountered at a depth of less than 4 feet and the estimated seasonal high water table is present;\n\n(4) Group 4 soils shall be bedrock relatively close to the surface, where ledge is encountered at a depth of less than 4 feet, and the estimated seasonal high water table is not present;\n\n(5) Group 5 soils shall be poorly-drained soils; and\n\n(6) Group 6 soils shall be very poorly drained soils.\n\n(e) Soil group shall be:\n\n(1) Determined using the USDA-NRCS web soils survey (WSS), available at http://websoilsurvey.sc.egov.usda.gov; and\n\n(2) Confirmed with one or more test pits dug as specified in Env-Wq 1006.\n\n(f) For individual lots served or proposed to be served by an on-lot ISDS and an off-lot public water system, the lot size shall be a minimum of 20,000 SF contiguous area or calculated using (i) below, whichever is larger.\n\n(g) For individual lots served or proposed to be served by an on-lot water supply with an off-lot ISDS, the size of the lot shall be established in accordance with (i), below.\n\n(h) Manufactured housing park sites with on-site wastewater disposal shall be at least 10,000 SF multiplied by the factor listed in Table 1005-1.\n\n(i) The minimum lot size in acres for all other commercial and residential subdivisions shall be calculated by dividing the estimated daily flow (Q) of sewage in gallons per day by 2,000 gallons per day per acre and then multiplying by the sewage loading factor established in Table 1005-1, as indicated in the following formula:\n\nLot Size = (Q in gpd ÷ 2,000 gpd per acre) x sewage loading factor\n\nNote: The areas to be excluded from available land pursuant to Env-Wq 1005.02(f) shall be subtracted from the calculated lot size.\n\n(j) For purposes of (i), above, Q shall be the estimated daily flow calculated in accordance with Env-Wq 1008.04(d) or 600 GPD, whichever is greater, except that for recreational campgrounds or camping parks that existed prior to January 1, 1993, Q may be calculated in accordance with Env-Wq 1008.04(c) so long as no additional lots are created.\n\n(k) Each studio or 1-bedroom apartment shall be figured as 1.5 bedrooms for sewage loading purposes, where a bedroom represents a sewage loading of 150 gallons per day.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

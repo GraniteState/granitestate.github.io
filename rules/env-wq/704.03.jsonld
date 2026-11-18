@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/704.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/704",
+  "definition": "Design Flow Basis",
+  "effectiveDate": "2025-07-01",
+  "expirationDate": "2035-07-01",
+  "historyNote": "(See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 704.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html",
+  "prefLabel": "Env-Wq 704.03 Design Flow Basis",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 704.03 Design Flow Basis.\n\n(a) Sanitary waste flows from residentially-, commercially-, or industrially-zoned areas shall be measured.\n\n(b) For proposed facilities, sanitary waste flows shall be estimated on the basis of the following:\n\n(1) For commercial areas, recreational facilities, or industrial parks, as specified in Tables 3-3, 3-4, and 3-5 of Metcalf and Eddy/AECOM, “Wastewater Engineering Treatment and Resource Recovery”, 5th edition, available as noted in Appendix B, unless design for a lower flow can be justified based on actual flow records or implementation of water conservation measures; and\n\n(2) For residential areas, an average daily per capita flow as specified in Table 3-2 of Metcalf and Eddy/AECOM, “Wastewater Engineering: Treatment and Resource Recovery”, 5th edition, available as noted in Appendix B, unless design for a lower flow can be justified based on actual flow records or implementation of water conservation measures.\n\n(c) New sewerage shall be designed to carry the peak hourly flow rate, calculated as the product of the average daily flow rate for the service area multiplied by a peaking factor. For gravity sewers, an infiltration allowance shall be added in accordance with (f), below.\n\n(d) Peaking factors for average daily flow rates in excess of 100,000 gpd shall be as derived from Figure 2.1 of TR-16, “Guides for the Design of Wastewater Treatment Works”, by the New England Interstate Water Pollution Control Commission, revised 2016 Edition, available as noted in Appendix B. A peaking factor of 6 shall be used for average daily flows less than 100,000 gpd.\n\n(e) Design of interceptor sewers shall be based on the greater of the estimated future peak contributory flow from the collection system served or 2.5 times the estimated future average daily flow of the tributary system.\n\n(f) Infiltration allowance for the design of gravity sewers shall be as follows:\n\n(1) For areas to be sewered in the future, an infiltration allowance of 150 gpd per acre shall be used;\n\n(2) For sewers under design, an allowance of 300 gallons per inch diameter per mile per day shall be made; or\n\n(3) For sewers in use as of March 25, 2006 intended to be connected by the interceptor sewer under design, infiltration shall be measured during high spring groundwater conditions.\n\nSource. (See Revision Note at chapter heading for Env-Wq 700) #8590, eff 3-25-06; ss by #10693, eff 10-15-14; ss by #14258, eff 7-1-25, EXPIRES: 7-1-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq700.html"
+}

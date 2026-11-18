@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2004",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "4-C:1",
+      "paragraphs": [
+        "II(i)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "21-O:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2000",
+  "definition": "GRANT APPLICATION PROCESS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/2004.01",
+    "https://granitestate.github.io/rules/env-wq/2004.02",
+    "https://granitestate.github.io/rules/env-wq/2004.03",
+    "https://granitestate.github.io/rules/env-wq/2004.04",
+    "https://granitestate.github.io/rules/env-wq/2004.05",
+    "https://granitestate.github.io/rules/env-wq/2004.06",
+    "https://granitestate.github.io/rules/env-wq/2004.07",
+    "https://granitestate.github.io/rules/env-wq/2004.08"
+  ],
+  "notation": "Env-Wq 2004",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2000.html",
+  "prefLabel": "Env-Wq 2004 GRANT APPLICATION PROCESS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 2004 GRANT APPLICATION PROCESS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2000.html"
+}

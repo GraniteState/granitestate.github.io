@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2303",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "ELIGIBILITY; APPLCATION REQUIREMENTS",
+  "authority": [
+    {
+      "citation": "485-A:58",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:59",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:60",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:61",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-61",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2300",
+  "definition": "ELIGIBILITY; APPLICATION REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/2303.01",
+    "https://granitestate.github.io/rules/env-wq/2303.02",
+    "https://granitestate.github.io/rules/env-wq/2303.03",
+    "https://granitestate.github.io/rules/env-wq/2303.04",
+    "https://granitestate.github.io/rules/env-wq/2303.05",
+    "https://granitestate.github.io/rules/env-wq/2303.06"
+  ],
+  "notation": "Env-Wq 2303",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html",
+  "prefLabel": "Env-Wq 2303 ELIGIBILITY; APPLICATION REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 2303 ELIGIBILITY; APPLICATION REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html"
+}

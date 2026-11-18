@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/301.16",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:8",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:13",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-8",
+    "https://granitestate.github.io/rsa/485-A/485-A-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/301",
+  "definition": "Additional Permit Conditions",
+  "effectiveDate": "2023-05-22",
+  "historyNote": "(See Revision Note at part heading for Env-Wq 301) #10348, eff 5-22-13; ss by #13613, eff 5-22-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 301.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html",
+  "prefLabel": "Env-Wq 301.16 Additional Permit Conditions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 301.16 Additional Permit Conditions. If additional conditions or effluent limitations are necessary to ensure that the discharge does not violate Env-Wq 1700, the department shall include such conditions or effluent limitations in the permit.\n\nSource. (See Revision Note at part heading for Env-Wq 301) #10348, eff 5-22-13; ss by #13613, eff 5-22-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq300.html"
+}

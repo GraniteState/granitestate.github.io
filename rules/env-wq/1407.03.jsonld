@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1407.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483-B:5-b",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-5-b",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B:17",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483-B/483-B-5-b",
+    "https://granitestate.github.io/rsa/483-B/483-B-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1407",
+  "definition": "Action After Emergency",
+  "effectiveDate": "2016-12-17",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1407.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html",
+  "prefLabel": "Env-Wq 1407.03 Action After Emergency",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1407.03 Action After Emergency. An application as specified in Env-Wq 1406.06 shall be submitted for any permanent repairs, restoration, or other activities proposed to be undertaken after the immediate threat has been abated and the property has been stabilized.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html"
+}

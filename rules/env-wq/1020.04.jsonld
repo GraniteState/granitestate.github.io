@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1020.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1020",
+  "definition": "Sizing and Bed Bottom of Effluent Disposal Area",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1020.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1020.04 Sizing and Bed Bottom of Effluent Disposal Area",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1020.04 Sizing and Bed Bottom of Effluent Disposal Area.\n\n(a) The effective effluent disposal area for dry wells shall be at least 50% of the area established in Env-Wq 1016.02.\n\n(b) The area shall be calculated at the edge of stone around the perimeter of the dry well using one of the following formulas:\n\n(1) A = πdhN for round or hexagonal dry wells; or\n\n(2) A = 2h(l+w)N for rectangular dry wells.\n\n(c) For the purposes of the formulas in (b)(1) and (2):\n\n(1) h = the effective height which is the vertical wall height below the inlet pipe, plus a maximum of 12 inches of septic stone placed below the dry well. The maximum effective height shall be 6 feet;\n\n(2) d = the diameter of the dry well plus the additional width of the stone;\n\n(3) l = the length of the dry well plus the additional width of stone;\n\n(4) w = the width of the dry well plus the additional width of stone; and\n\n(5) N = the total number of drywells.\n\n(d) The bed bottom shall be the bottom of the 12 inches of septic stone under all dry wells.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

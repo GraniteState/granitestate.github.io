@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1509.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1509",
+  "definition": "Requests to Extend Deadlines",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1509.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1509.06 Requests to Extend Deadlines",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1509.06 Requests to Extend Deadlines.\n\n(a) An applicant for a permit who has received a notice of incompleteness pursuant to Env-Wq 1503.13(c) and is unable to provide the missing application component(s) by the specified deadline may request an extension of the deadline.\n\n(b) An applicant for a permit who has received a request for additional information pursuant to Env-Wq 1503.14 and is unable to provide the additional information requested by the specified deadline may request an extension of the deadline.\n\n(c) Each request for a deadline extension shall be submitted in writing through NHEnviro and contain the information specified in Env-Wq 1509.07.\n\n(d) Any request for a deadline extension shall be filed as soon as the applicant realizes the need for an extension.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

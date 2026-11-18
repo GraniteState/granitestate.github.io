@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1008.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1008",
+  "definition": "Minimum Distances",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1008.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1008.05 Minimum Distances",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1008.05 Minimum Distances.\n\n(a) The minimum separation distance in feet between components of an ISDS and the identified receptors shall be as specified in Table 1008-2, subject to (b) through (e), below:\n\nTable 1008-2: Minimum Separation Distances (in Feet)\n\nComponent→ Receptor↓ | Septic Tank and Pump Chamber | Bed | Sewer Line\n\nSurface Water | 75 | 75\n\nBoundary of Wetlands with Poorly Drained Soils | 50 | 50\n\nBoundary of Wetlands with Very Poorly Drained Soils | 75 | 75\n\nWatercourse, intercepting SHWT | 75 | 75\n\nWatercourse, not intercepting SHWT | 25 | 35\n\nCulvert With Sealed Pipe Joints | 10 | 25\n\nCatch Basin, Culvert without sealed pipe joints, or Foundation drain outfall | 25 | 25\n\nWater Mains and Water Service Lines, pressurized | 10 | 10 | 10\n\nWater Service Lines, suction | 50 | 50 | 50\n\nProperty Boundaries | 5 | 10 | 5\n\nFoundation, any type, with Foundation Drains | 5 | 15\n\nFoundation, full basement, without Foundation Drains | 5 | 10\n\nFoundation, slab, without Foundation Drains | 5 | 5\n\nFoundation Drains Outfall Pipe (Solid) | 5 | 5\n\nTop of Natural Embankment or Natural Steep Slope | 5 | 20\n\nStormwater Pond intercepting SHWT | 50 | 75\n\nStormwater Pond not intercepting SHWT | 25 | 35\n\nGeothermal well, open loop | 75 | 75\n\nGeothermal well, closed loop | 25 | 25\n\nDrainage ditch or drainage swale, upgradient of bed, does not intercept SHWT | 10 | 10\n\nDrainage ditch or interceptor drain (for example a curtain drain), upgradient of bed, intercepting SHWT | 10 | 25\n\nSwimming pool, in-ground, downgradient of bed | 15\n\nSwimming pool, in-ground, upgradient or side gradient of bed | 10\n\n(b) The distance between a septic tank and surface water, watercourse, wetlands with very poorly drained soil, an open loop geothermal well, or a private on-site well may be reduced to 50 feet if:\n\n(1) Pipe having an SDR of 26 or equivalent is used and is solvent cemented or watertight at all pipe joints; and\n\n(2) The tank is monolithic and made from concrete, plastic, fiberglass, or other material meeting Env-Wq 1010 watertight tank requirements or the tank has a reinforced mid-seam seal that is watertight.\n\n(c) The distance between a water main or pressurized water service line and a bed may be reduced to 5 feet, and the distance from a water main or pressurized water service line to a septic tank may be reduced to 5 feet, if the waterline is sleeved in a single, continuous length of SDR 35 pipe or equivalent, to the distance specified in Table 1008-2.\n\n(d) For any well for which a wellhead protection area has been established pursuant to RSA 485-C, the distance between the well and the septic system components shall be as established in the applicable rule in Env-Dw 300.\n\n(e) Setbacks to known burial sites, burial grounds, and cemeteries shall comply with RSA 289:3, III, which prohibits new construction, excavation, and building within 25 feet of a known burial site or within 25 feet of the boundaries of an established burial ground or cemetery, subject to local regulations.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

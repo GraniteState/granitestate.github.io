@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1701",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1700",
+  "definition": "PURPOSE; APPLICABILITY; COMPLIANCE SCHEDULES; VARIANCES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1701.01",
+    "https://granitestate.github.io/rules/env-wq/1701.02",
+    "https://granitestate.github.io/rules/env-wq/1701.03",
+    "https://granitestate.github.io/rules/env-wq/1701.04"
+  ],
+  "notation": "Env-Wq 1701",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1701 PURPOSE; APPLICABILITY; COMPLIANCE SCHEDULES; VARIANCES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1701 PURPOSE; APPLICABILITY; COMPLIANCE SCHEDULES; VARIANCES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

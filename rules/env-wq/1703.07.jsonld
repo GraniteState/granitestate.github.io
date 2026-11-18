@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1703.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1703",
+  "definition": "Dissolved Oxygen",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1703.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1703.07 Dissolved Oxygen",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1703.07 Dissolved Oxygen.\n\n(a) Class A waters shall have a dissolved oxygen content of at least 75% saturation, based on a daily average, and an instantaneous minimum of at least 6 mg/L at any place or time except as naturally occurs.\n\n(b) Except as naturally occurs and subject to (c) through (e), below, class B waters shall have a dissolved oxygen content of:\n\n(1) At least 75% of saturation, based on a daily average; and\n\n(2) An instantaneous minimum dissolved oxygen concentration of at least 5 mg/L.\n\n(c) In areas identified by the New Hampshire fish and game department (NHF&G) as cold water fish spawning areas of species whose early life stages are buried in the gravel on the bed of the surface water, the 7 day mean dissolved oxygen concentration shall be at least 9.5 mg/L and the instantaneous minimum dissolved oxygen concentration shall be at least 8 mg/L for the period from October 1 of one year to May 14 of the next year, provided that the time period shall be extended to June 30 for a specific discharge to a specific waterbody if modeling done in consultation with the NHF&G determines the extended period is necessary to protect spring spawners or late hatches of fall spawners, or both.\n\n(d) Unless naturally occurring or subject to (a), above, surface waters within the top 25 percent of depth of thermally unstratified lakes, ponds, impoundments, and reservoirs or within the epilimnion shall contain a dissolved oxygen content of at least 75 percent saturation, based on a daily average and an instantaneous minimum dissolved oxygen content of at least 5 mg/L. Unless naturally occurring, the dissolved oxygen content below those depths shall be consistent with that necessary to maintain and protect existing and designated uses.\n\n(e) As specified in RSA 485-A:8, III, waters in a temporary partial use area established under RSA 485-A:8, II as a surface water that is receiving a combined sewer overflow discharge shall contain not less than 5 parts per million of dissolved oxygen for the duration of the discharge and up to 3 days following cessation of the discharge.\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

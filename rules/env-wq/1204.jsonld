@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1204",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "149-I",
+      "source": "https://granitestate.github.io/rsa/149-I",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-A:45",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-I"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1200",
+  "definition": "CHARGES AND BILLING PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1204.01",
+    "https://granitestate.github.io/rules/env-wq/1204.02",
+    "https://granitestate.github.io/rules/env-wq/1204.03",
+    "https://granitestate.github.io/rules/env-wq/1204.04",
+    "https://granitestate.github.io/rules/env-wq/1204.05",
+    "https://granitestate.github.io/rules/env-wq/1204.06",
+    "https://granitestate.github.io/rules/env-wq/1204.07",
+    "https://granitestate.github.io/rules/env-wq/1204.08",
+    "https://granitestate.github.io/rules/env-wq/1204.09",
+    "https://granitestate.github.io/rules/env-wq/1204.10",
+    "https://granitestate.github.io/rules/env-wq/1204.11"
+  ],
+  "notation": "Env-Wq 1204",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1200.html",
+  "prefLabel": "Env-Wq 1204 CHARGES AND BILLING PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1204 CHARGES AND BILLING PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1200.html"
+}

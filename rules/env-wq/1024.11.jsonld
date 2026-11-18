@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1024.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Evaluation Criteria – Treatment Tanks",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1024",
+  "definition": "Evaluation Criteria - Treatment Tanks",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1024.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1024.11 Evaluation Criteria - Treatment Tanks",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1024.11 Evaluation Criteria - Treatment Tanks.\n\n(a) The criterion “at least as protective of the environment as a conventional system” when applied to a treatment tank means that:\n\n(1) If no reductions in setbacks to SHWT, impervious substrate, or surface water are being requested, the effluent quality from the proposed technology will be as good or better than the effluent quality from a standard septic tank;\n\n(2) If reductions in setbacks to SHWT, impervious substrate, or surface water are being requested, the effluent quality from the proposed technology will:\n\na. Meet NSF 40 standards for at least 2 parameters; and\n\nb. Exceed effluent quality from a standard septic tank for the 3 parameters not covered by NSF 40; or\n\n(3) If reductions in nitrate setbacks are being requested, the effluent quality from the proposed technology meets or exceeds NSF 245 and nitrate at the property boundary will not exceed 10 mg/L.\n\n(b) The criterion “function as reliably or better than a conventional system” when applied to a treatment tank means that the proposed technology, as compared to a standard septic tank, has a reduced occurrence of inadequately treated discharges.\n\n(c) When evaluating an applicant’s design manual, the department shall review the material in the manual to ensure that a system built following the design manual will meet the criteria specified in Env-Wq 1024.08(c).\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

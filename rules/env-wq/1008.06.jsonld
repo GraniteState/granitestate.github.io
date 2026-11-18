@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1008.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1008",
+  "definition": "Nitrate Setbacks to Property Lines",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1008.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1008.06 Nitrate Setbacks to Property Lines",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1008.06 Nitrate Setbacks to Property Lines.\n\n(a) The bed shall be located at or beyond the minimum distances from property lines as shown in Table 1008-3, below.\n\n(b) Executed groundwater easements on abutting property may be used to meet setback distance requirements and shall be depicted on all ISDS plans.\n\n(c) An applicant may request a reduction in one or more of the minimum nitrate setback distances by submitting a hydrogeological analysis of the property demonstrating that the requirements of Env-Wq 402 will be met. If the department determines that the analysis validly demonstrates that the minimum specified nitrate setback distance is not required and the discharge is not prohibited by Env-Wq 402, the department shall approve a reduced setback.\n\n(d) For flows of less than 1,000 GPD, the setback distance to any property line shall be as specified in Table 1008-2.\n\n(e) If 2 or more EDA are proposed for a single lot and the total combined design flow equals 1,000 GPD or more, the setback distances for each bed shall be determined as follows:\n\n(1) For any bed that is within the setback distance specified in (f), below, or Table 1008-3, below, as applicable, of any other bed on the same lot, the setback distances for both beds shall be as specified in Table 1008-3, below, for the total combined flow to the beds; and\n\n(2) For any bed that is not within the setback distances specified in (f), below, or Table 1008-3, below, as applicable, of any other bed on the same lot, the setback distances for that bed shall be based on the flow to that bed, as follows:\n\na. If flow to the bed is less than 1,000 GPD, the distances to property lines shall be as specified in (d), above; or\n\nb. If flow to the bed is 1,000 GPD or more, the distances to property lines shall be as specified in Table 1008-3, below.\n\n(f) For purposes of determining whether a bed is within the setback distances of another bed on the same lot where the flow to one or both of the beds is less than 1,000 GPD, the setback distances shall be as follows:\n\n(1) If the bed is hydraulically down-gradient, 50 feet;\n\n(2) If the bed is hydraulically side-gradient, 25 feet; and\n\n(3) If the bed is hydraulically up-gradient, 12 feet.\n\n(g) Minimum nitrate setback distances to property lines and for use when determining whether (e)(1) or (e)(2), above, applies shall be as follows:\n\nTable 1008-3: Minimum Nitrate Setback Distances (in feet)\n\nDesign Flow, GPD | Hydraulically Down-gradient | Hydraulically Side-gradient | Hydraulically Up-gradient\n\n1,000-1,100 | 55 | 28 | 14\n\n1,101-1,200 | 60 | 30 | 15\n\n1,201-1,300 | 65 | 33 | 17\n\n1,301-1,400 | 70 | 35 | 18\n\n1,401-1,500 | 75 | 38 | 19\n\n1,501-1,600 | 80 | 40 | 20\n\n1,601-1,700 | 85 | 43 | 22\n\n1,701-1,800 | 90 | 45 | 23\n\n1,801-1,900 | 95 | 48 | 24\n\n1,901-2,000 | 100 | 50 | 25\n\n2,001-2,100 | 105 | 53 | 27\n\n2,101-2,200 | 110 | 55 | 28\n\n2,201-2,300 | 115 | 58 | 29\n\n2,301-2,400 | 120 | 60 | 30\n\n2,401-2,500 | 125 | 63 | 32\n\n2,501-3,000 | 150 | 75 | 37\n\n3,001-3,500 | 175 | 88 | 44\n\n3,501-4,000 | 200 | 100 | 50\n\n4,001-4,500 | 225 | 113 | 57\n\n4,501-5,000 | 250 | 125 | 63\n\n5,001-6,000 | 275 | 138 | 69\n\n6,001-7,000 | 300 | 150 | 75\n\n7,001-8,000 | 320 | 160 | 80\n\n8,001-9,000 | 340 | 170 | 85\n\n9,001-10,000 | 350 | 175 | 88\n\n10,001-15,000 | 435 | 213 | 107\n\n15,001-19,999 | 500 | 250 | 125\n\n(h) Replacement systems where the flow existed prior to September 1, 1989 are not required to meet nitrate setbacks provided there is no increase in flow.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

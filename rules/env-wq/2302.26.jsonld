@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2302.26",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Initial Loan Documents",
+  "authority": [
+    {
+      "citation": "485-A:58",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:59",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:60",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:61",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-61",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/2302",
+  "definition": "Initial loan documents",
+  "effectiveDate": "2024-09-24",
+  "historyNote": "#13858, INTERIM, eff 1-27-24, EXPIRED: 7-25-24 New. #14078, eff 9-24-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 2302.26",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html",
+  "prefLabel": "Env-Wq 2302.26 Initial loan documents",
+  "priorExpiration": "2024-07-25",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 2302.26 “Initial loan documents” means the initial financial assistance agreement between the state and a non-governmental recipient through which the state agrees to provide funds from the CMF to the recipient, and the recipient promises to use the funds as specified in its application and to repay the funds to the CMF.\n\nSource. #13858, INTERIM, eff 1-27-24, EXPIRED: 7-25-24\n\nNew. #14078, eff 9-24-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html"
+}

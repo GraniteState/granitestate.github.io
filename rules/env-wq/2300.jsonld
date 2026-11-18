@@ -1,0 +1,47 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/2300",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:58",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:59",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:60",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:61",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-61",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-61"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq",
+  "definition": "CYANOBACTERIA MITIGATION FUND (CMF) PROGRAM FOR ELIGIBLE PROJECTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/2301",
+    "https://granitestate.github.io/rules/env-wq/2302",
+    "https://granitestate.github.io/rules/env-wq/2303",
+    "https://granitestate.github.io/rules/env-wq/2304",
+    "https://granitestate.github.io/rules/env-wq/2305",
+    "https://granitestate.github.io/rules/env-wq/2306",
+    "https://granitestate.github.io/rules/env-wq/2307",
+    "https://granitestate.github.io/rules/env-wq/2308"
+  ],
+  "notation": "Env-Wq 2300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html",
+  "prefLabel": "Env-Wq 2300 CYANOBACTERIA MITIGATION FUND (CMF) PROGRAM FOR ELIGIBLE PROJECTS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Wq 2300 CYANOBACTERIA MITIGATION FUND (CMF) PROGRAM FOR ELIGIBLE PROJECTS\n\nStatutory Authority: RSA 485-A:58, RSA 485-A:59, RSA 485-A:60, and RSA 485-A:61",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq2300.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1206.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "147:8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "149-I:6",
+      "source": "https://granitestate.github.io/rsa/149-I/149-I-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:45",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/149-I/149-I-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1206",
+  "definition": "CDP Duration",
+  "effectiveDate": "2019-03-19",
+  "historyNote": "#8235, eff 12-22-04 (See Revision Note at chapter heading for Env-Wq 1200) (formerly Env-Ws 1206.04); ss by #9798-A, eff 10-9-10; ss by #12739, eff 3-19-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1206.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1200.html",
+  "prefLabel": "Env-Wq 1206.04 CDP Duration",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1206.04 CDP Duration.\n\n(a) Subject to (b), below, a CDP shall not expire.\n\n(b) A CDP shall terminate upon cessation of operations or transfer of business ownership, unless notification of such transfer is provided at least 30 days in advance.\n\n(c) The notice required by (b), above, shall include a written certification that:\n\n(1) States that the new property owner or new operator, as applicable, has no immediate intent to change the facility’s operations and processes;\n\n(2) Identifies the specific date on which the transfer of ownership is to occur; and\n\n(3) Acknowledges full responsibility for complying with the existing permit conditions and these rules.\n\nSource. #8235, eff 12-22-04 (See Revision Note at chapter heading for Env-Wq 1200) (formerly Env-Ws 1206.04); ss by #9798-A, eff 10-9-10; ss by #12739, eff 3-19-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1200.html"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1008.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1008",
+  "definition": "System Capacity; Number of EDAs; Minimum Design Flow",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.02)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1008.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1008.03 System Capacity; Number of EDAs; Minimum Design Flow",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1008.03 System Capacity; Number of EDAs; Minimum Design Flow.\n\n(a) The maximum allowable design capacity for an ISDS without a groundwater discharge permit as required under RSA 485-A:13 or RSA 485-C shall be 20,000 GPD.\n\n(b) An ISDS with design capacity of more than 2,500 GPD but no more than 5,000 GPD shall have at least 2 beds separated horizontally by at least 10 feet, provided that the EDA may be a single field if:\n\n(1) A mounding analysis is performed by a professional hydrogeologist, hydrologist, or engineer who specializes in hydrogeology or hydrology on the proposed EDA using the Hantush (1967) method referenced in the “Groundwater Mounding Analysis for Onsite Wastewater Discharge: From Simple to Innovative” (2019), available as noted in Appendix B, or using an equivalent method that is capable of accurately determining groundwater mounding for all types and sizes of EDAs;\n\n(2) The results of the mounding analysis are submitted with the application and show that the required separation distance to SHWT will be maintained for conventional systems and for ITA systems that have been approved under Env-Wq 1024 or Env-Ws 1024; and\n\n(3) The bed size(s) is modified or the separation distance above the SHWT is increased, such that mounding is decreased in order to maintain the required separation distance above the SHWT.\n\n(c) For a system with a design capacity of more than 5,000 GPD:\n\n(1) The system shall have at least 2 beds in the EDA, with the beds separated horizontally by at least 10 feet;\n\n(2) Each bed shall be designed for a flow of not more than 5,000 GPD; and\n\n(3) A mounding analysis shall be submitted that meets the requirements of (b), above.\n\n(d) An ISDS with multiple beds shall have equal distribution or equal dosing of effluent to each bed.\n\n(e) No ISDS shall be designed to accommodate a sewage flow of less than 300 GPD, whether for commercial or non-commercial uses.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36 (formerly Env-Wq 1008.02)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

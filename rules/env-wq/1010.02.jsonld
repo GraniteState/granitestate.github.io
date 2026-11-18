@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1010.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1010",
+  "definition": "Septic Tank Capacity for Commercial Use, Metered Flows, and Combined Uses",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1010.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1010.02 Septic Tank Capacity for Commercial Use, Metered Flows, and Combined Uses",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1010.02 Septic Tank Capacity for Commercial Use, Metered Flows, and Combined Uses.\n\n(a) Except as allowed in Env-Wq 1008.01, the required minimum liquid capacity of a septic tank in an ISDS serving a commercial use shall be as follows:\n\n(1) For flows of less than 300 GPD, the volume shall not be less than 1,000 gallons;\n\n(2) For flows of 300 GPD to less than 625 GPD, the septic tank volume shall have a minimum septic tank liquid capacity of 1,250 gallons;\n\n(3) For flows of at least 625 GPD but less than 4,600 GPD, the volume shall be 2 times the daily sewage flow; and\n\n(4) For flows of 4,600 GPD or greater the volume shall be 1.5 times the daily sewage flow.\n\n(b) For an ISDS that serves a combined commercial and residential use, the minimum septic tank liquid capacity of the combined use shall be the minimum septic tank liquid capacity for the residential use that meets the requirements of Env-Wq 1010.01 plus the minimum septic tank liquid capacity for the commercial use that meets the requirements of this section.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

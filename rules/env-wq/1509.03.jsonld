@@ -1,0 +1,50 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1509.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17",
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1509",
+  "definition": "Content and Format of Waiver Requests",
+  "effectiveDate": "2026-08-06",
+  "expirationDate": "2036-08-06",
+  "historyNote": "#9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1509.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1509.03 Content and Format of Waiver Requests",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1509.03 Content and Format of Waiver Requests.\n\n(a) The person requesting the waiver shall provide the following information to the department through NHEnviro:\n\n(1) The submission number assigned pursuant to Env-Wq 1503.13(b);\n\n(2) The specific rule section or paragraph for which a waiver is being requested; and\n\n(3) A full explanation of why the applicant believes that having the waiver granted will meet the criteria in Env-Wq 1509.04.\n\n(b) The applicant or the applicant’s agent shall sign the request as specified in Env-Wq 1503.10.\n\nSource. #9343, eff 1-1-09; ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36; ss by #14656, eff 8-6-26, EXPIRES: 8-6-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}

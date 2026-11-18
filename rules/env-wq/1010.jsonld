@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1010",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1000",
+  "definition": "SEPTIC TANKS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wq/1010.01",
+    "https://granitestate.github.io/rules/env-wq/1010.02",
+    "https://granitestate.github.io/rules/env-wq/1010.03",
+    "https://granitestate.github.io/rules/env-wq/1010.04",
+    "https://granitestate.github.io/rules/env-wq/1010.05",
+    "https://granitestate.github.io/rules/env-wq/1010.06",
+    "https://granitestate.github.io/rules/env-wq/1010.07",
+    "https://granitestate.github.io/rules/env-wq/1010.08",
+    "https://granitestate.github.io/rules/env-wq/1010.09",
+    "https://granitestate.github.io/rules/env-wq/1010.10",
+    "https://granitestate.github.io/rules/env-wq/1010.11",
+    "https://granitestate.github.io/rules/env-wq/1010.12",
+    "https://granitestate.github.io/rules/env-wq/1010.13",
+    "https://granitestate.github.io/rules/env-wq/1010.14",
+    "https://granitestate.github.io/rules/env-wq/1010.15"
+  ],
+  "notation": "Env-Wq 1010",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1010 SEPTIC TANKS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wq 1010 SEPTIC TANKS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

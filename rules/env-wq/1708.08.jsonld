@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1708.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "VI"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1708",
+  "definition": "Assessing Waterbodies",
+  "effectiveDate": "2025-02-26",
+  "historyNote": "(See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1708.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html",
+  "prefLabel": "Env-Wq 1708.08 Assessing Waterbodies",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1708.08 Assessing Waterbodies.\n\n(a) The applicant shall characterize the existing water quality and determine whether there is remaining assimilative capacity for each parameter in question.\n\n(b) Existing water quality shall be calculated in accordance with Env-Wq 1705.02, based on point sources discharging at their allowed loadings and the highest loadings anticipated from nonpoint sources.\n\n(c) Where flows will or might be altered, existing conditions shall be established based on the existing maximum allowed water withdrawals or impoundment, diversion, or fluctuation of stream flow, as applicable.\n\n(d) Remaining assimilative capacity shall be evaluated by comparing existing water quality, as specified in (b) and (c), above, to the state’s water quality criteria.\n\n(e) If the type and frequency of the proposed discharge or activity will or might cause the waterbody to be impacted at flows other than those listed in Env-Wq 1705.02, the applicant shall evaluate the impact of the proposed discharge at those other flows.\n\n(f) Subject to (h), below, if the department determines, based on the information submitted, that there is no remaining assimilative capacity for a specific parameter, no further degradation with regard to that parameter shall be allowed.\n\n(g) Subject to (h), below, if the department determines, based on the information submitted, that there is some remaining assimilative capacity, then the department shall proceed in accord with Env-Wq 1708.09.\n\n(h) Determinations made pursuant to (f) or (g), above, shall account for Env-Wq 1705.01, which requires the department to reserve no less than 10% of a surface water’s assimilative capacity.\n\nSource. (See Revision Notes #1, #2, and #3 at chapter heading for Env-Wq 1700) #12042, eff 12-1-16; ss by #14203, eff 2-26-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1700.html"
+}

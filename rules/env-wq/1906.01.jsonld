@@ -1,0 +1,59 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1906.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "483:9-c",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "483:11",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-A:8",
+      "paragraphs": [
+        "I",
+        "II",
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1906",
+  "definition": "Protected Instream Flows and Water Quality Criteria",
+  "effectiveDate": "2018-12-22",
+  "historyNote": "#7901, eff 5-29-03 (See Revision Note at chapter heading for Env-Wq 1900) (formerly Env-Ws 1906.01); ss by #9936, eff 5-28-11; ss by #12695, eff 12-22-18 (formerly Env-Wq 1907.01)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1906.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1900.html",
+  "prefLabel": "Env-Wq 1906.01 Protected Instream Flows and Water Quality Criteria",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1906.01 Protected Instream Flows and Water Quality Criteria. Protected instream flows established by the commissioner shall serve as water quality criteria for the purpose of administration of water quality standards by the department under the federal Clean Water Act and RSA 485-A.\n\nSource. #7901, eff 5-29-03 (See Revision Note at chapter heading for Env-Wq 1900) (formerly Env-Ws 1906.01); ss by #9936, eff 5-28-11; ss by #12695, eff 12-22-18 (formerly Env-Wq 1907.01)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1900.html"
+}

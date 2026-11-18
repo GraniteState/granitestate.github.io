@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1411.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "483-B:3",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B:6",
+      "source": "https://granitestate.github.io/rsa/483-B/483-B-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/483-B/483-B-3",
+    "https://granitestate.github.io/rsa/483-B/483-B-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1411",
+  "definition": "Required Information",
+  "effectiveDate": "2016-12-17",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1411.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html",
+  "prefLabel": "Env-Wq 1411.01 Required Information",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1411.01 Required Information. The following information shall be included on all plans submitted to any state or local agency for any project that includes work in the protected shoreland:\n\n(a) The reference line;\n\n(b) The primary building line, 50 feet from the reference line; and\n\n(c) Any local setbacks.\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1400) #12062 eff 12-17-16",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1400.html"
+}

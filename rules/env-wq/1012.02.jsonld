@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1012.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1012",
+  "definition": "Type of Grease Interceptor Required",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "#14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1012.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1012.02 Type of Grease Interceptor Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1012.02 Type of Grease Interceptor Required.\n\n(a) Subject to (b) below, structures required to have a grease interceptor pursuant to Env-Wq 1012.01 shall have an external gravity grease interceptor that meets the design requirements of Env-Wq 1012.03.\n\n(b) Structures required to have a grease interceptor per Env-Wq 1012.01 may use a hydromechanical grease interceptor designed and operated according to the state building code pursuant to RSA 155-A instead of a gravity grease interceptor, provided that the structure:\n\n(1) Does not have a mechanical dishwasher;\n\n(2) Does not have a deep fryer or grill;\n\n(3) Does not have an in-sink garbage grinder;\n\n(4) Uses paper service only;\n\n(5) Does not have dine-in seating and is take-out only;\n\n(6) Removes all fats, oils, and grease on cookware using paper towels that are disposed as solid waste; and\n\n(7) Has flow that will be less than 150 gallons per day, as determined from:\n\na. The unit flow tables in Env-Wq 1008.04; or\n\nb. Metered flows pursuant to Env-Wq 1008.04.\n\nSource. #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

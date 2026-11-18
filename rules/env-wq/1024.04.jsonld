@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1024.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "IX"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:29",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-29",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4",
+    "https://granitestate.github.io/rsa/485-A/485-A-29"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1024",
+  "definition": "Types of ITA",
+  "effectiveDate": "2026-02-01",
+  "expirationDate": "2036-02-01",
+  "historyNote": "(See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1024.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html",
+  "prefLabel": "Env-Wq 1024.04 Types of ITA",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1024.04 Types of ITA.\n\n(a) The types of approvals issued by the department shall be provisional, general, or general with conditions.\n\n(b) The ITA applicant shall submit an application for a provisional ITA in accordance with Env-Wq 1024.05 if:\n\n(1) The proposed technology has not previously been approved by the department; or\n\n(2) The technology was approved with reference to a manual under Env-Ws 1024, but the ITA applicant seeks approval to use or install the technology in one or more ways not previously approved, for instance with a smaller separation distance to the seasonal high water table.\n\n(c) A provisional ITA shall:\n\n(1) Allow up to 50 ISDS to be installed using the approved technology over a time period of up to 5 years;\n\n(2) Require the ITA applicant to conduct performance testing in accordance with Env-Wq 1024.12 during the approval period stated in the provisional ITA; and\n\n(3) Require the ITA applicant to report the results of the testing conducted pursuant to (2), above to the department in writing.\n\n(d) An ITA applicant shall submit an application for a general ITA or general ITA with conditions in accordance with Env-Wq 1024.07 if:\n\n(1) The ITA applicant has complied with all terms and conditions of a provisional ITA issued pursuant to this part; and\n\n(2) The performance testing conducted pursuant to (c)(2), above, demonstrates that there is sufficient operating history, or other valid data, to allow general use of the technology, either with or without conditions.\n\n(e) A general ITA shall allow the approved technology to be used in accordance with the standards specified in Env-Wq 1000 for conventional systems, subject to any bed size reductions allowed by the approval.\n\n(f) A general ITA with conditions shall allow the approved technology to be used subject to the conditions specified in the ITA, including but not limited to conditions such as:\n\n(1) Requiring compliance with specific operation and maintenance (O&M) provisions;\n\n(2) Requiring compliance with specific installation requirements;\n\n(3) Requiring the technology to be installed in accordance with a design manual supplied by the manufacturer if such manual contains conditions, limitations, or installation requirements that must be met in order for the technology to meet the approval criteria; and\n\n(4) Other conditions, limitations, or restrictions as are necessary to ensure or verify that the technology as installed in the field meets the criteria specified in Env-Wq 1024.08(c).\n\nSource. (See Revision Notes #1 and #2 at chapter heading for Env-Wq 1000) #11184, eff 10-1-16; ss by #14486, eff 2-1-26, EXPIRES: 2-1-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1000.html"
+}

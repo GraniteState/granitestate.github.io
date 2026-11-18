@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/802.59",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "altLabel": "Wastewater Treatment Plant",
+  "authority": [
+    {
+      "citation": "485-A:4",
+      "paragraphs": [
+        "XVI-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/802",
+  "definition": "Wastewater treatment plant",
+  "effectiveDate": "2026-05-15",
+  "expirationDate": "2036-05-15",
+  "historyNote": "#10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.50)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 802.59",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html",
+  "prefLabel": "Env-Wq 802.59 Wastewater treatment plant",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 802.59 “Wastewater treatment plant” means “wastewater treatment plant” as defined in RSA 485-A:2, XVI-a, namely “the treatment facility or group of treatment devices which treats domestic or combined domestic and industrial wastewater through alteration, alone or in combination, of the physical, chemical, or bacteriological quality of the wastewater and which dewaters and handles sludge removed from the wastewater.”\n\nSource. #10998, eff 1-1-16; ss by #14571, eff 5-15-26, EXPIRES: 5-15-36 (formerly Env-Wq 802.50)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq800.html"
+}

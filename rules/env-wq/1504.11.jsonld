@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wq/1504.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Wq",
+  "authority": [
+    {
+      "citation": "485-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A:17",
+      "source": "https://granitestate.github.io/rsa/485-A/485-A-17",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/485-A/485-A-17"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wq/1504",
+  "definition": "Calculation of Water Quality Flow (WQF)",
+  "effectiveDate": "2026-01-19",
+  "expirationDate": "2036-01-19",
+  "historyNote": "#9343, eff 1-1-09; renumbered by #9817-A (formerly Env-Wq 1504.10); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wq 1504.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html",
+  "prefLabel": "Env-Wq 1504.11 Calculation of Water Quality Flow (WQF)",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wq 1504.11 Calculation of Water Quality Flow (WQF).\n\n(a) “WQV” means water quality volume calculated in accordance with Env-Wq 1504.10.\n\n(b) “qu” means the unit peak discharge from exhibits 4-II and 4-III of TR-55, Urban Hydrology for Small Watersheds, NRCS, June 1986 (TR-55), available as noted in Appendix B, using the values for P, A, Q, CN, S, and Ia as described in (c) through (h), below.\n\n(c) For purposes of this section, “P”, as used in exhibits 4-II and 4-III of TR-55 and for the calculation of CN in (f), below, means one inch of rainfall, regardless of whether the project involves redevelopment.\n\n(d) “A” as used for the calculation of Q in (e), below, means the total area draining to the design structure.\n\n(e) “Q” as used for the calculation of CN in (f), below, means the water quality depth, calculated as WQV divided by A, as shown in the formula below:\n\nQ = WQV / A\n\n(f) “CN” as used for the calculation of S in (g), below, means the unit peak discharge curve number, calculated by dividing 1000 by the value obtained by adding 10 to 5 times P and adding 10 times Q, and then subtracting 10 times the value obtained by adding Q squared to the product of 1.25 times Q times P and raising the sum to the 0.5 power, as shown in the formula below:\n\nCN = 1000 / (10 + 5P + 10Q – 10 x [Q2 + 1.25 x Q x P] 0.5)\n\n(g) “S” as used for the calculation of Ia in (h), below, means the potential maximum retention in inches, calculated by subtracting 10 from the value obtained by dividing 1000 by CN, as shown in the formula below:\n\nS = (1000 / CN) – 10\n\n(h) “Ia” as used in TR-55 exhibits 4-II and 4-III means the initial abstraction, calculated by multiplying 0.2 by S, as shown in the formula below:\n\nIa = 0.2 x S\n\n(i) To calculate the WQF, the applicant shall multiply qu by WQV, as shown in the formula below:\n\nWQF = qu x WQV\n\nSource. #9343, eff 1-1-09; renumbered by #9817-A (formerly Env-Wq 1504.10); ss by #12342, eff 8-15-17; ss by #14472, eff 1-19-26, EXPIRES: 1-19-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wq1500.html"
+}
