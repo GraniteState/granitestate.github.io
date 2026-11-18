@@ -1,0 +1,57 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/605.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-C:9",
+      "paragraphs": [
+        "X",
+        "XI"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-C:4",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/605",
+  "definition": "Initial Site Characterization Required",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 605.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 605.07 Initial Site Characterization Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 605.07 Initial Site Characterization Required. The department shall send a written request for an initial site characterization to the responsible party following receipt of notice under Env-Or 604 unless:\n\n(a) The department determines, based on preliminary response actions, that the site meets the no further action criteria of Env-Or 609.02; or\n\n(b) The department determines that a site investigation in accordance with Env-Or 606.01 is required to adequately characterize the nature and extent of the discharge, based on a review of any response actions taken, the type and extent of contamination, and risk to receptors.\n\nSource. (See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

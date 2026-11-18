@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2602.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "125-O:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:21",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:23",
+      "source": "https://granitestate.github.io/rsa/125-O/125-O-23",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-O/125-O-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2602",
+  "definition": "Allowances",
+  "effectiveDate": "2009-12-12",
+  "expirationDate": "2017-12-12",
+  "historyNote": "#9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2602.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html",
+  "prefLabel": "Puc 2602.01 Allowances",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2602.01 “Allowances” means those Regional Greenhouse Gas Initiative (RGGI) allowances comprising the state’s annual budget for CO2 emissions specified in RSA 125-O:21, II.\n\nSource. #9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html"
+}

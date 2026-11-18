@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/905.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Applicability",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 905.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 905.01 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 905.01 Applicability.\n\n(a) The rules in this part shall apply to any employee of a state or municipal public works agency who wishes to be certified to maintain, repair, replace, or modify culverts as provided in RSA 482-A:3, XVII, reprinted in Appendix D.\n\n(b) Nothing in this part shall be construed to prevent routine roadway maintenance activities from being undertaken in accordance with Env-Wt 308.04 or Env-Wt 309.03.\n\n(c) Nothing in this part shall be construed to prevent a certified individual from undertaking culvert maintenance activities for a state or municipal public works agency other than the one by which the individual is employed, for example pursuant to an inter-municipal agreement.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

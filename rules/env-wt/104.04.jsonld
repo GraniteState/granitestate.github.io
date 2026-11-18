@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/104.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Reference Line",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/104",
+  "definition": "Reference line",
+  "effectiveDate": "2024-04-27",
+  "historyNote": "(See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; ss by #13945, eff 4-27-24 (See Revision Note #5 at chapter heading for Env-Wt 100)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 104.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html",
+  "prefLabel": "Env-Wt 104.04 Reference line",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 104.04 “Reference line” means for a surface water that is subject to RSA 483-B, the reference line as established under RSA 483-B:4, XVII.\n\nSource. (See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; ss by #13945, eff 4-27-24 (See Revision Note #5 at chapter heading for Env-Wt 100)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html"
+}

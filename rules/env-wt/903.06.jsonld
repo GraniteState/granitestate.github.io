@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/903.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Hydraulic Capacity Report",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 903.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 903.06 Hydraulic Capacity Report",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 903.06 Hydraulic Capacity Report. The applicant shall submit a hydraulic capacity report that includes drainage calculations and a narrative to demonstrate that the proposed stream crossing has sufficient hydraulic capacity to meet the applicable design standard with any application for:\n\n(a) A new tier 3 or tier 4 stream crossing for which an alternative design is being submitted pursuant to Env-Wt 904.10; or\n\n(b) A replacement tier 3 or tier 4 stream crossing for which the existing stream crossing cannot accommodate the design storm flow.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

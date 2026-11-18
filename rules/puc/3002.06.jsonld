@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/3002.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/3002",
+  "definition": "Department",
+  "effectiveDate": "2026-06-05",
+  "expirationDate": "2036-06-05",
+  "historyNote": "#14613, eff 6-5-26, EXPIRES: 6-5-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 3002.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html",
+  "prefLabel": "Puc 3002.06 Department",
+  "recordType": "rule-section",
+  "ruleText": "Puc 3002.06 “Department” means the New Hampshire department of energy.\n\nSource. #14613, eff 6-5-26, EXPIRES: 6-5-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html"
+}

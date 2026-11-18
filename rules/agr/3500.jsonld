@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3500",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "COST OF CARE",
+  "authority": [
+    {
+      "citation": "437:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/437/437-9",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "437-B:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/437-B/437-B-1",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-9",
+    "https://granitestate.github.io/rsa/437-B/437-B-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr",
+  "definition": "had formerly contained rules titled Breeder’s Health Certificate for Dogs and Cats.” Document #7639 had adopted Chapter Agr 3500, effective 1-30-02, which expir",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/3501",
+    "https://granitestate.github.io/rules/agr/3502",
+    "https://granitestate.github.io/rules/agr/3503",
+    "https://granitestate.github.io/rules/agr/3504"
+  ],
+  "notation": "Agr 3500",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html",
+  "prefLabel": "Agr 3500 had formerly contained rules titled Breeder’s Health Certificate for Dogs and Cats.” Document #7639 had adopted Chapter Agr 3500, effective 1-30-02, which expir",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Agr 3500 COST OF CARE\n\nStatutory Authority: RSA 437:9, V and RSA 437-B:1, IV\n\nREVISION NOTE:\n\nDocument #13208, effective 6-1-21, adopted Chapter Agr 3500 titled “Cost of Care”, relative to implement RSA 437:9, V and RSA 437-B:1 on the Cost of Care Fund to assist municipalities in covering the costs of care incurred from caring for animals pending the resolution of any action brought for animal cruelty under RSA 644:8 or RSA 644:8-a.",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html"
+}

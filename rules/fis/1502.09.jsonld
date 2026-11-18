@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1502.09",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "215-A:21",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-21",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-A:23",
+      "source": "https://granitestate.github.io/rsa/215-A/215-A-23",
+      "via": "appendix"
+    },
+    {
+      "citation": "215-C:36",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/215-A/215-A-21",
+    "https://granitestate.github.io/rsa/215-A/215-A-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1502",
+  "definition": "Transfer of Registration or License Prohibited",
+  "effectiveDate": "2018-07-25",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1502.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html",
+  "prefLabel": "Fis 1502.09 Transfer of Registration or License Prohibited",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1502.09 Transfer of Registration or License Prohibited.\n\n(a) The following types of OHRV or snowmobile registration certificates and licenses shall not be eligible to be transferred:\n\n(1) Temporary 10-day OHRV registration;\n\n(2) Permanent registration of an antique OHRV or snowmobile;\n\n(3) Annual dealer license and associated dealer plates;\n\n(4) Annual rental agent license and associated rental decals; and\n\n(5) Any registration that has been suspended or revoked for cause.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Fis 1500) #12590, eff 7-25-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1500.html"
+}

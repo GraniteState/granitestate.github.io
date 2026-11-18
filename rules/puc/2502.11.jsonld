@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.11",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Co-Fired Electric Generating Facility",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(k)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Co-fired electric generating facility",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.11 Co-fired electric generating facility",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.11 “Co-fired electric generating facility” means any fossil-fueled electric generation facility that originally began operation prior to January 1, 2006, if, after January 1, 2012, such facility co-fires with Class I eligible biomass fuels to displace the combustion of an amount of fossil fuels and that:\n\n(a) Either has a quarterly average nitrogen oxide (NOx) emission rate, as measured and verified under RSA 362-F:12, of less than or equal to 0.075 pounds (lbs)/million British thermal units (MMBtu) or has a plan approved by the department for reductions in NOx emission from other emissions sources in accordance with RSA 362-F:4,I(k)(1); and\n\n(b) Either has a particulate emission rate, as measured and verified under RSA 362-F:12, of less than or equal to 0.02 lbs/MMBtu or has a plan approved by the department for reductions in particulate matter emissions from emission sources owned by or affiliated with the co-firing entity in accordance with RSA 362-F:4,I(k)(2).\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

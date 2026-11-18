@@ -1,0 +1,52 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/506.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I",
+        "(e)",
+        "(l)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "369",
+      "source": "https://granitestate.github.io/rsa/369",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:21",
+      "paragraphs": [
+        "I(q)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/369"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/506",
+  "definition": "Short Term Debt",
+  "effectiveDate": "2026-01-02",
+  "expirationDate": "2036-01-02",
+  "historyNote": "#13794, eff 10-25-23; ss by #14462, eff 1-2-26, EXPIRES 1-2-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 506.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc500.html",
+  "prefLabel": "Puc 506.05 Short Term Debt",
+  "recordType": "rule-section",
+  "ruleText": "Puc 506.05 Short Term Debt. No utility shall issue or renew any notes, bonds, or other evidences of indebtedness payable less than 12 months after the date thereof without approval by the commission for a waiver pursuant to Puc 203.01 and Puc 203.06 if such short term debt exceeds 10 percent of the utility’s net fixed plant.\n\nSource. #13794, eff 10-25-23; ss by #14462, eff 1-2-26, EXPIRES 1-2-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc500.html"
+}

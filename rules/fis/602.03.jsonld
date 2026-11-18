@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/602.03",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "Import, Export, Transport and Release",
+  "authority": [
+    {
+      "citation": "206:10",
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "appendix"
+    },
+    {
+      "citation": "211:62",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/602",
+  "definition": "Import, Export, Transport, and Release",
+  "effectiveDate": "2022-07-01",
+  "historyNote": "#745, eff 1-25-76; ss by #2263, eff 1-7-83; ss by #2839, eff 8-31-84; ss by #4868, eff 7-20-90; ss by #6291, eff 7-20-96; ss by #8087, eff 5-27-04; ss by #10095, eff 2-29-12; ss by #13399, eff 7-1-22",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 602.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis600.html",
+  "prefLabel": "Fis 602.03 Import, Export, Transport, and Release",
+  "recordType": "rule-section",
+  "ruleText": "Fis 602.03 Import, Export, Transport, and Release.\n\n(a) No person shall bring, or have brought, into the state, nor transport, or caused to be transported, from the state to any other state or country, nor take from one point within the state to any other point within the state, any living marine plant, or marine animal, for release, without first procuring written permission to do so from the director.\n\n(b) Applicants shall request permission in writing and shall include the name of the species involved, when and where the release shall occur, the names of the persons involved, and an explanation of why the release is necessary. Permission shall be granted if the director determines no adverse environmental harm will occur.\n\nSource. #745, eff 1-25-76; ss by #2263, eff 1-7-83; ss by #2839, eff 8-31-84; ss by #4868, eff 7-20-90; ss by #6291, eff 7-20-96; ss by #8087, eff 5-27-04; ss by #10095, eff 2-29-12; ss by #13399, eff 7-1-22",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis600.html"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/205.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "541-A:11",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-11",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/205",
+  "definition": "Public Hearing",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#8657-A, eff 6-10-06; ss by #14184, eff 1-24-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 205.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 205.05 Public Hearing",
+  "recordType": "rule-section",
+  "ruleText": "Puc 205.05 Public Hearing.\n\n(a) If the commission initiates rulemaking proceedings under RSA 541-A, or if rulemaking is initiated pursuant to a request for rulemaking, the commission shall hold at least one public hearing pursuant to RSA 541-A:11.\n\n(b) Notice shall be given at least 20 days prior to the public hearing pursuant to RSA 541-A:6, I.\n\n(c) The commission shall limit the time allowed at hearing for each person’s comments when necessary to allow all persons with comments to make them.\n\n(d) The commission shall require persons desiring to make comments to so indicate by signing a roster made available for this purpose prior to the commencement of the public comment hearing.\n\nSource. #8657-A, eff 6-10-06; ss by #14184, eff 1-24-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

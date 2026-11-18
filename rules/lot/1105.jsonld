@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/1105",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "altLabel": "RECRODKEEPING",
+  "authority": [
+    {
+      "citation": "284:43",
+      "paragraphs": [
+        "IV",
+        "V"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "284:48",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/1100",
+  "definition": "RECORDKEEPING",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/1105.01"
+  ],
+  "notation": "Lot 1105",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html",
+  "prefLabel": "Lot 1105 RECORDKEEPING",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 1105 RECORDKEEPING",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html"
+}

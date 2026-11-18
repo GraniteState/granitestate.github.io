@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/705",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/700",
+  "definition": "NOTIFICATION; PERMIT ISSUANCE; APPEAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/705.01",
+    "https://granitestate.github.io/rules/env-wt/705.02",
+    "https://granitestate.github.io/rules/env-wt/705.03"
+  ],
+  "notation": "Env-Wt 705",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html",
+  "prefLabel": "Env-Wt 705 NOTIFICATION; PERMIT ISSUANCE; APPEAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 705 NOTIFICATION; PERMIT ISSUANCE; APPEAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html"
+}

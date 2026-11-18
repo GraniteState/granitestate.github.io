@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.33",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Renewable Energy Fund",
+  "authority": [
+    {
+      "citation": "362-F:10",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-10",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Renewable energy fund",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.30); ss by #12473, eff 2-1-18 (formerly Puc 2502.31)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.33",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.33 Renewable energy fund",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.33 “Renewable energy fund” means the nonlapsing special fund created by RSA 362-F:10 and administered by the commission.\n\nSource. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.30); ss by #12473, eff 2-1-18 (formerly Puc 2502.31)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/4105.02",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "437:2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437:6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437:8-a",
+      "source": "https://granitestate.github.io/rsa/437/437-8-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/4105",
+  "definition": "Reporting of Program Data",
+  "effectiveDate": "2025-01-07",
+  "historyNote": "#14163, eff 1-7-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 4105.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr4100.html",
+  "prefLabel": "Agr 4105.02 Reporting of Program Data",
+  "recordType": "rule-section",
+  "ruleText": "Agr 4105.02 Reporting of Program Data.\n\n(a) The department shall notify veterinarians when there are errors or incompleteness in the information filed.\n\n(b) The department may use and release information and reports from the database for program analysis and evaluation, statistical analysis, public research, public policy, and educational purposes, provided the data are aggregated or otherwise de-identified.\n\n(c) The department shall remove certificates of transfer from the animal records database after 4 years.\n\nSource. #14163, eff 1-7-25\n\nAPPENDIX A",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr4100.html"
+}

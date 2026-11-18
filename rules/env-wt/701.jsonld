@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/701",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-A:3",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-A:11",
+      "paragraphs": [
+        "I",
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "appendix,statutory_authority"
+    },
+    {
+      "citation": "482-A:15",
+      "paragraphs": [
+        "I-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-15",
+      "via": "appendix,statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11",
+    "https://granitestate.github.io/rsa/482-A/482-A-15"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/700",
+  "definition": "PURPOSE; DEFINITIONS; STATUTORY PARAMETERS; ABBREVIATIONS AND ACRONYMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/701.01",
+    "https://granitestate.github.io/rules/env-wt/701.02",
+    "https://granitestate.github.io/rules/env-wt/701.03",
+    "https://granitestate.github.io/rules/env-wt/701.04"
+  ],
+  "notation": "Env-Wt 701",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html",
+  "prefLabel": "Env-Wt 701 PURPOSE; DEFINITIONS; STATUTORY PARAMETERS; ABBREVIATIONS AND ACRONYMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 701 PURPOSE; DEFINITIONS; STATUTORY PARAMETERS; ABBREVIATIONS AND ACRONYMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html"
+}

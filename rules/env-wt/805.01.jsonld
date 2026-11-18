@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/805.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/805",
+  "definition": "Choice of Wetland Restoration, Enhancement, or Creation",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 805.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 805.01 Choice of Wetland Restoration, Enhancement, or Creation",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 805.01 Choice of Wetland Restoration, Enhancement, or Creation.\n\n(a) A compensatory mitigation proposal based on wetland restoration, enhancement, or creation shall replace the types of wetlands to be impacted and the functions affected and, where practicable, include a contiguous aquatic resource buffer.\n\n(b) Wetland restoration, enhancement, or creation proposals shall not be accepted as compensatory mitigation for sites at which remediation is required to correct unpermitted activities in jurisdictional areas.\n\n(c) When considering compensatory mitigation based on wetland restoration, enhancement, or creation, the applicant shall:\n\n(1) Give preference to wetland restoration over wetland enhancement and wetland creation;\n\n(2) Consider wetland creation only with input from the US ACE and EPA where:\n\na. Impacts to upland forest for wetland creation is minimized and avoided, except where necessary to establish appropriate landscape context such as vernal pool creation;\n\nb. The specific area of creation is not also being used as part of the project, such as for construction of a stormwater detention feature; and\n\nc. The area is not directly adjacent to developed areas; and\n\n(3) Consider vernal pool creation only with input from the US ACE and EPA where:\n\na. The hydrology of the proposed creation site includes both short and intermediate hydroperiods;\n\nb. Inoculation of created vernal pool areas with vernal pool organisms from impact areas is possible;\n\nc. The use of natural substrate and plant structure from impacted locations is used to provide appropriate pool structure, egg attachment sites, and seed sources; and\n\nd. Non-breeding habitat is located adjacent to created vernal pool areas for the long-term viability of potential pools as described in the US ACE Vernal Pool Best Management Practices (BMPs), January 2015, available as noted in Appendix B.\n\nSource. #8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

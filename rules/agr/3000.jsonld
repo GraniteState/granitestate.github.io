@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3000",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "466:13-a",
+      "source": "https://granitestate.github.io/rsa/466/466-13-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/466/466-13-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr",
+  "definition": "LICENSING OF CATS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/3001"
+  ],
+  "notation": "Agr 3000",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3000.html",
+  "prefLabel": "Agr 3000 LICENSING OF CATS",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Agr 3000 LICENSING OF CATS\n\nStatutory Authority: RSA 466:13-a",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3000.html"
+}

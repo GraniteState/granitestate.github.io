@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/104.42",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "USGS Map",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/104",
+  "definition": "USGS map",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "(See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; renumbered by #13945 (formerly Env-Wt 104.41)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 104.42",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html",
+  "prefLabel": "Env-Wt 104.42 USGS map",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 104.42 “USGS map” means a map published by the United States Geological Survey at a scale of 1:24,000 or a scale that provides greater detail.\n\nSource. (See Revision Notes #1, #2, #3, and #4 at Chapter heading for Env-Wt 100) #12801, eff 12-15-19; renumbered by #13945 (formerly Env-Wt 104.41)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt100.html"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/802.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Service Area",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/802",
+  "definition": "Service area",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 802.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 802.07 Service area",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 802.07 “Service area” means one of 9 major river basins, organized as modified HUC 8-digit watersheds, that contains the jurisdictional area(s) impacted by a project and how ARM funds are collected and disbursed to offset losses of aquatic resources.\n\nSource. #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

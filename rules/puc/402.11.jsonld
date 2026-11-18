@@ -1,0 +1,54 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/402.11",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Incumbent Local Exchange Carrier (ILEC)",
+  "authority": [
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:3",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:18-b",
+      "source": "https://granitestate.github.io/rsa/378/378-18-b",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-7",
+    "https://granitestate.github.io/rsa/362/362-8",
+    "https://granitestate.github.io/rsa/378/378-18-b"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/402",
+  "definition": "Incumbent local exchange carrier (ILEC)",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 402.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 402.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 402.11 Incumbent local exchange carrier (ILEC)",
+  "recordType": "rule-section",
+  "ruleText": "Puc 402.11 \"Incumbent local exchange carrier (ILEC)\" means an entity, and its successors and assigns, authorized under law or by the commission before July 23, 1995, to provide telephone exchange service.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 402.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

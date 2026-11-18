@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/802.12",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "147-F",
+      "source": "https://granitestate.github.io/rsa/147-F",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-F"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/802",
+  "definition": "Site",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "#10833, eff 6-1-15 (from Env-Or 802.11); ss by #14421, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 802.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html",
+  "prefLabel": "Env-Or 802.12 Site",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 802.12 “Site” means “site” as defined in Env-Or 602.\n\nSource. #10833, eff 6-1-15 (from Env-Or 802.11); ss by #14421, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html"
+}

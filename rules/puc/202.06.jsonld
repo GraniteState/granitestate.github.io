@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/202.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Declaratory Ruling",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:1",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/202",
+  "definition": "Declaratory ruling",
+  "effectiveDate": "2025-01-24",
+  "historyNote": "#14184, eff 1-24-25",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 202.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html",
+  "prefLabel": "Puc 202.06 Declaratory ruling",
+  "recordType": "rule-section",
+  "ruleText": "Puc 202.06 “Declaratory ruling” means a commission ruling as to the applicability of any statutory provision or of any rule or order of the commission.\n\nSource. #14184, eff 1-24-25",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc200.html"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/603.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/603",
+  "definition": "Water Depth Supporting Information Required",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 603.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 603.08 Water Depth Supporting Information Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 603.08 Water Depth Supporting Information Required.\n\n(a) Using current predicted NOAA tidal datum for the location, and tying field measurements to NAVD 88, field observations of at least 3 tide events, including at least one minus tide event, shall be located to document the range of the tide in the proposed location showing the following levels:\n\n(1) Mean lower low water;\n\n(2) Mean low water;\n\n(3) Mean high water;\n\n(4) Mean tide level;\n\n(5) Mean higher high water;\n\n(6) Highest observable tide line; and\n\n(7) Predicted sea-level rise as identified in the vulnerability assessment in Env-Wt 603.05.\n\n(b) The following data shall be presented in the application project narrative to support how water depths were determined:\n\n(1) The date, time of day, and weather conditions when water depths were recorded; and\n\n(2) The name and license number of the licensed land surveyor who conducted the field measurements.\n\n(c) For tidal stream crossing projects, provide water depth information to show how the tier 4 stream crossing is designed to meet Env-Wt 904.07(c) and (d), and for repair, rehabilitation, or replacement of tier 4 stream crossings, demonstrate how the requirements of Env-Wt 904.09 are met.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

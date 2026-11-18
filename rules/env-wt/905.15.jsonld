@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/905.15",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Obligations of Approved Providers",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 905.15",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 905.15 Obligations of Approved Providers",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 905.15 Obligations of Approved Providers.\n\n(a) Each approved provider shall notify the department in writing of any change in any of the information identified in Env-Wt 905.11 within 7 working days of the change.\n\n(b) Information submitted pursuant to (a), above, shall be signed and certified as specified in Env-Wt 905.13.\n\n(c) If any change reported pursuant to (a), above, is material to the organization’s ability to meet the criteria specified in Env-Wt 905.12(c), the written notification shall explain what the organization is doing to remedy the situation and when the organization expects to meet the criteria again.\n\n(d) The organization shall notify the department in writing within 7 working days of reestablishing compliance with the criteria specified in Env-Wt 905.12(c).\n\n(e) The organization shall not offer any course affected by the noncompliance with the criteria specified in Env-Wt 905.12(c) while the noncompliance exists.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

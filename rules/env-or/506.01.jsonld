@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/506.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "125-C:4",
+      "paragraphs": [
+        "I(a)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "125-C:12",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6",
+    "https://granitestate.github.io/rsa/125-C/125-C-12"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/506",
+  "definition": "Required Throughput Reporting",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 506.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 506.01 Required Throughput Reporting",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 506.01 Required Throughput Reporting.\n\n(a) The owner or operator of a gasoline dispensing facility that is subject to Env-Or 504 shall report throughput information in writing to the department within 30 days of the throughput equaling or exceeding 100,000 gallons per rolling 30-day period.\n\n(b) The written submittal required by (a), above, may be submitted on paper, via email, or via fax.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

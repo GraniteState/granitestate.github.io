@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/602.04",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Discounted Cash Flow Methodology or DCF",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I(e)",
+        "(l)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/602",
+  "definition": "\"Discounted cash flow methodology\" or \"DCF\" means a method of computing the cost of equity capital via the estimation of the expected flow of dividends in relat",
+  "effectiveDate": "2024-02-22",
+  "historyNote": "(See Revision Note # 1 and Revision Note #2 at chapter heading for Puc 600) #13887, eff 2-22-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 602.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc600.html",
+  "prefLabel": "Puc 602.04 \"Discounted cash flow methodology\" or \"DCF\" means a method of computing the cost of equity capital via the estimation of the expected flow of dividends in relat",
+  "recordType": "rule-section",
+  "ruleText": "Puc 602.04 \"Discounted cash flow methodology\" or \"DCF\" means a method of computing the cost of equity capital via the estimation of the expected flow of dividends in relation to the current market price of the stock computed by dividing the expected annual dividend by the current market price of a share of common stock and adding the expected rate of growth in dividends, as represented in the equation below, where:\n\n(a) \"k\" means the cost of equity capital;\n\n(b) \"Div1\" means the annual dividend expected in year one which is calculated by multiplying the dividends paid over the current year just ended by the product of one plus the expected rate of growth in dividends, as shown in the following formula:\n\nDiv1 = Div0 (1 + g)\n\n(c) \"Div0\" means the dividends paid over the current year just ended;\n\n(d) \"P0\" means the current market price of a share of common stock;\n\n(e) \"g\" means the expected rate of growth in dividends, which is assumed to be constant; and\n\n(f) \"k\" is derived by dividing \"Div1\" by \"P0\" and adding \"g\" to the product; as shown in the following formula:\n\nk =(Div1 / P0) + g\n\nSource. (See Revision Note # 1 and Revision Note #2 at chapter heading for Puc 600) #13887, eff 2-22-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc600.html"
+}

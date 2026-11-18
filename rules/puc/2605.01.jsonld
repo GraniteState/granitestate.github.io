@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2605.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "125-O:8",
+      "paragraphs": [
+        "II"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "125-O:23",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-O/125-O-23",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-O/125-O-23"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2605",
+  "definition": "Allowance Sales in Excess of Threshold Prices",
+  "effectiveDate": "2009-12-12",
+  "expirationDate": "2017-12-12",
+  "historyNote": "#9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2605.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html",
+  "prefLabel": "Puc 2605.01 Allowance Sales in Excess of Threshold Prices",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2605.01 Allowance Sales in Excess of Threshold Prices.\n\n(a) Notwithstanding Puc 2604 above, pursuant to RSA 125-O:23, IV the commission shall order and provide for the rebate to all electric ratepayers on a uniform per kilowatt hour basis all auction proceeds that exceed threshold prices for any allowance sale made prior to January 1, 2016.\n\n(b) For purposes of this section, “threshold prices” means the prices listed below for any allowance sale made prior to January 1, 2016 that are deposited in the fund:\n\n(1) 2009, $6 per ton;\n\n(2) 2010, $8 per ton;\n\n(3) 2011 and 2012, $9 per ton;\n\n(4) 2013 and 2014, $12 per ton; and\n\n(5) 2015, $15 per ton.\n\nSource. #9352, INTERIM, eff 1-1-09; ss by #9615, eff 12-12-09, EXPIRED: 12-12-17",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2600.html"
+}

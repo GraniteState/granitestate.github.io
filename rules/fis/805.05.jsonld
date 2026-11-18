@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/805.05",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "Controlled Species - Release",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "212:25",
+      "source": "https://granitestate.github.io/rsa/212/212-25",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14",
+    "https://granitestate.github.io/rsa/212/212-25"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/805",
+  "definition": "Controlled Species- Release",
+  "effectiveDate": "2026-04-21",
+  "expirationDate": "2036-04-21",
+  "historyNote": "(See Revision Note at chapter heading for Fis 800) #5507, eff 11-20-92; ss by #6889, eff 11-21-98, EXPIRED: 11-21-06 New. #8767, INTERIM, eff 11-22-06, EXPIRED: 5-21-07 New. #8893, eff 6-5-07; amd by #9790-A, eff 1-1-11; EXPIRED: 6-5-15 (except for para. (b) intro. and the permittee category of birds in Table 800.3); ss by #10868, INTERIM, eff 6-25-15, EXPIRED: 12-22-15 New. #11029, eff 1-26-16; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36 (formerly Fis 805.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 805.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 805.05 Controlled Species- Release",
+  "recordType": "rule-section",
+  "ruleText": "Fis 805.05 Controlled Species- Release.\n\n(a) No person shall release wildlife designated as controlled pursuant to Table 800.3 below, without a permit to release wildlife.\n\n(b) A permit shall be issued only to a person in the permittee category(ies), as defined in Fis 803.01, and cited in Table 800.3 as follows:\n\nTable 800.3 Controlled Species Table - Release\n\nPERMITTEE CATEGORY | SPECIES | SCIENTIFIC NAME\n\nFish | 1,6 | All indigenous or naturalized\n\nBirds\n\n1, 2, 3, 4, 5, 7 | Bobwhite, Northern | Colinus virginianus\n\n3, 4, 7 | Mallard | Anas platyrhynchos\n\n1, 2, 3, 4, 5, 7 | Pheasant, Ring-necked | Phasianus colchicus\n\n1, 2, 3,4, 5, 7 | Partridge, Chukar/Redleg | Alectoris chuka\n\n1, 2, 3, 4, 5, 7 | Partridge, Grey/Hungarian | Perdix perdix\n\nSource. (See Revision Note at chapter heading for Fis 800) #5507, eff 11-20-92; ss by #6889, eff 11-21-98, EXPIRED: 11-21-06\n\nNew. #8767, INTERIM, eff 11-22-06, EXPIRED: 5-21-07\n\nNew. #8893, eff 6-5-07; amd by #9790-A, eff 1-1-11; EXPIRED: 6-5-15 (except for para. (b) intro. and the permittee category of birds in Table 800.3); ss by #10868, INTERIM, eff 6-25-15, EXPIRED: 12-22-15\n\nNew. #11029, eff 1-26-16; ss by #14558, eff 4-21-26, EXPIRES: 4-21-36 (formerly Fis 805.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

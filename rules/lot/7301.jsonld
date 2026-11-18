@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7301",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "XVI"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:26",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:27",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7300",
+  "definition": "PURPOSE AND SCOPE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7301.01",
+    "https://granitestate.github.io/rules/lot/7301.02"
+  ],
+  "notation": "Lot 7301",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7300.html",
+  "prefLabel": "Lot 7301 PURPOSE AND SCOPE",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7301 PURPOSE AND SCOPE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7300.html"
+}

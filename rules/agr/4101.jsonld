@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/4101",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "437:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "437:8",
+      "source": "https://granitestate.github.io/rsa/437/437-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "437:8-a",
+      "source": "https://granitestate.github.io/rsa/437/437-8-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-8",
+    "https://granitestate.github.io/rsa/437/437-8-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/4100",
+  "definition": "PURPOSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/4101.01"
+  ],
+  "notation": "Agr 4101",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr4100.html",
+  "prefLabel": "Agr 4101 PURPOSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 4101 PURPOSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr4100.html"
+}

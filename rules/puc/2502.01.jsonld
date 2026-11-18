@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Alternative Compliance Payment",
+  "authority": [
+    {
+      "citation": "362-F:10",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-10",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Alternative compliance payment",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.02); ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.01 Alternative compliance payment",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.01 “Alternative compliance payment” means a payment that a provider of electricity must remit to the commission for each renewable energy certificate in lieu of retiring certificates to meet the portfolio standards of Puc 2503 for a given year as required by RSA 362-F:10, II.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.02); ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

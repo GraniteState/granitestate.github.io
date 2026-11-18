@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/801",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "147-F",
+      "source": "https://granitestate.github.io/rsa/147-F",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-F:18",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-18",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-F",
+    "https://granitestate.github.io/rsa/147-F/147-F-18"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/800",
+  "definition": "PURPOSE AND APPLICABILITY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/801.01",
+    "https://granitestate.github.io/rules/env-or/801.02"
+  ],
+  "notation": "Env-Or 801",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html",
+  "prefLabel": "Env-Or 801 PURPOSE AND APPLICABILITY",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 801 PURPOSE AND APPLICABILITY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or800.html"
+}

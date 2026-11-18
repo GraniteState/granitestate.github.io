@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/1005.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I(d)"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:12",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/1005",
+  "definition": "Registration Renewal Information and Timing",
+  "effectiveDate": "2021-12-21",
+  "historyNote": "#13210, INTERIM, eff 6-15-21; ss by #13314, eff 12-21-21",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 1005.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt1000.html",
+  "prefLabel": "Env-Wt 1005.01 Registration Renewal Information and Timing",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 1005.01 Registration Renewal Information and Timing.\n\n(a) To renew a registration for docking structures, the owner shall submit to the department a signed registration renewal form NHDES-W-06-097, “Non-Tidal Docking Structures Registration Renewal Form”, November 2021, that includes the following:\n\n(1) The information required in Env-Wt 1003.01(b);\n\n(2) The previous registration number that is the subject of the renewal;\n\n(3) If the docking structures have been modified in accordance with a permit issued pursuant to RSA 482-A:3, the permit number; and\n\n(4) A signed certification statement in accordance with Env-Wt 1003.01(b)(5).\n\n(b) In addition to the information required in (a) above, the owner may also provide the following information on the form:\n\n(1) The street address for the location of the docking structure;\n\n(2) The name and contact information for an agent, if any; and\n\n(3) The approximate location of the docking structures in latitude and longitude as decimal degrees to 5 decimal places (D.ddddd).\n\n(c) The registration renewal information shall be submitted to the department at least 15 days prior to the expiration of the registration.\n\nSource. #13210, INTERIM, eff 6-15-21; ss by #13314, eff 12-21-21",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt1000.html"
+}

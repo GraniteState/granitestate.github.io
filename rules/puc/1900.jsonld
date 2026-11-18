@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/1900",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I",
+        "(j)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc",
+  "definition": "RATE CASE EXPENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/1901",
+    "https://granitestate.github.io/rules/puc/1902",
+    "https://granitestate.github.io/rules/puc/1903",
+    "https://granitestate.github.io/rules/puc/1904",
+    "https://granitestate.github.io/rules/puc/1905",
+    "https://granitestate.github.io/rules/puc/1906",
+    "https://granitestate.github.io/rules/puc/1907",
+    "https://granitestate.github.io/rules/puc/1908"
+  ],
+  "notation": "Puc 1900",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html",
+  "prefLabel": "Puc 1900 RATE CASE EXPENSES",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Puc 1900 RATE CASE EXPENSES\n\nStatutory Authority: RSA 365:8, I, (j)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html"
+}

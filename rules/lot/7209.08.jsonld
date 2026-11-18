@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7209.08",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:6",
+      "paragraphs": [
+        "I(g)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:14",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:17",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:18",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7209",
+  "definition": "Voucher Requirements",
+  "effectiveDate": "2026-02-04",
+  "expirationDate": "2036-02-04",
+  "historyNote": "#14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7209.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7209.08 Voucher Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7209.08 Voucher Requirements.\n\n(a) EGDs shall not dispense currency. Payment to patrons shall only be accomplished by means of a printed voucher.\n\n(b) All vouchers shall contain the following printed information at a minimum:\n\n(1) The licensee’s name and site identifier, which can be contained on the voucher stock itself;\n\n(2) EGD number or cashier booth location;\n\n(3) Date and time stated in a time format according to the local time zone;\n\n(4) Alpha and numeric dollar amount;\n\n(5) Voucher sequence number;\n\n(6) Validation number;\n\n(7) Bar code or any machine-readable code representing the validation number;\n\n(8) Type of transaction or other method of differentiating voucher types. If the voucher is a non-cashable item, the voucher shall explicitly express that it has “no cash value”; and\n\n(9) The expiration period from date of issue, or date and time the voucher will expire according to the local time zone. This information can be contained on the voucher stock itself.\n\n(c) For HHR transactions:\n\n(1) Payment on valid pari-mutuel vouchers, including vouchers where refunds are ordered, shall be made only upon presentation and surrender of valid pari-mutuel voucher to GOE; and\n\n(2) All moneys collected during the previous year of pari-mutuel pool vouchers which have not been redeemed shall be paid to the state treasurer, and be subject to the requirements of RSA 284:31.\n\n(d) A system shall be used to validate the payout voucher, and the voucher information on the central system shall be retained for 2 calendar years after a voucher is valid at that location.\n\n(e) Payment by voucher as a method of credit redemption shall only be permissible when the EGD is linked to a computerized voucher validation system, which is able to identify a duplicate voucher to prevent fraud.\n\n(f) Validation numbers shall be masked when viewable through any display supported by the EGD such that the entirety of the validation number is not visible.\n\n(g) Vouchers may be inserted in any EGD participating in the validation system providing that no credits are issued to the EGD prior to confirmation of voucher validity.\n\n(h) The offline voucher redemption may be validated as an internal control process. A manual handpay may be conducted for the offline voucher value.\n\n(i) All prizes, and vouchers shall be paid upon presentation or request by the player during regular business hours.\n\n(j) The GOE shall maintain an electronic record of all outstanding vouchers for a period of at least 2 years.\n\nSource. #14503, eff 2-4-26, EXPIRES: 2-4-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

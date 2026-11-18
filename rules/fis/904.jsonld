@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/904",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "212:19",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/900",
+  "definition": "OWL BROOK HUNTER EDUCATION CENTER",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/904.01",
+    "https://granitestate.github.io/rules/fis/904.02",
+    "https://granitestate.github.io/rules/fis/904.03",
+    "https://granitestate.github.io/rules/fis/904.04"
+  ],
+  "notation": "Fis 904",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis900.html",
+  "prefLabel": "Fis 904 OWL BROOK HUNTER EDUCATION CENTER",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 904 OWL BROOK HUNTER EDUCATION CENTER",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis900.html"
+}

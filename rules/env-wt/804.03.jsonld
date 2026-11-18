@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/804.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/804",
+  "definition": "Incorporated Jurisdictional Areas",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 804.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 804.03 Incorporated Jurisdictional Areas",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 804.03 Incorporated Jurisdictional Areas.\n\n(a) An area subject to preservation may incorporate a jurisdictional area provided:\n\n(1) The aquatic resource buffer partly or entirely surrounds the jurisdictional area or at least surrounds those undeveloped upland portions on the preservation parcel; and\n\n(2) Uplands comprise 50% or more of the minimum total compensatory mitigation area required under Env-Wt 803.08.\n\n(b) Jurisdictional areas on the same site as the project that are left undisturbed as part of meeting the avoidance and minimization requirements shall not be considered preservation.\n\nSource. #8062, eff 3-13-04; ss by #8341, eff 4-25-05; ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

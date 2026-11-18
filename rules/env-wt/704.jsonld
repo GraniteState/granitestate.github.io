@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/704",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/700",
+  "definition": "SUPPLEMENTARY INFORMATION AND CRITERIA FOR PROJECTS PROPOSED IN PRIME WETLANDS/BUFFER",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/704.01",
+    "https://granitestate.github.io/rules/env-wt/704.02",
+    "https://granitestate.github.io/rules/env-wt/704.03",
+    "https://granitestate.github.io/rules/env-wt/704.04",
+    "https://granitestate.github.io/rules/env-wt/704.05"
+  ],
+  "notation": "Env-Wt 704",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html",
+  "prefLabel": "Env-Wt 704 SUPPLEMENTARY INFORMATION AND CRITERIA FOR PROJECTS PROPOSED IN PRIME WETLANDS/BUFFER",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 704 SUPPLEMENTARY INFORMATION AND CRITERIA FOR PROJECTS PROPOSED IN PRIME WETLANDS/BUFFER",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt700.html"
+}

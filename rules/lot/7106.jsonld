@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7106",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-E:18",
+      "paragraphs": [
+        "III"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:23",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-E:24",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7100",
+  "definition": "RECORDING AND REPORTING REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7106.01",
+    "https://granitestate.github.io/rules/lot/7106.02",
+    "https://granitestate.github.io/rules/lot/7106.03",
+    "https://granitestate.github.io/rules/lot/7106.04"
+  ],
+  "notation": "Lot 7106",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html",
+  "prefLabel": "Lot 7106 RECORDING AND REPORTING REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7106 RECORDING AND REPORTING REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7100.html"
+}

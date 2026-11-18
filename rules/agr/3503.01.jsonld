@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/3503.01",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "Emergency Veterinary Treatment",
+  "authority": [
+    {
+      "citation": "437:9",
+      "paragraphs": [
+        "V"
+      ],
+      "source": "https://granitestate.github.io/rsa/437/437-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "437-B:1",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/437-B/437-B-1",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-9",
+    "https://granitestate.github.io/rsa/437-B/437-B-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/3503",
+  "definition": "Emergency veterinary treatment",
+  "historyNote": "#13208, eff 6-1-2121 (see Revision Note at chapter heading for Agr 3500)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 3503.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html",
+  "prefLabel": "Agr 3503.01 Emergency veterinary treatment",
+  "recordType": "rule-section",
+  "ruleText": "Agr 3503.01 Emergency veterinary treatment. Application for reimbursement of emergency veterinary treatment shall:\n\n(a) Be made as part of the regular application process;\n\n(b) Be accompanied by a written statement from a veterinarian currently licensed pursuant to RSA 332-B indicating that the specific treatment was necessary and appropriate;\n\n(c) Be capped at $500 per animal; and\n\n(d) Be capped at $5000 per court case.\n\nSource. #13208, eff 6-1-2121 (see Revision Note at chapter heading for Agr 3500)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr3500.html"
+}

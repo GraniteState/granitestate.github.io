@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2504.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(m)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:6",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-6",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-6",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2504",
+  "definition": "Location of Sources Eligible to be Issued Certificates",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2504.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2504.01 Location of Sources Eligible to be Issued Certificates",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2504.01 Location of Sources Eligible to be Issued Certificates.\n\n(a) Certificates used to comply with the portfolio standards shall, pursuant to RSA 362-F:6, IV, originate from:\n\n(1) Sources within the New England control area; or\n\n(2) Sources in a control area adjacent to the New England control area, provided that the energy is delivered within the New England control area and such delivery is verified by submitting to the commission:\n\na. Documentation of a unit-specific bilateral contract or other legally enforceable obligation that is executed between the source owner, operator, or authorized agent and an electric energy purchaser located within the New England control area for delivery of the source’s electric energy to the New England control area;\n\nb. Proof of associated transmission rights for delivery of the source's electric energy from the generation unit of the source through the adjacent control area to the New England control area;\n\nc. Documentation that the electrical energy delivered was settled in the ISO-New England wholesale market system;\n\nd. Documentation that the source produced, during each hour of the applicable month, the amount of megawatt-hours claimed, as verified by the GIS administrator; and\n\ne. Confirmation that the electrical energy delivered under the legal obligation received a North American Electric Reliability Corporation tag from the originating control area to the New England control area.\n\n(b) If the originating control area employs a generation information system that is comparable to the GIS, such system may be used to support the documentation required in (a)(2)d above.\n\n(c) Issuance, qualification, sales, exchanges, and retirement of certificates pursuant to this chapter shall be conducted through the GIS according to its operating rules.\n\n(d) Certificates used to comply with the thermal portfolio standards shall originate from sources that delivered the useful thermal energy in New Hampshire.\n\n(e) Certificates based on the production of biodiesel at a facility located in New Hampshire on or after January 1, 2018 shall be issued based on delivery of the biodiesel to end users in New Hampshire to be used to produce useful thermal energy.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

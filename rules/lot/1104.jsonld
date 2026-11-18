@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/1104",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:43",
+      "paragraphs": [
+        "IV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "284:47",
+      "source": "https://granitestate.github.io/rsa/284/284-47",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/284/284-47"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/1100",
+  "definition": "OPERATION OF KENO GAMES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/1104.01",
+    "https://granitestate.github.io/rules/lot/1104.02",
+    "https://granitestate.github.io/rules/lot/1104.03",
+    "https://granitestate.github.io/rules/lot/1104.04",
+    "https://granitestate.github.io/rules/lot/1104.05",
+    "https://granitestate.github.io/rules/lot/1104.06",
+    "https://granitestate.github.io/rules/lot/1104.07"
+  ],
+  "notation": "Lot 1104",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html",
+  "prefLabel": "Lot 1104 OPERATION OF KENO GAMES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 1104 OPERATION OF KENO GAMES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot1100.html"
+}

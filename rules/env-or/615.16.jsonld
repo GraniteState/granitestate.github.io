@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/615.16",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:15",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:17-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-17-a",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:18",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-17-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/615",
+  "definition": "Fines Relating to Violations With No Scheduled Fine",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "#14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 615.16",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 615.16 Fines Relating to Violations With No Scheduled Fine",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 615.16 Fines Relating to Violations With No Scheduled Fine.\n\n(a) For the purposes of this section, the following definitions shall apply:\n\n(1) “Major deviation from requirement” means the violator deviated from a requirement of a statute or rule to such an extent that there is substantial non-compliance;\n\n(2) “Major potential for harm” means a substantial likelihood of causing harm to human health or the environment;\n\n(3) “Minor deviation from requirement” means the violator deviated partially from a requirement of a statute or rule such that most of the requirement was met;\n\n(4) “Minor potential for harm” means a small likelihood of causing harm to human health or the environment;\n\n(5) “Moderate deviation from requirement” means the violator significantly deviated from a requirement of a statute or rule but some requirements were implemented as intended, such that approximately half of the requirements were met; and\n\n(6) “Moderate potential for harm” means a moderate likelihood of causing harm to human health or the environment.\n\n(b) For violating the requirements of, or refusing to comply with, any of the provisions of Env-Or 600 or RSA 146-A, RSA 147-A, RSA 146-C or RSA 485-C not identified in Env-Or 615.01 through Env-Or 615.15, the proposed fine for each violation shall be calculated pursuant to Table 600-4 or Table 600-5 below, based on the maximum fine that can be assessed for the violation, potential for harm and the extent of deviation from the requirement.\n\nTable 600-4: Matrix for Calculated Fines – Maximum Fine $2,000\n\nMinor Deviation from Requirement | Moderate Deviation from Requirement | Major Deviation from Requirement\n\nMinor Potential for Harm | range: $100 to $500 default: $250 | range: $500 to $1,000 default: $750 | range: $1,000 to $1,500 default: $1,250\n\nModerate Potential for Harm | range: $500 to $1,000 default: $750 | range: $1,000 to $1,500 default: $1,250 | range: $1,500 to $2,000 default: $1,750\n\nMajor Potential for Harm | range: $1,000 to $1,500 default: $1,250 | range: $1,500 to $2,000 default: $1,750 | $2,000\n\nTable 600-5: Matrix for Calculated Fines – Maximum Fine $4,000\n\nMinor Deviation from Requirement | Moderate Deviation from Requirement | Major Deviation from Requirement\n\nMinor Potential for Harm | range: $200 to $1,000 default: $500 | range: $1,000 to $2,000 default: $750 | range: $2,000 to $3,000 default: $2,500\n\nModerate Potential for Harm | range: $1,000 to $2,000 default: $1,500 | range: $2,000 to $3,000 default: $2,50 | range: $3,000 to $4,000 default: $3,500\n\nMajor Potential for Harm | range: $2,000 to $3,000 default: $2,500 | range: $3,000 to $4,000 default: $3,500 | $4,000\n\nSource. #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

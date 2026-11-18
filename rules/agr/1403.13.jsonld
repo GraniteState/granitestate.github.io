@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1403.13",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "438",
+      "source": "https://granitestate.github.io/rsa/438",
+      "via": "appendix"
+    },
+    {
+      "citation": "438:8",
+      "paragraphs": [
+        "I(e)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/438"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1403",
+  "definition": "Adjustments to Load; Commodity Weights Determined at Sites Other Than the Site Where the Vehicle Was Loaded",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1403.13",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html",
+  "prefLabel": "Agr 1403.13 Adjustments to Load; Commodity Weights Determined at Sites Other Than the Site Where the Vehicle Was Loaded",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1403.13 Adjustments to Load; Commodity Weights Determined at Sites Other Than the Site Where the Vehicle Was Loaded. The following information, additional to the information otherwise required, shall appear on a weight certificate issued when adjustments are made to the load and the weights are determined at a site other than the site where the vehicle was loaded:\n\n(a) The gross weight of the commodity and the vehicle at the time of the initial weighing;\n\n(b) The gross weight of the commodity and the vehicle after the adjustment; and\n\n(c) The name and address of the owner or the owner's agent and the name of either the purchaser or broker of the commodity.\n\nNew. #9639, eff 1-20-10; ss by #12424, eff 12-1-17 (See Revision Note #2 at chapter heading for Agr 1400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1400.html"
+}

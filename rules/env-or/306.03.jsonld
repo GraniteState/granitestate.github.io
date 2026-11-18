@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/306.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/306",
+  "definition": "Inventory Monitoring; Investigation of Discrepancies Required",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 306.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html",
+  "prefLabel": "Env-Or 306.03 Inventory Monitoring; Investigation of Discrepancies Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 306.03 Inventory Monitoring; Investigation of Discrepancies Required.\n\n(a) The owner of an AST facility shall conduct monthly inventory monitoring for each AST system at the facility in which any portion of the AST system’s primary tank shell or primary piping is in contact with the ground, soil, or concrete foundation slab and does not have release detection as specified in Env-Or 305.14.\n\n(b) The owner of an AST system that is subject to inventory monitoring shall:\n\n(1) Maintain separate written records for each AST or interconnected system; and\n\n(2) Certify the accuracy of the inventory monitoring by signing the records.\n\n(c) AST inventory control measurements shall be reconciled by comparing product measurements with shipments, deliveries, and internal transfers.\n\n(d) The owner shall investigate and resolve the cause of any unexplained loss in inventory of 2.0 percent or more of throughput in the monitoring period, as indicated by the recording and reconciliation of inventory records.\n\n(e) If the investigation shows that a discharge of oil has occurred or could be imminent, the owner shall proceed as specified in Env-Or 306.10.\n\nSource. (See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html"
+}

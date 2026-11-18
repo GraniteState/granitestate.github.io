@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2505.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(j)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2505",
+  "definition": "Certification of Repowered Class III or IV Sources",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2505.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2505.06 Certification of Repowered Class III or IV Sources",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2505.06 Certification of Repowered Class III or IV Sources.\n\n(a) A Class III or Class IV source shall be eligible to participate as a Class I source upon certification by the commission under this rule.\n\n(b) The commission shall certify a Class III or Class IV source as a Class I source under this rule when the source has demonstrated that:\n\n(1) It has made new capital investments for the purpose of restoring unusable generation capacity or adding to existing capacity, in light of the department’s environmental permitting requirements or otherwise; and\n\n(2) Eighty percent of the applicant’s tax basis in the resulting plant and equipment of the eligible generation capacity, including department permitting requirements for new plants, but exclusive of any tax basis in real property and intangible assets, is derived from the new capital investments.\n\n(c) Except as provided in Puc 2505.06(e), an applicant certified as eligible under this rule to participate as a Class I source shall be deemed no longer certified as a Class III or Class IV source.\n\n(d) The entire energy output of an eligible repowered Class I source shall be eligible for certificates.\n\n(e) A Class III source eligible as a Class I source may notify the commission that it elects to be a Class III source instead of Class I source. Once such notice is given, the commission shall notify the GIS administrator that the production from that source shall qualify for Class III certificates beginning with the immediately following quarter, provided the source meets the other requirements of a Class III eligible biomass technology.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

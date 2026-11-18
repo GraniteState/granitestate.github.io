@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/408.04",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-7",
+    "https://granitestate.github.io/rsa/362/362-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/408",
+  "definition": "Interconnection Requirements",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 408.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 408.04 Interconnection Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Puc 408.04 Interconnection Requirements. ILECs that are not exempt pursuant to 47 U.S.C. § 251(f) shall:\n\n(a) Maintain a tariff for the following:\n\n(1) Interconnection services;\n\n(2) Unbundled network elements;\n\n(3) Collocation; and\n\n(4) Resale;\n\n(b) Identify services available for resale in such tariff;\n\n(c) Provide non-discriminatory interconnection at technically feasible points within the ILEC's network, including, at a minimum:\n\n(1) The line-side of a local switch;\n\n(2) The trunk-side of a local switch;\n\n(3) The trunk interconnection points for a tandem switch;\n\n(4) Central office cross-connect points;\n\n(5) Out-of-band-signaling transfer points necessary to exchange traffic at these points and access call-related databases; and\n\n(6) Points of access to unbundled network elements;\n\n(d) Not require collocation to achieve interconnection;\n\n(e) Provide interconnection that has a level of quality that is equal to that which the ILEC provides itself;\n\n(f) Provide interconnection on terms and conditions that are nondiscriminatory and no less favorable than the terms and conditions the ILEC provides to itself;\n\n(g) Provide citations to necessary technical references to carriers who interconnect or seek to interconnect;\n\n(h) Not charge a carrier for the cost and timely correction of violations of the National Electrical Safety Code that are not the direct result of a carrier's request to access poles, ducts, conduits, or rights of way; and\n\n(i) When reaching an agreement for interconnection services, or network elements pursuant to the Telecommunications Act of 1996, file the agreement with the commission within 30 days of execution.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

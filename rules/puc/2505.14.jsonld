@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2505.14",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:11",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-11",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2505",
+  "definition": "Notification of Change",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#12473, eff 2-1-18 (formerly Puc 2505.11)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2505.14",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2505.14 Notification of Change",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2505.14 Notification of Change.\n\n(a) A renewable energy source certified under this part shall notify the commission in writing and within 10 days whenever there is a change in ownership, primary fuel, or any other information contained in its application for certification.\n\n(b) The commission shall revoke the certification of a renewable energy source when it determines upon investigation that any changed circumstances have rendered that source ineligible under RSA 362-F and this chapter.\n\n(c) The commission shall modify the certification of a renewable energy source when it determines upon investigation that any changed circumstances affecting the source require such modification to reflect the effect of such changed circumstances.\n\n(d) All REC eligibility revocations or modifications under this section shall be prospective only and, once created, no certificate shall be disqualified or removed from the GIS system.\n\nSource. #12473, eff 2-1-18 (formerly Puc 2505.11)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

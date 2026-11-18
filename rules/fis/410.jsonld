@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/410",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "MAINE - NEW HAMPSHIRE INTERSTATE WATERS RULES",
+  "authority": [
+    {
+      "citation": "206:10",
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/400",
+  "definition": "MAINE-NEW HAMPSHIRE INTERSTATE WATERS RULES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/410.01",
+    "https://granitestate.github.io/rules/fis/410.02",
+    "https://granitestate.github.io/rules/fis/410.03",
+    "https://granitestate.github.io/rules/fis/410.04",
+    "https://granitestate.github.io/rules/fis/410.05",
+    "https://granitestate.github.io/rules/fis/410.06",
+    "https://granitestate.github.io/rules/fis/410.07",
+    "https://granitestate.github.io/rules/fis/410.08",
+    "https://granitestate.github.io/rules/fis/410.09"
+  ],
+  "notation": "Fis 410",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis400.html",
+  "prefLabel": "Fis 410 MAINE-NEW HAMPSHIRE INTERSTATE WATERS RULES",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 410 MAINE-NEW HAMPSHIRE INTERSTATE WATERS RULES\n\nStatutory Authority: RSA 211:4",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis400.html"
+}

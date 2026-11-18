@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/404.03",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "106-H:9",
+      "source": "https://granitestate.github.io/rsa/106-H/106-H-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/106-H/106-H-9",
+    "https://granitestate.github.io/rsa/362/362-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/404",
+  "definition": "E911",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 404.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 404.03 E911",
+  "recordType": "rule-section",
+  "ruleText": "Puc 404.03 E911.\n\n(a) ELECs providing local service and ILECs shall make available the universal emergency telephone number 911 pursuant to the requirements of the department of safety bureau of emergency communications or its successor agency.\n\n(b) ELECs providing local service and ILECs shall collect the E911 surcharge required by RSA 106-H:9 in the amount ordered by the commission.\n\n(c) ELECs and ILECs shall remit monthly the amount collected pursuant to (b) above to:\n\nDepartment of Safety Bureau of Emergency Communications\n\n33 Hazen Drive\n\nConcord, New Hampshire, 03305.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

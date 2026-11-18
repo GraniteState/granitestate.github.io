@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/305.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/305",
+  "definition": "Piping Standards for AST Systems",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 305.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html",
+  "prefLabel": "Env-Or 305.04 Piping Standards for AST Systems",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 305.04 Piping Standards for AST Systems.\n\n(a) Any piping system installed on or after April 25, 1997 that is not in contact with the soil shall be constructed in accordance with API 2610, NFPA 30, and as recommended by the manufacturer.\n\n(b) No piping system component that will be in contact with the oil, including but not limited to all gaskets and sealants, shall be used as part of an AST system unless:\n\n(1) The manufacturer of the component has listed the component as being compatible with the oil that will be stored; or\n\n(2) If the component manufacturer does not maintain a list such as identified in (1), above, the component is made of a material that is generally accepted in the industry as being compatible with the oil that will be stored.\n\n(c) Any fill pipe that is connected to a pump-filled AST installed on or after April 25, 1997 in such a way that backflow from the receiving tank is possible shall be equipped with a properly-functioning check valve or equivalent device that provides automatic protection against backflow.\n\n(d) Each tank connection through which oil can normally flow shall be equipped with an operating isolation valve that is located as close as practicable to the shell of the tank, unless the tank connection is located at a point higher than the highest liquid level in the tank, such as at the top of the tank.\n\n(e) All aboveground piping installed on or after April 25, 1997 that is 12 inches National Pipe Thread (NPT) size or less shall be constructed of:\n\n(1) Carbon steel, schedule 40 or greater;\n\n(2) Stainless steel, schedule 40 or greater;\n\n(3) Galvanized steel, schedule 40 or greater; or\n\n(4) Type L or K annealed copper tubing, except as noted in (k), below.\n\n(f) All aboveground piping installed on or after April 25, 1997 that is greater than 12 inches NPT size shall be of standard grade according to ASTM A134-96.\n\n(g) All joints on steel piping installed on or after April 25, 1997 that is 2 inches NPT size or greater shall be welded or welded flanged.\n\n(h) All steel or metallic piping in contact with soil shall be cathodically protected by an impressed current system or sacrificial anode system that is designed and installed in accordance with Env-Or 305.06.\n\n(i) Cathodic protection of metal piping shall not be required if the pipe is totally electrically isolated from the soil by:\n\n(1) Being elevated above the ground surface; or\n\n(2) Using secondary containment sufficient to place the pipe in a non-corrosive environment.\n\n(j) Copper piping shall not be used in any AST system that requires the use of:\n\n(1) Piping greater than 1/2 inch NPT size; or\n\n(2) Piping to transfer oil under pressure, except for a boiler return line that enters the top of the tank and has no valves or obstructions.\n\n(k) Copper tubing that is in contact with soil or that passes through concrete or other building materials shall be contained in a continuous non-metallic sleeve or otherwise protected from damage and corrosion.\n\nSource. (See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html"
+}

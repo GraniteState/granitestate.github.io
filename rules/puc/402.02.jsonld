@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/402.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Basic Service",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:22-p",
+      "source": "https://granitestate.github.io/rsa/374/374-22-p",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-22-p"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/402",
+  "definition": "Basic service",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 402.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 402.02 Basic service",
+  "recordType": "rule-section",
+  "ruleText": "Puc 402.02 \"Basic service\" means “basic service” as defined in RSA 374:22-p, I(b), namely:\n\n“(1) Safe and reliable single-party, single-line voice service;\n\n(2) The ability to receive all non-collect calls, at telephone lines capable of receiving calls, without additional charge;\n\n(3) The ability to complete calls to any other telephone line, which is capable of receiving calls, in the state;\n\n(4) The opportunity to presubscribe to interLATA toll carriers;\n\n(5) The opportunity to presubscribe to intraLATA toll carriers;\n\n(6) Dialing parity;\n\n(7) Number portability;\n\n(8) Enhanced 911, pursuant to the requirements of the department of safety bureau of emergency communications or its successor agency;\n\n(9) Access to statewide directory assistance;\n\n(10) Telecommunications relay service (TRS);\n\n(11) A published directory listing, at the customer's election;\n\n(12) A caller identification blocking option, on a per-call basis;\n\n(13) A caller identification line blocking option that is available to all customers without a recurring charge and is provided upon customer request without charge to customers who have elected non-published telephone numbers and is available without a non-recurring charge to customers who certify that Caller ID threatens their health or safety andis available without a non-recurring charge when requested with installation of basic service;\n\n(14) A blocking option for pay-per-call calls, such as blocking all 900 or all 976 calls;\n\n(15) The ability to report service problems to the customer's basic service provider on a 24-hour basis, 7 days a week; and\n\n(16) Automatic Number Identification (ANI) to other carriers which accurately identifies the telephone number of the calling party.”\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

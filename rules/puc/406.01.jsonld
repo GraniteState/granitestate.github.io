@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/406.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "VII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/406",
+  "definition": "Carrier to Carrier Migrations",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 407.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 406.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 406.01 Carrier to Carrier Migrations",
+  "recordType": "rule-section",
+  "ruleText": "Puc 406.01 Carrier to Carrier Migrations. In addition to complying with En 407.05, ELECs shall comply with the following:\n\n(a) ELECs shall accept and respond to requests for customer information, service and feature information, and migration and installation orders without regard to whether the service is being resold or migrated.\n\n(b) When migrating end users, ELECs shall work together in good faith with other carriers to minimize or avoid any problems, including, but not limited to, service interruptions and billing problems.\n\n(c) ELECs shall not market to retain a customer as the result of receiving a request for a customer service record.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 407.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

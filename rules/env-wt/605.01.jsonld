@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/605.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/605",
+  "definition": "Avoidance and Minimization Requirements in Coastal Areas",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 605.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 605.01 Avoidance and Minimization Requirements in Coastal Areas",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 605.01 Avoidance and Minimization Requirements in Coastal Areas. In addition to the avoidance and minimization requirements in Env-Wt 307, Env-Wt 311.07, Env-Wt 313, and Env-Wt 603.04, projects in coastal areas shall:\n\n(a) Use results of the CFA required by Env-Wt 603.04 to:\n\n(1) Minimize adverse impacts to finfish, shellfish, crustacea, and wildlife;\n\n(2) Minimize disturbances to groundwater and surface water flow;\n\n(3) Avoid impacts that could adversely affect fish habitat, wildlife habitat, or both; and\n\n(4) Avoid impacts that might cause erosion to shoreline properties;\n\n(b) Not impair the navigation, recreation, or commerce of the general public; and\n\n(c) Minimize alterations in prevailing currents.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

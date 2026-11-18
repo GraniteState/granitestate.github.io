@@ -1,0 +1,41 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7208",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:14",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:18",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:22",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "CHARITY OPERATED EVENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7208.01",
+    "https://granitestate.github.io/rules/lot/7208.02",
+    "https://granitestate.github.io/rules/lot/7208.03"
+  ],
+  "notation": "Lot 7208",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7208 CHARITY OPERATED EVENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7208 CHARITY OPERATED EVENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

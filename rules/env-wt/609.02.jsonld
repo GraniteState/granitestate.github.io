@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/609.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/609",
+  "definition": "Hierarchy of Tidal Shoreline Stabilization Methods",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 609.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 609.02 Hierarchy of Tidal Shoreline Stabilization Methods",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 609.02 Hierarchy of Tidal Shoreline Stabilization Methods. Applications for tidal shoreline stabilization projects shall demonstrate that:\n\n(a) The technique or combination of techniques is based on best available scientific and engineering practices; and\n\n(b) The proposed technique or combination of techniques addresses:\n\n(1) Results of the avoidance and minimization narrative required in Env-Wt 311.07, the avoidance, minimization, and mitigation demonstration required in Env-Wt 313.03 and Env-Wt 313.04, the CFA required in Env-Wt 603.04, and the project design narrative required in Env-Wt 603.06;\n\n(2) Any causes of erosion that can be identified;\n\n(3) The degree or extent of erosion;\n\n(4) Relative exposure based on shoreline geometry, shore orientation, intensity of boat traffic, influence of adjacent structures, storm surge, and extreme precipitation events;\n\n(5) Potential sea-level rise and vulnerability assessment under Env-Wt 603.05;\n\n(6) Potential marsh migration as a result of sea level rise as shown on the Sea Level Affecting Marshes Model (SLAMM) wetlands bureau One-Stop mapper; and\n\n(7) The design requirements of Env-Wt 514.04.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

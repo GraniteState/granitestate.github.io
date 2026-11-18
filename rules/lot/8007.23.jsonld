@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/8007.23",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "284:12",
+      "paragraphs": [
+        "I",
+        "III",
+        "IV",
+        "VI"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:19",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "284:20-d",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/8007",
+  "definition": "Rules and Procedures Regarding Horse Racing Totalisator Company",
+  "effectiveDate": "2018-06-01",
+  "historyNote": "(See Revision Note at chapter heading for Lot 8000) #12544, eff 6-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 8007.23",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html",
+  "prefLabel": "Lot 8007.23 Rules and Procedures Regarding Horse Racing Totalisator Company",
+  "recordType": "rule-section",
+  "ruleText": "Lot 8007.23 Rules and Procedures Regarding Horse Racing Totalisator Company.\n\n(a) A totalisator company licensed under these rules shall provide the commission, within 48 hours of the commission’s request, a record of any transaction or transactions specified by the commission which relate to horse races that take place in New Hampshire or which are simulcast into or out of New Hampshire under RSA 284:22 or RSA 284:22-a, or which relate to or affect pari-mutuel pools, wagering, or races under the jurisdiction of the commission.\n\n(b) Records of transactions provided to the commission relative to pari-mutuel wagering shall, upon request, be made available to the commission for electronic download from a secured internet site provided by the totalisator company, and data provided shall be compressed into common “zip” format.\n\n(c) Daily data files which shall be made available to the commission upon request shall consist of all data files normally available to customers of the totalisator company, including but not limited to the electronic files known as “PC”, “Spectrum System”, “DataMaster”, or “TRA Settlement” files.\n\n(d) Wagering information for specific dates and races requested by the commission shall be formatted as American Standard Code for Information Interchange (ASCII) text, with delimited fields using semi-colon field delimiters, variable record length, with CR/LF end-of-record characters.\n\n(e) Wagering information provided to the commission upon request shall contain one record for each wager, with each record containing the following fields:\n\n(1) Community;\n\n(2) Source;\n\n(3) Date;\n\n(4) Time;\n\n(5) Branch;\n\n(6) Window;\n\n(7) Program;\n\n(8) Race;\n\n(9) Bet value;\n\n(10) Pool;\n\n(11) Modifier;\n\n(12) Runner list;\n\n(13) Total bet cost;\n\n(14) Total payout value;\n\n(15) Refund payout;\n\n(16) IRS reportable payout;\n\n(17) IRS withholdable payout amount; and\n\n(18) Federal withholding amount.\n\n(f) Wagering information provided to the commission shall have all fields completed, regardless of whether the field is assigned a value, with semi-colon field delimiters being used to designate a blank field.\n\n(g) Data files for uncashed tickets which have been purged from the system shall contain:\n\n(1) All of the fields specified in (f) above;\n\n(2) A field for the ticket serial number; and\n\n(3) A record for the totals of the following:\n\na. The number of detail records in the file; and\n\nb. The cash amount of:\n\n1. Bet values;\n\n2. Total bet cost;\n\n3. Total payout value;\n\n4. Refund payout;\n\n5. IRS reportable payout;\n\n6. IRS witholdable payout amount; and\n\n7. Federal withholding amount.\n\nSource. (See Revision Note at chapter heading for Lot 8000) #12544, eff 6-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot8000.html"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/1105",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "XII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "370:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:37",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/1100",
+  "definition": "DAMAGE PREVENTION, MAPS AND SAFETY",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/1105.01",
+    "https://granitestate.github.io/rules/puc/1105.02",
+    "https://granitestate.github.io/rules/puc/1105.03",
+    "https://granitestate.github.io/rules/puc/1105.04",
+    "https://granitestate.github.io/rules/puc/1105.05"
+  ],
+  "notation": "Puc 1105",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1100.html",
+  "prefLabel": "Puc 1105 DAMAGE PREVENTION, MAPS AND SAFETY",
+  "recordType": "rule-part",
+  "ruleText": "PART Puc 1105 DAMAGE PREVENTION, MAPS AND SAFETY",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1100.html"
+}

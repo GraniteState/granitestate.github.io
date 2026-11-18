@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.22",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Historical Generation Baseline",
+  "authority": [
+    {
+      "citation": "362-F:2",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-2",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Historical generation baseline",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.20); ss by #12473, eff 2-1-18 (formerly Puc 2502.21)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.22",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.22 Historical generation baseline",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.22 “Historical generation baseline” means:\n\n(a) For a hydroelectric facility, the average annual electrical production, in megawatt-hours, from the later of January 1, 1986, or the date of first commercial operation through December 31, 2005, adjusted as if any upgrade or expansion completed during the period had been in place over the entire period as described in RSA 362-F:2, X(b); or\n\n(b) For other facilities, the average annual electrical production, in megawatt-hours, for 2004 through 2006, or for the first 36 months after the facility began operation if that date is after December 31, 2001, as described in RSA 362-F:2, X(a).\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14 (from Puc 2502.20); ss by #12473, eff 2-1-18 (formerly Puc 2502.21)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2506.09",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:13",
+      "paragraphs": [
+        "VI-b"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2506",
+  "definition": "Calculation of Certificates for Production of Biodiesel",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2506.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2506.09 Calculation of Certificates for Production of Biodiesel",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2506.09 Calculation of Certificates for Production of Biodiesel.\n\n(a) When calculating the certificates to be issued to a biodiesel producer, the independent monitor shall use the following assumptions and calculations to determine an end-user efficiency rating (ER):\n\n(1) An ER of 81% shall be used to calculate energy production from all biodiesel sales volumes, with the exception of direct sales by the producer to large biodiesel end users; and\n\n(2) The actual thermal efficiency rating (ET) of the end user’s system shall be used for all volumes of biodiesel sold by the producer directly to any large biodiesel end user, as provided by the producer to the independent monitor.\n\n(b) The independent monitor shall use the following method to calculate the quantity of certificates for which a biodiesel producer is eligible:\n\n(1) ER shall be as specified in (a) above;\n\n(2) “Total verified sales (TVS)” means the total volume in gallons of sales to New Hampshire thermal end users that is verified through supporting records and documentation submitted to the independent monitor, excluding volumes sold directly to any large biodiesel end user participating in the thermal REC program;\n\n(3) Thermal energy production (TEP) shall be calculated as:\n\nTEP = Btu/gallon x TVS x ER,\n\nwhere one gallon of biodiesel contains 127,000 Btus, per the U.S. Department of Energy Biodiesel Handling and Use Guide, Fifth Edition, November 2016, available at http://biodiesel.org/docs/using-hotline/nrel-handling-and-use.pdf?sfvrsn=4, as specified in Appendix B; and\n\n(4) RECs shall be calculated pursuant to the following formula: TEP x MWh/Btu = Total MWh of electricity equivalent, where 3,412,000 Btus is equivalent to one MWh.\n\nSource. #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

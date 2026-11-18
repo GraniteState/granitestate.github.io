@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/205.03",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "541-A:4",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-4",
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/205",
+  "definition": "Disposition of Petition",
+  "effectiveDate": "2005-03-24",
+  "historyNote": "#6299, eff 7-25-96, EXPIRED: 7-25-04 New. #8309-A, eff 3-24-05",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 205.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr200.html",
+  "prefLabel": "Agr 205.03 Disposition of Petition",
+  "priorExpiration": "2004-07-25",
+  "recordType": "rule-section",
+  "ruleText": "Agr 205.03 Disposition of Petition.\n\n(a) The department shall request additional information or argument from the petitioner for rulemaking or from others if such additional information or argument is required to reach a decision.\n\n(b) Within 30 days of the submission of a petition, the department shall either deny the petition by written order, stating its reasons for the denial, or shall initiate rulemaking proceedings in response to the petition and in accordance with Agr 205.04.\n\n(c) Any denial shall be based upon a finding by the department that:\n\n(1) The petition for rule or amendment or repeal of an existing rule would not be consistent with established standards of the department relating to agriculture, markets and food;\n\n(2) The petition lacks rulemaking authority; or\n\n(3) The petition is contrary to legislative intent.\n\nSource. #6299, eff 7-25-96, EXPIRED: 7-25-04\n\nNew. #8309-A, eff 3-24-05",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr200.html"
+}

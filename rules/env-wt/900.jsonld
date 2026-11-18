@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/900",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt",
+  "definition": "STREAM CROSSINGS; CERTIFIED CULVERT MAINTAINER PROGRAM",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/901",
+    "https://granitestate.github.io/rules/env-wt/902",
+    "https://granitestate.github.io/rules/env-wt/903",
+    "https://granitestate.github.io/rules/env-wt/904",
+    "https://granitestate.github.io/rules/env-wt/905"
+  ],
+  "notation": "Env-Wt 900",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 900 STREAM CROSSINGS; CERTIFIED CULVERT MAINTAINER PROGRAM",
+  "recordType": "rule-chapter",
+  "ruleText": "CHAPTER Env-Wt 900 STREAM CROSSINGS; CERTIFIED CULVERT MAINTAINER PROGRAM\n\nStatutory Authority: RSA 482-A:11\n\nREVISION NOTE:\n\nDocument #12809, effective 12-15-19, adopted or readopted with amendment all of the rules in Chapter Env-Wt 900 and changed the chapter heading from “Stream Crossings” to “Stream Crossings; Certified Culvert Maintainer Program.”\n\nDocument #12809 replaces all prior filings for rules in the former Env-Wt 900.\n\nThe prior filings for former Chapter Env-Wt 900 included the following documents:\n\n#9714, eff 5-12-10\n\n#10491, eff 12-21-13\n\n#12578, eff 7-21-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

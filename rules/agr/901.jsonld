@@ -1,0 +1,49 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/901",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "426:1",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "428:27",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "434:16",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "434:19",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "434:59",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "434:60",
+      "via": "statutory_authority"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/900",
+  "definition": "APPLES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/901.01",
+    "https://granitestate.github.io/rules/agr/901.02",
+    "https://granitestate.github.io/rules/agr/901.03",
+    "https://granitestate.github.io/rules/agr/901.04",
+    "https://granitestate.github.io/rules/agr/901.06",
+    "https://granitestate.github.io/rules/agr/901.07"
+  ],
+  "notation": "Agr 901",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr900.html",
+  "prefLabel": "Agr 901 APPLES",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 901 APPLES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr900.html"
+}

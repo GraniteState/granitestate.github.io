@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1903",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "427:39",
+      "via": "appendix"
+    },
+    {
+      "citation": "427:42",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1900",
+  "definition": "ISSUANCE, REFUSAL TO ISSUE, AND REVOCATION OF LICENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1903.01",
+    "https://granitestate.github.io/rules/agr/1903.02",
+    "https://granitestate.github.io/rules/agr/1903.03"
+  ],
+  "notation": "Agr 1903",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html",
+  "prefLabel": "Agr 1903 ISSUANCE, REFUSAL TO ISSUE, AND REVOCATION OF LICENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1903 ISSUANCE, REFUSAL TO ISSUE, AND REVOCATION OF LICENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1900.html"
+}

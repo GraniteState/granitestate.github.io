@@ -3,6 +3,14 @@
   "addressScheme": "Elec 101.01 is https://granitestate.github.io/rules/elec/101.01. The agency segment is the lowercased rule prefix. The number segment omits the prefix. RSA 659:21 linked from a rule is https://granitestate.github.io/rsa/659/659-21.",
   "agencies": [
     {
+      "code": "Agr",
+      "html": "rules/agr/index.html",
+      "id": "https://granitestate.github.io/rules/agr",
+      "jsonld": "rules/agr/index.jsonld",
+      "name": "Commissioner, Department of Agriculture, Markets, and Food www.nh.gov/agric",
+      "sections": 703
+    },
+    {
       "code": "App",
       "html": "rules/app/index.html",
       "id": "https://granitestate.github.io/rules/app",
@@ -171,6 +179,14 @@
       "sections": 640
     },
     {
+      "code": "Env-Or",
+      "html": "rules/env-or/index.html",
+      "id": "https://granitestate.github.io/rules/env-or",
+      "jsonld": "rules/env-or/index.jsonld",
+      "name": "Oil and Remediation Programs",
+      "sections": 614
+    },
+    {
       "code": "Env-Sw",
       "html": "rules/env-sw/index.html",
       "id": "https://granitestate.github.io/rules/env-sw",
@@ -195,6 +211,14 @@
       "sections": 2305
     },
     {
+      "code": "Env-Wt",
+      "html": "rules/env-wt/index.html",
+      "id": "https://granitestate.github.io/rules/env-wt",
+      "jsonld": "rules/env-wt/index.jsonld",
+      "name": "Wetlands Programs",
+      "sections": 820
+    },
+    {
       "code": "Eth",
       "html": "rules/eth/index.html",
       "id": "https://granitestate.github.io/rules/eth",
@@ -209,6 +233,14 @@
       "jsonld": "rules/fam/index.jsonld",
       "name": "Board of Family Mediator Certification",
       "sections": 165
+    },
+    {
+      "code": "Fis",
+      "html": "rules/fis/index.html",
+      "id": "https://granitestate.github.io/rules/fis",
+      "jsonld": "rules/fis/index.jsonld",
+      "name": "Executive Director, Fish and Game Department www.wildlife.state.nh.us",
+      "sections": 731
     },
     {
       "code": "He-C",
@@ -273,6 +305,14 @@
       "jsonld": "rules/juv/index.jsonld",
       "name": "Juvenile Parole Board",
       "sections": 42
+    },
+    {
+      "code": "Lot",
+      "html": "rules/lot/index.html",
+      "id": "https://granitestate.github.io/rules/lot",
+      "jsonld": "rules/lot/index.jsonld",
+      "name": "Lottery Commission",
+      "sections": 587
     },
     {
       "code": "Man",
@@ -363,6 +403,14 @@
       "sections": 72
     },
     {
+      "code": "Puc",
+      "html": "rules/puc/index.html",
+      "id": "https://granitestate.github.io/rules/puc",
+      "jsonld": "rules/puc/index.jsonld",
+      "name": "Public Utilities Commission",
+      "sections": 778
+    },
+    {
       "code": "Ret",
       "html": "rules/ret/index.html",
       "id": "https://granitestate.github.io/rules/ret",
@@ -437,14 +485,14 @@
   ],
   "context": "https://granitestate.github.io/kb/context.jsonld",
   "counts": {
-    "agencies": 54,
-    "chapters": 546,
+    "agencies": 60,
+    "chapters": 668,
     "droppedHeadings": 105,
-    "parts": 4022,
-    "rules": 30765,
-    "sections": 26197,
-    "unresolvedRows": 21691,
-    "unresolvedStatutes": 2190
+    "parts": 4761,
+    "rules": 35859,
+    "sections": 30430,
+    "unresolvedRows": 26264,
+    "unresolvedStatutes": 2597
   },
   "generatedFrom": {
     "commit": "1c92d82e0f03a582ca5b7a578588edf38de2318e",

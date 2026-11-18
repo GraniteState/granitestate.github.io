@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/2804",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "437-A:4-a",
+      "source": "https://granitestate.github.io/rsa/437-A/437-A-4-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437-A/437-A-4-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/2800",
+  "definition": "ADMINISTRATIVE PROCEDURES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/2804.01",
+    "https://granitestate.github.io/rules/agr/2804.02",
+    "https://granitestate.github.io/rules/agr/2804.03",
+    "https://granitestate.github.io/rules/agr/2804.04"
+  ],
+  "notation": "Agr 2804",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2800.html",
+  "prefLabel": "Agr 2804 ADMINISTRATIVE PROCEDURES",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 2804 ADMINISTRATIVE PROCEDURES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2800.html"
+}

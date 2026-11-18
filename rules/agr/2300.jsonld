@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/2300",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "PESTICIDE PRODUCT REGISTRATION FEES",
+  "authority": [
+    {
+      "citation": "430:38",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/430/430-38",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/430/430-38"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr",
+  "definition": "had formerly been titled “Economic Poisons”, contained only Part Agr 2301 titled “Licensing of Pesticide Dealers”, and expired 7-26-90",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/2301",
+    "https://granitestate.github.io/rules/agr/2302"
+  ],
+  "notation": "Agr 2300",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2300.html",
+  "prefLabel": "Agr 2300 had formerly been titled “Economic Poisons”, contained only Part Agr 2301 titled “Licensing of Pesticide Dealers”, and expired 7-26-90",
+  "recordType": "rule-chapter",
+  "ruleText": "Chapter Agr 2300 had formerly been titled “Economic Poisons”, contained only Part Agr 2301 titled “Licensing of Pesticide Dealers”, and expired 7-26-90. The filings affecting the former Agr 2300 included the following documents:\n\n#2210, eff 12-13-82\n\n#2782, effective 7-26-84, EXPIRED 7-26-90",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2300.html"
+}

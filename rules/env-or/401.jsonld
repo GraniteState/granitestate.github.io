@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/401",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-C",
+      "source": "https://granitestate.github.io/rsa/146-C",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/400",
+  "definition": "PURPOSE; APPLICABILITY; FEDERAL REGULATIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/401.01",
+    "https://granitestate.github.io/rules/env-or/401.02",
+    "https://granitestate.github.io/rules/env-or/401.03",
+    "https://granitestate.github.io/rules/env-or/401.04"
+  ],
+  "notation": "Env-Or 401",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html",
+  "prefLabel": "Env-Or 401 PURPOSE; APPLICABILITY; FEDERAL REGULATIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 401 PURPOSE; APPLICABILITY; FEDERAL REGULATIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html"
+}

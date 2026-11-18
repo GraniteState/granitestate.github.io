@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/602.30",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Living Shoreline Sill",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/602",
+  "definition": "Living shoreline sill",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 602.30",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 602.30 Living shoreline sill",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 602.30 “Living shoreline sill” means a low-elevation structure that is constructed parallel to the existing shoreline with the primary purpose of stabilizing the toe of a tidal marsh or coastal bank and which protects fringe marshes or banks that require a higher degree of stabilization at the seaward edge. Sills can be made of soft structural materials such as geotextiles or biologs made from coir fiber, or hard structural materials such as shell, wood, or stone.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

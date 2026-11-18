@@ -1,0 +1,24 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "definition": "Wetlands Programs (Formerly Wt indicating Wetlands Board. Wetlands Board was abolished effective 8-9-96 pursuant to 1996, 296:32, I. Rules Wt of the Wetlands Board remained in effect as rules of the Department of Environmental Services pursuant to 1996, 296:30, eff 8-9-96, and have been since readopted with amendments by the Commissioner.)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/100",
+    "https://granitestate.github.io/rules/env-wt/200",
+    "https://granitestate.github.io/rules/env-wt/300",
+    "https://granitestate.github.io/rules/env-wt/400",
+    "https://granitestate.github.io/rules/env-wt/500",
+    "https://granitestate.github.io/rules/env-wt/600",
+    "https://granitestate.github.io/rules/env-wt/700",
+    "https://granitestate.github.io/rules/env-wt/800",
+    "https://granitestate.github.io/rules/env-wt/900",
+    "https://granitestate.github.io/rules/env-wt/1000"
+  ],
+  "notation": "Env-Wt",
+  "prefLabel": "Env-Wt Wetlands Programs",
+  "recordType": "rule-agency",
+  "topConceptOf": "https://granitestate.github.io/rules/scheme"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2505.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(i)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2505",
+  "definition": "Certification of Incremental New Production",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2505.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2505.05 Certification of Incremental New Production",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2505.05 Certification of Incremental New Production.\n\n(a) A generation facility that uses biomass, methane, or hydroelectric technologies to produce energy shall be eligible to participate as a Class I source upon certification by the commission under this rule.\n\n(b) The commission shall certify a biomass, methane, or hydroelectric generation facility as an eligible Class I source under this rule when the applicant demonstrates completion of capital investments attributable to efficiency improvements, additions of capacity, or increased renewable energy output that are sufficient, were intended, and can be demonstrated to increase annual renewable electricity output.\n\n(c) The commission shall limit the certification of an applicant under this rule to the amount of incremental new production directly attributable to the new capital investments that formed the basis of the application.\n\n(d) A Class III source eligible as a Class I source may notify the commission that it elects to be a Class III source instead of Class I source. Once such notice is given, the commission shall notify the GIS administrator that the production from that source shall qualify for Class III certificates beginning with the immediately following quarter, provided the source meets the other requirements of a Class III eligible biomass technology.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

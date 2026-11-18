@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/210.04",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/210",
+  "definition": "Appearances",
+  "effectiveDate": "2017-01-27",
+  "historyNote": "(See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 210.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html",
+  "prefLabel": "Lot 210.04 Appearances",
+  "recordType": "rule-section",
+  "ruleText": "Lot 210.04 Appearances. A party or the party’s representative shall file an appearance that includes the following information:\n\n(a) A brief identification of the matter;\n\n(b) A statement as to whether or not the representative is an attorney and if so, whether the attorney is licensed to practice in New Hampshire; and\n\n(c) The party or representative's daytime address and telephone number.\n\nSource. (See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html"
+}

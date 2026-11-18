@@ -1,0 +1,69 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/609",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-C:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-F:11",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-11",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-F:13",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-13",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-C:4",
+      "paragraphs": [
+        "VIII"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-F/147-F-11",
+    "https://granitestate.github.io/rsa/147-F/147-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/600",
+  "definition": "CERTIFICATES OF COMPLETION OR NO FURTHER ACTION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/609.01",
+    "https://granitestate.github.io/rules/env-or/609.02"
+  ],
+  "notation": "Env-Or 609",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 609 CERTIFICATES OF COMPLETION OR NO FURTHER ACTION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 609 CERTIFICATES OF COMPLETION OR NO FURTHER ACTION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

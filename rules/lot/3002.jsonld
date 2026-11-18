@@ -1,0 +1,30 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/3002",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-I:1",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/3000",
+  "definition": "DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/3002.01",
+    "https://granitestate.github.io/rules/lot/3002.02",
+    "https://granitestate.github.io/rules/lot/3002.03",
+    "https://granitestate.github.io/rules/lot/3002.04",
+    "https://granitestate.github.io/rules/lot/3002.05",
+    "https://granitestate.github.io/rules/lot/3002.06",
+    "https://granitestate.github.io/rules/lot/3002.07"
+  ],
+  "notation": "Lot 3002",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot3000.html",
+  "prefLabel": "Lot 3002 DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 3002 DEFINITIONS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot3000.html"
+}

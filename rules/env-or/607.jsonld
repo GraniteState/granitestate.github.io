@@ -1,0 +1,65 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/607",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:3-a",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-3-a",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "146-C:11",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-11",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-A:9",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-B:10",
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-10",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "147-F:11",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-11",
+      "via": "inherited_chapter"
+    },
+    {
+      "citation": "485-C:1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-3-a",
+    "https://granitestate.github.io/rsa/146-C/146-C-11",
+    "https://granitestate.github.io/rsa/147-B/147-B-10",
+    "https://granitestate.github.io/rsa/147-F/147-F-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/600",
+  "definition": "GROUNDWATER MANAGEMENT PERMITS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/607.01",
+    "https://granitestate.github.io/rules/env-or/607.02",
+    "https://granitestate.github.io/rules/env-or/607.03",
+    "https://granitestate.github.io/rules/env-or/607.04",
+    "https://granitestate.github.io/rules/env-or/607.05",
+    "https://granitestate.github.io/rules/env-or/607.06",
+    "https://granitestate.github.io/rules/env-or/607.07",
+    "https://granitestate.github.io/rules/env-or/607.08",
+    "https://granitestate.github.io/rules/env-or/607.09",
+    "https://granitestate.github.io/rules/env-or/607.10",
+    "https://granitestate.github.io/rules/env-or/607.11",
+    "https://granitestate.github.io/rules/env-or/607.12"
+  ],
+  "notation": "Env-Or 607",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 607 GROUNDWATER MANAGEMENT PERMITS",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 607 GROUNDWATER MANAGEMENT PERMITS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

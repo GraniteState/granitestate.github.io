@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/3004",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-I:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-I:2",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-I:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-I:17",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/3000",
+  "definition": "DISPUTES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/3004.01",
+    "https://granitestate.github.io/rules/lot/3004.02"
+  ],
+  "notation": "Lot 3004",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot3000.html",
+  "prefLabel": "Lot 3004 DISPUTES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 3004 DISPUTES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot3000.html"
+}

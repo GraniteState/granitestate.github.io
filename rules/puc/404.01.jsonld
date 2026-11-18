@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/404.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362:2",
+      "source": "https://granitestate.github.io/rsa/362/362-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:7",
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:1",
+      "via": "appendix"
+    },
+    {
+      "citation": "378:3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-2",
+    "https://granitestate.github.io/rsa/362/362-7"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/404",
+  "definition": "Tariff for Wholesale Services",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 404.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 404.01 Tariff for Wholesale Services",
+  "recordType": "rule-section",
+  "ruleText": "Puc 404.01 Tariff for Wholesale Services.\n\n(a) Telephone utilities that offer wholesale services to other carriers shall maintain a complete tariff of such services with the commission pursuant to Puc 1600 for:\n\n(1) Services required by 47 U.S.C. § 251 (c);\n\n(2) Services referred to as tariffed in interconnection agreements filed pursuant to 47 U.S.C. § 252; and\n\n(3) Intrastate access service.\n\n(b) When a telephone utility's intrastate access tariff is the same as its interstate access tariff the interstate tariff may be filed pursuant to Puc 1600 as the intrastate tariff.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

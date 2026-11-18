@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/207.01",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "541-A:16",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30-a",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30-a",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16",
+    "https://granitestate.github.io/rsa/541-A/541-A-30-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/207",
+  "definition": "Date of Issuance or Filing",
+  "effectiveDate": "2017-01-27",
+  "historyNote": "(See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 207.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html",
+  "prefLabel": "Lot 207.01 Date of Issuance or Filing",
+  "recordType": "rule-section",
+  "ruleText": "Lot 207.01 Date of Issuance or Filing. All written documents governed by these rules shall be rebuttably presumed to have been issued on the date noted on the document and to have been filed with the commission on the actual date of receipt by the commission, as evidenced by a date stamp placed on the document by the commission in the normal course of business.\n\nSource. (See Revision Note #1 at chapter heading for Lot 200) #12093, eff 1-27-17 (See Revision Note #2 at chapter heading for Lot 200)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot200.html"
+}

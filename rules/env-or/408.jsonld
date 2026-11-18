@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/408",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "REPAIR, CLOSURE, REMOVAL",
+  "authority": [
+    {
+      "citation": "146-C",
+      "source": "https://granitestate.github.io/rsa/146-C",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-C"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/400",
+  "definition": "REPAIR; CLOSURE; REMOVAL",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/408.01",
+    "https://granitestate.github.io/rules/env-or/408.02",
+    "https://granitestate.github.io/rules/env-or/408.03",
+    "https://granitestate.github.io/rules/env-or/408.04",
+    "https://granitestate.github.io/rules/env-or/408.05",
+    "https://granitestate.github.io/rules/env-or/408.06",
+    "https://granitestate.github.io/rules/env-or/408.07",
+    "https://granitestate.github.io/rules/env-or/408.08",
+    "https://granitestate.github.io/rules/env-or/408.09",
+    "https://granitestate.github.io/rules/env-or/408.10",
+    "https://granitestate.github.io/rules/env-or/408.11"
+  ],
+  "notation": "Env-Or 408",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html",
+  "prefLabel": "Env-Or 408 REPAIR; CLOSURE; REMOVAL",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 408 REPAIR; CLOSURE; REMOVAL",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html"
+}

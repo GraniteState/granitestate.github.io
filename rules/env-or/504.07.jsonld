@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/504.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "Stage I System Testing Requirements",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/504",
+  "definition": "Required Stage I System Test Components",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.08)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 504.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 504.07 Required Stage I System Test Components",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 504.07 Required Stage I System Test Components. The owner or operator of a gasoline dispensing facility shall ensure that stage I system test procedures consist of the following:\n\n(a) A PV vent cap test for pressure and vacuum as specified in Env-Or 504.08;\n\n(b) A pressure decay test as specified in Env-Or 504.09; and\n\n(c) A submerged fill tube measurement to ensure and document that the requirements of Env-Or 503.01(b) are met.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.08)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1709",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "REVOCATION, SUSPENSION AND OTHER SANCTIONS",
+  "authority": [
+    {
+      "citation": "437:3",
+      "source": "https://granitestate.github.io/rsa/437/437-3",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1700",
+  "definition": "ISSUING A LICENSE",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1709.01"
+  ],
+  "notation": "Agr 1709",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html",
+  "prefLabel": "Agr 1709 ISSUING A LICENSE",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1709 ISSUING A LICENSE",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html"
+}

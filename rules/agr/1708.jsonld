@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1708",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "ISSUING A LICENSE",
+  "authority": [
+    {
+      "citation": "437:3",
+      "source": "https://granitestate.github.io/rsa/437/437-3",
+      "via": "appendix"
+    },
+    {
+      "citation": "437:4",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/437/437-3"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1700",
+  "definition": "FORMS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1708.01",
+    "https://granitestate.github.io/rules/agr/1708.02",
+    "https://granitestate.github.io/rules/agr/1708.03",
+    "https://granitestate.github.io/rules/agr/1708.04"
+  ],
+  "notation": "Agr 1708",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html",
+  "prefLabel": "Agr 1708 FORMS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1708 FORMS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1700.html"
+}

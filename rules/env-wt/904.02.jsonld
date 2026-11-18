@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/904.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Conditions Applicable to All Stream Crossing Work",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 904.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 904.02 Conditions Applicable to All Stream Crossing Work",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 904.02 Conditions Applicable to All Stream Crossing Work. All stream crossing work shall be subject to all applicable conditions in Env-Wt 307, and in particular:\n\n(a) In-stream work shall be done only during:\n\n(1) Low flow or dry conditions, in non-tidal areas; or\n\n(2) When the tide is seaward of the work area, in tidal areas; and\n\n(b) Work on stream crossings that requires any work in areas that are subject to flowing water shall maintain normal flows and prevent water quality degradation during the work by using best management practices, such as temporary by-pass pipes, culverts, or cofferdams.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

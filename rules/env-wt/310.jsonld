@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/310",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/300",
+  "definition": "SUBMISSIONS FOR EXPEDITED PERMITS (EXPs)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/310.01",
+    "https://granitestate.github.io/rules/env-wt/310.02",
+    "https://granitestate.github.io/rules/env-wt/310.03",
+    "https://granitestate.github.io/rules/env-wt/310.04",
+    "https://granitestate.github.io/rules/env-wt/310.05",
+    "https://granitestate.github.io/rules/env-wt/310.06",
+    "https://granitestate.github.io/rules/env-wt/310.07",
+    "https://granitestate.github.io/rules/env-wt/310.08"
+  ],
+  "notation": "Env-Wt 310",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html",
+  "prefLabel": "Env-Wt 310 SUBMISSIONS FOR EXPEDITED PERMITS (EXPs)",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 310 SUBMISSIONS FOR EXPEDITED PERMITS (EXPs)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html"
+}

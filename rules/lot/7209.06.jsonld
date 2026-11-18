@@ -1,0 +1,45 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7209.06",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:6",
+      "paragraphs": [
+        "I(g)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:14",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:17",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "287-D:18",
+      "via": "inherited_part"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7209",
+  "definition": "HHR Machine Specific Requirements",
+  "effectiveDate": "2026-02-04",
+  "expirationDate": "2036-02-04",
+  "historyNote": "#14341, EMERGENCY, eff 8-21-25; ss by #14503, eff 2-4-26, EXPIRES: 2-4-36 (formerly Lot 7209.03(k))",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Lot 7209.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7209.06 HHR Machine Specific Requirements",
+  "recordType": "rule-section",
+  "ruleText": "Lot 7209.06 HHR Machine Specific Requirements. In addition to the requirements of Lot 7209.03 above, each HHR machine shall comply with the following requirements:\n\n(a) The HHR machine shall use only race data from a pari-mutuel facility, within the United States or other regulatory jurisdictions recognized by the commission, licensed at the time the race was actually held;\n\n(b) The HHR machine shall provide race information that is current as of the day the horse race was actually run;\n\n(c) The HHR machine shall preclude the use of random elements to determine the outcome of a wager, other than the selection of a race or races from a database of races;\n\n(d) The licensee shall ensure that all HHR wagers and payout calculations are pari-mutuel in nature;\n\n(e) HHR wagers shall not include any interest of the licensee other than the authorized takeout and breakage retention;\n\n(f) The HHR machine shall derive the outcome of any wager placed on it from the result of one or more historic horse races;\n\n(g) All historic horse races shall be chosen at random from a database of actual, historic horse races having valid historic horse race results with details recorded at the same level as other races in the database, and include:\n\n(1) Horse names;\n\n(2) Race location;\n\n(3) Race date;\n\n(4) Jockey name or identifier;\n\n(5) Race number; and\n\n(6) Official order of finish;\n\n(h) In the case where a random number generator is used to select the historic horse races for a wager, all possible races or sets of races in the database for the currently specified pari-mutuel wager shall be available for selection;\n\n(i) All HHR machines shall:\n\n(1) Clearly identify the entertaining game theme, if any, being used to offer pari-mutuel wagers on historic horse races;\n\n(2) Make the following information available to the patron:\n\na. All paytable information, rules of play, and help screen information;\n\nb. The award that will be paid to the patron when the patron obtains a specific win; and\n\nc. The rules of any features or interactive functions that may occur as part of the entertaining display of the wager and its outcome;\n\n(3) Display the race data in graphic or other discernible format, and in a reasonable manner as to not discourage patrons who wish to handicap from doing so; and\n\n(4) Allows the patron to compare all of their picks against the true order of finish;\n\n(j) Prior to the patron making their wager selections, the HHR machine shall:\n\n(1) Make true and accurate past performance information available on each horse in each historic horse race; and\n\n(2) Not display any information that would allow the patron to identify the historic race on which the patron is wagering, including:\n\na. The location of the race;\n\nb. The date on which the race was run;\n\nc. The names of the horses in the race; or\n\nd. The names of the jockeys who rode the horses in the race;\n\n(k) In addition to the requirement of (j)(2) above, the HHR machine may also display the wager and its outcome as part of an entertaining display or game, provided the wager functions according to the pari-mutuel wagering pool specifications provided by the HHR licensee to the commission;\n\n(l) After the results of a patron’s wager are determined, the HHR machine shall display:\n\n(1) The patron’s selections;\n\n(2) The identity and official results of each race; and\n\n(3) A replay or recreation of the race or races, or a portion thereof, whether by digital, animated, or graphical depiction or by way of a video recording;\n\n(m) The video display required by (l)(3) above shall be of a size and quality that allows the player to view and determine the outcome of the horse race or races;\n\n(n) Approximate odds or payouts for each wagering pool shall be posted or made available on each HHR machine for viewing by patrons at intervals of no more than 90 seconds;\n\n(o) The display shall clearly indicate whether awards are designated in credits or currency;\n\n(p) All HHR machines shall display or otherwise make the following information available to the patron at all times the machine is available for patron wager input:\n\n(1) The patron’s current credit balance in currency or credits;\n\n(2) The current bet amount;\n\n(3) The amount won for the last completed game until the next game starts, or betting options are modified;\n\n(4) The patron options selected for the last completed game until the next game starts, or a new selection is made; and\n\n(5) An affixed disclaimer stating “Malfunction Voids All Pays” or some equivalent wording. This may be presented as a decal or sign on the HHR machine;\n\n(q) The default game display upon machine reset shall not exclusively show false winning outcomes;\n\n(r) Entertaining game features that simulate bonus or free games shall meet the following requirements:\n\n(1) The initiation of a bonus or free game shall only be based on the result of the wager placed by the patron on the result of the historic horse race selected for the wager;\n\n(2) The bonus or free game shall not require additional money to be wagered by the patron;\n\n(3) The entertaining display shall make it clear to the patron that the patron is in bonus mode to avoid the possibility of the patron unknowingly leaving the HHR machine while in a bonus mode; and\n\n(4) If the bonus or free game requires an input from the patron, the HHR machine shall provide a means to complete the bonus or free game from a touch screen or hard button;\n\n(s) Electronic metering displays shall:\n\n(1) At all times include all credits or cash available for the patron to wager or cash out unless the HHR machine is in an error or malfunction state. This information shall not be required when the patron is viewing a menu or help screen item;\n\n(2) Reflect the value of every prize at the end of a wager and add it to the patron’s credit meter, except for handpays; and\n\n(3) Show the cash value collected by the patron upon a cashout unless the HHR machine is in an error or malfunction state;\n\n(t) A wager is complete when the final transfer to the patron’s credit meter takes place or when all credits wagered are lost; and\n\n(u) HHR pools tied to a wide-area progressive link shall have a commission on such pools set at a rate of no greater than 20 percent.\n\nSource. #14341, EMERGENCY, eff 8-21-25; ss by #14503, eff 2-4-26, EXPIRES: 2-4-36 (formerly Lot 7209.03(k))",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/803.11",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/803",
+  "definition": "Notification of Decision on a Proposed In-Lieu Mitigation Payment",
+  "effectiveDate": "2023-10-13",
+  "historyNote": "(See Revision Note at part heading for Env-Wt 803) #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 803.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 803.11 Notification of Decision on a Proposed In-Lieu Mitigation Payment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 803.11 Notification of Decision on a Proposed In-Lieu Mitigation Payment.\n\n(a) For applicants proposing an in-lieu mitigation payment, the department shall issue a notice to the applicant and the municipality that shall include:\n\n(1) A calculation of the amount the applicant must pay prior to issuance of a permit as specified in Env-Wt 807.01; and\n\n(2) A statement that if the in-lieu mitigation payment is not paid as specified in Env-Wt 807.01, the department shall deny the permit.\n\n(b) If an applicant, who has been notified that a revised mitigation proposal is required, does not submit a revised mitigation proposal by the deadline specified in the notice or such longer time period as agreed to by the applicant and the department in accordance with RSA 482-A, the department shall deny the application.\n\nSource. (See Revision Note at part heading for Env-Wt 803) #11000, eff 2-1-16; ss by #12808, eff 12-15-19 (See Revision Notes #1 and #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/407.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "217-A",
+      "source": "https://granitestate.github.io/rsa/217-A",
+      "via": "appendix"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/217-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/407",
+  "definition": "Impact Classification Adjustments",
+  "effectiveDate": "2026-01-02",
+  "expirationDate": "2036-01-02",
+  "historyNote": "#12804, eff 12-15-19; amd by #13124, eff 10-23-20; ss by #14349, INTERIM, eff 8-26-25; ss by #14471, eff 1-2-26, EXPIRES: 1-2-36",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 407.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt400.html",
+  "prefLabel": "Env-Wt 407.02 Impact Classification Adjustments",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 407.02 Impact Classification Adjustments.\n\n(a) A project that impacts a PRA and that does not qualify for a project-type exception (PTE) under Env-Wt 407.04 shall be classified as a major project regardless of the size of the impact.\n\n(b) A project shall be classified as a minor or major project, as applicable based on the other qualifying criteria, regardless of the size of the impact if it does not qualify for a PTE under Env-Wt 407.04 and it impacts:\n\n(1) A perennial stream, unless otherwise classified in Env-Wt 900;\n\n(2) A marsh; or\n\n(3) A scrub-shrub wetland adjacent to a surface water that:\n\na. Is not located in a gravel pit, highway right-of-way, utility right-of-way, or residential or commercial development; or\n\nb. Contains at least 50 LF, measured parallel to the shoreline, of obligate wetland shrub species.\n\n(c) A project that is classified as a major project based solely on the documented occurrence of protected species or habitat and would otherwise qualify for an LSA, PBN, EXP, or as a standard minimum or minor impact project shall be processed as an LSA, PBN, EXP, or standard minimum or minor impact project, as applicable based on the other qualifying criteria, only if the applicant provides written documentation committing to implementation of recommendations from the ecological review section of the department regarding the protected species or habitat.\n\n(d) A project that is classified as a major project based solely on the documented occurrence of protected species or habitat shall be processed as a minimum impact project where the project would otherwise qualify as an SPN, only if the person responsible for the SPN project obtains recommendations from the ecological review section of the department regarding the protected species or habitat.\n\nSource. #12804, eff 12-15-19; amd by #13124, eff 10-23-20; ss by #14349, INTERIM, eff 8-26-25; ss by #14471, eff 1-2-26, EXPIRES: 1-2-36",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt400.html"
+}

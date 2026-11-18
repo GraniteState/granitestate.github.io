@@ -1,0 +1,32 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/316",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "541-A:30",
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/300",
+  "definition": "PERMIT SUSPENSION, REVOCATION, OR MODIFICATION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/316.01",
+    "https://granitestate.github.io/rules/env-wt/316.02",
+    "https://granitestate.github.io/rules/env-wt/316.03",
+    "https://granitestate.github.io/rules/env-wt/316.04",
+    "https://granitestate.github.io/rules/env-wt/316.05"
+  ],
+  "notation": "Env-Wt 316",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html",
+  "prefLabel": "Env-Wt 316 PERMIT SUSPENSION, REVOCATION, OR MODIFICATION",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 316 PERMIT SUSPENSION, REVOCATION, OR MODIFICATION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html"
+}

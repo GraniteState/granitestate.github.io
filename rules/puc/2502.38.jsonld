@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.38",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Thermal Biomass Renewable Energy Technologies",
+  "authority": [
+    {
+      "citation": "362-F:12",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-12",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-12",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Thermal biomass renewable energy technologies",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.36)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.38",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.38 Thermal biomass renewable energy technologies",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.38 “Thermal biomass renewable energy technologies” means facilities, comprised of one or more biomass units, that produce useful thermal energy using biomass as the fuel source, that began operation after January 1, 2013, and that:\n\n(a) If the biomass unit is rated between 3 and 30 MMBtu/hour design gross heat input, has a particulate emission rate from the unit that is less than or equal to 0.10 lbs/MMBtu;\n\n(b) If the biomass unit is rated equal to or greater than 30 MMBtu/hour design gross heat input, has a particulate emission rate from the unit that is less than or equal to 0.02 lbs/MMBtu as measured and verified by the department pursuant to RSA 362-F:12;\n\n(c) If the biomass unit is rated less than 100 MMBtu/hour design gross heat input, implements best management practices as established by the department; and\n\n(d) If the biomass unit is rated equal to or greater than 100 MMBtu/hour design gross heat input, has a quarterly average NOx emission rate that is no more than 0.075 lbs/MMBtu as measured and verified by the department pursuant to RSA 362-F:12.\n\nSource. #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.36)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

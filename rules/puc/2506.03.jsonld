@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2506.03",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:4",
+      "paragraphs": [
+        "I(k)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-4",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-4",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2506",
+  "definition": "Metering of Co-Fired Electric Generating Sources",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2506.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2506.03 Metering of Co-Fired Electric Generating Sources",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2506.03 Metering of Co-Fired Electric Generating Sources.\n\n(a) A co-fired source shall measure and verify electricity generation in accordance with the GIS operating rules effective October 1, 2017 and available at http://www.nepoolgis.com/wp-content/uploads/sites/3/2017/09/GIS-Operating-Rules-Effective-10-1-17.pdf?x41232, as specified in Appendix B, and shall use electric meters that satisfy the requirements of Puc 900.\n\n(b) For co-fired sources, the source shall calculate the portion of electricity generated from the combustion of Class I biomass fuels quarterly based on the heat input of the facility by measuring the energy content of each combusted fuel using the low heat value as combusted, the mass or volumetric input flow of each of the fuels combusted, and the total electricity produced.\n\n(c) For any Class I biomass fuel, the initial energy content shall be based on the average of a minimum of 5 samples of that fuel taken over the course of the initial quarter, or on the fuel supply contract for that fuel delivered in the initial quarter.\n\n(d) If all the values for the energy content from the samples are within 5 percent of the average value of the samples, on a dry basis, then beginning with the subsequent quarter, the co-fired source may use a value for energy content from annual sampling of the Class I biomass fuel.\n\nSource. #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

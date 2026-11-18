@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/2202",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "433:4",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "433:7",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/2200",
+  "definition": "PROHIBITED AND RESTRICTED NOXIOUS WEED SEEDS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/2202.01",
+    "https://granitestate.github.io/rules/agr/2202.02",
+    "https://granitestate.github.io/rules/agr/2202.03"
+  ],
+  "notation": "Agr 2202",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2200.html",
+  "prefLabel": "Agr 2202 PROHIBITED AND RESTRICTED NOXIOUS WEED SEEDS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 2202 PROHIBITED AND RESTRICTED NOXIOUS WEED SEEDS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr2200.html"
+}

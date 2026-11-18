@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/401.04",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "III",
+        "IV",
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "146-C:9",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/401",
+  "definition": "Date of Incorporated Federal Regulations",
+  "effectiveDate": "2018-10-10",
+  "historyNote": "#12643, eff 10-10-18 (See Revision Note #2 at chapter heading for Env-Or 400)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 401.04",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html",
+  "prefLabel": "Env-Or 401.04 Date of Incorporated Federal Regulations",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 401.04 Date of Incorporated Federal Regulations. Unless otherwise specified, references to 40 CFR within this chapter shall be to the 07-01-17 edition.\n\nSource. #12643, eff 10-10-18 (See Revision Note #2 at chapter heading for Env-Or 400)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or400.html"
+}

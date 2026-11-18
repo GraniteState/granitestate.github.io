@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/611.05",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:11-c",
+      "paragraphs": [
+        "V-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-F:11",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-F/147-F-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/611",
+  "definition": "Contaminated Soil Storage",
+  "effectiveDate": "2025-11-04",
+  "expirationDate": "2035-11-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 611.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 611.05 Contaminated Soil Storage",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 611.05 Contaminated Soil Storage.\n\n(a) NOCS or NCS exceeding the soil remediation standards in Table 600-2 awaiting off-site disposal may be temporarily stored at the site of origin for a period not to exceed 4 months.\n\n(b) NOCS or NCS shall be stored in a manner that prevents the soil from coming in contact with the ground, precipitation, and storm water run-off, for example on and covered with an impermeable material that is chemically compatible with the contamination.\n\n(c) The contaminated soil pile shall only be uncovered when contaminated soil is being added to or removed from the pile.\n\n(d) Public access to the contaminated soil pile storage area shall be restricted.\n\nSource. (See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15; ss by #14419, eff 11-4-25, EXPIRES: 11-4-35",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

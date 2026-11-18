@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/905.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Quarterly Reporting Required",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 905.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 905.09 Quarterly Reporting Required",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 905.09 Quarterly Reporting Required.\n\n(a) As required by RSA 482-A:3, XVIII, all individuals certified under this program shall submit a quarterly report to the department to fully identify the work performed in the prior quarter.\n\n(b) If more than one certified individual works on or supervises the same culvert project, each individual shall identify the project in her or his quarterly report.\n\n(c) Quarterly reporting periods and due dates for reports shall be as specified in Table 905-1, below:\n\nTable 905-1: Quarterly Reporting Periods with Corresponding Due Date for Report\n\nReporting Period | Report Due\n\nJanuary 1 through March 31 | April 15\n\nApril 1 through June 30 | July 15\n\nJuly 1 through September 30 | October 15\n\nOctober 1 through December 31 | January 15\n\n(d) Each quarterly report shall contain the following information for each culvert maintained, repaired, replaced, or modified during the reporting period:\n\n(1) The state or municipal public works agency for which the work was done;\n\n(2) The municipality in which the work was done;\n\n(3) The name or other identification of the public way that crosses the culvert;\n\n(4) The location of the culvert, as follows:\n\na. If the public way has numbered buildings along it, the numbers of the 2 closest buildings that bracket the culvert;\n\nb. If the public way has utility poles along it, the identification numbers of the 2 closest utility poles that bracket the culvert;\n\nc. If there are no numbered buildings or utility poles but the public way has mile markers, the numbers of the 2 closest markers that bracket the culvert;\n\nd. If none of the information identified in a. through c., above, is available, the distance from the culvert to the nearest identifiable intersection, to the nearest 0.1 mile, plus any other information that is helpful in locating the culvert; and\n\ne. If possible, the GPS latitude/longitude coordinate, as DDMMSS.s, of the road centerline at the culvert location, collected from any handheld device that is capable of receiving and displaying such information, together with the date and time of latitude/longitude point collection and the name and model of the unit on which the reported latitude/longitude point was collected;\n\n(5) Whether the culvert was maintained, repaired, replaced, or modified;\n\n(6) Whether the work was done as part of a planned routine maintenance procedure or was unexpected;\n\n(7) If the work was not part of a planned routine maintenance procedure, an assessment of what caused the culvert to need to be repaired, replaced, or modified;\n\n(8) The size, type, and condition of the culvert prior to the maintenance, repair, replacement, or modification;\n\n(9) The size, type, and condition of the culvert following the maintenance, repair, replacement, or modification; and\n\n(10) The latitude and longitude of the stream crossing.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

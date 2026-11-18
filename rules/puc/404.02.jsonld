@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/404.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/404",
+  "definition": "TRS",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.09)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 404.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 404.02 TRS",
+  "recordType": "rule-section",
+  "ruleText": "Puc 404.02 TRS.\n\n(a) ELECs and ILECs shall provide, directly or indirectly, telecommunications relay services pursuant to 47 C.F.R. § 64.603.\n\n(b) ELECs providing local service and ILECs shall remit the required TRS charges per customer ordered by the commission, on or before the 20th day of each month, to the TRS trustee account designated by the commission.\n\n(c) ELECs and ILECs shall provide the New Hampshire relay provider with all information necessary to ensure local calls placed through the TRS are not billed as toll calls and that toll calls placed through the TRS are not treated as local calls.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 404.09)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

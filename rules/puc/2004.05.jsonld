@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2004.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Environmental Disclosure",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2004",
+  "definition": "Factors to be Considered Regarding Sanctions",
+  "effectiveDate": "2026-05-13",
+  "expirationDate": "2036-05-13",
+  "historyNote": "#12372, eff 11-1-17 (from Puc 2005.01); ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2005.05)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2004.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html",
+  "prefLabel": "Puc 2004.05 Factors to be Considered Regarding Sanctions",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2004.05 Factors to be Considered Regarding Sanctions.\n\n(a) The amount of any fines to be assessed pursuant to RSA 374-F:7, III, the period and scope of any suspension under Puc 2004.02 or Puc 2004.03, as applicable, or the decision to revoke the registration of a CEPS or aggregator under Puc 2004.04, shall be determined based on consideration of the following factors:\n\n(1) The severity of the sanctionable event;\n\n(2) Whether the sanctionable event was unintentional or immaterial;\n\n(3) Whether the CEPS or aggregator acted in good faith to comply with all applicable statutory and regulatory requirements;\n\n(4) Mitigating circumstances, if any, with respect to the sanctionable event; and\n\n(5) Other relevant information pertaining to the business practices of the CEPS or aggregator and its principals.\n\n(b) For the purposes of this section, “mitigating circumstances” means facts, actions, or conditions which might excuse or justify a particular course of action.\n\nSource. #12372, eff 11-1-17 (from Puc 2005.01); ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2005.05)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html"
+}

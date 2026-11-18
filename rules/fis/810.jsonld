@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/810",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "207:14",
+      "source": "https://granitestate.github.io/rsa/207/207-14",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/207/207-14"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/800",
+  "definition": "EXHIBITION",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/fis/810.01",
+    "https://granitestate.github.io/rules/fis/810.02",
+    "https://granitestate.github.io/rules/fis/810.03",
+    "https://granitestate.github.io/rules/fis/810.04",
+    "https://granitestate.github.io/rules/fis/810.05",
+    "https://granitestate.github.io/rules/fis/810.06",
+    "https://granitestate.github.io/rules/fis/810.07"
+  ],
+  "notation": "Fis 810",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html",
+  "prefLabel": "Fis 810 EXHIBITION",
+  "recordType": "rule-part",
+  "ruleText": "PART Fis 810 EXHIBITION",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis800.html"
+}

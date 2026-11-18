@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/905.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Issuance of Certificate",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 905.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 905.06 Issuance of Certificate",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 905.06 Issuance of Certificate.\n\n(a) Within 10 working days of receiving a complete application as specified in Env-Wt 905.04(a), the department shall determine whether the information submitted demonstrates that the applicant meets the requirements for becoming a certified culvert maintainer specified in RSA 482-A:3, XVII - XIX and this part.\n\n(b) If the department determines that the applicant meets the requirements, the department shall issue a certificate that identifies the individual as a certified culvert maintainer.\n\n(c) As provided in RSA 482-A:3, XIX and subject to (d) and (e), below, certificates shall be issued for a 2-year term, from January 1 of the year of issue through December 31 of the following year.\n\n(d) An initial certificate shall be issued for a term that begins on the date of issuance and extends through December 31 of the year following the year of issuance.\n\n(e) A certificate shall remain valid for its full term provided the certified individual remains employed by a state or municipal public works agency, unless sooner suspended or revoked pursuant to Env-Wt 905.10.\n\n(f) If the department determines that the individual does not meet the requirements for becoming a certified culvert maintainer, the department shall send a written notice to the applicant that:\n\n(1) Specifies the reason(s) why the applicant was not certified; and\n\n(2) Informs the individual that an appeal may be taken as provided in RSA 21-O:14.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

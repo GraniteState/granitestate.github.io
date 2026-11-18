@@ -1,0 +1,58 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2004.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Billing",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:7",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A",
+      "source": "https://granitestate.github.io/rsa/541-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374-F/374-F-7",
+    "https://granitestate.github.io/rsa/541-A",
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2004",
+  "definition": "Commission Adjudication of Customer Complaint",
+  "effectiveDate": "2026-05-13",
+  "expirationDate": "2036-05-13",
+  "historyNote": "#12372, eff 11-1-17 (from Puc 2005.02); ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2005.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2004.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html",
+  "prefLabel": "Puc 2004.06 Commission Adjudication of Customer Complaint",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2004.06 Commission Adjudication of Customer Complaint.\n\n(a) Pursuant to Puc 203.06 and Puc 203.07, customer complaints transferred to the commission for adjudication shall be in the form of a petition.\n\n(b) Pursuant to RSA 541-A:31, RSA 365:4, and RSA 365:5, the commission shall commence an adjudicative proceeding to resolve the customer complaint petition against a CEPS or aggregator alleging that the CEPS or aggregator is not in compliance with the provisions of En 2000.\n\nSource. #12372, eff 11-1-17 (from Puc 2005.02); ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2005.07)\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html"
+}

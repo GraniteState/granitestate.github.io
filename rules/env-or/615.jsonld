@@ -1,0 +1,56 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/615",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "146-C:10",
+      "via": "appendix"
+    },
+    {
+      "citation": "147-A:17-a",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-17-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "485-C:18",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/147-A/147-A-17-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/600",
+  "definition": "FINES RELATING TO CONTAMINATED SITE MANAGEMENT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-or/615.01",
+    "https://granitestate.github.io/rules/env-or/615.02",
+    "https://granitestate.github.io/rules/env-or/615.03",
+    "https://granitestate.github.io/rules/env-or/615.04",
+    "https://granitestate.github.io/rules/env-or/615.05",
+    "https://granitestate.github.io/rules/env-or/615.06",
+    "https://granitestate.github.io/rules/env-or/615.07",
+    "https://granitestate.github.io/rules/env-or/615.08",
+    "https://granitestate.github.io/rules/env-or/615.09",
+    "https://granitestate.github.io/rules/env-or/615.10",
+    "https://granitestate.github.io/rules/env-or/615.11",
+    "https://granitestate.github.io/rules/env-or/615.12",
+    "https://granitestate.github.io/rules/env-or/615.13",
+    "https://granitestate.github.io/rules/env-or/615.14",
+    "https://granitestate.github.io/rules/env-or/615.15",
+    "https://granitestate.github.io/rules/env-or/615.16",
+    "https://granitestate.github.io/rules/env-or/615.17"
+  ],
+  "notation": "Env-Or 615",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 615 FINES RELATING TO CONTAMINATED SITE MANAGEMENT",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Or 615 FINES RELATING TO CONTAMINATED SITE MANAGEMENT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

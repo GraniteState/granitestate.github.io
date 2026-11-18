@@ -1,0 +1,97 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/602.34",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "Responsible Party",
+  "authority": [
+    {
+      "citation": "146-A:2",
+      "paragraphs": [
+        "III"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-A:11-c",
+      "source": "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:1",
+      "paragraphs": [
+        "VII-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "146-C:9",
+      "source": "https://granitestate.github.io/rsa/146-C/146-C-9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:2",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-A:3",
+      "source": "https://granitestate.github.io/rsa/147-A/147-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-B:2",
+      "paragraphs": [
+        "VII"
+      ],
+      "source": "https://granitestate.github.io/rsa/147-B/147-B-2",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "147-F:18",
+      "source": "https://granitestate.github.io/rsa/147-F/147-F-18",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:2",
+      "paragraphs": [
+        "XIII"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-C:4",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-H:13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/146-A/146-A-2",
+    "https://granitestate.github.io/rsa/146-A/146-A-11-c",
+    "https://granitestate.github.io/rsa/146-C/146-C-1",
+    "https://granitestate.github.io/rsa/146-C/146-C-9",
+    "https://granitestate.github.io/rsa/147-A/147-A-2",
+    "https://granitestate.github.io/rsa/147-A/147-A-3",
+    "https://granitestate.github.io/rsa/147-B/147-B-2",
+    "https://granitestate.github.io/rsa/147-F/147-F-18"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/602",
+  "definition": "Responsible party",
+  "effectiveDate": "2024-12-25",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15 (from Env-Or 602.26); ss by #14159, eff 12-25-24 (formerly Env-Or 602.29)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 602.34",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html",
+  "prefLabel": "Env-Or 602.34 Responsible party",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 602.34 “Responsible party” means any person subject to the strict liability provisions of RSA 146-A:3-a, RSA 147-A:9, RSA 146-C:11, or RSA 147-B:10, or any person required to perform an investigation or remediation pursuant to RSA 146-A, RSA 146-C, RSA 147-A, RSA 147-B, RSA 485, RSA 485-C, or RSA 485-H. For any site where there is more than one responsible party, the term includes all responsible parties or the point of contact, as applicable from the context of the rule where the term is used.\n\nSource. (See Revision Note at chapter heading for Env-Or 600) #8812, eff 2-1-07; ss by #10831, eff 6-1-15 (from Env-Or 602.26); ss by #14159, eff 12-25-24 (formerly Env-Or 602.29)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or600.html"
+}

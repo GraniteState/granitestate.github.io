@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/504.08",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "Required Stage I System Test Components",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/504",
+  "definition": "PV Vent Cap Test Procedures, Criteria, and Required Actions",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.09)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 504.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 504.08 PV Vent Cap Test Procedures, Criteria, and Required Actions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 504.08 PV Vent Cap Test Procedures, Criteria, and Required Actions.\n\n(a) The PV vent cap test for pressure and vacuum required by Env-Or 504.07(a) shall be conducted in accordance with California Air Resources Board (CARB) Vapor Recovery Test Procedure (TP) 201.1E, Leak Rate and Cracking Pressure of Pressure/Vacuum Vent Valves, dated October 8, 2003.\n\n(b) To pass the pressure and vacuum tests specified in (a), above, the:\n\n(1) Pressure relief point shall occur between 2.5 to 6.0 inches water column pressure;\n\n(2) The vacuum relief point shall occur between 6.0 to 10.0 inches water column pressure; and\n\n(3) The total leak rate of all PV vent caps at the facility shall not exceed 0.17 cubic feet per hour at a pressure of 2.0 inches water column and 0.63 cubic feet per hour at a vacuum of 4.0 inches water column.\n\n(c) If the PV vent cap fails either the pressure test or the vacuum test as specified in (a) and (b), above, the owner or operator shall replace the PV vent cap with a PV vent cap as specified in Env-Or 504.02(b) that passes the test requirements of (b), above.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.09)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

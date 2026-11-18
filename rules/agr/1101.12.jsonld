@@ -1,0 +1,55 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1101.12",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "altLabel": "Slow or Controlled Release Fertilizer",
+  "authority": [
+    {
+      "citation": "431:5",
+      "source": "https://granitestate.github.io/rsa/431/431-5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:6",
+      "source": "https://granitestate.github.io/rsa/431/431-6",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:7",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:8",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:9",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:10",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "431:13",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/431/431-5",
+    "https://granitestate.github.io/rsa/431/431-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1101",
+  "definition": "Slow or controlled release fertilizer",
+  "effectiveDate": "2024-11-26",
+  "expirationDate": "2034-11-26",
+  "historyNote": "#10464, eff 11-26-13, EXPIRED: 11-26-23 New. #13947, INTERIM, eff 4-30-24, EXPIRED: 10-27-24 New. #14128, eff 11-26-24, EXPIRES: 11-26-34",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Agr 1101.12",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html",
+  "prefLabel": "Agr 1101.12 Slow or controlled release fertilizer",
+  "recordType": "rule-section",
+  "ruleText": "Agr 1101.12 “Slow or controlled release fertilizer” means a fertilizer in which one or more of the nutrients have limited solubility in the soil solution, so that they become available to the growing plant over a period of time. The limited solubility might be an inherent characteristic of the fertilizer or can be imparted to a soluble fertilizer by coating the particle with such materials as waxes and plastics. A slow or controlled release fertilizer contains a plant nutrient in a form which delays its availability for plant uptake and use after application, or which extends its availability to the plant. Such delay of initial availability or extended time of continued availability can occur by a variety of mechanisms. These include controlled water solubility of the material by semi-permeable coatings, occlusion, or by inherent water insolubility of polymers, natural nitrogenous organics, protein materials, or other chemical forms, by slow hydrolysis of water soluble low molecular weight compounds, or by other unknown means.\n\nSource. #10464, eff 11-26-13, EXPIRED: 11-26-23\n\nNew. #13947, INTERIM, eff 4-30-24, EXPIRED: 10-27-24\n\nNew. #14128, eff 11-26-24, EXPIRES: 11-26-34",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html"
+}

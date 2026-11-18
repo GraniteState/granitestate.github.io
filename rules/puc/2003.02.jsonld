@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2003.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Renewal Registration of Competitive Electric Power Suppliers",
+  "authority": [
+    {
+      "citation": "365",
+      "source": "https://granitestate.github.io/rsa/365",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "378:49",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/365"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2003",
+  "definition": "Transfer of Customers Resulting from Unexpected Cessation of CEPS Service",
+  "effectiveDate": "2026-05-13",
+  "expirationDate": "2036-05-13",
+  "historyNote": "#12372, eff 11-1-17; ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2004.16)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2003.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html",
+  "prefLabel": "Puc 2003.02 Transfer of Customers Resulting from Unexpected Cessation of CEPS Service",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2003.02 Transfer of Customers Resulting from Unexpected Cessation of CEPS Service. In the event of suspension from regional market participation by ISO-NE or another event causing the CEPS to be unable to provide service to its customers within the state, the CEPS shall pay reparations for customers losses if ordered by the commission following a proceeding conducted in accordance with the Puc 200 rules.\n\nSource. #12372, eff 11-1-17; ss by #14576, eff 5-13-26, EXPIRES: 5-13-36 (formerly Puc 2004.16)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2000.html"
+}

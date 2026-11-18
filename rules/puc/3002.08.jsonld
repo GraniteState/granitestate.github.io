@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/3002.08",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Sanctionable Event",
+  "authority": [
+    {
+      "citation": "365:5",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:30",
+      "paragraphs": [
+        "II"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-30",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-30"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/3002",
+  "definition": "Sanctionable event",
+  "effectiveDate": "2026-06-05",
+  "expirationDate": "2036-06-05",
+  "historyNote": "#12757, eff 6-1-19; ss by #14613, eff 6-5-26, EXPIRES: 6-5-36 (formerly Puc 3002.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 3002.08",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html",
+  "prefLabel": "Puc 3002.08 Sanctionable event",
+  "recordType": "rule-section",
+  "ruleText": "Puc 3002.08 “Sanctionable event” means a CNGS or aggregator has:\n\n(a) Violated any provision of the rules included in this chapter or in En 3000;\n\n(b) Violated the requirements of RSA 12-P:15, I or any other provision of RSA Title XXXIV applicable to CNGS or aggregators; or\n\n(c) Engaged in any unfair or deceptive acts or practices in the marketing, sale, or solicitation of natural gas or related services.\n\nSource. #12757, eff 6-1-19; ss by #14613, eff 6-5-26, EXPIRES: 6-5-36 (formerly Puc 3002.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc3000.html"
+}

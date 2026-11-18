@@ -1,0 +1,44 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7213",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "V",
+        "VI",
+        "VIII",
+        "IX",
+        "XI",
+        "XII"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:23",
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "PENALTIES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7213.01",
+    "https://granitestate.github.io/rules/lot/7213.02",
+    "https://granitestate.github.io/rules/lot/7213.03",
+    "https://granitestate.github.io/rules/lot/7213.04",
+    "https://granitestate.github.io/rules/lot/7213.05",
+    "https://granitestate.github.io/rules/lot/7213.06",
+    "https://granitestate.github.io/rules/lot/7213.07",
+    "https://granitestate.github.io/rules/lot/7213.08",
+    "https://granitestate.github.io/rules/lot/7213.09"
+  ],
+  "notation": "Lot 7213",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7213 PENALTIES",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7213 PENALTIES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

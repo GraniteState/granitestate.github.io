@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.39",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Useful Thermal Energy",
+  "authority": [
+    {
+      "citation": "362-F:2",
+      "paragraphs": [
+        "XV-a"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-2",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Useful thermal energy",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.37)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.39",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.39 Useful thermal energy",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.39 “Useful thermal energy” means “useful thermal energy” as defined in RSA 362-F:2, XV-a, namely “renewable energy delivered from Class I sources that can be metered and that is delivered in New Hampshire to an end user in the form of direct heat, steam, hot water, or other thermal form that is used for heating, cooling, humidity control, process use, or other valid thermal end use energy requirements and for which fuel or electricity would otherwise be consumed.”\n\nSource. #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.37)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/1606.02",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "233-A:13",
+      "source": "https://granitestate.github.io/rsa/233-A/233-A-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10",
+    "https://granitestate.github.io/rsa/233-A/233-A-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/1606",
+  "definition": "Applicability",
+  "effectiveDate": "2023-03-24",
+  "historyNote": "#13584, eff 3-24-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 1606.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1600.html",
+  "prefLabel": "Fis 1606.02 Applicability",
+  "recordType": "rule-section",
+  "ruleText": "Fis 1606.02 Applicability. This part shall apply to any persons making donations to the department that are designated for deposit into the statewide public boat access fund, established by RSA 233-A:13.\n\nSource. #13584, eff 3-24-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis1600.html"
+}

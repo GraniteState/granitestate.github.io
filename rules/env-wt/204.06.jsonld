@@ -1,0 +1,39 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/204.06",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:26",
+      "paragraphs": [
+        "III(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-26",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:22",
+      "paragraphs": [
+        "IV"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-22",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-26",
+    "https://granitestate.github.io/rsa/541-A/541-A-22"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/204",
+  "definition": "Decisions",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#10366-A, eff 6-26-13 (from Env-Wt 204.05); ss by #12802, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 200); renumbered by #13948 (formerly Env-Wt 204.07)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 204.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt200.html",
+  "prefLabel": "Env-Wt 204.06 Decisions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 204.06 Decisions.\n\n(a) The department shall notify the requestor of the decision in writing. If the request is denied, the department shall identify the specific reason(s) for the denial.\n\n(b) If a waiver is granted, the department shall impose such conditions, including time limitations, as the department deems necessary to ensure that the activities conducted pursuant to the waiver will be consistent with the applicable criteria.\n\nSource. #10366-A, eff 6-26-13 (from Env-Wt 204.05); ss by #12802, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 200); renumbered by #13948 (formerly Env-Wt 204.07)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt200.html"
+}

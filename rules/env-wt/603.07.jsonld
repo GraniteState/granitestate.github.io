@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/603.07",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/603",
+  "definition": "Design Plans",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 603.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 603.07 Design Plans",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 603.07 Design Plans.\n\n(a) The applicant shall submit design plans for the project in both plan and elevational views that clearly depict and identify all required elements, as described in Env-Wt 311 and (b) and (c), below.\n\n(b) The plan view shall depict the following:\n\n(1) The engineering scale used, which shall be no larger than one inch equals 50 feet;\n\n(2) The location of tidal datum lines depicted as a line with the associated elevation noted, based on NAVD 88, derived from https://tidesandcurrents.noaa.gov/datum_options.html, as described in Env-Wt 603.08;\n\n(3) An imaginary extension of property boundary lines into the waterbody and a 20-foot setback from those property line extensions;\n\n(4) The location of all special aquatic sites at or within 100 feet of the subject property;\n\n(5) Existing bank contours;\n\n(6) The name and license number, if applicable, of each individual responsible for the plan, including:\n\na. The agent for tidal docking structures who determined elevations represented on plans; and\n\nb. The certified wetland scientist or qualified coastal professional who completed the CFA report and located the identified resources on the plan; and\n\n(7) The location and dimensions of all existing and proposed structures and landscape features on the property.\n\n(c) The elevational view shall depict the following:\n\n(1) The nature and slope of the shoreline;\n\n(2) The location and dimensions of all proposed structures, including permanent piers, pilings, float stop structures, ramps, floats, and dolphins; and\n\n(3) Water depths depicted as a line with associated elevation at highest observable tide, mean high tide, and mean low tide, and the date and tide height when the depths were measured.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

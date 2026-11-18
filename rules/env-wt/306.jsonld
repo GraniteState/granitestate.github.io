@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/306",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_chapter"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/300",
+  "definition": "ACTIVITIES REQUIRING A PERMIT OR OTHER AUTHORIZATION; REQUIRED PLANNING FOR ALL PROJECTS; WHEN ABUTTER NOTIFICATION REQUIRED",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/env-wt/306.01",
+    "https://granitestate.github.io/rules/env-wt/306.02",
+    "https://granitestate.github.io/rules/env-wt/306.03",
+    "https://granitestate.github.io/rules/env-wt/306.04",
+    "https://granitestate.github.io/rules/env-wt/306.05",
+    "https://granitestate.github.io/rules/env-wt/306.06"
+  ],
+  "notation": "Env-Wt 306",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html",
+  "prefLabel": "Env-Wt 306 ACTIVITIES REQUIRING A PERMIT OR OTHER AUTHORIZATION; REQUIRED PLANNING FOR ALL PROJECTS; WHEN ABUTTER NOTIFICATION REQUIRED",
+  "recordType": "rule-part",
+  "ruleText": "PART Env-Wt 306 ACTIVITIES REQUIRING A PERMIT OR OTHER AUTHORIZATION; REQUIRED PLANNING FOR ALL PROJECTS; WHEN ABUTTER NOTIFICATION REQUIRED",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt300.html"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/1907",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I",
+        "(j)"
+      ],
+      "via": "inherited_chapter"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/1900",
+  "definition": "EXPENSES NOT RECOVERABLE AS RATE CASE EXPENSES",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/puc/1907.01"
+  ],
+  "notation": "Puc 1907",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html",
+  "prefLabel": "Puc 1907 EXPENSES NOT RECOVERABLE AS RATE CASE EXPENSES",
+  "recordType": "rule-part",
+  "ruleText": "PART Puc 1907 EXPENSES NOT RECOVERABLE AS RATE CASE EXPENSES",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc1900.html"
+}

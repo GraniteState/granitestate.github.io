@@ -1,0 +1,35 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/307.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I(g)"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "374:28-a",
+      "source": "https://granitestate.github.io/rsa/374/374-28-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-28-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/307",
+  "definition": "Obligations",
+  "effectiveDate": "2024-10-25",
+  "expirationDate": "2034-10-25",
+  "historyNote": "#10603, eff 5-21-14; ss by #14106, eff 10-25-24, EXPIRES: 10-25-34 (formerly Puc 311.02) (see Revision Note at chapter heading for Puc 300)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 307.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc300.html",
+  "prefLabel": "Puc 307.02 Obligations",
+  "recordType": "rule-section",
+  "ruleText": "Puc 307.02 Obligations. When a utility is notified by ISO-NE that it must assume the load obligation of a CEPS, customer authorization to transfer service pursuant to Puc 307.01 shall not be required.\n\nSource. #10603, eff 5-21-14; ss by #14106, eff 10-25-24, EXPIRES: 10-25-34 (formerly Puc 311.02) (see Revision Note at chapter heading for Puc 300)\n\nAPPENDIX\n\nRule | Statute\n\nPuc 301.01 and Puc 301.02 | RSA 365:8, I(g); RSA 362:2; RSA 362:4-c\n\nPuc 302.01-Puc 302.08 | RSA 365:8, I(g)\n\nPuc 303.01 | RSA 374:15; RSA 378:1\n\nPuc 303.02 | RSA 365:8, I(g); RSA 374:1; RSA 374-F:3, I\n\nPuc 304.01-Puc 304.05 | RSA 365:8, I(g); RSA 374:8,13\n\nPuc 305.01-Puc 305.06 | RSA 365:8, I(g); RSA 374:5\n\nPuc 306.01-Puc 306.06 | RSA 365:8, I(g)\n\nPuc 307.01 and Puc 307.02 | RSA 365:8, I(g); RSA 374:28-a",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc300.html"
+}

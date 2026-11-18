@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2502.18",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Eligible Electric Biomass Technologies",
+  "authority": [
+    {
+      "citation": "362-F:2",
+      "paragraphs": [
+        "VIII"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-2",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-2",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2502",
+  "definition": "Eligible electric biomass technologies",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.17)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2502.18",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2502.18 Eligible electric biomass technologies",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2502.18 “Eligible electric biomass technologies” means electric generating technologies that use biomass fuels as their primary fuel, provided that the generation unit:\n\n(a) Has a quarterly average nitrogen oxide (NOX) emission rate for the hours in the calendar quarter during which the device generated electricity of less than or equal to 0.075 pounds/million British thermal units (lbs/MMBtu), and either has a particulate emission rate of less than or equal to 0.02 lbs/MMBtu as measured and verified under RSA 362-F:12, or is participating in a plan approved by the department under RSA 362-F:11, IV for reductions in particulate matter emissions from other emission sources comparable to the difference between the generation unit's particulate matter emissions rate and the 0.02 lbs/MMBtu rate; and\n\n(b) Uses any fuel other than the primary fuel only for start-up, maintenance, or other required internal needs.\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18 (formerly Puc 2502.17)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

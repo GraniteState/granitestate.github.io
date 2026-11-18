@@ -1,0 +1,40 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/807.01",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:3",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-3",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:28",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-3",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/807",
+  "definition": "Submittal of In-Lieu Mitigation Payment",
+  "effectiveDate": "2023-10-13",
+  "historyNote": "#8062, eff 3-13-04; ss by #8341, eff 4-25-05 (See Revision Note at chapter heading of Env-Wt 800); ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16 (formerly Env-Wt 806.01); ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 807.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html",
+  "prefLabel": "Env-Wt 807.01 Submittal of In-Lieu Mitigation Payment",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 807.01 Submittal of In-Lieu Mitigation Payment.\n\n(a) For a project for which the department has notified the applicant of the acceptance of a proposed in- lieu mitigation payment as specified in Env-Wt 803.11(a), the department shall not issue the permit until the applicant has remitted the full amount of the in-lieu mitigation payment as specified in the notice.\n\n(b) If the applicant does not remit the full amount of the in-lieu mitigation payment within 120 days of the date of the notice or such longer time as is agreed to by the applicant and the department, the department shall deny the application.\n\n(c) The department shall deposit all in-lieu mitigation payments into the ARM Fund established by RSA 482-A:29 as follows:\n\n(1) For each payment deposited, the department shall credit the payment to the service area that contains the jurisdictional area(s) impacted by the project;\n\n(2) The department shall account for payments made for stream impact projects separately from payments made for wetland impact projects;\n\n(3) For a project that impacts jurisdictional area(s) in more than one service area, the department shall allocate the payment among the service areas in proportion to impacts; and\n\n(4) For a project having both stream impacts and wetland impacts, the department shall allocate the payment to wetland impacts and stream impacts in proportion to impacts.\n\nSource. #8062, eff 3-13-04; ss by #8341, eff 4-25-05 (See Revision Note at chapter heading of Env-Wt 800); ss by #8911, eff 6-20-07; ss by #11000, eff 2-1-16 (formerly Env-Wt 806.01); ss by #12808, eff 12-15-19 (See Revision Note #2 at chapter heading for Env-Wt 800); ss by #13774, eff 10-13-23",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt800.html"
+}

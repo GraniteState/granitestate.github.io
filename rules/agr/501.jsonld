@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/501",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "425:21-a",
+      "via": "statutory_authority"
+    },
+    {
+      "citation": "541-A:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "statutory_authority"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/500",
+  "definition": "WEEKLY MARKET BULLETIN PURPOSE AND DEFINITIONS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/501.01",
+    "https://granitestate.github.io/rules/agr/501.02",
+    "https://granitestate.github.io/rules/agr/501.04",
+    "https://granitestate.github.io/rules/agr/501.12",
+    "https://granitestate.github.io/rules/agr/501.14"
+  ],
+  "notation": "Agr 501",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr500.html",
+  "prefLabel": "Agr 501 WEEKLY MARKET BULLETIN PURPOSE AND DEFINITIONS",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 501 WEEKLY MARKET BULLETIN PURPOSE AND DEFINITIONS\n\nREVISION NOTE:\n\nDocument #6039, effective 7-1-95, made extensive additions to the rules in Part Agr 501 and readopted other rules which had expired, and made some amendments. Document #6039 added sections Agr 501.11 and Agr 501.18 through Agr 501.26. Document #6039 supersedes all prior filings for the sections in this part. The prior filings for rules within former Part Agr 501 include the following documents:\n\n#1236, eff 11-1-78\n\n#1847, eff 11-1-81\n\n#2521, eff 11-1-83\n\n#2540, eff 11-21-83\n\n#4429, eff 6-1-88\n\n#4853, eff 6-28-90\n\nThe following rules now contained in Document #6039 were out of effect between June 1, 1994 and July 1, 1995:",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr500.html"
+}

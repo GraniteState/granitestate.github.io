@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/504.09",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "altLabel": "PV Vent Cap Test Procedures, Criteria, and Required Actions",
+  "authority": [
+    {
+      "citation": "125-C:6",
+      "paragraphs": [
+        "XIV"
+      ],
+      "source": "https://granitestate.github.io/rsa/125-C/125-C-6",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/125-C/125-C-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/504",
+  "definition": "Pressure Decay Test Procedures, Criteria, and Required Actions",
+  "effectiveDate": "2023-10-07",
+  "historyNote": "(See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.10)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 504.09",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html",
+  "prefLabel": "Env-Or 504.09 Pressure Decay Test Procedures, Criteria, and Required Actions",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 504.09 Pressure Decay Test Procedures, Criteria, and Required Actions.\n\n(a) The pressure decay test required by Env-Or 504.07(b) shall be performed:\n\n(1) Following the PV vent cap test specified in Env-Or 504.08; and\n\n(2) In accordance with CARB TP-201.3, as amended July 26, 2012, except that the test shall be performed at 10 inches water column pressure and include any couplers, adapters, reducers and/or non-mechanical fittings in the test.\n\n(b) To pass the pressure decay test, the minimum allowable final pressure after the system has been pressurized to 10 inches water column and held for 5 minutes shall be as specified in Table 500-1, below:\n\nTable 500-1 Minimum Allowable Pressure\n\nUllage (gallons) | Minimum Allowable Pressure (inches water column) | Ullage (gallons) | Minimum Allowable Pressure (inches water column)\n\n500 | 3.70 | 5,000 | 9.30\n\n600 | 4.50 | 6,000 | 9.38\n\n700 | 5.20 | 7,000 | 9.46\n\n800 | 5.80 | 8,000 | 9.52\n\n900 | 6.20 | 9,000 | 9.56\n\n1,000 | 6.50 | 10,000 | 9.60\n\n1,250 | 7.05 | 11,000 | 9.62\n\n1,500 | 7.50 | 12,000 | 9.64\n\n1,750 | 7.90 | 13,000 | 9.66\n\n2,000 | 8.20 | 14,000 | 9.68\n\n2,250 | 8.35 | 15,000 | 9.70\n\n2,500 | 8.50 | 16,000 | 9.71\n\n2,750 | 8.60 | 17,000 | 9.71\n\n3,000 | 8.70 | 18,000 | 9.72\n\n3,250 | 8.80 | 19,000 | 9.73\n\n3,500 | 8.90 | 20,000 | 9.73\n\n3,750 | 9.00 | 21,000 | 9.74\n\n4,000 | 9.10 | 22,000 | 9.75\n\n4,250 | 9.15 | 23,000 | 9.75\n\n4,500 | 9.20 | 24,000 | 9.76\n\n4,750 | 9.25 | 25,000 | 9.77\n\n(c) If the stage I system does not pass the pressure decay test, the owner or operator shall undertake such repairs as are necessary and retest until the stage I system passes the test.\n\nSource. (See Revision Note #1 and Revision Note #2 at chapter heading for Env-Or 500) #10229, eff 11-17-12; ss by #13458, eff 10-7-23 (formerly Env-Or 504.10)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or500.html"
+}

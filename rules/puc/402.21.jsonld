@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/402.21",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Transfer of Customer Base",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:1-a",
+      "source": "https://granitestate.github.io/rsa/374/374-1-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:28-a",
+      "source": "https://granitestate.github.io/rsa/374/374-28-a",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-1-a",
+    "https://granitestate.github.io/rsa/374/374-28-a"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/402",
+  "definition": "Transfer of customer base",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 402.21",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 402.21 Transfer of customer base",
+  "recordType": "rule-section",
+  "ruleText": "Puc 402.21 \"Transfer of customer base\" means the acquisition through a sale or transfer of all or a part of the customer base of another carrier.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/407.01",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    },
+    {
+      "citation": "374:28-a",
+      "source": "https://granitestate.github.io/rsa/374/374-28-a",
+      "via": "appendix"
+    },
+    {
+      "citation": "641",
+      "source": "https://granitestate.github.io/rsa/641",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/374/374-28-a",
+    "https://granitestate.github.io/rsa/641"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/407",
+  "definition": "Form T-4 Transfer of Customer Base Report",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 409.04)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 407.01",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 407.01 Form T-4 Transfer of Customer Base Report",
+  "recordType": "rule-section",
+  "ruleText": "Puc 407.01 Form T-4 Transfer of Customer Base Report. In connection with any transfer of customer base in which the acquiring carrier is a telephone utility, the acquiring carrier shall file a copy with the commission and the department the \"Transfer of Customer Base Report\" form pursuant to En 404.10. The “Transfer of Customer Base Report” shall include:\n\n(a) Utility filing information for the selling or transferring company;\n\n(b) Utility filing information for the acquiring company;\n\n(c) The number of New Hampshire customers affected;\n\n(d) The effective date of the transfer; and\n\n(e) An attached the department’s form En Form T-1 “Contact and Trade Name Information”, for the acquiring company, if the acquiring company is a telephone utility, as specified in En 408.02.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24 (formerly Puc 409.04)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

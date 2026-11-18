@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/902.06",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Customer’s Own Electricity Requirements",
+  "authority": [
+    {
+      "citation": "362-A:9",
+      "paragraphs": [
+        "X"
+      ],
+      "source": "https://granitestate.github.io/rsa/362-A/362-A-9",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-A/362-A-9"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/902",
+  "definition": "“Customer’s Own Electricity Requirements” shall include the electricity consumed in conjunction with or to operate the facility",
+  "effectiveDate": "2020-09-14",
+  "historyNote": "#13080, eff 9-14-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 902.06",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc900.html",
+  "prefLabel": "Puc 902.06 “Customer’s Own Electricity Requirements” shall include the electricity consumed in conjunction with or to operate the facility",
+  "recordType": "rule-section",
+  "ruleText": "Puc 902.06 “Customer’s Own Electricity Requirements” shall include the electricity consumed in conjunction with or to operate the facility.\n\nSource. #13080, eff 9-14-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc900.html"
+}

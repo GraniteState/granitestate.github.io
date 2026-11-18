@@ -1,0 +1,43 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/408.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362:7",
+      "paragraphs": [
+        "III(c)"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-7",
+      "via": "appendix"
+    },
+    {
+      "citation": "362:8",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/362/362-8",
+      "via": "appendix"
+    },
+    {
+      "citation": "365:8",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362/362-7",
+    "https://granitestate.github.io/rsa/362/362-8"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/408",
+  "definition": "Denial of Interconnection Requests",
+  "effectiveDate": "2024-07-25",
+  "historyNote": "(See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 408.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html",
+  "prefLabel": "Puc 408.05 Denial of Interconnection Requests",
+  "recordType": "rule-section",
+  "ruleText": "Puc 408.05 Denial of Interconnection Requests.\n\n(a) A carrier may submit a request for interconnection at a technically feasible point not listed in Puc 408.04 (c).\n\n(b) A carrier whose request for interconnection at a point not listed in Puc 408.04 (c) is denied by an ILEC shall be permitted to petition the commission for a hearing as to whether the denial should be reversed.\n\n(c) The commission shall reverse an ILEC's denial of a carrier's request for interconnection at a point not listed in Puc 408.04 (c) unless the ILEC proves that interconnection at that point is not technically feasible.\n\n(d) The commission’s review of whether an interconnection at a point not listed in Puc 408.04 (c) is technically feasible shall include a review of previous successful interconnection at the particular point using particular facilities, or at substantially similar points in networks employing substantially similar facilities, and shall constitute substantial evidence of technical feasibility for interconnection at a particular point.\n\nSource. (See Revision Note # 1, Revision Note #2, and Revision Note #3 at chapter heading for Puc 400) #14029, eff 7-25-24\n\nAPPENDIX",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc400.html"
+}

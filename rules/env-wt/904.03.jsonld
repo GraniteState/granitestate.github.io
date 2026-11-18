@@ -1,0 +1,33 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/904.03",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Tier 1 Stream Crossings",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 904.03",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 904.03 Tier 1 Stream Crossings",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 904.03 Tier 1 Stream Crossings.\n\n(a) A tier 1 stream crossing shall be a crossing located on a watercourse where the contributing watershed is less than or equal to 200 acres.\n\n(b) Tier 1 stream crossings shall:\n\n(1) Meet the general design considerations specified in Env-Wt 904.01;\n\n(2) Be sized so as to accommodate the greater of:\n\na. The 50-year design storm; or\n\nb. Applicable federal, state, or local requirements; and\n\n(3) Be a span structure, pipe arch, open-bottom culvert, or closed-bottom culvert, with or without being embedded with stream simulation.\n\n(c) An applicant may propose a design that does not meet the criteria of (b)(1) or (b)(2)a., above, by submitting a request for approval of an alternate design as specified in Env-Wt 904.10. In accordance with Env-Wt 903.01(f)(1)a., a project that includes a request to approve an alternative design for a tier 1 stream crossing shall be a minor impact project.\n\n(d) An existing legal crossing that would be classified as tier 1 under (a), above, may be repaired or replaced in-kind as specified in Env-Wt 904.08 pursuant to:\n\n(1) A routine roadway maintenance SPN as specified in Env-Wt 308.04 or registration as specified in Env-Wt 309.03; or\n\n(2) If the crossing is part of a trail, a trail SPN as described in Env-Wt 308.04.\n\n(e) Compensatory mitigation shall not be required for any tier 1 minimum impact project.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

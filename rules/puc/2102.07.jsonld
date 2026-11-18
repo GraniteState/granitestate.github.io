@@ -1,0 +1,42 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2102.07",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "altLabel": "Distribution System Information",
+  "authority": [
+    {
+      "citation": "365:8",
+      "paragraphs": [
+        "I(h)"
+      ],
+      "via": "inherited_part"
+    },
+    {
+      "citation": "366",
+      "source": "https://granitestate.github.io/rsa/366",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "374-F:4",
+      "source": "https://granitestate.github.io/rsa/374-F/374-F-4",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/366",
+    "https://granitestate.github.io/rsa/374-F/374-F-4"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2102",
+  "definition": "Distribution system information",
+  "effectiveDate": "2026-04-15",
+  "expirationDate": "2036-04-15",
+  "historyNote": "#7884-A, eff 5-2-03, EXPIRED: 5-2-11 New. #9921, eff 5-3-11; ss by #10909, eff 8-8-15 (from Puc 2102.07); ss by #14556, eff 4-15-26, EXPIRES: 4-15-36 (formally Puc 2012.06)",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2102.07",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html",
+  "prefLabel": "Puc 2102.07 Distribution system information",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2102.07 “Distribution system information” means information concerning the specific location or characteristics of part or all of the utility’s distribution system or other non-customer-specific non-public information that is not available on an equivalent basis to non-affiliated competitors.\n\nSource. #7884-A, eff 5-2-03, EXPIRED: 5-2-11\n\nNew. #9921, eff 5-3-11; ss by #10909, eff 8-8-15 (from Puc 2102.07); ss by #14556, eff 4-15-26, EXPIRES: 4-15-36 (formally Puc 2012.06)",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2100.html"
+}

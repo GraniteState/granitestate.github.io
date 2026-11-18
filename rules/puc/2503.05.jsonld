@@ -1,0 +1,31 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2503.05",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:7",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2503",
+  "definition": "Certificate Banking",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#10741, eff 12-5-14 (from Puc 2503.04); ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2503.05",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2503.05 Certificate Banking",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2503.05 Certificate Banking.\n\n(a) Except as provided in paragraphs (b) through (d) below, certificates obtained in compliance with this chapter shall be used to comply with the portfolio standards for the year in which the energy represented by the certificate was produced.\n\n(b) A provider of electricity may bank unused certificates and thereafter use them to comply with the portfolio standards for the 2 years following the year in which the energy was produced pursuant to (c) below.\n\n(c) An owner of certificates may bank unused certificates by filing with the commission the following:\n\n(1) By July 1 of each year, information regarding the total amount of excess certificates by class to be banked for future compliance years; and\n\n(2) By July 31 of each year, the report titled “My Settled Certificates Disposition,” issued by GIS to the owner indicating the total number of certificates owned and settled for the prior year.\n\n(d) No provider of electricity shall meet more than 30 percent of its portfolio standards for any individual class in any given year with certificates acquired pursuant to paragraph (b).\n\nSource. #10741, eff 12-5-14 (from Puc 2503.04); ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

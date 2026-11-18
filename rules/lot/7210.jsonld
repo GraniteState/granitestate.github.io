@@ -1,0 +1,46 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/lot/7210",
+  "@type": "Concept",
+  "agencyCode": "Lot",
+  "authority": [
+    {
+      "citation": "287-D:3",
+      "paragraphs": [
+        "XV"
+      ],
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:15",
+      "via": "appendix"
+    },
+    {
+      "citation": "287-D:22",
+      "paragraphs": [
+        "VII(a)"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "broader": "https://granitestate.github.io/rules/lot/7200",
+  "definition": "SURVEILLANCE SYSTEMS REQUIREMENTS",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/lot/7210.01",
+    "https://granitestate.github.io/rules/lot/7210.02",
+    "https://granitestate.github.io/rules/lot/7210.03",
+    "https://granitestate.github.io/rules/lot/7210.04",
+    "https://granitestate.github.io/rules/lot/7210.05",
+    "https://granitestate.github.io/rules/lot/7210.06",
+    "https://granitestate.github.io/rules/lot/7210.07",
+    "https://granitestate.github.io/rules/lot/7210.08",
+    "https://granitestate.github.io/rules/lot/7210.09"
+  ],
+  "notation": "Lot 7210",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html",
+  "prefLabel": "Lot 7210 SURVEILLANCE SYSTEMS REQUIREMENTS",
+  "recordType": "rule-part",
+  "ruleText": "PART Lot 7210 SURVEILLANCE SYSTEMS REQUIREMENTS",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/lot7200.html"
+}

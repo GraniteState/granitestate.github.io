@@ -1,0 +1,38 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/fis/601.11",
+  "@type": "Concept",
+  "agencyCode": "Fis",
+  "altLabel": "Approved Electronic Tracking Device",
+  "authority": [
+    {
+      "citation": "206:10",
+      "paragraphs": [
+        "I"
+      ],
+      "source": "https://granitestate.github.io/rsa/206/206-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "211:62",
+      "paragraphs": [
+        "V"
+      ],
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/206/206-10"
+  ],
+  "broader": "https://granitestate.github.io/rules/fis/601",
+  "definition": "Approved electronic tracking device",
+  "effectiveDate": "2024-02-21",
+  "historyNote": "#13891, eff 2-21-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Fis 601.11",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis600.html",
+  "prefLabel": "Fis 601.11 Approved electronic tracking device",
+  "recordType": "rule-section",
+  "ruleText": "Fis 601.11 “Approved electronic tracking device” means an electronic device approved by the Atlantic States Marine Fisheries Commission to track vessel location and collect and transmit spatial data to the Atlantic States Marine Fisheries Commission’s Atlantic Coastal Cooperative Statistics Program in compliance with Addendum XXIX to the Interstate Fishery Management Plan for American Lobster and Addendum IV to the Interstate Fishery Management Plan for Jonah Crabs.\n\nSource. #13891, eff 2-21-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/fis600.html"
+}

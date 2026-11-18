@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-or/306.10",
+  "@type": "Concept",
+  "agencyCode": "Env-Or",
+  "authority": [
+    {
+      "citation": "146-A:1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "541-A:16",
+      "paragraphs": [
+        "I(b)"
+      ],
+      "source": "https://granitestate.github.io/rsa/541-A/541-A-16",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/541-A/541-A-16"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-or/306",
+  "definition": "Follow-up for Inventory Monitoring and Exterior and Interior Inspections",
+  "effectiveDate": "2024-10-04",
+  "historyNote": "(See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Or 306.10",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html",
+  "prefLabel": "Env-Or 306.10 Follow-up for Inventory Monitoring and Exterior and Interior Inspections",
+  "recordType": "rule-section",
+  "ruleText": "Env-Or 306.10 Follow-up for Inventory Monitoring and Exterior and Interior Inspections.\n\n(a) If inventory monitoring conducted pursuant to Env-Or 306.03 suggests that a leak is occurring or if any inspection conducted pursuant to Env-Or 306.07 through Env-Or 306.09 reveals any condition which suggests that a failure of primary or secondary containment or of monitoring equipment is imminent and could result in a discharge of oil or in a failure to detect a discharge of oil, including that the tank or piping is not fit for service as determined pursuant to API 653, API 2610, API 2611, or STI SP001, as applicable, the owner shall immediately implement measures to prevent a discharge, by:\n\n(1) Repairing or taking out of service each component that is causing or contributing to the adverse condition; and\n\n(2) Conducting additional testing in accordance with Env-Or 306.13 if the cause of the condition is not obvious.\n\n(b) If inventory monitoring or any inspection reveals that a discharge has occurred, the owner shall:\n\n(1) Notify the department in accordance with Env-Or 604; and\n\n(2) Implement an appropriate preliminary response action in accordance with Env-Or 605.\n\n(c) If any inspection conducted pursuant to Env-Or 306.07 reveals any deficiency other than those conditions identified in (a), above, or separated or swollen insulation, the deficiency shall be repaired within 30 days and the repair noted on the log or record kept pursuant to Env-Or 306.07(c).\n\n(d) If an inspection conducted pursuant to Env-Or 306.07 reveals separation or swelling of tank insulation or piping insulation, the inspector shall:\n\n(1) Remove the separated or swollen insulation;\n\n(2) Inspect the underlying tank or piping as specified in Env-Or 306.07(a)(1); and\n\n(3) Repair or replace the insulation, or otherwise protect the underlying tank or piping from exposure to corrosive conditions, within 30 days.\n\n(e) If inspection conducted pursuant to (d), above, or Env-Or 306.08 reveals significant corrosion, the corroded areas shall be evaluated and addressed as specified in STI SP001, API 2610, or API 2611, as applicable.\n\nSource. (See Revision Note at chapter heading for Env-Or 300) #10487, eff 2-7-14; ss by #14094, eff 10-4-24",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-or300.html"
+}

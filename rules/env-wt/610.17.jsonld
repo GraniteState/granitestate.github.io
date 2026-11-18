@@ -1,0 +1,51 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/610.17",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "authority": [
+    {
+      "citation": "212-A",
+      "source": "https://granitestate.github.io/rsa/212-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "485-A",
+      "source": "https://granitestate.github.io/rsa/485-A",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "487",
+      "source": "https://granitestate.github.io/rsa/487",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/212-A",
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B",
+    "https://granitestate.github.io/rsa/485-A",
+    "https://granitestate.github.io/rsa/487"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/610",
+  "definition": "Project Classifications",
+  "effectiveDate": "2020-01-22",
+  "historyNote": "#12806, eff 12-15-19; amd by #12976, eff 1-22-20",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 610.17",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 610.17 Project Classifications",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 610.17 Project Classifications.\n\n(a) A major project shall be:\n\n(1) Any dredging, filling, or construction activity, or any combination thereof, that is proposed to:\n\na. Occur within 100 feet of the HOTL; and\n\nb. Alter any tidal shoreline bank, tidal flat, wetlands, surface water, or undeveloped uplands; or\n\n(2) A project that would be major based on an aggregation of projects under Env-Wt 400.\n\n(b) A minor project shall be any dredging, filling, or construction activity, or any combination thereof, that:\n\n(1) Involves work within 75 feet of a saltmarsh in the developed upland tidal buffer;\n\n(2) Is not a major project; and\n\n(3) Will disturb 3,000 SF or more but less than 10,000 SF in the developed upland tidal buffer.\n\n(c) A minimum impact project shall be any dredging, filling, or construction activity, or any combination thereof, that:\n\n(1) Is in a previously developed upland area;\n\n(2) Is within 100 feet of the HOTL; and\n\n(3) Will disturb less than 3,000 SF.\n\nSource. #12806, eff 12-15-19; amd by #12976, eff 1-22-20",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}

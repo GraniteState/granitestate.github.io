@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/puc/2503.02",
+  "@type": "Concept",
+  "agencyCode": "Puc",
+  "authority": [
+    {
+      "citation": "362-F:10",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-10",
+      "via": "appendix"
+    },
+    {
+      "citation": "362-F:13",
+      "source": "https://granitestate.github.io/rsa/362-F/362-F-13",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/362-F/362-F-10",
+    "https://granitestate.github.io/rsa/362-F/362-F-13"
+  ],
+  "broader": "https://granitestate.github.io/rules/puc/2503",
+  "definition": "Alternative Compliance Payments",
+  "effectiveDate": "2018-02-01",
+  "historyNote": "#9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08 New. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Puc 2503.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html",
+  "prefLabel": "Puc 2503.02 Alternative Compliance Payments",
+  "priorExpiration": "2008-05-25",
+  "recordType": "rule-section",
+  "ruleText": "Puc 2503.02 Alternative Compliance Payments.\n\n(a) In lieu of meeting the portfolio standards of RSA 362-F:3 and Puc 2503.01(a)(1) for a given year, if and to the extent sufficient certificates are not otherwise available at a price below the amounts specified in RSA 362-F:10, II and III, a provider of electricity shall make the appropriate alternative compliance payment to the commission at the rates established by RSA 362-F:10, II and III and calculated by the commission.\n\n(b) On or before January 31 of each year, the commission shall establish that year’s alternative compliance payment rate for each class as directed by RSA 362-F:10, III.\n\n(c) The commission shall publish its schedule of alternative compliance payment rates established pursuant to this part on the commission’s web site.\n\n(d) A provider of electricity shall remit alternative compliance payments for each year by the following July 1 as specified by Puc 2503.03(b).\n\nSource. #9037, INTERIM, eff 11-27-07, EXPIRED: 5-25-08\n\nNew. #9169, eff 6-3-08; ss by #10741, eff 12-5-14; ss by #12473, eff 2-1-18",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/puc2500.html"
+}

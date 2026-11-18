@@ -1,0 +1,29 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/agr/1106",
+  "@type": "Concept",
+  "agencyCode": "Agr",
+  "authority": [
+    {
+      "citation": "431:6",
+      "source": "https://granitestate.github.io/rsa/431/431-6",
+      "via": "appendix"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/431/431-6"
+  ],
+  "broader": "https://granitestate.github.io/rules/agr/1100",
+  "definition": "INSPECTION FEE AND SEMI-ANNUAL TONNAGE REPORT",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "narrower": [
+    "https://granitestate.github.io/rules/agr/1106.01",
+    "https://granitestate.github.io/rules/agr/1106.02"
+  ],
+  "notation": "Agr 1106",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html",
+  "prefLabel": "Agr 1106 INSPECTION FEE AND SEMI-ANNUAL TONNAGE REPORT",
+  "recordType": "rule-part",
+  "ruleText": "PART Agr 1106 INSPECTION FEE AND SEMI-ANNUAL TONNAGE REPORT",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/agr1100.html"
+}

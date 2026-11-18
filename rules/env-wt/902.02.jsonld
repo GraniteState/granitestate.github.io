@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/902.02",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Aquatic Organism",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "482-A:11",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-11",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/482-A/482-A-11"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/902",
+  "definition": "Aquatic organism",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12809, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 902.02",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html",
+  "prefLabel": "Env-Wt 902.02 Aquatic organism",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 902.02 “Aquatic organism” means any plant or animal species that spends at least a portion of its life-cycle submerged in fresh water, salt water, or both. The term includes but is not limited to fish, amphibians, reptiles, and macroinvertebrates. The term does not include any exotic aquatic weed as defined in RSA 487:16, II, reprinted in Appendix C, or any exotic aquatic species of wildlife as defined in RSA 487:16, I-a, reprinted in Appendix C, that has been identified by the exotic aquatic weeds and species committee pursuant to RSA 487:30.\n\nSource. #12809, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt900.html"
+}

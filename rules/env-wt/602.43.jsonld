@@ -1,0 +1,34 @@
+{
+  "@context": "https://granitestate.github.io/kb/context.jsonld",
+  "@id": "https://granitestate.github.io/rules/env-wt/602.43",
+  "@type": "Concept",
+  "agencyCode": "Env-Wt",
+  "altLabel": "Qualified Coastal Professional",
+  "authority": [
+    {
+      "citation": "482-A:1",
+      "source": "https://granitestate.github.io/rsa/482-A/482-A-1",
+      "via": "inherited_part"
+    },
+    {
+      "citation": "483-B",
+      "source": "https://granitestate.github.io/rsa/483-B",
+      "via": "inherited_part"
+    }
+  ],
+  "authorizedBy": [
+    "https://granitestate.github.io/rsa/482-A/482-A-1",
+    "https://granitestate.github.io/rsa/483-B"
+  ],
+  "broader": "https://granitestate.github.io/rules/env-wt/602",
+  "definition": "“Qualified coastal professional” for the purposes of conducting coastal functional assessments means a certified wetland scientist, professional engineer, or co",
+  "effectiveDate": "2019-12-15",
+  "historyNote": "#12806, eff 12-15-19",
+  "inScheme": "https://granitestate.github.io/rules/scheme",
+  "notation": "Env-Wt 602.43",
+  "officialHtml": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html",
+  "prefLabel": "Env-Wt 602.43 “Qualified coastal professional” for the purposes of conducting coastal functional assessments means a certified wetland scientist, professional engineer, or co",
+  "recordType": "rule-section",
+  "ruleText": "Env-Wt 602.43 “Qualified coastal professional” for the purposes of conducting coastal functional assessments means a certified wetland scientist, professional engineer, or coastal scientist who has knowledge, based on education and experience, of coastal environments and systems that is sufficient to enable the individual to competently evaluate coastal resources.\n\nSource. #12806, eff 12-15-19",
+  "source": "https://github.com/GraniteState/adm-rules-data/blob/1c92d82e0f03a582ca5b7a578588edf38de2318e/raw/2026-11-15/state_agencies/env-wt600.html"
+}
