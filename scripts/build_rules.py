@@ -419,20 +419,44 @@ def publishable(rule: dict, codes: set[str]) -> bool:
 
 
 def parent_of(rule: dict, by_id: dict[str, dict]) -> str | None:
+    """Parent heading in the same prefix.
+
+    The source sometimes leaves a chapter or part pointer aimed at a
+    different agency. Those pointers are not followed. A same-prefix part
+    or chapter is used when the record has one, otherwise the number is
+    used to find He-P 301 under He-P 300.
+    """
+    prefix, number = rule["id"].split(" ", 1)
     if rule["level"] == "chapter":
         return None
-    if rule["level"] == "part":
-        chapter = rule.get("chapter")
-        if chapter in by_id and by_id[chapter]["level"] == "chapter":
-            return chapter
-        return None
-    part = rule.get("part")
-    if part in by_id:
-        return part
-    chapter = rule.get("chapter")
-    if chapter in by_id:
+
+    def usable(candidate: str | None, level: str) -> str | None:
+        if not candidate or candidate not in by_id:
+            return None
+        if candidate.split(" ", 1)[0] != prefix:
+            return None
+        if by_id[candidate]["level"] != level:
+            return None
+        if candidate == rule["id"]:
+            return None
+        return candidate
+
+    if rule["level"] == "section":
+        part = usable(rule.get("part"), "part")
+        if part:
+            return part
+    chapter = usable(rule.get("chapter"), "chapter")
+    if chapter:
         return chapter
-    return None
+    major = number.split(".", 1)[0]
+    if not major.isdigit():
+        return None
+    if rule["level"] == "section":
+        part = usable(f"{prefix} {major}", "part")
+        if part:
+            return part
+    rounded = str((int(major) // 100) * 100)
+    return usable(f"{prefix} {rounded}", "chapter")
 
 
 def write_text(path: Path, text: str) -> None:
